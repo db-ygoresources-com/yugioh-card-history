@@ -1,0 +1,15 @@
+{
+  "id": 10040,
+  "type": "monster",
+  "name": "Camaracople",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta ataca a un monstruo boca arriba en el Campo, al comienzo del Damage Step: destruye ese monstruo. Su DEF debe ser mayor que el ATK de esta carta para activar y resolver este efecto.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

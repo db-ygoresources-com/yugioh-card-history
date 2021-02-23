@@ -1,0 +1,18 @@
+{
+  "id": 11615,
+  "type": "monster",
+  "name": "Artistamico Stregone Pendulum",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio fino a 2 carte che controlli; distruggile e, se lo fai, aggiungi mostri \"Artistamico\" con nomi diversi dal tuo Deck alla tua mano, eccetto \"Artistamico Stregone Pendulum\", pari al numero di carte distrutte. Puoi utilizzare questo effetto di \"Artistamico Stregone Pendulum\" una sola volta per turno.",
+  "pendEffect": "Se uno o più mostri \"Artistamico\" vengono Evocati Pendulum sul tuo Terreno: tutti i mostri \"Artistamico\" che controlli attualmente guadagnano 1000 ATK fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

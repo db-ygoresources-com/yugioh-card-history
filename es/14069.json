@@ -1,0 +1,15 @@
+{
+  "id": 14069,
+  "type": "monster",
+  "name": "¡Peligro! ¡Hombre Polilla!",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes mostrar esta carta en tu mano; tu adversario elige al azar 1 carta en toda tu mano, y después descartas la carta elegida. Después, si la carta descartada no fue \"¡Peligro! ¡Hombre Polilla!\", Invoca de Modo Especial, desde tu mano, 1 \"¡Peligro! ¡Hombre Polilla!\" y, si lo haces, roba 1 carta. Si esta carta es descartada: puedes hacer que ambos jugadores roben 1 carta, y después ambos jugadores descartan 1 carta. Sólo puedes usar este efecto de \"¡Peligro! ¡Hombre Polilla!\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

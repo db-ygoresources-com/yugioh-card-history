@@ -1,0 +1,15 @@
+{
+  "id": 5891,
+  "type": "monster",
+  "name": "Hada Espinosa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Tu adversario no puede atacar a monstruos Insecto. Si esta carta batalló con un monstruo, al final del Damage Step: cambia ese monstruo a Posición de Defensa.",
+  "level": 4,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15269,
+  "type": "monster",
+  "name": "Dracoon Lamp",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Once per turn (Quick Effect): You can discard 1 Wyrm monster; this card gains 1000 DEF until the end of this turn. Once per battle, during damage calculation, if this Attack Position card battles an Attack Position monster (Quick Effect): You can apply each card's DEF for damage calculation.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Wyrm",
+    "Effect"
+  ]
+}

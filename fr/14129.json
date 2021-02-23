@@ -1,0 +1,18 @@
+{
+  "id": 14129,
+  "type": "monster",
+  "name": "Pisty Dragarde",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre Dragon de max. Niveau 4\nVous ne pouvez pas Invoquer Spécialement de monstres (monstres Dragon exclus). Durant votre Main Phase : vous pouvez cibler 1 de vos monstres Dragon qui sont bannis ou dans votre Cimetière ; Invoquez-le Spécialement dans votre zone pointée par min. 2 Monstres Lien. Vous ne pouvez utiliser cet effet de \"Pisty Dragarde\" qu'une fois par tour. Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Pisty Dragarde\" qu'une fois par tour.",
+  "linkRating": 1,
+  "linkArrows": [
+    "6"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Dragon",
+    "Lien",
+    "Effet"
+  ]
+}

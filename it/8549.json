@@ -1,0 +1,16 @@
+{
+  "id": 8549,
+  "type": "monster",
+  "name": "Genex Alleato Telecomando",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, puoi scegliere 1 mostro Tuner scoperto sul Terreno. Il nome del mostro scelto viene considerato come \"Genex Controllore\" fino alla End Phase.",
+  "level": 3,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Macchina",
+    "Tuner",
+    "Effetto"
+  ]
+}

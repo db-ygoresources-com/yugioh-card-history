@@ -1,0 +1,15 @@
+{
+  "id": 8901,
+  "type": "monster",
+  "name": "Guerrier Laval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsque cette carte détruit un monstre de votre adversaire au combat : infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit. Vous devez avoir min. 4 monstres \"Laval\" de noms différents dans votre Cimetière pour activer et résoudre cet effet.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

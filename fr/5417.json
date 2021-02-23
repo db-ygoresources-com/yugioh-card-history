@@ -1,0 +1,15 @@
+{
+  "id": 5417,
+  "type": "monster",
+  "name": "Grand Dezard",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les effets suivants sont activés consécutivement, lorsque ce monstre détruit le nombre de monstres indiqué ci-après à l'issue d'un combat:\nUn : Tant que cette carte reste face recto sur le Terrain, annulez l'activation et les effets de toutes les Cartes Magie et Piège qui désignent cette carte comme cible, et détruisez-les.\nDeux : Vous pouvez faire l'Invocation Spéciale d'1 \"Fushioh Richie\" depuis votre main ou votre Deck en sacrifiant cette carte durant votre Main Phase.",
+  "level": 6,
+  "atk": 1900,
+  "def": 2300,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

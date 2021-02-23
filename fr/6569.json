@@ -1,0 +1,17 @@
+{
+  "id": 6569,
+  "type": "monster",
+  "name": "Dragon Cyber Laser",
+  "oldName": "Cyber Dragon Laser",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "notes": "Nom de carte actualisé de \"Cyber Dragon Laser\". (La version imprimée n'est pas encore disponible.)",
+  "effectText": "Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut pas être Invoquée par Invocation Spéciale, excepté par \"Unité de Génération Photonique\". Une fois par tour, vous pouvez détruire 1 monstre avec une ATK ou une DEF supérieure ou égale à l'ATK de cette carte.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

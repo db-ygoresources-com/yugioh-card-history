@@ -1,0 +1,21 @@
+{
+  "id": 14672,
+  "type": "monster",
+  "name": "Abominación Desencadenada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ monstruos incluyendo un Monstruo de Enlace\nSi una o más cartas en el Campo son destruidas por un efecto de carta, excepto por \"Abominación Desencadenada\" (excepto durante el Damage Step): puedes seleccionar 1 carta en el Campo; destrúyela. Cuando otro monstruo es destruido en batalla: puedes seleccionar 1 carta en el Campo; destrúyela. Durante la End Phase: puedes seleccionar 1 carta en el Campo; destrúyela. Sólo puedes usar cada efecto de \"Abominación Desencadenada\" una vez por turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

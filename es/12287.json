@@ -1,0 +1,15 @@
+{
+  "id": 12287,
+  "type": "monster",
+  "name": "Asaltorrapaz - Lanius Doloroso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser usado como Material Xyz para una Invocación Xyz, excepto para la Invocación Xyz de un monstruo de Tipo Bestia Alada. Si esta carta está en tu mano: puedes seleccionar 1 monstruo \"Asaltorrapaz\" que controles y que tenga un Nivel; recibes daño igual a su ATK o DEF (el que sea menor, y tú decides si hay empate) y, si lo haces, Invoca esta carta de Modo Especial y, si haces eso, el Nivel de esta carta se convierte en el Nivel en este momento de ese monstruo seleccionado. Sólo puedes usar este efecto de \"Asaltorrapaz - Lanius Doloroso\" una vez por turno.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

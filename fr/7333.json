@@ -1,0 +1,15 @@
+{
+  "id": 7333,
+  "type": "monster",
+  "name": "Protecteur des Océans",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en dommages de combat aux Life Points de votre adversaire. Lorsque cette carte est détruite au combat, ajoutez 1 \"Méduse aux Mille Yeux\" or 1 \"Poisson Encéphale\" depuis votre Deck à votre main.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11718,
+  "type": "monster",
+  "name": "Quimera Atemorizante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 monstruos \"Atemorizante\"\nDebe ser Invocada por Fusión y no puede ser Invocada de Modo Especial de otra forma. Si esta carta batalla, tu adversario no puede activar cartas o efectos hasta el final del Damage Step. Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes Invocar ese monstruo de Modo Especial a tu Campo, pero su ATK se divide a la mitad. Sólo puedes usar este efecto de \"Quimera Atemorizante\" una vez por turno. Esta carta gana 300 ATK por cada monstruo que controles cuyo dueño sea tu adversario.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

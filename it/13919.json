@@ -1,0 +1,15 @@
+{
+  "id": 13919,
+  "type": "monster",
+  "name": "Squadra Due-per-Uno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi far mostrare ad entrambi i giocatori 1 carta dalla loro mano e, se entrambe le carte mostrate sono lo stesso tipo di carta, applica 1 di questi effetti, a seconda del tipo.\n●Mostro: Ogni giocatore può Evocare Specialmente il suo mostro.\n●Magia: Ogni giocatore pesca 2 carte.\n●Trappola: Ogni giocatore manda esattamente 2 carte dal suo Deck al suo Cimitero.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

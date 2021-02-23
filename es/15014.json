@@ -1,0 +1,15 @@
+{
+  "id": 15014,
+  "type": "monster",
+  "name": "Loptr, Sombra de los Jefes Geneincursores",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Sólo puedes controlar 1 \"Loptr, Sombra de los Jefes Geneincursores\". Todos los monstruos \"Geneincursor\" que controlas ganan 1000 ATK/DEF sólo durante el turno de tu adversario. Durante la Main Phase (Efecto Rápido): puedes Sacrificar 1 monstruo \"Geneincursor\"; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Geneincursor\" de Nivel 9 con un nombre diferente. Sólo puedes usar este efecto de \"Loptr, Sombra de los Jefes Geneincursores\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

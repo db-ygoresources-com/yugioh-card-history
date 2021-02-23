@@ -1,0 +1,15 @@
+{
+  "id": 6590,
+  "type": "monster",
+  "name": "Roi-Machine Prototype",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte gagne 100 ATK/DEF pour chaque monstre de Type Machine (cette carte exclue) sur le Terrain.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

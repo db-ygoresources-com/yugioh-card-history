@@ -1,0 +1,15 @@
+{
+  "id": 10148,
+  "type": "monster",
+  "name": "Force de la Prophétie",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour : vous pouvez mélanger 1 Carte Magie \"Livre de Magie\" depuis votre Cimetière dans votre Deck pour cibler 1 monstre de Type Magicien face recto sur le Terrain ; augmentez son Niveau de 1 et son ATK de 500.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

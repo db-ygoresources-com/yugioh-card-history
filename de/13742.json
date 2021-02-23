@@ -1,0 +1,16 @@
+{
+  "id": 13742,
+  "type": "monster",
+  "name": "Cyberse-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Cynet-Ritual“ als Ritualbeschwörung beschwören. Schaden, den du erhältst, wird halbiert. (Du kannst denselben Schaden nicht zweimal auf diese Art halbieren.) Solange du ein Linkmonster kontrollierst, können Monster, die dein Gegner kontrolliert, Monster, die du kontrollierst, nicht als Ziel für Angriffe wählen, außer diesem, zusätzlich kann dein Gegner Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, außer diesem. Falls diese Karte gegen ein Linkmonster kämpft, erhält sie nur während der Schadensberechnung 1000 ATK. Falls diese Karte, die dir gehört, durch einen Karteneffekt eines Gegners zerstört wird: Du kannst deiner Hand 1 Cyberse-Monster von deinem Deck hinzufügen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Ritual",
+    "Effekt"
+  ]
+}

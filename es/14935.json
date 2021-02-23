@@ -1,0 +1,20 @@
+{
+  "id": 14935,
+  "type": "monster",
+  "name": "Simorgh, Ave de la Soberanía",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2+ monstruos, incluyendo un monstruo Bestia Alada\nNo puede ser usado como Material de Enlace. Tu adversario no puede seleccionar con efectos de cartas esta carta o uno o más monstruos Bestia Alada a los que esta carta apunte. Si esta carta fuera a ser destruida en batalla, puedes destruir otra carta \"Simorgh\" que controles en su lugar. Durante la End Phase: puedes Invocar de Modo Especial 1 monstruo Bestia Alada desde tu mano o Deck, con un Nivel igual o menor al número total de Zonas de Magia y Trampas no usadas en el Campo. Sólo puedes usar este efecto de \"Simorgh, Ave de la Soberanía\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Bestia Alada",
+    "Enlace",
+    "Efecto"
+  ]
+}

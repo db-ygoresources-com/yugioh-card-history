@@ -1,0 +1,18 @@
+{
+  "id": 13395,
+  "type": "monster",
+  "name": "Bashilisk, Bête Mythique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Vous pouvez retirer 3 Compteurs Magie depuis votre Terrain ; renvoyez 1 carte \"Bête Mythique\" depuis votre Zone Pendule ou face recto depuis votre Extra Deck à la main. Vous ne pouvez utiliser cet effet de \"Bashilisk, Bête Mythique\" qu'une fois par tour.",
+  "pendEffect": "Si vous n'avez aucune carte dans votre autre Zone Pendule : vous pouvez détruire cette carte, et si vous le faites, mélangez 1 Monstre Pendule Magicien face recto (\"Bashilisk, Bête Mythique\" exclu) depuis votre Extra Deck dans votre Main Deck, puis piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Bashilisk, Bête Mythique\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

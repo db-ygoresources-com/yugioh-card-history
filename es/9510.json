@@ -1,0 +1,16 @@
+{
+  "id": 9510,
+  "type": "monster",
+  "name": "T.G. Helibélula",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1 monstruo que no sea Cantante\nUna vez por turno: puedes seleccionar otro Monstruo de Sincronía \"T.G.\" que controles; mándalo al Cementerio y después, si todos los Monstruos de Sincronía que fueron usados para su Invocación por Sincronía están en tu Cementerio, puedes Invocar a todos de Modo Especial.",
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Insecto",
+    "Sincronía",
+    "Efecto"
+  ]
+}

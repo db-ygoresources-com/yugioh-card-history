@@ -1,0 +1,18 @@
+{
+  "id": 14488,
+  "type": "monster",
+  "name": "Babosa Azul Marincesa",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "1 monstruo \"Marincesa\" de Nivel 4 o menor\nSi esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo \"Marincesa\" en tu Cementerio, excepto \"Babosa Azul Marincesa\"; añádelo a tu mano y además, por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos de AGUA. Sólo puedes Invocar por Enlace a \"Babosa Azul Marincesa\" una vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

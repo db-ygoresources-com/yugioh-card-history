@@ -1,0 +1,15 @@
+{
+  "id": 15392,
+  "type": "monster",
+  "name": "Feuerstein-Dame",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du ein Krieger-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst diese Karte vom Spielfeld auf den Friedhof legen; beschwöre 1 Krieger-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand und falls du dies tust, kann dein Gegner es in diesem Spielzug nicht als Ziel für Karteneffekte wählen. Du kannst jeden Effekt von „Feuerstein-Dame“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

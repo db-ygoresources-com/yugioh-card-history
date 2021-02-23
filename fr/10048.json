@@ -1,0 +1,15 @@
+{
+  "id": 10048,
+  "type": "monster",
+  "name": "Dragon Hiératique de Sutekh",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 3 Monstres Normaux de Type Dragon depuis votre Cimetière. Une fois par tour : vous pouvez bannir 1 monstre de Type Dragon depuis votre Cimetière pour cibler 1 carte sur le Terrain ; détruisez la cible.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

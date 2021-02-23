@@ -1,0 +1,16 @@
+{
+  "id": 10460,
+  "type": "monster",
+  "name": "Fischborg-Bogenschütze",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich diese Karte während einer deiner Main Phasen in deinem Friedhof befindet und du keine Monster kontrollierst: Du kannst 1 WASSER Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof, aber zerstöre am Beginn der Battle Phase dieses Spielzugs alle Monster, die du kontrollierst, außer WASSER Monstern. Du kannst den Effekt von „Fischborg-Bogenschütze“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Fisch",
+    "Empfänger",
+    "Effekt"
+  ]
+}

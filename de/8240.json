@@ -1,0 +1,16 @@
+{
+  "id": 8240,
+  "type": "monster",
+  "name": "Jurassier-Brachis",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange ein anderes offenes „Jurassier“-Monster auf dem Spielfeld liegt, kann diese Karte nicht durch Kampf zerstört werden.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Dinosaurier",
+    "Empfänger",
+    "Effekt"
+  ]
+}

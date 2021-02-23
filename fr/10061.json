@@ -1,0 +1,15 @@
+{
+  "id": 10061,
+  "type": "monster",
+  "name": "Oni à la Tête Rouge",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Spécialement depuis le Cimetière par l'effet d'un monstre de Type Zombie : vous pouvez cibler 1 monstre de Type Zombie face recto que vous contrôlez ; détachez 1 Matériel Xyz d'un monstre sur le Terrain, et si vous le faites, augmentez le Niveau du monstre ciblé de 1 et son ATK de 300 (même si les conditions de ciblage ne sont plus remplies).",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

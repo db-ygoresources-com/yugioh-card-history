@@ -1,0 +1,15 @@
+{
+  "id": 5138,
+  "type": "monster",
+  "name": "Escarabajo Bombardero",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "VOLTEO: Toma y mira 1 Carta de Monstruo boca abajo en Posición de Defensa en el Campo de tu adversario. Si es un Monstruo de Efecto, destruyelo (su Efecto de Volteo no se activa), y si la carta no lo es, devuelvela a su posición original.",
+  "level": 2,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

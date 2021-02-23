@@ -1,0 +1,17 @@
+{
+  "id": 11629,
+  "type": "monster",
+  "name": "Sincrón Acelerado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nUna vez por turno: puedes mandar al Cementerio 1 monstruo \"Sincrón\" (o \"Sincronizador\") en tu Deck, y después activar 1 de estos efectos;\n●Aumenta el Nivel de esta carta en el Nivel del monstruo mandado.\n●Reduce el Nivel de esta carta en el Nivel del monstruo mandado.\nDurante la Main Phase de tu adversario, puedes (Efecto Rápido): inmediatamente después de que se resuelva este efecto, Invocar por Sincronía usando esta carta que controlas. Sólo puedes Invocar por Sincronía a \"Sincrón Acelerado\" una vez por turno.",
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

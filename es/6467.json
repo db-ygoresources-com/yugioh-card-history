@@ -1,0 +1,16 @@
+{
+  "id": 6467,
+  "type": "monster",
+  "name": "HÉROE Elemental Shining Flare Wingman",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"HÉROE Elemental de la Llama Wingman\" + \"HÉROE Elemental Sparkman\"\nDebe ser Invocado por Fusión. Gana 300 ATK por cada carta \"HÉROE Elemental\" en tu Cementerio. Si esta carta destruye un monstruo en batalla y lo manda al Cementerio: inflige daño a tu adversario igual al ATK original en el Cementerio de ese monstruo.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

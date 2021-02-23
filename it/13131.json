@@ -1,0 +1,19 @@
+{
+  "id": 13131,
+  "type": "monster",
+  "name": "Drago Veleno Occhi Diversi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 mostro \"Veleno Affamato\" + 1 mostro \"Occhi Diversi\"\nDeve essere Evocato tramite Fusione, poi può essere Evocato Pendulum. Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; fino alla End Phase, questa carta guadagna ATK pari al suo ATK e, se lo fa, il nome di questa carta diventa il nome originale di quel mostro, e sostituisci questo effetto con gli effetti originali di quel mostro. Se questa carta nella Zona Mostri viene distrutta: puoi Evocare Specialmente 1 mostro dalla tua Zona Pendulum e, se lo fai, metti questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 Mostro Fusione che controlli; esso guadagna 1000 ATK per ogni mostro controllato dal tuo avversario, fino alla fine di questo turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}

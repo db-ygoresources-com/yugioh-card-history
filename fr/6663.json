@@ -1,0 +1,15 @@
+{
+  "id": 6663,
+  "type": "monster",
+  "name": "Cyber Phœnix",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que cette carte est en Position d'Attaque, annulez les effets de Magie/Piège qui ciblent 1 monstre Machine que vous contrôlez (et aucune autre carte). Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez piocher 1 carte.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10902,
+  "type": "monster",
+  "name": "Sylvanischer Komusopilz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte aufgedeckt wird: Du kannst eine Zahl zwischen 1 und 5 bestimmen, dann so viele Karten von oben von deinem Deck ausgraben, alle ausgegrabenen Monster vom Typ Pflanze auf den Friedhof legen, zusätzlich die anderen Karten in beliebiger Reihenfolge unter dein Deck legen. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Du kannst 1 Zauber-/Fallenkarte auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

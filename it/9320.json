@@ -1,0 +1,16 @@
+{
+  "id": 9320,
+  "type": "monster",
+  "name": "Verme Frammento",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Questa carta può attaccare il tuo avversario direttamente. Se questa carta attacca, essa viene distrutta alla fine della Battle Phase. Se questa carta viene distrutta e mandata al Cimitero dall'effetto di un mostro \"Frammento\", puoi scegliere 1 mostro \"Frammento\" dal tuo Cimitero, eccetto \"Verme Frammento\", e aggiungerlo alla tua mano.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Insetto",
+    "Tuner",
+    "Effetto"
+  ]
+}

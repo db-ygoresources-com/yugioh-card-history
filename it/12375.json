@@ -1,0 +1,18 @@
+{
+  "id": 12375,
+  "type": "monster",
+  "name": "Artistamico Pappatrillo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando questa carta viene distrutta in battaglia: puoi Evocare Specialmente 1 mostro \"Artistamico\" dal tuo Deck, eccetto un Mostro Pendulum.",
+  "pendEffect": "Una volta per turno, se controlli una carta \"Artistamico\", \"Mago\" o \"Occhi Diversi\" nella tua altra Zona Pendulum, eccetto \"Artistamico Pappatrillo\": puoi far diventare il Valore Pendulum di questa carta 7 fino alla fine di questo turno.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Bestia Alata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

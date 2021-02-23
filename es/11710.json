@@ -1,0 +1,15 @@
+{
+  "id": 11710,
+  "type": "monster",
+  "name": "Escritoriobot 004",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta batalla con un monstruo de tu adversario, durante el cálculo de daño (en el turno de cualquier jugador): puedes activar este efecto una vez por batalla; por el resto de este turno tu adversario no recibe daño de batalla, y además manda al Cementerio 1 monstruo \"Escritoriobot\" en tu Deck, excepto \"Escritoriobot 004\" y, si lo haces, esta carta gana ATK y DEF iguales al Nivel del monstruo mandado x 500, sólo durante el cálculo de daño. Si esta carta destruye un monstruo de tu adversario en batalla: puedes Invocar de Modo Especial, desde tu mano y/o Cementerio, 2 monstruos \"Escritoriobot\" con Niveles diferentes, en Posición de Defensa.",
+  "level": 4,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

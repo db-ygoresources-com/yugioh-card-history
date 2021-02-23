@@ -1,0 +1,18 @@
+{
+  "id": 12423,
+  "type": "monster",
+  "name": "Metalfosi Volfiamma",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Razzi rossi ardenti potenziano i suoi infuocati luminosi bruciatori a livello della lava liquida. Ha sconfitto il Vaporizzatore!",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 altra carta scoperta che controlli; distruggila e, se lo fai, Posiziona 1 Carta Magia/Trappola \"Metalfosi\" direttamente dal tuo Deck.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Psichico",
+    "Pendulum",
+    "Normale"
+  ]
+}

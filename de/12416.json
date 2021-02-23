@@ -1,0 +1,15 @@
+{
+  "id": 12416,
+  "type": "monster",
+  "name": "Magier der dunklen Illusionen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Dunkler Magier“, solange sie auf dem Spielfeld liegt. Du kannst jeden dieser Effekte von „Magier der dunklen Illusionen“ nur einmal pro Spielzug verwenden.\n●Während des Spielzugs deines Gegners, falls du eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktivierst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.\n●Falls du eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktivierst, solange diese Karte offen auf deiner Spielfeldseite liegt (außer während des Damage Steps): Du kannst 1 „Dunkler Magier“ in deinem Friedhof wählen; beschwöre ihn als Spezialbeschwörung. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 7,
+  "atk": 2100,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

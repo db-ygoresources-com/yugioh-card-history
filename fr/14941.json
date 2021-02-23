@@ -1,0 +1,19 @@
+{
+  "id": 14941,
+  "type": "monster",
+  "name": "Bujinki Ahashima",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres du même Niveau\nNon utilisable comme Matériel Lien. Vous ne pouvez utiliser chacun des effets suivants de \"Bujinki Ahashima\" qu'une fois par tour.\n●Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement 2 monstres du même Niveau, 1 depuis votre main et 1 depuis votre Cimetière, mais annulez leurs effets, et immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz en utilisant uniquement ces 2 monstres.\n●Si un Monstre Xyz pointé par cette carte active un effet en détachant un ou plusieurs Matériels (sauf durant la Damage Step) : vous pouvez cibler 1 Magie/Piège contrôlé par votre adversaire ; détruisez-le.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Bête-Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8740,
+  "type": "monster",
+  "name": "Patrulla Callejera de Estigia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta destruye un monstruo en batalla y lo manda al Cementerio: inflige daño a tu adversario igual al Nivel original de ese monstruo en el Cementerio x 100. Puedes desterrar esta carta en tu Cementerio; Invoca de Modo Especial, desde tu mano, 1 monstruo Demonio con 2000 ATK o menos.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

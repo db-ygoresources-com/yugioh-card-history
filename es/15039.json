@@ -1,0 +1,21 @@
+{
+  "id": 15039,
+  "type": "monster",
+  "name": "Gouki El Ogro Cargapoder",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2+ monstruos Guerrero\nGana ATK igual a los Rating de Enlace combinados de todos los demás Monstruos de Enlace que controles x 200. Esta carta Invocada por Enlace no es afectada por efectos de otras cartas. Puedes Sacrificar 1 Monstruo de Enlace \"Gouki\", y después seleccionar cartas en el Campo, hasta su Rating de Enlace; destrúyelas. Sólo puedes usar este efecto de \"Gouki El Ogro Cargapoder\" una vez por turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

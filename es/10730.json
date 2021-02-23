@@ -1,0 +1,15 @@
+{
+  "id": 10730,
+  "type": "monster",
+  "name": "Dragón de la Galaxia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta no puede atacar directamente y sólo puede atacar a monstruos de Tipo Dragón. Si esta carta batalla con un monstruo de Tipo Dragón, esta carta gana 1000 ATK sólo durante el Damage Step, y además se niegan los efectos de ese monstruo durante esta Battle Phase mientras esta carta permanezca boca arriba en el Campo.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

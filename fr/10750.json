@@ -1,0 +1,15 @@
+{
+  "id": 10750,
+  "type": "monster",
+  "name": "Yuki-Onna Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez changer le monstre qui l'a détruite en Position de Défense face verso, et si vous le faites, il ne peut pas changer sa position de combat.",
+  "level": 2,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

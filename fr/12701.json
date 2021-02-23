@@ -1,0 +1,18 @@
+{
+  "id": 12701,
+  "type": "monster",
+  "name": "Crocs en Or Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : jusqu'à la fin de ce tour, tous les monstres \"Potartiste\" que vous contrôlez actuellement gagnent 200 ATK.",
+  "pendEffect": "Une fois par tour, si votre monstre \"Potartiste\" détruit un monstre de l'adversaire au combat : infligez 1000 points de dommages à votre adversaire.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

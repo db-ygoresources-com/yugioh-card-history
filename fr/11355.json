@@ -1,0 +1,18 @@
+{
+  "id": 11355,
+  "type": "monster",
+  "name": "Hélice Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si cette carte est Invoquée Normalement sans Sacrifice ou est Invoqué Spécialement, son Niveau devient 4 et son ATK d'origine devient 1800. Si cette carte est Invoquée Normalement ou Posée, elle n'est pas affectée par les effets activés de monstres dont le Niveau/Rang d'origine est inférieur au Niveau actuel de cette carte. Si cette carte est Sacrifiée : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain ; détruisez-la.",
+  "pendEffect": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Qli\" exclus). Cet effet ne peut pas être annulé. Tous les monstres contrôlés par votre adversaire perdent 300 ATK.",
+  "pendScale": 9,
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13397,
+  "type": "monster",
+  "name": "Besta Mítica Mestre Cérbero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 2 Marcadores de Magia neste card quando essa Magia resolver. Não pode ser destruído por efeitos de card enquanto 4 ou mais Marcadores de Magia estiverem no seu campo. Uma vez por turno: você pode remover 4 Marcadores de Magia do seu campo e, depois, escolha 1 monstro que seu oponente controla; bana-o com a face para cima e, se isso acontecer, até o final do turno do oponente, este card ganha ATK igual ao ATK original do monstro banido.",
+  "pendEffect": "Se você não tiver nenhum card na sua outra Zona de Pêndulo: você pode destruir este card e, se isso acontecer, adicione 1 Monstro de Efeito \"Besta Mítica\" de Nível 7 ou menos do seu Deck à sua mão. Você só pode usar este efeito de \"Besta Mítica Mestre Cérbero\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4022,
+  "type": "monster",
+  "name": "Stregone del Tempo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi lanciare una moneta e scegliere testa o croce. Se indovini, distruggi tutti i mostri controllati dal tuo avversario. Se sbagli, distruggi tanti mostri che controlli quanti possibile e, se lo fai, subisci danno pari alla metà della somma degli ATK che quei mostri distrutti avevano mentre erano scoperti sul Terreno.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

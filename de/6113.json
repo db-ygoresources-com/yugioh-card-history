@@ -1,0 +1,15 @@
+{
+  "id": 6113,
+  "type": "monster",
+  "name": "Ultimatives Baseballkind",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte erhält 1000 ATK für jedes offene FEUER Monster auf dem Spielfeld, außer dieser Karte. Du kannst 1 anderes offenes FEUER Monster, das du kontrollierst, auf den Friedhof legen; füge deinem Gegner 500 Schaden zu.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

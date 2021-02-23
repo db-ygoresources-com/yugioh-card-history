@@ -1,0 +1,15 @@
+{
+  "id": 6589,
+  "type": "monster",
+  "name": "Explosif Adhésif",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Avant le calcul des dommages, si cette carte a été attaquée par un monstre de votre adversaire et était en Position de Défense face verso au début de la Damage Step : équipez cette carte au monstre attaquant. Puis, durant la prochaine Standby Phase de votre adversaire, détruisez le monstre équipé à cette carte.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12118,
+  "type": "monster",
+  "name": "General Samurai Superpesado Jade",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta por Sacrificio Sacrificando 1 monstruo \"Samurai Superpesado\". Cuando esta carta es Invocada de Modo Normal o Especial: puedes cambiar su Posición de Batalla. Esta carta puede atacar mientras esté en Posición de Defensa boca arriba. Si lo hace, aplica su DEF para el cálculo de daño.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Samurai Superpesado\". Este efecto no puede ser negado. Una vez por turno: puedes seleccionar 1 monstruo \"Samurai Superpesado\" que controles; aumenta en 1 su Nivel (aún si esta carta deja el Campo).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

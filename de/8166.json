@@ -1,0 +1,16 @@
+{
+  "id": 8166,
+  "type": "monster",
+  "name": "Morphtronische Fernbedienung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "●Einmal pro Spielzug, solange in Angriffsposition: Du kannst 1 „Morphtronisch“-Monster in deinem Friedhof wählen; verbanne das gewählte Ziel und füge deiner Hand 1 „Morphtronisch“-Monster, das dieselbe Stufe wie das gewählte Ziel hat, von deinem Deck hinzu.\n●Einmal pro Spielzug, solange in Verteidigungsposition: Du kannst 1 „Morphtronisch“-Monster von deiner Hand auf den Friedhof legen und deiner Hand 1 anderes „Morphtronisch“-Monster, das dieselbe Stufe wie das Monster hat, von deinem Friedhof hinzufügen.",
+  "level": 3,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

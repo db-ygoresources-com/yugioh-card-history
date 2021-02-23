@@ -1,0 +1,15 @@
+{
+  "id": 9960,
+  "type": "monster",
+  "name": "Buster Zubaba",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta inflige daño de batalla a tu adversario, al final del Damage Step: destruye el monstruo boca arriba en el Campo que tenga el ATK más bajo (si hay empate, tú eliges) y, si lo haces, esta carta pierde 800 ATK.",
+  "level": 3,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8819,
+  "type": "monster",
+  "name": "Chaosgöttin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 LICHT Empfänger + 2+ FINSTERNIS Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 LICHT Monster von deiner Hand auf den Friedhof legen und dann 1 FINSTERNIS Monster der Stufe 5 oder höher in deinem Friedhof wählen; beschwöre das Monster als Spezialbeschwörung, aber es kann nicht als Synchromaterial verwendet werden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Synchro",
+    "Effekt"
+  ]
+}

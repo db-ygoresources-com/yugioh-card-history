@@ -1,0 +1,16 @@
+{
+  "id": 9194,
+  "type": "monster",
+  "name": "Guerrier aux Sept Épées",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nUne fois par tour, lorsqu'une Carte d'Équipement est équipée à cette carte : infligez 800 points de dommages à votre adversaire. Une fois par tour : vous pouvez cibler 1 Carte d'Équipement équipée à cette carte ; envoyez-la au Cimetière. Lorsqu'une Carte d'Équipement équipée à cette carte est envoyée au Cimetière (sauf durant la Damage Step) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; détruisez la cible.",
+  "level": 7,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8400,
+  "type": "monster",
+  "name": "Mouche à Fruits Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tous les monstres face recto contrôlés par votre adversaire perdent 300 points d'ATK et de DEF pour chaque monstre \"Naturia\" face recto que vous contrôlez. Une fois par tour, vous pouvez sélectionner 1 monstre face recto contrôlé par votre adversaire avec 0 en DEF, et en prendre le contrôle jusqu'à la fin de la End Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

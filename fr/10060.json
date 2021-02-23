@@ -1,0 +1,16 @@
+{
+  "id": 10060,
+  "type": "monster",
+  "name": "Jarre Absorbante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Détruisez toutes les Magies/Pièges Posés sur le Terrain, puis chaque joueur pioche 1 carte pour chacune des cartes qu'il contrôlait détruites par cet effet. Vous ne pouvez pas Poser de cartes ce tour.",
+  "level": 3,
+  "atk": 600,
+  "def": 500,
+  "properties": [
+    "Rocher",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11009,
+  "type": "monster",
+  "name": "Wobby du Silence",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main sur le Terrain de votre adversaire. Lorsqu'elle est Invoquée de cette façon : piochez 1 carte, et si vous le faites, votre adversaire gagne 2000 Life Points. Vous ne pouvez utiliser cet effet de \"Wobby du Silence\" qu'une fois par tour. La limite de cartes dans la main du contrôleur de cette carte devient 3.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

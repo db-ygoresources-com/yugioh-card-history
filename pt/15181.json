@@ -1,0 +1,18 @@
+{
+  "id": 15181,
+  "type": "monster",
+  "name": "D/D Cachorro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, se seu oponente Invocar um ou mais Monstros de Fusão, Sincro ou Xyz por Invocação-Especial (exceto durante a Etapa de Dano): você pode escolher 1 desses monstros; neste turno, esse monstro com a face para cima não pode atacar e, além disso, seus efeitos são negados.",
+  "pendEffect": "Você pode escolher 1 Monstro de Fusão, Sincro ou Xyz que seu oponente controla; negue os efeitos dele até o final deste turno e, depois, destrua este card. Você só pode usar este efeito de \"D/D Cachorro\" uma vez por turno.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8700,
+  "type": "monster",
+  "name": "Sfera Trasformante",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Una volta per turno: Puoi scegliere come bersaglio 1 mostro scoperto in Posizione di Difesa controllato dal tuo avversario; scarta 1 carta ed equipaggia quel bersaglio a questa carta. (Puoi equipaggiare 1 solo mostro alla volta a questa carta con questo effetto.) Questa carta guadagna l'ATK de mostro equipaggiato. Se questa carta attacca, essa viene messa in Posizione di Difesa alla fine della Battle Phase. Durante la End Phase: il mostro equipaggiato a questa carta dall'effetto di questa carta viene Evocato Specialmente sul Terreno del tuo avversario scoperto in Posizione di Difesa.",
+  "level": 3,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia Alata",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8527,
+  "type": "monster",
+  "name": "Flamvell-Kommando",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte kann nur als Normalbeschwörung beschworen werden, indem du 1 „Flamvell“-Monster, das du kontrollierst, als Tribut anbietest. Einmal pro Spielzug kannst du 1 Monster mit 200 DEF in deinem Friedhof aus dem Spiel entfernen, um deinem Gegner Schaden in Höhe der ATK des Monsters zuzufügen.",
+  "level": 6,
+  "atk": 2200,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7331,
+  "type": "monster",
+  "name": "Moteur Démoniaque Oméga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre End Phase : Invoquez Spécialement 1 \"Jeton Moteur\" (Type Machine/TERRE/Niveau 1/ATK 200/DEF 200) en Position d'Attaque. Une fois par tour : jusqu'à la End Phase, vous pouvez augmenter l'ATK de cette carte de 1000. Durant la End Phase, si cet effet de cette carte a été utilisé : détruisez cette carte.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

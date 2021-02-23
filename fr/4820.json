@@ -1,0 +1,10 @@
+{
+  "id": 4820,
+  "type": "spell",
+  "name": "Arraignée à Roulette",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Lorsqu'un monstre de l'adversaire déclare une attaque : lancez un dé à six faces et appliquez le résultat.\n1 : Divisez par deux vos LP.\n2 : Faites devenir l'attaque une attaque directe.\n3 : Choisissez 1 monstre que vous contrôlez, transférez-lui la cible de l'attaque et faites le calcul des dommages.\n4 : Choisissez 1 autre monstre contrôlé par votre adversaire, transférez-lui la cible de l'attaque et faites le calcul des dommages.\n5 : Annulez l'attaque, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK du monstre.\n6 : Détruisez le monstre de l'adversaire.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Jeu-Rapide"
+}

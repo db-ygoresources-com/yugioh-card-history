@@ -1,0 +1,15 @@
+{
+  "id": 15123,
+  "type": "monster",
+  "name": "Eldlich der goldene Lord",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte und 1 Zauber/Falle von deiner Hand auf den Friedhof legen und dann 1 Karte auf dem Spielfeld wählen; lege sie auf den Friedhof. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Zauber/Falle, den oder die du kontrollierst, auf den Friedhof legen; füge diese Karte deiner Hand hinzu, dann kannst du 1 Zombie-Monster als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, bis zum Ende des Spielzugs deines Gegners erhält es 1000 ATK/DEF und kann nicht durch Karteneffekte zerstört werden. Du kannst jeden Effekt von „Eldlich der goldene Lord“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

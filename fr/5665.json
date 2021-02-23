@@ -1,0 +1,15 @@
+{
+  "id": 5665,
+  "type": "monster",
+  "name": "Tribu de l'Oreille de Chat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "L'ATK d'origine de tout monstre de votre adversaire ayant combattu contre cette carte durant son tour devient de 200 points durant la Damage Step.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

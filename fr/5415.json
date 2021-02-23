@@ -1,0 +1,15 @@
+{
+  "id": 5415,
+  "type": "monster",
+  "name": "Garde Royal",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez tourner cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto, elle gagne 300 points d'ATK et de DEF jusqu'à la fin du tour (si elle est attaquée, cet effet se résout après le calcul des dommages).",
+  "level": 4,
+  "atk": 1600,
+  "def": 1700,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

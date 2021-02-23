@@ -1,0 +1,15 @@
+{
+  "id": 13740,
+  "type": "monster",
+  "name": "Raffica Cupido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi selezionare un numero tra 1 e 3, poi mandare quel numero di carte dalla cima del tuo Deck al Cimitero; aumenta il Livello di questa carta del numero di carte mandate al Cimitero in questo modo, fino alla fine di questo turno. Se questa carta che controlli viene distrutta da una carta dell'avversario e mandata al tuo Cimitero: guadagni 1500 LP. Puoi utilizzare ogni effetto di \"Raffica Cupido\" una sola volta per turno.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

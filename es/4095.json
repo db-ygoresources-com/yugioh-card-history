@@ -1,0 +1,15 @@
+{
+  "id": 4095,
+  "type": "monster",
+  "name": "Tortuga Catapulta",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno: puedes Sacrificar 1 monstruo; inflige daño a tu adversario igual a la mitad del ATK del monstruo Sacrificado en el Campo.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

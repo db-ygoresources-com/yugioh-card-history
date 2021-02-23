@@ -1,0 +1,15 @@
+{
+  "id": 14645,
+  "type": "monster",
+  "name": "Aromagisterin Majoran",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange du mehr LP hast als dein Gegner, erhältst du keinen Kampfschaden aus Angriffen, an denen deine Pflanze-Monster beteiligt sind. Du kannst jeden der folgenden Effekte von „Aromagisterin Majoran“ nur einmal pro Spielzug verwenden.\n●Wenn ein Pflanze-Monster, das du kontrollierst, durch Kampf zerstört wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann erhältst du 500 LP.\n●Falls du LP erhältst: Wähle Karten im Friedhof deines Gegners bis zur Anzahl der „Aroma“-Monster, die du kontrollierst; verbanne sie.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

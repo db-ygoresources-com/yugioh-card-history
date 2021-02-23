@@ -1,0 +1,15 @@
+{
+  "id": 5963,
+  "type": "monster",
+  "name": "Perceur à Epines",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte détruit à l'issue d'un combat un monstre et l'envoie au Cimetière, infligez aux Life Points de votre adversaire des dommages égaux au Niveau du monstre détruit x 500 points.",
+  "level": 5,
+  "atk": 1700,
+  "def": 1700,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

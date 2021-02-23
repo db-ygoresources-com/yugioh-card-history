@@ -1,0 +1,16 @@
+{
+  "id": 9844,
+  "type": "monster",
+  "name": "Pintor del Dolor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras esta carta esté boca arriba en el Campo, su nombre se trata como \"Zombi Esparceplaga\". Una vez por turno; puedes seleccionar hasta 2 monstruos de Tipo Zombi boca arriba que controles, excepto esta carta; éstos se convierten en Nivel 2 hasta la End Phase. No pueden ser usados como Monstruos Material de Sincronía, excepto para la Invocación por Sincronía de un monstruo de Tipo Zombi.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombi",
+    "Cantante",
+    "Efecto"
+  ]
+}

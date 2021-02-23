@@ -1,0 +1,15 @@
+{
+  "id": 9504,
+  "type": "monster",
+  "name": "Crapaud Angémon",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, vous pouvez Sacrifier 1 monstre de Type Aqua pour sélectionner 1 monstre \"Grenouille\", \"Rainette\" inclus, dans votre Cimetière. Invoquez Spécialement ce monstre depuis votre Cimetière.",
+  "level": 1,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

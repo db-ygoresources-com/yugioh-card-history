@@ -1,0 +1,16 @@
+{
+  "id": 7700,
+  "type": "monster",
+  "name": "Nitro Synchronique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est envoyée au Cimetière pour l'Invocation Synchro d'un Monstre Synchro \"Nitro\" : piochez 1 carte.",
+  "level": 2,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

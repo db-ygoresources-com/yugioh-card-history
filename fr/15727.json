@@ -1,0 +1,15 @@
+{
+  "id": 15727,
+  "type": "monster",
+  "name": "Ojama Rose",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez activer cet effet ; chaque joueur pioche 1 carte, puis chaque joueur défausse 1 carte, puis, si vous avez défaussé une carte \"Ojama\", vous pouvez choisir 1 Zone Monstre inutilisée de l'adversaire, et elle ne peut pas être utilisée jusqu'à la fin du tour de votre adversaire. Vous ne pouvez utiliser cet effet de \"Ojama Rose\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11211,
+  "type": "monster",
+  "name": "Foucault's Cannon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "A mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?",
+  "pendEffect": "Once per turn, during the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Normal"
+  ]
+}

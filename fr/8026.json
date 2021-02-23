@@ -1,0 +1,15 @@
+{
+  "id": 8026,
+  "type": "monster",
+  "name": "Prisomate",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'1 autre monstre de Type Plante face recto est ciblé par l'effet d'une Carte Magie ou Piège contrôlée par votre adversaire, vous pouvez Sacrifier cette carte pour piocher 2 cartes.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

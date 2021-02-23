@@ -1,0 +1,16 @@
+{
+  "id": 10457,
+  "type": "monster",
+  "name": "Numéro 106 : Main de Géant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 4\nDurant le tour de chaque joueur, lorsqu'un effet de monstre est activé sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez détacher 2 Matériels Xyz de cette carte, puis ciblez 1 Monstre à Effet contrôlé par votre adversaire ; tant que cette carte est face recto sur le Terrain, les effets du Monstre à Effet sont annulés, et aussi, il ne peut pas changer sa position de combat.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13245,
+  "type": "monster",
+  "name": "Avatar Roi du Feu Arvata",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsqu'un effet de monstre est activé tant que ce monstre est sur le Terrain (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez 1 autre monstre FEU dans votre main ou sur votre Terrain. Si cette carte est détruite et envoyée au Cimetière : vous pouvez cibler 1 monstre FEU Bête/Bête-Guerrier/Bête Ailée (\"Avatar Roi du Feu Arvata\" exclu) dans votre Cimetière ; Invoquez-le Spécialement, mais il a ses effets annulés, et aussi, il est détruit durant la End Phase. Vous ne pouvez utiliser chaque effet de \"Avatar Roi du Feu Arvata\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

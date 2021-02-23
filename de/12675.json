@@ -1,0 +1,15 @@
+{
+  "id": 12675,
+  "type": "monster",
+  "name": "Antiker Antriebsapparat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Kartentyp (Monster, Zauber oder Falle) deklarieren; falls dein Monster in diesem Spielzug angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten oder Monstereffekte (was deklariert wurde) aktivieren. Einmal pro Spielzug: Du kannst den Kartennamen von 1 „Apparat“-Monster deklarieren; bis zur End Phase wird der Name dieser Karte gleich dem Namen.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

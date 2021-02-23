@@ -1,0 +1,15 @@
+{
+  "id": 4634,
+  "type": "monster",
+  "name": "Apprenti Sorcier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que cette carte reste face recto sur le Terrain, augmentez l'ATK de tous les monstres TÉNÈBRES de 500 points et diminuez l'ATK des monstres LUMIÈRE de 400 points.",
+  "level": 2,
+  "atk": 550,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

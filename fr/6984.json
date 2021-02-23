@@ -1,0 +1,15 @@
+{
+  "id": 6984,
+  "type": "monster",
+  "name": "Cyclone Destructeur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est détruite au combat et envoyée au Cimetière, détruisez tous les monstres face verso et tous les monstres non-VENT.",
+  "level": 7,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

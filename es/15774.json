@@ -1,0 +1,16 @@
+{
+  "id": 15774,
+  "type": "monster",
+  "name": "Síntesis Myutante",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 monstruos \"Myutante\" con Atributos diferentes\nSi esta carta es Invocada por Fusión: puedes seleccionar 1 carta en el Campo; destrúyela. Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes activar este efecto; por el resto de este turno, esta carta boca arriba no es afectada por los efectos de una carta del adversario del mismo tipo (Monstruo, Mágica o Trampa) que esa carta. Si esta carta Invocada por Fusión que controlas es destruida por una carta del adversario: puedes añadir a tu mano 1 de tus cartas \"Myutante\" desterradas. Sólo puedes usar cada efecto de \"Síntesis Myutante\" una vez por turno.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psíquico",
+    "Fusión",
+    "Efecto"
+  ]
+}

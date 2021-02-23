@@ -1,0 +1,15 @@
+{
+  "id": 8186,
+  "type": "monster",
+  "name": "Stachliger Gillman",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Alle Monster vom Typ Fisch, Seeschlange oder Aqua, die du kontrollierst, erhalten 400 ATK.",
+  "level": 3,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

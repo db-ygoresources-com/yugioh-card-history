@@ -1,0 +1,15 @@
+{
+  "id": 7937,
+  "type": "monster",
+  "name": "Kasha",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.",
+  "level": 8,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effect"
+  ]
+}

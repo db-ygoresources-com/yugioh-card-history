@@ -1,0 +1,15 @@
+{
+  "id": 8551,
+  "type": "monster",
+  "name": "Changeur, Allié Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre face recto sur le Terrain et déclarer 1 Attribut. L'Attribut du monstre sélectionné devient l'Attribut déclaré, jusqu'à la End Phase.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

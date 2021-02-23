@@ -1,0 +1,18 @@
+{
+  "id": 11659,
+  "type": "monster",
+  "name": "Mandragón",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta mandrágora contiene el alma de un dragón apesadumbrado. Los sonidos malditos de su lamento causan miedo y desesperación.",
+  "pendEffect": "",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Planta",
+    "Péndulo",
+    "Normal"
+  ]
+}

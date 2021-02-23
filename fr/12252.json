@@ -1,0 +1,16 @@
+{
+  "id": 12252,
+  "type": "monster",
+  "name": "Dragon Jumelé d'Explosion aux Yeux Bleus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Dragon Blanc aux Yeux Bleus\" + \"Dragon Blanc aux Yeux Bleus\"\nUniquement Invocable soit par Fusion soit Spécialement en envoyant les monstres ci-dessus que vous contrôlez au Cimetière. Non destructible au combat. Durant chaque Battle Phase, cette carte peut faire max. 2 attaques sur des monstres. À la fin de la Damage Step, lorsque cette carte attaque un monstre de l'adversaire, mais que le monstre de l'adversaire n'a pas été détruit au combat : vous pouvez bannir le monstre de l'adversaire.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

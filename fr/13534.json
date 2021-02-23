@@ -1,0 +1,16 @@
+{
+  "id": 13534,
+  "type": "monster",
+  "name": "Seigneur du Combat Vendetterreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Vendetterreur\". Vous pouvez bannir 1 carte \"Vendetterreur\" depuis votre Cimetière et déclarer 1 type de carte (Monstre, Magie ou Piège) ; le reste de ce tour, votre adversaire ne peut activer ni de cartes ni d'effets de ce type. Si cette carte Invoquée Rituellement est envoyée au Cimetière : vous pouvez ajouter 1 Monstre Rituel depuis votre Deck à votre main, et si vous le faites, envoyez 1 monstre \"Vendetterreur\" depuis votre Deck au Cimetière. Vous ne pouvez utiliser chaque effet de \"Seigneur du Combat Vendetterreur\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2700,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Rituel",
+    "Effet"
+  ]
+}

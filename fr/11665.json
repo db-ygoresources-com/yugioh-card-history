@@ -1,0 +1,15 @@
+{
+  "id": 11665,
+  "type": "monster",
+  "name": "Cuben",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez lancer un dé à six faces, et tant que ce monstre est face recto sur le Terrain, aucun joueur ne peut Invoquer ni Normalement ni Spécialement de monstres du même Niveau que le résultat.",
+  "level": 4,
+  "atk": 600,
+  "def": 1900,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

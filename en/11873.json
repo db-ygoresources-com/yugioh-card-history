@@ -1,0 +1,18 @@
+{
+  "id": 11873,
+  "type": "monster",
+  "name": "Aether, the Evil Empowering Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When this card is Normal or Special Summoned: You can target 1 monster on the field; banish it.",
+  "pendEffect": "Once per turn: You can banish 1 \"Empowered Warrior\" monster from your Graveyard, then target 1 card on the field; destroy it.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}

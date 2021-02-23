@@ -1,0 +1,15 @@
+{
+  "id": 6241,
+  "type": "monster",
+  "name": "Demone Elementale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Questo mostro guadagna i seguenti effetti finché ci sono uno o più mostri coi seguenti Attributi sul Terreno.\n●TERRA: L'effetto di un Mostro con Effetto che questa carta distrugge in battaglia viene annullato.\n●VENTO: Se questa carta distrugge un mostro del tuo avversario in battaglia, questa carta può attaccare nuovamente subito dopo.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

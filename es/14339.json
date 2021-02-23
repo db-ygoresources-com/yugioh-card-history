@@ -1,0 +1,18 @@
+{
+  "id": 14339,
+  "type": "monster",
+  "name": "Velociroid Máquina de Canicas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes activar este efecto; añade a tu mano 1 monstruo \"Velociroid\" en tu Deck, y además, por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos de VIENTO. Sólo puedes usar este efecto de \"Velociroid Máquina de Canicas\" una vez por turno.",
+  "pendEffect": "Una vez por turno, cuando tu monstruo en Posición de Defensa es seleccionado para un ataque: puedes cambiarlo a Posición de Ataque boca arriba, y además no puede ser destruido en batalla este turno (aun si esta carta deja el Campo).",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

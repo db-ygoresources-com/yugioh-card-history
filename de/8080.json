@@ -1,0 +1,15 @@
+{
+  "id": 8080,
+  "type": "monster",
+  "name": "Turboteleporter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Du kannst 2000 Life Points zahlen, um 2 Monster vom Typ Psi der Stufe 3 als Spezialbeschwörung von deinem Deck zu beschwören. Dieser Effekt kann nur einmal benutzt werden, solange sich diese Karte offen auf dem Spielfeld befindet.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

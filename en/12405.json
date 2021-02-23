@@ -1,0 +1,18 @@
+{
+  "id": 12405,
+  "type": "monster",
+  "name": "Performapal Bubblebowwow",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "When this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, Pendulum Monsters you control that were Special Summoned from the Extra Deck cannot be destroyed by card effects.",
+  "pendEffect": "If a face-up non-Pendulum Monster(s) you control that was Special Summoned from the Extra Deck would be destroyed by battle or card effect, you can destroy this card instead.",
+  "pendScale": 5,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11933,
+  "type": "monster",
+  "name": "Mago Occhi Dharma",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Mentre questa carta Evocata Pendulum è sul Terreno, i Mostri Pendulum \"Mago\" che controlli non possono essere distrutti dagli effetti delle carte del tuo avversario durante il turno in cui questa carta è stata Evocata Pendulum.",
+  "pendEffect": "Una volta per turno: puoi rivelare 1 Mostro Pendulum nella tua mano, poi scegliere come bersaglio 1 carta \"Mago\" nella tua Zona Pendulum; il Valore Pendulum di quel bersaglio diventa lo stesso del Mostro Pendulum rivelato, fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

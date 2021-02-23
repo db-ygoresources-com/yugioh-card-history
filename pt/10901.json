@@ -1,0 +1,15 @@
+{
+  "id": 10901,
+  "type": "monster",
+  "name": "Ervidião Silvestre",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando este card for Invocado por Invocação-Normal ou Especial: você pode escavar o card do topo do seu Deck e, se ele for um monstro do Tipo Planta, envie-o para o Cemitério. Caso contrário, coloque-o no fundo do seu Deck. Se este card for escavado do Deck e enviado para o Cemitério por um efeito de card: você pode escolher 1 monstro do Tipo Planta de Nível 4 ou menos no seu Cemitério; Invoque o alvo por Invocação-Especial. Você só pode usar este efeito de \"Ervidião Silvestre\" uma vez por turno.",
+  "level": 1,
+  "atk": 400,
+  "def": 100,
+  "properties": [
+    "Planta",
+    "Efeito"
+  ]
+}

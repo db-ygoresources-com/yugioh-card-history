@@ -1,0 +1,15 @@
+{
+  "id": 5035,
+  "type": "monster",
+  "name": "Fauces de la Defunción Oscura",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "VOLTEO: Toma el control de 1 monstruo en el Campo de tu adversario hasta el final de este turno. Cuando el monstruo controlado ataca, puede atacar los Life Points de tu adversario directamente.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14050,
+  "type": "monster",
+  "name": "Salvador Avengamiedo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Zombi\nEl nombre de esta carta se convierte en \"Asesino Revengamiedo\" mientras esté en el Campo. Sólo puedes usar cada uno de los siguientes efectos de \"Salvador Avengamiedo\" una vez por turno.\n●Puedes seleccionar 1 carta \"Vengamiedo\" en tu Cementerio; añádela a tu mano.\n●Durante el cálculo de daño, si esta carta batalla con un monstruo del adversario (Efecto Rápido): puedes mandar al Cementerio 1 monstruo Zombi en tu Deck; hasta el final de este turno, ese monstruo del adversario pierde ATK igual al Nivel del monstruo mandado al Cementerio x 200.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Zombi",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8596,
+  "type": "monster",
+  "name": "Rinyan, Lightsworn Rogue",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: Target 1 \"Lightsworn\" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Beast",
+    "Effect"
+  ]
+}

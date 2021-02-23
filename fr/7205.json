@@ -1,0 +1,15 @@
+{
+  "id": 7205,
+  "type": "monster",
+  "name": "Serrure Flint",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 \"Flint\" dans la Zone Magie & Piège ; équipez-le à cette carte. Durant votre Main Phase : vous pouvez cibler 1 \"Flint\" équipé à cette carte, et 1 monstre face recto sur le Terrain (cette carte exclue) ; équipez le \"Flint\" au monstre ciblé. Cette carte ne peut être équipée qu'avec 1 \"Flint\". Tant qu'elle est équipée avec \"Flint\", cette carte n'est pas affectée par l'effet de \"Flint\", et elle ne peut pas être détruite au combat.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

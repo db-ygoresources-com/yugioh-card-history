@@ -1,0 +1,15 @@
+{
+  "id": 8742,
+  "type": "monster",
+  "name": "Abeille Cuirassée",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la End Phase, divisez par deux l'ATK de la cible.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12072,
+  "type": "monster",
+  "name": "Mecanismo Armazón-PSÍ Épsilon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial por efecto de una carta, y no puede ser Invocada de Modo Especial de otra forma. Durante el turno de cualquier jugador, cuando tu adversario activa una Carta de Trampa mientras tú no controlas monstruos: puedes Invocar de Modo Especial esta carta desde tu mano, así como 1 \"Conductor de Armazón-PSÍ\" desde tu mano, Deck o Cementerio y, si lo haces, niega esa activación y, si haces eso, destruye esa Carta de Trampa. Durante la End Phase, destierra a los monstruos boca arriba Invocados de Modo Especial por este efecto.",
+  "level": 2,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Psíquico",
+    "Cantante",
+    "Efecto"
+  ]
+}

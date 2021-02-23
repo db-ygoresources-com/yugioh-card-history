@@ -1,0 +1,15 @@
+{
+  "id": 13053,
+  "type": "monster",
+  "name": "Drago Crack",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere distrutto in battaglia con un mostro con Livello pari o inferiore. Quando il tuo avversario Evoca Normalmente o Specialmente esattamente 1 mostro (e nessun altro mostro viene Evocato) mentre questo mostro è sul Terreno: puoi far perdere a quel mostro ATK pari al suo Livello x 200 (fino alla fine di questo turno), e, se lo fai, infliggi al tuo avversario danno pari all'ATK perso per questo effetto.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

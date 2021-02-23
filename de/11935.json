@@ -1,0 +1,18 @@
+{
+  "id": 11935,
+  "type": "monster",
+  "name": "Drachengruben-Magier",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Dieser begabte Magier kann die in den auch Drachengruben genannten Tiefen der Erde verborgenen Energien erwecken. Aufgrund seiner stoischen Vorgehensweise hat er nur wenige Freunde, den Wünschen seines Schülers kommt er aber gern und oft nach.",
+  "pendEffect": "Einmal pro Spielzug, falls du eine „Magier“-Karte in deiner anderen Pendelzone hast: Du kannst 1 Pendelmonster abwerfen und dann 1 Zauber-/Fallenkarte auf dem Spielfeld wählen; zerstöre sie.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 900,
+  "def": 2700,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Normal"
+  ]
+}

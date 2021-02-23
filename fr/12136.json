@@ -1,0 +1,18 @@
+{
+  "id": 12136,
+  "type": "monster",
+  "name": "Cératops Dinobrume",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si tous les monstres que vous contrôlez sont des monstres \"Dinobrume\" (min. 1) et qu'aucun d'eux n'est \"Cératops Dinobrume\", vous pouvez Invoquer Spécialement cette carte (depuis votre main).",
+  "pendEffect": "Si une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez vont être détruites au combat ou par un effet de carte de votre adversaire, vous pouvez détruire cette carte à la place.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

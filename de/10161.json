@@ -1,0 +1,15 @@
+{
+  "id": 10161,
+  "type": "monster",
+  "name": "Einblum, mystisches Ungeheuer des Waldes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls alle Monster in deinem Friedhof den Typ Ungeheuer haben: Du kannst diese Karte als Tribut anbieten; beschwöre 1 Monster vom Typ Ungeheuer als Spezialbeschwörung von deiner Hand oder deinem Friedhof, außer „Einblum, mystisches Ungeheuer des Waldes“, aber es kann in diesem Spielzug nicht angreifen.",
+  "level": 1,
+  "atk": 700,
+  "def": 500,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

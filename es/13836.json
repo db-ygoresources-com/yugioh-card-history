@@ -1,0 +1,21 @@
+{
+  "id": 13836,
+  "type": "monster",
+  "name": "Dragón Gumblar Topológico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ Monstruos de Efecto\nSi otro monstruo es Invocado de Modo Especial a una zona a la que apunta un Monstruo de Enlace, mientras este monstruo está en el Campo: descarta 1 o 2 cartas al azar, y después, tu adversario descarta la misma cantidad. Durante tu Main Phase, si esta carta está Extra Enlazada y tu adversario tiene al menos 1 carta en su mano: puedes hacer que tu adversario descarte 1 o 2 cartas (la que sea más alta), y después, si no tiene más cartas en su mano, inflígele 3000 puntos de daño. Sólo puedes usar 1 efecto de \"Dragón Gumblar Topológico\" por turno, y sólo una vez ese turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

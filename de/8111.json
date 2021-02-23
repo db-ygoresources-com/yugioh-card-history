@@ -1,0 +1,15 @@
+{
+  "id": 8111,
+  "type": "monster",
+  "name": "Verbündeter der Gerechtigkeit Umkehrbrecher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein offenes LICHT Monster auf dem Spielfeld liegt, zerstöre diese Karte. Falls diese Karte ein Monster in verdeckter Verteidigungsposition angreift, zerstöre das Monster sofort durch den Effekt dieser Karte, ohne es aufzudecken und ohne Schadensberechnung.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

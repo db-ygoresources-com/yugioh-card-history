@@ -1,0 +1,19 @@
+{
+  "id": 13840,
+  "type": "monster",
+  "name": "Mago della Speranza",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri di Livello 4\nSe puoi Evocare Pendulum di Livello 4, puoi Evocare Pendulum questa carta scoperta nel tuo Extra Deck. Puoi staccare 1 materiale da questa carta; Evoca Specialmente 1 Mostro Pendulum di Livello 7 o inferiore dalla tua mano in Posizione di Difesa, ma annulla i suoi effetti, poi puoi mettere questa carta scoperta nella tua Zona Pendulum. Puoi utilizzare questo effetto di \"Mago della Speranza\" una sola volta per turno. Se questa carta viene Evocata Pendulum: puoi scegliere come bersaglio 1 Mostro Pendulum nel tuo Cimitero; attaccalo a questa carta come materiale.",
+  "pendEffect": "Una volta per turno, quando un mostro dichiara un attacco: puoi annullare quell'attacco, poi distruggere questa carta.",
+  "pendScale": 8,
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Xyz",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15510,
+  "type": "monster",
+  "name": "Brigrand le Dragon de la Gloire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Albaz le Déchu\" + 1 monstre de min. Niveau 8\nNon destructible au combat. Tant que vous contrôlez cette carte Invoquée par Fusion, votre adversaire ne peut pas cibler d'autres monstres que vous contrôlez avec des effets de monstre. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter à votre main ou Invoquer Spécialement, 1 monstre \"Tri-Brigade\" ou 1 \"Albaz le Déchu\" depuis votre Deck. Vous ne pouvez utiliser cet effet de \"Brigrand le Dragon de la Gloire\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Bête",
+    "Fusion",
+    "Effet"
+  ]
+}

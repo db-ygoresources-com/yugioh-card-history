@@ -1,0 +1,16 @@
+{
+  "id": 12606,
+  "type": "monster",
+  "name": "Cristron Citree",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Durante la Main Phase o Battle Phase de tu adversario: puedes seleccionar 1 monstruo que no sea Cantante en tu Cementerio; Invócalo de Modo Especial, pero ve sus efectos negados (si los tiene) y, si lo haces, inmediatamente después de que se resuelva este efecto, Invoca por Sincronía 1 Monstruo de Sincronía de Tipo Máquina usando sólo a ese monstruo y esta carta (éste es un Efecto Rápido). Estos Materiales de Sincronía son desterrados en lugar de ser mandados al Cementerio. Sólo puedes usar este efecto de \"Cristron Citree\" una vez por turno.",
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

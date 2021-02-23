@@ -1,0 +1,16 @@
+{
+  "id": 15506,
+  "type": "monster",
+  "name": "Gefräßiger Reptolphin Greethys",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 Fisch-, Seeschlange- oder Aqua-Monster, dessen Stufe kleiner oder gleich der Anzahl der Karten in der Hand deines Gegners ist, in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte können in diesem Spielzug nicht aktiviert werden. Du kannst diesen Effekt von „Gefräßiger Reptolphin Greethys“ nur einmal pro Spielzug verwenden. Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst das Synchromonster, das diese Karte als Material verwendet hat, für jede Karte, die sich derzeit in der Hand deines Gegners befindet, 200 ATK/DEF erhalten lassen.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fisch",
+    "Empfänger",
+    "Effekt"
+  ]
+}

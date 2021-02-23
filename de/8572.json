@@ -1,0 +1,16 @@
+{
+  "id": 8572,
+  "type": "monster",
+  "name": "Heiliger Geist der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte kehrt während der End Phase des Spielzugs, in dem sie als Normalbeschwörung beschworen oder aufgedeckt wird, auf die Hand zurück, es sei denn, du kontrollierst ein anderes offenes „Eisbarriere“-Monster. In dem Fall wird der Effekt dieser Karte stattdessen geändert und du wählst 1 Monster, das dein Gegner kontrolliert, und gibst es auf die Hand zurück.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Spirit",
+    "Effekt"
+  ]
+}

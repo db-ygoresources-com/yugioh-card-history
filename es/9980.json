@@ -1,0 +1,15 @@
+{
+  "id": 9980,
+  "type": "monster",
+  "name": "Espíritu de Relojería",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) teniendo sólo monstruos de Tipo Máquina en tu Cementerio (mín. 1). Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; su ATK se convierte en 0 hasta la End Phase.",
+  "level": 8,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

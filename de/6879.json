@@ -1,0 +1,15 @@
+{
+  "id": 6879,
+  "type": "monster",
+  "name": "Jäger im Hinterhalt",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 Karte abwerfen und dann 1 Karte auf dem Spielfeld wählen; wirf einen sechsseitigen Würfel und zerstöre das gewählte Ziel, es sei denn, du würfelst eine 1 oder 6.",
+  "level": 4,
+  "atk": 1500,
+  "def": 600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9495,
+  "type": "monster",
+  "name": "Mental Seeker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "When this removed from play card is Special Summoned, reveal the top 3 cards of your opponent's Deck. Choose 1 of those cards and remove it from play. Then, shuffle the others into the Deck.",
+  "level": 3,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Psychic",
+    "Tuner",
+    "Effect"
+  ]
+}

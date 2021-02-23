@@ -1,0 +1,18 @@
+{
+  "id": 11938,
+  "type": "monster",
+  "name": "Potartiste Crânecrobate Arlequin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez ajouter 1 monstre \"Potartiste\" (\"Potartiste Crânecrobate Arlequin\" exclu), Monstre Pendule \"Magicien\" ou monstre \"Yeux Impairs\" depuis votre Deck à votre main.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Potartiste\", Monstres Pendule \"Magicien\" et monstres \"Yeux Impairs\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12144,
+  "type": "monster",
+  "name": "Guiding Ariadne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is destroyed by battle or card effect: You can reveal 3 Counter Traps from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.",
+  "pendEffect": "Apply these effects.\n●You do not pay LP to activate Counter Trap Cards.\n●You do not discard to activate Counter Trap Cards.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

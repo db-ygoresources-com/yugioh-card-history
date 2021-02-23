@@ -1,0 +1,15 @@
+{
+  "id": 8698,
+  "type": "monster",
+  "name": "Alligator Lion",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous contrôlez un monstre de Type Reptile (cette carte exclue), si un monstre de Type Reptile que vous contrôlez attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 4,
+  "atk": 1900,
+  "def": 200,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

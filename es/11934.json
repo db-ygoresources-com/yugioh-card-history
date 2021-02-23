@@ -1,0 +1,18 @@
+{
+  "id": 11934,
+  "type": "monster",
+  "name": "Mago Pulsodragón",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Este niño mago tiene el don de ver las líneas naturales de energía que corren a través de la tierra, lo que su gente llama el Pulso del Dragón. Su exuberancia y habilidad lo han puesto en alta estima de su mentor, el \"Mago Fosadragón\".",
+  "pendEffect": "Una vez por turno, si tienes una carta \"Mago/a\" en tu otra Zona de Péndulo: puedes descartar 1 Monstruo de Péndulo, y después seleccionar 1 monstruo boca arriba en el campo; destrúyelo.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1800,
+  "def": 900,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Normal"
+  ]
+}

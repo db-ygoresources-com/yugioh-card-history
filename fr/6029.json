@@ -1,0 +1,15 @@
+{
+  "id": 6029,
+  "type": "monster",
+  "name": "Chasseur d'Héritage",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte attaque un monstre en Position de Défense face verso, le détruit à l'issue du combat et l'envoie au Cimetière, votre adversaire renvoie 1 carte au hasard de sa main dans le Deck. Mélangez ensuite le Deck.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

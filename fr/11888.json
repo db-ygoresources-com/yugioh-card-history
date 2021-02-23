@@ -1,0 +1,16 @@
+{
+  "id": 11888,
+  "type": "monster",
+  "name": "Marteau de Magie Temporelle",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Uniquement Invocable Spécialement avec \"La Griffe d'Hermocrate\", en utilisant un monstre Magicien. Si cette carte est Invoquée Spécialement : ciblez 1 autre monstre face recto sur le Terrain ; équipez-lui cette carte. Au début de la Damage Step, s'il combat un monstre de l'adversaire : vous pouvez lancer un dé à six faces, et bannissez le monstre de l'adversaire jusqu'à la Standby Phase du tour N après l'activation de cet effet (N = le résultat).",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

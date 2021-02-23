@@ -1,0 +1,16 @@
+{
+  "id": 10534,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Dracossac",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres de Niveau 7\nUne fois par tour : vous pouvez détacher 1 Matériel de cette carte ; Invoquez Spécialement 2 \"Jeton Bête Fantôme Méca\" (Machine/VENT/Niveau 3/ATK 0/DEF 0). Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Une fois par tour : vous pouvez Sacrifier 1 monstre \"Bête Fantôme Méca\", puis ciblez 1 carte sur le Terrain ; détruisez la cible. Cette carte ne peut pas attaquer durant le tour où vous activez cet effet.",
+  "rank": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12029,
+  "type": "monster",
+  "name": "Guerrero Sinfónico Microófono",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes Invocar esta carta de Modo Especial (desde tu mano) retirando 3 Contadores Sinfónicos en tu Campo. Después de que Invoques esta carta de Modo Normal o Especial, puedes Invocar 1 monstruo de Modo Normal durante tu Main Phase este turno, además de tu Invocación Normal/Colocada. (Sólo puedes ganar este efecto una vez por turno).",
+  "pendEffect": "A menos que tengas una carta \"Guerrero Sinfónico\" en tu otra Zona de Péndulo, la Escala de Péndulo de esta carta se convierte en 4. Una vez por turno, durante tu End Phase: puedes seleccionar 1 de tus monstruos \"Guerrero Sinfónico\" desterrados; añádelo a tu mano.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

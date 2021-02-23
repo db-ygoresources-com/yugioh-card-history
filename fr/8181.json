@@ -1,0 +1,15 @@
+{
+  "id": 8181,
+  "type": "monster",
+  "name": "Super Psyborg",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Jusqu'à deux fois par tour, vous pouvez retirer du jeu 1 monstre de Type Psychique depuis votre Cimetière pour augmenter l'ATK de cette carte de 500 points.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

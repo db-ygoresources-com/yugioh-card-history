@@ -1,0 +1,15 @@
+{
+  "id": 15089,
+  "type": "monster",
+  "name": "Cidadela Autômata",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por um efeito de card. (Efeito Rápido): você pode escolher 1 monstro Máquina que você controla; destrua esse monstro Máquina e todos os monstros que seu oponente controla com ATK menor ou igual que o dele. Se um ou mais monstros Máquina de TERRA com a face para cima que você controla, exceto \"Cidadela Autômata\", forem destruídos em batalha ou por um efeito de card enquanto este card estiver no seu Cemitério: você pode Invocar este card por Invocação-Especial. Você só pode usar cada efeito de \"Cidadela Autômata\" uma vez por turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

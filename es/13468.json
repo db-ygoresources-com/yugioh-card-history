@@ -1,0 +1,15 @@
+{
+  "id": 13468,
+  "type": "monster",
+  "name": "Parásito Paranoico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "(Efecto Rápido): puedes seleccionar 1 monstruo boca arriba en el Campo; equipa esta carta en tu mano a ese objetivo. El monstruo equipado se convierte en un monstruo Insecto, no puede atacar monstruos Insecto, y además sus efectos que se activan al seleccionar uno o más monstruos Insecto son negados. Sólo puedes usar este efecto de \"Parásito Paranoico\" una vez por turno. Si esta Carta de Equipo es mandada al Cementerio: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Insecto de Nivel 7 o mayor, ignorando sus condiciones de Invocación.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

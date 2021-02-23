@@ -1,0 +1,15 @@
+{
+  "id": 9081,
+  "type": "monster",
+  "name": "Soldado Aguja",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es utilizada como Monstruo Material de Sincronía para un Monstruo de Sincronía, durante una batalla entre ese Monstruo de Sincronía y un monstruo en Posición de Defensa cuya DEF es menor que el ATK de ese Monstruo de Sincronía, inflige la diferencia como daño de batalla a tu adversario.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6423,
+  "type": "monster",
+  "name": "Doitsu",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant votre Main Phase, si vous contrôlez cette carte sur le Terrain, vous pouvez équiper cette carte à votre \"Soitsu\" comme une Carte Équipement, OU libérer cet équipement Union et faire l'Invocation Spéciale de cette carte en Position d'Attaque face recto. Uniquement lorsque cette carte est équipée à un monstre par l'effet de cette carte, augmentez l'ATK du monstre équipé de 2500 points. (1 monstre ne peut être équipé qu'avec 1 Monstre Union. Si le monstre équipé est détruit à l'issue d'un combat, détruisez cette carte à la place.)",
+  "level": 4,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Elfe",
+    "Union",
+    "Effet"
+  ]
+}

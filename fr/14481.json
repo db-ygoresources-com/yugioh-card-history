@@ -1,0 +1,15 @@
+{
+  "id": 14481,
+  "type": "monster",
+  "name": "Voltesteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Spécialement dans une zone pointée par un Monstre Lien : détruisez tous les Monstres Lien qui pointent cette carte, puis détruisez tous les autres monstres pointés par ces Monstres Lien, et suivez les Flèches Lien de tous ces monstres détruits en détruisant tout ce qu'ils pointent et en répétant le processus jusqu'à ce qu'il n'y ait plus rien à détruire. (Cette carte ne peut pas être détruite par cet effet.) Vous ne pouvez utiliser cet effet de \"Voltesteur\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7661,
+  "type": "monster",
+  "name": "Hanewata",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "(Schnelleffekt): Du kannst diese Karte abwerfen; du erhältst in diesem Spielzug keinen Effektschaden.",
+  "level": 1,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10177,
+  "type": "monster",
+  "name": "Alchemistische Magierin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 Monster vom Typ Hexer der Stufe 4\nDiese Karte erhält 200 ATK für jede Zauberkarte in deinem Friedhof. Einmal pro Spielzug, während deiner End Phase: Du kannst 1 Xyz-Material von dieser Karte abhängen und 1 Karte von deiner Hand auf den Friedhof legen; bestimme 1 Zauberkarte von deinem Deck und setze sie dann in deiner Zauber- & Fallenkartenzone.",
+  "rank": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

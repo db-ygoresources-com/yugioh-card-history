@@ -1,0 +1,18 @@
+{
+  "id": 12303,
+  "type": "monster",
+  "name": "Amorfago Golia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Nessun giocatore può Evocare Specialmente mostri dall'Extra Deck, eccetto mostri \"Amorfago\".",
+  "pendEffect": "Mentre controlli un mostro \"Amorfago\", qualsiasi carta mandata al Cimitero viene invece bandita, eccetto le carte \"Amorfago\". Una volta per turno, durante la tua Standby Phase, offri come Tributo 1 mostro o distruggi questa carta.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2750,
+  "def": 0,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

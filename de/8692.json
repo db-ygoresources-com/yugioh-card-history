@@ -1,0 +1,15 @@
+{
+  "id": 8692,
+  "type": "monster",
+  "name": "Maschinenwesen Festung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst ein oder mehr Maschine-Monster abwerfen, deren gemeinsame Stufe 8 oder mehr entspricht, dann beschwöre diese Karte als Spezialbeschwörung (von deiner Hand oder deinem Friedhof). Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Wähle 1 Karte, die dein Gegner kontrolliert; zerstöre das gewählte Ziel. Bevor ein Monstereffekt deines Gegners aufgelöst wird, der diese offene Karte als Ziel wählt, sieh dir die Hand deines Gegners an und wirf 1 Karte von seiner Hand ab.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

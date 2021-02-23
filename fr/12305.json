@@ -1,0 +1,15 @@
+{
+  "id": 12305,
+  "type": "monster",
+  "name": "Cocondensateur Insecte Numérique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non utilisable comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre de Type Insecte. Une fois par tour, si cette carte est en Position d'Attaque : vous pouvez cibler 1 monstre de Type Insecte de Niveau 3 dans votre Cimetière ; changez cette carte en Position de Défense, et si vous le faites, Invoquez Spécialement le monstre en Position de Défense. Un Monstre Xyz qui a été Invoqué en utilisant cette carte sur le Terrain comme Matériel Xyz gagne cet effet.\n●Si cette carte attaque un monstre en Position de Défense, les cartes et effets de votre adversaire ne peuvent pas être activés jusqu'à la fin de la Damage Step.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

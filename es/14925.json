@@ -1,0 +1,18 @@
+{
+  "id": 14925,
+  "type": "monster",
+  "name": "Artistamigo Mago Celestial",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante tu Main Phase, si esta carta fue Invocada de Modo Normal o Especial este turno: por el resto de este turno, puedes aplicar el o los siguientes efectos, basándote en los otros monstruos que controles en este momento.\n●Fusión: Esta carta puede atacar directamente.\n●Sincronía: Tu adversario no puede activar efectos de monstruos.\n●Xyz: El ATK de esta carta se convierte en el doble de su ATK original.\n●Péndulo: Durante la End Phase, añade a tu mano 1 Monstruo de Péndulo en tu Deck.\nSólo puedes usar este efecto de \"Artistamigo Mago Celestial\" una vez por turno.",
+  "pendEffect": "Cuando exactamente 1 monstruo de Fusión, de Sincronía o Xyz boca arriba que controles y que fuera Invocado de Modo Especial desde el Deck Extra es destruido en batalla, o por el efecto de una carta del adversario: puedes Invocar de Modo Especial ese monstruo destruido, y después destruye esta carta. Sólo puedes usar este efecto de \"Artistamigo Mago Celestial\" una vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

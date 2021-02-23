@@ -1,0 +1,16 @@
+{
+  "id": 11235,
+  "type": "monster",
+  "name": "Dragon Marionnette de l'Ombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez cibler 1 carte contrôlée par votre adversaire ; renvoyez-la à la main.\nSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 Magie/Piège sur le Terrain ; détruisez-le. Vous ne pouvez utiliser qu'1 effet de \"Dragon Marionnette de l'Ombre\" par tour, et uniquement une fois le tour.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

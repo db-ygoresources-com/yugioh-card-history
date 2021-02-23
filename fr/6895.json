@@ -1,0 +1,15 @@
+{
+  "id": 6895,
+  "type": "monster",
+  "name": "Rhynos Saccageurs",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, cette carte peut se déplacer vers une Zone Carte Monstre adjacente inoccupée. Si cette carte attaque le monstre dans la même colonne qu'elle, cette carte gagne 500 points d'ATK durant la Damage Step.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

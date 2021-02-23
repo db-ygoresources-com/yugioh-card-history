@@ -1,0 +1,15 @@
+{
+  "id": 12388,
+  "type": "monster",
+  "name": "Planète des Ténèbres Kozmo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en bannissant des monstres \"Kozmo\" depuis votre main dont le Niveau total est égal à min. 10, et non Invocable Spécialement autrement. Non ciblable par des effets de carte de votre adversaire. Durant le tour de chaque joueur, lorsqu'une Carte Magie est activée : vous pouvez bannir 1 monstre \"Kozmo\" depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre \"Kozmo\" de max. Niveau 9 depuis votre Deck à votre main.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

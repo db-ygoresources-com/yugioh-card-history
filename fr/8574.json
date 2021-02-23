@@ -1,0 +1,16 @@
+{
+  "id": 8574,
+  "type": "monster",
+  "name": "Triplebras, Allié Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Contrôleur Genex\" + 1 monstre non Syntoniseur ou plus\nL'effet de cette carte dépend des Attributs de ses Monstres-Matériels de Synchro non Syntoniseur. Une fois par tour, vous pouvez défausser 1 carte pour activer 1 de ces effets :\n ● VENT : Envoyez 1 carte au hasard de la main de votre adversaire au Cimetière.\n ● EAU : Sélectionnez 1 Carte Piège ou Magie sur le Terrain, et détruisez-la.\n ● TÉNÈBRES : Sélectionnez 1 monstre LUMIÈRE face recto sur le Terrain, détruisez-le et piochez 1 carte.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

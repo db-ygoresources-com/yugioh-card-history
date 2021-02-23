@@ -1,0 +1,19 @@
+{
+  "id": 13132,
+  "type": "monster",
+  "name": "D/D/D Armageddon Brillante Super Re del Giudizio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Tuner \"D/D\" + 1 o più mostri non-Tuner \"D/D/D\"\nIl tuo avversario non può scegliere come bersaglio mostri che controlli con gli effetti delle carte. Se un altro mostro viene Evocato Normalmente o Specialmente mentre questo mostro è sul Terreno (eccetto durante il Damage Step): puoi far selezionare al tuo avversario 1 Mostro Pendulum che controlla, e gli effetti di tutti gli altri mostri che controlla attualmente si annullano. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno, quando un mostro dell'avversario dichiara un attacco: puoi scegliere come bersaglio 1 Mostro Synchro \"D/D/D\" che controlli; distruggi tanti mostri controllati dal tuo avversario con DEF pari o inferiore all'ATK del mostro scelto come bersaglio quanti possibile e, se lo fai, infliggi 1000 danni al tuo avversario per ogni mostro distrutto.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Synchro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

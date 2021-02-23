@@ -1,0 +1,15 @@
+{
+  "id": 9266,
+  "type": "monster",
+  "name": "Emperador Meklord Skiel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por su propio efecto. Cuando un monstruo boca arriba que controlas es destruido por efecto de una carta y mandado al Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Otros monstruos que controles no pueden declarar ataques. Una vez por turno: puedes seleccionar 1 Monstruo de Sincronía que controle tu adversario; equipa ese objetivo a esta carta. Esta carta gana ATK igual al ATK combinado de los monstruos equipados a ella por este efecto. Puedes mandar al Cementerio 1 monstruo que controles que esté equipado a esta carta; este turno esta carta puede atacar a tu adversario directamente.",
+  "level": 1,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

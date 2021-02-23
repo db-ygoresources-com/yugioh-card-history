@@ -1,0 +1,15 @@
+{
+  "id": 7598,
+  "type": "monster",
+  "name": "Gragonith le Dragon, Seigneur Lumière",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte gagne 300 ATK/DEF pour chaque monstre \"Seigneur Lumière\" de noms différents dans votre Cimetière. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Durant chacune de vos End Phases : envoyez les 3 cartes du dessus de votre Deck au Cimetière.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

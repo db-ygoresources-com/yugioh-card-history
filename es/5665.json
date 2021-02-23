@@ -1,0 +1,15 @@
+{
+  "id": 5665,
+  "type": "monster",
+  "name": "Tribu de la Oreja de Gato",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante los Damage Steps del turno de tu adversario, el ATK original de sus monstruos que batallen contra este monstruo se convierte en 200 puntos.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

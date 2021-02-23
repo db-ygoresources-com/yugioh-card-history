@@ -1,0 +1,15 @@
+{
+  "id": 13800,
+  "type": "monster",
+  "name": "Orgoth l'Implacabile",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, durante la tua Main Phase: puoi tirare un dado a sei facce 3 volte e questa carta guadagna ATK/DEF pari alla somma x 100 (fino alla fine del turno del tuo avversario), poi, se 2 dei risultati erano lo stesso, applica l'effetto appropriato. Se tutti e 3 erano lo stesso, applica tutti questi effetti.\n●1 o 2: Questa carta non può essere distrutta in battaglia o dagli effetti delle carte, fino alla fine del turno del tuo avversario.\n●3 o 4: Pesca 2 carte.\n●5 o 6: Questa carta può attaccare direttamente in questo turno.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2450,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

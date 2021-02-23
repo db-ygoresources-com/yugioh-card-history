@@ -1,0 +1,16 @@
+{
+  "id": 12072,
+  "type": "monster",
+  "name": "Pièce Structure-PSY Epsilon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par un effet de carte, et non Invocable Spécialement autrement. Durant le tour de chaque joueur, lorsque votre adversaire active une Carte Piège tant que vous ne contrôlez aucun monstre : vous pouvez Invoquer Spécialement cette carte depuis votre main ainsi qu'1 \"Pilote Structure-PSY\" depuis votre main, Deck ou Cimetière, et si vous le faites, annulez l'activation, et si vous faites ça, détruisez la Carte Piège. Durant la End Phase, bannissez les monstres face recto Invoqués Spécialement par cet effet.",
+  "level": 2,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Psychique",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

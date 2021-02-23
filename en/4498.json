@@ -1,0 +1,15 @@
+{
+  "id": 4498,
+  "type": "monster",
+  "name": "Hoshiningen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "All LIGHT monsters on the field gain 500 ATK, also all DARK monsters on the field lose 400 ATK.",
+  "level": 2,
+  "atk": 500,
+  "def": 700,
+  "properties": [
+    "Fairy",
+    "Effect"
+  ]
+}

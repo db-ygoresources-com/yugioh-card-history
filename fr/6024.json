@@ -1,0 +1,15 @@
+{
+  "id": 6024,
+  "type": "monster",
+  "name": "Esprit du Pharaon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut pas être Invoquée par Invocation Spéciale excepté par l'effet du \"Premier Sarcophage\". Lorsque cette carte est Invoquée avec succés par Invocation Spéciale, vous pouvez Invoquer par Invocation Spéciale jusqu'à 4 Monstres Normaux de Type Zombie de Niveau 2 ou moins depuis votre Cimetière.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

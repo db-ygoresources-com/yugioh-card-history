@@ -1,0 +1,15 @@
+{
+  "id": 12121,
+  "type": "monster",
+  "name": "Partitur die musikalische Sängerin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Schadensberechnung (im Spielzug eines beliebigen Spielers), falls ein „Musikalisch“-Monster, das du kontrollierst, gegen ein Monster deines Gegners kämpft: Du kannst diese Karte von deiner Hand auf den Friedhof legen; ändere die ATK und DEF des Monsters deines Gegners bis zum Ende dieses Spielzugs zu 0.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

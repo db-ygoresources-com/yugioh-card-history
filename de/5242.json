@@ -1,0 +1,15 @@
+{
+  "id": 5242,
+  "type": "monster",
+  "name": "Mystisches Ungeheuer von Serket",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du nicht „Tempel der Könige“ kontrollierst, zerstöre diese Karte. Verbanne alle Monster, die durch Kampf mit dieser Karte zerstört werden. Falls diese Karte ein Monster durch Kampf zerstört: Sie erhält 500 ATK.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8761,
+  "type": "monster",
+  "name": "Sacerdotessa - Custode di Tombe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Mentre non c'è nessuna Magia Terreno scoperta, il Terreno viene considerato come \"Necrovalle\". Tutti i mostri \"Custode di Tombe\" sul Terreno guadagnano 200 ATK/DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

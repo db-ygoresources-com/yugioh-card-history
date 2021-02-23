@@ -1,0 +1,16 @@
+{
+  "id": 9219,
+  "type": "monster",
+  "name": "Temerario Ambicioso",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante de Tipo Guerrero + 1 o más monstruos de Tipo Guerrero que no sean Cantantes\nEsta carta no puede ser destruida en batalla cuando es atacada por un monstruo con ATK mayor. Después del cálculo de daño, si esta carta fue atacada por un monstruo con ATK mayor: destruye el monstruo de tu adversario con el que batalló.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

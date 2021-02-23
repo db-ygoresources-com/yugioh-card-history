@@ -1,0 +1,16 @@
+{
+  "id": 7026,
+  "type": "monster",
+  "name": "HÉROE Elemental Inferno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "\"HÉROE Elemental Heat\" + \"HÉROE Elemental Lady Heat\"\nEste monstruo no puede ser Invocado de Modo Especial excepto mediante una Invocación por Fusión. Si esta carta batalla a un monstruo de AGUA, gana 1000 ATK sólo durante el Damage Step.",
+  "level": 8,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Piro",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5653,
+  "type": "monster",
+  "name": "Marioneta Mágica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Cada vez que você ou o seu adversário activam 1 Card de Magia, ponha 1 Contador Mágico neste card. Aumente o ATK deste card em 200 pontos por cada Contador Mágico neste card. Ainda, remova 2 Contadores Mágicos deste card para destruir 1 monstro no Campo.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

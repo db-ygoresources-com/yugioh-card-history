@@ -1,0 +1,18 @@
+{
+  "id": 11695,
+  "type": "monster",
+  "name": "Satellcavaliere Zefrathuban",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente, per Scoperta o Pendulum: puoi scegliere come bersaglio 1 altra carta \"tellcavaliere\" o \"Zefra\" nella tua Zona Mostri o Zona Pendulum e 1 carta scoperta controllata dal tuo avversario; distruggile. Puoi utilizzare questo effetto di \"Satellcavaliere Zefrathuban\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"tellcavaliere\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

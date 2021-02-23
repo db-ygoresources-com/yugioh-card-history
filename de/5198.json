@@ -1,0 +1,16 @@
+{
+  "id": 5198,
+  "type": "monster",
+  "name": "Flammenangreiferin",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "FLIPP: Verbanne die obersten 3 Karten deines Decks; füge deinem Gegner 800 Schaden zu.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Flipp",
+    "Effekt"
+  ]
+}

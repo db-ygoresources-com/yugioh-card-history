@@ -1,0 +1,15 @@
+{
+  "id": 4400,
+  "type": "monster",
+  "name": "Steel Scorpion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",
+  "level": 1,
+  "atk": 250,
+  "def": 300,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

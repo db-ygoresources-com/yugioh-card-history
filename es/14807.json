@@ -1,0 +1,16 @@
+{
+  "id": 14807,
+  "type": "monster",
+  "name": "Eveque Evocador",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo o en el Cementerio. Mientras esta carta sea un Monstruo Normal en el Campo, puedes Invocarla de Modo Normal para que se convierta en un Monstruo de Efecto con este efecto.\n●Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo Guerrero de FUEGO o 1 monstruo Géminis en tu Cementerio, excepto \"Eveque Evocador\"; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Eveque Evocador\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Géminis",
+    "Efecto"
+  ]
+}

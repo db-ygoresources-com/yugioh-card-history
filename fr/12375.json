@@ -1,0 +1,18 @@
+{
+  "id": 12375,
+  "type": "monster",
+  "name": "Choarale Potartiste",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est détruite au combat : vous pouvez Invoquer Spécialement 1 monstre \"Potartiste\" depuis votre Deck (Monstres Pendule exclus).",
+  "pendEffect": "Une fois par tour, si vous contrôlez une carte \"Potartiste\" (\"Choarale Potartiste\" exclu), \"Magicien\" ou \"Yeux Impairs\" dans votre autre Zone Pendule : vous pouvez faire devenir l'Échelle Pendule de cette carte 7 jusqu'à la fin de ce tour.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Bête Ailée",
+    "Pendule",
+    "Effet"
+  ]
+}

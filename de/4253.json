@@ -1,0 +1,15 @@
+{
+  "id": 4253,
+  "type": "monster",
+  "name": "Tiefenwasser",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Eine Amphibie, die eine riesige Flutwelle aus der Tiefsee hervorbringen kann, die feindliche Monster auslöscht.",
+  "level": 3,
+  "atk": 900,
+  "def": 800,
+  "properties": [
+    "Fisch",
+    "Normal"
+  ]
+}

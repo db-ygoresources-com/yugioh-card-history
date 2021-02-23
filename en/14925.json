@@ -1,0 +1,18 @@
+{
+  "id": 14925,
+  "type": "monster",
+  "name": "Performapal Celestial Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can apply the following effect(s) for the rest of this turn, based on the other monsters you currently control.\n●Fusion: This card can attack directly.\n●Synchro: Your opponent cannot activate monster effects.\n●Xyz: This card's ATK becomes double its original ATK.\n●Pendulum: During the End Phase, add 1 Pendulum Monster from your Deck to your hand.\nYou can only use this effect of \"Performapal Celestial Magician\" once per turn.",
+  "pendEffect": "When exactly 1 face-up Fusion, Synchro, or Xyz Monster you control that was Special Summoned from the Extra Deck is destroyed by battle, or an opponent's card effect: You can Special Summon that destroyed monster, then destroy this card. You can only use this effect of \"Performapal Celestial Magician\" once per turn.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14279,
+  "type": "monster",
+  "name": "Crialtar, o Criador Diabretiço",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com \"Diabretiço de Criação\". Durante a Fase Principal (Efeito Rápido): você pode revelar este card na sua mão; descarte 1 card e, depois, Invoque por Invocação-Especial monstros \"Diabretiço\" do seu Cemitério cuja soma dos Níveis seja 10, mas embaralhe-os no Deck durante a Fase Final. Você só pode usar este efeito de \"Crialtar, o Criador Diabretiço\" uma vez por turno. Os monstros \"Diabretiço\" que não sejam de Ritual que você controla ganham 2000 de ATK, mas seus efeitos são negados.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demônio",
+    "Ritual",
+    "Efeito"
+  ]
+}

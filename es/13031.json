@@ -1,0 +1,15 @@
+{
+  "id": 13031,
+  "type": "monster",
+  "name": "Nube RAM",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Sacrificar 1 monstruo, y después seleccionar 1 monstruo Ciberso en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Nube RAM\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

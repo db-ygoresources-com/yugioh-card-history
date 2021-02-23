@@ -1,0 +1,16 @@
+{
+  "id": 9037,
+  "type": "monster",
+  "name": "Snyffus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez Sacrifier 1 monstre de Type Plante pour sélectionner et détruire 1 carte face recto contrôlée par votre adversaire. Si un monstre de Type Plante sur le Terrain est détruit lorsque cette carte est dans le Cimetière, vous pouvez Invoquer Spécialement cette carte depuis le Cimetière. Si vous le faites, retirez cette carte du jeu lorsqu'elle est retirée du Terrain.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

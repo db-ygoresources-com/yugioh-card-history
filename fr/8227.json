@@ -1,0 +1,10 @@
+{
+  "id": 8227,
+  "type": "trap",
+  "name": "Attaque des Rats Morts-Vivants",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Si un Monstre Normal de Niveau 3 ou moins que vous contrôlez combat, durant la Damage Step vous pouvez payer des Life Points en multiples de 100. L'ATK du monstre de l'adversaire est réduit par le montant de Life Points que vous avez payé, jusqu'à la End Phase (vous ne pouvez pas payer plus de Life Points que l'ATK du monstre de l'adversaire).",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10002,
+  "type": "monster",
+  "name": "Archiduc Étain",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "3 monstres de Niveau 4\nUne fois par tour, durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre contrôlé par votre adversaire ; changez sa position de combat. (Les effets de monstres Flip ne sont pas activés.)",
+  "rank": 4,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

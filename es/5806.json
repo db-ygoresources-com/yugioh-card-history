@@ -1,0 +1,15 @@
+{
+  "id": 5806,
+  "type": "monster",
+  "name": "Rex Gigante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede atacar directamente. Si esta carta es desterrada: puedes Invocar esta carta de Modo Especial y, si lo haces, esta carta gana 200 ATK por cada uno de tus monstruos Dinosaurio desterrados. Sólo puedes usar este efecto de \"Rex Gigante\" una vez por turno.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

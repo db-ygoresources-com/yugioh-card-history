@@ -1,0 +1,15 @@
+{
+  "id": 15696,
+  "type": "monster",
+  "name": "Dragón Armado LV10 Blanco",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por su propio efecto. Puedes desterrar monstruos \"Dragón Armado\" en tu Campo y/o Cementerio cuyos Niveles totales sean iguales a 10; Invoca esta carta de Modo Especial desde tu mano, y después puedes añadir a tu mano 1 \"Velo Blanco\" en tu Deck. Sólo puedes usar este efecto de \"Dragón Armado LV10 Blanco\" una vez por turno. No recibes daño de efectos. Al comienzo del Damage Step, si esta carta ataca: puedes destruir 1 carta en el Campo.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

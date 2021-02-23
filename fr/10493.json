@@ -1,0 +1,15 @@
+{
+  "id": 10493,
+  "type": "monster",
+  "name": "Faucon Blizzard",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si l'ATK actuelle de cette carte est supérieure à son ATK d'origine : vous pouvez infliger 1500 points de dommages à votre adversaire. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain. Vous ne pouvez utiliser l'effet de \"Faucon Blizzard\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11465,
+  "type": "monster",
+  "name": "Jormungardr la Serpiente Nórdica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Si hay un monstruo \"Aesir\" en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano) en el lado del Campo de tu adversario, en Posición de Defensa. Si no hay un monstruo \"Aesir\" en el Campo, destruye esta carta. Si esta carta en Posición de Defensa boca arriba que controlas es cambiada a Posición de Ataque boca arriba: recibe 3000 puntos de daño. Este efecto sólo puede ser usado una vez mientras esta carta está boca arriba en el Campo.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

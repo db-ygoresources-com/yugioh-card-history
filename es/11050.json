@@ -1,0 +1,15 @@
+{
+  "id": 11050,
+  "type": "monster",
+  "name": "Sabiocuoya Silvano",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando un monstruo \"Silvano/a\" es mandado al Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Una vez por turno: puedes excavar la carta de la parte superior de tu Deck, y si es un monstruo de Tipo Planta, mandarlo al Cementerio. De otra forma, ponla en el fondo de tu Deck. Si esta carta es excavada del Deck y mandada al Cementerio por efecto de una carta: puedes seleccionar 1 Carta Mágica/de Trampa \"Silvano/a\" en tu Cementerio; añade ese objetivo a tu mano.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2100,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10385,
+  "type": "monster",
+  "name": "Confrérie du Poing de Feu - Serpent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, si une ou plusieurs Cartes Magie/Piège \"Formation Feu\" sont envoyées à votre Cimetière (sauf durant la Damage Step) : vous pouvez Poser 1 Carte Piège \"Formation Feu\" directement depuis votre Deck. Une fois par tour, si vous ne contrôlez aucun autre monstre : vous pouvez envoyer 2 Cartes Magie/Piège \"Formation Feu\" face recto que vous contrôlez au Cimetière ; piochez 1 carte.",
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11329,
+  "type": "monster",
+  "name": "D/D Fiero Orco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi Evocare Specialmente 1 Mostro Pendulum OSCURITÀ scoperto dal tuo Extra Deck, ma i suoi effetti si annullano, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri \"D/D\".",
+  "pendEffect": "Una volta per turno: puoi pagare 500 LP, poi scegliere come bersaglio 1 mostro \"D/D\" che controlli; esso guadagna 500 ATK (anche se questa carta lascia il Terreno). A meno che tu non abbia una carta \"D/D\" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 5.",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2300,
+  "def": 1500,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

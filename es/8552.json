@@ -1,0 +1,15 @@
+{
+  "id": 8552,
+  "type": "monster",
+  "name": "Aliado Genex Volcañón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, puedes mandar al Cementerio 1 monstruo \"Genex\" de FUEGO boca arriba que controles para seleccionar 1 monstruo boca arriba que controle tu adversario, destruirlo e infligir daño a tu adversario igual al Nivel del monstruo destruido x 400.",
+  "level": 4,
+  "atk": 1700,
+  "def": 600,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

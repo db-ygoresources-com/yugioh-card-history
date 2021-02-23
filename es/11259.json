@@ -1,0 +1,16 @@
+{
+  "id": 11259,
+  "type": "monster",
+  "name": "Saffira, Reina de Dragones",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Himno de Luz\". Durante la End Phase, si este turno esta carta fue Invocada por Ritual, o si este turno un monstruo de LUZ fue mandado al Cementerio desde la mano o Deck mientras esta carta estaba boca arriba en el Campo: puedes activar 1 de estos efectos;\n●Roba 2 cartas, y después descarta 1 carta.\n●Descarta 1 carta al azar de la mano de tu adversario.\n●Añade a tu mano 1 monstruo de LUZ en tu Cementerio.\nSólo puedes usar 1 efecto de \"Saffira, Reina de Dragones\" por turno, y sólo una vez ese turno.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Dragón",
+    "Ritual",
+    "Efecto"
+  ]
+}

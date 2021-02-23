@@ -1,0 +1,18 @@
+{
+  "id": 12276,
+  "type": "monster",
+  "name": "Unicórnio Camarartista de Olhos Anômalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Quando este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro \"Camarartista\" no seu Cemitério; ganhe PV igual ao ATK dele.",
+  "pendEffect": "Uma vez, enquanto este card estiver na sua Zona de Pêndulo, quando um monstro \"Olhos Anômalos\" seu declarar um ataque: você pode escolher 1 outro monstro \"Camarartista\" que você controla; até o final da Fase de Batalha, esse monstro atacante ganha ATK igual ao ATK original do monstro escolhido como alvo no campo (mesmo que este card deixe o campo).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14201,
+  "type": "monster",
+  "name": "Nudillo de la Ira de Doble Cabeza",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos Máquina\nNo puede ser usado como Material de Enlace. Sólo puedes usar 1 de los siguientes efectos de \"Nudillo de la Ira de Doble Cabeza\" por turno, y sólo una vez ese turno.\n●Durante la Main Phase (Efecto Rápido): puedes mandar al Cementerio 1 monstruo en tu mano o Campo, y después seleccionar 1 monstruo Máquina de Nivel 10 en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa, pero niega sus efectos.\n●Si esta carta está en tu Cementerio: puedes mandar al Cementerio 1 carta en tu mano o Campo; Invoca esta carta de Modo Especial.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

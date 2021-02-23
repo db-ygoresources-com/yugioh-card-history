@@ -1,0 +1,16 @@
+{
+  "id": 8581,
+  "type": "monster",
+  "name": "Arqueiro Sucata",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "\"Sucata Sincron\" + 1 ou mais monstros não-Reguladores\nUma vez por turno: você pode escolher 1 monstro que seu oponente controla; bana-o. Durante a Fase Final deste turno, devolva-o para o lado do campo do seu oponente, na mesma posição de batalha.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Guerreiro",
+    "Sincro",
+    "Efeito"
+  ]
+}

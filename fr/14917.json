@@ -1,0 +1,16 @@
+{
+  "id": 14917,
+  "type": "monster",
+  "name": "Satellite Synchronique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si un ou plusieurs monstres sont Invoqués Spécialement depuis votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si vous avez un Monstre Synchro avec \"Guerrier\", \"Synchronique\" ou \"Poussière d'Étoile\" dans son nom d'origine sur votre Terrain ou Cimetière : jusqu'à la fin de ce tour, vous pouvez faire devenir 4 le Niveau de cette carte. Vous ne pouvez utiliser chaque effet de \"Satellite Synchronique\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 700,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

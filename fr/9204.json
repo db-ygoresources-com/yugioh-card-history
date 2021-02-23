@@ -1,0 +1,15 @@
+{
+  "id": 9204,
+  "type": "monster",
+  "name": "Ananas Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tous les monstres face recto que vous contrôlez sont traités comme de Type Plante. Durant votre Standby Phase, si vous ne contrôlez pas \"Ananas Naturia\" face recto et que vous n'avez aucun monstre (monstres de Type Plante/Bête exclus) dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière. Vous ne devez contrôler aucune Carte Magie/Piège pour activer et résoudre cet effet.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

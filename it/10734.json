@@ -1,0 +1,15 @@
+{
+  "id": 10734,
+  "type": "monster",
+  "name": "Cucchiaio Divoramalizia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando un mostro \"Divoramalizia\" con un nome diverso viene Evocato Normalmente o Specialmente sul tuo Terreno (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro di Tipo Demone di Livello 2 nel tuo Cimitero; Evoca Specialmente quel bersaglio. I suoi effetti sono annullati. Puoi utilizzare l'effetto di \"Cucchiaio Divoramalizia\" una sola volta per turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

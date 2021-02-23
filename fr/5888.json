@@ -1,0 +1,15 @@
+{
+  "id": 5888,
+  "type": "monster",
+  "name": "Hyper Tête de Marteau",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "À la fin de la Damage Step, si un monstre de l'adversaire qui a combattu cette carte n'est pas détruit : renvoyez le monstre de l'adversaire à la main.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

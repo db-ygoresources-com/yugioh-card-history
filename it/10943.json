@@ -1,0 +1,16 @@
+{
+  "id": 10943,
+  "type": "monster",
+  "name": "Maga Pasticciona",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri di Tipo Incantatore di Livello 4\nDurante la tua Main Phase 2, puoi Evocare Xyz questa carta anche utilizzando un Mostro Xyz di Rango 3 o inferiore che controlli come Materiale Xyz. (I Materiali Xyz attaccati a quel mostro diventano Materiali Xyz anche su questa carta.) Questa carta guadagna 200 ATK per ogni Materiale Xyz attaccato ad essa. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario. Se questa carta ha attaccato o è stata attaccata, dopo il calcolo dei danni: stacca 1 Materiale Xyz da questa carta.",
+  "rank": 4,
+  "atk": 2100,
+  "def": 200,
+  "properties": [
+    "Incantatore",
+    "Xyz",
+    "Effetto"
+  ]
+}

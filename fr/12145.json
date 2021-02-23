@@ -1,0 +1,16 @@
+{
+  "id": 12145,
+  "type": "monster",
+  "name": "Al-Lumi'raj",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Tous les monstres sur le Terrain perdent une ATK/DEF égales à leur propre Niveau/Rang x 300.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Wyrm",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

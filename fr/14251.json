@@ -1,0 +1,15 @@
+{
+  "id": 14251,
+  "type": "monster",
+  "name": "Gardien Pare-Feu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est envoyée au Cimetière comme Matériel pour l'Invocation Lien d'un monstre Cyberse : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Lorsqu'une attaque impliquant votre Monstre Lien et un Monstre Lien de l'adversaire est déclarée : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'attaque, et si vous le faites, jusqu'à la fin de ce tour, l'ATK d'origine du monstre de l'adversaire devient 0, et aussi, il n'est pas affecté par d'autres effets de carte (ses propres effets exclus). Vous ne pouvez utiliser chaque effet de \"Gardien Pare-Feu\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

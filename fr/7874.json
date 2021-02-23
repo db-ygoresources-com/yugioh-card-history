@@ -1,0 +1,15 @@
+{
+  "id": 7874,
+  "type": "monster",
+  "name": "Téléphon Morphtronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "●En Position d'Attaque : Une fois par tour, vous pouvez lancer un dé à 6 faces. Révélez un nombre de cartes du dessus de votre Deck égal au lancer et Invoquez Spécialement 1 monstre \"Morphtronique\" de Niveau 4 ou moins parmi celles-ci, sans tenir compte des conditions d'Invocation. Mélangez les autres cartes dans votre Deck.\n ●En Position de Défense : Une fois par tour, vous pouvez lancer un dé à 6 faces. Regardez un nombre de cartes du dessus de votre Deck égal au lancer, puis renvoyez-les dans le même ordre.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8937,
+  "type": "monster",
+  "name": "Festungswächter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein Monster in Verteidigungsposition, das du kontrollierst, angegriffen wird, kannst du während des Damage Steps diese Karte von deiner Hand auf den Friedhof legen, um dein angegriffenes Monster bis zur End Phase 1500 DEF erhalten zu lassen.",
+  "level": 4,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

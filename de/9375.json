@@ -1,0 +1,16 @@
+{
+  "id": 9375,
+  "type": "monster",
+  "name": "Vylon-Kugel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte von der Monsterkartenzone auf den Friedhof gelegt wird: Du kannst 500 Life Points zahlen, um 1 offenes Monster zu wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus. Du kannst diese Ausrüstungskarte auf den Friedhof legen, um 1 Ausrüstungszauberkarte in deinem Friedhof zu wählen; rüste das Monster, das mit dieser Karte ausgerüstet war, mit dem gewählten Ziel aus.",
+  "level": 1,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

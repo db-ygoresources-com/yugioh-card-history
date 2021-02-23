@@ -1,0 +1,15 @@
+{
+  "id": 15508,
+  "type": "monster",
+  "name": "Hinezumi Hanabi",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser usado como material para una Invocación por Fusión, Sincronía, Xyz o Enlace. Si esta carta es Invocada de Modo Normal o Especial: pon 6 contadores en ella. Una vez por turno, durante tu End Phase: da el control de esta carta a tu adversario. Una vez por turno, si el control de esta carta boca arriba con uno o más contadores cambia: lanza un dado de seis caras, retira tantos contadores de esta carta como sea posible hasta el resultado, y si todos los contadores de esta carta son retirados por este efecto, destruye esta carta y, si lo haces, recibes 2000 puntos de daño.",
+  "level": 4,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

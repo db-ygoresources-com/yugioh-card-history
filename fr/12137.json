@@ -1,0 +1,18 @@
+{
+  "id": 12137,
+  "type": "monster",
+  "name": "Rex Dinobrume",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte attaque, à la fin de la Damage Step : vous pouvez Sacrifier 1 autre monstre \"Dinobrume\", puis activez 1 de ces effets ;\n●Cette carte peut attaquer un monstre de votre adversaire une deuxième fois d'affilée, et si elle attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.\n●Mélangez 1 carte depuis la main de votre adversaire (au hasard) ou sur son Terrain dans le Deck, puis cette carte gagne 100 ATK.",
+  "pendEffect": "Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de carte activé qui cible une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez, puis détruisez cette carte.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2400,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

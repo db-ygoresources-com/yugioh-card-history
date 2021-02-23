@@ -1,0 +1,16 @@
+{
+  "id": 8192,
+  "type": "monster",
+  "name": "Asa Dragão Explosivo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 Regulador + 1 ou mais monstros não-Reguladores do Tipo Dragão\nNo começo da Etapa de Dano, se este card batalhar um monstro: você pode destruir esse monstro e, se isso acontecer, cause dano ao seu oponente igual ao ATK que o monstro destruído tinha no campo. O ATK deste card deve ser maior ou igual ao ATK desse monstro para que você possa ativar e resolver este efeito.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Dragão",
+    "Sincro",
+    "Efeito"
+  ]
+}

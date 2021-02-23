@@ -1,0 +1,16 @@
+{
+  "id": 7252,
+  "type": "monster",
+  "name": "Anti Plasma, HÉROS Élémentaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Sparkman, HÉROS Élémentaire\" + \"Tranchant, HÉROS Élémentaire\"\nCette carte ne peut pas être Invoquée Spécialement excepté par Invocation Fusion. Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en tant que dommages de combat à votre adversaire. Vous pouvez défausser 1 carte de votre main pour détruire 1 monstre en Position d'Attaque que votre adversaire contrôle.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2300,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

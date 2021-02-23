@@ -1,0 +1,18 @@
+{
+  "id": 11960,
+  "type": "monster",
+  "name": "Artistamagus Fuocopeluche",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente 1 mostro \"Artistamagus\" dalla tua mano o Deck, eccetto \"Artistamagus Fuocopeluche\".",
+  "pendEffect": "Se uno o più mostri \"Artistamagus\" che controlli vengono distrutti in battaglia o dall'effetto di una carta: puoi Evocare Specialmente questa carta dalla tua Zona Pendulum, poi subire 500 danni. Puoi utilizzare questo effetto di \"Artistamagus Fuocopeluche\" una sola volta per turno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

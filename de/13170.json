@@ -1,0 +1,16 @@
+{
+  "id": 13170,
+  "type": "monster",
+  "name": "Rotäugiger Hiebdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Rotäugiger schwarzer Drache“ + 1 Krieger-Monster\nWenn ein „Rotäugig“-Monster einen Angriff deklariert: Du kannst 1 Krieger-Monster in deinem Friedhof wählen; rüste diese Karte mit ihm als Ausrüstungszauber aus, der dieser Karte 200 ATK gibt. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der eine Karte, die du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst 1 Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst so viele Monster, mit denen diese Karte ausgerüstet war, als Spezialbeschwörung von deinem Friedhof beschwören wie möglich.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

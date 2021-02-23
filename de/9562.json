@@ -1,0 +1,15 @@
+{
+  "id": 9562,
+  "type": "monster",
+  "name": "Die gewaltige Sonne",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden, außer durch ihren eigenen Effekt. Nachdem diese offene Karte auf dem Spielfeld zerstört und auf den Friedhof gelegt wurde, während der Standby Phase des nächsten Spielzugs: Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung vom Friedhof.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10035,
+  "type": "monster",
+  "name": "Morpho Maripospía",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, cuando es cambiada la posición de batalla de uno o más monstruos de tu adversario (excepto durante el Damage Step): puedes seleccionar uno de esos monstruos; éste pierde 1000 ATK y DEF.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11703,
+  "type": "monster",
+  "name": "Domador del Espíritu Bestia Zeframpilica",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal o por Péndulo: puedes seleccionar 1 monstruo \"Espíritu Bestia\" o \"Zefra\" en tu Cementerio, excepto \"Domador del Espíritu Bestia Zeframpilica\"; Invócalo de Modo Especial, pero destrúyelo durante la End Phase. Sólo puedes Invocar de Modo Especial a uno o más \"Domador del Espíritu Bestia Zeframpilica\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Espíritu Bestia\" y \"Zefra\". Este efecto no puede ser negado.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Psíquico",
+    "Péndulo",
+    "Efecto"
+  ]
+}

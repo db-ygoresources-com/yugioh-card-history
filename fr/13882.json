@@ -1,0 +1,16 @@
+{
+  "id": 13882,
+  "type": "monster",
+  "name": "Manifestion de l'Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Crâne Invoqué\" + 1 monstre TÉNÈBRES\nLe nom de cette carte devient \"Crâne Invoqué\" sur le Terrain, mais elle est toujours traitée comme une carte \"Archdémon\". Tous les \"Crâne Invoqué\" que vous contrôlez gagnent 500 ATK. Si cette carte Invoquée par Fusion que vous contrôlez est envoyée à votre Cimetière par une carte de l'adversaire : vous pouvez Invoquer Spécialement 1 \"Crâne Invoqué\" depuis votre main, Deck ou Cimetière.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

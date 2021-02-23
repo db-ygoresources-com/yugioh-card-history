@@ -1,0 +1,18 @@
+{
+  "id": 11787,
+  "type": "monster",
+  "name": "Mago Xiangke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, durante el turno de cualquier jugador: puedes seleccionar 1 monstruo de LUZ en el Campo; hasta el final de este turno, ese monstruo boca arriba ve sus efectos negados.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 Monstruo Xyz boca arriba que controles; este turno, puedes usarlo como Material Xyz para una Invocación Xyz usando su Rango como si fuera un Nivel (aún si esta carta deja el Campo).",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

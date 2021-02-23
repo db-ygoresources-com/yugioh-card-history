@@ -1,0 +1,18 @@
+{
+  "id": 12907,
+  "type": "monster",
+  "name": "Hechicero del Cronógrafo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si una o más cartas que controlas son destruidas en batalla o por efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes Invocar 1 monstruo de Modo Especial desde tu mano. Puedes desterrar esta carta que controlas, más 4 monstruos en tu mano, Campo y/o Cementerio (1 de cada uno que tengan \"Dragón de Péndulo\", \"Dragón Xyz\", \"Dragón Sincro\" y \"Dragón de Fusión\" en sus nombres); Invoca de Modo Especial, desde tu Deck Extra, 1 \"Rey Supremo Z-ARC\". (Ésta es tratada como una Invocación por Fusión).",
+  "pendEffect": "Durante tu Main Phase: puedes destruir esta carta y, si lo haces, toma 1 \"Mago Contemplatiempo\" en tu mano o Deck, y ponlo en tu Zona de Péndulo o Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Hechicero del Cronógrafo\" una vez por turno.",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

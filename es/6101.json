@@ -1,0 +1,16 @@
+{
+  "id": 6101,
+  "type": "monster",
+  "name": "Mimic Oscuro LV1",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Roba 1 carta.\nUna vez por turno, durante tu Standby Phase: puedes mandar esta carta al Cementerio; Invoca de Modo Especial, desde tu mano o Deck, 1 \"Mimic Oscuro LV3\".",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4604,
+  "type": "monster",
+  "name": "Petite Chimère",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tous les monstres FEU sur le Terrain gagnent 500 ATK. Tous les monstres EAU sur le Terrain perdent 400 ATK.",
+  "level": 2,
+  "atk": 600,
+  "def": 550,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

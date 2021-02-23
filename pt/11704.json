@@ -1,0 +1,18 @@
+{
+  "id": 11704,
+  "type": "monster",
+  "name": "Domador da Besta Espiritual Zefrawendi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando este card for Invocado por Invocação-Normal ou Pêndulo: você pode adicionar 1 monstro \"Zefra\" com a face para cima do seu Deck Adicional à sua mão, exceto \"Domador da Besta Espiritual Zefrawendi\". Você só pode Invocar um ou mais \"Domador da Besta Espiritual Zefrawendi\" por Invocação-Especial uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Besta Espiritual\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Psíquico",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

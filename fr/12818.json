@@ -1,0 +1,16 @@
+{
+  "id": 12818,
+  "type": "monster",
+  "name": "Dragon Méca Vermillon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nUne fois par tour : vous pouvez bannir 1 Syntoniseur depuis votre main, Cimetière ou Terrain face recto, puis ciblez 1 carte sur le Terrain ; détruisez-la. Si cette carte Invoquée par Synchronisation est détruite par un effet de carte, et envoyée au Cimetière : vous pouvez cibler 1 de vos Syntoniseurs bannis ; ajoutez-le à votre main.",
+  "level": 9,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

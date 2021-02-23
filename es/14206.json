@@ -1,0 +1,19 @@
+{
+  "id": 14206,
+  "type": "monster",
+  "name": "Pistola de Gomas de Alta Velociroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2 monstruos de VIENTO\nDurante tu Main Phase, puedes: inmediatamente después de que se resuelva este efecto, Invocar de Modo Normal 1 monstruo de VIENTO, y además, por el resto de este turno, no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. Puedes desterrar 1 Monstruo de Sincronía de VIENTO en tu Deck Extra; muestra 2 monstruos \"Velociroid\" en tu Deck con nombres diferentes, cuyos Niveles totales sean iguales al Nivel de ese Monstruo de Sincronía, tu adversario elige 1 al azar para que lo añadas a tu mano, y tú mandas el otro al Cementerio. Sólo puedes usar cada efecto de \"Pistola de Gomas de Alta Velociroid\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

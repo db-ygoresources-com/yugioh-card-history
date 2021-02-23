@@ -1,0 +1,16 @@
+{
+  "id": 11487,
+  "type": "monster",
+  "name": "Nékroz de Valkyrus",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement, sans utiliser des monstres de Niveau 8. Vous ne pouvez utiliser chacun de ces effets de \"Nékroz de Valkyrus\" qu'une fois par tour.\n●Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 carte \"Nékroz\" depuis votre Cimetière et défausser cette carte ; annulez l'attaque, puis terminez la Battle Phase.\n●Durant votre Main Phase : vous pouvez Sacrifier max. 2 monstres depuis votre main et/ou Terrain, et si vous le faites, piochez le même nombre de cartes que vous avez Sacrifiées.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1700,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

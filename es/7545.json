@@ -1,0 +1,15 @@
+{
+  "id": 7545,
+  "type": "monster",
+  "name": "Gusano Cartaros",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Añade a tu mano 1 monstruo \"Gusano\" de Tipo Reptil de Nivel 4 o menor, desde tu Deck.",
+  "level": 4,
+  "atk": 1200,
+  "def": 500,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

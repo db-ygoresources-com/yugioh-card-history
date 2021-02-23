@@ -1,0 +1,18 @@
+{
+  "id": 12480,
+  "type": "monster",
+  "name": "Dragon Persona aux Yeux Impairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto sur le Terrain qui a été Invoqué Spécialement depuis l'Extra Deck ; jusqu'à la fin de ce tour, il a ses effets annulés.",
+  "pendEffect": "Une fois par tour, durant la End Phase, si votre adversaire a activé une carte ou un effet ce tour qui ciblait 1 Monstre Pendule \"Yeux Impairs\" que vous contrôliez (et aucune autre carte) tant que cette carte était dans votre Zone Pendule : Invoquez Spécialement cette carte, et si vous le faites, placez 1 Monstre Pendule \"Yeux Impairs\" face recto (\"Dragon Persona aux Yeux Impairs\" exclu) depuis votre Extra Deck dans votre Zone Pendule.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

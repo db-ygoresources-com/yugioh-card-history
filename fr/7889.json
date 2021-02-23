@@ -1,0 +1,15 @@
+{
+  "id": 7889,
+  "type": "monster",
+  "name": "Injecteur d'Énergie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez payer 600 Life Points pour augmenter l'ATK de tous les monstres de Type Psychique face recto de 500 points durant ce tour.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

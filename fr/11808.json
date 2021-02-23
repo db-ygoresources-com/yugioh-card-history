@@ -1,0 +1,15 @@
+{
+  "id": 11808,
+  "type": "monster",
+  "name": "Veilleur du Sanctuaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte peut être traitée comme 2 Sacrifices pour l'Invocation Sacrifice d'un monstre Dragon. Tant que cette carte est dans votre main ou Cimetière, si un monstre Dragon face recto sur le Terrain (\"Veilleur du Sanctuaire\" exclu) est envoyé au Cimetière par un effet de carte ou parce qu'il a été détruit au combat : vous pouvez Invoquer Spécialement cette carte, puis, si le monstre envoyé au Cimetière est un Monstre Normal, vous pouvez ajouter 1 Monstre Normal Dragon depuis votre Cimetière à votre main. Vous ne pouvez utiliser cet effet de \"Veilleur du Sanctuaire\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

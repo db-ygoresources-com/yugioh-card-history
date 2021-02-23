@@ -1,0 +1,15 @@
+{
+  "id": 7419,
+  "type": "monster",
+  "name": "El Creador Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) teniendo 5 o más monstruos de OSCURIDAD en tu Cementerio mientras no controles monstruos. Una vez por turno: puedes desterrar 1 monstruo de OSCURIDAD en tu Cementerio para seleccionar 1 monstruo de OSCURIDAD en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "level": 8,
+  "atk": 2300,
+  "def": 3000,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

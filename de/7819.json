@@ -1,0 +1,16 @@
+{
+  "id": 7819,
+  "type": "monster",
+  "name": "Flamvell-Bogenschütze",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug kannst du 1 offenes Monster vom Typ Pyro, das du kontrollierst, als Tribut anbieten, um alle „Flamvell“-Monster auf dem Spielfeld bis zur End Phase 800 ATK erhalten zu lassen.",
+  "level": 3,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

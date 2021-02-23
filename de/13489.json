@@ -1,0 +1,19 @@
+{
+  "id": 13489,
+  "type": "monster",
+  "name": "Sicherheitsdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster\nEinmal, solange diese Karte offen auf dem Spielfeld liegt, falls sie kreuzgelinkt ist: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; gib es auf die Hand zurück. Du kannst diesen Effekt von „Sicherheitsdrache“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1100,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

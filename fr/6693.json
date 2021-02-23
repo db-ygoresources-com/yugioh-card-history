@@ -1,0 +1,15 @@
+{
+  "id": 6693,
+  "type": "monster",
+  "name": "Héraut de la Lumière Verte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque votre adversaire active une Carte Magie (Effet Rapide) : vous pouvez envoyer cette carte et 1 autre monstre Elfe depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

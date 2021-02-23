@@ -1,0 +1,18 @@
+{
+  "id": 12918,
+  "type": "monster",
+  "name": "Camarartista U Go Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, durante sua Fase Principal, se este card foi Invocado por Invocação-Pêndulo neste turno: você pode Invocar por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional, usando este card que você controla e monstros Dragão que você controla como Matérias de Fusão.",
+  "pendEffect": "Uma vez por turno, se um monstro for Invocado por Invocação-Fusão no seu campo (exceto durante a Etapa de Dano): você pode adicionar à sua mão 1 Monstro Pêndulo \"Camarartista\", \"Olhos Anômalos\" ou \"Mago\" do seu Cemitério ou com a face para cima no seu Deck Adicional.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

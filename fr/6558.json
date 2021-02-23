@@ -1,0 +1,15 @@
+{
+  "id": 6558,
+  "type": "monster",
+  "name": "Gorz, l'Émissaire des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque vous recevez des dommages d'une carte possédée par votre adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous ne devez contrôler aucune carte pour activer et résoudre cet effet. Si elle est Invoquée de cette façon, activez l'effet approprié, selon le type de dommages :\n●Dommages de combat : Invoquez Spécialement 1 \"Jeton Émissaire des Ténèbres\" (Type Elfe/LUMIÈRE/Niveau 7/ATK ?/DEF ?). Son ATK/DEF sont égales au montant des dommages de combat que vous avez reçus.\n●Dommages d'effet : Infligez des dommages à votre adversaire égaux au montant des dommages que vous avez reçus.",
+  "level": 7,
+  "atk": 2700,
+  "def": 2500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

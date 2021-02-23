@@ -1,0 +1,15 @@
+{
+  "id": 8618,
+  "type": "monster",
+  "name": "Machtversprüher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du 1 offenes Monster wählen, das du kontrollierst. Es erhält 400 ATK, solange du diese offene Karte kontrollierst. (Ein Monster kann durch den Effekt dieser Karte nicht mehr als 400 ATK erhalten.)",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

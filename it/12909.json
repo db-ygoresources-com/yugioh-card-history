@@ -1,0 +1,18 @@
+{
+  "id": 12909,
+  "type": "monster",
+  "name": "Mago Zanna Nera",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "(Questa carta viene sempre considerata come una carta \"Drago Xyz\".)\nSe questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro OSCURITÀ di Tipo Incantatore nel tuo Cimitero; Evocalo Specialmente.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; il suo ATK diventa la metà del suo ATK attuale (fino alla fine di questo turno), poi distruggi questa carta.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

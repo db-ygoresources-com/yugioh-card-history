@@ -1,0 +1,16 @@
+{
+  "id": 11513,
+  "type": "monster",
+  "name": "Ungeheueräugiger Pendeldrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 FINSTERNIS Monster vom Typ Drache + 1 Monster vom Typ Ungeheuer\nMuss entweder als Fusionsbeschwörung beschworen werden, oder als Spezialbeschwörung beschworen werden, indem du die oben aufgeführten Karten, die du kontrollierst, als Tribut anbietest (in diesem Fall wird die Zauberkarte „Polymerisation“ nicht benötigt), und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Falls diese Karte ein Monster durch Kampf zerstört: Füge deinem Gegner Schaden in Höhe der Grund-ATK des für die Beschwörung dieser Karte verwendeten Fusionsmaterials vom Typ Ungeheuer zu.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

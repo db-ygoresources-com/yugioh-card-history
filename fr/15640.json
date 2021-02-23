@@ -1,0 +1,16 @@
+{
+  "id": 15640,
+  "type": "monster",
+  "name": "Drytron Météonis Draconids",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Météonis Drytron\". Votre adversaire ne peut pas cibler cette carte avec des effets de monstre. Si la somme des Niveaux des monstres utilisés pour son Invocation Rituelle est max. 2, cette carte peut attaquer une fois tous les monstres Invoqués Spécialement contrôlés par votre adversaire. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir un nombre de monstres depuis votre Cimetière dont la somme des ATK est exactement égale à 2000 ou 4000, puis ciblez 1 carte face recto contrôlée par votre adversaire pour chaque 2000 ATK de la somme ; envoyez ces cartes au Cimetière. Vous ne pouvez utiliser cet effet de \"Drytron Météonis Draconids\" qu'une fois par tour.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Machine",
+    "Rituel",
+    "Effet"
+  ]
+}

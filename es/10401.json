@@ -1,0 +1,15 @@
+{
+  "id": 10401,
+  "type": "monster",
+  "name": "Leotauro",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta batalla con un monstruo que no sea Normal, esta carta gana 500 ATK, sólo durante el Damage Step.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1600,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

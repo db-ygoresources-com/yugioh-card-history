@@ -1,0 +1,15 @@
+{
+  "id": 8320,
+  "type": "monster",
+  "name": "Champion Psyborg Blindé",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si vous contrôlez un monstre de Type Psychique face recto, vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si cette carte détruit un monstre de l'adversaire au combat, vous recevez un montant de dommages égal à la moitié de l'ATK du monstre détruit. Ensuite, vous pouvez Invoquer Spécialement 1 monstre depuis votre Cimetière avec une ATK inférieure ou égale aux dommages que vous avez reçus.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13919,
+  "type": "monster",
+  "name": "Equipe Dois-por-Um",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno: você pode fazer com que os dois duelistas mostrem 1 card de suas mãos e se os dois cards mostrados forem do mesmo tipo de card, aplique 1 desses efeitos, dependendo do tipo.\n●Monstro: Cada duelista pode Invocar seu monstro que foi mostrado por Invocação-Especial.\n●Magia: Cada duelista compra 2 cards.\n●Armadilha: Cada duelista envia exatamente 2 cards do seu Deck para o seu Cemitério.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

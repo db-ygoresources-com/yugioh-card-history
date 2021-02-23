@@ -1,0 +1,16 @@
+{
+  "id": 7718,
+  "type": "monster",
+  "name": "Comandante Psichico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando un mostro di Tipo Psichico che controlli combatte, durante il Damage Step puoi pagare Life Points in multipli di 100 (massimo 500) per far perdere al mostro con cui sta combattendo altrettanto ATK e DEF, fino alla End Phase.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Psichico",
+    "Tuner",
+    "Effetto"
+  ]
+}

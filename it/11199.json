@@ -1,0 +1,15 @@
+{
+  "id": 11199,
+  "type": "monster",
+  "name": "Bujingi Sinyou",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Durante il Damage Step di qualsiasi giocatore, se un mostro \"Bujin\" di Tipo Guerriero-Bestia che controlli combatte con un mostro dell'avversario: puoi bandire questa carta dal tuo Cimitero; quel mostro che controlli guadagna ATK pari all'ATK attuale del mostro dell'avversario con cui sta combattendo fino alla fine del Damage Step e, se lo fa, tutto il danno da combattimento che il tuo avversario subisce da quella battaglia viene dimezzato. Puoi utilizzare questo effetto di \"Bujingi Sinyou\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

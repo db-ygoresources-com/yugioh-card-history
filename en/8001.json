@@ -1,0 +1,16 @@
+{
+  "id": 8001,
+  "type": "monster",
+  "name": "Black Salvo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.",
+  "level": 3,
+  "atk": 100,
+  "def": 1100,
+  "properties": [
+    "Machine",
+    "Tuner",
+    "Effect"
+  ]
+}

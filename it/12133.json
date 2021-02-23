@@ -1,0 +1,18 @@
+{
+  "id": 12133,
+  "type": "monster",
+  "name": "Dinofoschia Plesius",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Tutti i mostri scoperti controllati dal tuo avversario perdono 100 ATK e DEF per ogni carta \"Dinofoschia\" che controlli.",
+  "pendEffect": "Una volta, mentre questa carta è nella tua Zona Pendulum, puoi annullare l'effetto attivato di una carta che sceglie come bersaglio una o più altre carte \"Dinofoschia\" che controlli, poi distruggi questa carta.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

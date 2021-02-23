@@ -1,0 +1,18 @@
+{
+  "id": 12143,
+  "type": "monster",
+  "name": "Doriado Nero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi selezionare 4 mostri dal tuo Deck (1 TERRA, 1 ACQUA, 1 FUOCO e 1 VENTO), poi mettili in cima al Deck in qualsiasi ordine.",
+  "pendEffect": "Tutti i mostri TERRA, ACQUA, FUOCO e VENTO che controlli guadagnano 200 ATK/DEF per ogni Attributo diverso tra i mostri che controlli.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

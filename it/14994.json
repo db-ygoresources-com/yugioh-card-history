@@ -1,0 +1,15 @@
+{
+  "id": 14994,
+  "type": "monster",
+  "name": "Arcinemeses Protos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) bandendo 3 mostri con Attributi diversi dal tuo Cimitero e/o Terreno scoperto. Non può essere distrutto dagli effetti delle carte. Puoi dichiarare 1 Attributo di mostro sul Terreno; distruggi tutti i mostri sul Terreno con quell'Attributo, inoltre, fino alla fine del prossimo turno, nessun giocatore può Evocare Specialmente mostri con quell'Attributo. Puoi utilizzare questo effetto di \"Arcinemeses Protos\" una sola volta per turno.",
+  "level": 11,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Effetto"
+  ]
+}

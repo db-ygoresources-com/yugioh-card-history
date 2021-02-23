@@ -1,0 +1,18 @@
+{
+  "id": 11601,
+  "type": "monster",
+  "name": "Mestre Cristalino",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode oferecer este card como Tributo; adicione 1 monstro \"Cristalino(a) Definitivo(a)\", monstro \"Fera Cristalina\", ou Magia/Armadilha \"Cristalino(a)\" do seu Deck à sua mão.",
+  "pendEffect": "Seu oponente não pode escolher monstros \"Cristalino(a) Definitivo(a)\" ou cards \"Fera Cristalina\" que você controla como alvo de efeitos de card.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6086,
+  "type": "monster",
+  "name": "Sorcier de la Magie des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable. Uniquement Invocable Spécialement (depuis votre main) en Sacrifiant 2 monstres de Type Magicien de min. Niveau 6, et non Invocable Spécialement autrement. Durant le tour de chaque joueur, lorsqu'une Carte Piège est activée : vous pouvez annuler l'activation, et si vous le faites, détruisez-la. Cette carte doit être face recto sur le Terrain pour activer et résoudre cet effet.",
+  "level": 9,
+  "atk": 3200,
+  "def": 2800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

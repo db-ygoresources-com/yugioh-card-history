@@ -1,0 +1,15 @@
+{
+  "id": 6736,
+  "type": "monster",
+  "name": "Ambulanceroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre qui inclut \"roid\" dans son nom de carte est ajouté à votre main depuis votre Cimetière, vous pouvez faire l'invocation Spéciale de ce monstre.",
+  "level": 3,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

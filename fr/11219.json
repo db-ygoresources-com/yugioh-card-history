@@ -1,0 +1,18 @@
+{
+  "id": 11219,
+  "type": "monster",
+  "name": "Crapaud du Tour Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, durant votre Battle Phase (sauf durant la Damage Step) : vous pouvez cibler 1 monstre que vous contrôlez ; changez sa position de combat, et si vous le faites, jusqu'à la fin de ce tour, échangez son ATK et sa DEF actuelles.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, échangez son ATK et sa DEF actuelles.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Aqua",
+    "Pendule",
+    "Effet"
+  ]
+}

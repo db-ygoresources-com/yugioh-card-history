@@ -1,0 +1,15 @@
+{
+  "id": 13184,
+  "type": "monster",
+  "name": "Mezclaroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes Sacrificar 1 monstruo Máquina; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"roid\" que no sea de VIENTO. Puedes pagar la mitad de tus LP y desterrar cualquier cantidad de monstruos Máquina en tu Cementerio, incluyendo esta carta; Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Fusión \"roid\" con el mismo Nivel que la cantidad de esos monstruos desterrados, ignorando sus condiciones de Invocación, pero destrúyelo durante la End Phase. Sólo puedes usar cada efecto de \"Mezclaroid\" una vez por turno.",
+  "level": 4,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

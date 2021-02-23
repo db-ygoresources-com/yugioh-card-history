@@ -1,0 +1,15 @@
+{
+  "id": 5974,
+  "type": "monster",
+  "name": "Dragon d'Eclat Solaire",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que vous contrôlez un autre monstre de Type Pyro, cette carte ne peut pas être attaquée. Durant chacune de vos End Phases : infligez 500 points de dommages à votre adversaire.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

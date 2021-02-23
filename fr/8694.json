@@ -1,0 +1,16 @@
+{
+  "id": 8694,
+  "type": "monster",
+  "name": "Médiateur Méchabot",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte sur le Terrain est détruite et envoyée au Cimetière : vous pouvez ajouter 1 monstre Union depuis votre Deck à votre main. Une fois par tour, vous pouvez SOIT : ciblez 1 monstre Machine que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

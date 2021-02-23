@@ -1,0 +1,16 @@
+{
+  "id": 8331,
+  "type": "monster",
+  "name": "Canon Turbo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Roquette Turbo\" + 1 monstre non Syntoniseur ou plus\nUne fois par tour, vous pouvez détruire 1 monstre face recto sur le Terrain et infliger des dommages à son contrôleur égaux à la moitié de son ATK.",
+  "level": 3,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

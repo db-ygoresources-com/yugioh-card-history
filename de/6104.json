@@ -1,0 +1,15 @@
+{
+  "id": 6104,
+  "type": "monster",
+  "name": "Mystischer Schwertkämpfer LV4",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden (kann aber normal gesetzt werden.) Am Beginn des Damage Steps, falls diese Karte ein Monster in verdeckter Verteidigungsposition angegriffen hat: Zerstöre das Monster. Während der End Phase, falls diese Karte in diesem Spielzug ein Monster durch Kampf zerstört hat: Du kannst diese offene Karte auf den Friedhof legen; beschwöre 1 „Mystischer Schwertkämpfer LV6“ als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

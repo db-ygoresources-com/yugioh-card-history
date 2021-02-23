@@ -1,0 +1,16 @@
+{
+  "id": 10172,
+  "type": "monster",
+  "name": "Chrononaute de Cristal Chronomal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 3\nUne fois par tour, lorsque cette carte est ciblée par une attaque : vous pouvez détacher 1 Matériel Xyz de cette carte ; ce tour, cette carte ne peut être détruite ni au combat ni par des effets de carte, et aussi, votre adversaire reçoit les dommages de combat que vous auriez dû recevoir de combats impliquant cette carte.",
+  "rank": 3,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Psychique",
+    "Xyz",
+    "Effet"
+  ]
+}

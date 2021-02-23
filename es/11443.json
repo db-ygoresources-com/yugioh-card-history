@@ -1,0 +1,18 @@
+{
+  "id": 11443,
+  "type": "monster",
+  "name": "D/D/D Armagedón, Rey de las Fatalidades",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, si uno o más monstruos que controlas son destruidos en batalla o por efecto de una carta: puedes seleccionar 1 de esos monstruos; hasta el final de este turno, esta carta gana ATK igual al ATK original de ese monstruo. Esta carta no puede atacar a tu adversario directamente durante el turno que es activado este efecto. No puede ser destruida por efectos de Cartas Mágicas/de Trampa que no seleccionen esta carta.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo \"D/D\" que controles; hasta el final de este turno, éste gana 800 ATK (aún si esta carta deja el Campo).",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

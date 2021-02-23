@@ -1,0 +1,15 @@
+{
+  "id": 10860,
+  "type": "monster",
+  "name": "Chasse-Neige Grande Vitesse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre de votre adversaire déclare une attaque directe, tant que vous contrôlez une ou plusieurs cartes dans votre Zone Magie & Piège : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis détruisez autant de cartes dans votre Zone Magie & Piège que possible, et si vous le faites, infligez 200 points de dommages à votre adversaire pour chaque carte détruite. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres Machine exclus).",
+  "level": 10,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

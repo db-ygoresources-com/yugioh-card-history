@@ -1,0 +1,15 @@
+{
+  "id": 12489,
+  "type": "monster",
+  "name": "Dragón Pandémico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes pagar LP en múltiplos de 100; todos los demás monstruos boca arriba en el Campo pierden esa cantidad de ATK. Una vez por turno: puedes seleccionar 1 monstruo en el Campo con ATK igual o menor al de esta carta; destrúyelo. Si esta carta es destruida en batalla o por el efecto de una carta: todos los monstruos boca arriba en el Campo pierden 1000 ATK.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 8800,
+  "type": "monster",
+  "name": "Lyna la Charmeuse de Lumière",
+  "oldName": "Lyna l'Invocatrice de Lumière",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "notes": "Nom de carte actualisé de \"Lyna l'Invocatrice de Lumière\". (La version imprimée n'est pas encore disponible.)",
+  "effectText": "FLIP : Prenez le contrôle d'1 monstre LUMIÈRE contrôlé par votre adversaire, tant que cette carte est face recto sur le Terrain.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

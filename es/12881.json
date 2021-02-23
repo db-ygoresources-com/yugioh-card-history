@@ -1,0 +1,18 @@
+{
+  "id": 12881,
+  "type": "monster",
+  "name": "Artistamigo Balada",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si tu monstruo \"Artistamigo\" atacó, después del cálculo de daño: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; ese objetivo pierde ATK igual al ATK de ese monstruo \"Artistamigo\".",
+  "pendEffect": "Una vez por turno, al comienzo del Damage Step, cuando tu monstruo \"Artistamigo\" batalla con un monstruo boca arriba de tu adversario: puedes hacer que ese monstruo de tu adversario pierda 600 ATK (aún si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Planta",
+    "Péndulo",
+    "Efecto"
+  ]
+}

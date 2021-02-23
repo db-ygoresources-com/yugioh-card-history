@@ -1,0 +1,16 @@
+{
+  "id": 14213,
+  "type": "monster",
+  "name": "Magicien du Chaos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Forme du Chaos\". Le nom de cette carte devient \"Magicien Sombre\" tant qu'elle est sur le Terrain ou dans le Cimetière. Une fois par tour, lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Si cette carte Invoquée Rituellement est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 Monstre Rituel \"Chaos\" (\"Magicien du Chaos\" exclu) ou \"Soldat du Lustre Noir\" depuis votre main, en ignorant ses conditions d'Invocation.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

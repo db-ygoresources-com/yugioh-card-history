@@ -1,0 +1,18 @@
+{
+  "id": 11960,
+  "type": "monster",
+  "name": "Peluchefeu Mageartiste",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Mageartiste\" (\"Peluchefeu Mageartiste\" exclu) depuis votre main ou Deck.",
+  "pendEffect": "Si un ou plusieurs monstres \"Mageartiste\" que vous contrôlez sont détruits au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule, puis recevez 500 points de dommages. Vous ne pouvez utiliser cet effet de \"Peluchefeu Mageartiste\" qu'une fois par tour.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

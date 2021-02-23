@@ -1,0 +1,18 @@
+{
+  "id": 12227,
+  "type": "monster",
+  "name": "D/D Sabio Copernicus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 carta \"D/D\" o \"Contrato Oscuro\" en tu Deck, excepto \"D/D Sabio Copernicus\". Sólo puedes usar este efecto de \"D/D Sabio Copernicus\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"D/D\". Este efecto no puede ser negado. Una vez, mientras esta carta está en tu Zona de Péndulo, puedes negar un efecto de Carta Mágica activado que te fuera a infligir daño, y después destruye esta carta.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

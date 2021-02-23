@@ -1,0 +1,16 @@
+{
+  "id": 12434,
+  "type": "monster",
+  "name": "Amaterasu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocada de Modo Normal o Especial. Durante el turno de cualquier jugador, cuando tu adversario activa una carta o efecto que seleccione a este monstruo boca abajo: puedes cambiar esta carta a Posición de Defensa boca arriba; roba 1 carta. Si esta carta es volteada boca arriba: destierra todas las demás cartas en el Campo. Una vez por turno, durante la End Phase, si este turno esta carta fue volteada boca arriba: devuélvela a la mano.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Hada",
+    "Spirit",
+    "Efecto"
+  ]
+}

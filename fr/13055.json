@@ -1,0 +1,16 @@
+{
+  "id": 13055,
+  "type": "monster",
+  "name": "Banksiogre Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 1 monstre de votre adversaire avec un Compteur Prédateur. Si cette carte est envoyée depuis le Terrain au Cimetière : placez 1 Compteur Prédateur sur chaque monstre face recto contrôlé par votre adversaire, et si vous le faites, chacun de ces monstres de min. Niveau 2 deviennent Niveau 1 tant qu'ils ont un Compteur Prédateur.",
+  "level": 6,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

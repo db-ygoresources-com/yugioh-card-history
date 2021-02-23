@@ -1,0 +1,15 @@
+{
+  "id": 8155,
+  "type": "monster",
+  "name": "Manipulateur de Niveau",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "S'il n'y a aucun monstre sur le Terrain, vous pouvez Invoquer Normalement cette carte comme un monstre de Niveau 2. Si votre adversaire contrôle un monstre et que vous n'en contrôlez aucun, vous pouvez Invoquer Spécialement cette carte (depuis votre main) comme un monstre de Niveau 4.",
+  "level": 3,
+  "atk": 300,
+  "def": 600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

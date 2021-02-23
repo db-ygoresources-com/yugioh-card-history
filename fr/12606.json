@@ -1,0 +1,16 @@
+{
+  "id": 12606,
+  "type": "monster",
+  "name": "Citree Crystron",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant la Main Phase ou Battle Phase de votre adversaire : vous pouvez cibler 1 monstre non-Syntoniseur dans votre Cimetière ; Invoquez-le Spécialement, mais il a ses effets annulés (s'il en a), et si vous le faites, immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro de Type Machine en utilisant uniquement le monstre et cette carte (ceci est un Effet Rapide). Ces Matériels de Synchro sont bannis au lieu d'être envoyés au Cimetière. Vous ne pouvez utiliser cet effet de \"Citree Crystron\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

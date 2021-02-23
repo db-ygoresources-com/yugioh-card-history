@@ -1,0 +1,15 @@
+{
+  "id": 8145,
+  "type": "monster",
+  "name": "Grenouille Subaquatique",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en tant que dommages de combat à votre adversaire.",
+  "level": 2,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

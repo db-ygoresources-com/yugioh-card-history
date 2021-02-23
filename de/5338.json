@@ -1,0 +1,16 @@
+{
+  "id": 5338,
+  "type": "monster",
+  "name": "Unterweltler-Totenkopfdrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "„Höhlendrache“ + „Geringerer Unterweltler“\n(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)\nEine Fusionsbeschwörung dieser Karte kann nur mit den oben aufgeführten Fusionsmaterialmonstern durchgeführt werden. Annulliere die Effekte von Flippeffektmonstern. Annulliere alle Falleneffekte, die diese Karte auf dem Spielfeld als Ziel wählen, und falls du dies tust, zerstöre die Fallenkarte.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

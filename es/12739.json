@@ -1,0 +1,18 @@
+{
+  "id": 12739,
+  "type": "monster",
+  "name": "Artistamigo Hacedor de Risas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando esta carta declara un ataque: hasta el final de la Battle Phase, puedes hacer que esta carta gane 1000 ATK por cada monstruo en el Campo, excepto monstruos que tú controles, cuyo ATK en este momento sea mayor que su ATK original. Si esta carta es destruida en batalla o por efecto de una carta mientras su ATK en este momento sea mayor que su ATK original: puedes seleccionar 1 monstruo en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar 1 efecto de monstruo de \"Artistamigo Hacedor de Risas\" por turno, y sólo una vez ese turno.",
+  "pendEffect": "Una vez por turno, si tu adversario controla un monstruo cuyo ATK en este momento sea mayor que su ATK original: puedes ganar 1000 LP.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

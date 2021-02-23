@@ -1,0 +1,16 @@
+{
+  "id": 9207,
+  "type": "monster",
+  "name": "Incubo Psichico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Tuner + 1 o più mostri non-Tuner di Tipo Psichico\nUna volta per turno, durante la tua Main Phase, puoi scegliere 1 carta a caso nella mano del tuo avversario e dichiarare che tipo di carta è (Mostro, Magia o Trappola). Se indovini, questa carta guadagna 1000 ATK fino alla End Phase del tuo avversario.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Psichico",
+    "Synchro",
+    "Effetto"
+  ]
+}

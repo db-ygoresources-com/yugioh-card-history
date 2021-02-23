@@ -1,0 +1,15 @@
+{
+  "id": 7522,
+  "type": "monster",
+  "name": "Ananta, Dragon Maléfique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte ne peut pas être Invoquée Normalement ni être Posée. Cette carte ne peut pas être Invoquée Spécialement, excepté en retirant du jeu tous les monstres de Type Reptile de votre Terrain et de votre Cimetière. L'ATK et la DEF de cette carte sont chacune égales au nombre de monstres que vous avez retirés x 600 points. Durant chacune de vos End Phases, détruisez 1 carte sur le Terrain.",
+  "level": 8,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

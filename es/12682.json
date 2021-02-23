@@ -1,0 +1,15 @@
+{
+  "id": 12682,
+  "type": "monster",
+  "name": "Algo Mágico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. El Nivel de esta carta se aumenta según la cantidad de Contadores Mágicos que tenga. Puedes retirar 3 Contadores Mágicos de esta carta, y después seleccionar 1 Mágica de Juego Rápido en tu Cementerio; Coloca esa carta en tu Zona de Magia y Trampas. Sólo puedes usar este efecto de \"Algo Mágico\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

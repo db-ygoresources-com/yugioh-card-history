@@ -1,0 +1,15 @@
+{
+  "id": 5777,
+  "type": "monster",
+  "name": "Arcidemone Re del Terrore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non puoi Evocare questa carta tramite Evocazione Normale o Evocazione per Scoperta a meno che tu non abbia una Carta Mostro ARCIDEMONE sul tuo Terreno. Il controllore di questa carta paga 800 Life Points durante ogni sua Standby Phase (non è opzionale). Quando questa carta viene designata come bersaglio dell'effetto di una carta controllata dal tuo avversario, quando l'effetto viene risolto, tira un dado. Se il risultato è 2 o 5, annulla l'effetto e distruggi la carta dell'avversario. L'effetto di un Mostro con Effetto distrutto da questa carta in seguito ad battaglia viene annullato.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

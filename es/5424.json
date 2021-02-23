@@ -1,0 +1,15 @@
+{
+  "id": 5424,
+  "type": "monster",
+  "name": "Jarra de Dados",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Ambos jugadores lanzan un dado de seis caras. El jugador con el resultado más bajo recibe daño igual al resultado de su adversario x 500. Pero si el resultado del ganador es 6, el perdedor recibe 6000 puntos de daño. Si los resultados son los mismos, ambos jugadores lanzan el dado de nuevo.",
+  "level": 3,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

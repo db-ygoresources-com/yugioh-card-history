@@ -1,0 +1,15 @@
+{
+  "id": 5489,
+  "type": "monster",
+  "name": "Helpoemer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung vom Friedhof beschworen werden. Am Ende der Battle Phase deines Gegners, falls sich diese Karte im Friedhof befindet, weil sie durch Kampf zerstört wurde: Lasse deinen Gegner 1 zufällige Karte abwerfen. Diese Karte muss sich im Friedhof befinden, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

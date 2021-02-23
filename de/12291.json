@@ -1,0 +1,16 @@
+{
+  "id": 12291,
+  "type": "monster",
+  "name": "Beschützer mit den blauen Augen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 LICHT Empfänger der Stufe 1 als Spezialbeschwörung von deiner Hand beschwören. Du kannst 1 Effektmonster wählen, das du kontrollierst; lege es auf den Friedhof und falls du dies tust, beschwöre 1 „Blauäugig“-Monster als Spezialbeschwörung von deiner Hand. Du kannst diesen Effekt von „Beschützer mit den blauen Augen“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 800,
+  "def": 1300,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

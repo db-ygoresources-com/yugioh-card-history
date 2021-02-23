@@ -1,0 +1,16 @@
+{
+  "id": 15077,
+  "type": "monster",
+  "name": "Plünderpatrouillen-Schiff Brann",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nAlle anderen Unterweltler-Monster, die du kontrollierst, erhalten 500 ATK. Du kannst 1 „Plünderpatrouillen“-Karte abwerfen und dann 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; verbanne ihn oder sie, dann kannst du deiner Hand 1 „Plünderpatrouillen“-Monster von deinem Deck hinzufügen. Dies ist ein Schnelleffekt, falls diese Karte mit einer „Plünderpatrouillen“-Karte ausgerüstet ist. Du kannst diesen Effekt von „Plünderpatrouillen-Schiff Brann“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Effekt"
+  ]
+}

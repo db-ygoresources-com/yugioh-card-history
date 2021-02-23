@@ -1,0 +1,18 @@
+{
+  "id": 12143,
+  "type": "monster",
+  "name": "Doriado Oscura",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes elegir 4 monstruos en tu Deck (1 de TIERRA, 1 de AGUA, 1 de FUEGO y 1 de VIENTO), y después ponerlos en la parte superior del Deck en cualquier orden.",
+  "pendEffect": "Todos los monstruos de TIERRA, AGUA, FUEGO y VIENTO que controles ganan 200 ATK/DEF por cada Atributo diferente entre los monstruos que controles.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

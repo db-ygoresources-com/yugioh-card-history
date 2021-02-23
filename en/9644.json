@@ -1,0 +1,15 @@
+{
+  "id": 9644,
+  "type": "monster",
+  "name": "Gishki Diviner",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Sea Serpent",
+    "Effect"
+  ]
+}

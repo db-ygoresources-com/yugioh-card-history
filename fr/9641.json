@@ -1,0 +1,15 @@
+{
+  "id": 9641,
+  "type": "monster",
+  "name": "Échappé du Temps",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant le tour de chaque joueur : vous pouvez défausser cette carte, puis ciblez 1 monstre de Type Psychique que vous contrôlez ; jusqu'à votre prochaine Standby Phase, bannissez-le.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

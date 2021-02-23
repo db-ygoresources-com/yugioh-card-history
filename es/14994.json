@@ -1,0 +1,15 @@
+{
+  "id": 14994,
+  "type": "monster",
+  "name": "Archinémeses Protos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 3 monstruos con Atributos diferentes en tu Cementerio y/o Campo boca arriba. No puede ser destruido por efectos de cartas. Puedes declarar 1 Atributo de monstruo en el Campo; destruye todos los monstruos en el Campo con ese Atributo, y además, hasta el final del próximo turno, ningún jugador puede Invocar de Modo Especial monstruos con ese Atributo. Sólo puedes usar este efecto de \"Archinémeses Protos\" una vez por turno.",
+  "level": 11,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Efecto"
+  ]
+}

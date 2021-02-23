@@ -1,0 +1,16 @@
+{
+  "id": 10406,
+  "type": "monster",
+  "name": "ZW - Armes de Léo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 5\nCette carte ne peut pas attaquer directement votre adversaire. Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; ajoutez 1 monstre \"ZW -\" depuis votre Deck à votre main. Vous pouvez cibler 1 monstre \"Utopie\" que vous contrôlez ; équipez ce monstre sur le Terrain à la cible. Il gagne 3000 ATK. Durant votre Battle Phase, si un monstre a attaqué ce tour tant qu'il est équipé avec cette carte : vous pouvez envoyer cette Carte d'Équipement au Cimetière ; durant cette Battle Phase, le monstre qui était équipé avec cette carte peut attaquer une seconde fois un monstre de votre adversaire.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 1200,
+  "properties": [
+    "Bête",
+    "Xyz",
+    "Effet"
+  ]
+}

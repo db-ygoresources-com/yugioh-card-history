@@ -1,0 +1,18 @@
+{
+  "id": 13862,
+  "type": "monster",
+  "name": "Acteur des Abysses - Douce Madonna",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Gagne 100 ATK pour chaque Magie \"Script des Abysses\" dans votre Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Acteur des Abysses - Douce Madonna\" qu'une fois par tour.\n●Lorsqu'un Monstre Pendule que vous contrôlez est détruit au combat : vous pouvez Invoquer Spécialement cette carte depuis votre main.\n●Si une Carte Magie ou effet de Magie \"Script des Abysses\" est activé : vous pouvez Invoquer Spécialement 1 Monstre Pendule \"Acteur des Abysses\" de max. Niveau 4 depuis votre Deck, mais renvoyez-le à la main durant la End Phase.",
+  "pendEffect": "Vous pouvez payer 1000 LP ; ajoutez 1 Monstre Pendule \"Acteur des Abysses\" (\"Acteur des Abysses - Douce Madonna\" exclu) depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Pendule \"Acteur des Abysses\" exclus) le reste de ce tour (même si cette carte quitte le Terrain). Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Douce Madonna\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 1800,
+  "def": 2500,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

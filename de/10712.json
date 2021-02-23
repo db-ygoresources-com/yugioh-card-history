@@ -1,0 +1,16 @@
+{
+  "id": 10712,
+  "type": "monster",
+  "name": "Norito der moralische Führer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Hexer-Monster der Stufe 6\nEinmal pro Spielzug, wenn dein Gegner eine Zauber-/Fallenkarte aktiviert (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen; annulliere die Aktivierung und falls du dies tust, zerstöre sie.",
+  "rank": 6,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

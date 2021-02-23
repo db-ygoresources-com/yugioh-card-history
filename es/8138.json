@@ -1,0 +1,15 @@
+{
+  "id": 8138,
+  "type": "monster",
+  "name": "Luchador Colosal/Modo de Ataque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta no puede ser Invocada de Modo Especial excepto con \"Activar Modo de Ataque\". Cuando Invocas esta carta de Modo Especial, puedes mandar hasta 2 monstruos de Tipo Guerrero desde tu Deck a tu Cementerio. Los monstruos que controle tu adversario pierden 100 ATK por cada monstruo de Tipo Guerrero en tu Cementerio. Cuando esta carta está en el Campo y es destruida, puedes Invocar de Modo Especial desde tu Cementerio 1 \"Luchador Colosal\".",
+  "level": 10,
+  "atk": 3300,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

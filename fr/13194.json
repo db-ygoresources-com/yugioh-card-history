@@ -1,0 +1,15 @@
+{
+  "id": 13194,
+  "type": "monster",
+  "name": "Clinsecte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tant que cette carte Invoquée/Posée Normalement est face recto sur le Terrain, tous les monstres Cyberse que vous contrôlez gagnent 500 ATK/DEF durant votre tour uniquement. Si cette carte sur le Terrain va être détruite au combat ou par un effet de carte, vous pouvez détruire 1 monstre Cyberse dans votre main ou sur votre Terrain face recto à la place.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

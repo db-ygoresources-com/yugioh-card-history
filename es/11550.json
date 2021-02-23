@@ -1,0 +1,16 @@
+{
+  "id": 11550,
+  "type": "monster",
+  "name": "Smartfon Morfotrónico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo \"Morfotrónico/a\" en tu Cementerio.\n●Mientras esté en Posición de Ataque: Una vez por turno: puedes lanzar un dado de seis caras, excavar la misma cantidad de cartas de la parte superior de tu Deck, añadir a tu mano 1 carta \"Morfotrónico/a\" excavada y además barajar el resto de vuelta al Deck.\n●Mientras esté en Posición de Defensa: Una vez por turno: puedes lanzar un dado de seis caras, mirar la misma cantidad de cartas de la parte superior de tu Deck, y después poner todas en la parte superior o la parte inferior del Deck, pero en cualquier orden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

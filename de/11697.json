@@ -1,0 +1,18 @@
+{
+  "id": 11697,
+  "type": "monster",
+  "name": "Schattenpuppe Zefranaga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Pendelbeschwörung beschworen oder auf den Friedhof gelegt wird: Du kannst 1 Karte in der Pendelzone eines beliebigen Spielers wählen; gib sie auf die Hand zurück. Du musst eine „Zefra“-Karte in deiner Pendelzone haben, um diesen Effekt zu aktivieren und aufzulösen. Du kannst diesen Effekt von „Schattenpuppe Zefranaga“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Schattenpuppe“- und „Zefra“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

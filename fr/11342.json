@@ -1,0 +1,15 @@
+{
+  "id": 11342,
+  "type": "monster",
+  "name": "Armure de Feu Âme Samouraï Supralourd",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez cibler 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; équipez ce monstre depuis votre main ou votre Terrain à la cible. Son Niveau devient 5. Durant le tour de chaque joueur : vous pouvez défausser cette carte, puis ciblez 1 monstre \"Samouraï Supralourd\" en Position de Défense que vous contrôlez ; jusqu'à la fin de ce tour, il perd 800 DEF, mais il ne peut être détruit ni au combat ni par des effets de carte.",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

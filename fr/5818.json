@@ -1,0 +1,16 @@
+{
+  "id": 5818,
+  "type": "monster",
+  "name": "Lézard de Grand Vent",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Ciblez 1 monstre contrôlé par votre adversaire ; renvoyez la cible à la main.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Reptile",
+    "Flip",
+    "Effet"
+  ]
+}

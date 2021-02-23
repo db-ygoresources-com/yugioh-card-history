@@ -1,0 +1,18 @@
+{
+  "id": 13037,
+  "type": "monster",
+  "name": "Artistamico Carta Gardna",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Guadagna DEF pari alla somma dei DEF originali di tutti gli altri mostri \"Artistamico\" che controlli.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto in Posizione di Difesa che controlli; il suo DEF diventa pari alla somma dei DEF originali di tutti i mostri scoperti in Posizione di Difesa che controlli attualmente (anche se questa carta lascia il Terreno).",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Roccia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

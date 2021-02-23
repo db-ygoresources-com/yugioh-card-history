@@ -1,0 +1,15 @@
+{
+  "id": 11365,
+  "type": "monster",
+  "name": "Lindbloom",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se un mostro che controlli combatte con un mostro dell'avversario, durante il calcolo dei danni: l'ATK di ogni mostro in quella battaglia diventa pari suo DEF attuale, fino alla fine del Damage Step.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Wyrm",
+    "Effetto"
+  ]
+}

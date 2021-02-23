@@ -1,0 +1,15 @@
+{
+  "id": 8447,
+  "type": "monster",
+  "name": "Schicksalsdame Erde",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Die ATK und DEF dieser Karte entsprechen ihrer Stufe x 400. Während jeder deiner Standby Phasen, erhöhe die Stufe dieser Karte um 1 (maximal 12). Wenn die Stufe dieser Karte erhöht wird, füge deinem Gegner 400 Schaden zu.",
+  "level": 6,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

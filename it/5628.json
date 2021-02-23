@@ -1,0 +1,16 @@
+{
+  "id": 5628,
+  "type": "monster",
+  "name": "Paladino Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Mago Nero\" + \"Combattente delle Lame\"\nDeve essere Evocato tramite Fusione. Quando viene attivata una Carta Magia (Effetto Rapido): puoi scartare 1 carta; annulla l'attivazione e, se lo fai, distruggila. Questa carta deve essere scoperta sul Terreno per attivare e risolvere questo effetto. Guadagna 500 ATK per ogni mostro Drago sul Terreno e nel Cimitero.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Incantatore",
+    "Fusione",
+    "Effetto"
+  ]
+}

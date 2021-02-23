@@ -1,0 +1,18 @@
+{
+  "id": 12296,
+  "type": "monster",
+  "name": "Amorphage Völlerei",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Pendelbeschwörung beschworen oder aufgedeckt wird, kann kein Spieler Monster als Spezialbeschwörung vom Extra Deck beschwören, solange diese Karte offen auf dem Spielfeld liegt, außer „Amorphage“-Monstern.",
+  "pendEffect": "Solange du ein „Amorphage“-Monster kontrollierst, können die Effekte von Monstern nicht aktiviert werden, außer denen von „Amorphage“-Monstern. Einmal pro Spielzug, während deiner Standby Phase, biete 1 Monster als Tribut an oder zerstöre diese Karte.",
+  "pendScale": 5,
+  "level": 2,
+  "atk": 0,
+  "def": 1850,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

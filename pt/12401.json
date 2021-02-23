@@ -1,0 +1,18 @@
+{
+  "id": 12401,
+  "type": "monster",
+  "name": "Camarartista Gongato",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno, quando um ataque for declarado envolvendo um monstro que você controla e um monstro do oponente: você pode ativar este efeito; você não sofre dano de batalha dessa batalha.",
+  "pendEffect": "Uma vez por turno, quando um monstro do oponente declarar um ataque direto: você pode ativar este efeito; você não sofre dano de batalha dessa batalha (mesmo que este card deixe o campo).",
+  "pendScale": 2,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

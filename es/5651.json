@@ -1,0 +1,16 @@
+{
+  "id": 5651,
+  "type": "monster",
+  "name": "Viejo Mago Vengativo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Selecciona 1 monstruo que controle tu adversario; destruye ese objetivo.",
+  "level": 2,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

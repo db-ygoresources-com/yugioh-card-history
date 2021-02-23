@@ -1,0 +1,19 @@
+{
+  "id": 13840,
+  "type": "monster",
+  "name": "Mago da Esperança",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstros de Nível 4\nSe você puder Invocar por Invocação-Pêndulo de Nível 4, você pode Invocar este card com a face para cima no seu Deck Adicional por Invocação-Pêndulo. Você pode desassociar 1 matéria deste card; Invoque por Invocação-Especial 1 Monstro Pêndulo de Nível 7 ou menos da sua mão em Posição de Defesa, mas negue seus efeitos e, depois, você pode colocar este card com a face para cima na sua Zona de Pêndulo. Você só pode usar este efeito de \"Mago da Esperança\" uma vez por turno. Se este card for Invocado por Invocação-Pêndulo: você pode escolher 1 Monstro Pêndulo no seu Cemitério; associe-o a este card como matéria.",
+  "pendEffect": "Uma vez por turno, quando um monstro declarar um ataque: você pode negar o ataque e, depois, destrua este card.",
+  "pendScale": 8,
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

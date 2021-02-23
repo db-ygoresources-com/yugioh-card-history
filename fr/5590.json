@@ -1,0 +1,16 @@
+{
+  "id": 5590,
+  "type": "monster",
+  "name": "Bête Ignée",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, durant votre Main Phase, si vous contrôlez ce monstre sur le Terrain, vous pouvez équiper cette carte à votre \"Bête Gelée\" comme une Carte Magie d'Équipement, OU libérer cet équipement Union et faire l'Invocation Spéciale de cette carte en Position d'Attaque face recto. Uniquement lorsque cette carte est équipée par l'effet de cette carte, chaque fois que le monstre équipé inflige des dommages de combat à votre adversaire, détruisez 1 Carte Magie ou Piège face recto sur le Terrain. (1 monstre ne peut être équipé que par 1 monstre Union à la fois. Si le monstre que cette carte équipe est détruit à l'issue d'un combat, détruisez cette carte à la place.)",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Union",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12429,
+  "type": "monster",
+  "name": "Sphinx Triamid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement avec l'effet d'une carte \"Triamid\" et non Invocable Spécialement autrement. Si une ou plusieurs cartes \"Triamid\" face recto que vous contrôlez (\"Sphinx Triamid\" exclu) sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main. Tant que vous contrôlez une autre carte \"Triamid\" , cette carte gagne 500 ATK/DEF pour chaque Carte Magie de Terrain de nom différent dans votre Cimetière, et aussi, les monstres contrôlés par votre adversaire ne peuvent pas attaquer, sauf pour attaquer \"Sphinx Triamid\".",
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

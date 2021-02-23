@@ -1,0 +1,16 @@
+{
+  "id": 11079,
+  "type": "monster",
+  "name": "Orea, l'Alto Giudice Silvano",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri di Livello 7\nUna volta per turno: puoi mandare al Cimitero 1 mostro di Tipo Pianta dalla tua mano o scoperto sul tuo Terreno; guarda un numero di carte dalla cima del tuo Deck pari al Livello che il mostro mandato al Cimitero aveva nella mano o sul Terreno, poi mettile in cima al Deck in qualsiasi ordine. Una volta per turno: puoi staccare 1 Materiale Xyz da questa carta; scegli un numero tra 1 e 3, poi dissotterra quel numero di carte dalla cima del tuo Deck, manda qualsiasi mostro di Tipo Pianta dissotterrato al Cimitero e, se lo fai, fai ritornare fino a quel numero di carte dal Terreno nella mano (minimo 1), eccetto questa carta. Inoltre, metti le altre carte in fondo al tuo Deck in qualsiasi ordine.",
+  "rank": 7,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Pianta",
+    "Xyz",
+    "Effetto"
+  ]
+}

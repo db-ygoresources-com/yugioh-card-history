@@ -1,0 +1,15 @@
+{
+  "id": 10169,
+  "type": "monster",
+  "name": "Dreitausend Nadeln",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Am Ende des Damage Steps, falls diese Karte in Verteidigungsposition von einem Monster angegriffen wurde, dessen ATK niedriger sind als die DEF dieser Karte: Zerstöre das angreifende Monster.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

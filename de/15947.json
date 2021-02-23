@@ -1,0 +1,15 @@
+{
+  "id": 15947,
+  "type": "monster",
+  "name": "Kriegsfels-Orpis",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du keine Monster kontrollierst oder alle Monster, die du kontrollierst, Krieger-Monster sind, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Falls dein ERDE Krieger-Monster kämpft, nach der Schadensberechnung: Du kannst 1 ERDE Krieger-Monster von deinem Deck auf den Friedhof legen, außer „Kriegsfels-Orpis“, dann erhalten alle „Kriegsfels“-Monster, die du derzeit kontrollierst, bis zum Ende des Spielzugs deines Gegners 200 ATK. Du kannst diesen Effekt von „Kriegsfels-Orpis“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2100,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

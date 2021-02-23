@@ -1,0 +1,16 @@
+{
+  "id": 8085,
+  "type": "monster",
+  "name": "Mago de la Tempestad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1 o más monstruos de Tipo Lanzador de Conjuros que no sean Cantantes\nCuando Invocas por Sincronía a esta carta, pon 1 Contador Mágico en ella. Una vez por turno, puedes descartar cualquier cantidad de cartas para poner 1 Contador Mágico por cada carta descartada en un(os) monstruo(s) que controles. Puedes retirar todos los Contadores Mágicos en el Campo para infligir 500 puntos de daño a tu adversario por cada Contador Mágico retirado.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Sincronía",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12701,
+  "type": "monster",
+  "name": "Artistamico Zanna d'Oro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: tutti i mostri \"Artistamico\" che controlli attualmente guadagnano 200 ATK fino alla fine di questo turno.",
+  "pendEffect": "Una volta per turno, se un tuo mostro \"Artistamico\" distrugge un mostro dell'avversario in battaglia: infliggi 1000 danni al tuo avversario.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

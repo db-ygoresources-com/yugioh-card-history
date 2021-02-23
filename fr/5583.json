@@ -1,0 +1,16 @@
+{
+  "id": 5583,
+  "type": "monster",
+  "name": "Kiryu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, durant votre Main Phase, si vous contrôlez cette carte sur le Terrain, vous pouvez équiper cette carte à votre \"Sombrelame\" comme une Carte Magie d'Équipement, OU libérer cet équipement Union et faire l'Invocation Spéciale de cette carte en Position d'Attaque face recto. Uniquement lorsque cette carte est équipée par l'effet de cette carte, augmentez l'ATK et la DEF de ce monstre de 900 points, et vous pouvez sacrifier cette carte pour permettre au monstre équipé d'attaquer directement les Life Points de votre adversaire ce tour-ci. (1 monstre ne peut être équipé que par 1 monstre Union à la fois. Si le monstre que cette carte équipe est détruit à l'issue d'un combat, détruisez cette carte à la place.)",
+  "level": 5,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Dragon",
+    "Union",
+    "Effet"
+  ]
+}

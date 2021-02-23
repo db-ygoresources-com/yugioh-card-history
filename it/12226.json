@@ -1,0 +1,18 @@
+{
+  "id": 12226,
+  "type": "monster",
+  "name": "D/D Sapiente Newton",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scartare questa carta, poi scegliere come bersaglio 1 carta \"D/D\" o \"Contratto Oscuro\" nel tuo Cimitero, eccetto \"D/D Sapiente Newton\"; aggiungila alla tua mano. Puoi utilizzare questo effetto di \"D/D Sapiente Newton\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"D/D\". Questo effetto non può essere annullato. Una volta, mentre questa carta è nella tua Zona Pendulum, puoi annullare l'effetto di una Trappola attivata che sta per infliggerti danno, poi distruggi questa carta.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

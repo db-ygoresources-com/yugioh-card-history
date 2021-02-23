@@ -1,0 +1,16 @@
+{
+  "id": 11079,
+  "type": "monster",
+  "name": "Orea, el Alto Árbitro Silvano",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos de Nivel 7\nUna vez por turno: puedes mandar al Cementerio 1 monstruo de Tipo Planta en tu mano o boca arriba en tu lado del Campo; mira tantas cartas de la parte superior de tu Deck como el Nivel que ese monstruo mandado al Cementerio tenía en la mano o en el Campo, y después ponlas en la parte superior del Deck en cualquier orden. Una vez por turno: puedes desacoplar de esta carta 1 Material Xyz; elige un número del 1 al 3, y después excava esa misma cantidad de cartas de la parte superior de tu Deck, manda al Cementerio los monstruos de Tipo Planta y, si lo haces, devuelve a la mano hasta esa misma cantidad de cartas en el Campo (min. 1), excepto esta carta. Además, pon las demás cartas en el fondo de tu Deck en cualquier orden.",
+  "rank": 7,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Planta",
+    "Xyz",
+    "Efecto"
+  ]
+}

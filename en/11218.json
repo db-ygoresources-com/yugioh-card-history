@@ -1,0 +1,18 @@
+{
+  "id": 11218,
+  "type": "monster",
+  "name": "Performapal Kaleidoscorp",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
+  "pendEffect": "All LIGHT monsters you control gain 300 ATK.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "Insect",
+    "Pendulum",
+    "Effect"
+  ]
+}

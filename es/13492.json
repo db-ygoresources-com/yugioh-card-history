@@ -1,0 +1,20 @@
+{
+  "id": 13492,
+  "type": "monster",
+  "name": "Curious, el Señorío Luminoso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "3 monstruos con el mismo Atributo pero de Tipos diferentes\nSi esta carta boca arriba es destruida en batalla, o deja el Campo a causa del efecto de una carta del adversario mientras su dueño la controla: puedes seleccionar 1 carta en tu Cementerio; añádela a tu mano. Sólo puedes usar cada uno de los siguientes efectos de \"Curious, el Señorío Luminoso\" una vez por turno.\n●Si esta carta es Invocada por Enlace: puedes mandar al Cementerio 1 carta en tu Deck.\n●Si una o más cartas en tu Deck es mandada al Cementerio por un efecto: manda al Cementerio las 3 cartas de la parte superior de tu Deck.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

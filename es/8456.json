@@ -1,0 +1,15 @@
+{
+  "id": 8456,
+  "type": "monster",
+  "name": "Medusa Reptílica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Manda 1 carta desde tu mano al Cementerio y selecciona 1 monstruo boca arriba que controle tu adversario. El ATK de ese monstruo se convierte en 0, y no puede cambiar su posición de batalla.",
+  "level": 6,
+  "atk": 2200,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

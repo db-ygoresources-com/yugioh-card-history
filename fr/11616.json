@@ -1,0 +1,18 @@
+{
+  "id": 11616,
+  "type": "monster",
+  "name": "D/D/D Abysses Ragnarok, Roi de l'Oubli",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre \"D/D/D\" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"D/D/D Abysses Ragnarok, Roi de l'Oubli\" qu'une fois par tour. Une fois par tour : vous pouvez Sacrifier 1 autre monstre \"D/D\", puis ciblez 1 monstre contrôlé par votre adversaire ; bannissez-le.",
+  "pendEffect": "Si vous Invoquez Spécialement un ou plusieurs monstres \"D/D\" (sauf durant la Damage Step) : vous pouvez cibler 1 monstre \"D/D\" dans votre Cimetière ; les dommages de combat reçus par votre adversaire seront divisés par deux le reste de ce tour, et aussi, Invoquez Spécialement le monstre, et si vous le faites, recevez 1000 points de dommages. Vous ne pouvez utiliser cet effet de \"D/D/D Abysses Ragnarok, Roi de l'Oubli\" qu'une fois par tour.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2200,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 13202,
+  "type": "monster",
+  "name": "Encodificador Hablador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ monstruos Ciberso\nUna vez por turno, antes del cálculo de daño, si tu monstruo al que apunte esta carta batalla con un monstruo del adversario con ATK mayor al de él: puedes hacer que ese monstruo no pueda ser destruido en esa batalla, y además no recibes daño de batalla en esa batalla. Después de ese cálculo de daño, hasta el final de este turno, haz que esta carta o 1 monstruo a la que apunte, gane ATK igual al ATK de ese monstruo batallante del adversario.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "2",
+    "3"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

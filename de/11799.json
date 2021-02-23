@@ -1,0 +1,15 @@
+{
+  "id": 11799,
+  "type": "monster",
+  "name": "Künstlerzauberer Schadensjongleur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn eine Karte oder ein Effekt aktiviert wird, die oder der dir Schaden zufügen würde (Schnelleffekt): Du kannst diese Karte abwerfen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte. Während der Battle Phase (Schnelleffekt): Du kannst diese Karte abwerfen; reduziere den nächsten Kampfschaden, den du in diesem Spielzug erhalten würdest, auf 0. Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Künstlerzauberer“-Monster von deinem Deck hinzu, außer „Künstlerzauberer Schadensjongleur“. Du kannst diesen Effekt von „Künstlerzauberer Schadensjongleur“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7735,
+  "type": "monster",
+  "name": "Dragon Rouge Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nAprès le calcul des dommages, si cette carte attaque un monstre en Position de Défense contrôlé par votre adversaire : détruisez tous les monstres en Position de Défense contrôlés par votre adversaire. Durant votre End Phase : détruisez tous les autres monstres que vous contrôlez qui n'ont pas déclaré d'attaque ce tour. Cette carte doit être face recto sur le Terrain pour activer et résoudre cet effet.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

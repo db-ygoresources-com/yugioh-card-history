@@ -1,0 +1,21 @@
+{
+  "id": 13935,
+  "type": "monster",
+  "name": "Dragon Agave",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres (Jetons exclus)\nSi cette carte est Invoquée par Lien : vous pouvez appliquer ces effets dans l'ordre, selon les Types des monstres dans les Cimetières (ignorez ceux qui ne s'appliquent pas). Vous ne pouvez utiliser cet effet de \"Dragon Agave\" qu'une fois par tour.\n●Infligez 100 points de dommages à votre adversaire pour chaque Dragon.\n●Cette carte gagne 200 ATK pour chaque Dinosaure.\n●Tous les monstres actuellement contrôlés par votre adversaire perdent 300 ATK pour chaque Serpent de Mer.\n●Vous gagnez 400 LP pour chaque Wyrm.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Wyrm",
+    "Lien",
+    "Effet"
+  ]
+}

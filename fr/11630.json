@@ -1,0 +1,18 @@
+{
+  "id": 11630,
+  "type": "monster",
+  "name": "Dragons de Draconia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Armées de fusils et de lances, ces troupes à cheval de l'Empire Draconia sont craintes par le Royaume Reptier et les autres nations frontalières.",
+  "pendEffect": "Une fois par tour, si un Monstre Normal que vous contrôlez détruit un monstre de votre adversaire au combat, après le calcul des dommages : vous pouvez ajouter 1 Monstre Normal de min. Niveau 4 depuis votre Deck à votre main.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Bête-Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

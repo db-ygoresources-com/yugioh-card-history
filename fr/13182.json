@@ -1,0 +1,16 @@
+{
+  "id": 13182,
+  "type": "monster",
+  "name": "Dragon Cyberténébreusement",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "5 Monstres à Effet \"Cyberténébreu\"\nDoit d'abord être Invoquée par Fusion. Si cette carte est Invoquée Spécialement : vous pouvez équiper 1 monstre Dragon ou Machine depuis votre Cimetière à cette carte. Gagne une ATK égale à l'ATK d'origine du monstre qui lui est équipé par cet effet. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez envoyer 1 Carte d'Équipement que vous contrôlez au Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte.",
+  "level": 10,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

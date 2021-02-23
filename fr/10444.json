@@ -1,0 +1,15 @@
+{
+  "id": 10444,
+  "type": "monster",
+  "name": "Wolfbark Soldat Entraîneur",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez cibler 1 monstre FEU Bête-Guerrier de Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, mais annulez ses effets. Vous ne pouvez utiliser cet effet de \"Wolfbark Soldat Entraîneur\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

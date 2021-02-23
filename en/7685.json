@@ -1,0 +1,16 @@
+{
+  "id": 7685,
+  "type": "monster",
+  "name": "Water Spirit",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "This ancient water spirit haunts the glacial monoliths of Antarctica. It has the power to seep into the pores of any substance and chill it to the bone.",
+  "level": 1,
+  "atk": 400,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Tuner",
+    "Normal"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8017,
+  "type": "monster",
+  "name": "Dragón Emperador de la Perdición/Modo de Ataque",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta no puede ser Invocada de Modo Especial excepto con \"Activar Modo de Ataque\". Cuando Invocas esta carta de Modo Especial, Invoca de Modo Especial a tu Campo, desde el Cementerio de cualquier jugador, cualquier cantidad de monstruos de Tipo Zombi. Los efectos de esos monstruos son negados, y se destruyen durante la End Phase de este turno. Cuando esta carta en el Campo es destruida, puedes Invocar de Modo Especial, desde tu Cementerio, 1 \"Dragón Emperador de la Perdición\".",
+  "level": 8,
+  "atk": 2900,
+  "def": 2000,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9334,
+  "type": "monster",
+  "name": "Dragon de Ferraille Atomique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur \"Ferraille\" + 2 monstres non Syntoniseur ou plus\nUne fois par tour, vous pouvez sélectionner 1 carte que vous contrôlez et jusqu'à 3 cartes dans le Cimetière de votre adversaire. Détruisez votre carte sélectionnée et renvoyez les cartes sélectionnées de l'adversaire au Deck. Lorsque cette carte est détruite par une carte de votre adversaire (au combat ou par l'effet d'une carte) et envoyée au Cimetière, sélectionnez 1 monstre \"Ferraille\" non Synchro dans votre Cimetière et l'Invoquer Spécialement.",
+  "level": 10,
+  "atk": 3200,
+  "def": 2400,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5773,
+  "type": "monster",
+  "name": "Springer der Schatten, Erzunterweltler",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Der Spieler, der diese Karte kontrolliert, zahlt 900 Life Points in jeder seiner Standby Phasen. Wenn diese Karte als Ziel eines Effekts einer Karte, die dein Gegner kontrolliert, bestimmt wird, wirf bei der Abwicklung des Effekts einen sechsseitigen Würfel. Wenn das Würfelergebnis 3 ist, annulliere den Effekt und zerstöre die Karte. Kampfschaden, den diese Karte den Life Points deines Gegners zufügt, wird halbiert.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

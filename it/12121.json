@@ -1,0 +1,15 @@
+{
+  "id": 12121,
+  "type": "monster",
+  "name": "Score la Diva Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Durante il calcolo dei danni (nel turno di qualsiasi giocatore) se un mostro \"Melodiosa\" che controlli combatte con un mostro dell'avversario: puoi mandare questa carta dalla tua mano al Cimitero; cambia l'ATK e il DEF di quel mostro dell'avversario a 0, fino alla fine di questo turno.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

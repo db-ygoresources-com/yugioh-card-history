@@ -1,0 +1,16 @@
+{
+  "id": 14101,
+  "type": "monster",
+  "name": "Brandiruota Psichico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se controlli un mostro di Livello 3 diverso da \"Brandiruota Psichico\", puoi Evocare Specialmente questa carta (dalla tua mano) in Posizione di Difesa. Puoi Evocare Specialmente \"Brandiruota Psichico\" una sola volta per turno in questo modo. Se questa carta viene mandata al Cimitero come Materiale Synchro: puoi scegliere come bersaglio 1 mostro sul Terreno con ATK inferiore a quello del Mostro Synchro che ha utilizzato questa carta come materiale; distruggilo. Puoi utilizzare questo effetto di \"Brandiruota Psichico\" una sola volta per turno.",
+  "level": 3,
+  "atk": 600,
+  "def": 0,
+  "properties": [
+    "Psichico",
+    "Tuner",
+    "Effetto"
+  ]
+}

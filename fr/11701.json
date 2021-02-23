@@ -1,0 +1,18 @@
+{
+  "id": 11701,
+  "type": "monster",
+  "name": "Zefrasabre, Maître Escrimeur des Nékroz",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Sacrifier cette carte depuis votre main ou face recto depuis votre Terrain ; Sacrifiez des monstres depuis votre main ou Terrain, puis Invoquez Rituellement 1 Monstre Rituel \"Nékroz\" depuis votre main dont le Niveau est exactement égal au Niveau total de ces monstres. Vous ne pouvez utiliser cet effet de \"Zefrasabre, Maître Escrimeur des Nékroz\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Nékroz\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

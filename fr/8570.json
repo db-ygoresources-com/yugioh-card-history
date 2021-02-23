@@ -1,0 +1,16 @@
+{
+  "id": 8570,
+  "type": "monster",
+  "name": "Défenseur de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", les monstres contrôlés par votre adversaire ne peuvent pas déclarer d'attaque si leur ATK est supérieure ou égale à la DEF de cette carte.",
+  "level": 3,
+  "atk": 200,
+  "def": 1600,
+  "properties": [
+    "Aqua",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

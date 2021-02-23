@@ -1,0 +1,16 @@
+{
+  "id": 9964,
+  "type": "monster",
+  "name": "Numéro 7 : Ligne de la Chance",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "3 monstres de Niveau 7\nVous pouvez détacher 1 Matériel Xyz de cette carte ; lancez deux fois un dé à six faces et l'ATK de cette carte devient le plus grand résultat x 700, puis si le total des résultats était 7, vous pouvez appliquer 1 de ces effets.\n●Envoyez toutes les autres cartes sur le Terrain au Cimetière.\n●Invoquez Spécialement 1 monstre depuis votre main ou depuis l'un des Cimetières.\n●Piochez 3 cartes, puis défaussez 2 cartes.",
+  "rank": 7,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Elfe",
+    "Xyz",
+    "Effet"
+  ]
+}

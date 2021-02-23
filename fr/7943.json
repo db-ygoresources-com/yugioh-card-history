@@ -1,0 +1,15 @@
+{
+  "id": 7943,
+  "type": "monster",
+  "name": "Grenouille Flip Flap",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, vous pouvez retourner cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto, vous pouvez renvoyer les monstres contrôlés par votre adversaire dans la main de leur propriétaire jusqu'au nombre de monstres \"Grenouille\" ou \"Rainette\" face recto que vous contrôlez, excepté \"Grenouille, la Bave\".",
+  "level": 2,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

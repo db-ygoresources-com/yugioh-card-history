@@ -1,0 +1,15 @@
+{
+  "id": 4230,
+  "type": "monster",
+  "name": "Maître des Pièges",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Détruit 1 Carte Piège sur le Terrain. Si la cible de cette carte est face verso, retournez-la face recto. S'il s'agit d'une Carte Piège, elle est détruite. Sinon, retournez-la dans sa position face verso. La carte retournée n'est pas activée.",
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

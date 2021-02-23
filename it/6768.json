@@ -1,0 +1,15 @@
+{
+  "id": 6768,
+  "type": "monster",
+  "name": "Delfino Aqua Neo-Spaziale",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una volta per turno: puoi scartare 1 carta; guarda la mano del tuo avversario e seleziona 1 mostro. Se controlli un mostro con ATK pari o superiore all'ATK della carta selezionata, distruggi la carta selezionata e, se lo fai, infliggi 500 danni al tuo avversario. Altrimenti, subisci 500 danni.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

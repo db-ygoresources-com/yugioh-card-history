@@ -1,0 +1,19 @@
+{
+  "id": 14673,
+  "type": "monster",
+  "name": "Pantera de Prueba",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos incluyendo un monstruo \"Bestia Gladiador\"\nSi esta carta es Invocada por Enlace: puedes añadir a tu mano 1 carta \"Bestia Gladiador\" en tu Deck. Puedes seleccionar 1 monstruo \"Bestia Gladiador\" que controles; baraja ese monstruo \"Bestia Gladiador\" al Deck y, si lo haces, Invoca de Modo Especial 1 monstruo \"Bestia Gladiador\" con un nombre original diferente desde tu Deck. (Esto se trata como una Invocación Especial por el efecto de un monstruo \"Bestia Gladiador\"). Sólo puedes usar cada efecto de \"Pantera de Prueba\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Bestia",
+    "Enlace",
+    "Efecto"
+  ]
+}

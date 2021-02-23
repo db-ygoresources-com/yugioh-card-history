@@ -1,0 +1,15 @@
+{
+  "id": 7760,
+  "type": "monster",
+  "name": "Ür le Seigneur des Machines",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte peut attaquer une fois chacun des monstres contrôlés par votre adversaire. Si cette carte attaque ou est attaquée, votre adversaire ne reçoit aucun dommage de combat.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

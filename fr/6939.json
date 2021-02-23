@@ -1,0 +1,15 @@
+{
+  "id": 6939,
+  "type": "monster",
+  "name": "Soldat de Carte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez choisir un nombre entre 1 et 3, puis envoyez autant de cartes du dessus de votre Deck au Cimetière ; jusqu'à la fin de ce tour, cette carte gagne 500 ATK pour chaque carte envoyée au Cimetière de cette façon. Si cette carte que vous contrôlez est détruite et envoyée à votre Cimetière : piochez 1 carte.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

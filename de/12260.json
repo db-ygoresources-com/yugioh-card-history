@@ -1,0 +1,16 @@
+{
+  "id": 12260,
+  "type": "monster",
+  "name": "Nummer 38: Hoffnungsvorbote Drachentitanengalaxie",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 8\nEinmal pro Spielzug, wenn eine Zauberkarte oder ein Zaubereffekt auf dem Spielfeld aktiviert wird (Schnelleffekt): Du kannst den Effekt annullieren und falls du dies tust, hänge die Karte als Material an diese Karte an. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst 1 Material von dieser Karte abhängen; ändere das Angriffsziel auf diese Karte und führe die Schadensberechnung durch. Falls ein oder mehr offene Xyz-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst 1 offenes Xyz-Monster wählen, das du kontrollierst; es erhält ATK in Höhe der Grund-ATK von 1 der zerstörten Monster.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Effekt"
+  ]
+}

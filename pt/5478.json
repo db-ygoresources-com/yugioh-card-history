@@ -1,0 +1,16 @@
+{
+  "id": 5478,
+  "type": "monster",
+  "name": "Força de Ataque dos Goblin Toon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode atacar no turno em que for Invocado. Se \"Mundo Toon\", no campo, for destruído, destrua este card. Enquanto você controlar \"Mundo Toon\" e seu oponente não controlar nenhum monstro Toon, este card pode atacar diretamente seu oponente. Se este card atacar, ele é colocado em Posição de Defesa no final da Fase de Batalha e sua posição de batalha não pode ser mudada até o final da Fase Final do seu próximo turno.",
+  "level": 4,
+  "atk": 2300,
+  "def": 0,
+  "properties": [
+    "Guerreiro",
+    "Toon",
+    "Efeito"
+  ]
+}

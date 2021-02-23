@@ -1,0 +1,15 @@
+{
+  "id": 13899,
+  "type": "monster",
+  "name": "Boss des Protecteurs du Tombeau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée : vous pouvez cibler 1 monstre \"Protecteurs du Tombeau\" de Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement en Position d'Attaque ou en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Boss des Protecteurs du Tombeau\" qu'une fois par tour. Cet effet n'est pas affecté par \"Vallée Mortuaire\".",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

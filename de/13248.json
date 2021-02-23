@@ -1,0 +1,15 @@
+{
+  "id": 13248,
+  "type": "monster",
+  "name": "Drachensoldaten",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 Drache-Monster der Stufe 2 oder niedriger als Spezialbeschwörung von deinem Deck beschwören.",
+  "level": 2,
+  "atk": 700,
+  "def": 800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

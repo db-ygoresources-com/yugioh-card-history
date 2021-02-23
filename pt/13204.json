@@ -1,0 +1,19 @@
+{
+  "id": 13204,
+  "type": "monster",
+  "name": "Feiticeira Binária",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "2 monstros, exceto Fichas\nEste card ganha esses efeitos de acordo com o número de monstros co-linkados a este card.\n●1+: Quando um monstro co-linkado a este card batalhar um monstro do seu oponente e causar dano de batalha a ele: você pode ganhar esse tanto de PV.\n●2: Uma vez por turno (Efeito Rápido): você pode escolher 2 monstros com a face para cima que você controla; até o final deste turno, diminua pela metade o ATK de 1 monstro e, se isso acontecer, adicione esse ATK perdido ao outro monstro.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Ciberso",
+    "Link",
+    "Efeito"
+  ]
+}

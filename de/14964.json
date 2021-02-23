@@ -1,0 +1,16 @@
+{
+  "id": 14964,
+  "type": "monster",
+  "name": "Qadschattenpuppe Keios",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Du kannst 1 „Schattenpuppe“-Monster als Spezialbeschwörung von deiner Hand in die offene oder verdeckte Verteidigungsposition beschwören.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 „Schattenpuppe“-Monster von deiner Hand auf den Friedhof legen und falls du dies tust, erhalten alle Monster, die du kontrollierst, für den Rest dieses Spielzugs ATK/DEF in Höhe der Grund-Stufe des auf den Friedhof gelegten Monsters x 100. Du kannst nur 1 Effekt von „Qadschattenpuppe Keios“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

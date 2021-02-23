@@ -1,0 +1,15 @@
+{
+  "id": 6473,
+  "type": "monster",
+  "name": "Zombie réincarné",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que vous n'avez aucune carte dans votre main et que cette carte est en Position d'Attaque, elle ne peut pas être détruite au combat.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14949,
+  "type": "monster",
+  "name": "Espíritu Tenyi - Sahasrara",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ monstruos Wyrm\nMientras controlas un Monstruo que no sea de Efecto boca arriba, los monstruos que controla tu adversario no pueden seleccionar Monstruos de Efecto para ataques, y además tu adversario no puede seleccionar Monstruos de Efecto en el Campo con efectos de cartas. (Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto que controle tu adversario; Invoca de Modo Especial 1 \"Ficha Espíritu Tenyi\" (Wyrm/LUZ/Nivel 4/ATK ?/DEF 0). El ATK de esta Ficha se convierte en el ATK original de ese monstruo seleccionado. Sólo puedes usar este efecto de \"Espíritu Tenyi - Sahasrara\" una vez por turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "9",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Wyrm",
+    "Enlace",
+    "Efecto"
+  ]
+}

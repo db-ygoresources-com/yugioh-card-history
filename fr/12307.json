@@ -1,0 +1,15 @@
+{
+  "id": 12307,
+  "type": "monster",
+  "name": "Soudetoile Insecte Numérique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non utilisable comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre de Type Insecte. Une fois par tour : vous pouvez cibler 1 monstre en Position d'Attaque face recto que vous contrôlez ; changez-le en Position de Défense, et si vous le faites, Invoquez Spécialement 1 monstre de Type Insecte de Niveau 3 depuis votre main en Position de Défense. Un Monstre Xyz qui a été Invoqué en utilisant cette carte sur le Terrain comme Matériel Xyz gagne cet effet.\n●S'il est Invoqué par Xyz : la DEF de tous monstres face recto contrôlés par votre adversaire devient 0, et aussi, changez-les en Position de Défense.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14181,
+  "type": "monster",
+  "name": "Train à Grande Vitesse Super Express",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ne peut pas déclarer d'attaque sauf si vous envoyez 2 autres cartes que vous contrôlez au Cimetière. Vous ne pouvez utiliser chacun de ces effets de \"Train à Grande Vitesse Super Express\" qu'une fois par tour.\n●Si tous les monstres que vous contrôlez sont TERRE Machine (min. 1) : vous pouvez Invoquer Spécialement cette carte depuis votre main.\n●Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez cibler 1 monstre Machine (\"Train à Grande Vitesse Super Express\" exclu) dans votre Cimetière ; ajoutez-le à votre main.",
+  "level": 10,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

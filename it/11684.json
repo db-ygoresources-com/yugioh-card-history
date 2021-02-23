@@ -1,0 +1,15 @@
+{
+  "id": 11684,
+  "type": "monster",
+  "name": "Samurai Superpesante Animaspacca Guanti",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro \"Samurai Superpesante\" che controlli; equipaggia questo mostro dalla tua mano o Terreno a quel bersaglio. Esso guadagna 400 DEF. Durante il Damage Step di qualsiasi giocatore, quando un mostro \"Samurai Superpesante\" in Posizione di Difesa che controlli combatte con un mostro dell'avversario, e non hai nessuna Carta Magia/Trappola nel tuo Cimitero: puoi mandare questa carta dalla tua mano al Cimitero; il DEF del tuo mostro che sta combattendo diventa il doppio del suo DEF originale fino alla fine di questo turno.",
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

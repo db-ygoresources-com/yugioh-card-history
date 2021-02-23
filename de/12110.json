@@ -1,0 +1,18 @@
+{
+  "id": 12110,
+  "type": "monster",
+  "name": "Zeitbrechender Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Pendelbeschwörung von der Hand beschworen wird (und keine anderen Karten zur selben Zeit als Pendelbeschwörung beschworen werden): Du kannst die ATK dieser Karte zum Doppelten ihrer Grund-ATK werden lassen. Einmal pro Spielzug: Du kannst 1 Monster auf dem Spielfeld wählen; verbanne sowohl es als auch diese Karte bis zu deiner nächsten Standby Phase vom Spielfeld.",
+  "pendEffect": "In jedem Spielzug werden das oder die ersten Pendelmonster, die du kontrollierst und die durch einen Karteneffekt deines Gegners zerstört würden, nicht zerstört.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1400,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

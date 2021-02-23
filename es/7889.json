@@ -1,0 +1,15 @@
+{
+  "id": 7889,
+  "type": "monster",
+  "name": "Inyector de Poder",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno puedes pagar 600 Life Points para que todos los monstruos boca arriba de Tipo Psíquico ganen 500 ATK durante este turno.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

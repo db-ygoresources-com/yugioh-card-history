@@ -1,0 +1,19 @@
+{
+  "id": 13123,
+  "type": "monster",
+  "name": "D/D/D Super Roi du Déclin Armageddon Pourpre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres \"D/D/D\"\nVous pouvez cibler 1 monstre en Position d'Attaque contrôlé par votre adversaire ; détruisez-le, et si vous le faites, infligez des dommages à votre adversaire égaux à la moitié de son ATK d'origine. Vous ne pouvez utiliser cet effet de \"D/D/D Super Roi du Déclin Armageddon Pourpre\" qu'une fois par tour. Avant le calcul des dommages, si un monstre de l'adversaire combat : jusqu'à la fin de la Damage Step, vous pouvez faire devenir son ATK égale à son ATK d'origine. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Une fois par tour, avant le calcul des dommages, si votre Monstre Fusion \"D/D/D\" combat un monstre de l'adversaire : jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), vous pouvez faire perdre 1000 ATK au monstre de l'adversaire.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

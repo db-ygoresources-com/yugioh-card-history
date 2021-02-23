@@ -1,0 +1,18 @@
+{
+  "id": 12882,
+  "type": "monster",
+  "name": "Artistamigo Barracuda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante el turno de cualquier jugador: puedes seleccionar 1 monstruo \"Artistamigo\" cuyo ATK en este momento sea diferente a su ATK original; hasta el final de este turno, éste gana ATK igual a la diferencia. Sólo puedes usar este efecto de \"Artistamigo Barracuda\" una vez por turno.",
+  "pendEffect": "Una vez por turno, si tu monstruo \"Artistamigo\" batalla con un monstruo de tu adversario, antes del cálculo de daño: puedes hacer que ese monstruo de tu adversario pierda ATK igual a la diferencia entre su ATK original y su ATK en este momento (aún si esta carta deja el Campo).",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Planta",
+    "Péndulo",
+    "Efecto"
+  ]
+}

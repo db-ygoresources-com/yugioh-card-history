@@ -1,0 +1,16 @@
+{
+  "id": 15707,
+  "type": "monster",
+  "name": "Windhexe - Blizzardglocke",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls du keine Monster kontrollierst oder alle Monster, die du kontrollierst, „Windhexe“-Monster sind, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Während der Main Phase deines Gegners, falls du ein „Windhexe“-Monster kontrollierst, außer „Windhexe - Blizzardglocke“ (Schnelleffekt): Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; füge deinem Gegner 500 Schaden zu. Du kannst diesen Effekt von „Windhexe - Blizzardglocke“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

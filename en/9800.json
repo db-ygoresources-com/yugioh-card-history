@@ -1,0 +1,16 @@
+{
+  "id": 9800,
+  "type": "monster",
+  "name": "Influence Dragon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Dragon",
+    "Tuner",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8469,
+  "type": "monster",
+  "name": "RANA de Intercambio",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Invocar esta carta de Modo Especial (desde tu mano) descartando otro monstruo de AGUA. Cuando esta carta es Invocada: puedes mandar al Cementerio, desde tu Deck o Campo boca arriba, 1 monstruo Aqua de AGUA de Nivel 2 o menor. Una vez por turno: puedes devolver a la mano 1 monstruo que controles; puedes Invocar de Modo Normal 1 monstruo \"RANA\" durante tu Main Phase este turno, excepto \"RANA de Intercambio\", además de tu Invocación Normal/Colocación. (Sólo puedes ganar este efecto una vez por turno).",
+  "level": 2,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

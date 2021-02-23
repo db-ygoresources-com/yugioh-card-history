@@ -1,0 +1,15 @@
+{
+  "id": 14474,
+  "type": "monster",
+  "name": "Maginicien Mégistrique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Durant la End Phase : vous pouvez retirer 3 Compteurs Magie de cette carte, puis ciblez 1 de vos Magies bannies ; ajoutez 1 carte du nom de la cible depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Maginicien Mégistrique\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

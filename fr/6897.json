@@ -1,0 +1,15 @@
+{
+  "id": 6897,
+  "type": "monster",
+  "name": "Infiltrateur Alien",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, cette carte peut se déplacer vers une Zone Carte Monstre adjacente inoccupée. Si aucune carte Magie, Piège ou Monstre sur le Terrain de votre adversaire n'est dans la même colonne que cette carte, elle peut attaquer votre adversaire directement.",
+  "level": 2,
+  "atk": 800,
+  "def": 500,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

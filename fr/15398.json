@@ -1,0 +1,18 @@
+{
+  "id": 15398,
+  "type": "monster",
+  "name": "Aspiréléphant Électroménageur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Électroménageur\"\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Peut attaquer directement tant qu'elle n'est pas co-liée. Vous pouvez envoyer 1 carte depuis votre main au Cimetière, puis ciblez 1 carte contrôlée par votre adversaire ; détruisez-la. Si cette carte est co-liée : vous pouvez cibler 1 monstre dans la Zone Monstre Main de votre adversaire ; détruisez-le. Vous ne pouvez utiliser qu'1 effet de \"Aspiréléphant Électroménageur\" par tour, et uniquement une fois le tour.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

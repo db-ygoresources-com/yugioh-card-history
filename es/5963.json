@@ -1,0 +1,15 @@
+{
+  "id": 5963,
+  "type": "monster",
+  "name": "Enterrador de Agujas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta destruye un monstruo como resultado de una batalla y lo manda al Cementerio, inflige daño a los Life Points de tu adversario igual al Nivel del monstruo destruido x 500 puntos.",
+  "level": 5,
+  "atk": 1700,
+  "def": 1700,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5356,
+  "type": "monster",
+  "name": "Mudora",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Erhält 200 ATK für jedes Fee-Monster in deinem Friedhof.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

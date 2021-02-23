@@ -1,0 +1,16 @@
+{
+  "id": 11145,
+  "type": "monster",
+  "name": "Invocateur Tortue Verte",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Ciblez 1 monstre contrôlé par votre adversaire ; détruisez-le.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

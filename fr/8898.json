@@ -1,0 +1,15 @@
+{
+  "id": 8898,
+  "type": "monster",
+  "name": "Marchand-Gemmes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant la Damage Step de chaque joueur, lorsqu'un Monstre Normal TERRE face recto que vous contrôlez attaque ou est attaqué : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la End Phase, le monstre gagne 1000 ATK/DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

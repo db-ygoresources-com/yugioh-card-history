@@ -1,0 +1,16 @@
+{
+  "id": 8192,
+  "type": "monster",
+  "name": "Aladragón Explosivo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1 o más monstruos de Tipo Dragón que no sean Cantantes\nAl comienzo del Damage Step, si esta carta batalla con un monstruo: puedes destruir ese monstruo y, si lo haces, infligir daño a tu adversario igual al ATK que el monstruo destruido tenía en el Campo. El ATK de esta carta debe ser mayor o igual al ATK de ese monstruo para activar y resolver este efecto.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

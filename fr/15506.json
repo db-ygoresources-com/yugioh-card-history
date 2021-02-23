@@ -1,0 +1,16 @@
+{
+  "id": 15506,
+  "type": "monster",
+  "name": "Reptauphin Greethys Gourmand",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez cibler 1 monstre Poisson, Serpent de Mer ou Aqua dans votre Cimetière avec un Niveau inférieur ou égal au nombre de cartes dans la main de votre adversaire ; Invoquez-le Spécialement, mais il ne peut pas activer ses effets ce tour. Vous ne pouvez utiliser cet effet de \"Reptauphin Greethys Gourmand\" qu'une fois par tour. Si cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez faire gagner 200 ATK/DEF au Monstre Synchro qui a été utilisé cette carte comme Matériel pour chaque carte actuellement dans la main de votre adversaire.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Poisson",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

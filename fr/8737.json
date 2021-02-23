@@ -1,0 +1,15 @@
+{
+  "id": 8737,
+  "type": "monster",
+  "name": "Maître Samouraï des Katanas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre en Position de Défense contrôlé par votre adversaire. Changez-le en Position d'Attaque face recto.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

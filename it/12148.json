@@ -1,0 +1,18 @@
+{
+  "id": 12148,
+  "type": "monster",
+  "name": "Deskbot 008",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Questa carta guadagna 500 ATK per ogni carta \"Deskbot\" nel tuo Cimitero. Il tuo avversario non può scegliere come bersaglio carte \"Deskbot\" scoperte con gli effetti delle carte, eccetto questo. Questa carta può effettuare fino a 2 attacchi su mostri durante ogni Battle Phase.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Deskbot\". Questo effetto non può essere annullato.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

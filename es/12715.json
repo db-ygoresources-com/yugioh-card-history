@@ -1,0 +1,18 @@
+{
+  "id": 12715,
+  "type": "monster",
+  "name": "Actor del Abismo - Actriz Principal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, cuando se inflige daño de batalla: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste pierde ATK igual al daño de batalla. Cuando esta carta es destruida en batalla, o si esta carta en la Zona de Monstruos de su dueño es destruida por el efecto de una carta de tu adversario: puedes Colocar 1 Mágica \"Guión de Abismo\" directamente desde tu Deck.",
+  "pendEffect": "Una vez por turno, cuando recibes daño de batalla de un monstruo atacante del adversario: puedes activar 1 de estos efectos;\n●Ese monstruo del adversario pierde ATK igual al daño que recibiste (aún si esta carta deja el Campo).\n●Añade 1 Monstruo de Péndulo \"Actor del Abismo\" boca arriba, de tu Deck Extra a tu mano, con ATK igual o menor al daño que recibiste.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

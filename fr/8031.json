@@ -1,0 +1,15 @@
+{
+  "id": 8031,
+  "type": "monster",
+  "name": "Soldat Abeille",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Sacrifier cette carte et 1 monstre Insecte face recto (\"Soldat Abeille\" exclu) ; piochez 2 cartes.",
+  "level": 1,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

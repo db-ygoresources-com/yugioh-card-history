@@ -1,0 +1,16 @@
+{
+  "id": 9800,
+  "type": "monster",
+  "name": "Dragon Influence",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; jusqu'à la End Phase, il devient de Type Dragon.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Dragon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

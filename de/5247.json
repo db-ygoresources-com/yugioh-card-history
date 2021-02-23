@@ -1,0 +1,15 @@
+{
+  "id": 5247,
+  "type": "monster",
+  "name": "Jaugen, der Spiritist",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 zufällige Karte von deiner Hand auf den Friedhof abwerfen; zerstöre alle als Spezialbeschwörung beschworenen Monster auf dem Spielfeld. Kein Spieler kann Monster als Spezialbeschwörung beschwören.",
+  "level": 3,
+  "atk": 200,
+  "def": 1300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13136,
+  "type": "monster",
+  "name": "Roi du Train à Vapeur Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur \"Samouraï Supralourd\" + 2+ monstres non-Syntoniseur \"Samouraï Supralourd\"\nCette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez sa DEF pour le calcul des dommages. Une fois par tour : vous pouvez défausser max. 2 cartes, puis ciblez autant de cartes contrôlées par votre adversaire ; détruisez-les. Une fois par tour : vous pouvez bannir toutes les Magies/Pièges dans les Cimetières, et si vous le faites, infligez 200 points de dommages à votre adversaire pour chaque carte bannie.",
+  "level": 12,
+  "atk": 2000,
+  "def": 4800,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

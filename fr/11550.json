@@ -1,0 +1,16 @@
+{
+  "id": 11550,
+  "type": "monster",
+  "name": "Smartphon Morphtronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre \"Morphtronique\" depuis votre Cimetière.\n●En Position d'Attaque : Une fois par tour : vous pouvez lancer un dé à six faces, dévoilez autant de cartes du dessus de votre Deck, ajoutez 1 carte \"Morphtronique\" dévoilée à votre main, et aussi, mélangez les cartes restantes dans le Deck.\n● En Position de Défense : Une fois par tour : vous pouvez lancer un dé à six faces, regardez autant de cartes du dessus de votre Deck, puis placez-les toutes dans l'ordre de votre choix soit au-dessus soit au-dessous du Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

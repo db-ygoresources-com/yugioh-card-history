@@ -1,0 +1,16 @@
+{
+  "id": 8647,
+  "type": "monster",
+  "name": "Superóleo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno, você pode: escolher 1 monstro do Tipo Máquina que você controla; equipe este card ao alvo, OU: desequipe este card e Invoque-o por Invocação-Especial em Posição de Ataque. Enquanto estiver equipado por este efeito, se o monstro equipado destruir um monstro do oponente em batalha: compre 1 card. (Um monstro só pode estar equipado com 1 monstro União de cada vez. Se o monstro equipado seria destruído, em vez disso, destrua este card.)",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Máquina",
+    "Union",
+    "Efeito"
+  ]
+}

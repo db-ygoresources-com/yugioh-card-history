@@ -1,0 +1,15 @@
+{
+  "id": 10920,
+  "type": "monster",
+  "name": "Oráculo Cuidador de Tumbas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Sacrificar 3 monstruos o 1 monstruo \"Cuidador de Tumbas\" para Invocar por Sacrificio esta carta (pero no para Colocarla). Cuando esta carta es Invocada por Sacrificio: puedes activar cualquiera de estos efectos, hasta la cantidad de monstruos \"Cuidador de Tumbas\" Sacrificados en su Invocación, y resolverlos en secuencia;\n●Esta carta gana ATK igual a los Niveles combinados que todos los monstruos Sacrificados en su Invocación por Sacrificio tenían en el Campo x 100.\n●Destruye todos los monstruos Colocados que controle tu adversario.\n●Todos los monstruos que tu adversario controle en este momento pierden 2000 ATK/DEF.",
+  "level": 10,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

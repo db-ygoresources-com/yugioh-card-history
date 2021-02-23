@@ -1,0 +1,18 @@
+{
+  "id": 12098,
+  "type": "monster",
+  "name": "Cavalleria Samurai di Reptier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "All'inizio del Damage Step, se questa carta attacca un mostro scoperto dell'avversario che non è un Mostro Pendulum: puoi distruggere quel mostro.",
+  "pendEffect": "",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Dinosauro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

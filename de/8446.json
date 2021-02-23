@@ -1,0 +1,15 @@
+{
+  "id": 8446,
+  "type": "monster",
+  "name": "Schicksalsdame Finsternis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Die ATK und DEF dieser Karte entsprechen ihrer Stufe x 400. Während jeder deiner Standby Phasen, erhöhe die Stufe dieser Karte um 1 (maximal 12). Wenn ein offenes „Schicksalsdame“-Monster, das du kontrollierst, ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt, kannst du 1 „Schicksalsdame“-Monster von deinem Friedhof wählen und als Spezialbeschwörung beschwören.",
+  "level": 5,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

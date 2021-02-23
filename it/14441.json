@@ -1,0 +1,18 @@
+{
+  "id": 14441,
+  "type": "monster",
+  "name": "Magister di Endymion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi Evocare Specialmente uno o più \"Magister di Endymion\" una sola volta per turno. Quando questa carta dichiara un attacco: puoi mettere 1 Segnalino Magia su di essa. Una volta per turno (Effetto Rapido): puoi rimuovere 3 Segnalini Magia dal tuo Terreno; Evoca Specialmente dal tuo Deck 1 mostro su cui puoi mettere un Segnalino Magia. Se questa carta viene distrutta in una Zona Mostri: puoi mettere questa carta nella tua Zona Pendulum, poi mettere su di essa lo stesso numero di Segnalini Magia che aveva come mostro.",
+  "pendEffect": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Puoi rimuovere 3 Segnalini Magia da questa carta; Evoca Specialmente sia questa carta dalla tua Zona Pendulum che 1 mostro scoperto dal tuo Extra Deck su cui puoi mettere un Segnalino Magia e, se lo fai, metti 1 Segnalino Magia su ognuno.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

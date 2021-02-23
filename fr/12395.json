@@ -1,0 +1,16 @@
+{
+  "id": 12395,
+  "type": "monster",
+  "name": "Vennu, Oiseau Lumineux de la Divinité",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Cri Primitif\". Une fois par tour : vous pouvez révéler 1 monstre dans votre main, puis ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, le Niveau de la cible devient égal au Niveau que le monstre révélé avait. Une fois par tour, si un autre monstre est Sacrifié depuis votre main ou Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 monstre dans votre Cimetière ; ajoutez-le à votre main.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Elfe",
+    "Rituel",
+    "Effet"
+  ]
+}

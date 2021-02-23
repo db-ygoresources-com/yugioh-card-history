@@ -1,0 +1,15 @@
+{
+  "id": 8641,
+  "type": "monster",
+  "name": "슈레츠더",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "패에서 기계족 몬스터 1장을 묘지로 보내고 발동한다. 묘지로 보낸 몬스터의 레벨 이하의, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 파괴한다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

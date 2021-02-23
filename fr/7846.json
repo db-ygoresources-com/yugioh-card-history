@@ -1,0 +1,15 @@
+{
+  "id": 7846,
+  "type": "monster",
+  "name": "Mammouth Zombie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Détruisez cette carte si vous n'avez aucun monstre de Type Zombie dans votre Cimetière. Lorsque cette carte face recto est détruite, infligez des dommages à son contrôleur égaux à son ATK d'origine.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

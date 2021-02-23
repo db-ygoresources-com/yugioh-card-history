@@ -1,0 +1,16 @@
+{
+  "id": 14344,
+  "type": "monster",
+  "name": "Peligroso Atemorizante de Pesadilla",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Diablillo de\" + 2 monstruos \"Peluchanimal\"\nGana 300 ATK por cada monstruo Hada y Demonio en tu Cementerio, sólo durante tu turno. Cuando esta carta Invocada por Fusión destruye un monstruo en batalla: puedes mandar al Cementerio tantos monstruos \"Atemorizante\", \"Peluchanimal\", y/o \"Diablillo de\" en tu Deck, como el Nivel original de ese monstruo destruido. Cuando tu adversario activa una carta o efecto que selecciona esta carta en el Campo (Efecto Rápido): puedes desterrar 1 monstruo \"Atemorizante\" en tu Deck Extra; niega ese efecto.",
+  "level": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

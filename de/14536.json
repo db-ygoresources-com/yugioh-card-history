@@ -1,0 +1,15 @@
+{
+  "id": 14536,
+  "type": "monster",
+  "name": "Fünfte Walküre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Walküre“-Monster, die du kontrollierst, erhalten für jedes verbannte Monster deines Gegners 200 ATK. Falls du ein anderes „Walküre“-Monster als „Fünfte Walküre“ kontrollierst: Du kannst 1 Zauber/Falle von deinem Deck auf den Friedhof legen. Du kannst diesen Effekt von „Fünfte Walküre“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

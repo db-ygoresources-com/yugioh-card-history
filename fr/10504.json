@@ -1,0 +1,15 @@
+{
+  "id": 10504,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Fauconoir",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte déclare une attaque : Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Type Machine/VENT/Niveau 3/ATK 0/DEF 0). Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Une fois par tour, durant le tour de chaque joueur : vous pouvez Sacrifier 1 Jeton, puis ciblez 1 monstre contrôlé par votre adversaire ; changez la cible en Position de Défense face recto.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1700,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

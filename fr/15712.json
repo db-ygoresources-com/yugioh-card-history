@@ -1,0 +1,18 @@
+{
+  "id": 15712,
+  "type": "monster",
+  "name": "Volatil Métalphose",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que cette carte est dans votre main : vous pouvez cibler 2 cartes face recto que vous contrôlez (une carte \"Métalphose\" incluse) ; détruisez-les, et si vous le faites, Invoquez Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement par l'effet d'une carte \"Métalphose\" : vous pouvez cibler 1 monstre contrôlé par votre adversaire ou dans son Cimetière ; bannissez-le. Vous ne pouvez utiliser chaque effet de monstre de \"Volatil Métalphose\" qu'une fois par tour.",
+  "pendEffect": "Si un ou plusieurs monstres que vous contrôlez sont détruits par un effet de carte (sauf durant la Damage Step) : vous pouvez ajouter 1 carte \"Métalphose\" (\"Volatil Métalphose\" exclu) depuis votre Cimetière à votre main. Vous ne pouvez utiliser cet effet de \"Volatil Métalphose\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 9,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Psychique",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13132,
+  "type": "monster",
+  "name": "D/D/D Armagedón Brillante, Rey Súper de las Fatalidades",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante \"D/D\" + 1+ monstruos \"D/D/D\" que no sean Cantantes\nTu adversario no puede seleccionar monstruos que controles con efectos de cartas. Si otro monstruo es Invocado de Modo Normal o Especial mientras este monstruo está en el Campo (excepto durante el Damage Step): puedes hacer que tu adversario elija 1 Monstruo de Péndulo que controle, y todos los demás monstruos que controle en este momento ven sus efectos negados. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Una vez por turno, cuando un monstruo de tu adversario declara un ataque: puedes seleccionar 1 Monstruo de Sincronía \"D/D/D\" que controles; destruye tantos monstruos que controle tu adversario con DEF menor a o igual al ATK del monstruo seleccionado como sea posible y, si lo haces, inflige 1000 puntos de daño a tu adversario por cada monstruo destruido.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Sincronía",
+    "Péndulo",
+    "Efecto"
+  ]
+}

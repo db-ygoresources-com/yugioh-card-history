@@ -1,0 +1,15 @@
+{
+  "id": 10765,
+  "type": "monster",
+  "name": "Cacciatore di Vampiri",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "All'inizio del Damage Step, se questa carta combatte con un mostro OSCURITÀ: distruggi quel mostro.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

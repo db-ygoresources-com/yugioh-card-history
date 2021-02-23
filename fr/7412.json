@@ -1,0 +1,16 @@
+{
+  "id": 7412,
+  "type": "monster",
+  "name": "Cyber Vouivre Cuirassée",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 \"Cyber Dragon\" que vous contrôlez, ou 1 Monstre Fusion que vous contrôlez qui liste \"Cyber Dragon\" comme Matériel Fusion ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Une fois par tour, tant qu'elle est équipée à un monstre par cet effet : vous pouvez cibler 1 monstre face recto sur le Terrain ; le monstre équipé perd exactement 1000 ATK (même si cette carte quitte le Terrain), et s'il le fait, détruisez la cible. Si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

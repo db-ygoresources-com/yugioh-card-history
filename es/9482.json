@@ -1,0 +1,15 @@
+{
+  "id": 9482,
+  "type": "monster",
+  "name": "Staplen Morfotrónico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "●En Posición de Ataque: Mientras esta carta está boca arriba en el Campo, tu adversario no puede seleccionar a otro monstruo como objetivo de un ataque. Si esta carta es destruida en batalla, el monstruo que destruyó esta carta pierde 300 ATK.\n●En Posición de Defensa: Esta carta no puede ser destruida en batalla. Si esta carta es atacada, después del cálculo de daño selecciona 1 monstruo en Posición de Ataque boca arriba que controle tu adversario. Cambia ese monstruo a Posición de Defensa y esta carta a Posición de Ataque.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14946,
+  "type": "monster",
+  "name": "Lib le Maître des Épées de la Clé du Monde",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres\nUniquement Invocable par Lien tant que vous avez une carte \"Héritage du Monde\" dans votre Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Lib le Maître des Épées de la Clé du Monde\" qu'une fois par tour.\n●Durant votre Main Phase : vous pouvez Poser 1 Magie/Piège \"Héritage du Monde\" directement depuis votre Deck, mais il ne peut pas être activé ce tour tant que vous n'avez aucun monstre \"Héritage du Monde\" dans votre Cimetière.\n●Si cette carte Invoquée par Lien est envoyée au Cimetière comme Matériel Lien : vous pouvez mélanger 1 carte sur le Terrain dans le Deck.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

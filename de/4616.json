@@ -1,0 +1,15 @@
+{
+  "id": 4616,
+  "type": "monster",
+  "name": "Elektrische Eidechse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Ein Monster, das nicht vom Typ Zombie ist und das die „Elektrische Eidechse“ angreift, kann im nächsten Zug des Spielers, der es kontrolliert, nicht angreifen.",
+  "level": 3,
+  "atk": 850,
+  "def": 800,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

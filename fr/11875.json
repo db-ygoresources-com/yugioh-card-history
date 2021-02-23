@@ -1,0 +1,15 @@
+{
+  "id": 11875,
+  "type": "monster",
+  "name": "Caninetaure",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, si cette carte combat un monstre de votre adversaire, durant le calcul des dommages (du tour de chaque joueur) : vous pouvez envoyer 1 monstre de Type Bête/Bête-Guerrier/Bête Ailée depuis votre main ou Deck au Cimetière, et si vous le faites, cette carte gagne une ATK égale au Niveau du monstre envoyé x 100 jusqu'à la fin de la Battle Phase.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

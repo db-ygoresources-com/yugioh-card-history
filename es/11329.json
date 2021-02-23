@@ -1,0 +1,18 @@
+{
+  "id": 11329,
+  "type": "monster",
+  "name": "D/D Orgulloso Ogro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo de Péndulo de OSCURIDAD boca arriba, pero ve negados sus efectos, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos \"D/D\".",
+  "pendEffect": "Una vez por turno: puedes pagar 500 LP, y después seleccionar 1 monstruo \"D/D\" que controles; éste gana 500 ATK (aún si esta carta deja el Campo). A menos que tengas una carta \"D/D\" en tu otra Zona de Péndulo, la Escala de Péndulo de esta carta se convierte en 5.",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2300,
+  "def": 1500,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

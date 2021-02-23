@@ -1,0 +1,15 @@
+{
+  "id": 4422,
+  "type": "monster",
+  "name": "Bloqueur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Construit à partir de plusieurs composants, ce monstre peut les utiliser pour une attaque en tenailles.",
+  "level": 4,
+  "atk": 850,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Normal"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 14855,
+  "type": "monster",
+  "name": "Phénix de Feu @Ignister",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2+ monstres Cyberse\nDurant le calcul des dommages, si cette carte attaque : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK de cette carte, et si vous le faites, votre adversaire ne reçoit aucun dommage de combat de ce combat. Si cette carte est détruite par un effet de carte : vous pouvez détruire 1 monstre contrôlé par votre adversaire. Durant la prochaine Standby Phase après que cette carte Invoquée par Lien a été détruite et envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Phénix de Feu @Ignister\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

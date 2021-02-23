@@ -1,0 +1,15 @@
+{
+  "id": 7430,
+  "type": "monster",
+  "name": "Bushi el Inmortal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras esta carta esté boca arriba en el Campo, no puede ser Sacrificada, excepto para la Invocación por Sacrificio de un monstruo de Tipo Guerrero. Durante tu Standby Phase, si esta carta está en tu Cementerio y todos los monstruos en tu Cementerio son de Tipo Guerrero: puedes Invocar esta carta de Modo Especial. Además, no debes controlar monstruos para activar y resolver este efecto.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

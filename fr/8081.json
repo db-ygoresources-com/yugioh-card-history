@@ -1,0 +1,15 @@
+{
+  "id": 8081,
+  "type": "monster",
+  "name": "Rai-Jin, Combattant du Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tous les monstres LUMIÈRE que vous contrôlez gagnent 100 points d'ATK pour chaque monstre LUMIÈRE dans votre Cimetière. Durant votre End Phase, détruisez 1 monstre LUMIÈRE que vous contrôlez. Il ne peut y avoir qu'1 seul monstre \"Rai-Jin, Combattant du Tonnerre\" face recto sur le Terrain.",
+  "level": 4,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

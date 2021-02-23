@@ -1,0 +1,16 @@
+{
+  "id": 11569,
+  "type": "monster",
+  "name": "Horus Métaphysique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez activer les effets appropriés, selon les monstres non-Syntoniseur utilisés comme Matériel Synchro ;\n●Monstre Normal : Ce tour, cette carte face recto n'est pas affectée par d'autres effets de carte.\n●Monstre à Effet : Vous pouvez cibler 1 autre carte face recto sur le Terrain ; annulez les effets de la cible.\n●Monstre Pendule : Votre adversaire choisit 1 monstre qu'il contrôle et vous en donne le contrôle, mais il ne peut pas attaquer ce tour.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Wyrm",
+    "Synchro",
+    "Effet"
+  ]
+}

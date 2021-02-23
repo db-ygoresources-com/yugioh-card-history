@@ -1,0 +1,16 @@
+{
+  "id": 7733,
+  "type": "monster",
+  "name": "Guerrier Nitro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Nitro Synchronique\" + 1 monstre non-Syntoniseur ou plus\nUne fois durant chacun de vos tours, si vous activez une Carte Magie, durant le calcul des dommages uniquement, cette carte gagne 1000 ATK durant la prochaine attaque de ce tour impliquant cette carte. Si cette carte attaquante détruit un monstre de votre adversaire au combat, après le calcul des dommages : vous pouvez cibler 1 monstre en Position de Défense face recto contrôlé par votre adversaire ; changez la cible en Position d'Attaque, puis cette carte peut attaquer le monstre une seconde fois à la suite.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9217,
+  "type": "monster",
+  "name": "Divinatore Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Tuner OSCURITÀ + 1 mostro non Tuner di Tipo Insetto\nQuesta carta non può essere distrutta in battaglia. Quando questa carta dichiara un attacco, se l'ATK del bersaglio dell'attacco è superiore a quello di questa carta: l'ATK del bersaglio dell'attacco diventa pari all'ATK attuale di questa carta scoperta. Questo cambio dura fino alla fine della Battle Phase. Quando questa carta distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero: manda le prime 3 carte del Deck del tuo avversario al Cimitero.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Synchro",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15000,
+  "type": "monster",
+  "name": "Sentinelle des Profondeurs",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est envoyée au Cimetière pour activer un effet de monstre EAU : jusqu'à la End Phase, vous pouvez faire bannir face recto à votre adversaire 1 carte depuis sa main. Si cette carte est Invoquée Spécialement : vous pouvez envoyer les 2 cartes du dessus de votre Deck au Cimetière, puis ciblez 1 monstre EAU de max. Niveau 4 (\"Sentinelle des Profondeurs\" exclu) dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser chaque effet de \"Sentinelle des Profondeurs\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 400,
+  "def": 2000,
+  "properties": [
+    "Serpent de Mer",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12595,
+  "type": "monster",
+  "name": "Performapal Changeraffe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "When this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; while this card is face-up on the field, that face-up monster cannot attack, also negate the effects of that face-up monster while it is on the field.",
+  "pendEffect": "When exactly 1 monster you control (and no other cards) is destroyed by battle: You can destroy this card, and if you do, Special Summon that monster destroyed by battle in Attack Position, and if you do that, it cannot be destroyed by battle this turn (even if this card leaves the field).",
+  "pendScale": 5,
+  "level": 1,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

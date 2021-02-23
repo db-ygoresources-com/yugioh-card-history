@@ -1,0 +1,15 @@
+{
+  "id": 12315,
+  "type": "monster",
+  "name": "Dádople",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno: puedes lanzar un dado de seis caras, y después aplicar el resultado.\n●1: Mira la mano de tu adversario, y además descarta 1 carta de su mano.\n●2, 3, 4, 5: Descarta 1 carta.\n●6: Descarta toda tu mano.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

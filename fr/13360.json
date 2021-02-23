@@ -1,0 +1,16 @@
+{
+  "id": 13360,
+  "type": "monster",
+  "name": "Destructeur Samouraï",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte combat un monstre de votre adversaire, votre adversaire ne peut ni activer de cartes ni d'effets jusqu'à la fin de la Damage Step, et aussi, le monstre de votre adversaire a ses effets annulés durant la Battle Phase uniquement. Si cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez cibler 1 monstre Machine dans votre Cimetière ; Invoquez-le Spécialement.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1400,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

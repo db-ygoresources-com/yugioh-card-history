@@ -1,0 +1,15 @@
+{
+  "id": 10901,
+  "type": "monster",
+  "name": "Gardepois Sylvan",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessous de votre Deck. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 monstre de Type Plante de max. Niveau 4 dans votre Cimetière ; Invoquez Spécialement la cible. Vous ne pouvez utiliser cet effet de \"Gardepois Sylvan\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 400,
+  "def": 100,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

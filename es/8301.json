@@ -1,0 +1,15 @@
+{
+  "id": 8301,
+  "type": "monster",
+  "name": "Adivinadora Luz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "El ATK y la DEF de esta carta son iguales a su Nivel x 200. Durante cada una de tus Standby Phases, incrementa en 1 el Nivel de esta carta (max. 12). Cuando esta carta es retirada del Campo por el efecto de una carta, puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Adivinadora\".",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

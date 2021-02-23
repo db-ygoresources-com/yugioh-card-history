@@ -1,0 +1,18 @@
+{
+  "id": 12405,
+  "type": "monster",
+  "name": "Camarartista Borbuldogue",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando este card for Invocado por Invocação-Especial do Deck Adicional: você pode ativar este efeito; pelo resto deste turno, Monstros Pêndulo que você controla que foram Invocados por Invocação-Especial do Deck Adicional não podem ser destruídos por efeitos de card.",
+  "pendEffect": "Se um ou mais Monstros não-Pêndulo com a face para cima que você controla que foram Invocados por Invocação-Especial do Deck Adicional seriam destruídos em batalha ou por um efeito de card, em vez disso, você pode destruir este card.",
+  "pendScale": 5,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

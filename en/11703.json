@@ -1,0 +1,18 @@
+{
+  "id": 11703,
+  "type": "monster",
+  "name": "Ritual Beast Tamer Zeframpilica",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "When this card is Normal or Pendulum Summoned: You can target 1 \"Ritual Beast\" or \"Zefra\" monster in your Graveyard, except \"Ritual Beast Tamer Zeframpilica\"; Special Summon it, but destroy it during the End Phase. You can only Special Summon \"Ritual Beast Tamer Zeframpilica(s)\" once per turn.",
+  "pendEffect": "You cannot Pendulum Summon monsters, except \"Ritual Beast\" and \"Zefra\" monsters. This effect cannot be negated.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Psychic",
+    "Pendulum",
+    "Effect"
+  ]
+}

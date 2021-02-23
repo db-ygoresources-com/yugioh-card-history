@@ -1,0 +1,16 @@
+{
+  "id": 12779,
+  "type": "monster",
+  "name": "Ninja Furtif Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur de Type Machine + 1 monstre non-Syntoniseur de Type Machine ou plus\nCette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez sa DEF pour le calcul des dommages. Si vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez diviser par deux la DEF d'origine de cette carte jusqu'à la fin de ce tour, et si vous le faites, cette carte peut attaquer directement votre adversaire ce tour. Une fois par tour, durant la prochaine Standby Phase après que cette carte a été détruite par un effet de carte et envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte.",
+  "level": 7,
+  "atk": 1200,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12932,
+  "type": "monster",
+  "name": "Rey Supremo Puerta Infinito",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar otra carta boca arriba que controles; destrúyela, así como a esta carta y, si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo Xyz o de Péndulo de Tipo Dragón, pero su ATK y DEF se convierten en 0, ve sus efectos negados, y además no puede ser usado como Material para una Invocación Xyz o por Sincronía. Si esta carta en la Zona de Monstruos es destruida en batalla o por efecto de una carta: puedes poner esta carta en tu Zona del Péndulo.",
+  "pendEffect": "Si controlas un monstruo, no puedes Invocar por Péndulo. Este efecto no puede ser negado. Una vez por turno, si controlas \"Rey Supremo Z-ARC\": puedes seleccionar 1 monstruo boca arriba que controle tu adversario; gana tantos LP como su ATK.",
+  "pendScale": 13,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

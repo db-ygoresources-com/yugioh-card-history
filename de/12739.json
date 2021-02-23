@@ -1,0 +1,18 @@
+{
+  "id": 12739,
+  "type": "monster",
+  "name": "Künstlerkumpel Lachmacher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte einen Angriff deklariert: Du kannst diese Karte bis zum Ende der Battle Phase 1000 ATK für jedes Monster auf dem Spielfeld erhalten lassen, dessen derzeitige ATK höher sind als seine Grund-ATK, außer anderen Monstern, die du kontrollierst. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird, solange ihre derzeitigen ATK höher sind als ihre Grund-ATK: Du kannst 1 Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst nur 1 Monstereffekt von „Künstlerkumpel Lachmacher“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "pendEffect": "Einmal pro Spielzug, falls dein Gegner ein Monster kontrolliert, dessen derzeitige ATK höher sind als seine Grund-ATK: Du kannst 1000 LP erhalten.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

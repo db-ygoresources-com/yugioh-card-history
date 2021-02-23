@@ -1,0 +1,18 @@
+{
+  "id": 12144,
+  "type": "monster",
+  "name": "Ariadne la Guide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est détruite au combat ou par un effet de carte : vous pouvez révéler 3 Contre-Pièges depuis votre Deck, votre adversaire en choisit 1 pour vous à ajouter à votre main, et vous mélangez les cartes restantes dans votre Deck.",
+  "pendEffect": "Appliquez ces effets.\n●Vous ne payez pas de LP pour activer des Cartes Contre-Piège.\n●Vous ne défaussez pas pour activer des Cartes Contre-Piège.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

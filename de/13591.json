@@ -1,0 +1,19 @@
+{
+  "id": 13591,
+  "type": "monster",
+  "name": "Raumisolator",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster\nMonster, auf die diese Karte zeigt, verlieren 800 ATK/DEF. Wenn ein Cyberse-Linkmonster als Linkbeschwörung auf deine Spielfeldseite beschworen wird, solange diese Karte im Friedhof liegt, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst diese Karte als Spezialbeschwörung in deine Zone beschwören, auf die das Monster zeigt, aber sie kann nicht als Linkmaterial verwendet werden, zusätzlich verbanne sie, wenn sie das Spielfeld verlässt.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

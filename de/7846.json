@@ -1,0 +1,15 @@
+{
+  "id": 7846,
+  "type": "monster",
+  "name": "Zombiemammut",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Zerstöre diese Karte, falls du kein Monster vom Typ Zombie in deinem Friedhof hast. Wenn diese offene Karte zerstört wird, füge ihrem Beherrscher Schaden in Höhe ihrer Grund-ATK zu.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

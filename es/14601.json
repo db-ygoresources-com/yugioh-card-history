@@ -1,0 +1,16 @@
+{
+  "id": 14601,
+  "type": "monster",
+  "name": "Predaplanta Triphyoverutum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 monstruos de OSCURIDAD en el Campo\nGana ATK igual al ATK original total de todos los demás monstruos en el Campo con un Contador de Predador. Sólo puedes usar cada uno de los siguientes efectos de \"Predaplanta Triphyoverutum\" una vez por turno.\n●Cuando tu adversario Invoca de Modo Especial uno o más monstruos desde su Deck Extra mientras tú controlas esta carta Invocada por Fusión (Efecto Rápido): puedes negar la Invocación y, si lo haces, destruye ese o esos monstruos.\n●Si tu adversario controla un monstruo con uno o más Contadores de Predador: puedes Invocar esta carta de Modo Especial desde tu Cementerio en Posición de Defensa.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Planta",
+    "Fusión",
+    "Efecto"
+  ]
+}

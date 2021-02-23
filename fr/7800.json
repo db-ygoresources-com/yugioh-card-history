@@ -1,0 +1,15 @@
+{
+  "id": 7800,
+  "type": "monster",
+  "name": "Servant du Dieu Fou",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour durant la Standby Phase de votre adversaire, vous pouvez retirer du jeu un nombre de votre choix de monstres TÉNÈBRES depuis votre Cimetière. Ce monstre gagne 500 points de DEF pour chaque monstre que vous avez retiré, jusqu'à la End Phase.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

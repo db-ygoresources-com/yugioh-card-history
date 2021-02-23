@@ -1,0 +1,15 @@
+{
+  "id": 15252,
+  "type": "monster",
+  "name": "Gatti Melffy",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si tu adversario Invoca uno o más monstruos de Modo Normal o Especial (excepto durante el Damage Step), o si un monstruo del adversario selecciona esta carta para un ataque: puedes devolver esta carta a la mano, y después puedes añadir a tu mano 1 monstruo Bestia en tu Deck, excepto \"Gatti Melffy\". Durante tu End Phase: puedes Invocar esta carta de Modo Especial desde tu mano. Sólo puedes usar cada efecto de \"Gatti Melffy\" una vez por turno.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15399,
+  "type": "monster",
+  "name": "Electrodomésticor Lavadragón",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "1 monstruo \"Electrodomésticor\"\nNo puede ser usado como Material de Enlace en el turno en el que fue Invocado por Enlace. Ningún jugador recibe daño de batalla de ataques que involucren esta carta. Una vez por turno, después del cálculo de daño, si esta carta co-enlazada batalla con un monstruo del adversario: puedes desterrar ese monstruo del adversario. Una vez por turno, después del cálculo de daño, si este monstruo que no está co-enlazado batalla con un monstruo del adversario: puedes destruir ese monstruo del adversario y, si lo haces, infligir daño a tu adversario igual a su ATK original.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

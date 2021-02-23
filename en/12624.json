@@ -1,0 +1,18 @@
+{
+  "id": 12624,
+  "type": "monster",
+  "name": "Pandora's Jewelry Box",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "While you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+  "pendEffect": "While you have no cards in your Extra Deck: You can target 1 card in your opponent's Pendulum Zone; destroy it, and if you do, place this card in your opponent's Pendulum Zone.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Pendulum",
+    "Effect"
+  ]
+}

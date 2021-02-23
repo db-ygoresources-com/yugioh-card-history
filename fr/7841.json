@@ -1,0 +1,16 @@
+{
+  "id": 7841,
+  "type": "monster",
+  "name": "Route Synchronique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est utilisée comme Matériel de Synchro pour l'Invocation Synchro d'un monstre (\"Guerrier de la Route\" exclu), réduisez le Niveau de cette carte de 2. Si cette carte attaque, à la fin de la Damage Step : jusqu'à la fin de ce tour, augmentez son Niveau de 1.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

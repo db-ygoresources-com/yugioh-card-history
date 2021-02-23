@@ -1,0 +1,16 @@
+{
+  "id": 5697,
+  "type": "monster",
+  "name": "Shinato, Rey de un Plano Superior",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Este monstruo solo puede ser Invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual \"El Arca de Shinato\". También debes ofrecer monstruos cuyo Nivel total sea 8 o más de tu Campo o tu mano como Sacrificio. Cuando esta carta destruye un monstruo en Posición de Defensa en el Campo de tu adversario como resultado de una batalla y la mandada al Cementerio, inflige daño a los Life Points de tu adversario igual al ATK original del monstruo destruido.",
+  "level": 8,
+  "atk": 3300,
+  "def": 3000,
+  "properties": [
+    "Hada",
+    "Ritual",
+    "Efecto"
+  ]
+}

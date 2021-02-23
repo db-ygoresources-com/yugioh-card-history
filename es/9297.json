@@ -1,0 +1,16 @@
+{
+  "id": 9297,
+  "type": "monster",
+  "name": "Resonador de la Barrera",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante el turno de cualquier jugador: puedes mandar al Cementerio esta carta en tu mano, y después seleccionar 1 monstruo Cantante que controles; este turno, éste no puede ser destruido en batalla, y además tú no recibes daño de batalla de ataques que lo involucren.",
+  "level": 1,
+  "atk": 300,
+  "def": 800,
+  "properties": [
+    "Demonio",
+    "Cantante",
+    "Efecto"
+  ]
+}

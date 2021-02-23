@@ -1,0 +1,15 @@
+{
+  "id": 12843,
+  "type": "monster",
+  "name": "Aleister der Beschwörer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 Fusionsmonster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 1000 ATK/DEF. Falls diese Karte als Normalbeschwörung beschworen oder aufgedeckt wird: Du kannst deiner Hand 1 „Beschwörung“ von deinem Deck hinzufügen.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

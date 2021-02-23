@@ -1,0 +1,15 @@
+{
+  "id": 12287,
+  "type": "monster",
+  "name": "Überfallraptor - Schmerz-Lanius",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Xyz-Material für eine Xyz-Beschwörung verwendet werden, außer für die Xyz-Beschwörung eines Monsters vom Typ Geflügeltes Ungeheuer. Falls sich diese Karte in deiner Hand befindet: Du kannst 1 „Überfallraptor“-Monster wählen, das du kontrollierst und das eine Stufe hat; du erhältst Schaden in Höhe seiner ATK oder DEF (was davon niedriger ist, aber bei Gleichstand bestimmst du) und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, wird die Stufe dieser Karte dieselbe wie die aktuelle Stufe des als Ziel gewählten Monsters. Du kannst diesen Effekt von „Überfallraptor - Schmerz-Lanius“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

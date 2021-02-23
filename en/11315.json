@@ -1,0 +1,18 @@
+{
+  "id": 11315,
+  "type": "monster",
+  "name": "Dragon Horn Hunter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "The horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.",
+  "pendEffect": "All Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Normal"
+  ]
+}

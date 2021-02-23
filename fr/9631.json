@@ -1,0 +1,15 @@
+{
+  "id": 9631,
+  "type": "monster",
+  "name": "Magicien Automate",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si l'effet d'un monstre \"Automate\" (\"Magicien Automate\" exclu) est activé : vous pouvez Invoquer Spécialement 1 monstre \"Automate\" de max. Niveau 4 depuis votre Deck en Position de Défense face recto. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 4,
+  "atk": 600,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

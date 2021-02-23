@@ -1,0 +1,18 @@
+{
+  "id": 12624,
+  "type": "monster",
+  "name": "Caja de Joyas de Pandora",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras no tengas cartas en tu Deck Extra, roba 2 cartas en lugar de 1 en tu robo normal durante tu Draw Phase.",
+  "pendEffect": "Mientras no tengas cartas en tu Deck Extra: puedes seleccionar 1 carta en la Zona del Péndulo de tu adversario; destrúyela y, si lo haces, pon esta carta en la Zona del Péndulo de tu adversario.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Péndulo",
+    "Efecto"
+  ]
+}

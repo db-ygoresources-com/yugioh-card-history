@@ -1,0 +1,15 @@
+{
+  "id": 13305,
+  "type": "monster",
+  "name": "Résistance Interrompue",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque vous recevez des dommages de combat : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, elle gagne une ATK égale aux dommages que vous avez reçus. Une fois par tour, durant le calcul des dommages, lorsqu'un autre monstre en Position de Défense que vous contrôlez est attaqué par un monstre de l'adversaire (Effet Rapide) : vous pouvez activer cet effet ; durant ce calcul des dommages, la DEF de votre monstre attaqué devient égale à la DEF de cette carte, et aussi, il ne peut pas être détruit par ce combat.",
+  "level": 6,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

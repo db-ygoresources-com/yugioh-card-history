@@ -1,0 +1,16 @@
+{
+  "id": 15022,
+  "type": "monster",
+  "name": "Fantôme du Défunt et Fraîcheur Lunaire",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si votre adversaire Invoque Spécialement un ou plusieurs monstres face recto (sauf durant la Damage Step) : vous pouvez défausser cette carte, puis ciblez 1 de ces monstres face recto ; annulez ses effets jusqu'à la fin de ce tour, et aussi, si le monstre face recto quitte le Terrain ce tour, son contrôleur reçoit des dommages égaux à son ATK d'origine. Vous ne pouvez utiliser cet effet de \"Fantôme du Défunt et Fraîcheur Lunaire\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8970,
+  "type": "monster",
+  "name": "Pateador de Axones Definitivo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Monstruo de Sincronía de Tipo Psíquico + 1 monstruo de Tipo Psíquico\nEste monstruo sólo puede ser Invocado de Modo Especial mediante una Invocación por Fusión desde el Deck Extra. Esta carta no puede ser destruida por efectos de cartas. Durante una batalla entre esta carta atacante y un monstruo en Posición de Defensa cuya DEF es menor que el ATK de esta carta, inflige la diferencia como daño de batalla a tu adversario. Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio, ganas Life Points iguales al ATK del monstruo destruido.",
+  "level": 10,
+  "atk": 2900,
+  "def": 1700,
+  "properties": [
+    "Psíquico",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11788,
+  "type": "monster",
+  "name": "Maga Xiangsheng",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Tu adversario no recibe daño de batalla de ataques que involucren a esta carta. Una vez por turno: puedes seleccionar otro monstruo boca arriba que controles; hasta el final de este turno, el ATK de esta carta se convierte en el ATK en este momento de ese monstruo.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 Monstruo Xyz boca arriba que controles y 1 monstruo de Nivel 5 o mayor que controles; hasta el final de este turno, el Rango de ese Monstruo Xyz se convierte en el Nivel de ese monstruo de nivel 5 o mayor (aún si esta carta deja el Campo). Mientras controles más cartas que tu adversario, la Escala de Péndulo de esta carta se convierte en 4.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10040,
+  "type": "monster",
+  "name": "Caméraclops",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte attaque un monstre face recto sur le Terrain, au début de la Damage Step : détruisez le monstre. Sa DEF doit être supérieure à l'ATK de cette carte pour activer et résoudre cet effet.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

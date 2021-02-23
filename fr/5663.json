@@ -1,0 +1,16 @@
+{
+  "id": 5663,
+  "type": "monster",
+  "name": "Marchand Ésotérique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Dévoilez des cartes du dessus de votre Deck jusqu'à dévoiler une Magie/Piège, puis ajoutez la carte à votre main, et aussi, envoyez les cartes restantes au Cimetière.",
+  "level": 1,
+  "atk": 200,
+  "def": 700,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11946,
+  "type": "monster",
+  "name": "Artistamigo Salpicamamut",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Durante tu Main Phase: puedes Invocar por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión de Tipo Dragón, usando monstruos que controles como Materiales de Fusión. Sólo puedes usar este efecto de \"Artistamigo Salpicamamut\" una vez por Duelo.",
+  "pendEffect": "Una vez por turno, cuando uno o más Monstruos de Fusión son Invocados de Modo Especial a tu lado del Campo (excepto durante el Damage Step): puedes Invocar de Modo Especial, desde tu Deck Extra, 1 monstruo de Péndulo \"Ojos Anómalos\" boca arriba.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 1900,
+  "def": 2300,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

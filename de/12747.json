@@ -1,0 +1,15 @@
+{
+  "id": 12747,
+  "type": "monster",
+  "name": "Blumen-Kartian Kirschblüte mit Vorhang",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst durch seinen eigenen Effekt als Spezialbeschwörung beschworen werden. Du kannst diese Karte in deiner Hand vorzeigen; ziehe 1 Karte und falls du dies tust, zeige sie, dann beschwöre diese Karte als Spezialbeschwörung, falls die gezogene Karte ein „Blumen-Kartian“-Monster ist. Lege sie und diese Karte andernfalls auf den Friedhof. Während des Damage Steps eines beliebigen Spielers, wenn dein „Blumen-Kartian“-Monster gegen ein Monster deines Gegners kämpft: Du kannst diese Karte abwerfen; dein kämpfendes Monster erhält bis zum Ende dieses Spielzugs 1000 ATK.",
+  "level": 3,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

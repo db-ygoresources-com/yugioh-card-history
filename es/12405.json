@@ -1,0 +1,18 @@
+{
+  "id": 12405,
+  "type": "monster",
+  "name": "Artistamigo Bullbuja",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es Invocada de Modo Especial desde el Deck Extra: puedes activar este efecto; por el resto de este turno, los Monstruos de Péndulo que controles y que fueron Invocados de Modo Especial desde el Deck Extra no pueden ser destruidos por efectos de cartas.",
+  "pendEffect": "Si uno o más Monstruos que no sean de Péndulo boca arriba que controlas y que fueron Invocados de Modo Especial desde el Deck Extra fueran a ser destruidos en batalla o por efecto de una carta, puedes destruir esta carta en su lugar.",
+  "pendScale": 5,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5699,
+  "type": "monster",
+  "name": "Chevalier Mirage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable. Uniquement Invocable Spécialement avec \"Chevalier du Flamboiement des Ténèbres\" et non Invocable Spécialement autrement. Durant le calcul des dommages uniquement, cette carte gagne une ATK égale à l'ATK d'origine du monstre de votre adversaire qu'elle combat. Durant la End Phase d'un tour où cette carte a attaqué ou a été attaquée : bannissez cette carte.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

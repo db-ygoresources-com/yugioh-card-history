@@ -1,0 +1,15 @@
+{
+  "id": 5594,
+  "type": "monster",
+  "name": "Spell Canceller",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Spell Cards, and their effects on the field, cannot be activated. Negate all Spell effects on the field.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

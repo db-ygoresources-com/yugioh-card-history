@@ -1,0 +1,15 @@
+{
+  "id": 12382,
+  "type": "monster",
+  "name": "Drachenritter der Schöpfung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Erhöhe die Stufe dieser Karte nur während des Spielzugs deines Gegners um 4. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst 1 Drache-Monster der Stufe 7 oder 8 von deinem Deck auf den Friedhof legen. Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 Drache-Monster der Stufe 7 oder 8 in deinem Friedhof wählen; lege diese Karte auf den Friedhof und falls du dies tust, beschwöre das Monster als Spezialbeschwörung. Du kannst diesen Effekt von „Drachenritter der Schöpfung“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

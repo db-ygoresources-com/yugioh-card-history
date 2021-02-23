@@ -1,0 +1,15 @@
+{
+  "id": 15095,
+  "type": "monster",
+  "name": "Maschinenwesen Lagerübernahme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Maschinenwesen“-Monster in deinem Friedhof wählen, außer „Maschinenwesen Lagerübernahme“; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, aber seine Effekte können in diesem Spielzug nicht aktiviert werden. Du kannst 1 anderes „Maschinenwesen“-Monster, das du kontrollierst, und 1 Zauber/Falle, den oder die dein Gegner kontrolliert, wählen; gib sie auf die Hand zurück. Du kannst jeden Effekt von „Maschinenwesen Lagerübernahme“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

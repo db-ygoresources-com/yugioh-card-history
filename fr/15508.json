@@ -1,0 +1,15 @@
+{
+  "id": 15508,
+  "type": "monster",
+  "name": "Hinezumi Hanabi",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Non utilisable comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien. Si cette carte est Invoquée Normalement ou Spécialement : placez 6 Compteurs sur elle. Une fois par tour, durant votre End Phase : donnez le contrôle de cette carte à votre adversaire. Une fois par tour, si le contrôle de cette carte face recto avec un ou plusieurs Compteurs change : lancez un dé à six faces, retirez autant de Compteurs de cette carte que possible, inférieur ou égal au résultat, et si tous les Compteurs de cette carte sont retirés par cet effet, détruisez cette carte, et si vous le faites, recevez 2000 points de dommages.",
+  "level": 4,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

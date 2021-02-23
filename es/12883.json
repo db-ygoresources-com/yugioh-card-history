@@ -1,0 +1,19 @@
+{
+  "id": 12883,
+  "type": "monster",
+  "name": "Velociroid Mariposadominó",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser usado como Material de Sincronía, excepto para la Invocación por Sincronía de un Monstruo de Sincronía de VIENTO de Tipo Dragón o Máquina. Si esta carta, Invocada de Modo Especial desde el Deck Extra, es usada como Material para una Invocación por Sincronía, destiérrala.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos de VIENTO. Este efecto no puede ser negado. Puedes descartar 1 monstruo de VIENTO, y después selecciona 1 de tus monstruos de VIENTO que esté desterrado; añádelo a tu mano. Sólo puedes usar este efecto de \"Velociroid Mariposadominó\" una vez por turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 100,
+  "def": 300,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

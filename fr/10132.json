@@ -1,0 +1,15 @@
+{
+  "id": 10132,
+  "type": "monster",
+  "name": "Mage de Dommages",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque vous recevez des dommages par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, gagnez des Life Points égaux aux dommages que vous avez reçus.",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

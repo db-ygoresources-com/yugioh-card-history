@@ -1,0 +1,15 @@
+{
+  "id": 10114,
+  "type": "monster",
+  "name": "Dragard",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 Monstruo Normal con 1000 ATK o menos en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Defensa boca arriba. Una vez por turno: puedes Sacrificar 1 monstruo de Tipo Dragón, y después seleccionar 1 monstruo boca arriba que controles; hasta la End Phase, su Nivel se convierte en 8 y, si lo hace, el monstruo gana 800 ATK.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1900,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

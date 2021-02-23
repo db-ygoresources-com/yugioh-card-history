@@ -1,0 +1,18 @@
+{
+  "id": 14448,
+  "type": "monster",
+  "name": "D/D Arca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene distrutta dall'effetto di una carta: puoi Evocare Specialmente 1 Mostro Pendulum \"D/D\" scoperto dal tuo Extra Deck, eccetto \"D/D Arca\", ma i suoi effetti sono annullati. Puoi utilizzare questo effetto di \"D/D Arca\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 mostro Evocato Pendulum controllato dal tuo avversario; distruggi sia quel mostro che questa carta. Puoi utilizzare questo effetto di \"D/D Arca\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

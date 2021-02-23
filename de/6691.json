@@ -1,0 +1,15 @@
+{
+  "id": 6691,
+  "type": "monster",
+  "name": "Königlicher Ritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte ein Monster als Ergebnis eines Kampfes zerstört und es auf den Friedhof legt, erhöhe deine Life Points um die DEF des zerstörten Monsters.",
+  "level": 3,
+  "atk": 1300,
+  "def": 800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 8145,
+  "type": "monster",
+  "name": "RANA Submarina",
+  "oldName": "Rana Submarina",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "notes": "Nombre de Carta actualizado de \"Rana Submarina\". (Versión impresa aún no disponible)",
+  "effectText": "Durante una batalla entre esta carta atacante y un monstruo en Posición de Defensa cuya DEF es menor que el ATK de esta carta, inflige la diferencia como daño de batalla a tu adversario.",
+  "level": 2,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

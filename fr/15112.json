@@ -1,0 +1,15 @@
+{
+  "id": 15112,
+  "type": "monster",
+  "name": "Cyclamen la Féé Rikka",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto, puis ciblez max. 2 monstres Plante que vous contrôlez ; jusqu'à la fin de ce tour, réduisez leur Niveau de 2. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été Sacrifiée et y a été envoyée ce tour : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Cyclamen la Féé Rikka\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

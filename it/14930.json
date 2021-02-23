@@ -1,0 +1,22 @@
+{
+  "id": 14930,
+  "type": "monster",
+  "name": "Drago Link a Cinque Teste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "5 mostri\nDeve essere Evocato Link. Se questa carta viene Evocata Link utilizzando Attributi OSCURITÀ, TERRA, ACQUA, FUOCO E VENTO: puoi distruggere tutte le carte controllate dal tuo avversario. Non può essere distrutto in battaglia con un mostro OSCURITÀ, TERRA, ACQUA, FUOCO o VENTO. Immune agli effetti delle altre carte. Una volta per turno, durante la End Phase del tuo avversario: devi bandire 5 carte dal tuo Cimitero coperte (questo non è opzionale) o mandare questa carta al Cimitero.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Drago",
+    "Link",
+    "Effetto"
+  ]
+}

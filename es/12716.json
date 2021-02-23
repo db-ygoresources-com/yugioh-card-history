@@ -1,0 +1,18 @@
+{
+  "id": 12716,
+  "type": "monster",
+  "name": "Actor del Abismo - Esperanza Salvaje",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes hacer que esta carta gane 100 ATK por cada monstruo \"Actor del Abismo\" que controles en este momento con nombres diferentes, hasta el final de este turno. Si esta carta es destruida en batalla o por efecto de una carta: puedes añadir a tu mano 1 carta \"Actor del Abismo\" en tu Deck, excepto por \"Actor del Abismo - Esperanza Salvaje\". Sólo puedes usar este efecto de \"Actor del Abismo - Esperanza Salvaje\" una vez por turno.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 carta \"Actor del Abismo\" en tu otra Zona de Péndulo; su Escala de Péndulo se convierte en 9 hasta el final de este turno, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos \"Actor del Abismo\" (aun si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

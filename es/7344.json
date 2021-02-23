@@ -1,0 +1,15 @@
+{
+  "id": 7344,
+  "type": "monster",
+  "name": "Fuerza Arcana EX - El Señor de la Luz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial (desde tu mano) mandando 3 monstruos que controles al Cementerio, y no puede ser Invocado de Modo Especial de otra forma. Cuando esta carta es Invocada de Modo Especial: lanza una moneda y gana el efecto apropiado.\n● Cara: Cuando esta carta destruye a un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes seleccionar 1 carta en tu Cementerio; añade ese objetivo a tu mano.\n● Cruz: Durante el turno de cualquier jugador, cuando es activada una Carta Mágica/de Trampa, o el efecto de un monstruo, que selecciona a esta carta: esta carta pierde exactamente 1000 ATK y tú niegas la activación y, si lo haces, destruye la carta.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

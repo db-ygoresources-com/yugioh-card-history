@@ -1,0 +1,15 @@
+{
+  "id": 13800,
+  "type": "monster",
+  "name": "Orgoth l'Implacable",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant votre Main Phase : vous pouvez lancer un dé à six faces 3 fois et cette carte gagne une ATK/DEF égales au total x 100 (jusqu'à la fin du tour de votre adversaire), puis, si 2 des résultats étaient identiques, appliquez l'effet approprié. Si tous les 3 étaient identiques, appliquez tous ces effets.\n●1 ou 2 : Jusqu'à la fin du tour de votre adversaire, cette carte ne peut être détruite ni au combat ni par des effets de carte.\n●3 ou 4 : Piochez 2 cartes.\n●5 ou 6 : Cette carte peut attaquer directement ce tour.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2450,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

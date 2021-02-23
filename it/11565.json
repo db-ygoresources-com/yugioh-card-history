@@ -1,0 +1,16 @@
+{
+  "id": 11565,
+  "type": "monster",
+  "name": "Drago Pendulum Occhi Runici",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Drago Pendulum Occhi Diversi\" + 1 mostro di Tipo Incantatore\nSe questa carta è stata Evocata tramite Fusione utilizzando come Materiali da Fusione uno o più mostri Evocati Pendulum sul Terreno, essa è immune agli effetti delle carte del tuo avversario in questo turno. Applica l'effetto appropriato, a seconda del Livello originale del mostro utilizzato come Materiale da Fusione che non era \"Drago Pendulum Occhi Diversi\".\n●Livello 4 o inferiore: Questa carta può effettuare fino a 2 attacchi sui mostri durante ogni Battle Phase.\n●Livello 5 o superiore: Questa carta può effettuare fino a 3 attacchi sui mostri durante ogni Battle Phase.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Effetto"
+  ]
+}

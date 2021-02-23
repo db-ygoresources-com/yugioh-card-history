@@ -1,0 +1,19 @@
+{
+  "id": 12910,
+  "type": "monster",
+  "name": "Magicienne Aile Blanche",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Dragon Synchro\".)\nSi cette carte Invoquée par Pendulation est utilisée pour une Invocation Synchro, bannissez-la.",
+  "pendEffect": "Une fois par tour, lorsqu'une carte ou un effet activé qui cible un monstre TÉNÈBRES de Type Magicien que vous contrôlez est résolu, annulez l'effet, puis détruisez cette carte.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

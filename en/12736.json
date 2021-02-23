@@ -1,0 +1,18 @@
+{
+  "id": 12736,
+  "type": "monster",
+  "name": "Dragoncaller Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn: You can make this card become Dragon-Type until the end of this turn. A monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as Material gains this effect.\n●If this card battles a Dragon-Type monster, this card's ATK becomes double its original ATK during the Damage Step only.",
+  "pendEffect": "Once per turn: You can target 1 face-up monster on the field; it becomes Dragon-Type until the end of your opponent's turn (even if this card leaves the field).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

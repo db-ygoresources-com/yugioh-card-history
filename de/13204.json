@@ -1,0 +1,19 @@
+{
+  "id": 13204,
+  "type": "monster",
+  "name": "Binäre Zauberin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster, außer Spielmarken\nDiese Karte erhält diese Effekte, basierend auf der Anzahl der Monster, mit denen sie kreuzgelinkt ist.\n●1+: Wenn ein Monster, das mit dieser Karte kreuzgelinkt ist, gegen ein Monster deines Gegners kämpft und deinem Gegner Kampfschaden zufügt: Du kannst so viele LP erhalten.\n●2: Einmal pro Spielzug (Schnelleffekt): Du kannst 2 offene Monster wählen, die du kontrollierst; bis zum Ende dieses Spielzugs, halbiere die ATK von 1 Monster und falls du dies tust, füge dem anderen Monster die verlorenen ATK hinzu.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

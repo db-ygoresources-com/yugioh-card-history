@@ -1,0 +1,15 @@
+{
+  "id": 8456,
+  "type": "monster",
+  "name": "Méduse Reptilia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Envoyez 1 carte depuis votre main au Cimetière et sélectionnez 1 monstre face recto contrôlé par votre adversaire. L'ATK du monstre sélectionné devient 0, et il ne peut pas changer sa position de combat.",
+  "level": 6,
+  "atk": 2200,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

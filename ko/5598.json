@@ -1,0 +1,15 @@
+{
+  "id": 5598,
+  "type": "monster",
+  "name": "세기의 대도둑",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "상대 플레이어에게 전투 데미지를 줄 때마다 카드명을 1개 선언한다. 상대의 패를 확인하고 선언한 카드가 있을 경우 그것을 전부 묘지에 버린다.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "마법사족",
+    "효과"
+  ]
+}

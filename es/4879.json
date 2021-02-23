@@ -1,0 +1,16 @@
+{
+  "id": 4879,
+  "type": "monster",
+  "name": "El Místico Severo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Muestra todas las cartas boca abajo en el Campo (los Efectos de Volteo no se activan), y después devuélvelas a sus posiciones originales.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

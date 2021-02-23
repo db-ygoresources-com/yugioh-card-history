@@ -1,0 +1,15 @@
+{
+  "id": 8702,
+  "type": "monster",
+  "name": "Alligatorbrut",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während der End Phase des Spielzugs, in dem diese Karte durch das Anbieten eines Monsters vom Typ Reptil als Tributbeschwörung beschworen wurde: Wähle 1 Monster, das für die Tributbeschwörung dieser Karte verwendet wurde; beschwöre es als Spezialbeschwörung vom Friedhof.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

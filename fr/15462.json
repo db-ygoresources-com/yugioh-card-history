@@ -1,0 +1,16 @@
+{
+  "id": 15462,
+  "type": "monster",
+  "name": "Magicien du Temps du Lendemain",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Magicien du Temps\" + 1 Monstre à Effet\nUne fois par tour, tant que vous contrôlez cette carte Invoquée par Fusion : vous pouvez jouer à pile ou face. Détruisez autant de monstres sur le Terrain que possible, et si vous le faites, infligez des dommages égaux à la moitié de la somme des ATK d'origine des monstres face recto détruits. Si vous avez gagné à pile ou face, votre adversaire reçoit les dommages, si vous avez perdu, vous recevez les dommages.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1900,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

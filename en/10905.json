@@ -1,0 +1,15 @@
+{
+  "id": 10905,
+  "type": "monster",
+  "name": "Sylvan Guardioak",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Once per turn: You can choose a number from 1 to 3, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 other Plant-Type monster in your Graveyard; place that target on the top of your Deck.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Plant",
+    "Effect"
+  ]
+}

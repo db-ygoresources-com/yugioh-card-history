@@ -1,0 +1,15 @@
+{
+  "id": 8405,
+  "type": "monster",
+  "name": "Archimage de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez envoyer 1 monstre \"Barrière de Glace\" depuis votre main au Cimetière ; aucun joueur ne peut activer de Cartes Magie jusqu'à la fin de votre prochain tour, tant que ce monstre est face recto sur le Terrain.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

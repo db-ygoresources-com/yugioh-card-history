@@ -1,0 +1,18 @@
+{
+  "id": 13862,
+  "type": "monster",
+  "name": "Abyss Actor - Mellow Madonna",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Gains 100 ATK for each \"Abyss Script\" Spell in your GY. You can only use each of the following effects of \"Abyss Actor - Mellow Madonna\" once per turn.\n●When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your hand.\n●If an \"Abyss Script\" Spell Card or effect is activated: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" Pendulum Monster from your Deck, but return it to the hand during the End Phase.",
+  "pendEffect": "You can pay 1000 LP; add 1 \"Abyss Actor\" Pendulum Monster from your Deck to your hand, except \"Abyss Actor - Mellow Madonna\", also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters (even if this card leaves the field). You can only use this effect of \"Abyss Actor - Mellow Madonna\" once per turn.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 1800,
+  "def": 2500,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

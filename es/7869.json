@@ -1,0 +1,15 @@
+{
+  "id": 7869,
+  "type": "monster",
+  "name": "Generador de Ondas Sanadoras",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno puedes seleccionar otro monstruo boca arriba que controles para ganar Life Points iguales al Nivel de ese monstruo x 100.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8332,
+  "type": "monster",
+  "name": "Archdémon Zombie Squelette",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Zombie Épidémique\" + 2+ monstres non-Syntoniseur Zombie\nLes monstres Zombie que vous contrôlez ne peuvent pas être détruits par des effets de carte.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effet"
+  ]
+}

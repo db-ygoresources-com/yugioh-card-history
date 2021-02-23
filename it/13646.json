@@ -1,0 +1,15 @@
+{
+  "id": 13646,
+  "type": "monster",
+  "name": "Fraulein Vampira",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando un mostro dichiara un attacco: puoi Evocare Specialmente questa carta dalla tua mano in Posizione di Difesa. Puoi utilizzare questo effetto di \"Fraulein Vampira\" una sola volta per turno. Una volta per battaglia, se un tuo mostro Zombie combatte con un mostro dell'avversario, durante quel calcolo dei danni (Effetto Rapido): puoi pagare LP in multipli di 100 (massimo 3000); il tuo mostro che sta combattendo guadagna quell'ammontare di ATK/DEF solamente durante quel calcolo dei danni. Alla fine della Battle Phase, se questa carta ha distrutto uno o più mostri in battaglia: puoi Evocarli Specialmente dai Cimiteri sul tuo Terreno.",
+  "level": 5,
+  "atk": 600,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

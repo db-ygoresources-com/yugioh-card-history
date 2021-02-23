@@ -1,0 +1,15 @@
+{
+  "id": 10594,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Investortue",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Chaque tour, le premier \"Jeton Bête Fantôme Méca\" que vous contrôlez qui va être détruit au combat n'est pas détruit.",
+  "level": 3,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

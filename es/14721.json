@@ -1,0 +1,18 @@
+{
+  "id": 14721,
+  "type": "monster",
+  "name": "Dragón Golpeador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo Dragón de Nivel 4 o menor\nSi esta carta es Invocada por Enlace: puedes añadir a tu mano 1 \"Lanzamiento del Sector de Arranque\" en tu Deck. Puedes seleccionar 1 monstruo boca arriba que controles y 1 monstruo \"Cohette\" en tu Cementerio; destruye ese monstruo en el Campo y, si lo haces, añade a tu mano ese otro monstruo en el Cementerio. Sólo puedes usar cada efecto de \"Dragón Golpeador\" una vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "4"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

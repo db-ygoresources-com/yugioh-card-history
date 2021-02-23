@@ -1,0 +1,16 @@
+{
+  "id": 9659,
+  "type": "monster",
+  "name": "Zenmaister Automate",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 4\nCette carte gagne 300 ATK pour chaque Matériel Xyz attaché à cette carte. Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte pour cibler 1 monstre face recto que vous contrôlez ; changez le monstre face recto en Position de Défense face verso, et si vous le faites, durant le End Phase de ce tour, changez-le en Position d'Attaque face recto.",
+  "rank": 4,
+  "atk": 1900,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

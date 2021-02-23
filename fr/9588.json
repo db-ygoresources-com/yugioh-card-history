@@ -1,0 +1,16 @@
+{
+  "id": 9588,
+  "type": "monster",
+  "name": "Pentachloro Vylon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 monstre \"Vylon\" face recto que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement en Position d'Attaque face recto. Tant qu'elle est équipée par cet effet, si le monstre équipé détruit un monstre de votre adversaire au combat : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez la cible. (Un monstre ne peut être équipé qu'avec 1 Monstre Union à la fois. Si le monstre équipé va être détruit, détruisez cette carte à la place.)",
+  "level": 4,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

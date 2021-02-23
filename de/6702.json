@@ -1,0 +1,15 @@
+{
+  "id": 6702,
+  "type": "monster",
+  "name": "Stürmende Wynn",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug, indem du 1 WIND Monster von deiner Spielfeldseite als Tribut anbietest (außer dieser Karte), beschwöre als Spezialbeschwörung 1 WIND Monster von deiner Hand. Das durch diesen Effekt als Spezialbeschwörung beschworene Monster wird zerstört, falls „Stürmende Wynn“ von deiner Spielfeldseite entfernt wird.",
+  "level": 4,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

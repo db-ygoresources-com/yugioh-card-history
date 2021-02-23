@@ -1,0 +1,15 @@
+{
+  "id": 13647,
+  "type": "monster",
+  "name": "Mortpourpre Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si un ou plusieurs monstres que vous contrôlez vont être détruits au combat ou par un effet de carte de l'adversaire, vous pouvez payer 1000 LP pour chaque monstre qui va être détruit à la place (vous devez protéger tous les monstres qui vont être détruits, si vous utilisez cet effet). À la fin de la Battle Phase, si cette carte a détruit un ou plusieurs monstres au combat : vous pouvez les Invoquer Spécialement depuis les Cimetières sur votre Terrain.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1400,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

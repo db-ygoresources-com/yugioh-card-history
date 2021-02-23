@@ -1,0 +1,15 @@
+{
+  "id": 12878,
+  "type": "monster",
+  "name": "SPIORAL-Muskelprotz",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Der Name dieser Karte wird zu „SPIORAL-Superagent“, solange sie auf dem Spielfeld oder im Friedhof liegt. Einmal pro Spielzug: Du kannst 1 Kartentyp (Monster, Zauber oder Falle) deklarieren und 1 Karte wählen, die dein Gegner kontrolliert; zeige die oberste Karte des Decks deines Gegners vor und falls du dies tust, zerstöre die gewählte Karte, falls die vorgezeigte Karte den deklarierten Typ hat.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

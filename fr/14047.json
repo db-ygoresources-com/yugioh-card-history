@@ -1,0 +1,15 @@
+{
+  "id": 14047,
+  "type": "monster",
+  "name": "Cyber Dragon Nächster",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Le nom de cette carte devient \"Cyber Dragon\" tant qu'elle est sur le Terrain ou dans le Cimetière. Vous pouvez défausser 1 autre monstre ; Invoquez Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre Machine avec 2100 ATK ou DEF dans votre Cimetière ; Invoquez-le Spécialement, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Machine exclus) le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Cyber Dragon Nächster\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

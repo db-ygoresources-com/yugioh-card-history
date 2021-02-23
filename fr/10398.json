@@ -1,0 +1,15 @@
+{
+  "id": 10398,
+  "type": "monster",
+  "name": "Chevalier Valkyrie",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres de Type Guerrier face recto (\"Chevalier Valkyrie\" exclu) avec une attaque. Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez bannir 1 monstre de Type Guerrier et cette carte depuis votre Cimetière, puis ciblez 1 monstre de Type Guerrier de min. Niveau 5 dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

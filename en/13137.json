@@ -1,0 +1,18 @@
+{
+  "id": 13137,
+  "type": "monster",
+  "name": "Abyss Actor - Curtain Raiser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Gains 1100 ATK if you control no other monsters. Once per turn: You can send 1 \"Abyss Script\" Spell from your Deck to the GY; add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.",
+  "pendEffect": "If you control no monsters: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Curtain Raiser\" once per Duel.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1100,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

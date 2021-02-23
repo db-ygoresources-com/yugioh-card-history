@@ -1,0 +1,15 @@
+{
+  "id": 5514,
+  "type": "monster",
+  "name": "Vigilante del Cuidador de Tumbas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el turno de cualquier jugador, cuando tu adversario activa una Carta Mágica/de Trampa o efecto de monstruo que le haría descartar cuando se resuelva: puedes mandar al Cementerio esta carta en tu mano; niega la activación y, si lo haces, destruye la carta.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

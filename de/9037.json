@@ -1,0 +1,16 @@
+{
+  "id": 9037,
+  "type": "monster",
+  "name": "Snyffus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du 1 Monster vom Typ Pflanze als Tribut anbieten, um 1 offene Karte, die dein Gegner kontrolliert, zu wählen und zu zerstören. Wenn Monster vom Typ Pflanze auf dem Spielfeld zerstört werden, solange diese Karte im Friedhof liegt, kannst du diese Karte als Spezialbeschwörung vom Friedhof beschwören. Falls du dies tust, entferne diese Karte aus dem Spiel, wenn sie vom Spielfeld entfernt wird.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10990,
+  "type": "monster",
+  "name": "Gwenhwyfar, Regina delle Nobili Armi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro \"Nobile Cavaliere\" che controlli; equipaggia questa carta dalla tua mano o Cimitero a quel bersaglio. Puoi utilizzare questo effetto di \"Gwenhwyfar, Regina delle Nobili Armi\" una sola volta per turno. Il mostro equipaggiato guadagna 300 ATK. Applica l'effetto appropriato, a seconda dell'Attributo del mostro equipaggiato.\n●LUCE: Se il mostro equipaggiato sta per essere distrutto dall'effetto di una carta, puoi invece distruggere questa carta.\n●OSCURITÀ: Se il mostro equipaggiato combatte con un mostro dell'avversario, all'inizio del Damage Step: puoi distruggere quel mostro, poi distruggi questa carta.",
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

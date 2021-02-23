@@ -1,0 +1,15 @@
+{
+  "id": 10033,
+  "type": "monster",
+  "name": "Lame Bounzer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, si cette carte attaque et qu'à la fin de la Damage Step votre adversaire contrôle un monstre : vous pouvez défausser 1 carte ; durant cette Battle Phase, cette carte peut réattaquer un monstre de votre adversaire.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

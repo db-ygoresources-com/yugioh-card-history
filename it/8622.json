@@ -1,0 +1,16 @@
+{
+  "id": 8622,
+  "type": "monster",
+  "name": "Maestro di Spada",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se un mostro di Tipo Guerriero che controlli attacca un mostro dell'avversario e il mostro dell'avversario non viene distrutto in battaglia, alla fine del Damage Step puoi Evocare Specialmente questa carta dalla tua mano. Durante un combattimento tra questa carta attaccante ed un mostro in Posizione di Difesa il cui DEF è inferiore all'ATK di questa carta, infliggi la differenza come danno da combattimento al tuo avversario.",
+  "level": 3,
+  "atk": 1200,
+  "def": 0,
+  "properties": [
+    "Guerriero",
+    "Tuner",
+    "Effetto"
+  ]
+}

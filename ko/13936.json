@@ -1,0 +1,19 @@
+{
+  "id": 13936,
+  "type": "monster",
+  "name": "상하의 번개썸머",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "번개족 몬스터 2장\n①: 상대 턴에 1번, 패를 1장 버리고, 링크 몬스터 이외의 자신 묘지의 번개족 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "번개족",
+    "링크",
+    "효과"
+  ]
+}

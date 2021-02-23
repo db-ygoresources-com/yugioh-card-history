@@ -1,0 +1,18 @@
+{
+  "id": 12134,
+  "type": "monster",
+  "name": "Dinoniebla Pteran",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando esta carta destruye un monstruo de tu adversario en batalla: puedes añadir a tu mano 1 carta \"Dinoniebla\" en tu Deck.",
+  "pendEffect": "Si otra u otras cartas \"Dinoniebla\" que controlas fueran a ser destruidas en batalla o por efecto de una carta de tu adversario, puedes destruir esta carta en su lugar.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

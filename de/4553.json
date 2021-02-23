@@ -1,0 +1,15 @@
+{
+  "id": 4553,
+  "type": "monster",
+  "name": "Griggle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn die Kontrolle über diese offene Karte auf dem Spielfeld auf deinen Gegner übergeht, erhöhe deine Life Points um 3000 Punkte. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 1,
+  "atk": 350,
+  "def": 300,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

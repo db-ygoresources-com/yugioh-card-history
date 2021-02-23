@@ -1,0 +1,15 @@
+{
+  "id": 13316,
+  "type": "monster",
+  "name": "Mágico Mosquetero Doc",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante el turno de cualquier jugador, puedes activar Cartas Mágicas/de Trampa \"Mágico/a Mosquete\" en tu mano. Si una Carta Mágica/de Trampa es activada en la columna de esta carta: puedes añadir a tu mano 1 carta \"Mágico/a Mosquete\" en tu Cementerio, pero no una carta con el mismo nombre que esa carta activada. Sólo puedes usar este efecto de \"Mágico Mosquetero Doc\" una vez por turno.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

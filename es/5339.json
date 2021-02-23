@@ -1,0 +1,15 @@
+{
+  "id": 5339,
+  "type": "monster",
+  "name": "Dragón de la Cueva",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser Invocado de Modo Normal mientras controles un monstruo. Esta carta no puede declarar un ataque a menos que controles otro monstruo de Tipo Dragón.",
+  "level": 4,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

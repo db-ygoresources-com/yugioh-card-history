@@ -1,0 +1,18 @@
+{
+  "id": 12401,
+  "type": "monster",
+  "name": "Performapal Gongato",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; you take no battle damage from that battle.",
+  "pendEffect": "Once per turn, when an opponent's monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).",
+  "pendScale": 2,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

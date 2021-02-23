@@ -1,0 +1,15 @@
+{
+  "id": 6428,
+  "type": "monster",
+  "name": "Hombre Pila C",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si todos los \"Hombre Pila C\" en tu Campo están en Posición de Ataque, aumenta el ATK de todos los monstruos de Tipo Máquina en tu Campo en 500 puntos por cada \"Hombre Pila C\" en tu Campo. Si todos los \"Hombre Pila C\" en tu Campo están en Posición de Defensa, aumenta la DEF de todos los monstruos de Tipo Máquina en tu Campo en 500 puntos por cada \"Hombre Pila C\" en tu Campo.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

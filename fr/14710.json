@@ -1,0 +1,19 @@
+{
+  "id": 14710,
+  "type": "monster",
+  "name": "Bloqueur Barricadeborg",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de noms différents\nSi cette carte est Invoquée par Lien : vous pouvez défausser 1 carte ; durant la End Phase de ce tour, ajoutez 1 Magie Continue ou de Terrain depuis votre Cimetière à votre main. Vous ne pouvez utiliser cet effet de \"Bloqueur Barricadeborg\" qu'une fois par tour. Les Magies face recto que vous contrôlez ne peuvent pas être détruites par des effets de carte de votre adversaire.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

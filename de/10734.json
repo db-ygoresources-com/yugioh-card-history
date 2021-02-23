@@ -1,0 +1,15 @@
+{
+  "id": 10734,
+  "type": "monster",
+  "name": "Bosheitsfresser Löffel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn ein „Bosheitsfresser“-Monster mit einem unterschiedlichen Namen als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen wird (außer während des Damage Steps): Du kannst 1 Monster vom Typ Unterweltler der Stufe 2 in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Seine Effekte werden annulliert. Du kannst den Effekt von „Bosheitsfresser Löffel“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10501,
+  "type": "monster",
+  "name": "Boxeur Indomptable Contre Coup de Poing",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant la Damage Step de chaque joueur, lorsqu'un monstre \"Boxeur Indomptable\" que vous contrôlez attaque ou est attaqué : vous pouvez bannir cette carte depuis votre main ou Cimetière ; jusqu'à la fin de ce tour, le monstre gagne 1000 ATK. Vous ne pouvez utiliser l'effet de \"Boxeur Indomptable Contre Coup de Poing\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 0,
+  "def": 1100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9327,
+  "type": "monster",
+  "name": "Majioshaleon",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Votre adversaire ne peut pas sélectionner cette carte comme cible d'une attaque tant qu'il contrôle une Carte Magie ou Piège. Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en tant que dommages de combat à votre adversaire.",
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

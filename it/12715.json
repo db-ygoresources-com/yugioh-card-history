@@ -1,0 +1,18 @@
+{
+  "id": 12715,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Attrice Principale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, quando viene inflitto danno da combattimento: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; esso perde ATK pari a quel danno da combattimento. Quando questa carta viene distrutta in battaglia, o se questa carta nella Zona Mostri del suo proprietario viene distrutta dall'effetto di una carta dell'avversario: puoi Posizionare 1 Magia \"Sceneggiatura dell'Abisso\" direttamente dal tuo Deck.",
+  "pendEffect": "Una volta per turno, quando subisci danno da combattimento da un mostro attaccante dell'avversario: puoi attivare 1 di questi effetti;\n●Quel mostro dell'avversario perde ATK pari al danno che hai subito (anche se questa carta lascia il Terreno).\n●Aggiungi dal tuo Extra Deck alla tua mano 1 Mostro Pendulum \"Attore dell'Abisso\" scoperto con ATK pari o inferiore al danno che hai subito.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

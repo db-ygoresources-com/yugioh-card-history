@@ -1,0 +1,15 @@
+{
+  "id": 13053,
+  "type": "monster",
+  "name": "Knackdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht durch Kampf mit einem Monster mit gleicher oder niedrigerer Stufe zerstört werden. Wenn dein Gegner genau 1 Monster als Normal- oder Spezialbeschwörung beschwört (und kein anderes Monster beschworen wird), solange sich dieses Monster auf dem Spielfeld befindet: Du kannst das Monster (bis zum Ende dieses Spielzugs) ATK in Höhe seiner Stufe x 200 verlieren lassen und falls du dies tust, füge deinem Gegner Schaden in Höhe der ATK zu, die durch diesen Effekt verloren wurden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

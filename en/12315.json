@@ -1,0 +1,15 @@
+{
+  "id": 12315,
+  "type": "monster",
+  "name": "Dicelops",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Once per turn: You can roll a six-sided die, then apply the result.\n●1: Look at your opponent's hand, also discard 1 card from their hand.\n●2, 3, 4, 5: Discard 1 card.\n●6: Discard your entire hand.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

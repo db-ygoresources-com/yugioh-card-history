@@ -1,0 +1,15 @@
+{
+  "id": 13213,
+  "type": "monster",
+  "name": "F.A. Schallmeister",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte erhält ATK in Höhe ihrer Stufe x 300. Kann nicht durch Kampf mit einem Monster deines Gegners, dessen Grund-Stufe/-Rang niedriger als die Stufe dieser Karte ist, zerstört werden. Jedes Mal, wenn eine „F.A.“-Zauber-/Fallenkarte oder ein „F.A.“-Zauber-/Falleneffekt aktiviert wird: Du kannst die Stufe dieser Karte um 1 erhöhen. Falls diese Karte Stufe 7 oder höher ist, kann sie während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.",
+  "level": 4,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

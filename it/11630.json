@@ -1,0 +1,18 @@
+{
+  "id": 11630,
+  "type": "monster",
+  "name": "Dragoni di Draconia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Armati con moschetti e lance d'acciaio, queste truppe di cavalleria terrestre dell'Impero Draconia sono temute dal Regno Reptier e dalle altre nazioni confinanti.",
+  "pendEffect": "Una volta per turno, se un Mostro Normale che controlli distrugge un mostro dell'avversario in battaglia, dopo il calcolo dei danni: puoi aggiungere 1 Mostro Normale di Livello 4 o superiore dal tuo Deck alla tua mano.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Guerriero-Bestia",
+    "Pendulum",
+    "Normale"
+  ]
+}

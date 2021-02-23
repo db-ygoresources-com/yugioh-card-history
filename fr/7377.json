@@ -1,0 +1,16 @@
+{
+  "id": 7377,
+  "type": "monster",
+  "name": "Brise Armure",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez équiper cette carte à un monstre de Type Guerrier que vous contrôlez, OU la déséquiper pour Invoquer Spécialement cette carte en Position d'Attaque face recto. Tant que cette carte est équipée à un monstre par cet effet, lorsque ce monstre inflige des dommages de combat à votre adversaire, détruisez 1 carte sur le Terrain (un monstre ne peut être équipé qu'avec 1 Monstre d'Union à la fois. Si le monstre équipé doit être détruit au combat, cette carte est détruite à la place).",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Guerrier",
+    "Union",
+    "Effet"
+  ]
+}

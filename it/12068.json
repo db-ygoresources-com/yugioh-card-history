@@ -1,0 +1,16 @@
+{
+  "id": 12068,
+  "type": "monster",
+  "name": "PSI-Strutturattrezzatura Alfa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di una carta, e non può essere Evocato Specialmente in altri modi. Quando il tuo avversario Evoca Normalmente o Specialmente uno o più mostri mentre tu non controlli nessun mostro (eccetto durante Il Damage Step): puoi Evocare Specialmente sia questa carta dalla tua mano che 1 \"PSI-Struttura Pilota\" dalla tua mano, Deck o Cimitero e, se lo fai, aggiungi 1 carta \"PSI-Struttura\" dal tuo Deck alla tua mano, eccetto \"PSI-Strutturattrezzatura Alfa\". Durante la End Phase, bandisci i mostri scoperti Evocati Specialmente da questo effetto.",
+  "level": 1,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Psichico",
+    "Tuner",
+    "Effetto"
+  ]
+}

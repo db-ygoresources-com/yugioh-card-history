@@ -1,0 +1,15 @@
+{
+  "id": 8024,
+  "type": "monster",
+  "name": "Harmonisateur de Force Vitale",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque votre adversaire active l'effet d'une carte qui inflige des dommages, vous pouvez défausser cette carte pour annuler son activation et la détruire.",
+  "level": 2,
+  "atk": 800,
+  "def": 400,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

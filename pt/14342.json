@@ -1,0 +1,19 @@
+{
+  "id": 14342,
+  "type": "monster",
+  "name": "Dragão Antélio Negro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros de Nível 7\nSe você puder Invocar por Invocação-Pêndulo de Nível 7, você pode Invocar este card com a face para cima no seu Deck Adicional por Invocação-Pêndulo. Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 monstro com a face para cima que seu oponente controla; até o final deste turno, o ATK dele se torna metade do seu ATK atual e, se isso acontecer, este card ganha esse valor de ATK perdido. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla; diminua o ATK original dele pela metade até o final deste turno (mesmo que este card deixe o campo).",
+  "pendScale": 10,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

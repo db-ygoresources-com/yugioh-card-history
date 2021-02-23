@@ -1,0 +1,18 @@
+{
+  "id": 11315,
+  "type": "monster",
+  "name": "Cazadora de Cuernos de Dragón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Los cuernos se necesitaban para preparar una medicina para su aldea, que sufría una plaga. Si que ella lo supiera, los dragones quemaron y arrasaron la aldea cuando fueron desplazados de su cubil.",
+  "pendEffect": "Todos los Monstruos Normales ganan 200 ATK. No recibes daño de batalla de batallas que involucren a Monstruos Normales que controles.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

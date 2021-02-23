@@ -1,0 +1,15 @@
+{
+  "id": 10823,
+  "type": "monster",
+  "name": "Glorioso Soldato Nero - Emissario del Crepuscolo della Sera",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) bandendo tutti i mostri LUCE o tutti i mostri OSCURITÀ dal tuo Cimitero, mentre hai pari numero di ognuno nel tuo Cimitero. Mentre è scoperta sul Terreno, questa carta ha anche Attributo LUCE. Quando questa carta viene Evocata Specialmente: puoi attivare l'effetto appropriato, a seconda dell'Attributo dei mostri banditi per l'Evocazione Speciale. Non puoi effettuare la tua Battle Phase nel turno in cui attivi questo effetto.\n●LUCE: scegli come bersaglio 1 mostro sul Terreno; bandiscilo.\n●OSCURITÀ: bandisci 1 carta a caso dalla mano del tuo avversario coperta, fino alla End Phase del tuo avversario.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

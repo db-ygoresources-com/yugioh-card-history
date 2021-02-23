@@ -1,0 +1,15 @@
+{
+  "id": 6243,
+  "type": "monster",
+  "name": "Katzenminze-Kätzchen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht angegriffen werden, falls sich ein anderes Monster vom Typ Ungeheuer auf deiner Spielfeldseite befindet. Mache die DEF von 1 Monster auf der Spielfeldseite deines Gegners 0 bis zur End Phase. Dieser Effekt kann nur einmal pro Spielzug benutzt werden.",
+  "level": 2,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

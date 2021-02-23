@@ -1,0 +1,18 @@
+{
+  "id": 11786,
+  "type": "monster",
+  "name": "Risebell el Invocador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Un buen hermano mayor, Risebell cuida bien a su hermana menor Saambell. Cada tarde lee un Libro Mágico con su hermana, una rutina armoniosa que hace sonreír a todos.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo; aumenta en 1 su Nivel (aún si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Psíquico",
+    "Péndulo",
+    "Normal"
+  ]
+}

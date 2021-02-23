@@ -1,0 +1,15 @@
+{
+  "id": 5598,
+  "type": "monster",
+  "name": "Grand Voleur Fantôme",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte inflige des dommages de combat à votre adversaire : déclarez 1 nom de carte ; regardez la main de votre adversaire, et si vous le faites, défaussez-lui toutes les cartes de ce nom.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

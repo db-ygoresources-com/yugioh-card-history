@@ -1,0 +1,15 @@
+{
+  "id": 8958,
+  "type": "monster",
+  "name": "Moustique Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Naturia\" face recto, votre adversaire ne peut pas sélectionner cette carte comme cible d'une attaque. Votre adversaire reçoit tous les dommages de combat que vous auriez dû recevoir à l'issue d'un combat impliquant un monstre \"Naturia\" face recto que vous contrôlez, excepté cette carte.",
+  "level": 1,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

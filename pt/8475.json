@@ -1,0 +1,16 @@
+{
+  "id": 8475,
+  "type": "monster",
+  "name": "Dragão Majestoso Estelar",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "\"Dragão Majestoso\" + \"Dragão da Poeira Estelar\" + 1 monstro não-Regulador\nDurante o turno de qualquer duelista, quando seu oponente ativar um card ou efeito: você pode oferecer este card como Tributo; negue a ativação e, se isso acontecer, destrua todos os cards que seu oponente controla. Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla; negue os efeitos dele até o final deste turno e, uma vez por turno, você pode ativar 1 dos efeitos dele como se fosse um efeito deste card. Durante a Fase Final: escolha 1 \"Dragão da Poeira Estelar\" no seu Cemitério; devolva este card do campo para o Deck Adicional e, depois, Invoque o alvo por Invocação-Especial.",
+  "level": 10,
+  "atk": 3800,
+  "def": 3000,
+  "properties": [
+    "Dragão",
+    "Sincro",
+    "Efeito"
+  ]
+}

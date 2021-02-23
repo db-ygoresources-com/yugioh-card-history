@@ -1,0 +1,16 @@
+{
+  "id": 7300,
+  "type": "monster",
+  "name": "Alien Hypnotique",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ● Durant votre Main Phase, vous pouvez sélectionner 1 monstre contrôlé par votre adversaire avec un ou plusieurs Compteurs-A et en prendre le contrôle tant que cette carte est sur le Terrain. Durant chacune de vos End Phases, retirez 1 Compteur-A de chaque monstre contrôlé de cette façon. Si tous les Compteurs-A sont retirés d'un monstre, détruisez-le.",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Reptile",
+    "Gémeau",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10333,
+  "type": "monster",
+  "name": "Photon Pirate",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "You can banish 1 \"Photon\" monster from your Graveyard; this card gains 1000 ATK until the End Phase. You can use the effect of \"Photon Pirate\" up to twice per turn.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

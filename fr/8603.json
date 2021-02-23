@@ -1,0 +1,16 @@
+{
+  "id": 8603,
+  "type": "monster",
+  "name": "Arachnée Souterraine",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur TÉNÈBRES + 1 monstre non Syntoniseur de Type Insecte\nSi cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie ou Piège jusqu'à la fin de la Damage Step. Une fois par tour, vous pouvez sélectionner 1 monstre face recto contrôlé par votre adversaire et l'équiper à cette carte. Si cette carte doit être détruite au combat, vous pouvez détruire le monstre équipé à cette carte par cet effet à la place (vous ne pouvez équiper qu'1 seul monstre à la fois à cette carte).",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Insecte",
+    "Synchro",
+    "Effet"
+  ]
+}

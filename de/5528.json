@@ -1,0 +1,16 @@
+{
+  "id": 5528,
+  "type": "monster",
+  "name": "Schnitter auf dem Nachtmahr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Geister-Sensenmann“ + „Nachtmahr“\nDieses Monster kann nicht als Ergebnis eines Kampfes zerstört werden. Wenn diese Karte als Ziel eines Effekts einer Zauber-, Fallen- oder Effektmonsterkarte bestimmt wird, zerstöre diese Karte. Dieses Monster kann die Life Points deines Gegners direkt angreifen, selbst wenn sich Monster auf der Spielfeldseite deines Gegners befinden. Wenn diese Karte erfolgreich direkt angreift, wirft dein Gegner 1 zufällige Karte aus seiner Hand ab.",
+  "level": 5,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Zombie",
+    "Fusion",
+    "Effekt"
+  ]
+}

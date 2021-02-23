@@ -1,0 +1,18 @@
+{
+  "id": 11828,
+  "type": "monster",
+  "name": "Robobureau 005",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain ; détruisez-la. Cette carte gagne 500 ATK pour chaque monstre \"Robobureau\" face recto dans votre Extra Deck. Si cette carte dans la Zone Pendule est détruite : vous pouvez cibler 1 monstre \"Robobureau\" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"Robobureau 005\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Robobureau\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 10,
+  "level": 5,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

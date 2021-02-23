@@ -1,0 +1,16 @@
+{
+  "id": 14214,
+  "type": "monster",
+  "name": "Cavalerie des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Magicien Sombre\" + 1 monstre Guerrier\nGagne 100 ATK/DEF pour chaque Magie/Piège sur le Terrain et dans les Cimetières. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Lorsqu'une carte ou un effet qui cible une carte sur le Terrain est activé (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'activation, et si vous le faites, détruisez-la.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12908,
+  "type": "monster",
+  "name": "Mago de Duas Íris",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Dragão Pêndulo\".)\nSe este card for destruído em batalha ou por um efeito de card: você pode adicionar 1 card \"Pêndulografo(a)\" do seu Deck à sua mão.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro de TREVAS do Tipo Mago que você controla; aplique este efeito a ele e, depois, destrua este card. Depois de aplicado, dobre qualquer dano de batalha que esse monstro causar ao seu oponente neste turno se ele batalhou um monstro do oponente.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

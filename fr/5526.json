@@ -1,0 +1,15 @@
+{
+  "id": 5526,
+  "type": "monster",
+  "name": "Moissonneur d'Esprit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non destructible au combat. Après la résolution d'un effet de carte qui cible cette carte face recto, détruisez cette carte. Lorsque cette carte inflige des dommages de combat à votre adversaire par une attaque directe : défaussez-lui 1 carte au hasard.",
+  "level": 3,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

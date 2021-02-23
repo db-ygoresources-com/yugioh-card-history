@@ -1,0 +1,15 @@
+{
+  "id": 8024,
+  "type": "monster",
+  "name": "Lebenskraftharmonisierer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn dein Gegner den Effekt einer Karte aktiviert, der Schaden zufügt, kannst du diese Karte abwerfen, um seine Aktivierung zu annullieren und die aktivierte Karte zu zerstören.",
+  "level": 2,
+  "atk": 800,
+  "def": 400,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

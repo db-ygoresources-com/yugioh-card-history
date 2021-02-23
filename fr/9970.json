@@ -1,0 +1,16 @@
+{
+  "id": 9970,
+  "type": "monster",
+  "name": "Dragon Ogre du Néant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur TÉNÈBRES + 1+ monstre non-Syntoniseur\nUne fois par tour, lorsque votre adversaire active une Carte Magie/Piège tant que vous n'avez aucune carte dans votre main (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez-la.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

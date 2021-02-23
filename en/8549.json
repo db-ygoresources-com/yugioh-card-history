@@ -1,0 +1,16 @@
+{
+  "id": 8549,
+  "type": "monster",
+  "name": "Genex Ally Remote",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, you can select 1 face-up Tuner monster on the field. The selected monster's name is treated as \"Genex Controller\" until the End Phase.",
+  "level": 3,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Tuner",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15392,
+  "type": "monster",
+  "name": "Dama del Pedernal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si controlas un monstruo Guerrero: puedes Invocar esta carta de Modo Especial desde tu mano. Puedes mandar al Cementerio esta carta en el Campo; Invoca de Modo Especial, desde tu mano, 1 monstruo Guerrero de Nivel 4 o menor y, si lo haces, este turno tu adversario no puede seleccionarlo con efectos de cartas. Sólo puedes usar cada efecto de \"Dama del Pedernal\" una vez por turno.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

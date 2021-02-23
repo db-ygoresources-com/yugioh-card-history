@@ -1,0 +1,15 @@
+{
+  "id": 11551,
+  "type": "monster",
+  "name": "Injecteur Jinzo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Jinzo\" tant qu'elle est sur le Terrain ou dans le Cimetière. Vous pouvez Sacrifier cette carte ; ajoutez 1 monstre \"Jinzo\" (\"Injecteur Jinzo\" exclu) depuis votre Deck à votre main, puis révélez toutes les cartes Posées dans les Zones Magie & Piège de votre adversaire, et s'il y a des Pièges parmi elles, vous pouvez Invoquer Spécialement un nombre de monstres \"Jinzo\" depuis votre main, inférieur ou égal au nombre de Pièges révélés. Vous ne pouvez utiliser cet effet de \"Injecteur Jinzo\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

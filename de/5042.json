@@ -1,0 +1,15 @@
+{
+  "id": 5042,
+  "type": "monster",
+  "name": "Rotschleim",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann die Life Points deines Gegners direkt angreifen. Jedesmal, wenn diese Karte den Life Points deines Gegners Kampfschaden zufügt, erhöhe die ATK dieser Karte in deiner nächsten Standby Phase um 1000 Punkte. Diese Erhöhung der ATK gilt, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 3,
+  "atk": 0,
+  "def": 100,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

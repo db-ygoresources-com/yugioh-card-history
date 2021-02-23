@@ -1,0 +1,20 @@
+{
+  "id": 13928,
+  "type": "monster",
+  "name": "Dinolutteur Roi T Rexlutte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres \"Dinolutteur\"\nSi cette carte combat, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. Les monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Au début de la Battle Phase de votre adversaire : vous pouvez cibler 1 monstre en Position d'Attaque contrôlé par votre adversaire ; cette Battle Phase, votre adversaire ne peut pas attaquer avec d'autres monstres jusqu'à ce que le monstre ait attaqué, et s'il ne déclare pas d'attaque, détruisez-le à la fin de la Battle Phase.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Dinosaure",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13750,
+  "type": "monster",
+  "name": "Dragón Borrespada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3+ Monstruos de Efecto\nNo puede ser destruida en batalla. Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo en Posición de Ataque; cámbialo a Posición de Defensa, y además esta carta puede hacer un segundo ataque durante cada Battle Phase este turno. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto. Una vez por turno, cuando esta carta declare un ataque a un monstruo boca arriba: puedes activar este efecto; hasta el final de este turno, esta carta gana ATK igual a la mitad del ATK de ese monstruo en este momento y, si lo hace, el ATK en este momento de ese monstruo se divide a la mitad.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "1",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

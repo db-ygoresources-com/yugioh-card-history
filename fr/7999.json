@@ -1,0 +1,15 @@
+{
+  "id": 7999,
+  "type": "monster",
+  "name": "Forteresse Volante FEU DU CIEL",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte ne peut ni être Invoquée Normalement ni être Posée. Cette carte ne peut pas être Invoquée Spécialement, excepté par l'effet de \"Réacteur d'Invocation ・FEU\". Une fois par tour, vous pouvez envoyer 1 carte depuis votre main au Cimetière pour détruire 1 carte contrôlée par votre adversaire. Une fois durant chaque tour de votre adversaire, vous pouvez activer 1 des effets suivants :\n ●Lorsque votre adversaire Invoque Normalement ou Spécialement un monstre, détruisez-le et infligez 800 points de dommages à votre adversaire.\n ●Lorsque votre adversaire Pose une carte, détruisez-la et infligez 800 points de dommages à votre adversaire.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

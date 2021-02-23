@@ -1,0 +1,15 @@
+{
+  "id": 4476,
+  "type": "monster",
+  "name": "Fantôme Magique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette créature lance un sort de terreur et de confusion juste avant d'attaquer ses ennemis.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Zombie",
+    "Normal"
+  ]
+}

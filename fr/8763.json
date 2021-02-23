@@ -1,0 +1,16 @@
+{
+  "id": 8763,
+  "type": "monster",
+  "name": "Axel, Allié Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur \"Genex\" + 1 monstre non Syntoniseur ou plus\nUne fois par tour, vous pouvez défausser 1 carte pour sélectionner 1 monstre de Niveau 4 ou moins de Type Machine depuis votre Cimetière, et l'Invoquer Spécialement. L'ATK de ce monstre est doublée jusqu'à la End Phase, mais il ne peut pas attaquer directement votre adversaire. Retirez-le du jeu durant votre End Phase.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13344,
+  "type": "monster",
+  "name": "Destruction d'Ogre Gouki",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres \"Gouki\"\nLa première fois que chaque monstre pointé par cette carte va être détruit au combat chaque tour, il n'est pas détruit. Durant votre Main Phase : vous pouvez activer cet effet ; vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Gouki\" exclus) le reste de ce tour, et aussi, votre adversaire Invoque Spécialement 1 ou 2 monstres depuis son Cimetière, puis, vous Invoquez Spécialement max. autant de monstres non-Lien \"Gouki\" depuis votre Cimetière dans les Zones pointées par cette carte. Vous ne pouvez utiliser cet effet de \"Destruction d'Ogre Gouki\" qu'une fois par tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8469,
+  "type": "monster",
+  "name": "Austauschfrosch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 anderes WASSER Monster abwirfst. Wenn diese Karte beschworen wird: Du kannst 1 WASSER Aqua-Monster der Stufe 2 oder niedriger von deinem Deck oder offen von deiner Spielfeldseite auf den Friedhof legen. Einmal pro Spielzug: Du kannst 1 Monster, das du kontrollierst, auf die Hand zurückgeben; du kannst in diesem Spielzug während deiner Main Phase zusätzlich zu deiner Normalbeschwörung / deinem Normalen Setzen 1 „Frosch“-Monster als Normalbeschwörung beschwören, außer „Austauschfrosch“. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.)",
+  "level": 2,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

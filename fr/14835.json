@@ -1,0 +1,15 @@
+{
+  "id": 14835,
+  "type": "monster",
+  "name": "Jack-o-Bolan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez défausser 1 monstre Zombie ; Invoquez Spécialement cette carte depuis votre main. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre Zombie dans l'un des Cimetières ; Invoquez Spécialement le monstre (mais bannissez-le lorsqu'il quitte le Terrain), puis bannissez cette carte face recto jusqu'à la End Phase. Vous ne pouvez utiliser chaque effet de \"Jack-o-Bolan\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 1500,
+  "def": 2200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

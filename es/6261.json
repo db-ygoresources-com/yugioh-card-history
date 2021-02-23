@@ -1,0 +1,15 @@
+{
+  "id": 6261,
+  "type": "monster",
+  "name": "Pájaro de Fuego",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Mientras esta carta permanezca boca arriba en el Campo, cada vez que un monstruo de Tipo Bestia Alada es destruido, aumenta el ATK de esta carta en 500 puntos.",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

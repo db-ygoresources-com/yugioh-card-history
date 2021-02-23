@@ -1,0 +1,15 @@
+{
+  "id": 7384,
+  "type": "monster",
+  "name": "Chasse-Ciel Fantôme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou par Flip : vous pouvez Invoquer Spécialement un nombre de votre choix de \"Jeton Chasse-Ciel\" (Démon/TÉNÈBRES/Niveau 4/ATK 500/DEF 500), inférieur ou égal au nombre de monstres que vous contrôlez. Une fois par tour, durant votre Standby Phase : vous pouvez infliger 300 points de dommages à votre adversaire pour chaque monstre \"Chasse-Ciel\" que vous contrôlez. Les monstres \"Chasse-Ciel\" que vous contrôlez ne peuvent pas déclarer d'attaque durant le tour où vous activez cet effet.",
+  "level": 4,
+  "atk": 1100,
+  "def": 800,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

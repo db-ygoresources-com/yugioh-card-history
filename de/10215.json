@@ -1,0 +1,15 @@
+{
+  "id": 10215,
+  "type": "monster",
+  "name": "Donner-Seepferd",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte abwerfen; füge deiner Hand 2 LICHT Monster vom Typ Donner der Stufe 4 mit demselben Namen mit 1600 oder weniger ATK von deinem Deck hinzu. Du kannst den Effekt von „Donner-Seepferd“ nur einmal pro Spielzug verwenden. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

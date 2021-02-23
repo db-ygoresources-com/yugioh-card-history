@@ -1,0 +1,16 @@
+{
+  "id": 11550,
+  "type": "monster",
+  "name": "Smartcell Morfotronico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) bandendo 1 mostro \"Morfotronico\" dal tuo Cimitero.\n●Mentre è in Posizione di Attacco: Una volta per turno: puoi tirare un dado a sei facce, dissotterrare quel numero di carte dalla cima del tuo Deck, aggiungere 1 carta \"Morfotronico\" dissotterrata alla tua mano, inoltre mischiare il resto nel Deck.\n●Mentre è in Posizione di Difesa: Una volta per turno: puoi tirare un dado a sei facce, guardare quel numero di carte dalla cima del tuo Deck, poi metterle tutte in cima oppure in fondo al Deck, ma in qualsiasi ordine.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Macchina",
+    "Tuner",
+    "Effetto"
+  ]
+}

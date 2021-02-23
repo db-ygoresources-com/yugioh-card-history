@@ -1,0 +1,16 @@
+{
+  "id": 8580,
+  "type": "monster",
+  "name": "Sonderlicher Kerl",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn du diese Karte als Synchromaterialmonster benutzt, ist das andere Synchromaterialmonster 1 Monster in deiner Hand. Der Effekt des Synchromonsters, das diese Karte als Synchromaterialmonster benutzt hat, kann nicht aktiviert werden, seine Effekte werden negiert und es wird aus dem Spiel entfernt, wenn es vom Spielfeld entfernt wird.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13833,
+  "type": "monster",
+  "name": "Shura, a Estrela Combatente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "\"Iadaten, a Estrela Conquistadora\" + 1 monstro Guerreiro de Nível 5 ou mais\nUma vez por turno, durante a Fase de Batalha (Efeito Rápido): você pode transformar em 0 o ATK de todos os monstros com a face para cima que seu oponente controla atualmente. Uma vez por batalha, se um monstro batalhar outro monstro, durante o cálculo de dano (Efeito Rápido): você pode fazer com que cada monstro que estiver batalhando ganhe ATK igual ao seu próprio Nível x 200, apenas durante esse cálculo de dano. Se este card Invocado por Invocação-Fusão que você controla for destruído por um card do oponente e enviado para o seu Cemitério: você pode Invocar por Invocação-Especial 1 \"Iadaten, a Estrela Conquistadora\" do seu Deck Adicional. (Esta é considerada uma Invocação-Fusão.)",
+  "level": 12,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Guerreiro",
+    "Fusão",
+    "Efeito"
+  ]
+}

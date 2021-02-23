@@ -1,0 +1,15 @@
+{
+  "id": 7876,
+  "type": "monster",
+  "name": "Morphtronischer Datatron",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "●Solange in Angriffsposition: Einmal pro Spielzug kannst du 1 Monster als Tribut anbieten, um deinem Gegner 600 Schaden zuzufügen.\n●Solange in Verteidigungsposition: Einmal pro Spielzug kannst du deinem Gegner 300 Schaden zufügen.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

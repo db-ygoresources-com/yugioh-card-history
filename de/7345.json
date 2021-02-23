@@ -1,0 +1,15 @@
+{
+  "id": 7345,
+  "type": "monster",
+  "name": "Kartenblocker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte beschworen wird: Ändere sie in die Verteidigungsposition. Wenn ein offenes Monster, das du kontrollierst, als Ziel für einen Angriff gewählt wird: Du kannst das gewählte Ziel auf diese Karte ändern. Wenn diese Karte als Ziel für einen Angriff gewählt wird: Du kannst eine Zahl zwischen 1 und 3 bestimmen, lege dann so viele oberste Karten von deinem Deck auf den Friedhof; diese Karte erhält bis zur End Phase 500 DEF für jede auf diese Art auf den Friedhof gelegte Karte.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8105,
+  "type": "monster",
+  "name": "Genex Recycled",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, you can select 1 \"Genex\" monster in your Graveyard. Until the End Phase, this card's name is treated as the selected monster's name.",
+  "level": 1,
+  "atk": 200,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Tuner",
+    "Effect"
+  ]
+}

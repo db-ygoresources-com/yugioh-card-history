@@ -1,0 +1,18 @@
+{
+  "id": 11353,
+  "type": "monster",
+  "name": "Sentinelle Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Démarrage en Mode Réplique...\nUne erreur est survenue lors de l'exécution de C:\\sophia\\zefra.exe\nÉditeur inconnu.\nAutoriser C:\\tierra\\qliphort.exe ? ＜O／N＞...[O]\nDémarrage en Mode Autonomie…",
+  "pendEffect": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Qli\" exclus). Cet effet ne peut pas être annulé. Une fois par tour : vous pouvez payer 800 LP ; ajoutez 1 carte \"Qli\" (\"Sentinelle Qliphort\" exclu) depuis votre Deck à votre main.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Normal"
+  ]
+}

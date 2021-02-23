@@ -1,0 +1,16 @@
+{
+  "id": 13745,
+  "type": "monster",
+  "name": "Ruine, Reine Suprême de l'Oubli",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Cycle du Monde\". Le nom de cette carte devient \"Ruine, Reine de l'Oubli\" tant qu'elle est dans la main ou sur le Terrain. Tant que cette carte Invoquée Rituellement est sur le Terrain, les Monstres Rituels que vous contrôlez ne peuvent pas être détruits par des effets de carte. Si tous les monstres utilisés pour Invoquer Rituellement cette carte étaient des Monstres Rituels, elle peut faire une seconde attaque durant chaque Battle Phase. Si cette carte détruit un monstre de l'adversaire au combat : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit.",
+  "level": 10,
+  "atk": 2900,
+  "def": 3000,
+  "properties": [
+    "Elfe",
+    "Rituel",
+    "Effet"
+  ]
+}

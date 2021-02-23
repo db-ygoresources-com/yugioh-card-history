@@ -1,0 +1,18 @@
+{
+  "id": 13862,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Monna Suadente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Guadagna 100 ATK per ogni Magia \"Sceneggiatura dell'Abisso\" nel tuo Cimitero. Puoi utilizzare ognuno dei seguenti effetti di \"Attore dell'Abisso - Monna Suadente\" una sola volta per turno.\n●Quando un Mostro Pendulum che controlli viene distrutto in battaglia: puoi Evocare Specialmente questa carta dalla tua mano.\n●Se viene attivata una Carta Magia \"Sceneggiatura dell'Abisso\" o un suo effetto: puoi Evocare Specialmente 1 Mostro Pendulum \"Attore dell'Abisso\" di Livello 4 o inferiore dal tuo Deck, ma fallo ritornare nella mano durante la End Phase.",
+  "pendEffect": "Puoi pagare 1000 LP; aggiungi 1 Mostro Pendulum \"Attore dell'Abisso\" dal tuo Deck alla tua mano, eccetto \"Attore dell'Abisso - Monna Suadente\", inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto Mostri Pendulum \"Attore dell'Abisso\" (anche se questa carta lascia il Terreno). Puoi utilizzare questo effetto di \"Attore dell'Abisso - Monna Suadente\" una sola volta per turno.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 1800,
+  "def": 2500,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

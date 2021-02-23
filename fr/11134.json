@@ -1,0 +1,18 @@
+{
+  "id": 11134,
+  "type": "monster",
+  "name": "Magicien Observateur des Étoiles",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, lorsqu'exactement 1 autre Monstre Pendule que vous contrôlez (et aucune autre carte) est renvoyé à votre main par un effet de carte de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 monstre depuis votre main du même nom que celui renvoyé à la main.",
+  "pendEffect": "Si un Monstre Pendule que vous contrôlez combat, votre adversaire ne peut pas activer de Cartes Magie jusqu'à la fin de la Damage Step. L'Échelle Pendule de cette carte devient 4, sauf si vous avez une carte \"Magicien\" ou carte \"Yeux Impairs\" dans votre autre Zone Pendule.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

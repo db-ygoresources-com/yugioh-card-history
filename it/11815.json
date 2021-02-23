@@ -1,0 +1,18 @@
+{
+  "id": 11815,
+  "type": "monster",
+  "name": "Fuocavaliere Gentiluomo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Il comandante dell'unità commando Fuocavalieri più scattante. La sua sfida più grande è mantenere sotto controllo il temperamento focoso dei suoi uomini.",
+  "pendEffect": "Se hai una carta \"Fuocavaliere\" nella tua altra Zona Pendulum: puoi distruggere entrambe le carte nelle tue Zone Pendulum e, se lo fai, aggiungi 1 mostro FUOCO di Tipo Guerriero dal tuo Deck o Cimitero alla tua mano.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 2200,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

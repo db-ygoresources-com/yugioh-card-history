@@ -1,0 +1,15 @@
+{
+  "id": 12100,
+  "type": "monster",
+  "name": "Épouvantail Kozmo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant le tour de chaque joueur : vous pouvez bannir cette carte ; Invoquez Spécialement 1 monstre \"Kozmo\" de min. Niveau 3 depuis votre main. Vous ne pouvez utiliser cet effet de \"Épouvantail Kozmo\" qu'une fois par tour. Une fois par tour : vous pouvez payer 500 LP, puis ciblez 1 de vos monstres \"Kozmo\" bannis ; Invoquez-le Spécialement, mais ses effets sont annulés, et aussi, détruisez-le durant la End Phase.",
+  "level": 2,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

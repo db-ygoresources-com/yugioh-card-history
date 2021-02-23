@@ -1,0 +1,19 @@
+{
+  "id": 13133,
+  "type": "monster",
+  "name": "D/D/D Armageddon Oscuro Super Re del Giudizio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri \"D/D/D\" di Livello 8\nNon può essere Evocato Pendulum. Quando questa carta viene Evocata Xyz: puoi attaccare 1 Mostro Pendulum \"D/D\" scoperto dal tuo Extra Deck a questa carta come materiale. I Mostri Pendulum che controlli non possono essere distrutti dagli effetti delle carte. Una volta per turno: puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio mostri controllati dal tuo avversario pari al numero di Mostri Pendulum che controlli; distruggili. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno, se hai una carta \"D/D\" nella tua altra Zona Pendulum: puoi Evocare Specialmente 1 Mostro Xyz \"D/D/D\" dal tuo Extra Deck, eccetto \"D/D/D Armageddon Oscuro Super Re del Giudizio\".",
+  "pendScale": 1,
+  "rank": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Xyz",
+    "Pendulum",
+    "Effetto"
+  ]
+}

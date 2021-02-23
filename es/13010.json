@@ -1,0 +1,15 @@
+{
+  "id": 13010,
+  "type": "monster",
+  "name": "Ultimate Tyranno Conductor",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 2 monstruos de Tipo Dinosaurio en tu Cementerio. Una vez por turno, durante la Main Phase de cualquier jugador: puedes destruir 1 monstruo en tu mano o Campo y, si lo haces, cambia todos los monstruos boca arriba que controle tu adversario a Posición de Defensa boca abajo. Esta carta puede atacar a todos los monstruos que controle tu adversario, una vez a cada uno. Al comienzo del Damage Step, si esta carta ataca a un monstruo en Posición de Defensa: puedes infligir 1000 puntos de daño a tu adversario y, si lo haces, manda al Cementerio a ese monstruo en Posición de Defensa.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3200,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

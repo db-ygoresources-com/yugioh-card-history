@@ -1,0 +1,15 @@
+{
+  "id": 14741,
+  "type": "monster",
+  "name": "Nibiru, l'Être Primitif",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant la Main Phase, si votre adversaire Invoque Normalement ou Spécialement min. 5 monstres ce tour (Effet Rapide) : vous pouvez Sacrifier autant de monstres face recto sur le Terrain que possible, et si vous le faites, Invoquez Spécialement cette carte depuis votre main, puis Invoquez Spécialement 1 \"Jeton Être Primitif\" (Rocher/LUMIÈRE/Niveau 11/ATK ?/DEF ?) sur le Terrain de votre adversaire. (L'ATK/DEF de ce Jeton sont égales à la somme des ATK/DEF d'origine des monstres Sacrifiés.) Vous ne pouvez utiliser cet effet de \"Nibiru, l'Être Primitif\" qu'une fois par tour.",
+  "level": 11,
+  "atk": 3000,
+  "def": 600,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

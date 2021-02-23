@@ -1,0 +1,19 @@
+{
+  "id": 12445,
+  "type": "monster",
+  "name": "Grand Paladin Nirvana",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1 Monstre Synchro non-Syntoniseur ou plus\nPour l'Invocation Synchro de cette carte, vous pouvez traiter 1 Monstre Pendule Invoqué par Pendulation que vous contrôlez comme un Syntoniseur. Si cette carte est Invoquée par Synchronisation en utilisant un Monstre Pendule Syntoniseur Invoqué par Pendulation : vous pouvez cibler 1 carte dans votre Cimetière ; ajoutez-la à votre main. Lorsque cette carte détruit un monstre de votre adversaire au combat : vous pouvez diviser par deux les LP de votre adversaire. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Si un Monstre Pendule que vous contrôlez attaque, il ne peut pas être détruit au combat par ce combat, et aussi, vous ne recevez aucun dommage de combat. À la fin de la Damage Step, si un Monstre Pendule que vous contrôlez a attaqué : jusqu'à la fin de ce tour, tous les monstres actuellement contrôlés par votre adversaire perdent une ATK égale à l'ATK du monstre attaquant.",
+  "pendScale": 8,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Synchro",
+    "Pendule",
+    "Effet"
+  ]
+}

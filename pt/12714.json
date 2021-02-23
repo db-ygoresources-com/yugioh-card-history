@@ -1,0 +1,18 @@
+{
+  "id": 12714,
+  "type": "monster",
+  "name": "Ator do Abismo - Figurantes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode oferecer este card como Tributo; coloque 1 Monstro Pêndulo \"Ator do Abismo\" do seu Deck na sua Zona de Pêndulo e, além disso, pelo resto deste turno, você não pode Invocar monstros por Invocação-Especial, exceto monstros \"Ator do Abismo\", nem ativar o Efeito Pêndulo de \"Ator do Abismo - Figurantes\". Você só pode usar este efeito de \"Ator do Abismo - Figurantes\" uma vez por turno.",
+  "pendEffect": "Se seu oponente controlar um monstro: você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo. Você só pode usar este efeito de \"Ator do Abismo - Figurantes\" uma vez por turno.",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6607,
+  "type": "monster",
+  "name": "Aplastamemorias",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta ataca los Life Points de tu adversario directamente, inflige daño a los Life Points de tu adversario igual al número de cartas en el Deck Extra de tu adversario x 100 puntos.",
+  "level": 3,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10048,
+  "type": "monster",
+  "name": "Priesterlicher Drache von Sutekh",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Normale Monster vom Typ Drache von deinem Friedhof verbannst. Einmal pro Spielzug: Du kannst 1 Monster vom Typ Drache von deinem Friedhof verbannen, um 1 Karte auf dem Spielfeld zu wählen; zerstöre das gewählte Ziel.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

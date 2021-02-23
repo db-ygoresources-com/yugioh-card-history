@@ -1,0 +1,15 @@
+{
+  "id": 10305,
+  "type": "monster",
+  "name": "Madretrueno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes Invocar de Modo Normal, desde tu mano, 1 monstruo de LUZ de Tipo Trueno de Nivel 4, excepto \"Madretrueno\", como una Invocación Normal adicional.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11699,
+  "type": "monster",
+  "name": "Zefraxi, Tesoro de los Yang Zing",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada por Péndulo, o Invocada de Modo Especial desde el Deck Principal: puedes seleccionar 1 monstruo \"Yang Zing\" o \"Zefra\" que controles, excepto \"Zefraxi, Tesoro de los Yang Zing\"; este turno, ese monstruo boca arriba se trata como un Cantante, y además pon esta carta en el fondo del Deck cuando deje el Campo. Sólo puedes usar este efecto de \"Zefraxi, Tesoro de los Yang Zing\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Yang Zing\" y \"Zefra\". Este efecto no puede ser negado.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Wyrm",
+    "Péndulo",
+    "Efecto"
+  ]
+}

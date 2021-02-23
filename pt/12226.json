@@ -1,0 +1,18 @@
+{
+  "id": 12226,
+  "type": "monster",
+  "name": "D/D Newton, o Erudito",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode descartar este card e, depois, escolher 1 card \"D/D\" ou \"Pacto Obscuro\" no seu Cemitério, exceto \"D/D Newton, o Erudito\"; adicione-o à sua mão. Você só pode usar este efeito de \"D/D Newton, o Erudito\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"D/D\". Este efeito não pode ser negado. Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de Armadilha ativado que causaria dano a você e, depois, destruir este card.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

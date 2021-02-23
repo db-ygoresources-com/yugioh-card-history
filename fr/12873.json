@@ -1,0 +1,15 @@
+{
+  "id": 12873,
+  "type": "monster",
+  "name": "Défenseur Némésis Subterreur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant le tour de chaque joueur, lorsque votre adversaire active une carte ou un effet qui cible exactement 1 monstre Posé que vous contrôlez (et aucune autre carte), ou lorsqu'un monstre Posé que vous contrôlez est ciblé avec une attaque par un monstre de votre adversaire : vous pouvez envoyer cette carte depuis votre main ou face recto depuis votre Terrain au Cimetière, puis ciblez un autre monstre que vous contrôlez qui serait une cible appropriée ; la carte/effet/attaque cible maintenant la nouvelle cible. Tant que vous contrôlez un monstre Posé, cette carte ne peut être détruite ni au combat ni par des effets de carte.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

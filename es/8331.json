@@ -1,0 +1,16 @@
+{
+  "id": 8331,
+  "type": "monster",
+  "name": "Cañón Turbo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "\"Cohete Turbo\" + 1 o más monstruos que no sean Cantantes\nUna vez por turno, puedes destruir 1 monstruo boca arriba en el Campo e infligir daño a su controlador igual a la mitad de su ATK.",
+  "level": 3,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

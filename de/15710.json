@@ -1,0 +1,16 @@
+{
+  "id": 15710,
+  "type": "monster",
+  "name": "Der sagenhafte Abanc",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Sagenhaft“-Monster abwerfen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Der sagenhafte Abanc“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

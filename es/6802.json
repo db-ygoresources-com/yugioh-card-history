@@ -1,0 +1,15 @@
+{
+  "id": 6802,
+  "type": "monster",
+  "name": "Calavera Alienígena",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes Sacrificar 1 monstruo boca arriba de Nivel 3 o menor en el Campo de tu adversario para Invocar mediante una Invocación Especial esta carta al Campo de tu adversario. Si la Invocas de esta manera, pon 1 Contador \"A\" en esta carta, y no puedes realizar Invocaciones Normales o Colocadas en el mismo turno. (Si un monstruo con Contadores \"A\" batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador \"A\", sólo durante el cálculo de daño.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

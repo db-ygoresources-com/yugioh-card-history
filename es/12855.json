@@ -1,0 +1,19 @@
+{
+  "id": 12855,
+  "type": "monster",
+  "name": "Mago de la Armonización",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial desde el Deck Extra. No puede ser usado como material para una Invocación por Fusión, Sincronía o Xyz, a menos que todos los otros materiales sean Monstruos de Péndulo \"Mago/a\". Cuando esta carta es Invocada por Péndulo desde la mano: puedes Invocar de Modo Especial, desde tu Deck, 1 Monstruo de Péndulo \"Mago/a\" en Posición de Defensa, excepto \"Mago de la Armonización\", pero niega sus efectos, y además destiérralo cuando deje el Campo. Sólo puedes usar este efecto de \"Mago de la Armonización\" una vez por turno.",
+  "pendEffect": "Todos los monstruos que controles ganan 100 ATK y DEF por cada Monstruo de Péndulo \"Mago/a\" boca arriba con nombre diferente en tu Deck Extra.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

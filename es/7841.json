@@ -1,0 +1,16 @@
+{
+  "id": 7841,
+  "type": "monster",
+  "name": "Sincronizador del Camino",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando esta carta es usada como Material de Sincronía para la Invocación por Sincronía de un monstruo que no sea \"Guerrero del Camino\", reduce su Nivel en 2. Si esta carta ataca, al final del Damage Step: hasta el final de este turno, aumenta su Nivel en 1.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

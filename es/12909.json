@@ -1,0 +1,18 @@
+{
+  "id": 12909,
+  "type": "monster",
+  "name": "Mago Colmillo Negro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "(Esta carta se trata siempre como una carta \"Dragón Xyz\").\nSi esta carta es destruida en batalla o por efecto de una carta: puedes seleccionar 1 monstruo de OSCURIDAD de Tipo Lanzador de Conjuros en tu Cementerio; Invócalo de Modo Especial.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; su ATK se convierte en la mitad de su ATK en este momento (hasta el final de este turno), y después destruye esta carta.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

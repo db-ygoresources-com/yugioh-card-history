@@ -1,0 +1,15 @@
+{
+  "id": 12236,
+  "type": "monster",
+  "name": "Blockierte Arme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Wähle 1 offenes Monster, das dein Gegner kontrolliert; solange diese Karte offen auf dem Spielfeld liegt, kann das offene Monster nicht angreifen, zusätzlich werden seine Effekte annulliert. Solange das offene Monster auf dem Spielfeld liegt, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden.",
+  "level": 4,
+  "atk": 500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

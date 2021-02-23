@@ -1,0 +1,18 @@
+{
+  "id": 12406,
+  "type": "monster",
+  "name": "Künstlerkumpel Rettichpferd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls dein Gegner ein als Spezialbeschwörung beschworenes Monster kontrolliert und mindestens so viele Monster kontrolliert wie du, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Einmal pro Spielzug: Du kannst jeweils 1 offenes Monster auf der Spielfeldseite jedes Spielers wählen; bis zum Ende dieses Spielzugs verliert das Monster deines Gegners ATK in Höhe der ATK dieser Karte und falls es dies tut, erhält das Monster, das du kontrollierst, ATK in Höhe der ATK dieser Karte.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert, und 1 „Künstlerkumpel“-Monster, das du kontrollierst; das Monster deines Gegners verliert ATK in Höhe der ATK des „Künstlerkumpel“-Monsters, das du kontrollierst (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Pflanze",
+    "Pendel",
+    "Effekt"
+  ]
+}

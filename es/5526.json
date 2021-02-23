@@ -1,0 +1,15 @@
+{
+  "id": 5526,
+  "type": "monster",
+  "name": "Segador del Espíritu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser destruido en batalla. Después de resolver un efecto de carta que seleccione a esta carta boca arriba, destruye esta carta. Cuando esta carta inflige daño de batalla a tu adversario con un ataque directo: descarta 1 carta al azar de su mano.",
+  "level": 3,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

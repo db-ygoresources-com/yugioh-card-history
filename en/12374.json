@@ -1,0 +1,19 @@
+{
+  "id": 12374,
+  "type": "monster",
+  "name": "Performapal Momoncarpet",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: You can target 1 Set card on the field; destroy it. If this card is Special Summoned: You can change it to face-down Defense Position.",
+  "pendEffect": "Unless you have a card in your other Pendulum Zone, destroy this card. While this card is in the Pendulum Zone, any battle damage you take becomes halved.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Flip",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15315,
+  "type": "monster",
+  "name": "Pisprectre le Pirate Fantôme",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un ou plusieurs monstres EAU face recto que vous contrôlez (\"Pisprectre le Pirate Fantôme\" exclu) sont détruits au combat ou par un effet de carte tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte (mais bannissez-la lorsqu'elle quitte le Terrain), et si vous le faites, elle gagne 100 ATK pour chaque monstre EAU dans votre Cimetière, jusqu'à la fin du prochain tour. Vous ne pouvez utiliser cet effet de \"Pisprectre le Pirate Fantôme\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

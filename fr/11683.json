@@ -1,0 +1,16 @@
+{
+  "id": 11683,
+  "type": "monster",
+  "name": "Boule de Combat Samouraï Supralourd",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si tous les monstres que vous contrôlez sont des monstres \"Samouraï Supralourd\", et que vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire qui a un Niveau ; envoyez-le ainsi que cette carte depuis le Terrain au Cimetière, puis Invoquez Spécialement 1 Monstre Synchro \"Samouraï Supralourd\" depuis votre Extra Deck dont le Niveau est égal à la somme des Niveaux d'origine de ces 2 monstres dans le Cimetière. (Cette Invocation Spéciale est traitée comme une Invocation Synchro.) Vous ne pouvez utiliser cet effet de \"Boule de Combat Samouraï Supralourd\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 100,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

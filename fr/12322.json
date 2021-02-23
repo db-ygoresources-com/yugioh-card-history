@@ -1,0 +1,16 @@
+{
+  "id": 12322,
+  "type": "monster",
+  "name": "Puzzle Grande Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nAu début de la Damage Step, si cette carte combat un monstre Invoqué Spécialement : jusqu'à la fin de la Damage Step, vous pouvez faire devenir l'ATK de cette carte le double de son ATK actuelle. Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière parce que cette carte Invoquée par Synchronisation y a été envoyée depuis le Terrain ce tour : vous pouvez cibler 1 monstre \"Vitesseroid\" (\"Puzzle Grande Vitesseroid\" exclu) dans votre Cimetière ; ajoutez-le à votre main.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

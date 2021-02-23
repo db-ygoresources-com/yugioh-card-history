@@ -1,0 +1,16 @@
+{
+  "id": 11205,
+  "type": "monster",
+  "name": "Guerillasegler",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Füge deinem Gegner 500 Schaden zu. Du kannst diesen Effekt von „Guerillasegler“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

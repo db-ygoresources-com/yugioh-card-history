@@ -1,0 +1,18 @@
+{
+  "id": 11701,
+  "type": "monster",
+  "name": "Zefrasabre, o Mestre da Espada de Necroz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Você pode oferecer este card como Tributo da sua mão ou com a face para cima no seu lado do campo; ofereça como Tributo monstros da sua mão ou do campo e, depois, Invoque por Invocação-Ritual 1 Monstro de Ritual \"Necroz\" da sua mão cujo Nível seja exatamente igual à soma dos Níveis desses monstros. Você só pode usar este efeito de \"Zefrasabre, o Mestre da Espada de Necroz\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Necroz\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

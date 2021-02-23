@@ -1,0 +1,16 @@
+{
+  "id": 11652,
+  "type": "monster",
+  "name": "Requin Chat",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 2\nTant que cette carte a un Matériel Xyz attaché qui était EAU à l'origine, elle ne peut pas être détruire au combat. Une fois par tour, durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 Monstre Xyz de max. Rang 4 que vous contrôlez ; jusqu'à la fin de ce tour, son ATK/DEF deviennent égales au double de son ATK/DEF d'origine.",
+  "rank": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Bête",
+    "Xyz",
+    "Effet"
+  ]
+}

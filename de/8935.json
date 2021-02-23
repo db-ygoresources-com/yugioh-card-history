@@ -1,0 +1,15 @@
+{
+  "id": 8935,
+  "type": "monster",
+  "name": "Schadensfresser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während des Spielzugs deines Gegners, wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der Schaden zufügen würde, kannst du diese Karte in deinem Friedhof aus dem Spiel entfernen, um den Effekt zu ändern, sodass er stattdessen die Life Points um dieselbe Menge erhöht.",
+  "level": 2,
+  "atk": 100,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

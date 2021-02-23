@@ -1,0 +1,16 @@
+{
+  "id": 12161,
+  "type": "monster",
+  "name": "Saga-Samouraï Shiranui",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur de Type Zombie + 1 monstre non-Syntoniseur de Type Zombie ou plus\nUne fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 de vos monstres de Type Zombie bannis ; mélangez-le dans le Deck, et si vous le faites, changez en Position de Défense tous les monstres contrôlés par votre adversaire avec une ATK inférieure ou égale à celle du monstre. Si cette carte est bannie : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; il perd 500 ATK. Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Saga-Samouraï Shiranui\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effet"
+  ]
+}

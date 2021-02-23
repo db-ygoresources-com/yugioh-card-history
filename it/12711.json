@@ -1,0 +1,18 @@
+{
+  "id": 12711,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Comico Funky",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi far guadagnare a questa carta 300 ATK per ogni mostro \"Attore dell'Abisso\" che controlli attualmente, fino alla fine di questo turno. Puoi scegliere come bersaglio 1 altro mostro \"Attore dell'Abisso\" che controlli; esso guadagna ATK pari all'ATK attuale di questa carta, fino alla fine di questo turno. Questa carta non può attaccare nel turno in cui viene attivato questo effetto. Puoi utilizzare questo effetto di \"Attore dell'Abisso - Comico Funky\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno: puoi offrire come Tributo 1 mostro \"Attore dell'Abisso\", poi scegliere come bersaglio 1 mostro \"Attore dell'Abisso\" che controlli; esso guadagna ATK pari all'ATK originale del mostro offerto come Tributo, fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

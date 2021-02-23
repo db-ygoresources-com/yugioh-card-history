@@ -1,0 +1,15 @@
+{
+  "id": 4931,
+  "type": "monster",
+  "name": "Kotodama",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls sich offene Monster mit demselben Namen auf dem Spielfeld befinden, zerstöre die Monster. (Falls ein Monster beschworen oder aufgedeckt wird, das denselben Namen hat wie ein Monster, das bereits offen auf dem Spielfeld liegt, wird das neue offene Monster zerstört. Falls sie gleichzeitig beschworen oder aufgedeckt werden, werden sie alle zerstört.)",
+  "level": 3,
+  "atk": 0,
+  "def": 1600,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

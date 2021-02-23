@@ -1,0 +1,16 @@
+{
+  "id": 8479,
+  "type": "monster",
+  "name": "Mago Explosivo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante + 1+ monstruos Lanzador de Conjuros que no sean Cantantes\nPuedes retirar 2 Contadores Mágicos en tu Campo, y después seleccionar 1 Mágica/Trampa que controle tu adversario; destruye ese objetivo.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Sincronía",
+    "Efecto"
+  ]
+}

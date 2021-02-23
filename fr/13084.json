@@ -1,0 +1,20 @@
+{
+  "id": 13084,
+  "type": "monster",
+  "name": "Gouki Le Grand Ogre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres \"Gouki\"\nTous les monstres sur le Terrain perdent une ATK égale à leur DEF d'origine. Si cette carte va être détruite au combat ou par un effet de carte, vous pouvez détruire 1 de vos monstres pointés par cette carte à la place.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2600,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

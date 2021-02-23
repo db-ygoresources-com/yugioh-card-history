@@ -1,0 +1,15 @@
+{
+  "id": 8269,
+  "type": "monster",
+  "name": "Crâne Infernal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, vous pouvez Invoquer Spécialement 1 \"Crâne Ardent\" depuis votre main. Vous ne pouvez pas conduire votre Battle Phase le tour où vous activez cet effet. Vous pouvez ajouter 1 \"Crâne Ardent\" depuis votre Cimetière à votre main au lieu de mener une pioche normale durant votre Draw Phase.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

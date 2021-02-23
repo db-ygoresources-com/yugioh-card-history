@@ -1,0 +1,10 @@
+{
+  "id": 7229,
+  "type": "trap",
+  "name": "Pescata Distruttiva",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Se un giocatore non ha carte in mano all'inizio della sua Draw Phase, può pescare 1 carta addizionale oltre alla pescata normale. Il controllore di questa carta perde 700 Life Points durante la sua End Phase (se il giocatore ha meno di 700 Life Points, va invece a 0 Life Points). Quando questa carta, scoperta, viene rimossa dal Terreno, infliggi 3000 danni al suo controllore.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

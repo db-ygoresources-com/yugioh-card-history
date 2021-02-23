@@ -1,0 +1,20 @@
+{
+  "id": 14795,
+  "type": "monster",
+  "name": "Draco Maîtres du Tenyi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres (un Monstre Lien inclus)\nNon destructible au combat avec un Monstre à Effet. Si vous ne contrôlez aucun autre Monstre à Effet : vous pouvez détruire un nombre de Monstres à Effet contrôlés par votre adversaire, inférieur ou égal au nombre de monstres (Monstres à Effet exclus) que vous contrôlez et/ou dans votre Cimetière. Vous ne pouvez utiliser cet effet de \"Draco Maîtres du Tenyi\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2600,
+  "properties": [
+    "Wyrm",
+    "Lien",
+    "Effet"
+  ]
+}

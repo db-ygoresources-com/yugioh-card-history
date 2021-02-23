@@ -1,0 +1,16 @@
+{
+  "id": 9121,
+  "type": "monster",
+  "name": "Dragon Gémeau de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur \"Ferraille\" + 1 monstre non Syntoniseur ou plus\nUne fois par tour, vous pouvez sélectionner 1 carte que vous contrôlez et 2 cartes contrôlées par votre adversaire. Détruisez la carte que vous contrôlez et renvoyez les 2 cartes contrôlées par votre adversaire à sa main. Lorsque cette carte est détruite par une carte de votre adversaire (au combat ou par l'effet d'une carte) et envoyée au Cimetière, sélectionnez 1 monstre \"Ferraille\" non Synchro dans votre Cimetière, et Invoquez-le Spécialement.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

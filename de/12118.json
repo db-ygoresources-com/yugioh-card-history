@@ -1,0 +1,18 @@
+{
+  "id": 12118,
+  "type": "monster",
+  "name": "Superstarker Samurai General Jade",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte als Tributbeschwörung beschwören, indem du 1 „Superstarker Samurai“-Monster als Tribut anbietest. Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst ihre Kampfposition ändern. Diese Karte kann angreifen, solange sie sich in offener Verteidigungsposition befindet. Falls sie dies tut, verwende ihre DEF für die Schadensberechnung.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Superstarker Samurai“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 1 „Superstarker Samurai“-Monster wählen, das du kontrollierst; erhöhe seine Stufe um 1 (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

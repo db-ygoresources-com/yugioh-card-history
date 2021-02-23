@@ -1,0 +1,15 @@
+{
+  "id": 12542,
+  "type": "monster",
+  "name": "Genio Stretta di Mani",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "I mostri controllati dal tuo avversario non possono scegliere mostri come bersaglio per gli attacchi, eccetto questo. Guadagna DEF pari alla somma dei DEF originali di tutti gli altri mostri scoperti in Posizione di Difesa che controlli.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

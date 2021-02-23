@@ -1,0 +1,16 @@
+{
+  "id": 14055,
+  "type": "monster",
+  "name": "Tatsunécro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si ce monstre Invoqué/Posé Normalement va être utilisé comme Matériel Synchro, 1 monstre dans votre main peut être utilisé comme 1 des autres Matériels. Si vous faites ça, tous les Matériels pour l'Invocation sont bannis au lieu d'être envoyés au Cimetière. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres Zombie exclus).",
+  "level": 3,
+  "atk": 500,
+  "def": 1700,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11332,
+  "type": "monster",
+  "name": "Rhinotonnerre Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres \"Potartiste\" face recto (celui-ci exclu) avec une attaque. Si une ou plusieurs cartes \"Potartiste\" que vous contrôlez (\"Rhinotonnerre Potartiste\" exclu) vont être détruites au combat ou par un effet de carte tant que cette carte est dans votre Cimetière, vous pouvez bannir cette carte à la place.",
+  "level": 3,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

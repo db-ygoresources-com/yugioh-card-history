@@ -1,0 +1,16 @@
+{
+  "id": 14586,
+  "type": "monster",
+  "name": "HÉROE Malvado Malicious Bane",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"HÉROE Malvado\" + 1 monstruo de Nivel 5 o mayor\nDebe ser Invocado de Modo Especial con \"Fusión Oscura\". No puede ser destruido en batalla o por efectos de cartas. Durante tu Main Phase: puedes destruir todos los monstruos que controle tu adversario con ATK menor o igual al de esta carta, y además esta carta gana 200 ATK por cada monstruo destruido de este modo, y además no puedes declarar un ataque por el resto de este turno, excepto con monstruos \"HÉROE\". Sólo puedes usar este efecto de \"HÉROE Malvado Malicious Bane\" una vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

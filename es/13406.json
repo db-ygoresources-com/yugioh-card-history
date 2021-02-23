@@ -1,0 +1,15 @@
+{
+  "id": 13406,
+  "type": "monster",
+  "name": "Overtex Qoatlus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) barajando al Deck Principal 5 de tus monstruos Dinosaurio desterrados. Una vez por turno, cuando tu adversario activa una Carta Mágica/de Trampa (Efecto Rápido): puedes destruir 1 monstruo Dinosaurio en tu mano o boca arriba en tu Campo y, si lo haces, niega la activación y, si haces eso, destruye esa carta. Si esta carta es mandada al Cementerio por efecto de una carta: puedes añadir a tu mano 1 Mágica \"Píldora\" en tu Deck. Sólo puedes usar este efecto de \"Overtex Qoatlus\" una vez por turno.",
+  "level": 7,
+  "atk": 2700,
+  "def": 2100,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

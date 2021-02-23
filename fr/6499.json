@@ -1,0 +1,15 @@
+{
+  "id": 6499,
+  "type": "monster",
+  "name": "Nano Casseur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte attaque un monstre face recto de Niveau 3 ou moins, détruisez ce monstre par l'effet de cette carte sans appliquer de calcul des dommages.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

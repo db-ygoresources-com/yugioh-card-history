@@ -1,0 +1,15 @@
+{
+  "id": 4475,
+  "type": "monster",
+  "name": "Ninja Armado",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Selecciona 1 Carta Mágica en el Campo; destruye ese objetivo. (Si el objetivo está Colocado, muéstralo, y destrúyelo si es una Carta Mágica. En caso contrario, devuélvelo a su posición original).",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

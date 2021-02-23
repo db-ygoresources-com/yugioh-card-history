@@ -1,0 +1,18 @@
+{
+  "id": 12135,
+  "type": "monster",
+  "name": "Brachion Dinobrume",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si vous ne contrôlez pas \"Brachion Dinobrume\" dans votre Zone Monstre et que votre adversaire contrôle un monstre qui a la plus haute ATK sur le Terrain (même en cas d'égalité), vous pouvez Invoquer Spécialement cette carte (depuis votre main).",
+  "pendEffect": "Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de carte activé qui cible une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez, puis détruisez cette carte.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

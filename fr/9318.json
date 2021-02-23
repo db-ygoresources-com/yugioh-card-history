@@ -1,0 +1,16 @@
+{
+  "id": 9318,
+  "type": "monster",
+  "name": "Karakuri 313 \"Saizan\" le Chien de Garde",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte doit attaquer, si possible. Lorsque cette carte face recto est sélectionnée comme cible d'une attaque, changez sa position de combat. Lorsque vous recevez des dommages de combat d'un combat impliquant cette carte, tous les monstres \"Karakuri\" face recto que vous contrôlez gagnent 800 points d'ATK et de DEF jusqu'à la End Phase. Tant que cette carte est en Position d'Attaque face recto, elle ne peut pas être détruite au combat.",
+  "level": 4,
+  "atk": 600,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

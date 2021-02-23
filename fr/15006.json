@@ -1,0 +1,15 @@
+{
+  "id": 15006,
+  "type": "monster",
+  "name": "Guerriers Anciens - Ambitieux Cao De",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Guerriers Anciens\", votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire. Vous ne pouvez utiliser chacun des effets suivants de \"Guerriers Anciens - Ambitieux Cao De\" qu'une fois par tour.\n●Si une ou plusieurs cartes contrôlées par votre adversaire sont détruites au combat ou par un effet de carte : vous pouvez envoyer 1 autre carte depuis votre main ou Terrain au Cimetière ; Invoquez Spécialement cette carte depuis votre main.\n●Lorsque cette carte détruit un monstre de l'adversaire au combat et l'envoie au Cimetière : vous pouvez Invoquer Spécialement le monstre sur votre Terrain en Position de Défense.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

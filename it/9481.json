@@ -1,0 +1,16 @@
+{
+  "id": 9481,
+  "type": "monster",
+  "name": "Torcia Morfotronica",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "●Fino a quando è in Posizione di Attacco: Ogni danno da effetto che stai per subire dall'effetto di una carta dell'avversario, viene invece inflitto al tuo avversario.\n●Fino a quando è in Posizione di Difesa: Quando questa carta viene distrutta in battaglia e mandata al Cimitero, tu non subisci danni da combattimento in questo turno.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Macchina",
+    "Tuner",
+    "Effetto"
+  ]
+}

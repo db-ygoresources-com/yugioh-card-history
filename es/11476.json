@@ -1,0 +1,18 @@
+{
+  "id": 11476,
+  "type": "monster",
+  "name": "Yosenju Shinchu I",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es Invocada de Modo Normal: cámbiala a Posición de Defensa. Tu adversario no puede seleccionar con efectos de cartas a monstruos \"Yosenju\" que controles, excepto a éste.",
+  "pendEffect": "Si uno o más monstruos \"Yosenju\" que controles fueran a ser destruidos en batalla o por el efecto de una carta, puedes destruir esta carta en su lugar.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Roca",
+    "Péndulo",
+    "Efecto"
+  ]
+}

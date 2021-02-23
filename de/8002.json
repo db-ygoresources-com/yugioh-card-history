@@ -1,0 +1,15 @@
+{
+  "id": 8002,
+  "type": "monster",
+  "name": "Zauberreaktor ・RE",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, wenn dein Gegner eine Zauberkarte aktiviert, kannst du die Zauberkarte zerstören und deinem Gegner 800 Schaden zufügen.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

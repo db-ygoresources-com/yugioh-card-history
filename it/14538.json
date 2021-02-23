@@ -1,0 +1,16 @@
+{
+  "id": 14538,
+  "type": "monster",
+  "name": "Valkyria-Biga",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Una volta per turno, puoi: scegliere come bersaglio 1 mostro Fata che controlli; equipaggia questa carta a quel bersaglio, OPPURE: disequipaggia questa carta ed Evocala Specialmente. Se il mostro equipaggiato sta per essere distrutto in battaglia o dall'effetto di una carta, distruggi invece questa carta. Quando il mostro equipaggiato dichiara un attacco: puoi fargli guadagnare 500 ATK. (Questo guadagno di ATK rimane anche se questa carta lascia il Terreno.)",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Fata",
+    "Unione",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11770,
+  "type": "monster",
+  "name": "Dragoni Marini di Draconia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Queste truppe marine per le operazioni segrete dell'Impero Draconiano arrivano di nascosto dalle profondità del mare e combattono una battaglia senza fine contro l'odiato Principato di Dinon, sulle rive opposte del mare.",
+  "pendEffect": "Quando un mostro viene distrutto in battaglia: puoi Evocare Specialmente 1 Mostro Normale dalla tua mano. Puoi utilizzare questo effetto di \"Dragoni Marini di Draconia\" una sola volta per turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 200,
+  "def": 2100,
+  "properties": [
+    "Serpente Marino",
+    "Pendulum",
+    "Normale"
+  ]
+}

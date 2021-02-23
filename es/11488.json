@@ -1,0 +1,16 @@
+{
+  "id": 11488,
+  "type": "monster",
+  "name": "Necroz de Catastor",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Carta Mágica de Ritual \"Necroz\". Debe ser Invocada por Ritual sin usar \"Necroz de Catastor\", y no puede ser Invocada de Modo Especial de otra forma. Puedes descartar esta carta, y después seleccionar 1 monstruo \"Necroz\" en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Necroz de Catastor\" una vez por turno. Al comienzo del Damage Step, si un monstruo \"Necroz\" que controlas batalla con un monstruo boca arriba de tu adversario que fue Invocado de Modo Especial desde el Deck Extra: destruye ese monstruo.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Dragón",
+    "Ritual",
+    "Efecto"
+  ]
+}

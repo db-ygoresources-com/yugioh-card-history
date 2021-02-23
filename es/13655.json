@@ -1,0 +1,15 @@
+{
+  "id": 13655,
+  "type": "monster",
+  "name": "Donpa, Tirador Mascota a Sueldo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo \"Mascota a Sueldo\", excepto \"Donpa, Tirador Mascota a Sueldo\". Si un monstruo \"Mascota a Sueldo\" es Invocado de Modo Especial a tu Campo mientras controlas este monstruo (excepto durante el Damage Step): puedes seleccionar 1 carta boca arriba en el Campo; destrúyela. Sólo puedes usar cada efecto de \"Donpa, Tirador Mascota a Sueldo\" una vez por turno.",
+  "level": 2,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

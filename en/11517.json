@@ -1,0 +1,15 @@
+{
+  "id": 11517,
+  "type": "monster",
+  "name": "Kabuki Dragon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn, before damage calculation, if your monster attacked an opponent's monster: You can change the battle position of that monster your opponent controls. Once per turn, before damage calculation, if an opponent's monster attacked your monster: You can change the battle position of that monster you control.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Dragon",
+    "Effect"
+  ]
+}

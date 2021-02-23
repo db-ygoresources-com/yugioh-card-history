@@ -1,0 +1,15 @@
+{
+  "id": 5777,
+  "type": "monster",
+  "name": "Roi de la Terreur - Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne pouvez faire l'Invocation Normale ou l'Invocation Flip de cette carte à moins que vous n'ayez une Carte Monstre Archdémon sur votre Terrain. Le contrôleur de cette carte paye 800 Life Points durant chacune de ses Standby Phases (ceci est obligatoire). Lorsque cette carte est désignée comme cible de l'effet d'une carte contrôlée par votre adversaire, lors de la résolution de l'effet, lancez un dé à six faces. Si le résultat est 2 ou 5, annulez l'effet et détruisez la carte de votre adversaire. L'effet d'un Monstre à Effet détruit par cette carte à l'issue d'un combat est annulé.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

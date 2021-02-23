@@ -1,0 +1,18 @@
+{
+  "id": 12131,
+  "type": "monster",
+  "name": "Master Pendule, le Dracossassin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Luster Pendule, le Dracossassin\" continue sa quête afin de découvrir les secrets de l'Alchimie Dragon, croyant que c'est la clé pour lever sa malédiction et recouvrer la mémoire. Son pouvoir ne cesse de croître... un pouvoir similaire à celui des Dracodémons...",
+  "pendEffect": "Une fois, tant que cette carte est dans votre Zone Pendule : vous pouvez cibler 1 carte dans une Zone Pendule ; détruisez-la.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1950,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Normal"
+  ]
+}

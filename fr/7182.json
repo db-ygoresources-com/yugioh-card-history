@@ -1,0 +1,15 @@
+{
+  "id": 7182,
+  "type": "monster",
+  "name": "Serpent Venin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez placer 1 Compteur Venin sur 1 monstre contrôlé par votre adversaire.",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

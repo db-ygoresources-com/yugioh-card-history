@@ -1,0 +1,16 @@
+{
+  "id": 11717,
+  "type": "monster",
+  "name": "Oveja Atemorizante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Diablillo de las Cadenas\" + 1 monstruo \"Peluchanimal\"\nSi esta carta batalla, tu adversario no puede activar cartas o efectos hasta el final del Damage Step. Si esta carta es destruida en batalla y mandada al Cementerio, o si esta carta en tu posesión es destruida por el efecto de una carta de tu adversario y mandada a tu Cementerio: puedes Invocar esta carta de Modo Especial y, si lo haces, ésta gana 800 ATK. Sólo puedes usar este efecto de \"Oveja Atemorizante\" una vez por turno.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11787,
+  "type": "monster",
+  "name": "Xiangke-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 LICHT Monster auf dem Spielfeld wählen; die Effekte des offenen Monsters bleiben bis zum Ende dieses Spielzugs annulliert.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Xyz-Monster wählen, das du kontrollierst; in diesem Spielzug kannst du es als Xyz-Material für eine Xyz-Beschwörung verwenden und seinen Rang verwenden, als ob er eine Stufe wäre (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 500,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

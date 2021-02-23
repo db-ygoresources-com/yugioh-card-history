@@ -1,0 +1,15 @@
+{
+  "id": 8133,
+  "type": "monster",
+  "name": "Désenchanteresse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 Magie face recto sur le Terrain ; retirez 1 Compteur Magie depuis le Terrain, et si vous le faites, renvoyez la cible à la main.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2300,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12769,
+  "type": "monster",
+  "name": "Metrognomo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Mentre hai 2 carte nelle tue Zone Pendulum con lo stesso Valore Pendulum, questa carta guadagna ATK e DEF pari al Valore Pendulum x 100, e può attaccare il tuo avversario direttamente. Se questa carta infligge danno da combattimento al tuo avversario con un attacco diretto: distruggi tutte le carte nelle Zone Pendulum.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 altra carta in una Zona Pendulum; il Valore Pendulum di questa carta diventa pari a quello di quella carta, fino alla fine di questo turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

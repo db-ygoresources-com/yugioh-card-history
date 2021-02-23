@@ -1,0 +1,16 @@
+{
+  "id": 15271,
+  "type": "monster",
+  "name": "Gaia der magische Ritter der Drachen",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 „Gaia, zorniger Ritter“-Monster + 1 Drache-Monster der Stufe 5\nDer Name dieser Karte wird zu „Drachenmeister Gaia“, solange sie auf dem Spielfeld liegt. Du kannst jeden der folgenden Effekte von „Gaia der magische Ritter der Drachen“ nur einmal pro Spielzug verwenden. Während der Main Phase (Schnelleffekt): Du kannst 1 andere Karte auf dem Spielfeld wählen; diese Karte verliert genau 2600 ATK und falls sie dies tut, zerstöre die Karte. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst diese Karte 2600 ATK erhalten lassen.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2100,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5564,
+  "type": "monster",
+  "name": "レクンガ",
+  "nameRuby": "レクンガ",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "自分の墓地の水属性モンスター２体をゲームから除外する度に、自分フィールド上に「レクンガトークン」（植物族・水・星２・攻／守７００）を１体攻撃表示で特殊召喚する。",
+  "level": 4,
+  "atk": 1700,
+  "def": 500,
+  "properties": [
+    "植物族",
+    "効果"
+  ]
+}

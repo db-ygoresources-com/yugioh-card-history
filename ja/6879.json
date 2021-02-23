@@ -1,0 +1,16 @@
+{
+  "id": 6879,
+  "type": "monster",
+  "name": "スナイプストーカー",
+  "nameRuby": "スナイプストーカー",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "手札を１枚捨て、フィールド上のカード１枚を選択して発動できる。サイコロを１回振り、１・６以外が出た場合、選択したカードを破壊する。",
+  "level": 4,
+  "atk": 1500,
+  "def": 600,
+  "properties": [
+    "悪魔族",
+    "効果"
+  ]
+}

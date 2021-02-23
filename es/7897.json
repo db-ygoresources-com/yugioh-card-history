@@ -1,0 +1,16 @@
+{
+  "id": 7897,
+  "type": "monster",
+  "name": "Guerrero Turbo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "\"Turbo Sincrón\" + 1 o más monstruos que no sean Cantantes\nCuando esta carta declara un ataque a un Monstruo de Sincronía de Nivel 6 o mayor: hasta el final del Damage Step, divide a la mitad el ATK del objetivo del ataque. Esta carta no puede ser seleccionada por efectos de monstruos de Nivel 6 o menor.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

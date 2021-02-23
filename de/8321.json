@@ -1,0 +1,15 @@
+{
+  "id": 8321,
+  "type": "monster",
+  "name": "Genmanipulierte Frau",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug kannst du 1000 Life Points zahlen und 1 deiner aus dem Spiel entfernten Monster vom Typ Psi wählen. Füge es deiner Hand hinzu.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1200,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

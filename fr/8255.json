@@ -1,0 +1,15 @@
+{
+  "id": 8255,
+  "type": "monster",
+  "name": "Ver - Tentacules",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez retirer du jeu 1 monstre \"Ver\" de Type Reptile de votre Cimetière. Cette carte peut attaquer deux fois durant la Battle Phase de ce tour.",
+  "level": 4,
+  "atk": 1700,
+  "def": 700,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

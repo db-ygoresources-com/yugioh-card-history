@@ -1,0 +1,16 @@
+{
+  "id": 12320,
+  "type": "monster",
+  "name": "Lion Danseur Clair de Lune",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Panthère Danseuse de Clair de Lune\" + 2 monstres \"Clair de Lune\"\nUniquement Invocable par Fusion avec les Matériels Fusion ci-dessus. Votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire. Durant chaque Battle Phase, cette carte peut faire une seconde attaque. Une fois par tour, à la fin de la Damage Step, si cette carte a attaqué un monstre : vous pouvez détruire tous les monstres Invoqués Spécialement contrôlés par votre adversaire.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Bête-Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7610,
+  "type": "monster",
+  "name": "Cañón Móvil DUCKER",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Selecciona 1 monstruo de Nivel 4 en tu Cementerio; añade ese objetivo a tu mano.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Volteo",
+    "Efecto"
+  ]
+}

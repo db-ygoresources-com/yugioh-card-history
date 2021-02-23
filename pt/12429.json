@@ -1,0 +1,15 @@
+{
+  "id": 12429,
+  "type": "monster",
+  "name": "Triâmide Esfinge",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial com o efeito de um card \"Triâmide\", e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Se um ou mais cards \"Triâmide\" com a face para cima que você controla, exceto \"Triâmide Esfinge\", forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua mão. Enquanto você controlar outro card \"Triâmide\", este card ganha 500 de ATK e DEF para cada Card de Magia de Campo com um nome diferente no seu Cemitério e, além disso, monstros que seu oponente controla não podem atacar, exceto atacar \"Triâmide Esfinge\".",
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Rocha",
+    "Efeito"
+  ]
+}

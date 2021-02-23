@@ -1,0 +1,15 @@
+{
+  "id": 6565,
+  "type": "monster",
+  "name": "Raviel, o Senhor dos Fantasmas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao oferecer como Tributo 3 monstros Demônio. Sempre que seu oponente Invocar um monstro por Invocação-Normal: Invoque por Invocação-Especial 1 \"Ficha de Fantasma\" (Demônio/TREVAS/Nível 1/ATK 1000/DEF 1000), mas ela não pode declarar um ataque. Uma vez por turno: você pode oferecer 1 monstro como Tributo; até o final deste turno, este card ganha ATK igual ao ATK original do monstro oferecido como Tributo.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

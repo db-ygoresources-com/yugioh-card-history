@@ -1,0 +1,15 @@
+{
+  "id": 10132,
+  "type": "monster",
+  "name": "Maga del Daño",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando recibes daño del efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, gana tantos Life Points como el daño que recibiste.",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

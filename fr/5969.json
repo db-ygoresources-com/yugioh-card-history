@@ -1,0 +1,15 @@
+{
+  "id": 5969,
+  "type": "monster",
+  "name": "Deux Mille Aiguilles",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte en Position de Défense est attaquée et que l'ATK du monstre attaquant est inférieure à la DEF de cette carte, détruisez le monstre attaquant après le calcul des dommages.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

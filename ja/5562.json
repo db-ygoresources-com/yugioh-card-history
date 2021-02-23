@@ -1,0 +1,16 @@
+{
+  "id": 5562,
+  "type": "monster",
+  "name": "ドリラゴ",
+  "nameRuby": "ドリラゴ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "相手フィールド上に攻撃力１６００以上の表側表示モンスターしか存在しない場合、このモンスターは相手プレイヤーに直接攻撃をする事ができる。",
+  "level": 4,
+  "atk": 1600,
+  "def": 1100,
+  "properties": [
+    "機械族",
+    "効果"
+  ]
+}

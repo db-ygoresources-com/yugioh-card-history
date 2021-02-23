@@ -1,0 +1,15 @@
+{
+  "id": 7937,
+  "type": "monster",
+  "name": "Chariot de Feu",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en contrôlant min. 2 monstres Zombie. Si cette carte est Invoquée Spécialement : mélangez autant d'autres monstres sur le Terrain que possible dans le Deck, et si vous le faites, l'ATK de cette carte devient 1000 x le nombre de monstres face recto mélangés dans le Deck de cette façon, dont le Type d'origine était Zombie.",
+  "level": 8,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

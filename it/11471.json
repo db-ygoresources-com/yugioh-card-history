@@ -1,0 +1,18 @@
+{
+  "id": 11471,
+  "type": "monster",
+  "name": "Mayosenju Daibak",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Non può essere Evocato Specialmente, eccetto tramite Evocazione Pendulum. L'Evocazione Pendulum di questa carta non può essere annullata. Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio fino a 2 carte sul Terreno; falle ritornare nella mano. Una volta per turno, durante la End Phase, se questa carta è stata Evocata Specialmente in questo turno: falla ritornare nella mano.",
+  "pendEffect": "Quando un mostro \"Yosenju\" che controlli dichiara un attacco: puoi far guadagnare 300 ATK a quel mostro attaccante fino alla fine della Battle Phase.",
+  "pendScale": 7,
+  "level": 10,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9708,
+  "type": "monster",
+  "name": "Sephylon, el Amo del Tiempo Definitivo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "(Esta carta se trata siempre como una carta \"Señor del Tiempo\").\nNo puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo 10 o más monstruos en tu Cementerio. Una vez por turno: puedes Invocar de Modo Especial, desde tu mano o Cementerio, 1 monstruo Hada de Nivel 8 o mayor, pero sus efectos son negados, y además su ATK se convierte en 4000.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

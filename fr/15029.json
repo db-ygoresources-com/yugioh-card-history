@@ -1,0 +1,16 @@
+{
+  "id": 15029,
+  "type": "monster",
+  "name": "Crocodragon Archethys Vorace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nGagne 500 ATK/DEF pour chaque carte dans votre main. Vous ne pouvez utiliser chacun des effets suivants de \"Crocodragon Archethys Vorace\" qu'une fois par tour.\n●Si cette carte est Invoquée par Synchronisation : vous pouvez piocher un nombre de cartes égal au nombre de non-Syntoniseurs utilisés pour son Invocation Synchro.\n●(Effet Rapide) : vous pouvez défausser 2 cartes, puis ciblez 1 carte sur le Terrain ; détruisez-la.",
+  "level": 9,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Poisson",
+    "Synchro",
+    "Effet"
+  ]
+}

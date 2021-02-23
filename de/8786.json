@@ -1,0 +1,16 @@
+{
+  "id": 8786,
+  "type": "monster",
+  "name": "Flammenresonator",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Ein Synchromonster, das diese Karte als Synchromaterial verwendet hat, erhält 300 ATK.",
+  "level": 3,
+  "atk": 300,
+  "def": 1300,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

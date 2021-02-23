@@ -1,0 +1,18 @@
+{
+  "id": 11601,
+  "type": "monster",
+  "name": "Maestro dei Cristalli",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi offrire come Tributo questa carta; aggiungi 1 mostro \"Cristallo Finale\", mostro \"Bestia Cristallo\" o Magia/Trappola \"Cristallo\" dal tuo Deck alla tua mano.",
+  "pendEffect": "Il tuo avversario non può scegliere come bersaglio mostri \"Cristallo Finale\" o carte \"Bestia Cristallo\" che controlli con gli effetti delle carte.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

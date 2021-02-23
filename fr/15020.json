@@ -1,0 +1,16 @@
+{
+  "id": 15020,
+  "type": "monster",
+  "name": "Pilote Union",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place. Tant que cette carte est équipée à un monstre : vous pouvez bannir cette Carte d'Équipement ; équipez 1 monstre Union de max. Niveau 4 approprié depuis votre Deck au monstre qui était équipé avec cette carte. Vous ne pouvez utiliser cet effet de \"Pilote Union\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7345,
+  "type": "monster",
+  "name": "Bloqueador de Cartas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es Invocada: cámbiala a Posición de Defensa. Cuando un monstruo boca arriba que controles es seleccionado para un ataque: puedes cambiar el objetivo a esta carta. Cuando esta carta es seleccionada para un ataque: puedes elegir un número de 1 a 3, y después mandar al Cementerio esa misma cantidad de cartas de la parte superior de tu Deck; esta carta gana 500 DEF por cada carta mandada, hasta la End Phase.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

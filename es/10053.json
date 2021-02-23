@@ -1,0 +1,15 @@
+{
+  "id": 10053,
+  "type": "monster",
+  "name": "Tijereta Inzektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes equipar a esta carta 1 monstruo \"Inzektor\" en tu mano o Cementerio. Mientras esta carta está equipada a un monstruo, ese monstruo gana ATK y DEF iguales al ATK y DEF de esta carta. Cuando esta carta es mandada al Cementerio mientras está equipada a un monstruo: el monstruo que tenía equipada esta carta gana 1000 ATK, hasta la End Phase.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

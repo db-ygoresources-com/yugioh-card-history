@@ -1,0 +1,15 @@
+{
+  "id": 7937,
+  "type": "monster",
+  "name": "Kasha",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) controllando 2 o più mostri Zombie. Se questa carta viene Evocata Specialmente: mischia nel Deck tanti altri mostri sul Terreno quanti possibile e, se lo fai, l'ATK di questa carta diventa 1000 x il numero di mostri scoperti mischiati nel Deck in questo modo, il cui Tipo originale era Zombie.",
+  "level": 8,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

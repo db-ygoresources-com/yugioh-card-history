@@ -1,0 +1,15 @@
+{
+  "id": 5772,
+  "type": "monster",
+  "name": "Bauer der Widerwärtigkeit, Erzunterweltler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Der Spieler, der diese Karte kontrolliert, zahlt 500 Life Points in jeder seiner Standby Phasen. Wenn diese Karte als Ziel eines Effekts einer Karte, die dein Gegner kontrolliert, bestimmt wird, wirf bei der Abwicklung des Effekts einen sechsseitigen Würfel. Wenn das Würfelergebnis 3 ist, annulliere den Effekt und zerstöre die Karte. Solange diese Karte offen auf dem Spielfeld liegt, kann dein Gegner keine andere offene ERZUNTERWELTLER-Monsterkarte außer „Bauer der Widerwärtigkeit, Erzunterweltler“ angreifen.",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

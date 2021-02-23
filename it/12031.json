@@ -1,0 +1,18 @@
+{
+  "id": 12031,
+  "type": "monster",
+  "name": "Dragoni del Cielo di Draconia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Queste truppe di cavalleria volante dell'Impero Draconiano, che si dice siano state create per invadere la neutrale Città dei Cieli volante di Cxulub, hanno spinto le nazioni confinanti a rafforzare le loro misure di sicurezza.",
+  "pendEffect": "Una volta per turno, quando un Mostro Normale che controlli infligge danno da combattimento al tuo avversario: puoi scegliere come bersaglio 1 carta sul Terreno; distruggila.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 2200,
+  "def": 200,
+  "properties": [
+    "Bestia Alata",
+    "Pendulum",
+    "Normale"
+  ]
+}

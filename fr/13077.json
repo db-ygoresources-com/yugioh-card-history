@@ -1,0 +1,16 @@
+{
+  "id": 13077,
+  "type": "monster",
+  "name": "Venin Affamé, Roi Suprême du Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 Monstres Pendule TÉNÈBRES\nUniquement Invocable par Fusion, ou Spécialement en Sacrifiant les cartes ci-dessus que vous contrôlez (auquel cas vous n'utilisez pas \"Polymérisation\"). Une fois par tour : vous pouvez cibler 1 autre monstre sur le Terrain ou dans le Cimetière ; jusqu'à la End Phase, le nom de cette carte devient le nom d'origine du monstre et remplacez cet effet avec les effets d'origine du monstre, et aussi, le reste de ce tour, si votre monstre attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

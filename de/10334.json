@@ -1,0 +1,15 @@
+{
+  "id": 10334,
+  "type": "monster",
+  "name": "Photonensatellit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 anderes „Photon“-Monster wählen, das du kontrollierst; die Stufe des Monsters und dieser Karte werden jeweils die Summe der derzeitigen Stufen der 2 Monster.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12298,
+  "type": "monster",
+  "name": "Amorphage Greed",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+  "pendEffect": "While you control an \"Amorphage\" monster, neither player can activate Trap Cards or their effects, except for \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 0,
+  "def": 1950,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}

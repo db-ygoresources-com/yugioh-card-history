@@ -1,0 +1,16 @@
+{
+  "id": 15386,
+  "type": "monster",
+  "name": "Numéro 3 : Roi Cicada",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres de Niveau 3\nSi la position de combat de cette carte est changée : vous pouvez Invoquer Spécialement 1 monstre Insecte depuis votre main ou Cimetière en Position de Défense. Lorsqu'un monstre sur le Terrain active son effet : vous pouvez détacher 1 Matériel de cette carte, puis ciblez le monstre ; annulez ses effets, puis, soit faites gagner 500 DEF à 1 monstre Insecte sur le Terrain, soit changez sa position de combat. Vous ne pouvez utiliser chaque effet de \"Numéro 3 : Roi Cicada\" qu'une fois par tour.",
+  "rank": 3,
+  "atk": 1200,
+  "def": 2500,
+  "properties": [
+    "Insecte",
+    "Xyz",
+    "Effet"
+  ]
+}

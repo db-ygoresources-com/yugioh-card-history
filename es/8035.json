@@ -1,0 +1,16 @@
+{
+  "id": 8035,
+  "type": "monster",
+  "name": "Luchador Golpe Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1 o más monstruos que no sean Cantantes\nDurante tu Main Phase 1: puedes Sacrificar 1 monstruo; inflige daño a tu adversario igual al Nivel del monstruo Sacrificado en el Campo x 200. Sólo puedes usar este efecto de \"Luchador Golpe Oscuro\" una vez por turno.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

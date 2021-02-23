@@ -1,0 +1,16 @@
+{
+  "id": 5589,
+  "type": "monster",
+  "name": "Dendle Des",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant votre Main Phase, si vous contrôlez ce monstre sur le terrain, vous pouvez équiper cette carte à votre \"Orchis Vampirique\" comme une Carte Magie d'Équipement, OU libérer cet équipement Union et faire l'Invocation Spéciale de cette carte en Position d'Attaque face recto. Uniquement lorsque cette carte est équipée par l'effet de cette carte, chaque fois que le monstre équipé détruit 1 monstre à l'issue d'un combat, faites l'Invocation Spéciale d'1 \"Jeton Plante Nuisible\" (Type Plante/TERRE/Niveau 1/ATK 800/DEF 800). (1 monstre ne peut être équipé que par 1 monstre Union à la fois. Si le monstre que cette carte équipe est détruit à l'issue d'un combat, détruisez cette carte à la place.)",
+  "level": 4,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Union",
+    "Effet"
+  ]
+}

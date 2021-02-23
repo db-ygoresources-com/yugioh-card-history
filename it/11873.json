@@ -1,0 +1,18 @@
+{
+  "id": 11873,
+  "type": "monster",
+  "name": "Aether, il Drago Potenziatore Malvagio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro sul Terreno; bandiscilo.",
+  "pendEffect": "Una volta per turno: puoi bandire 1 mostro \"Guerriero Potenziato\" dal tuo Cimitero, poi scegliere come bersaglio 1 carta sul Terreno; distruggila.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

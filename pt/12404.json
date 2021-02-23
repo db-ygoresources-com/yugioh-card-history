@@ -1,0 +1,18 @@
+{
+  "id": 12404,
+  "type": "monster",
+  "name": "Camarartista Gomaovelha",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno, quando um ataque for declarado envolvendo um monstro que você controla e um monstro do oponente: você pode ativar este efeito; esse monstro que você controla não pode ser destruído nessa batalha.",
+  "pendEffect": "Uma vez por turno, quando um ataque for declarado envolvendo um monstro que você controla e um monstro do oponente: você pode ativar este efeito; esse monstro que você controla não pode ser destruído nessa batalha.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 900,
+  "def": 2400,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

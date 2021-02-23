@@ -1,0 +1,15 @@
+{
+  "id": 12426,
+  "type": "monster",
+  "name": "Danseur Triamid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 carte \"Triamid\" dans votre Cimetière ; mélangez-la dans le Deck, et si vous le faites, tous les monstres de Type Rocher que vous contrôlez gagnent 500 ATK/DEF. Une fois par tour, durant le tour de votre adversaire : vous pouvez cibler 1 Carte Magie de Terrain \"Triamid\" dans votre Zone Terrain ; envoyez-la au Cimetière, et si vous le faites, activez 1 Carte Magie de Terrain \"Triamid\" de nom différent depuis votre Deck (ceci est un Effet Rapide).",
+  "level": 3,
+  "atk": 600,
+  "def": 1900,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

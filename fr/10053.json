@@ -1,0 +1,15 @@
+{
+  "id": 10053,
+  "type": "monster",
+  "name": "Inzektor Forficule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez équiper 1 monstre \"Inzektor\" depuis votre main ou Cimetière à cette carte. Tant que cette carte est équipée à un monstre, le monstre gagne une ATK/DEF égales à l'ATK/DEF de cette carte. Lorsque cette carte est envoyée au Cimetière tant qu'elle était équipée à un monstre : jusqu'à la End Phase, le monstre qui était équipé à cette carte gagne 1000 ATK.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

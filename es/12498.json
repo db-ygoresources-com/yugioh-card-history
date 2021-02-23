@@ -1,0 +1,15 @@
+{
+  "id": 12498,
+  "type": "monster",
+  "name": "Chica Maga Manzana",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno, si esta carta es seleccionada para un ataque: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo de Tipo Lanzador de Conjuros de Nivel 5 o menor, y después cambia el objetivo del ataque a él y, si lo haces, el ATK del monstruo atacante se convierte en la mitad de su ATK en este momento. Si esta carta es destruida en batalla o por el efecto de una carta: puedes seleccionar hasta otros 3 monstruos \"Chica Maga\" con nombres diferentes en tu Cementerio; añádelos a tu mano.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

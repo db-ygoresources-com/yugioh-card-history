@@ -1,0 +1,18 @@
+{
+  "id": 12881,
+  "type": "monster",
+  "name": "Ballade Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si votre monstre \"Potartiste\" a attaqué, après le calcul des dommages : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; la cible perd une ATK égale à l'ATK du monstre \"Potartiste\".",
+  "pendEffect": "Une fois par tour, au début de la Damage Step, lorsque votre monstre \"Potartiste\" combat un monstre face recto de votre adversaire : vous pouvez faire perdre 600 ATK au monstre de votre adversaire (même si cette carte quitte le Terrain).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Plante",
+    "Pendule",
+    "Effet"
+  ]
+}

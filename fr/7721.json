@@ -1,0 +1,15 @@
+{
+  "id": 7721,
+  "type": "monster",
+  "name": "Destructor",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant la End Phase, si cette carte est le seul monstre de Type Psychique que vous contrôlez : détruisez-le. Vous pouvez payer 1000 LP, puis ciblez 1 Carte Magie/Piège Posée contrôlée par votre adversaire ; détruisez la cible.",
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

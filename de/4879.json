@@ -1,0 +1,16 @@
+{
+  "id": 4879,
+  "type": "monster",
+  "name": "Strenger Mystiker",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Zeige alle verdeckten Karten auf dem Spielfeld vor (Flippeffekte werden nicht aktiviert), dann lege sie in ihre originalen Positionen zurück.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

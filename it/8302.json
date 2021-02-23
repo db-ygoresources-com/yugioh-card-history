@@ -1,0 +1,15 @@
+{
+  "id": 8302,
+  "type": "monster",
+  "name": "Fuoco, Signora della Fortuna",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "L'ATK e il DEF di questa carta sono pari al suo Livello x 200. Durante ogni tua Standby Phase, aumenta il Livello di questa carta di 1 (massimo 12). Quando questa carta viene Evocata Specialmente scoperta in Posizione di Attacco dall'effetto di una carta \"Signora della Fortuna\", distruggi 1 mostro scoperto controllato dal tuo avversario e infliggi danno al tuo avversario pari all'ATK del mostro distrutto.",
+  "level": 2,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

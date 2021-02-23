@@ -1,0 +1,18 @@
+{
+  "id": 11983,
+  "type": "monster",
+  "name": "Escritoriobot 006",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo en el Campo; cambia su posición de batalla. Esta carta gana 500 ATK por cada monstruo \"Escritoriobot\" boca arriba en tu Deck Extra. Si esta carta en la Zona del Péndulo es destruida: puedes seleccionar 1 monstruo \"Escritoriobot\" en tu Cementerio; añade ese objetivo a tu mano. Sólo puedes usar este efecto de \"Escritoriobot 006\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto a monstruos \"Escritoriobot\". Este efecto no puede ser negado.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

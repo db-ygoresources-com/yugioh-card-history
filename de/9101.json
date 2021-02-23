@@ -1,0 +1,16 @@
+{
+  "id": 9101,
+  "type": "monster",
+  "name": "Schrottsoldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Synchromaterialmonster benutzt werden, außer für die Synchrobeschwörung eines „Schrott“-Monsters. Falls diese Karte in offener Verteidigungsposition angegriffen wird, zerstöre diese Karte am Ende der Battle Phase. Falls diese Karte durch den Effekt einer „Schrott“-Karte zerstört und auf den Friedhof gelegt wird, kannst du 1 „Schrott“-Monster in deinem Friedhof wählen, außer „Schrottsoldat“, und deiner Hand hinzufügen.",
+  "level": 5,
+  "atk": 2100,
+  "def": 700,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

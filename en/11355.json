@@ -1,0 +1,18 @@
+{
+  "id": 11355,
+  "type": "monster",
+  "name": "Qliphort Helix",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Tributed: You can target 1 Spell/Trap Card on the field; destroy it.",
+  "pendEffect": "You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.",
+  "pendScale": 9,
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

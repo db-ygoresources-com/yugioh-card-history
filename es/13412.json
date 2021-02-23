@@ -1,0 +1,19 @@
+{
+  "id": 13412,
+  "type": "monster",
+  "name": "Administrador de la Llama",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos Ciberso\nTodos los Monstruos de Enlace que controles ganan 800 ATK. Sólo puedes controlar 1 \"Administrador de la Llama\".",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

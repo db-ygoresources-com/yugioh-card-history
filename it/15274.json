@@ -1,0 +1,16 @@
+{
+  "id": 15274,
+  "type": "monster",
+  "name": "Il Primo Signore Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "3 mostri OSCURITÀ Fata\nIl tuo avversario non può scegliere come bersaglio i mostri Fata che controlli con gli effetti delle carte. Puoi utilizzare solo 1 dei seguenti effetti di \"Il Primo Signore Oscuro\" per turno, e solo una volta in quel turno.\n●Se questa carta viene Evocata tramite Fusione utilizzando \"Signore Oscuro Luce del Mattino\" come materiale: puoi distruggere tutte le carte controllate dal tuo avversario.\n●Durante la Main Phase (Effetto Rapido): puoi pagare 1000 LP; Evoca Specialmente 1 mostro Fata dalla tua mano o Cimitero in Posizione di Difesa.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Fata",
+    "Fusione",
+    "Effetto"
+  ]
+}

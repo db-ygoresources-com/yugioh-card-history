@@ -1,0 +1,16 @@
+{
+  "id": 9334,
+  "type": "monster",
+  "name": "Dragón de Chatarra Atómica",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante \"Chatarra\" + 2 o más monstruos que no sean Cantantes\nUna vez por turno puedes seleccionar 1 carta que controles y hasta 3 cartas en el Cementerio de tu adversario. Destruye tu carta seleccionada y devuelve al Deck las cartas seleccionadas de tu adversario. Cuando esta carta es destruida por una carta de tu adversario (ya sea en batalla o por efecto de una carta) y mandada al Cementerio, selecciona 1 monstruo \"Chatarra\" que no sea de Sincronía en tu Cementerio e Invócalo de Modo Especial.",
+  "level": 10,
+  "atk": 3200,
+  "def": 2400,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

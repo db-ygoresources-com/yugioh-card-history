@@ -1,0 +1,18 @@
+{
+  "id": 11433,
+  "type": "monster",
+  "name": "P.L.-Geiselnehmer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte ein Monster durch Kampf zerstört: Du kannst 1 Pendelmonster in deinem Friedhof wählen; füge es deiner Hand hinzu.",
+  "pendEffect": "Wenn du ein oder mehr Monster vom Typ Zombie als Pendelbeschwörung beschwörst: Du kannst diesen Effekt aktivieren; sie können in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Pendel",
+    "Effekt"
+  ]
+}

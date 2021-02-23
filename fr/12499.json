@@ -1,0 +1,15 @@
+{
+  "id": 12499,
+  "type": "monster",
+  "name": "Magicienne des Kiwis",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Durant le tour de chaque joueur : vous pouvez défausser cette carte ; jusqu'à la fin de ce tour, les monstres \"Magicienne des\" que vous contrôlez actuellement gagnent 300 ATK/DEF pour chaque monstre \"Magicienne des\" de noms différents sur le Terrain et dans les Cimetières. Les monstres de Type Magicien que vous contrôlez ne peuvent pas être détruits par des effets de carte, et votre adversaire ne peut pas les cibler avec des effets de carte.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

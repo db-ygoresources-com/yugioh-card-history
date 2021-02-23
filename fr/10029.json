@@ -1,0 +1,15 @@
+{
+  "id": 10029,
+  "type": "monster",
+  "name": "Voiturcarte D",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non Invocable Spécialement. Durant votre Main Phase 1, si cette carte a été Invoquée Normalement ce tour : vous pouvez Sacrifier cette carte ; piochez 2 cartes, puis passez à la End Phase. Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cet effet.",
+  "level": 2,
+  "atk": 800,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

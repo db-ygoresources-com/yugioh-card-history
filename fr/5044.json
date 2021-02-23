@@ -1,0 +1,15 @@
+{
+  "id": 5044,
+  "type": "monster",
+  "name": "Pillard Rigoureux",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "FLIP : Chaque joueur défausse 1 carte.\nSi cette carte est détruite au combat : le monstre qui l'a détruite perd 500 ATK/DEF.",
+  "level": 3,
+  "atk": 1600,
+  "def": 100,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

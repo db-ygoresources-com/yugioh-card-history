@@ -1,0 +1,15 @@
+{
+  "id": 7727,
+  "type": "monster",
+  "name": "Cazador Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El efecto de esta carta cambia según la cantidad de monstruos de OSCURIDAD en tu Cementerio.\n●1 o menos: Esta carta pierde 400 ATK.\n●2 a 4: Esta carta gana 400 ATK.\n●5 o más: Puedes mandar esta carta al Cementerio para destruir todos los monstruos boca abajo que controle tu adversario.",
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

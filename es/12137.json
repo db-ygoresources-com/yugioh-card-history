@@ -1,0 +1,18 @@
+{
+  "id": 12137,
+  "type": "monster",
+  "name": "Dinoniebla Rex",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta ataca, al final del Damage Step: puedes Sacrificar otro monstruo \"Dinoniebla\", y después activar 1 de estos efectos;\n●Esta carta puede atacar a un monstruo de tu adversario una vez más, y si ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.\n●Baraja al Deck 1 carta en la mano de tu adversario (al azar) o en su lado del Campo, y después esta carta gana 100 ATK.",
+  "pendEffect": "Una vez, mientras esta carta está en tu Zona de Péndulo, puedes negar el efecto activado de una carta que seleccione a otra u otras cartas \"Dinoniebla\" que controles, y después destruye esta carta.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2400,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

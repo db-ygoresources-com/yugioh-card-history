@@ -1,0 +1,16 @@
+{
+  "id": 8105,
+  "type": "monster",
+  "name": "Recycleur Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre \"Genex\" dans votre Cimetière. Jusqu'à la End Phase, le nom de cette carte est traité comme le nom du monstre sélectionné.",
+  "level": 1,
+  "atk": 200,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

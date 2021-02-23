@@ -1,0 +1,15 @@
+{
+  "id": 5366,
+  "type": "monster",
+  "name": "Agido",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est détruite à l'issue d'un combat et envoyée au Cimetière, lancez un dé à six faces. Vous pouvez faire l'Invocation Spéciale d'1 monstre de Type Elfe depuis votre Cimetière dont le Niveau est égal au résultat du dé. (Si le résultat est 6, vous pouvez faire l'Invocation Spéciale d'un monstre de Niveau 6 ou plus.)",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

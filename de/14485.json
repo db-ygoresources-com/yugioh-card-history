@@ -1,0 +1,19 @@
+{
+  "id": 14485,
+  "type": "monster",
+  "name": "Magiwaage",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Eine denkende Waage. Sie bewahrt das Gleichgewicht im Universum, legt die Sterne aber oft auf die falsche Seite.",
+  "pendEffect": "Du kannst eine Stufe von 1 bis 6 deklarieren und dann 2 offene Monster wählen, die du kontrollierst; bis zum Ende dieses Spielzugs, verringere die Stufe von 1 der Monster um die deklarierte Zahl und falls du dies tust, erhöhe die Stufe des anderen um dieselbe Zahl (selbst falls diese Karte das Spielfeld verlässt). Du kannst diesen Effekt von „Magiwaage“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Empfänger",
+    "Normal"
+  ]
+}

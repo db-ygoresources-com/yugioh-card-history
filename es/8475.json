@@ -1,0 +1,16 @@
+{
+  "id": 8475,
+  "type": "monster",
+  "name": "Dragón Estelar Majestuoso",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "\"Dragón Majestuoso\" + \"Dragón de Polvo de Estrellas\" + 1 monstruo que no sea Cantante\nDurante el turno de cualquier jugador, cuando tu adversario activa una carta o efecto: puedes Sacrificar esta carta; niega la activación y, si lo haces, destruye todas las cartas que controle tu adversario. Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, niega sus efectos y, una vez este turno, puedes activar 1 de sus efectos como si fuera un efecto de esta carta. Durante la End Phase: selecciona 1 \"Dragón de Polvo de Estrellas\" en tu Cementerio; devuelve al Deck Extra esta carta en el Campo, y después Invoca de Modo Especial ese objetivo.",
+  "level": 10,
+  "atk": 3800,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

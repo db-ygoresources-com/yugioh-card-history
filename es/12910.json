@@ -1,0 +1,19 @@
+{
+  "id": 12910,
+  "type": "monster",
+  "name": "Maga Ala Blanca",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "(Esta carta se trata siempre como una carta \"Dragón Sincro\").\nSi esta carta Invocada por Péndulo es usada para una Invocación por Sincronía, destiérrala.",
+  "pendEffect": "Una vez por turno, cuando una carta o efecto activado se resuelva, que seleccione como objetivo un monstruo de OSCURIDAD de Tipo Lanzador de Conjuros que controles, niega ese efecto, y después destruye esta carta.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

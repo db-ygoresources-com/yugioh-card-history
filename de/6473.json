@@ -1,0 +1,15 @@
+{
+  "id": 6473,
+  "type": "monster",
+  "name": "Wiedergeborener Zombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange du keine Karten in deiner Hand hast und diese Karte in Angriffsposition liegt, kann sie nicht durch Kampf zerstört werden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

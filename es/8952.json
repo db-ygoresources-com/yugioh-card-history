@@ -1,0 +1,16 @@
+{
+  "id": 8952,
+  "type": "monster",
+  "name": "Bestia de Chatarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta en Posición de Defensa boca arriba es seleccionada como objetivo de un ataque, al final de la Battle Phase: destruye esta carta. Si esta carta es destruida por el efecto de una carta \"Chatarra\" o \"Reciclador de Desechos\" y mandada al Cementerio: puedes seleccionar 1 monstruo \"Chatarra\" o \"Reciclador de Desechos\" en tu Cementerio, excepto \"Bestia de Chatarra\"; añade ese objetivo a tu mano.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Bestia",
+    "Cantante",
+    "Efecto"
+  ]
+}

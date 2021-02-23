@@ -1,0 +1,15 @@
+{
+  "id": 10040,
+  "type": "monster",
+  "name": "Cameraclops",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card attacks a face-up monster on the field, at the start of the Damage Step: Destroy that monster. Its DEF must be higher than this card's ATK to activate and to resolve this effect.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Warrior",
+    "Effect"
+  ]
+}

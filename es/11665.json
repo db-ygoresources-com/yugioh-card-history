@@ -1,0 +1,15 @@
+{
+  "id": 11665,
+  "type": "monster",
+  "name": "Cuben",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes lanzar un dado de seis caras, y mientras este monstruo esté boca arriba en el Campo, ningún jugador puede Invocar de Modo Normal o Especial a monstruos con el mismo Nivel que el resultado.",
+  "level": 4,
+  "atk": 600,
+  "def": 1900,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

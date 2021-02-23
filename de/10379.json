@@ -1,0 +1,15 @@
+{
+  "id": 10379,
+  "type": "monster",
+  "name": "Orbital 7",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte aufgedeckt wird: Lege 1 „Wird erledigt, Boss!“-Zählmarke darauf. Du kannst alle „Wird erledigt, Boss!“-Zählmarken von dieser Karte entfernen; ihre ATK werden zu 2000. Nachdem du die ATK dieser Karte durch diesen Effekt geändert hast, kann sie deinen Gegner für den Rest dieses Spielzugs nicht direkt angreifen und wird während der End Phase auf den Friedhof gelegt. Du kannst diese Karte als Tribut anbieten, um 1 „Photon“- oder „Galaxie“-Monster in deinem Friedhof zu wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

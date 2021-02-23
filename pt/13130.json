@@ -1,0 +1,18 @@
+{
+  "id": 13130,
+  "type": "monster",
+  "name": "Mago Camarartista Cinco Arco-Íris",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se qualquer duelista Baixar uma Magia/Armadilha no seu campo enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Você não pode Invocar por Invocação-Pêndulo, exceto do Deck Adicional. Este efeito não pode ser negado. Cada duelista aplica 1 desses efeitos de acordo com o número de cards Baixados em suas Zonas de Magias & Armadilhas.\n●0: Todos os monstros que o duelista controla não podem atacar ou ativar seus efeitos.\n●4 ou mais: O ATK de todos os monstros que o duelista controla se torna o dobro do seu próprio ATK original.",
+  "pendScale": 12,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

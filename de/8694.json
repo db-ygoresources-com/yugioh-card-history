@@ -1,0 +1,16 @@
+{
+  "id": 8694,
+  "type": "monster",
+  "name": "Maschinenwesen Friedensstifter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte auf dem Spielfeld zerstört und auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Union-Monster von deinem Deck hinzufügen. Einmal pro Spielzug kannst du: 1 Maschine-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

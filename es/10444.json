@@ -1,0 +1,15 @@
+{
+  "id": 10444,
+  "type": "monster",
+  "name": "Soldado Instructor Loboladra",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes seleccionar 1 monstruo Guerrero-Bestia de FUEGO de Nivel 4 en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa, pero niega sus efectos. Sólo puedes usar este efecto de \"Soldado Instructor Loboladra\" una vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

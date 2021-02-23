@@ -1,0 +1,16 @@
+{
+  "id": 8037,
+  "type": "monster",
+  "name": "Hyper Distruttore Psichico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Tuner + 1 o più mostri non-Tuner di Tipo Psichico\nSe questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario. Alla fine del Damage Step, se questa carta ha attaccato un mostro in Posizione di Difesa e il DEF di quel mostro è inferiore all'ATK di questa carta (utilizza i suoi valori originali se l'altro mostro non è più sul Terreno): guadagni LP pari all'eccedenza.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Psichico",
+    "Synchro",
+    "Effetto"
+  ]
+}

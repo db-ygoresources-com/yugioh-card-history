@@ -1,0 +1,15 @@
+{
+  "id": 11800,
+  "type": "monster",
+  "name": "Artilusionista Comedor de Llamas",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante el turno de cualquier jugador, cuando es activada una carta o efecto que fuera a infligirte daño: puedes activar este efecto; por el resto de este turno, no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Artilusionista\", y además Invoca esta carta de Modo Especial desde tu mano y, si lo haces, haz que ese daño de efecto que ibas a sufrir se convierta en 0. Si es Invocado de esta forma, destiérralo cuando deje el Campo. Si esta carta es Invocada de Modo Normal o Especial: cada jugador recibe 500 puntos de daño.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

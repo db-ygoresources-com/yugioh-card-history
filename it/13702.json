@@ -1,0 +1,19 @@
+{
+  "id": 13702,
+  "type": "monster",
+  "name": "Spirito Kendo Kai-Den",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi selezionare 1 carta nella tua Zona Pendulum, e mandare al Cimitero tutte le carte controllate dal tuo avversario nella stessa colonna di quella carta. Una volta per turno, durante la End Phase, se questa carta è stata Evocata Normalmente o scoperta in questo turno: fai ritornare questa carta nella mano.",
+  "pendEffect": "Se uno o più mostri vengono Evocati Pendulum: fai ritornare questa carta dalla Zona Pendulum nella mano.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Spirit",
+    "Effetto"
+  ]
+}

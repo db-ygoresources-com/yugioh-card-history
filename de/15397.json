@@ -1,0 +1,18 @@
+{
+  "id": 15397,
+  "type": "monster",
+  "name": "Gerätewesen Waagenkappa",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 „Gerätewesen“-Monster\nDiese Karte kann nicht in dem Spielzug als Linkmaterial verwendet werden, in dem sie als Linkbeschwörung beschworen wurde. Du kannst diese kreuzgelinkte Karte als Tribut anbieten; beschwöre 1 „Gerätewesen“-Linkmonster als Spezialbeschwörung von deinem Friedhof, außer „Gerätewesen Waagenkappa“. Du kannst diese Karte, die nicht kreuzgelinkt ist, als Tribut anbieten; beschwöre 1 „Gerätewesen“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Friedhof. Du kannst jeden Effekt von „Gerätewesen Waagenkappa“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 0,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

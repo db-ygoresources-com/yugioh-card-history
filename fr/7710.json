@@ -1,0 +1,16 @@
+{
+  "id": 7710,
+  "type": "monster",
+  "name": "Guerrier au Jitte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez changer en Position de Défense face recto, 1 monstre en Position d'Attaque face recto contrôlé par votre adversaire.",
+  "level": 2,
+  "atk": 700,
+  "def": 900,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

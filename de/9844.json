@@ -1,0 +1,16 @@
+{
+  "id": 9844,
+  "type": "monster",
+  "name": "Anstreicher der Schmerzen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange diese Karte offen auf dem Spielfeld liegt, wird ihr Name als „Seuchenverbreitender Zombie“ behandelt. Einmal pro Spielzug: Du kannst bis zu 2 offene Monster vom Typ Zombie wählen, die du kontrollierst, außer dieser Karte; sie werden bis zur End Phase zu Stufe 2. Sie können nicht als Synchromaterialmonster verwendet werden, außer für die Synchrobeschwörung eines Monsters vom Typ Zombie.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

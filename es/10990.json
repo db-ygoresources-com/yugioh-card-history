@@ -1,0 +1,15 @@
+{
+  "id": 10990,
+  "type": "monster",
+  "name": "Gwenhwyfar, Reina de las Armas Nobles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes seleccionar 1 monstruo \"Noble Caballero\" que controles; equipa esta carta en tu mano o Cementerio a ese objetivo. Sólo puedes usar este efecto de \"Gwenhwyfar, Reina de las Armas Nobles\" una vez por turno. El monstruo equipado gana 300 ATK. Aplica el efecto apropiado, dependiendo del Atributo del monstruo equipado.\n●LUZ: Si el monstruo equipado fuera a ser destruido por efecto de una carta, puedes destruir esta carta en su lugar.\n●OSCURIDAD: Si el monstruo equipado batalla con un monstruo de tu adversario, al comienzo del Damage Step: puedes destruir ese monstruo, y después destruir esta carta.",
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

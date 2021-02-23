@@ -1,0 +1,18 @@
+{
+  "id": 11542,
+  "type": "monster",
+  "name": "Avión Furtivo Qlifuerte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta de Modo Normal sin Sacrificar. Si esta carta es Invocada de Modo Normal sin Sacrificar, o es Invocada de Modo Especial, su Nivel se convierte en 4 y su ATK original se convierte en 1800. Si esta carta es Invocada de Modo Normal/Colocada, no es afectada por efectos activados de ningún monstruo cuyo Nivel/Rango original sea menor que el Nivel de esta carta en este momento. Cuando esta carta es Invocada por Sacrificio Sacrificando uno o más monstruos \"Qli\": puedes seleccionar 1 carta en el Campo; devuélvela a la mano. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto.",
+  "pendEffect": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"Qli\". Este efecto no puede ser negado. Todos los monstruos \"Qli\" que controles ganan 300 ATK.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

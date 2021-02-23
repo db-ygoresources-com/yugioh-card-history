@@ -1,0 +1,18 @@
+{
+  "id": 12738,
+  "type": "monster",
+  "name": "Künstlerkumpel Dolph Dolchmann",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während deiner Main Phase, falls diese Karte in diesem Spielzug als Pendelbeschwörung beschworen wurde: Du kannst 1 „Künstlerkumpel“-Monster von deiner Hand auf den Friedhof legen; ziehe 1 Karte. Du kannst diesen Effekt von „Künstlerkumpel Dolph Dolchmann“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst 1 „Künstlerkumpel“-Monster in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Künstlerkumpel Dolph Dolchmann“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

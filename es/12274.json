@@ -1,0 +1,18 @@
+{
+  "id": 12274,
+  "type": "monster",
+  "name": "Artistamigo Cáscara de Cangrejo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno: puedes seleccionar 1 Monstruo de Péndulo que controles; hasta el final de este turno, éste gana 300 ATK por cada monstruo \"Artistamigo\" que controles en este momento.",
+  "pendEffect": "Una vez por turno, cuando un monstruo \"Artistamigo\" que controlas es destruido en batalla: puedes seleccionar 1 carta \"Artistamigo\" u \"Ojos Anómalos\" en tu Zona del Péndulo; Invócalo de Modo Especial.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Péndulo",
+    "Efecto"
+  ]
+}

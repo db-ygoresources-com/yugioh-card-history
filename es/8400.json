@@ -1,0 +1,15 @@
+{
+  "id": 8400,
+  "type": "monster",
+  "name": "Frutosca Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Todos los monstruos boca arriba que controla tu adversario pierden 300 ATK y DEF por cada monstruo \"Naturia\" boca arriba que controles. Una vez por turno, puedes seleccionar 1 monstruo boca arriba con 0 DEF que controle tu adversario y tomar el control de éste hasta la End Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

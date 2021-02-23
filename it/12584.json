@@ -1,0 +1,16 @@
+{
+  "id": 12584,
+  "type": "monster",
+  "name": "C-Viverna Combattente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, puoi: scegliere come bersaglio 1 mostro LUCE Macchina che controlli; equipaggia questa carta a quel bersaglio, OPPURE: disequipaggiare questa carta ed Evocarla Specialmente. Un mostro equipaggiato con questa carta è immune agli effetti delle Trappole del tuo avversario, inoltre, se il mostro equipaggiato sta per essere distrutto in battaglia o dall'effetto di una carta, distruggi invece questa carta. Se questa carta viene mandata dal Terreno al Cimitero: puoi Evocare Specialmente 1 mostro Unione dalla tua mano.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Macchina",
+    "Unione",
+    "Effetto"
+  ]
+}

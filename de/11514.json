@@ -1,0 +1,16 @@
+{
+  "id": 11514,
+  "type": "monster",
+  "name": "Beelzeus von den diabolischen Drachen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 FINSTERNIS Empfänger + 2+ Nicht-Empfänger-Monster\nKann weder durch Kampf noch durch Karteneffekte zerstört werden. Andere Monster, die du kontrollierst, können nicht angreifen. Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; Kampfschaden, den dein Gegner in diesem Spielzug aus Angriffen erhält, an denen diese Karte beteiligt ist, wird halbiert, zusätzlich ändere die ATK des Monsters zu 0 und falls du dies tust, erhältst du LP in Höhe seiner Grund-ATK.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

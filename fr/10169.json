@@ -1,0 +1,15 @@
+{
+  "id": 10169,
+  "type": "monster",
+  "name": "Trois Mille Aiguilles",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "À la fin de la Damage Step, si cette carte en Position de Défense a été attaquée par un monstre dont l'ATK est inférieure à la DEF de cette carte : détruisez le monstre attaquant.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

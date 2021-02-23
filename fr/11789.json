@@ -1,0 +1,18 @@
+{
+  "id": 11789,
+  "type": "monster",
+  "name": "Chameaunigo Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est détruite au combat : vous pouvez faire perdre 800 ATK au monstre qui a détruit cette carte.",
+  "pendEffect": "Une fois par tour, durant votre Main Phase 1 : vous pouvez cibler 1 monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, les monstres actuellement contrôlés par votre adversaire perdent 800 DEF, et s'ils le font, si le monstre ciblé attaque un monstre en Position de Défense ce tour, infligez des dommages de combat perçants à votre adversaire. (Ces effets perdurent même si cette carte quitte le Terrain.)",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

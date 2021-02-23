@@ -1,0 +1,18 @@
+{
+  "id": 11441,
+  "type": "monster",
+  "name": "D/D Galilei, o Erudito",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Durante o turno de qualquer duelista: você pode descartar este card e, depois, escolher 1 card \"D/D\" ou \"Pacto Obscuro\" que você controla; devolva-o para a mão. Você só pode usar este efeito de \"D/D Galilei, o Erudito\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"D/D\". Este efeito não pode ser negado. Uma vez por turno, durante sua Fase de Apoio: aumente a Escala de Pêndulo deste card em 2 (máx. 10) e, depois, destrua todos os monstros que você controla com um Nível menor ou igual à Escala de Pêndulo deste card, exceto monstros \"D/D\".",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

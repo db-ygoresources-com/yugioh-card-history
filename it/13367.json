@@ -1,0 +1,15 @@
+{
+  "id": 13367,
+  "type": "monster",
+  "name": "F.A. Turbo Carica",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Guadagna ATK pari al suo Livello x 300. I mostri del tuo avversario con Livello/Rango originale inferiore al Livello di questa carta non possono scegliere come bersaglio mostri per gli attacchi, eccetto questo. Il tuo avversario non può scegliere come bersaglio mostri, eccetto questo, con gli effetti di mostri con Livello/Rango originale inferiore al Livello di questa carta. Ogni volta che viene attivata una Carta Magia/Trappola \"F.A.\" o un suo effetto: puoi aumentare il Livello di questa carta di 1. Se un tuo mostro \"F.A.\" combatte mentre controlli questa carta di Livello 7 o superiore, i mostri del tuo avversario non possono attivare i loro effetti fino alla fine del Damage Step.",
+  "level": 6,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

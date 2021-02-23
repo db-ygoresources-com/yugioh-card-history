@@ -1,0 +1,15 @@
+{
+  "id": 11684,
+  "type": "monster",
+  "name": "Gantelet Cassâme Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez cibler 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; équipez ce monstre depuis votre main ou Terrain à la cible. Il gagne 400 DEF. Durant la Damage Step de chaque joueur, lorsqu'un monstre \"Samouraï Supralourd\" en Position de Défense que vous contrôlez combat un monstre de votre adversaire, et que vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la fin de ce tour, la DEF de votre monstre combattant devient le double de sa DEF d'origine.",
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

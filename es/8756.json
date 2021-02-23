@@ -1,0 +1,15 @@
+{
+  "id": 8756,
+  "type": "monster",
+  "name": "Cactus Forzudo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocada de Modo Especial. Mientras otro monstruo Planta esté en el Campo, ningún jugador puede Invocar monstruos de Modo Especial.",
+  "level": 4,
+  "atk": 1800,
+  "def": 300,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

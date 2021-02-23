@@ -1,0 +1,15 @@
+{
+  "id": 8325,
+  "type": "monster",
+  "name": "Minenfeld-Bohrer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese offene Karte, die du kontrollierst, das Spielfeld verlässt und weiterhin dir gehört: Du kannst 1 Spielfeldzauberkarte in deinem Friedhof wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11375,
+  "type": "monster",
+  "name": "Ms. Judge",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If an opponent's card effect activates, before resolving that effect, toss a coin twice, and if the result is 2 Heads, negate that effect. You can only use this effect of \"Ms. Judge\" once per turn.",
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

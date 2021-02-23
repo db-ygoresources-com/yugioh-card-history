@@ -1,0 +1,15 @@
+{
+  "id": 12355,
+  "type": "monster",
+  "name": "Lord Gaia, zorniger Ritter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls dein Gegner ein Monster kontrolliert und du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Einmal pro Spielzug, falls ein oder mehr Monster, deren ATK höher als die dieser Karte sind, als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden (außer während des Damage Steps): Du kannst diese Karte bis zum Ende dieses Spielzugs 700 ATK erhalten lassen.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

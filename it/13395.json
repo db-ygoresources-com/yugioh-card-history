@@ -1,0 +1,18 @@
+{
+  "id": 13395,
+  "type": "monster",
+  "name": "Basilisco Mitica Bestia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Puoi rimuovere 3 Segnalini Magia dal tuo Terreno; fai ritornare nella mano 1 carta \"Mitica Bestia\" dalla tua Zona Pendulum o scoperta dal tuo Extra Deck. Puoi utilizzare questo effetto di \"Basilisco Mitica Bestia\" una sola volta per turno.",
+  "pendEffect": "Se non hai nessuna carta nella tua altra Zona Pendulum: puoi distruggere questa carta e, se lo fai, mischia 1 Mostro Pendulum Incantatore scoperto dal tuo Extra Deck nel tuo Main Deck, eccetto \"Basilisco Mitica Bestia\", poi pesca 1 carta. Puoi utilizzare questo effetto di \"Basilisco Mitica Bestia\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

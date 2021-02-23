@@ -1,0 +1,16 @@
+{
+  "id": 7897,
+  "type": "monster",
+  "name": "Guerrier Turbo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Turbo Synchronique\" + 1 monstre non-Syntoniseur ou plus\nLorsque cette carte déclare une attaque sur un Monstre Synchro de min. Niveau 6 : jusqu'à la fin de la Damage Step, divisez par deux l'ATK de la cible de l'attaque. Cette carte ne peut pas être ciblée par des effets de monstre de max. Niveau 6.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

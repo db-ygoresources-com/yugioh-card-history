@@ -1,0 +1,15 @@
+{
+  "id": 7602,
+  "type": "monster",
+  "name": "Grenouille Licorne",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Cette carte peut attaquer directement votre adversaire. Lorsque cette carte attaque directement avec succès, si vous contrôlez un monstre \"Grenouille\" ou \"Rainette\" autre que \"Grenouille, la Bave\" ou \"Grenouille Licorne\", vous pouvez détruire 1 Carte Magie ou Piège contrôlée par votre adversaire.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

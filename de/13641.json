@@ -1,0 +1,16 @@
+{
+  "id": 13641,
+  "type": "monster",
+  "name": "Zerstörungsdrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Muss mit „Kralle des Critias“ als Spezialbeschwörung beschworen werden, verwende dabei „Ring der Zerstörung“. Einmal pro Spielzug: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie. Dann, falls es eine Monsterkarte war, füge deinem Gegner Schaden in Höhe ihrer Grund-ATK zu.",
+  "level": 8,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

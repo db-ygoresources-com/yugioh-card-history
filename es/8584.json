@@ -1,0 +1,15 @@
+{
+  "id": 8584,
+  "type": "monster",
+  "name": "Simio Luchador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta destruye a un monstruo de tu adversario en batalla: esta carta gana 300 ATK. Si esta carta no ataca durante tu turno, el ATK ganado por este efecto vuelve a 0 durante la End Phase de ese turno.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

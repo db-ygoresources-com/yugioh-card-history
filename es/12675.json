@@ -1,0 +1,15 @@
+{
+  "id": 12675,
+  "type": "monster",
+  "name": "Artilugio de Mecanismo Antiguo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes declarar 1 tipo de carta (Monstruo, Mágica o de Trampa); este turno, si tu monstruo ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa o efectos de monstruo (lo que haya sido declarado). Una vez por turno: puedes declarar 1 nombre de carta de monstruo \"Artilugio\"; hasta la End Phase, el nombre de esta carta se convierte en ese nombre.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

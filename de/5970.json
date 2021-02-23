@@ -1,0 +1,15 @@
+{
+  "id": 5970,
+  "type": "monster",
+  "name": "Scheibenkämpfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte ein Monster angreift, das sich in Verteidigungsposition befindet und eine DEF von 2000 oder mehr hat, zerstöre das Monster durch den Effekt dieser Karte, ohne Schadensberechnung.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

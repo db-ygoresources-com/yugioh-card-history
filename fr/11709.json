@@ -1,0 +1,15 @@
+{
+  "id": 11709,
+  "type": "monster",
+  "name": "Dragon de Magma",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsque cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre de Type Wyrm (\"Dragon de Magma\" exclu) dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, mais ses effets sont annulés. Vous ne pouvez utiliser cet effet de \"Dragon de Magma\" qu'une fois par tour. Vous ne pouvez pas Invoquer Spécialements de monstres (monstres de Type Wyrm exclus) le tour où vous activez cet effet.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Wyrm",
+    "Effet"
+  ]
+}

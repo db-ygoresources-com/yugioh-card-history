@@ -1,0 +1,15 @@
+{
+  "id": 13040,
+  "type": "monster",
+  "name": "Stregone Cyberso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro in Posizione di Attacco dell'avversario; mettilo in Posizione di Difesa e, se lo fai, per il resto di questo turno, i tuoi mostri non possono attaccare, eccetto per attaccare quel mostro e, se un tuo mostro Cyberso attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Cyberse",
+    "Effetto"
+  ]
+}

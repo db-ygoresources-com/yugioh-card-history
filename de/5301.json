@@ -1,0 +1,15 @@
+{
+  "id": 5301,
+  "type": "monster",
+  "name": "Dunkler Herrscher Ha Des",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung vom Friedhof beschworen werden. Annulliere die Effekte von Monstern, die durch Kampf mit Unterweltler-Monstern zerstört werden, die du kontrollierst.",
+  "level": 6,
+  "atk": 2450,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

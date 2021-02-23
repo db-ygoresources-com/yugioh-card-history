@@ -1,0 +1,15 @@
+{
+  "id": 8320,
+  "type": "monster",
+  "name": "Gepanzerter Axonkicker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du ein offenes Monster vom Typ Psi kontrollierst, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Falls diese Karte ein Monster deines Gegners durch Kampf zerstört, erhältst du Schaden in Höhe der Hälfte der ATK des zerstörten Monsters. Dann kannst du 1 Monster mit ATK kleiner oder gleich dem Schaden, den du erhalten hast, als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

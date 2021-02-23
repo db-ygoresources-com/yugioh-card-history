@@ -1,0 +1,15 @@
+{
+  "id": 11366,
+  "type": "monster",
+  "name": "Nacht-Drachenlich",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Ändere alle Monster in Angriffsposition, die nicht den Typ Wyrm haben und die als Spezialbeschwörung vom Main oder Extra Deck beschworen wurden, in die Verteidigungsposition. Alle Monster, die nicht den Typ Wyrm haben und die als Spezialbeschwörung vom Main oder Extra Deck beschworen wurden, verlieren DEF in Höhe ihrer Grund-DEF.",
+  "level": 4,
+  "atk": 1700,
+  "def": 0,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

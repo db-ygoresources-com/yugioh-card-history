@@ -1,0 +1,15 @@
+{
+  "id": 4484,
+  "type": "monster",
+  "name": "Insectes Soldats Volants",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "À chaque fois que cette carte attaque un monstre VENT, augmentez l'ATK de cette carte de 1000 points uniquement durant la Damage Step.",
+  "level": 3,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

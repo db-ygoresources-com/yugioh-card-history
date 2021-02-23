@@ -1,0 +1,16 @@
+{
+  "id": 7733,
+  "type": "monster",
+  "name": "Nitrokrieger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "„Nitrosynchron“ + 1 oder mehr Nicht-Empfänger-Monster\nEinmal während jedes deiner Spielzüge, falls du eine Zauberkarte aktivierst, erhält diese Karte während des nächsten Angriffs in diesem Spielzug, an dem diese Karte beteiligt ist, nur während der Schadensberechnung 1000 ATK. Falls diese angreifende Karte ein Monster deines Gegners durch Kampf zerstört, nach der Schadensberechnung: Du kannst 1 Monster in offener Verteidigungsposition wählen, das dein Gegner kontrolliert; ändere das gewählte Ziel in die Angriffsposition, dann kann diese Karte das Monster sofort noch ein zweites Mal angreifen.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

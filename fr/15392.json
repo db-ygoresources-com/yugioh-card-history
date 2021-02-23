@@ -1,0 +1,15 @@
+{
+  "id": 15392,
+  "type": "monster",
+  "name": "Dame Pierre à Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si vous contrôlez un monstre Guerrier : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez envoyer cette carte depuis le Terrain au Cimetière ; Invoquez Spécialement 1 monstre Guerrier de max. Niveau 4 depuis votre main, et si vous le faites, votre adversaire ne peut pas le cibler avec des effets de carte ce tour. Vous ne pouvez utiliser chaque effet de \"Dame Pierre à Feu\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8734,
+  "type": "monster",
+  "name": "Die Atmosphäre",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 Monster, die du kontrollierst, und 1 Monster von deinem Friedhof verbannst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem gewählten Ziel aus. (Diese Karte kann durch diesen Effekt zu jeder Zeit nur mit 1 Monster ausgerüstet sein.) Diese Karte erhält ATK und DEF in Höhe der ATK und DEF des ausrüstenden Monsters.",
+  "level": 8,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

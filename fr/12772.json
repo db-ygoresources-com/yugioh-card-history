@@ -1,0 +1,17 @@
+{
+  "id": 12772,
+  "type": "monster",
+  "name": "Paon Shinobaronne",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Appel Shinobiseau\". Uniquement Invocable Rituellement et non Invocable Spécialement autrement. Si cette carte est Invoquée Rituellement : vous pouvez mélanger max. 3 Cartes Magie/Piège contrôlées par votre adversaire dans le Deck, puis vous pouvez Invoquer Spécialement 1 monstre Spirit de max. Niveau 4 depuis votre Deck, en ignorant ses conditions d'Invocation. Une fois par tour, durant la End Phase, si cette carte a été Invoquée Spécialement ce tour : renvoyez-la à la main, et si vous le faites, Invoquez Spécialement 2 \"Jeton Shinobiseau\" (Type Bête Ailée/VENT/Niveau 4/ATK 1500/DEF 1500).",
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Bête Ailée",
+    "Rituel",
+    "Spirit",
+    "Effet"
+  ]
+}

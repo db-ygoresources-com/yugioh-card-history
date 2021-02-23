@@ -1,0 +1,15 @@
+{
+  "id": 4375,
+  "type": "monster",
+  "name": "Muro de Sombra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial con \"Laberinto Mágico\".",
+  "level": 7,
+  "atk": 1600,
+  "def": 3000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

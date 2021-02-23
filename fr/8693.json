@@ -1,0 +1,16 @@
+{
+  "id": 8693,
+  "type": "monster",
+  "name": "Ravitailleur Méchabot",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez ajouter 1 monstre \"Méchabot\" (\"Ravitailleur Méchabot\" exclu) depuis votre Deck à votre main. Une fois par tour, vous pouvez SOIT : ciblez 1 monstre Machine que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

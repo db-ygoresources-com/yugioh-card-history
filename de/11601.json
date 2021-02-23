@@ -1,0 +1,18 @@
+{
+  "id": 11601,
+  "type": "monster",
+  "name": "Kristallmeister",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Tribut anbieten; füge deiner Hand 1 „Ultimativer Kristall“-Monster, „Kristallungeheuer“-Monster oder „Kristall“-Zauber/Falle von deinem Deck hinzu.",
+  "pendEffect": "Dein Gegner kann weder „Ultimativer Kristall“-Monster noch „Kristallungeheuer“-Karten, die du kontrollierst, als Ziel für Karteneffekte wählen.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

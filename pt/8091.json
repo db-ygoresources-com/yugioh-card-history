@@ -1,0 +1,15 @@
+{
+  "id": 8091,
+  "type": "monster",
+  "name": "Dragão da Poeira Estelar/Modo de Ataque",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial com \"Ativar Modo de Ataque\" e não pode ser Invocado por Invocação-Especial de nenhuma outra forma, exceto por seu próprio efeito. Quando um card ou efeito for ativado (Efeito Rápido): você pode oferecer este card como Tributo; negue a ativação e, se isso acontecer, destrua-o. Durante a Fase Final, se este efeito foi ativado neste turno (e não foi negado): você pode Invocar este card por Invocação-Especial do seu Cemitério. Quando este card no campo for destruído: você pode escolher 1 \"Dragão da Poeira Estelar\" no seu Cemitério; Invoque o alvo por Invocação-Especial.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

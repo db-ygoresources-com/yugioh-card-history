@@ -1,0 +1,15 @@
+{
+  "id": 8156,
+  "type": "monster",
+  "name": "Starker Winddrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht durch Kampf mit einem Monster zerstört werden, das dieselben ATK hat. Falls diese Karte als Tributbeschwörung beschworen wird, indem ein Monster vom Typ Drache als Tribut angeboten wird: Sie erhält ATK in Höhe der Hälfte der Grund-ATK des als Tribut angebotenen Monsters. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

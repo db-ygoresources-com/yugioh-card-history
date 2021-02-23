@@ -1,0 +1,15 @@
+{
+  "id": 12915,
+  "type": "monster",
+  "name": "Magicien Céleste Potartiste",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, si vous activez une Carte Magie : cette carte gagne 300 ATK. (Effet Rapide) : vous pouvez cibler 1 Magie Continue que vous contrôlez ; renvoyez-la à la main, puis vous pouvez activer 1 Magie Continue \"Magicien\" depuis votre main. Vous ne pouvez utiliser cet effet de \"Magicien Céleste Potartiste\" qu'une fois par tour. Si cette carte face recto quitte le Terrain : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

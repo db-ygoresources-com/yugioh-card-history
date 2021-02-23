@@ -1,0 +1,18 @@
+{
+  "id": 12406,
+  "type": "monster",
+  "name": "Performapal Radish Horse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If your opponent controls a Special Summoned monster, and controls at least as many monsters as you, you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster on each player's field; until the end of this turn, that opponent's monster loses ATK equal to this card's ATK, and if it does, that monster you control gains ATK equal to this card's ATK.",
+  "pendEffect": "Once per turn: You can target 1 face-up monster your opponent controls, and 1 \"Performapal\" monster you control; that opponent's monster loses ATK equal to the ATK of that \"Performapal\" monster you control (even if this card leaves the field).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Plant",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 14930,
+  "type": "monster",
+  "name": "Dragón de Enlace de Cinco Cabezas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "5 monstruos\nDebe ser Invocado por Enlace. Si esta carta es Invocada por Enlace usando Atributos de OSCURIDAD, TIERRA, AGUA, FUEGO y VIENTO: puedes destruir todas las cartas que controle tu adversario. No puede ser destruido en batalla con un monstruo de OSCURIDAD, TIERRA, AGUA, FUEGO o VIENTO. No es afectado por los efectos de otras cartas. Una vez por turno, durante la End Phase de tu adversario: debes desterrar 5 cartas en tu Cementerio boca abajo (esto no es opcional), o mandar esta carta al Cementerio.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

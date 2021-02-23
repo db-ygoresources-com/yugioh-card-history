@@ -1,0 +1,19 @@
+{
+  "id": 14015,
+  "type": "monster",
+  "name": "Nephtys, la Préservatrice Sacrée",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres \"Nephtys\"\nVous ne pouvez utiliser l'effet suivant de \"Nephtys, la Préservatrice Sacrée\" qu'une fois par tour. Durant votre Main Phase, si cette carte a été Invoquée par Lien : vous pouvez activer 1 de ces effets ;\n●Ajoutez 1 monstre Bête Ailée de Niveau 8 depuis votre Deck à votre main, puis vous pouvez ajouter 1 Magie Rituelle depuis votre Cimetière à votre main.\n●Détruisez 1 monstre \"Nephtys\" pointé par cette carte, et Invoquez Spécialement 1 monstre \"Nephtys\" de nom d'origine différent depuis votre Cimetière, mais annulez ses effets.",
+  "linkRating": 2,
+  "linkArrows": [
+    "2",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Bête Ailée",
+    "Lien",
+    "Effet"
+  ]
+}

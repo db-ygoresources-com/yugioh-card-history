@@ -1,0 +1,15 @@
+{
+  "id": 8307,
+  "type": "monster",
+  "name": "Esprit de la Terre Immortel Cusillu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Il ne peut y avoir qu'1 monstre \"Esprit de la Terre Immortel\" sur le Terrain. S'il n'y a aucune Carte Magie de Terrain face recto sur le Terrain, détruisez cette carte. Votre adversaire ne peut pas cibler cette carte avec une attaque. Cette carte peut attaquer directement votre adversaire. Si cette carte va être détruite au combat, vous pouvez Sacrifier 1 autre monstre à la place, et si vous le faites, divisez par deux les LP de votre adversaire.",
+  "level": 10,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

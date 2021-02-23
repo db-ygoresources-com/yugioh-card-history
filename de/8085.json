@@ -1,0 +1,16 @@
+{
+  "id": 8085,
+  "type": "monster",
+  "name": "Gewittermagierin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Hexer\nWenn diese Karte als Synchrobeschwörung beschworen wird, lege 1 Zauberzählmarke darauf. Einmal pro Spielzug kannst du eine beliebige Anzahl Karten abwerfen, um 1 Zauberzählmarke für jede abgeworfene Karte auf Monster zu legen, die du kontrollierst. Du kannst alle Zauberzählmarken auf dem Spielfeld entfernen, um deinem Gegner 500 Schaden für jede entfernte Zauberzählmarke zuzufügen.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

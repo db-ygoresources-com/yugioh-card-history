@@ -1,0 +1,18 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "EM 라 팬더",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "\"EM(엔터메이트) 라 팬더\"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 펜듈럼 몬스터가 공격 대상으로 선택되었을 때에 발동할 수 있다. 그 공격을 무효로 한다.",
+  "pendEffect": "①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 이 카드의 펜듈럼 스케일을 1개 올린다(최대 12 까지).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "야수족",
+    "펜듈럼",
+    "효과"
+  ]
+}

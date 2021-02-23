@@ -1,0 +1,15 @@
+{
+  "id": 6428,
+  "type": "monster",
+  "name": "Uomo Batteria C",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se tutti gli \"Uomo Batteria C\" sul tuo Terreno sono in Posizione d'Attacco, aumenta l'ATK di tutti i mostri di Tipo Macchina sul tuo Terreno di 500 punti per ogni \"Uomo Batteria C\" sul tuo Terreno. Se tutti gli \"Uomo Batteria C\" sul tuo Terreno sono in Posizione di Difesa, aumenta il DEF di tutti i mostri di Tipo Macchina sul tuo Terreno di 500 punti per ogni \"Uomo Batteria C\" sul tuo Terreno.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Tuono",
+    "Effetto"
+  ]
+}

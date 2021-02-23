@@ -1,0 +1,15 @@
+{
+  "id": 13072,
+  "type": "monster",
+  "name": "Zombina",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez cibler 1 monstre de max. Niveau 4 dans votre Cimetière (\"Zombina\" exclu) ; Invoquez-le Spécialement.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

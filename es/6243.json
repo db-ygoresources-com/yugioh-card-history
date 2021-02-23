@@ -1,0 +1,15 @@
+{
+  "id": 6243,
+  "type": "monster",
+  "name": "Gato del Catnip",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta no puede ser atacada si hay otro monstruo de Tipo Bestia en tu Campo. Haz que la DEF de 1 monstruo en el Campo de tu adversario sea 0 hasta la End Phase. Este efecto solo puede ser usado una vez por turno.",
+  "level": 2,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

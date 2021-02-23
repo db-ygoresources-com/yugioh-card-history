@@ -1,0 +1,19 @@
+{
+  "id": 13510,
+  "type": "monster",
+  "name": "Dragon Doubloctet",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 Monstres Lien\nGagne une ATK égale à la somme des Classifications Lien des monstres utilisés pour son Invocation Lien x 300. Non affectée par les effets de monstre (effets de Monstre Lien exclus) et ne peut pas être détruite au combat, sauf au combat avec un Monstre Lien.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

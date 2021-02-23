@@ -1,0 +1,15 @@
+{
+  "id": 6004,
+  "type": "monster",
+  "name": "Diablillos Géminis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el turno de cualquier jugador, cuando tu adversario activa una Carta Mágica, de Trampa, o el efecto de un monstruo que te haría descartar cuando se resuelve: puedes mandar al Cementerio a esta carta en tu mano; niega la activación y, si lo haces, destruye la carta. Después roba 1 carta.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

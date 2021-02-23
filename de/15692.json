@@ -1,0 +1,15 @@
+{
+  "id": 15692,
+  "type": "monster",
+  "name": "Bewaffneter Drache Donner LV10",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte durch den Effekt eines „Bewaffnete/r Drache“-Monsters als Spezialbeschwörung beschworen wurde, erhält sie basierend auf ihren ATK die folgenden Effekte.\n●1+: Ihr Name wird zu „Bewaffneter Drache LV10“.\n●10+: Die Kontrolle über sie kann nicht wechseln.\n●100+: Kann nicht durch Kampf zerstört werden.\n●1000+: Einmal pro Spielzug eines Gegners (Schnelleffekt): Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 andere Karte auf dem Spielfeld wählen; zerstöre sie und falls du dies tust, erhält diese Karte 1000 ATK.\n●10000+: Einmal pro Spielzug: Du kannst alle anderen Karten auf dem Spielfeld zerstören.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

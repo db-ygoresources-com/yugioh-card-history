@@ -1,0 +1,15 @@
+{
+  "id": 14068,
+  "type": "monster",
+  "name": "Pericolo! Uomo Cane!",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi rivelare questa carta nella tua mano; il tuo avversario seleziona 1 carta a caso dalla tua intera mano, poi tu scarti la carta selezionata. Poi, se la carta scartata non era \"Pericolo! Uomo Cane!\", Evoca Specialmente 1 \"Pericolo! Uomo Cane!\" dalla tua mano e, se lo fai, pesca 1 carta. Se questa carta viene scartata: puoi far perdere 1000 ATK a tutti i mostri scoperti controllati attualmente dal tuo avversario fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Pericolo! Uomo Cane!\" una sola volta per turno.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerriero-Bestia",
+    "Effetto"
+  ]
+}

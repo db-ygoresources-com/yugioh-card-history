@@ -1,0 +1,15 @@
+{
+  "id": 10444,
+  "type": "monster",
+  "name": "Soldato Allenatore Lupoabbaia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro FUOCO Guerriero-Bestia di Livello 4 nel tuo Cimitero; Evocalo Specialmente in Posizione di Difesa, ma annulla i suoi effetti. Puoi utilizzare questo effetto di \"Soldato Allenatore Lupoabbaia\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerriero-Bestia",
+    "Effetto"
+  ]
+}

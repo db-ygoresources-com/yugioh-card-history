@@ -1,0 +1,15 @@
+{
+  "id": 9642,
+  "type": "monster",
+  "name": "Éléphant-Gemmes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant votre Main Phase : vous pouvez renvoyer cette carte face recto sur le Terrain à la main. Durant le calcul des dommages, si cette carte attaque ou a été attaquée : vous pouvez envoyer 1 Monstre Normal depuis votre main au Cimetière ; cette carte gagne 1000 DEF.",
+  "level": 3,
+  "atk": 400,
+  "def": 1900,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

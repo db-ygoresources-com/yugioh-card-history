@@ -1,0 +1,18 @@
+{
+  "id": 13862,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Zarte Madonna",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Erhält 100 ATK für jeden „Abgrundskript“-Zauber in deinem Friedhof. Du kannst jeden der folgenden Effekte von „Abgrundschauspieler - Zarte Madonna“ nur einmal pro Spielzug verwenden.\n●Wenn ein Pendelmonster, das du kontrollierst, durch Kampf zerstört wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.\n●Falls ein/e „Abgrundskript“-Zauberkarte oder -effekt aktiviert wird: Du kannst 1 „Abgrundschauspieler“-Pendelmonster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck beschwören, aber gib es während der End Phase auf die Hand zurück.",
+  "pendEffect": "Du kannst 1000 LP zahlen; füge deiner Hand 1 „Abgrundschauspieler“-Pendelmonster von deinem Deck hinzu, außer „Abgrundschauspieler - Zarte Madonna“, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Abgrundschauspieler“-Pendelmonstern (selbst falls diese Karte das Spielfeld verlässt). Du kannst diesen Effekt von „Abgrundschauspieler - Zarte Madonna“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 1800,
+  "def": 2500,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

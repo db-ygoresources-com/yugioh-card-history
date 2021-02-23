@@ -1,0 +1,17 @@
+{
+  "id": 11232,
+  "type": "monster",
+  "name": "Faucon Marionnette de l'Ombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez cibler 1 monstre \"Marionnette de l'Ombre\" (\"Faucon Marionnette de l'Ombre\" exclu) dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense face verso.\nSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez l'Invoquer Spécialement en Position de Défense face verso. Vous ne pouvez utiliser qu'1 effet de \"Faucon Marionnette de l'Ombre\" par tour, et uniquement une fois le tour.",
+  "level": 2,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

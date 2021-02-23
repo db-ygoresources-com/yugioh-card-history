@@ -1,0 +1,15 @@
+{
+  "id": 6086,
+  "type": "monster",
+  "name": "Hechicero de Magia Oscura",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando 2 monstruos de Tipo Lanzador de Conjuros de Nivel 6 o mayor, y no puede ser Invocado de Modo Especial de otra forma. Durante el turno de cualquier jugador, cuando una Carta de Trampa es activada: puedes negar la activación y, si lo haces, destruye la carta. Esta carta debe estar boca arriba en el Campo para activar y resolver este efecto.",
+  "level": 9,
+  "atk": 3200,
+  "def": 2800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

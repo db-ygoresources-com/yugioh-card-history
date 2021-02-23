@@ -1,0 +1,16 @@
+{
+  "id": 11234,
+  "type": "monster",
+  "name": "Shaddoll Squamata",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: You can target 1 monster on the field; destroy it.\nIf this card is sent to the GY by a card effect: You can send 1 \"Shaddoll\" card from your Deck to the GY, except \"Shaddoll Squamata\". You can only use 1 \"Shaddoll Squamata\" effect per turn, and only once that turn.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

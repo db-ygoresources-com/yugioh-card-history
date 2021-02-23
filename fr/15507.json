@@ -1,0 +1,15 @@
+{
+  "id": 15507,
+  "type": "monster",
+  "name": "Balle Cupide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si tous les monstres que vous contrôlez sont des monstres avec 600 DEF (min. 1) : vous pouvez Invoquer Spécialement cette carte depuis votre main. (Effet Rapide) : vous pouvez défausser 1 carte, puis ciblez 1 monstre LUMIÈRE Elfe que vous contrôlez et 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, le Niveau de votre monstre devient le Niveau de l'autre monstre. Vous ne pouvez utiliser chaque effet de \"Balle Cupide\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2200,
+  "def": 600,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

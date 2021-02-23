@@ -1,0 +1,16 @@
+{
+  "id": 5663,
+  "type": "monster",
+  "name": "Magical Merchant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
+  "level": 1,
+  "atk": 200,
+  "def": 700,
+  "properties": [
+    "Insect",
+    "Flip",
+    "Effect"
+  ]
+}

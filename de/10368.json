@@ -1,0 +1,15 @@
+{
+  "id": 10368,
+  "type": "monster",
+  "name": "Speerhai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst die Stufen aller Monster vom Typ Fisch der Stufe 3, die du derzeit kontrollierst, um 1 erhöhen. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

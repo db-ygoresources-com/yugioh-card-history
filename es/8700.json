@@ -1,0 +1,15 @@
+{
+  "id": 8700,
+  "type": "monster",
+  "name": "Esfera Transformadora",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo en Posición de Defensa boca arriba que controle tu adversario; descarta 1 carta y equipa ese objetivo a esta carta. (Sólo puedes equipar a esta carta 1 monstruo a la vez por este efecto.) Esta carta gana el ATK del monstruo equipado. Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase. Durante la End Phase: el monstruo equipado a esta carta por el efecto de esta carta es Invocado de Modo Especial al lado del Campo de tu adversario, en Posición de Defensa boca arriba.",
+  "level": 3,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

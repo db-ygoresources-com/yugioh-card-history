@@ -1,0 +1,15 @@
+{
+  "id": 5041,
+  "type": "monster",
+  "name": "Zeitfresser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn dieses Monster ein Monster auf der Spielfeldseite deines Gegners als Ergebnis eines Kampfes zerstört, überspringe die Main Phase 1 des nächsten Spielzugs deines Gegners.",
+  "level": 6,
+  "atk": 1900,
+  "def": 1700,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

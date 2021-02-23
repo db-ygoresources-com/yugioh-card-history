@@ -1,0 +1,16 @@
+{
+  "id": 14473,
+  "type": "monster",
+  "name": "Reptilianische Lamia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet und alle Monster, die du kontrollierst, offene Reptil-Monster sind (min. 1): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere seine ATK zu 0 und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, dann erhältst du Schaden in Höhe der Grund-ATK des Monsters. Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst bis zu 2 offene Monster auf dem Spielfeld wählen; ändere ihre ATK zu 0. Du kannst nur 1 Effekt von „Reptilianische Lamia“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Reptil",
+    "Empfänger",
+    "Effekt"
+  ]
+}

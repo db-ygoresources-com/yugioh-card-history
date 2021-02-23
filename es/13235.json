@@ -1,0 +1,16 @@
+{
+  "id": 13235,
+  "type": "monster",
+  "name": "Krawler Receptor",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: puedes añadir a tu mano 1 monstruo \"Krawler\" en tu Deck.\nSi esta carta boca arriba en control de su dueño deja el Campo por efecto de una carta de un adversario: puedes Invocar de Modo Especial, desde tu Deck, 2 monstruos \"Krawler\" con nombres diferentes, en Posición de Defensa boca abajo, excepto \"Krawler Receptor\". Sólo puedes usar cada efecto de \"Krawler Receptor\" una vez por turno.",
+  "level": 2,
+  "atk": 900,
+  "def": 1200,
+  "properties": [
+    "Insecto",
+    "Volteo",
+    "Efecto"
+  ]
+}

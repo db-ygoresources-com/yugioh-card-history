@@ -1,0 +1,15 @@
+{
+  "id": 6160,
+  "type": "monster",
+  "name": "Homme-Bloc",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Sacrifier cette carte ; Invoquez Spécialement un nombre de \"Jeton Bloc\" (Type Rocher/TERRE/Niveau 4/ATK 1000/DEF 1500) en Position de Défense, égal au nombre de vos tours où cette carte a été face recto sur votre Terrain. Ces Jetons ne peuvent pas déclarer d'attaque.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

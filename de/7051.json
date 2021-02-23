@@ -1,0 +1,15 @@
+{
+  "id": 7051,
+  "type": "monster",
+  "name": "Strahlender Jeral",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte auf den Friedhof gelegt wird (außer falls sie durch Kampf zerstört wird), erhältst du 1000 Life Points, falls „Die Zuflucht im Himmel“ auf dem Spielfeld liegt.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

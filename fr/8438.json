@@ -1,0 +1,15 @@
+{
+  "id": 8438,
+  "type": "monster",
+  "name": "Guerrier Maximum",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte attaque un monstre de l'adversaire, cette carte gagne 400 points d'ATK uniquement durant la Damage Step. Si cette carte détruit un monstre de l'adversaire au combat, cette carte devient de Niveau 2 et son ATK et sa DEF d'origine sont divisées par deux, jusqu'à votre prochaine Standby Phase.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

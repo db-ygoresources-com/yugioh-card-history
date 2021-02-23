@@ -1,0 +1,16 @@
+{
+  "id": 13923,
+  "type": "monster",
+  "name": "Colosse, Dragon du Tonnerre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Dragon du Tonnerre\" + 1 monstre Tonnerre\nUniquement Invocable par Fusion, ou Invocable Spécialement durant le tour où un effet de monstre Tonnerre a été activé dans la main, en Sacrifiant 1 Monstre à Effet non-Fusion Tonnerre (auquel cas vous n'utilisez pas \"Polymérisation\"). Les cartes ne peuvent pas être ajoutées depuis le Main Deck à la main de votre adversaire sauf en les piochant. Si cette carte va être détruite au combat ou par un effet de carte, vous pouvez bannir 1 monstre Tonnerre depuis votre Cimetière à la place.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2400,
+  "properties": [
+    "Tonnerre",
+    "Fusion",
+    "Effet"
+  ]
+}

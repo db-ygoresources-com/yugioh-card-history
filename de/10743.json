@@ -1,0 +1,15 @@
+{
+  "id": 10743,
+  "type": "monster",
+  "name": "Bewaffneter Beschützerdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Offene Ausrüstungskarten, die du kontrollierst, können nicht durch Karteneffekte zerstört werden. Diese Karte erhält 500 ATK für jede Ausrüstungskarte, mit der diese Karte ausgerüstet ist.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

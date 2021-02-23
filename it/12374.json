@@ -1,0 +1,19 @@
+{
+  "id": 12374,
+  "type": "monster",
+  "name": "Artistamico Momontappeto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "SCOPRI: Puoi scegliere come bersaglio 1 carta Posizionata sul Terreno; distruggila. Se questa carta viene Evocata Specialmente: puoi metterla coperta in Posizione di Difesa.",
+  "pendEffect": "A meno che tu abbia una carta nella tua altra Zona Pendulum, distruggi questa carta. Mentre questa carta è nella Zona Pendulum, qualsiasi danno da combattimento che subisci diventa la metà.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Scoperta",
+    "Effetto"
+  ]
+}

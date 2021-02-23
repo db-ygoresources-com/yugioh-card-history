@@ -1,0 +1,15 @@
+{
+  "id": 9641,
+  "type": "monster",
+  "name": "Fugitivo del Tiempo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante el turno de cualquier jugador: puedes descartar esta carta, y después seleccionar 1 monstruo de Tipo Psíquico que controles; destiérralo hasta tu próxima Standby Phase.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

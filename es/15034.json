@@ -1,0 +1,19 @@
+{
+  "id": 15034,
+  "type": "monster",
+  "name": "Mago Salpicadura",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 monstruos Ciberso\nPuedes seleccionar 1 monstruo Ciberso en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa, pero niega sus efectos, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos Ciberso. Sólo puedes usar este efecto de \"Mago Salpicadura\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "9",
+    "3"
+  ],
+  "atk": 1100,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

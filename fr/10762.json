@@ -1,0 +1,15 @@
+{
+  "id": 10762,
+  "type": "monster",
+  "name": "Grâce Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un ou plusieurs monstres de Type Zombie de min. Niveau 5 sont Invoqués Spécialement sur votre Terrain par l'effet d'un monstre de Type Zombie tant que cette carte est dans votre Cimetière : vous pouvez payer 2000 LP ; Invoquez Spécialement cette carte depuis votre Cimetière. Vous ne pouvez utiliser cet effet de \"Grâce Vampire\" qu'une fois par tour. Une fois par tour : vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) ; votre adversaire envoie 1 carte de ce type depuis son Deck au Cimetière.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9589,
+  "type": "monster",
+  "name": "Vylon Tesserakt",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du: Wähle 1 offenes „Vylon“-Monster, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Klinke diese Karte aus und beschwöre sie als Spezialbeschwörung in die offene Angriffsposition. Solange das ausgerüstete Monster durch diesen Effekt ausgerüstet ist, falls es ein Monster deines Gegners durch Kampf zerstört: Du kannst 1 „Vylon“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. (Ein Monster kann zu jeder Zeit nur mit 1 Union-Monster ausgerüstet sein. Falls das ausgerüstete Monster zerstört würde, zerstöre stattdessen diese Karte.)",
+  "level": 4,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

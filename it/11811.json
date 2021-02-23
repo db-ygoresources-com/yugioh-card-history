@@ -1,0 +1,18 @@
+{
+  "id": 11811,
+  "type": "monster",
+  "name": "Fuocavaliere Crociato",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Questo impulsivo guerriero Fuocavaliere è un fanatico della causa per cui combatte. A causa di questa passione, i suoi compagni lo tengono a distanza.",
+  "pendEffect": "Se hai una carta \"Fuocavaliere\" nella tua altra Zona Pendulum: puoi distruggere entrambe le carte nelle tue Zone Pendulum e, se lo fai, aggiungi 1 mostro FUOCO di Tipo Guerriero dal tuo Deck o Cimitero alla tua mano.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1600,
+  "def": 300,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14943,
+  "type": "monster",
+  "name": "Bloom Harmonist, die musikalische Komponistin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Fee-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Karte abwerfen; beschwöre 2 „Musikalisch“-Monster mit unterschiedlichen Stufen als Spezialbeschwörung von deinem Deck in die Verteidigungsposition in deine Zonen, auf die diese Karte zeigt. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer „Musikalisch“-Monstern. Du kannst diesen Effekt von „Bloom Harmonist, die musikalische Komponistin“ nur einmal pro Spielzug verwenden. Falls ein „Musikalisch“-Monster angreift, auf das diese Karte zeigt, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

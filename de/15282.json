@@ -1,0 +1,19 @@
+{
+  "id": 15282,
+  "type": "monster",
+  "name": "Alte Krieger schwören - Doppeldrachen-Lords",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 Ungeheuer-Krieger-Monster, darunter ein WIND „Alte Krieger“-Monster\nAlle „Alte Krieger“-Monster, die du kontrollierst, erhalten 500 ATK/DEF. Du kannst jeden der folgenden Effekte von „Alte Krieger schwören - Doppeldrachen-Lords“ nur einmal pro Spielzug verwenden. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst deiner Hand 1 „Alte Krieger“-Karte von deinem Deck hinzufügen. (Schnelleffekt): Du kannst 1 Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen und dann 1 offene Karte wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1100,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Link",
+    "Effekt"
+  ]
+}

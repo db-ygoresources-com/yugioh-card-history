@@ -1,0 +1,15 @@
+{
+  "id": 13053,
+  "type": "monster",
+  "name": "Dragon - Crackeur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non destructible au combat avec un monstre de Niveau inférieur ou égal. Lorsque votre adversaire Invoque Normalement ou Spécialement exactement 1 monstre (et aucun autre monstre n'est Invoqué) tant que ce monstre est sur le Terrain : vous pouvez faire perdre au monstre une ATK égale à son Niveau x 200 (jusqu'à la fin de ce tour), et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK perdue par cet effet.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

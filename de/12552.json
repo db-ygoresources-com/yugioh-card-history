@@ -1,0 +1,16 @@
+{
+  "id": 12552,
+  "type": "monster",
+  "name": "Galaxieaugen-Cipher-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 8\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; Monster, die du kontrollierst, können deinen Gegner für den Rest dieses Spielzugs nicht direkt angreifen, außer dieser Karte, zusätzlich übernimm bis zur End Phase die Kontrolle über das gewählte Monster, aber solange dieser Effekt angewendet wird, bleiben seine Effekte annulliert, seine ATK werden zu 3000, zusätzlich wird sein Name zu „Galaxieaugen-Cipher-Drache“.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Effekt"
+  ]
+}

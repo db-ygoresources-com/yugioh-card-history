@@ -1,0 +1,16 @@
+{
+  "id": 8549,
+  "type": "monster",
+  "name": "Télécommande, Allié Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre Syntoniseur face recto sur le Terrain. Le nom du monstre sélectionné est traité comme \"Contrôleur Genex\" jusqu'à la End Phase.",
+  "level": 3,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

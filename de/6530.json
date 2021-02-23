@@ -1,0 +1,15 @@
+{
+  "id": 6530,
+  "type": "monster",
+  "name": "Finsterer Ausrottungshexenmeister",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Dunkler Magier“ als Tribut anbietest, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Jedes Mal, wenn eine Normale Zauberkarte aktiviert wird, füge deinem Gegner 1000 Schaden zu, sofort nachdem sie aufgelöst wurde.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

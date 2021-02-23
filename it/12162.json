@@ -1,0 +1,16 @@
+{
+  "id": 12162,
+  "type": "monster",
+  "name": "Shiranui Shogunsaga",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "1 Tuner di Tipo Zombie + 1 o più mostri non-Tuner di Tipo Zombie\nSe questa carta viene Evocata Specialmente: puoi bandire 1 mostro di Tipo Zombie dal tuo Cimitero; questa carta guadagna ATK pari all'ATK originale del mostro bandito, fino alla fine di questo turno. Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta e mandata al Cimitero: puoi scegliere come bersaglio 1 dei tuoi mostri di Tipo Zombie banditi con DEF 0; fallo ritornare nel Cimitero. Puoi Evocare Specialmente uno o più \"Shiranui Shogunsaga\" una sola volta per turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effetto"
+  ]
+}

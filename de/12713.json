@@ -1,0 +1,18 @@
+{
+  "id": 12713,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Aufsässiger Neuling",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Das erste Mal, dass diese Karte in jedem Spielzug durch Kampf oder einen Karteneffekt zerstört würde, wird sie nicht zerstört. Falls diese Karte durch Kampf zerstört wird oder falls diese Karte in der Monsterzone ihres Besitzers durch einen Karteneffekt deines Gegners zerstört wird: Du kannst 1 „Abgrundschauspieler“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck beschwören, außer „Abgrundschauspieler - Aufsässiger Neuling“. Falls diese Karte in der Pendelzone zerstört wird: Du kannst 1 Monster der Stufe 4 oder niedriger wählen, das dein Gegner kontrolliert; zerstöre es.",
+  "pendEffect": "Falls ein oder mehr „Abgrundschauspieler“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

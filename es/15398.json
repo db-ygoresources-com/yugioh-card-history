@@ -1,0 +1,18 @@
+{
+  "id": 15398,
+  "type": "monster",
+  "name": "Electrodomésticor Aspirlefante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Electrodomésticor\"\nNo puede ser usado como Material de Enlace en el turno en el que fue Invocado por Enlace. Puede atacar directamente mientras no esté co-enlazado. Puedes mandar al Cementerio 1 carta en tu mano, y después seleccionar 1 carta que controle tu adversario; destrúyela. Si esta carta está co-enlazada: puedes seleccionar 1 monstruo en la Zona de Monstruos Principal de tu adversario; destrúyelo. Sólo puedes usar 1 efecto de \"Electrodomésticor Aspirlefante\" por turno, y sólo una vez ese turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

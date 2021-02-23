@@ -1,0 +1,15 @@
+{
+  "id": 8448,
+  "type": "monster",
+  "name": "Maga Solitaria",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno puedes seleccionar 1 monstruo \"Adivinadora\" boca arriba que controles y otro monstruo boca arriba en el Campo. Reduce en 3 el Nivel del monstruo \"Adivinadora\" seleccionado y destruye al otro monstruo.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

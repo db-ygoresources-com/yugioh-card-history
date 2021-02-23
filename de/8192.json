@@ -1,0 +1,16 @@
+{
+  "id": 8192,
+  "type": "monster",
+  "name": "Sprengstoff-Drachenschwinge",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Drache\nAm Beginn des Damage Steps, falls diese Karte gegen ein Monster kämpft: Du kannst das Monster zerstören und falls du dies tust, füge deinem Gegner Schaden in Höhe der ATK zu, die das zerstörte Monster auf dem Spielfeld hatte. Die ATK dieser Karte müssen größer oder gleich den ATK des Monsters sein, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

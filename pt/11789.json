@@ -1,0 +1,18 @@
+{
+  "id": 11789,
+  "type": "monster",
+  "name": "Camarartista Camededor",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se este card for destruído em batalha: você pode fazer com que o monstro que destruiu este card perca 800 de ATK.",
+  "pendEffect": "Uma vez por turno, durante sua Fase Principal 1: você pode escolher 1 monstro com a face para cima que você controla; até o final deste turno, os monstros que seu oponente controla atualmente perdem 800 de DEF e, se isso acontecer, se o monstro escolhido como alvo atacar um monstro em Posição de Defesa neste turno, cause dano de batalha perfurante ao seu oponente. (Esses efeitos permanecem mesmo que este card deixe o campo.)",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

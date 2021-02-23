@@ -1,0 +1,17 @@
+{
+  "id": 13455,
+  "type": "monster",
+  "name": "Marcheur Métallique Militaire",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez cibler 1 Syntoniseur dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, mais annulez ses effets. Vous ne pouvez utiliser cet effet de \"Marcheur Métallique Militaire\" qu'une fois par tour. Un Monstre Synchro qui a utilisé cette carte comme Matériel est traité comme Syntoniseur tant qu'il est face recto sur le Terrain.",
+  "level": 3,
+  "atk": 500,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

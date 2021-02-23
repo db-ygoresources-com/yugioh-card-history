@@ -1,0 +1,15 @@
+{
+  "id": 8002,
+  "type": "monster",
+  "name": "Réacteur de Magie ・CIEL",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, lorsque votre adversaire active une Carte Magie, vous pouvez détruire la Carte Magie et infliger 800 points de dommages à votre adversaire.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

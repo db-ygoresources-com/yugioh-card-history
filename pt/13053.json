@@ -1,0 +1,15 @@
+{
+  "id": 13053,
+  "type": "monster",
+  "name": "Dragão Crack",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser destruído em batalha com um monstro de Nível menor ou igual. Quando seu oponente Invocar exatamente 1 monstro por Invocação-Normal ou Especial (e nenhum outro monstro for Invocado) enquanto este monstro estiver no campo: você pode fazer com que esse monstro perca ATK igual ao seu próprio Nível x 200 (até o final deste turno) e, se isso acontecer, cause dano ao seu oponente igual ao ATK reduzido por este efeito.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

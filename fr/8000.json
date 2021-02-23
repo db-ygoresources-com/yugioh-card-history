@@ -1,0 +1,15 @@
+{
+  "id": 8000,
+  "type": "monster",
+  "name": "Réacteur de Piège ・DU",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, lorsque votre adversaire active une Carte Piège, vous pouvez détruire la Carte Piège et infliger 800 points de dommages à votre adversaire.",
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

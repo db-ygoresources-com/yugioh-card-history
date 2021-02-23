@@ -1,0 +1,18 @@
+{
+  "id": 13462,
+  "type": "monster",
+  "name": "Drago Rivoluzione Occhi Diversi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Pendulum (dalla tua mano), o essere Evocato Specialmente (dalla tua mano) offrendo come Tributo 3 mostri Drago (1 Fusione, 1 Synchro e 1 Xyz). Puoi scartare questa carta e pagare 500 LP: aggiungi 1 Mostro Pendulum Drago di Livello 8 o inferiore dal tuo Deck alla tua mano. Guadagna ATK/DEF pari alla metà dei LP del tuo avversario. Una volta per turno: puoi pagare la metà dei tuoi LP; mischia tutte le altre carte dal Terreno e dai Cimiteri nel Deck.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri Drago. Questo effetto non può essere annullato. Puoi scegliere come bersaglio 1 Mostro Drago Fusione, Synchro o Xyz nel tuo Cimitero; distruggi questa carta e, se lo fai, Evoca Specialmente quel bersaglio.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

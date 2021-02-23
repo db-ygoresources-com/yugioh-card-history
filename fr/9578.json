@@ -1,0 +1,16 @@
+{
+  "id": 9578,
+  "type": "monster",
+  "name": "Buten",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant votre Main Phase : vous pouvez bannir cette carte depuis le Cimetière pour cibler 1 monstre LUMIÈRE de Type Elfe de max. Niveau 4 face recto que vous contrôlez ; il est traité comme un monstre Syntoniseur tant qu'il est face recto sur le Terrain.",
+  "level": 1,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Elfe",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

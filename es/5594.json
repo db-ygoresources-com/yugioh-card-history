@@ -1,0 +1,15 @@
+{
+  "id": 5594,
+  "type": "monster",
+  "name": "Cancelador de Hechizos",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Las Cartas Mágicas, y sus efectos en el Campo, no pueden ser activadas. Niega todos los efectos de Mágicas en el Campo.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

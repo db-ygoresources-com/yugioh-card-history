@@ -1,0 +1,18 @@
+{
+  "id": 11460,
+  "type": "monster",
+  "name": "D/D/D Re Ribelle Leonidas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando subisci danno da effetto (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, guadagni LP pari al danno che hai subito. Non subisci danno da effetto.",
+  "pendEffect": "Quando subisci danno da effetto (eccetto durante il Damage Step): puoi distruggere questa carta e, se lo fai, qualsiasi effetto che sta per infliggere danno a un giocatore in questo turno aumenta invece i suoi LP dello stesso ammontare.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

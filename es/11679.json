@@ -1,0 +1,18 @@
+{
+  "id": 11679,
+  "type": "monster",
+  "name": "Artistamigo Robagarto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si otro monstruo boca arriba que controles es destruido por un ataque o efecto de carta de tu adversario: puedes robar tantas cartas como la cantidad de monstruos \"Artistamigo\" que controles en este momento. Sólo puedes usar este efecto de \"Artistamigo Robagarto\" una vez por turno.",
+  "pendEffect": "Si tienes una carta \"Artistamigo\" en tu otra Zona del Péndulo, excepto \"Artistamigo Robagarto\": puedes destruir esta carta y, si lo haces, roba 1 carta. Sólo puedes usar este efecto de \"Artistamigo Robagarto\" una vez por turno.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Reptil",
+    "Péndulo",
+    "Efecto"
+  ]
+}

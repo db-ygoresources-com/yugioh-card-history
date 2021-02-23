@@ -1,0 +1,16 @@
+{
+  "id": 5651,
+  "type": "monster",
+  "name": "Vieux Magicien Vindicatif",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Ciblez 1 monstre contrôlé par votre adversaire ; détruisez la cible.",
+  "level": 2,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

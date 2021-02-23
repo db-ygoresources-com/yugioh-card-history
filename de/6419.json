@@ -1,0 +1,15 @@
+{
+  "id": 6419,
+  "type": "monster",
+  "name": "B.E.S. Kristallkern",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Lege 3 Zählmarken auf diese Karte, wenn du sie als Normalbeschwörung beschwörst. Diese Karte wird nicht als Ergebnis eines Kampfes zerstört. Falls diese Karte mit einem Monster kämpft, entferne am Ende des Damage Steps 1 Zählmarke von dieser Karte. Falls diese Karte ohne Zählmarken kämpft, zerstöre diese Karte am Ende des Damage Steps. Einmal pro Spielzug, während deiner Main Phase, kannst du 1 offenes Monster in Angriffsposition auf der Spielfeldseite deines Gegners in die offene Verteidigungsposition ändern.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

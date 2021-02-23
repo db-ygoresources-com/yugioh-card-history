@@ -1,0 +1,16 @@
+{
+  "id": 11715,
+  "type": "monster",
+  "name": "Diva Fleur la Choriste de la Musique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre \"Maestria de la Musique\" + 1 monstre \"Musique\"\nNon destructible ni au combat ni par des effets de carte, et aussi, vous ne recevez aucun dommage de combat des attaques impliquant cette carte. Si cette carte combat un monstre Invoqué Spécialement, après le calcul des dommages : vous pouvez infliger des dommages à votre adversaire égaux à la différence entre l'ATK d'origine du monstre de votre adversaire et de cette carte, et si vous le faites, détruisez le monstre de votre adversaire.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11218,
+  "type": "monster",
+  "name": "Artistamico Caleidoscorpione",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto che controlli; in questo turno, esso può attaccare tutti i mostri Evocati Specialmente controllati dal tuo avversario, una volta ciascuno.",
+  "pendEffect": "Tutti i mostri LUCE che controlli guadagnano 300 ATK.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "Insetto",
+    "Pendulum",
+    "Effetto"
+  ]
+}

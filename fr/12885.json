@@ -1,0 +1,16 @@
+{
+  "id": 12885,
+  "type": "monster",
+  "name": "Casse-Cou Frourreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Lutin Tranchant\" + 1 monstre \"Peluchimal\"\nLorsque cette carte détruit un monstre de votre adversaire au combat : vous pouvez infliger 1000 points de dommages à votre adversaire. Si cette carte face recto est détruite au combat, ou quitte le Terrain à cause d'un effet de carte de votre adversaire tant que son propriétaire la contrôle : vous pouvez infliger 500 points de dommages à votre adversaire pour chaque monstre \"Frourreur\" dans votre Cimetière. Vous ne pouvez utiliser cet effet de \"Casse-Cou Frourreur\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6738,
+  "type": "monster",
+  "name": "Submarineroid",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Esta carta puede atacar a tu adversario directamente, pero cuando lo hace usando este efecto, el daño de batalla que inflige a tu adversario es el ATK original de esta carta. Al final del Damage Step, si esta carta atacó o fue atacada: puedes cambiar esta carta a Posición de Defensa.",
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

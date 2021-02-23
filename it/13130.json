@@ -1,0 +1,18 @@
+{
+  "id": 13130,
+  "type": "monster",
+  "name": "Artistamico Mago Cinque-Arcobaleni",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se qualsiasi giocatore Posiziona una Magia/Trappola sul tuo Terreno mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Non puoi Evocare Pendulum, eccetto dall'Extra Deck. Questo effetto non può essere annullato. Ogni giocatore applica 1 di questi effetti a seconda del numero di carte Posizionate nelle sue Zone Magie & Trappole.\n●0: Tutti i mostri che controlla non possono attaccare o attivare i loro effetti.\n●4 o più: L'ATK di tutti i mostri che controlla diventa il doppio del loro ATK originale.",
+  "pendScale": 12,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

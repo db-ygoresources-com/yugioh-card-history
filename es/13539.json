@@ -1,0 +1,16 @@
+{
+  "id": 13539,
+  "type": "monster",
+  "name": "F.A. Casa Rodante",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nGana ATK igual a su Nivel x 300. Cada vez que es activada una Carta Mágica/de Trampa \"F.A.\" o un efecto de Mágica/de Trampa \"F.A.\": puedes aumentar el Nivel de esta carta en 1. Esta carta gana el o los siguientes efectos, basándose en su Nivel en este momento.\n●Nivel 11 o mayor: No puede ser destruida en batalla o por efectos de cartas.\n●Nivel 13 o mayor: Una vez por turno: puedes seleccionar 1 monstruo \"F.A.\" en tu Cementerio; Invócalo de Modo Especial.",
+  "level": 9,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

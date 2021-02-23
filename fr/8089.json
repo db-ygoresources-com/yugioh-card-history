@@ -1,0 +1,15 @@
+{
+  "id": 8089,
+  "type": "monster",
+  "name": "Tragoedia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque vous recevez des dommages de combat : vous pouvez Invoquer Spécialement cette carte depuis votre main. Gagne 600 ATK/DEF pour chaque carte dans votre main. Une fois par tour : vous pouvez envoyer 1 monstre depuis votre main au Cimetière, puis ciblez 1 monstre face recto contrôlé par votre adversaire du même Niveau que le monstre envoyé avait dans la main ; prenez le contrôle du monstre face recto. Une fois par tour : vous pouvez cibler 1 monstre dans votre Cimetière ; jusqu'à la fin de ce tour, le Niveau de cette carte devient le même que celui de la cible.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

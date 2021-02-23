@@ -1,0 +1,15 @@
+{
+  "id": 10583,
+  "type": "monster",
+  "name": "Chickolates Magidulce",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta en tu posesión es destruida por una carta de tu adversario (ya sea en batalla o por el efecto de una carta) y mandada al Cementerio: baraja esta carta al Deck. Una vez por turno, cuando es cambiada la posición de batalla de uno o más monstruos \"Magidulce\" que controlas (y que ahora está boca arriba), mientras esta carta esté boca arriba en el Campo (excepto durante el Damage Step): puedes seleccionar 1 monstruo en el Campo; cámbialo a Posición de Defensa boca arriba y, si lo haces, a menos que sea un monstruo \"Magidulce\", no puede atacar, y además sus efectos son negados.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

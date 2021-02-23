@@ -1,0 +1,15 @@
+{
+  "id": 5657,
+  "type": "monster",
+  "name": "Científico Mágico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Paga 1000 Life Points para Invocar mediante una Invocación Especial 1 Monstruo de Fusión de Nivel 6 o inferior de tu Deck Extra. Ese Monstruo de Fusión no puede atacar los Life Points de tu adversario directamente, y es devuelto a tu Deck Extra al final del turno.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

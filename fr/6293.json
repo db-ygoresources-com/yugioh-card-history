@@ -1,0 +1,15 @@
+{
+  "id": 6293,
+  "type": "monster",
+  "name": "Vampire Genesis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable. Uniquement Invocable Spécialement (depuis votre main) en bannissant 1 \"Seigneur Vampire\" que vous contrôlez et non Invocable Spécialement autrement. Une fois par tour : vous pouvez défausser 1 monstre de Type Zombie au Cimetière, puis ciblez 1 monstre de Type Zombie dans votre Cimetière d'un Niveau inférieur à celui du monstre de Type Zombie défaussé ; Invoquez Spécialement la cible.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

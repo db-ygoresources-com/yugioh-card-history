@@ -1,0 +1,18 @@
+{
+  "id": 11353,
+  "type": "monster",
+  "name": "Explorador Qlifuerte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Iniciando en Modo Réplica...\nOcurrió un error mientras se ejecutaba C:\\sophia\\zefra.exe\nEditor desconocido.\n¿Permitir ejecutar C:\\tierra\\qlifuerte.exe? ＜S／N＞... [S]\nIniciando en Modo Autónomo…",
+  "pendEffect": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"Qli\". Este efecto no puede ser negado. Una vez por turno: puedes pagar 800 LP; añade a tu mano 1 carta \"Qli\" en tu Deck, excepto \"Explorador Qlifuerte\".",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Normal"
+  ]
+}

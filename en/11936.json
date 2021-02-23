@@ -1,0 +1,19 @@
+{
+  "id": 11936,
+  "type": "monster",
+  "name": "Nobledragon Magician",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Cannot be used as Synchro Material, except for the Synchro Summon of a Dragon Synchro Monster. If this card is used as Synchro Material, unless all other Synchro Materials are \"Odd-Eyes\" monsters, place this card on the bottom of the Deck. If this card is in your hand or GY: You can target 1 Level 7 or higher \"Odd-Eyes\" monster you control; reduce its Level by 3, and if you do, Special Summon this card.",
+  "pendEffect": "Unless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 700,
+  "def": 1400,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Tuner",
+    "Effect"
+  ]
+}

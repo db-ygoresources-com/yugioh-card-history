@@ -1,0 +1,16 @@
+{
+  "id": 8860,
+  "type": "monster",
+  "name": "Robot de la Dévastation",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Robot Synchronique\" + 1 monstre non-Syntoniseur ou plus\nLorsque cette carte est Invoquée par Synchronisation : vous pouvez cibler un nombre de cartes sur le Terrain, inférieur ou égal au nombre de monstres non-Syntoniseur utilisés pour l'Invocation Synchro de cette carte ; détruisez les cibles.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

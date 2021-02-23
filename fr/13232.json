@@ -1,0 +1,16 @@
+{
+  "id": 13232,
+  "type": "monster",
+  "name": "Épine Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez cibler 1 monstre sur le Terrain ; détruisez le monstre.\nSi cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 2 monstres \"Krawler\" (\"Épine Krawler\" exclu) de noms différents depuis votre Deck en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Épine Krawler\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

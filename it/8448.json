@@ -1,0 +1,15 @@
+{
+  "id": 8448,
+  "type": "monster",
+  "name": "Mago Solitario",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, puoi scegliere 1 mostro \"Signora della Fortuna\" scoperto che controlli e 1 altro mostro scoperto sul Terreno. Riduci di 3 il Livello del mostro \"Signora della Fortuna\" scelto, e distruggi l'altro mostro scelto.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

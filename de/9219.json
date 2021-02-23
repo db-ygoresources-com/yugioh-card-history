@@ -1,0 +1,16 @@
+{
+  "id": 9219,
+  "type": "monster",
+  "name": "Tollkühner Draufgänger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger-Monster vom Typ Krieger + 1 oder mehr Nicht-Empfänger-Monster vom Typ Krieger\nDiese Karte kann nicht durch Kampf zerstört werden, wenn sie von einem Monster mit höheren ATK angegriffen wird. Nach der Schadensberechnung, falls diese Karte von einem Monster mit höheren ATK angegriffen wurde: Zerstöre das Monster deines Gegners, gegen das sie gekämpft hat.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

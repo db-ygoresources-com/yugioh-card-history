@@ -1,0 +1,15 @@
+{
+  "id": 15394,
+  "type": "monster",
+  "name": "Disjonctarboucle Électroménageur",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant le calcul des dommages, si un autre monstre \"Électroménageur\" que vous contrôlez combat un monstre de l'adversaire (Effet Rapide) : vous pouvez défausser cette carte ; le monstre que vous contrôlez ne peut pas être détruit par ce combat, et aussi, vous ne recevez aucun dommage de combat. Si un ou plusieurs monstres \"Électroménageur\" que vous contrôlez vont être détruits par un effet de carte, vous pouvez bannir cette carte depuis votre Terrain ou Cimetière à la place.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

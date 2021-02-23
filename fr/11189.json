@@ -1,0 +1,15 @@
+{
+  "id": 11189,
+  "type": "monster",
+  "name": "Main Magique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque votre adversaire ajoute une ou plusieurs cartes depuis son Deck à sa main, sauf en les piochant (sauf durant la Damage Step) : vous pouvez envoyer ces cartes au Cimetière, et si vous le faites, infligez 800 points de dommages à votre adversaire. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

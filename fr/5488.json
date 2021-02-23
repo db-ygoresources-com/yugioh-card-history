@@ -1,0 +1,15 @@
+{
+  "id": 5488,
+  "type": "monster",
+  "name": "Chevalier Épée",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Gagne 400 ATK tant que vous avez max. 1 carte dans votre main. Si vous ne contrôlez aucun autre monstre, les effets de monstres Flip détruits au combat avec cette carte sont annulés.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

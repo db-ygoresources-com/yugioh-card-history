@@ -1,0 +1,15 @@
+{
+  "id": 7337,
+  "type": "monster",
+  "name": "Mormolith",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Sacrificar 1 monstruo de TIERRA boca arriba para destruir todos los monstruos boca arriba con una DEF igual o menor que el ATK de la carta Sacrificada.",
+  "level": 4,
+  "atk": 1000,
+  "def": 900,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

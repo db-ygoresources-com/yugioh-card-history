@@ -1,0 +1,15 @@
+{
+  "id": 8030,
+  "type": "monster",
+  "name": "Scarabée Chasseur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Tant que vous contrôlez un monstre de Type Insecte (cette carte exclue), si un monstre de Type Insecte que vous contrôlez attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

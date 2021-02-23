@@ -1,0 +1,15 @@
+{
+  "id": 11799,
+  "type": "monster",
+  "name": "Performage Damage Juggler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When a card or effect is activated that would inflict damage to you (Quick Effect): You can discard this card; negate the activation, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can discard this card; reduce the next battle damage you would take this turn to 0. You can banish this card from your GY; add 1 \"Performage\" monster from your Deck to your hand, except \"Performage Damage Juggler\". You can only use this effect of \"Performage Damage Juggler\" once per turn.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

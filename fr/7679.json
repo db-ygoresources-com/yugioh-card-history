@@ -1,0 +1,16 @@
+{
+  "id": 7679,
+  "type": "monster",
+  "name": "Guerrier de la Route",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Route Synchronique\" + 2 monstres non-Syntoniseur ou plus\nUne fois par tour : vous pouvez Invoquer Spécialement 1 monstre de Type Guerrier ou Machine de max. Niveau 2 depuis votre Deck.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

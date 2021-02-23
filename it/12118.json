@@ -1,0 +1,18 @@
+{
+  "id": 12118,
+  "type": "monster",
+  "name": "Samurai Superpesante Generale Giada",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi Evocare tramite Tributo questa carta offrendo come Tributo 1 mostro \"Samurai Superpesante\". Quando questa carta viene Evocata Normalmente o Specialmente: puoi cambiare la sua posizione. Questa carta può attaccare mentre è scoperta in Posizione di Difesa. Se lo fa, applica il suo DEF per il calcolo dei danni.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Samurai Superpesante\". Questo effetto non può essere annullato. Una volta per turno: puoi scegliere come bersaglio 1 mostro \"Samurai Superpesante\" che controlli; aumenta il suo Livello di 1 (anche se questa carta lascia il Terreno).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

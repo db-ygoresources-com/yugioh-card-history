@@ -1,0 +1,15 @@
+{
+  "id": 8446,
+  "type": "monster",
+  "name": "Adivinadora Oscura",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El ATK y la DEF de esta carta son iguales a su Nivel x 400. Durante cada una de tus Standby Phases, incrementa en 1 el Nivel de esta carta (max. 12). Cuando 1 monstruo \"Adivinadora\" boca arriba que controles destruye un monstruo de tu adversario en batalla y lo manda al Cementerio, puedes seleccionar e Invocar de Modo Especial, desde tu Cementerio, 1 monstruo \"Adivinadora\".",
+  "level": 5,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

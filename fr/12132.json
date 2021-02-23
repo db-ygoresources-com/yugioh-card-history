@@ -1,0 +1,18 @@
+{
+  "id": 12132,
+  "type": "monster",
+  "name": "Stégos Dinobrume",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un autre Monstre Pendule que vous contrôlez combat un monstre de votre adversaire, après le calcul des dommages : vous pouvez détruire ces monstres.",
+  "pendEffect": "Si une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez vont être détruites au combat ou par un effet de carte de votre adversaire, vous pouvez détruire cette carte à la place.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

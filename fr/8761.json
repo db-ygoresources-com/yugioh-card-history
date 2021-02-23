@@ -1,0 +1,15 @@
+{
+  "id": 8761,
+  "type": "monster",
+  "name": "Prêtresse des Protecteurs du Tombeau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant qu'il n'y a aucune Magie de Terrain face recto, le Terrain est traité comme \"Vallée Mortuaire\". Tous les monstres \"Protecteurs du Tombeau\" sur le Terrain gagnent 200 ATK/DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

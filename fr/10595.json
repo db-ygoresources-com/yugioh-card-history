@@ -1,0 +1,15 @@
+{
+  "id": 10595,
+  "type": "monster",
+  "name": "Chevalier Noble Gwalchavad",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain. Tant qu'elle est équipée avec une Carte Magie d'Équipement \"Armes Nobles\", cette carte devient un Monstre à Effet avec cet effet.\n●Vous pouvez cibler 1 monstre \"Chevalier Noble\" dans votre Cimetière ; ajoutez-le à votre main, et si vous le faites, détruisez 1 Carte Magie d'Équipement \"Armes Nobles\" que vous contrôlez. Vous ne pouvez utiliser cet effet de \"Chevalier Noble Gwalchavad\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

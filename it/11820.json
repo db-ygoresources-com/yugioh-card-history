@@ -1,0 +1,15 @@
+{
+  "id": 11820,
+  "type": "monster",
+  "name": "Aromagus Rosmarino",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre i tuoi LP sono più alti di quelli del tuo avversario, se un mostro Pianta che controlli attacca, il tuo avversario non può attivare effetti di mostri fino alla fine del Damage Step. Una volta per turno, se guadagni LP: scegli come bersaglio 1 mostro scoperto sul Terreno; cambia la sua Posizione.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

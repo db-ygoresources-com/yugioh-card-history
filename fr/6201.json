@@ -1,0 +1,16 @@
+{
+  "id": 6201,
+  "type": "monster",
+  "name": "Dekoichi, la Locomotive de Guerre Enchantée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Piochez 1 carte, puis piochez 1 carte supplémentaire pour chaque \"Bokoichi, le Wagon de Terreur\" face recto que vous contrôlez.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12145,
+  "type": "monster",
+  "name": "Al-Espej'ismo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Todos los monstruos en el Campo pierden ATK y DEF iguales a su propio Nivel/Rango x 300.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Wyrm",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10919,
+  "type": "monster",
+  "name": "Sciamano - Custode di Tombe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Guadagna 200 DEF per ogni mostro \"Custode di Tombe\" nel tuo Cimitero. Annulla tutti gli effetti dei mostri che si attivano nel Cimitero, eccetto i mostri \"Custode di Tombe\". Mentre \"Necrovalle\" è sul Terreno, il tuo avversario non può attivare Carte Magia Terreno, inoltre le Carte Magia Terreno non possono essere distrutte dagli effetti delle carte del tuo avversario.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

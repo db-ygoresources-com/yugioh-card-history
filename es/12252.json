@@ -1,0 +1,16 @@
+{
+  "id": 12252,
+  "type": "monster",
+  "name": "Dragón Explosivo de Ojos Azules de Dos Cabezas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Dragón Blanco de Ojos Azules\" + \"Dragón Blanco de Ojos Azules\"\nDebe ser Invocado por Fusión, o Invocado de Modo Especial mandando al Cementerio los monstruos mencionados arriba que controles. No puede ser destruido en batalla. Esta carta puede hacer hasta 2 ataques a monstruos durante cada Battle Phase. Al final del Damage Step, cuando esta carta ataca a un monstruo del adversario, pero el monstruo del adversario no fue destruido en batalla: puedes desterrar ese monstruo del adversario.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

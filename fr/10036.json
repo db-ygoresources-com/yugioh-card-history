@@ -1,0 +1,15 @@
+{
+  "id": 10036,
+  "type": "monster",
+  "name": "Espillon Machaon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un autre monstre que vous contrôlez inflige des dommages de combat à votre adversaire : ciblez 1 monstre face recto contrôlé par votre adversaire ; il perd une ATK égale aux dommages de combat infligés.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

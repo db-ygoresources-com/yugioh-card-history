@@ -1,0 +1,20 @@
+{
+  "id": 14940,
+  "type": "monster",
+  "name": "Bestia Fantasma Meccanica Auroradon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "2+ mostri Macchina\nSe questa carta viene Evocata Link: puoi attivare questo effetto; Evoca Specialmente 3 \"Segna-Bestia Fantasma Meccanica\" (Macchina/VENTO/Livello 3/ATK 0/DEF 0), inoltre non puoi Evocare Link per il resto di questo turno. Una volta per turno: puoi offrire come Tributo fino a 3 mostri, poi applicare 1 di questi effetti, a seconda del numero che hai offerto come Tributo;\n●1: Distruggi 1 carta sul Terreno.\n●2: Evoca Specialmente 1 mostro \"Bestia Fantasma Meccanica\" dal tuo Deck.\n●3: Aggiungi 1 Trappola dal tuo Cimitero alla tua mano.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "2",
+    "3"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Macchina",
+    "Link",
+    "Effetto"
+  ]
+}

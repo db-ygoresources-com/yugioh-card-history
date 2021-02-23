@@ -1,0 +1,15 @@
+{
+  "id": 8934,
+  "type": "monster",
+  "name": "Guerrier de Rapidité",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte attaque, elle gagne 1200 points d'ATK durant la Damage Step uniquement.",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

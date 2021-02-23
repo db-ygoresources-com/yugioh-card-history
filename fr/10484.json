@@ -1,0 +1,15 @@
+{
+  "id": 10484,
+  "type": "monster",
+  "name": "Mimimic",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si votre adversaire contrôle un monstre et que vous contrôlez un monstre de Niveau 3, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Mimimic\" qu'une fois par tour de cette façon.",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

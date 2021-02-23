@@ -1,0 +1,15 @@
+{
+  "id": 5775,
+  "type": "monster",
+  "name": "Arcidemone Torre della Morte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Il controllore di questa carta paga 500 Life Points durante ogni sua Standby Phase (non è opzionale). Quando questa carta viene designata come bersaglio dell'effetto di una carta controllata dal tuo avversario, quando l'effetto viene risolto, tira un dado. Se il risultato è 3, annulla l'effetto e distruggi la carta dell'avversario. Quando un \"Arcidemone Re del Terrore\" sul tuo Terreno viene distrutto e mandato al Cimitero, manda questa carta dalla tua mano al Cimitero per Evocare tramite Evocazione Speciale quel \"Arcidemone Re del Terrore\".",
+  "level": 3,
+  "atk": 1100,
+  "def": 1800,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

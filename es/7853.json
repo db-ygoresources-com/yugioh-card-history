@@ -1,0 +1,15 @@
+{
+  "id": 7853,
+  "type": "monster",
+  "name": "Mano de los Seis Samuráis",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si controlas otro monstruo \"Seis Samuráis\": puedes Sacrificar 1 monstruo \"Seis Samuráis\", y después selecciona 1 monstruo en el Campo; destruye ese objetivo.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

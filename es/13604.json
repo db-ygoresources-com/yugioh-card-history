@@ -1,0 +1,19 @@
+{
+  "id": 13604,
+  "type": "monster",
+  "name": "Vampira Chupasangre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Zombi\nSi fueras a Sacrificar uno o más monstruos para una Invocación por Sacrificio, puedes Sacrificar uno o más monstruos Zombi que controle tu adversario aunque no los controles tú. Sólo puedes usar cada uno de los siguientes efectos de \"Vampira Chupasangre\" una vez por turno.\n●Puedes seleccionar 1 monstruo en el Cementerio de tu adversario; Invócalo de Modo Especial al Campo de tu adversario, en Posición de Defensa, pero éste se convierte en un monstruo Zombi.\n●Si uno o más monstruos Zombi son Invocados de Modo Especial desde cualquier Cementerio: roba 1 carta.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Zombi",
+    "Enlace",
+    "Efecto"
+  ]
+}

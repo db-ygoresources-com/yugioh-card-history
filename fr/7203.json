@@ -1,0 +1,16 @@
+{
+  "id": 7203,
+  "type": "monster",
+  "name": "Pyron, Roi Ardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ● Une fois par tour, vous pouvez infliger 1000 points de dommages à votre adversaire.",
+  "level": 5,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Pyro",
+    "Gémeau",
+    "Effet"
+  ]
+}

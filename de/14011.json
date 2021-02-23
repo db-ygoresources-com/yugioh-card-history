@@ -1,0 +1,15 @@
+{
+  "id": 14011,
+  "type": "monster",
+  "name": "Chronistin von Nephthys",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst 1 „Nephthys“-Karte in deinem Friedhof wählen, außer „Chronistin von Nephthys“; zerstöre 1 Karte in deiner Hand und falls du dies tust, füge das gewählte Ziel deiner Hand hinzu. Während deiner nächsten Standby Phase, nachdem diese Karte durch einen Karteneffekt zerstört und auf den Friedhof gelegt wurde: Du kannst deiner Hand 1 „Nephthys“-Karte von deinem Friedhof hinzufügen, außer „Chronistin von Nephthys“. Du kannst jeden Effekt von „Chronistin von Nephthys“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

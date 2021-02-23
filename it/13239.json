@@ -1,0 +1,16 @@
+{
+  "id": 13239,
+  "type": "monster",
+  "name": "Ragnarok Metafisico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi bandire le prime 3 carte del tuo Deck e, se lo fai, questa carta guadagna 300 ATK per ogni carta \"Metafisico\" bandita da questo effetto. Quando questa carta infligge danno da combattimento al tuo avversario: puoi Evocare Specialmente 1 mostro \"Metafisico\" di Livello 5 o superiore dal tuo Deck, ma bandiscilo durante la End Phase del prossimo turno. Puoi utilizzare ogni effetto di \"Ragnarok Metafisico\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Wyrm",
+    "Tuner",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11135,
+  "type": "monster",
+  "name": "Mago Contemplatiempo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cada turno, la o las primeras cartas en tu Zona de Péndulo que fueran a ser destruidas por el efecto de una carta del adversario, no son destruidas.",
+  "pendEffect": "No debes controlar monstruos para activar esta carta. Si un Monstruo de Péndulo que controlas batalla, tu adversario no puede activar Cartas de Trampa hasta el final del Damage Step. A menos que tengas una carta \"Mago/a\" o una carta \"Ojos Anómalos\" en tu otra Zona de Péndulo, la Escala de Péndulo de esta carta se convierte en 4.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

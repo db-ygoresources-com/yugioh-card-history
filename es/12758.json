@@ -1,0 +1,16 @@
+{
+  "id": 12758,
+  "type": "monster",
+  "name": "Grulla Shinobird",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser Invocado de Modo Especial. Una vez por turno, si otro monstruo Spirit es Invocado de Modo Normal o Especial mientras este monstruo está en el Campo: puedes robar 1 carta. Una vez por turno, durante la End Phase, si este turno esta carta fue Invocada de Modo Normal o volteada boca arriba: devuélvela a la mano.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Bestia Alada",
+    "Spirit",
+    "Efecto"
+  ]
+}

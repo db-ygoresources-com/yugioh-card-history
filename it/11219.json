@@ -1,0 +1,18 @@
+{
+  "id": 11219,
+  "type": "monster",
+  "name": "Artistamico Rospo Giratore",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una volta per turno, durante la tua Battle Phase (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro che controlli; cambia la sua posizione e, se lo fai, scambia i suoi ATK e DEF attuali fino alla fine di questo turno.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; scambia i suoi ATK e DEF attuali fino alla fine di questo turno.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Acqua",
+    "Pendulum",
+    "Effetto"
+  ]
+}

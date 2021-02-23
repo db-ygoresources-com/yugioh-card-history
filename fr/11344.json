@@ -1,0 +1,15 @@
+{
+  "id": 11344,
+  "type": "monster",
+  "name": "Armure Brisâme Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez cibler 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; équipez ce monstre depuis votre main ou votre Terrain à la cible. Il perd 1000 DEF, et aussi, il ne peut pas être détruit au combat. Si cette carte est dans votre Cimetière : vous pouvez bannir tous les \"Armure Brisâme Samouraï Supralourd\" depuis votre Cimetière, puis ciblez 1 monstre \"Samouraï Supralourd\" sur le Terrain dont la DEF actuelle est inférieure à sa DEF d'origine ; infligez des dommages à votre adversaire égaux à la différence entre sa DEF actuelle et d'origine.",
+  "level": 1,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

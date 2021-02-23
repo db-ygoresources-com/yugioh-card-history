@@ -1,0 +1,16 @@
+{
+  "id": 10111,
+  "type": "monster",
+  "name": "Lanzador Pezborg",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser usado como Material de Sincronía, excepto para la Invocación por Sincronía de un Monstruo de Sincronía de AGUA. Si tienes uno o más monstruos en tu Cementerio además de \"Lanzador Pezborg\", y todos ellos son de AGUA: puedes Invocar esta carta de Modo Especial desde tu Cementerio, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de \"Lanzador Pezborg\" una vez por turno.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Pez",
+    "Cantante",
+    "Efecto"
+  ]
+}

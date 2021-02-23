@@ -1,0 +1,16 @@
+{
+  "id": 11650,
+  "type": "monster",
+  "name": "Verdorbener Drachokytos-Niederseelendrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 FINSTERNIS Empfänger- + 1 Nicht-Empfänger-Monster vom Typ Drache\nKann nicht durch Kampf zerstört werden. Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst diesen Effekt aktivieren; diese Karte kann sofort noch einen zweiten Angriff gegen ein Monster deines Gegners durchführen. Während deiner Standby Phase: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden gleich der Hälfte seiner derzeitigen ATK und falls sie dies tun, füge deinem Gegner Schaden in Höhe der verlorenen ATK zu.",
+  "level": 10,
+  "atk": 4000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

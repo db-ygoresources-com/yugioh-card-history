@@ -1,0 +1,15 @@
+{
+  "id": 11215,
+  "type": "monster",
+  "name": "Serpent à Fouet Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant la Main Phase de chaque joueur : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, échangez son ATK et sa DEF actuelles.",
+  "level": 4,
+  "atk": 1700,
+  "def": 900,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

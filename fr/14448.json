@@ -1,0 +1,18 @@
+{
+  "id": 14448,
+  "type": "monster",
+  "name": "D/D Arche",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est détruite par un effet de carte : vous pouvez Invoquer Spécialement 1 Monstre Pendule \"D/D\" face recto depuis votre Extra Deck (\"D/D Arche\" exclu), mais ses effets sont annulés. Vous ne pouvez utiliser cet effet de \"D/D Arche\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 monstre Invoqué par Pendulation contrôlé par votre adversaire ; détruisez le monstre ainsi que cette carte. Vous ne pouvez utiliser cet effet de \"D/D Arche\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

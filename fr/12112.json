@@ -1,0 +1,18 @@
+{
+  "id": 12112,
+  "type": "monster",
+  "name": "Guitortue Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 carte dans votre Zone Pendule ; jusqu'à la fin de ce tour, augmentez son Échelle Pendule de 2.",
+  "pendEffect": "Si une carte \"Potartiste\" est activée dans votre autre Zone Pendule : vous pouvez piocher 1 carte. Vous ne pouvez utiliser cet effet de \"Guitortue Potartiste\" qu'une fois par tour.",
+  "pendScale": 6,
+  "level": 1,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "Aqua",
+    "Pendule",
+    "Effet"
+  ]
+}

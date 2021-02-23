@@ -1,0 +1,15 @@
+{
+  "id": 5962,
+  "type": "monster",
+  "name": "KA-2 Des Tijeras",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta destruye un monstruo como resultado de una batalla y lo manda al Cementerio, inflige daño a los Life Points de tu adversario igual al Nivel del monstruo destruido x 500 puntos.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

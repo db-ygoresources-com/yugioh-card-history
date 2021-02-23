@@ -1,0 +1,18 @@
+{
+  "id": 15398,
+  "type": "monster",
+  "name": "Apparecchio Aspiralefante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 mostro \"Apparecchio\"\nNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Può attaccare direttamente mentre non è co-linkato. Puoi mandare 1 carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 carta controllata dal tuo avversario; distruggila. Se questa carta è co-linkata: puoi scegliere come bersaglio 1 mostro nella Zona Mostri Main del tuo avversario; distruggilo. Puoi utilizzare solo 1 effetto di \"Apparecchio Aspiralefante\" per turno, e solo una volta in quel turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Macchina",
+    "Link",
+    "Effetto"
+  ]
+}

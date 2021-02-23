@@ -1,0 +1,16 @@
+{
+  "id": 12395,
+  "type": "monster",
+  "name": "Vennu, el Pájaro Brillante de la Divinidad",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Grito Primordial\". Una vez por turno: puedes mostrar 1 monstruo en tu mano, y después seleccionar 1 monstruo boca arriba en el Campo; hasta el final de este turno, el Nivel de ese objetivo se convierte en el Nivel que tenía el monstruo mostrado. Una vez por turno, si otro monstruo en tu mano o Campo es Sacrificado (excepto durante el Damage Step): puedes seleccionar 1 monstruo en tu Cementerio; añádelo a tu mano.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Hada",
+    "Ritual",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7606,
+  "type": "monster",
+  "name": "Troupe de Reconnaissance Gobeline",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte attaque directement votre adversaire avec succès, vous pouvez regarder 1 carte au hasard dans la main de votre adversaire. Si c'est une Carte Magie, envoyez-la au Cimetière. Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase. La position de combat de cette carte ne peut pas être changée jusqu'à la fin de votre prochain tour, excepté par l'effet d'une carte.",
+  "level": 4,
+  "atk": 1700,
+  "def": 0,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

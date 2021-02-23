@@ -1,0 +1,15 @@
+{
+  "id": 14011,
+  "type": "monster",
+  "name": "Cronista di Nephtys",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Puoi scegliere come bersaglio 1 carta \"Nephtys\" nel tuo Cimitero, eccetto \"Cronista di Nephtys\"; distruggi 1 carta nella tua mano e, se lo fai, aggiungi quel bersaglio alla tua mano. Durante la tua prossima Standby Phase dopo che questa carta è stata distrutta dall'effetto di una carta e mandata al Cimitero: puoi aggiungere 1 carta \"Nephtys\" dal tuo Cimitero alla tua mano, eccetto \"Cronista di Nephtys\". Puoi utilizzare ogni effetto di \"Cronista di Nephtys\" una sola volta per turno.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

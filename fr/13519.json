@@ -1,0 +1,15 @@
+{
+  "id": 13519,
+  "type": "monster",
+  "name": "Ramasse-Miettes",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez cibler 1 autre monstre Cyberse que vous contrôlez qui a commencé le Duel dans le Main Deck ; renvoyez-le à la main, et si vous le faites, Invoquez Spécialement 1 monstre Cyberse de même Niveau, mais de nom différent, depuis votre Deck. Vous ne pouvez utiliser cet effet de \"Ramasse-Miettes\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 100,
+  "def": 1900,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9283,
+  "type": "monster",
+  "name": "Bloqueador Psi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno: puedes declarar el nombre de 1 carta; las cartas con ese nombre, y sus efectos, no pueden ser utilizados hasta el final del próximo turno de tu adversario.",
+  "level": 4,
+  "atk": 1200,
+  "def": 300,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

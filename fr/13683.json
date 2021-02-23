@@ -1,0 +1,15 @@
+{
+  "id": 13683,
+  "type": "monster",
+  "name": "Diabolos des Ténèbres, Seigneur de l'Antre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Votre adversaire ne peut ni Sacrifier cette carte face recto sur le Terrain ni la cibler avec des effets de carte. Vous ne pouvez utiliser chacun de ces effets de \"Diabolos des Ténèbres, Seigneur de l'Antre\" qu'une fois par tour.\n●Si un monstre TÉNÈBRES que vous contrôlez est Sacrifié (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque vous avez Sacrifié) ou la main (même si elle n'y était pas).\n●Vous pouvez Sacrifier 1 monstre TÉNÈBRES ; votre adversaire place 1 carte depuis sa main soit au-dessus soit au-dessous du Deck.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

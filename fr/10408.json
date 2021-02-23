@@ -1,0 +1,16 @@
+{
+  "id": 10408,
+  "type": "monster",
+  "name": "Basilicockatrice Flamme Chimérique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Min. 2 (max. 5) monstres FEU de Niveau 6\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte pour cibler 1 monstre contrôlé par votre adversaire ou dans son Cimetière ; bannissez la cible. Cette carte gagne des effets selon le nombre de Matériels Xyz qui lui sont attachés.\n ●Min. 3 : Cette carte gagne 200 ATK/DEF pour chaque Matériel Xyz qui lui est attaché.\n ●Min. 4 : Cette carte ne peut pas être ciblée par des effets de carte de votre adversaire.\n ●5 : Cette carte ne peut pas être détruite par des effets de carte.",
+  "rank": 6,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Pyro",
+    "Xyz",
+    "Effet"
+  ]
+}

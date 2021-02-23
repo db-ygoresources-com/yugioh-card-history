@@ -1,0 +1,18 @@
+{
+  "id": 13038,
+  "type": "monster",
+  "name": "Lutin Tranchant Mangeur de Coton",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Spécialement : vous pouvez infliger 200 points de dommages à votre adversaire pour chaque monstre \"Frourreur\" dans votre Cimetière. Vous ne pouvez utiliser cet effet de \"Lutin Tranchant Mangeur de Coton\" qu'une fois par tour.",
+  "pendEffect": "Tous les Monstres Fusion que vous contrôlez gagnent 300 ATK. Une fois par tour, si un ou plusieurs Monstres Fusion \"Frourreur\" sont Invoqués par Fusion sur votre Terrain (sauf durant la Damage Step) : vous pouvez piocher 1 carte.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

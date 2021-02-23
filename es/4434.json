@@ -1,0 +1,16 @@
+{
+  "id": 4434,
+  "type": "monster",
+  "name": "Mago de la Fe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Selecciona 1 Mágica en tu Cementerio; añade ese objetivo a tu mano.",
+  "level": 1,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

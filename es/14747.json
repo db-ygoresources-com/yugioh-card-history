@@ -1,0 +1,15 @@
+{
+  "id": 14747,
+  "type": "monster",
+  "name": "Matemecha Resta",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes seleccionar 1 monstruo boca arriba en el Campo; por el resto de este turno, no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto monstruos Ciberso, y además Invoca esta carta de Modo Especial desde tu mano (pero este turno, ésta no puede atacar) y, si lo haces, hasta el final de este turno el monstruo seleccionado pierde 1000 ATK. Sólo puedes usar este efecto de \"Matemecha Resta\" una vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

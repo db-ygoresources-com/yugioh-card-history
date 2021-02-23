@@ -1,0 +1,16 @@
+{
+  "id": 12686,
+  "type": "monster",
+  "name": "Stalagmo Subterreur Béhémoth",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez défausser 1 monstre \"Subterreur\", et si vous le faites, piochez 2 cartes. Vous ne pouvez utiliser cet effet de \"Stalagmo Subterreur Béhémoth\" qu'une fois par tour.\nLorsqu'un monstre face recto que vous contrôlez est retourné face verso, si vous ne contrôlez aucun monstre face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense. Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso.",
+  "level": 10,
+  "atk": 2800,
+  "def": 2100,
+  "properties": [
+    "Rocher",
+    "Flip",
+    "Effet"
+  ]
+}

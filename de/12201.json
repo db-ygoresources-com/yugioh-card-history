@@ -1,0 +1,15 @@
+{
+  "id": 12201,
+  "type": "monster",
+  "name": "Die Phantomritter des Zerborstenen Helms",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls eine oder mehr „Phantomritter“-Karten auf deinen Friedhof gelegt werden: Diese Karte erhält 500 ATK. Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand während der End Phase dieses Spielzugs 1 „Phantomritter“-Karte von deinem Friedhof hinzu. Du kannst jeden Effekt von „Die Phantomritter des Zerborstenen Helms“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

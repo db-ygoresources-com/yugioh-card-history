@@ -1,0 +1,20 @@
+{
+  "id": 14677,
+  "type": "monster",
+  "name": "Papillion Séraphin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2+ monstres de noms différents\nGagne 200 ATK pour chaque Compteur sur elle. Vous ne pouvez utiliser qu'1 des effets suivants de \"Papillion Séraphin\" par tour, et uniquement une fois le tour.\n●Si cette carte est Invoquée par Lien : placez 1 Compteur sur cette carte pour chaque monstre Insecte utilisé comme son Matériel Lien.\n●(Effet Rapide) : vous pouvez retirer 1 Compteur de cette carte ; Invoquez Spécialement 1 monstre Insecte de max. Niveau 4 depuis votre Cimetière en Position de Défense.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Insecte",
+    "Lien",
+    "Effet"
+  ]
+}

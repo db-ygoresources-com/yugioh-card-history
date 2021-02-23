@@ -1,0 +1,15 @@
+{
+  "id": 11948,
+  "type": "monster",
+  "name": "Voleur Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si vous n'avez aucune Carte Magie/Piège dans votre Cimetière, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Après que cette carte a été Invoquée Spécialement de cette façon, le reste de ce tour, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Samouraï Supralourd\" exclus). Vous pouvez Sacrifier cette carte, puis activez 1 de ces effets ;\n●Détruisez 1 carte dans la Zone Magie & Piège de votre adversaire, puis vous pouvez Poser la Carte Magie/Piège détruite sur votre Terrain.\n●Détruisez 1 carte dans la Zone Pendule de votre adversaire, puis vous pouvez placer la carte détruite dans votre Zone Pendule.",
+  "level": 10,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11055,
+  "type": "monster",
+  "name": "Bête Fantôme Méca O-Lion",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Si cette carte est envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 \"Jeton Bête Fantôme Méca\" (Machine/VENT/Niveau 3/ATK 0/DEF 0). Vous ne pouvez utiliser cet effet de \"Bête Fantôme Méca O-Lion\" qu'une fois par tour. Vous pouvez bannir cette carte depuis votre Cimetière ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Bête Fantôme Méca\" depuis votre main.",
+  "level": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

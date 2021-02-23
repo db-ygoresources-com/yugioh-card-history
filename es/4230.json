@@ -1,0 +1,15 @@
+{
+  "id": 4230,
+  "type": "monster",
+  "name": "Amo de Trampa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Destruye 1 Carta de Trampa en el campo. Si el objetivo de esta carta está boca abajo, lo voltea boca arriba. Si la carta es una Carta de Trampa, es destruida. Si no, es devuelta a su posición boca abajo. La carta volteada no se activa.",
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

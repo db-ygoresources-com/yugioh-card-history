@@ -1,0 +1,15 @@
+{
+  "id": 8155,
+  "type": "monster",
+  "name": "Stufenkrieger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls keine Monster auf dem Spielfeld liegen, kannst du diese Karte als Monster der Stufe 2 als Normalbeschwörung beschwören. Falls dein Gegner ein Monster kontrolliert und du keine Monster kontrollierst, kannst du diese Karte als Monster der Stufe 4 als Spezialbeschwörung (von deiner Hand) beschwören.",
+  "level": 3,
+  "atk": 300,
+  "def": 600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

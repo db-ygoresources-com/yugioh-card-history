@@ -1,0 +1,18 @@
+{
+  "id": 12274,
+  "type": "monster",
+  "name": "Künstlerkumpel Muschelkrabbe",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Pendelmonster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 300 ATK für jedes „Künstlerkumpel“-Monster, das du derzeit kontrollierst.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein „Künstlerkumpel“-Monster, das du kontrollierst, durch Kampf zerstört wird: Du kannst 1 „Künstlerkumpel“- oder „Buntäugig“-Karte in deiner Pendelzone wählen; beschwöre sie als Spezialbeschwörung.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Pendel",
+    "Effekt"
+  ]
+}

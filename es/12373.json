@@ -1,0 +1,18 @@
+{
+  "id": 12373,
+  "type": "monster",
+  "name": "Artistamigo Cobrapecio",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta puede atacar directamente a tu adversario. Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase.",
+  "pendEffect": "Una vez por turno, cuando un monstruo que controlas inflige daño de batalla a tu adversario: puedes mandar al Cementerio la carta de la parte superior del Deck de tu adversario.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "Reptil",
+    "Péndulo",
+    "Efecto"
+  ]
+}

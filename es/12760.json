@@ -1,0 +1,15 @@
+{
+  "id": 12760,
+  "type": "monster",
+  "name": "Enviado del Caos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante la Battle Phase (Efecto Rápido): puedes descartar esta carta, y después seleccionar 1 monstruo \"Soldado del Brillo Negro\" o 1 monstruo \"Gaia el Caballero Feroz\" que controles; hasta el final de este turno, éste gana 1500 ATK y, si lo hace, cada monstruo de tu adversario que batalla con él este turno ve su ATK convertido en el ATK original de ese monstruo, sólo durante el cálculo de daño. Una vez por turno, durante la End Phase, si esta carta está en tu Cementerio: puedes desterrar 1 monstruo de LUZ y 1 monstruo de OSCURIDAD en tu Cementerio, excepto esta carta; añade esta carta a tu mano.",
+  "level": 4,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

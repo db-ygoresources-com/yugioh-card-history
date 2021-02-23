@@ -1,0 +1,15 @@
+{
+  "id": 8143,
+  "type": "monster",
+  "name": "Totemdrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann als 2 Tribute für die Tributbeschwörung eines Monsters vom Typ Drache behandelt werden. Während deiner Standby Phase, falls diese Karte in deinem Friedhof ist und du keine Monster kontrollierst, kannst du sie als Spezialbeschwörung in Angriffsposition beschwören. Du kannst diesen Effekt nicht aktivieren, falls Monster in deinem Friedhof sind, die nicht vom Typ Drache sind. Falls diese Karte durch diesen Effekt als Spezialbeschwörung beschworen wird, entferne sie aus dem Spiel, wenn sie vom Spielfeld entfernt wird.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

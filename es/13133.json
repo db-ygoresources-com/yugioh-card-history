@@ -1,0 +1,19 @@
+{
+  "id": 13133,
+  "type": "monster",
+  "name": "D/D/D Armagedón Oscuro, Rey Súper de las Fatalidades",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos \"D/D/D\" de Nivel 8\nNo puede ser Invocada por Péndulo. Cuando esta carta es Invocada Xyz: puedes acoplar 1 Monstruo de Péndulo \"D/D\" boca arriba en tu Deck Extra a esta carta como material. Los Monstruos de Péndulo que controlas no pueden ser destruidos por efectos de cartas. Una vez por turno: puedes desacoplar 1 material de esta carta, y después seleccionar monstruos que controle tu adversario, igual al número de Monstruos de Péndulo que controlas; destrúyelos. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Una vez por turno, si tienes una carta \"D/D\" en tu otra Zona de Péndulo: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo Xyz \"D/D/D\", excepto \"D/D/D Armagedón Oscuro, Rey Súper de las Fatalidades\".",
+  "pendScale": 1,
+  "rank": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Xyz",
+    "Péndulo",
+    "Efecto"
+  ]
+}

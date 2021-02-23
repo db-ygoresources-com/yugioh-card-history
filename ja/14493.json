@@ -1,0 +1,20 @@
+{
+  "id": 14493,
+  "type": "monster",
+  "name": "天威の鬼神",
+  "nameRuby": "てんいのきじん",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "リンクモンスターを含むモンスター２体以上",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "9",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "幻竜族",
+    "リンク"
+  ]
+}

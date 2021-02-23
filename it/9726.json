@@ -1,0 +1,15 @@
+{
+  "id": 9726,
+  "type": "monster",
+  "name": "Rabca Sperone",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Quando un mostro di Tipo Pesce, Serpente Marino o Acqua che controlli viene scelto come bersaglio per un attacco: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio il mostro attaccante; annulla l'attacco e, se lo fai, quel bersaglio perde 500 ATK fino alla fine del prossimo turno. Puoi utilizzare questo effetto di \"Rabca Sperone\" una sola volta per turno.",
+  "level": 3,
+  "atk": 700,
+  "def": 1500,
+  "properties": [
+    "Pesce",
+    "Effetto"
+  ]
+}

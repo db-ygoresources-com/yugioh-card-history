@@ -1,0 +1,18 @@
+{
+  "id": 15399,
+  "type": "monster",
+  "name": "Dragon Ménage Électroménageur",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 monstre \"Électroménageur\"\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Aucun joueur ne reçoit de dommages de combat des attaques impliquant cette carte. Une fois par tour, après le calcul des dommages, si cette carte co-liée combat un monstre de l'adversaire : vous pouvez bannir le monstre de l'adversaire. Une fois par tour, après le calcul des dommages, si ce monstre qui n'est pas co-lié combat un monstre de l'adversaire : vous pouvez détruire le monstre de l'adversaire, et si vous le faites, infligez des dommages à votre adversaire égaux à son ATK d'origine.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

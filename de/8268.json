@@ -1,0 +1,15 @@
+{
+  "id": 8268,
+  "type": "monster",
+  "name": "Überschall-Totenkopf-Flamme",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 1 „Totenkopf-Flamme“ in deinem Friedhof aus dem Spiel entfernst. Einmal pro Spielzug kannst du deinem Gegner 400 Schaden für jeden „Brennender Totenkopf“ in deinem Friedhof zufügen. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird, kannst du 1 „Totenkopf-Flamme“ als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 10,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

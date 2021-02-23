@@ -1,0 +1,16 @@
+{
+  "id": 11560,
+  "type": "monster",
+  "name": "Uni-Zombi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes seleccionar 1 monstruo boca arriba en el Campo; descarta 1 carta y, si lo haces, aumenta el Nivel de ese objetivo en 1. Puedes seleccionar 1 monstruo boca arriba en el Campo; por el resto de este turno, los monstruos que controles no pueden atacar, excepto los monstruos Zombi, y además manda al Cementerio 1 monstruo Zombi en tu Deck y, si lo haces, aumenta en 1 el Nivel de ese objetivo. Sólo puedes usar cada efecto de \"Uni-Zombi\" una vez por turno.",
+  "level": 3,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Cantante",
+    "Efecto"
+  ]
+}

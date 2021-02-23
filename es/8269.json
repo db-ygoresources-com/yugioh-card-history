@@ -1,0 +1,15 @@
+{
+  "id": 8269,
+  "type": "monster",
+  "name": "Llama de Calavera",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno puedes Invocar de Modo Especial, desde tu mano, 1 \"Calavera Ardiente\". No puedes realizar tu Battle Phase en el turno en que activaste este efecto. Puedes añadir 1 \"Calavera Ardiente\" desde tu Cementerio a tu mano en vez de robar normalmente durante tu Draw Phase.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

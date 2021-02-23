@@ -1,0 +1,15 @@
+{
+  "id": 14453,
+  "type": "monster",
+  "name": "Dragon DMZ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre Dragon de max. Niveau 4 dans votre Cimetière et 1 monstre Dragon que vous contrôlez ; équipez le monstre dans votre Cimetière au monstre sur le Terrain comme une Magie d'Équipement qui lui fait gagner 500 ATK. À la fin de la Damage Step, si votre monstre équipé avec une Carte d'Équipement a attaqué : vous pouvez bannir cette carte depuis votre Cimetière ; détruisez autant de cartes équipées au monstre que vous contrôlez que possible, et si vous le faites, le monstre peut faire une seconde attaque à la suite.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

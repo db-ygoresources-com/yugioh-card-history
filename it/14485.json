@@ -1,0 +1,19 @@
+{
+  "id": 14485,
+  "type": "monster",
+  "name": "Magibilancia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una bilancia senziente. Mantiene l'equilibrio dell'universo, ma spesso mette le stelle dalla parte sbagliata.",
+  "pendEffect": "Puoi dichiarare un Livello tra 1 e 6, poi scegliere come bersaglio 2 mostri scoperti che controlli; fino alla fine di questo turno, riduci il Livello di 1 di quei mostri dell'ammontare dichiarato e, se lo fai, aumenta il Livello dell'altro dello stesso ammontare (anche se questa carta lascia il Terreno). Puoi utilizzare questo effetto di \"Magibilancia\" una sola volta per turno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Tuner",
+    "Normale"
+  ]
+}

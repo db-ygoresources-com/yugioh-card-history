@@ -1,0 +1,18 @@
+{
+  "id": 14739,
+  "type": "monster",
+  "name": "Diablo D/D",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede atacar a menos que controles otro monstruo \"D/D\". Durante la Main Phase de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo Invocado por Péndulo boca arriba que controle tu adversario; hasta el final de este turno, niega los efectos de ese monstruo boca arriba. Sólo puedes usar este efecto de \"Diablo D/D\" una vez por turno.",
+  "pendEffect": "Una vez, mientras esta carta está en tu Zona de Péndulo, cuando tu adversario Invoque por Péndulo uno o más monstruos (excepto durante el Damage Step): puedes activar este efecto; este turno, ese monstruo Invocado por Péndulo no puede atacar, y además sus efectos son negados.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

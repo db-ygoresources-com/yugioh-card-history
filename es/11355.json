@@ -1,0 +1,18 @@
+{
+  "id": 11355,
+  "type": "monster",
+  "name": "Hélice Qlifuerte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta de Modo Normal sin Sacrificar. Si esta carta es Invocada de Modo Normal sin Sacrificar, o es Invocada de Modo Especial, su Nivel se convierte en 4 y su ATK original se convierte en 1800. Si esta carta es Invocada de Modo Normal/Colocada, no es afectada por efectos activados de ningún monstruo cuyo Nivel/Rango original sea menor que el Nivel de esta carta en este momento. Si esta carta es Sacrificada: puedes seleccionar 1 Carta Mágica/de Trampa en el Campo; destrúyela.",
+  "pendEffect": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"Qli\". Este efecto no puede ser negado. Todos los monstruos que controle tu adversario pierden 300 ATK.",
+  "pendScale": 9,
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

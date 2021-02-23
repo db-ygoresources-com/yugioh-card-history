@@ -1,0 +1,15 @@
+{
+  "id": 10738,
+  "type": "monster",
+  "name": "Boxeur Indomptable au Coup du Lapin",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Au début de la Damage Step, si cette carte attaque un monstre en Position de Défense : détruisez le monstre.",
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

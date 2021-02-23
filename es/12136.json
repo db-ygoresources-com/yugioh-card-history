@@ -1,0 +1,18 @@
+{
+  "id": 12136,
+  "type": "monster",
+  "name": "Dinoniebla Ceratops",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si todos los monstruos que controlas son monstruos \"Dinoniebla\" (min. 1), y ninguno es \"Dinoniebla Ceratops\", puedes Invocar esta carta de Modo Especial (desde tu mano)",
+  "pendEffect": "Si otra u otras cartas \"Dinoniebla\" que controlas fueran a ser destruidas en batalla o por efecto de una carta de tu adversario, puedes destruir esta carta en su lugar.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

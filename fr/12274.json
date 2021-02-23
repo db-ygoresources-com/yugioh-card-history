@@ -1,0 +1,18 @@
+{
+  "id": 12274,
+  "type": "monster",
+  "name": "Coquillage de Crabe Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 Monstre Pendule que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 300 ATK pour chaque monstre \"Potartiste\" que vous contrôlez actuellement.",
+  "pendEffect": "Une fois par tour, lorsqu'un monstre \"Potartiste\" que vous contrôlez est détruit au combat : vous pouvez cibler 1 carte \"Potartiste\" ou \"Yeux Impairs\" dans votre Zone Pendule ; Invoquez-la Spécialement.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Pendule",
+    "Effet"
+  ]
+}

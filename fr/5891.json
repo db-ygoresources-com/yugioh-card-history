@@ -1,0 +1,15 @@
+{
+  "id": 5891,
+  "type": "monster",
+  "name": "Fée à Piquants",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Votre adversaire ne peut pas attaquer de monstres Insecte. Si cette carte a combattu un monstre, à la fin de la Damage Step : changez le monstre en Position de Défense.",
+  "level": 4,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

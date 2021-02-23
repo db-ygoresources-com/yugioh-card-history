@@ -1,0 +1,18 @@
+{
+  "id": 13127,
+  "type": "monster",
+  "name": "Minitauro Camarartista de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Durante o cálculo de dano, se um Monstro Pêndulo seu atacar um monstro do oponente: você pode fazer com que esse monstro do oponente perca 100 de ATK para cada card \"Camarartista\" e \"Olhos Anômalos\" que você controla, apenas durante o cálculo de dano.",
+  "pendEffect": "Se um monstro \"Camarartista\" ou \"Olhos Anômalos\" seu atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Besta-Guerreira",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

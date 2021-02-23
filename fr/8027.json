@@ -1,0 +1,15 @@
+{
+  "id": 8027,
+  "type": "monster",
+  "name": "Scanner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 des monstres de votre adversaire qui est retiré du jeu. Jusqu'à la End Phase, le nom de cette carte est traité comme le nom du monstre sélectionné et cette carte a le même Attribut, Niveau, ATK et DEF que le monstre sélectionné. Si cette carte est retirée du Terrain lorsque cet effet est appliqué, retirez-la du jeu.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

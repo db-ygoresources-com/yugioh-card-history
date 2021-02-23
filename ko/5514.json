@@ -1,0 +1,15 @@
+{
+  "id": 5514,
+  "type": "monster",
+  "name": "묘지기의 감시자",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "상대 플레이어가 스스로 패를 버리는 효과를 포함하는 카드를 발동했을 때, 이 카드를 패에서 묘지로 보내는 것으로, 그 발동과 효과를 무효로 하고 그 카드를 파괴한다.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "마법사족",
+    "효과"
+  ]
+}

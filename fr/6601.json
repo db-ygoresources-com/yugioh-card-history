@@ -1,0 +1,15 @@
+{
+  "id": 6601,
+  "type": "monster",
+  "name": "Scarabée Sabre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en dommages de combat aux Life Points de votre adversaire.",
+  "level": 6,
+  "atk": 2400,
+  "def": 600,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

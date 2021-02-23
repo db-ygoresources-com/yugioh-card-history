@@ -1,0 +1,16 @@
+{
+  "id": 14573,
+  "type": "monster",
+  "name": "Guêpe de Bataille - Halberd la Charge",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur Insecte + 1+ monstre non-Syntoniseur\nUne fois par combat, durant le calcul des dommages, si cette carte attaque un monstre de l'adversaire avec une ATK supérieure ou égale (Effet Rapide) : vous pouvez diviser par deux l'ATK du monstre de l'adversaire, durant ce calcul des dommages uniquement. Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez infliger 200 points de dommages à votre adversaire pour chaque monstre \"Guêpe de Bataille\" que vous contrôlez. Vous ne pouvez utiliser cet effet de \"Guêpe de Bataille - Halberd la Charge\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Insecte",
+    "Synchro",
+    "Effet"
+  ]
+}

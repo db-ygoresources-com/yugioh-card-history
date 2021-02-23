@@ -1,0 +1,18 @@
+{
+  "id": 12865,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Piccola Stella Luccicante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere distrutto in battaglia durante il tuo turno. Questa carta può effettuare fino a 3 attacchi su mostri durante ogni Battle Phase.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Attore dell'Abisso\". Questo effetto non può essere annullato. Una volta per turno: puoi scegliere come bersaglio 1 mostro \"Attore dell'Abisso\" che controlli; in questo turno, esso può effettuare fino a 3 attacchi su mostri durante ogni Battle Phase, inoltre gli altri mostri che controlli non possono attaccare per il resto di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 9,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6731,
+  "type": "monster",
+  "name": "Terre Ferme, HÉROS Élémentaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Océan, HÉROS Élémentaire\" + \"Noueux, HÉROS Élémentaire\"\nCe monstre ne peut pas être Invoqué Spécialement, excepté par Invocation Fusion. Vous pouvez Sacrifier 1 monstre \"HÉROS Élémentaire\" face recto pour que cette carte gagne, jusqu'à la End Phase, un montant d'ATK égal à l'ATK du monstre Sacrifié.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

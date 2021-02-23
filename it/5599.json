@@ -1,0 +1,15 @@
+{
+  "id": 5599,
+  "type": "monster",
+  "name": "Roulette Russa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi tirare un dado a sei facce due volte, selezionare 1 risultato e distruggere 1 mostro sul Terreno il cui Livello è pari a quel risultato.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

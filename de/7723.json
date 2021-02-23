@@ -1,0 +1,15 @@
+{
+  "id": 7723,
+  "type": "monster",
+  "name": "Jenis, Lichtverpflichteter Heiler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der End Phase, falls in diesem Spielzug eine oder mehr Karten durch den Effekt einer „Lichtverpflichtet“-Karte von deinem Deck auf den Friedhof gelegt wurden: Füge deinem Gegner 500 Schaden zu und falls du dies tust, erhältst du 500 LP.",
+  "level": 4,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

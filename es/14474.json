@@ -1,0 +1,15 @@
+{
+  "id": 14474,
+  "type": "monster",
+  "name": "Magístico Megistro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva. Durante la End Phase: puedes retirar 3 Contadores Mágicos de esta carta, y después seleccionar 1 de tus Mágicas desterradas; añade a tu mano 1 carta en tu Deck con el nombre de ese objetivo. Sólo puedes usar este efecto de \"Magístico Megistro\" una vez por turno.",
+  "level": 1,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7522,
+  "type": "monster",
+  "name": "Drago Malvagio Ananta",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Questa carta non può essere Evocata tramite Evocazione Normale o Posizionata. Questa carta non può essere Evocata tramite Evocazione Speciale se non rimuovendo dal gioco tutti i mostri di Tipo Rettile dal tuo Terreno e Cimitero. L'ATK e il DEF di questa carta sono ognuno uguali al numero di mostri che hai rimosso x 600. Durante ogni tua End Phase, distruggi 1 carta sul Terreno.",
+  "level": 8,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

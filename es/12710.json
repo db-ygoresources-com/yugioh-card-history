@@ -1,0 +1,18 @@
+{
+  "id": 12710,
+  "type": "monster",
+  "name": "Actor del Abismo - Talón Malvado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste pierde 1000 ATK por cada monstruo \"Actor del Abismo\" que controles en este momento, hasta el final de este turno. Cuando esta carta destruye a un monstruo de tu adversario en batalla: puedes seleccionar 1 Carta Mágica \"Guión de Abismo\" en tu Cementerio; Coloca esa carta.",
+  "pendEffect": "Una vez por turno: puedes Sacrificar 1 monstruo \"Actor del Abismo\", y después selecciona 1 monstruo boca arriba que controle tu adversario; éste pierde ATK igual al ATK original del monstruo Sacrificado, hasta el final de este turno (aún si esta carta deja el Campo).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

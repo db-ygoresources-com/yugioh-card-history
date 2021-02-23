@@ -1,0 +1,19 @@
+{
+  "id": 15730,
+  "type": "monster",
+  "name": "Parametalfosi Azortless",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "1 mostro \"Metalfosi\" + 1 Mostro Fusione\nSe questa carta viene Evocata Specialmente dall'Extra Deck: puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; mischia 2 Mostri Pendulum scoperti dal tuo Extra Deck nel Deck e, se lo fai, distruggi quella carta. Puoi utilizzare questo effetto di \"Parametalfosi Azortless\" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Se una o più carte \"Metalfosi\" scoperte che controlli vengono distrutte dall'effetto di una carta (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 carta scoperta sul Terreno; distruggila. Puoi utilizzare questo effetto di \"Parametalfosi Azortless\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psichico",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}

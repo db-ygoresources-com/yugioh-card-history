@@ -1,0 +1,18 @@
+{
+  "id": 11872,
+  "type": "monster",
+  "name": "Dragonox, il Guerriero Potenziato",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi scartare 1 carta, poi scegliere come bersaglio 1 mostro di Tipo Guerriero o Incantatore con ATK di 2000 o inferiore nel tuo Cimitero; Evocalo Specialmente coperto in Posizione di Difesa.",
+  "pendEffect": "Quando un mostro dell'avversario dichiara un attacco: puoi distruggere questa carta, poi terminare la Battle Phase.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

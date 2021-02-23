@@ -1,0 +1,15 @@
+{
+  "id": 15830,
+  "type": "monster",
+  "name": "Communicatrice de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", les monstres en Position de Défense contrôlés par votre adversaire ne peuvent pas changer de position de combat. Vous ne pouvez utiliser chacun des effets suivants de \"Communicatrice de la Barrière de Glace\" qu'une fois par tour. Si vous contrôlez un monstre \"Barrière de Glace\" : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si vous contrôlez un monstre \"Barrière de Glace\" : vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 \"Jeton Barrière de Glace\" (Aqua/EAU/Niveau 1/ATK 0/DEF 0).",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

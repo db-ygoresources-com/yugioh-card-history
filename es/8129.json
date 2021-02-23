@@ -1,0 +1,16 @@
+{
+  "id": 8129,
+  "type": "monster",
+  "name": "HÉROE Elemental Cero Absoluto",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "1 monstruo \"HÉROE\" + 1 monstruo de AGUA\nDebe ser Invocado por Fusión. Gana 500 ATK por cada monstruo de AGUA en el Campo, excepto \"HÉROE Elemental Cero Absoluto\". Si esta carta deja el Campo: destruye todos los monstruos que controle tu adversario.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5450,
+  "type": "monster",
+  "name": "Magicienne des Ténèbres Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en Sacrifiant 1 monstre, tant que vous contrôlez \"Monde des Toons\". Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Peut attaquer directement votre adversaire, sauf s'il contrôle un monstre Toon, auquel cas cette carte doit cibler un monstre Toon avec ses attaques. Gagne 300 ATK pour chaque \"Magicien Sombre\" et \"Magicien du Chaos Sombre\" dans les Cimetières.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Magicien",
+    "Toon",
+    "Effet"
+  ]
+}

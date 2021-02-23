@@ -1,0 +1,16 @@
+{
+  "id": 15248,
+  "type": "monster",
+  "name": "Flammedler Ritter Oliver",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange diese Karte eine Ausrüstungskarte ist, kann dein Gegner das ausgerüstete Monster nicht als Ziel für Karteneffekte wählen. Du kannst jeden der folgenden Effekte von „Flammedler Ritter Oliver“ nur einmal pro Spielzug verwenden. Du kannst 1 FEUER Krieger-Monster oder 1 Ausrüstungszauber von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand als Monster der Stufe 1. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Krieger-Monster wählen, das du kontrollierst; rüste das Monster, das du kontrollierst, mit dieser Karte aus.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

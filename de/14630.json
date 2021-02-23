@@ -1,0 +1,15 @@
+{
+  "id": 14630,
+  "type": "monster",
+  "name": "Marinzessin Kampffisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während der Schadensberechnung, falls ein Monster gegen ein anderes Monster kämpft (Schnelleffekt): Du kannst 1 anderes „Marinzessin“-Monster von deiner Hand auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, wird der Schaden halbiert, den du aus dem Kampf erhältst. Am Beginn des Damage Steps, falls ein Monster eines Gegners angreift: Du kannst diese Karte von deinem Friedhof verbannen; in diesem Spielzug erhältst du keinen Kampfschaden, der kleiner oder gleich der Summe der Linkzahlen der „Marinzessin“-Linkmonster in deinem Friedhof x 1000 ist. Du kannst jeden Effekt von „Marinzessin Kampffisch“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 600,
+  "def": 2300,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8081,
+  "type": "monster",
+  "name": "Rai-Jin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Tutti i mostri LUCE che controlli guadagnano 100 ATK per ogni mostro LUCE nel tuo Cimitero. Durante la tua End Phase, distruggi 1 mostro LUCE che controlli. Ci può essere solo 1 \"Rai-Jin\" scoperto sul Terreno.",
+  "level": 4,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Tuono",
+    "Effetto"
+  ]
+}

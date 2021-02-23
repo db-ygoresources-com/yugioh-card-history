@@ -1,0 +1,15 @@
+{
+  "id": 8081,
+  "type": "monster",
+  "name": "Rai-Jin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "All LIGHT monsters you control gain 100 ATK for each LIGHT monster in your Graveyard. During your End Phase, destroy 1 LIGHT monster you control. There can only be 1 face-up \"Rai-Jin\" on the field.",
+  "level": 4,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Thunder",
+    "Effect"
+  ]
+}

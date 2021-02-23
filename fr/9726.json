@@ -1,0 +1,15 @@
+{
+  "id": 9726,
+  "type": "monster",
+  "name": "Rabca Tueur",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsqu'un monstre de Type Poisson/Serpent de Mer/Aqua que vous contrôlez est ciblé par une attaque : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez le monstre attaquant ; annulez l'attaque, et si vous le faites, jusqu'à la fin du prochain tour, la cible perd 500 ATK. Vous ne pouvez utiliser cet effet de \"Rabca Tueur\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 700,
+  "def": 1500,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

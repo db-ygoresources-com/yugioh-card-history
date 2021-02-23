@@ -1,0 +1,16 @@
+{
+  "id": 14260,
+  "type": "monster",
+  "name": "Psi-Riflettore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 \"Attivazione Modalità Assalto\", o 1 carta che indica specificamente \"Attivazione Modalità Assalto\" nel suo testo, dal tuo Deck alla tua mano, eccetto \"Psi-Riflettore\". Puoi rivelare 1 \"Attivazione Modalità Assalto\" nella tua mano, poi scegliere come bersaglio 1 mostro nel tuo Cimitero che indica specificamente \"Attivazione Modalità Assalto\" nel suo testo, eccetto \"Psi-Riflettore\"; Evocalo Specialmente e, se lo fai, aumenta il suo Livello di un numero tra 1 e 4. Puoi utilizzare ogni effetto di \"Psi-Riflettore\" una sola volta per turno.",
+  "level": 1,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Psichico",
+    "Tuner",
+    "Effetto"
+  ]
+}

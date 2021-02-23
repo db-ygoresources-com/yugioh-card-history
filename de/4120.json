@@ -1,0 +1,15 @@
+{
+  "id": 4120,
+  "type": "monster",
+  "name": "Weißer Zauberhut",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte den Life Points deines Gegners Kampfschaden zufügt, wirft er 1 zufällige Karte aus seiner Hand ab.",
+  "level": 3,
+  "atk": 1000,
+  "def": 700,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

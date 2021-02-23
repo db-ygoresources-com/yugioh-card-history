@@ -1,0 +1,15 @@
+{
+  "id": 13871,
+  "type": "monster",
+  "name": "Oiseau Defcon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez défausser 1 autre monstre Cyberse ; Invoquez Spécialement cette carte depuis votre main. Vous ne pouvez utiliser cet effet de \"Oiseau Defcon\" qu'une fois par tour. Une fois par tour, lorsque votre monstre Cyberse est ciblé par une attaque : vous pouvez faire devenir son ATK/DEF le double de son ATK d'origine, puis vous pouvez le changer en Position de Défense. Ce changement d'ATK/DEF dure jusqu'à la fin de la Damage Step.",
+  "level": 3,
+  "atk": 100,
+  "def": 1700,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

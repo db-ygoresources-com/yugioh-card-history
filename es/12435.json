@@ -1,0 +1,15 @@
+{
+  "id": 12435,
+  "type": "monster",
+  "name": "Ninja del Dragón Negro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial, excepto con el efecto de un monstruo \"Ninja\" o una carta \"Ninjitsu Arte\". Una vez por turno, durante el turno de cualquier jugador: puedes mandar al Cementerio 1 monstruo \"Ninja\" y 1 carta \"Ninjitsu Arte\" en tu mano y/o boca arriba en tu Campo, y después seleccionar 1 monstruo en el Campo; destiérralo. Si esta carta boca arriba deja el Campo: Invoca de Modo Especial tantos monstruos desterrados por el efecto de esta carta como sea posible, al Campo de sus dueños.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1600,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

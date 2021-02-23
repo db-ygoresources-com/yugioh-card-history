@@ -1,0 +1,18 @@
+{
+  "id": 11353,
+  "type": "monster",
+  "name": "Qliphort-Kundschafter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Replika-Modus wird gebootet...\nFehler beim Ausführen von C:\\sophia\\zefra.exe\nUnbekannter Entwickler.\nC:\\tierra\\qliphort.exe zulassen? ＜J／N＞...[J]\nAutonomie-Modus wird gebootet…",
+  "pendEffect": "Du kannst keine Monster als Spezialbeschwörung beschwören, außer „Qli“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 800 LP zahlen; füge deiner Hand 1 „Qli“-Karte von deinem Deck hinzu, außer „Qliphort-Kundschafter“.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Normal"
+  ]
+}

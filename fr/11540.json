@@ -1,0 +1,18 @@
+{
+  "id": 11540,
+  "type": "monster",
+  "name": "Monolithe Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Exception non gérée, 0x1i-666 dans qliphort.exe : violation d'accès à l'adresse 0x00-000\nIgnorer l'erreur et continuer ? ＜O／N＞...[ ]\nOv xlmgzxg zevx o'Ziyiv Hzxiv vhg rmgviwrg. Ov uovzf z vgv ozxsv.",
+  "pendEffect": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Qli\" exclus). Cet effet ne peut pas être annulé. Une fois par tour, durant la End Phase, si vous Invoquez par Sacrifice ce tour : vous pouvez piocher un nombre de cartes égal au nombre de monstres \"Qli\" que vous avez Sacrifiés pour les Invocations Sacrifice ce tour.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Normal"
+  ]
+}

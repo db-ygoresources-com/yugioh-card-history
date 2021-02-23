@@ -1,0 +1,15 @@
+{
+  "id": 10927,
+  "type": "monster",
+  "name": "Sirenorca",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se controlli sia un mostro di Tipo Pesce che un mostro di Tipo Bestia Alata, puoi Evocare Specialmente questa carta (dalla tua mano). Quando lo fai: puoi dichiarare un Livello tra 3 e 5; i Livelli di tutti i mostri che controlli attualmente diventano il Livello dichiarato. Se attivi questo effetto, i mostri che controlli non possono attivare i loro effetti per il resto di questo turno, eccetto i mostri ACQUA.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Bestia Alata",
+    "Effetto"
+  ]
+}

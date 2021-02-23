@@ -1,0 +1,15 @@
+{
+  "id": 12360,
+  "type": "monster",
+  "name": "Señor Dragón Divino Felgrand",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Especial desde el Cementerio: puedes seleccionar 1 monstruo que controle tu adversario o en su Cementerio; destiérralo y, si lo haces, esta carta gana ATK y DEF igual al Nivel/Rango x 100 original del monstruo desterrado. Si esta carta destruye un monstruo de tu adversario en batalla: puedes seleccionar 1 monstruo de Tipo Dragón de Nivel 7 u 8 en el Cementerio, excepto \"Señor Dragón Divino Felgrand\"; Invócalo de Modo Especial a tu Campo.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

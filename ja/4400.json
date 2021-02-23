@@ -1,0 +1,16 @@
+{
+  "id": 4400,
+  "type": "monster",
+  "name": "鉄のサソリ",
+  "nameRuby": "てつのサソリ",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "機械族以外のモンスターがこのカードを攻撃した場合、そのモンスターは（相手ターンで数えて）３ターン目のエンドフェイズに破壊される。",
+  "level": 1,
+  "atk": 250,
+  "def": 300,
+  "properties": [
+    "機械族",
+    "効果"
+  ]
+}

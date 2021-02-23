@@ -1,0 +1,18 @@
+{
+  "id": 12714,
+  "type": "monster",
+  "name": "Acteur des Abysses - Figurants",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Sacrifier cette carte ; placez 1 Monstre Pendule \"Acteur des Abysses\" depuis votre Deck dans votre Zone Pendule, et aussi, le reste de ce tour, vous ne pouvez ni Invoquer Spécialement de monstres (monstres \"Acteur des Abysses\" exclus), ni activer l'Effet Pendule de \"Acteur des Abysses - Figurants\". Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Figurants\" qu'une fois par tour.",
+  "pendEffect": "Si votre adversaire contrôle un monstre : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Figurants\" qu'une fois par tour.",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

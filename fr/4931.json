@@ -1,0 +1,15 @@
+{
+  "id": 4931,
+  "type": "monster",
+  "name": "Kotodama",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "S'il y a des monstres de même nom sur le Terrain, détruisez les monstres. (Si un monstre du même nom qu'un monstre déjà face recto sur le Terrain est Invoqué ou retourné face recto, le nouveau monstre face recto est détruit. S'ils sont Invoqués ou retournés face recto en même temps, ils sont tous détruits.)",
+  "level": 3,
+  "atk": 0,
+  "def": 1600,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

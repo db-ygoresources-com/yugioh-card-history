@@ -1,0 +1,15 @@
+{
+  "id": 8076,
+  "type": "monster",
+  "name": "Victoria",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre de Type Dragon dans le Cimetière de votre adversaire ; Invoquez Spécialement la cible sur votre Terrain. Votre adversaire ne peut pas cibler de monstres de Type Elfe face recto (celui-ci exclu) avec une attaque.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

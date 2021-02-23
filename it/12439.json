@@ -1,0 +1,16 @@
+{
+  "id": 12439,
+  "type": "monster",
+  "name": "Gomma da Sintonizzare",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro scoperto che controlli; quel mostro scoperto viene considerato come un Tuner in questo turno. Puoi utilizzare questo effetto di \"Gomma da Sintonizzare\" una sola volta per turno. Puoi attaccare solo con Mostri Synchro durante il turno in cui attivi questo effetto. Durante il turno di qualsiasi giocatore, quando viene attivata una carta o un effetto che sceglie come bersaglio esattamente 1 Mostro Synchro che controlli (e nessuna altra carta): puoi bandire questa carta dal tuo Cimitero; annulla l'attivazione.",
+  "level": 1,
+  "atk": 400,
+  "def": 1200,
+  "properties": [
+    "Demone",
+    "Tuner",
+    "Effetto"
+  ]
+}

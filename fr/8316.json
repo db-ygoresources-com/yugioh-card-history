@@ -1,0 +1,15 @@
+{
+  "id": 8316,
+  "type": "monster",
+  "name": "Chasseur des Mers",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Après le calcul des dommages, si cette carte combat un Monstre à Effet : annulez les effets du monstre (y compris dans le Cimetière). Vous devez contrôler un autre monstre EAU face recto pour activer et résoudre cet effet. Si cette carte va être détruite, vous pouvez détruire 1 monstre EAU de max. Niveau 3 face recto que vous contrôlez à la place.",
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Serpent de Mer",
+    "Effet"
+  ]
+}

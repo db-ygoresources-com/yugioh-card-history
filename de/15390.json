@@ -1,0 +1,16 @@
+{
+  "id": 15390,
+  "type": "monster",
+  "name": "Eiszeitungeheuer Polarpinguin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; gib es auf die Hand zurück. Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück. Du kannst nur 1 Effekt von „Eiszeitungeheuer Polarpinguin“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5829,
+  "type": "monster",
+  "name": "Inferno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 FEUER Monster von deinem Friedhof verbannst. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner 1500 Schaden zu.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1900,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

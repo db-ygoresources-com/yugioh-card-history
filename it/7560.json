@@ -1,0 +1,15 @@
+{
+  "id": 7560,
+  "type": "monster",
+  "name": "Tethys, Dea della Luce",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando peschi uno o più mostri Fata (eccetto durante il Damage Step): puoi rivelare 1 di quei mostri; pesca 1 carta. Questa carta deve essere scoperta sul Terreno per attivare e risolvere questo effetto.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9918,
+  "type": "monster",
+  "name": "Transporteur Zenmaity Automate",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 3\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; Invoquez Spécialement 1 monstre \"Automate\" depuis votre main ou Deck. Lorsqu'un monstre \"Automate\" face recto sur le Terrain est détruit et envoyé à votre Cimetière (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel Xyz de cette carte pour cibler le monstre ; renvoyez la cible à la main.",
+  "rank": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

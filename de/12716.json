@@ -1,0 +1,18 @@
+{
+  "id": 12716,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Wilde Hoffnung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte bis zum Ende dieses Spielzugs 100 ATK für jedes „Abgrundschauspieler“-Monster mit unterschiedlichem Namen erhalten lassen, das du derzeit kontrollierst. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst deiner Hand 1 „Abgrundschauspieler“-Karte von deinem Deck hinzufügen, außer „Abgrundschauspieler - Wilde Hoffnung“. Du kannst diesen Effekt von „Abgrundschauspieler - Wilde Hoffnung“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Abgrundschauspieler“-Karte in deiner anderen Pendelzone wählen; ihr Pendelbereich wird bis zum Ende dieses Spielzugs zu 9, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Abgrundschauspieler“-Monstern (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

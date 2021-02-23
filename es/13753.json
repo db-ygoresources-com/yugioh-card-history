@@ -1,0 +1,19 @@
+{
+  "id": 13753,
+  "type": "monster",
+  "name": "Guardia de Punto de Restauración",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Ciberso\nUna vez por turno, si otro Monstruo de Enlace es Invocado por Enlace: por el resto de este turno, esta carta no puede ser destruida en batalla o por efectos de cartas. Si un Monstruo de Enlace, que fue Invocado por Enlace usando esta carta como material, es destruido por el efecto de una carta del adversario, mientras esta carta está en el Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial. Sólo puedes usar este efecto de \"Guardia de Punto de Restauración\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

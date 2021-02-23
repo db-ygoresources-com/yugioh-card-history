@@ -1,0 +1,15 @@
+{
+  "id": 10902,
+  "type": "monster",
+  "name": "Komuchampi Sylvan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsque cette carte est retournée face recto : vous pouvez choisir un nombre entre 1 à 5, puis dévoilez ce nombre de cartes du dessus de votre Deck, envoyez les monstres de Type Plante dévoilés au Cimetière, et aussi, placez les autres cartes au-dessous de votre Deck dans l'ordre de votre choix. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain ; détruisez la cible.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

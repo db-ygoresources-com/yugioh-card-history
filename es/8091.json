@@ -1,0 +1,15 @@
+{
+  "id": 8091,
+  "type": "monster",
+  "name": "Dragón de Polvo de Estrellas/Modo de Ataque",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe primero ser Invocado de Modo Especial con \"Activar Modo de Ataque\" y no puede ser Invocado de Modo Especial de otra forma excepto por su propio efecto. Cuando una carta o efecto es activado (Efecto Rápido): puedes Sacrificar esta carta; niega la activación y, si lo haces, destrúyela. Durante la End Phase, si este efecto fue activado este turno (y no fue negado): puedes Invocar esta carta de Modo Especial desde tu Cementerio. Cuando esta carta en el Campo es destruida: puedes seleccionar 1 \"Dragón de Polvo de Estrellas\" en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8464,
+  "type": "monster",
+  "name": "Magicien Syntonisateur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ●Cette carte est traitée comme un monstre Syntoniseur.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Magicien",
+    "Gémeau",
+    "Effet"
+  ]
+}

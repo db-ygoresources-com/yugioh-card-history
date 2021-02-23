@@ -1,0 +1,15 @@
+{
+  "id": 12417,
+  "type": "monster",
+  "name": "Robe du Magicien",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant le tour de votre adversaire (Effet Rapide) : vous pouvez défausser 1 Magie/Piège ; Invoquez Spécialement 1 \"Magicien Sombre\" depuis votre Deck. Durant le tour de votre adversaire, si vous activez une Carte Magie/Piège ou effet de Magie/Piège tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Robe du Magicien\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

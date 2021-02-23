@@ -1,0 +1,16 @@
+{
+  "id": 15274,
+  "type": "monster",
+  "name": "El Primer Señoroscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 monstruos Hada de OSCURIDAD\nTu adversario no puede seleccionar monstruos Hada que controles con efectos de cartas. Sólo puedes usar 1 de los siguientes efectos de \"El Primer Señoroscuro\" por turno, y sólo una vez ese turno.\n●Si esta carta es Invocada por Fusión usando \"Señoroscuro Estrella de la Mañana\" como material: puedes destruir todas las cartas que controle tu adversario.\n●Durante la Main Phase (Efecto Rápido): puedes pagar 1000 LP; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo Hada en Posición de Defensa.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Hada",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12836,
+  "type": "monster",
+  "name": "Dragão Fusão de Peçonha Voraz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 monstro \"Predaplanta\" + 1 monstro de TREVAS cujo Nível original seja 8 ou mais\nPrimeiro deve ser Invocado por Invocação-Fusão. Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo; até o final deste turno, mude o ATK do alvo para 0 e, além disso, o alvo tem seus efeitos negados. Se este card for destruído e enviado para o Cemitério: destrua tantos monstros no campo quanto possível e, depois, você pode banir 1 monstro de TREVAS de Nível 8 ou mais do seu Cemitério e Invocar este card por Invocação-Especial do Cemitério.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Efeito"
+  ]
+}

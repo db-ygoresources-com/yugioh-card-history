@@ -1,0 +1,15 @@
+{
+  "id": 7886,
+  "type": "monster",
+  "name": "Serpiente de Cadena de Hierro",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante tu Main Phase, puedes equipar esta carta a 1 monstruo boca arriba que controle tu adversario. Ese monstruo pierde 800 ATK y DEF. Cuando es destruido en batalla y mandado al Cementerio, su controlador manda al Cementerio desde la parte superior de su Deck tantas cartas como su Nivel.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

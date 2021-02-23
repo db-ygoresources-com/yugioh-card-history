@@ -1,0 +1,15 @@
+{
+  "id": 6800,
+  "type": "monster",
+  "name": "Alien Gris",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Placez 1 Compteur-A sur 1 monstre face recto sur le Terrain de votre adversaire. (Si un monstre avec un Compteur-A combat un monstre qui inclut \"Alien\" dans son nom de carte, diminuez son ATK et sa DEF de 300 points pour chaque Compteur-A, durant le calcul des dommages uniquement.) Après l'Invocation Flip de cette carte, lorsqu'elle est détruite à l'issue d'un combat et envoyée au Cimetière, piochez 1 carte de votre Deck.",
+  "level": 2,
+  "atk": 300,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

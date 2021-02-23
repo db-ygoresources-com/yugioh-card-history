@@ -1,0 +1,18 @@
+{
+  "id": 12284,
+  "type": "monster",
+  "name": "Loba de la Lunaluz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si un monstruo \"Lunaluz\" que controles ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Lunaluz\". Este efecto no puede ser negado. Una vez por turno: puedes Invocar por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión \"Lunaluz\", desterrando de tu Campo o Cementerio los Materiales de Fusión listados en él.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Guerrero-Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

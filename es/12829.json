@@ -1,0 +1,18 @@
+{
+  "id": 12829,
+  "type": "monster",
+  "name": "Velociroid Planeadorpaso",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si no hay monstruos en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial a \"Velociroid Planeadorpaso\" una vez por turno de esta forma. Cuando esta carta es Invocada por Sacrificio: puedes seleccionar 1 monstruo \"Velociroid\" de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial. Los monstruos de tu adversario no pueden seleccionar para ataques a monstruos \"Velociroid\", excepto a éste.",
+  "pendEffect": "Una vez por turno: puedes mandar al Cementerio 1 Cantante \"Velociroid\" en tu mano o boca arriba en tu Campo; hasta el final de este turno, aumenta o reduce (min. 1) la Escala de Péndulo de esta carta tanto como el Nivel original del monstruo mandado.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

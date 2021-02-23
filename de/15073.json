@@ -1,0 +1,16 @@
+{
+  "id": 15073,
+  "type": "monster",
+  "name": "Katze mit neun Leben",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster der Stufe 9\nDein Gegner kann andere Monster, die du kontrollierst und die als Spezialbeschwörung vom Friedhof beschworen wurden, nicht als Ziel für Karteneffekte wählen. Du kannst 1 Material von dieser Karte abhängen und dann 1 Monster der Stufe 9 in deinem Friedhof oder 1 Monster im Friedhof deines Gegners wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Katze mit neun Leben“ nur einmal pro Spielzug verwenden.",
+  "rank": 9,
+  "atk": 900,
+  "def": 3300,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Effekt"
+  ]
+}

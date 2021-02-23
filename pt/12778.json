@@ -1,0 +1,16 @@
+{
+  "id": 12778,
+  "type": "monster",
+  "name": "Ventobruxa - Sino do Inverno",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Regulador + 1+ monstros de VENTO não-Reguladores\nVocê pode escolher 1 monstro \"Ventobruxa\" no seu Cemitério; cause dano ao seu oponente igual ao Nível do alvo x 200. Durante a Fase de Batalha (Efeito Rápido): você pode escolher 1 monstro \"Ventobruxa\" que você controla; Invoque por Invocação-Especial 1 monstro da sua mão com um Nível menor ou igual que o desse monstro, mas ele não pode atacar neste turno. Você só pode usar cada efeito de \"Ventobruxa - Sino do Inverno\" uma vez por turno.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Sincro",
+    "Efeito"
+  ]
+}

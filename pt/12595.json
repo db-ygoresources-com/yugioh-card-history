@@ -1,0 +1,18 @@
+{
+  "id": 12595,
+  "type": "monster",
+  "name": "Girafa Gira Corrente Camarartista",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro com a face para cima que seu oponente controla; enquanto este card estiver com a face para cima no campo, esse monstro com a face para cima não pode atacar e, além disso, negue os efeitos desse monstro com a face para cima enquanto ele estiver no campo.",
+  "pendEffect": "Quando exatamente 1 monstro que você controla (e nenhum outro card) for destruído em batalha: você pode destruir este card e, se isso acontecer, Invoque esse monstro destruído em batalha por Invocação-Especial em Posição de Ataque e, se isso acontecer, ele não pode ser destruído em batalha neste turno (mesmo que este card deixe o campo).",
+  "pendScale": 5,
+  "level": 1,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

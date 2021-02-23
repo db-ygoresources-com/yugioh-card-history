@@ -1,0 +1,15 @@
+{
+  "id": 15269,
+  "type": "monster",
+  "name": "Lámpara Dragoon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno (Efecto Rápido): puedes descartar 1 monstruo Wyrm; esta carta gana 1000 DEF hasta el final de este turno. Una vez por batalla, durante el cálculo de daño, si esta carta en Posición de Ataque batalla con un monstruo en Posición de Ataque (Efecto Rápido): puedes aplicar la DEF de cada carta para el cálculo de daño.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Wyrm",
+    "Efecto"
+  ]
+}

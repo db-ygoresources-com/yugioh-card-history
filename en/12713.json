@@ -1,0 +1,18 @@
+{
+  "id": 12713,
+  "type": "monster",
+  "name": "Abyss Actor - Sassy Rookie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "The first time this card would be destroyed by battle or card effect each turn, it is not destroyed. If this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" monster from your Deck, except \"Abyss Actor - Sassy Rookie\". If this card in the Pendulum Zone is destroyed: You can target 1 Level 4 or lower monster your opponent controls; destroy it.",
+  "pendEffect": "If an \"Abyss Actor\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

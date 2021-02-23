@@ -1,0 +1,16 @@
+{
+  "id": 9199,
+  "type": "monster",
+  "name": "Chevalier de Fleur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Fleur Synchronique\" + 1 monstre non Syntoniseur ou plus\nUne fois durant chacun de vos tours, lorsque votre adversaire active une Carte Magie ou Piège, vous pouvez annuler l'activation et détruire la carte.",
+  "level": 8,
+  "atk": 2700,
+  "def": 2300,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

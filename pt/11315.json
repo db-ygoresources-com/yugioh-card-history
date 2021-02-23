@@ -1,0 +1,18 @@
+{
+  "id": 11315,
+  "type": "monster",
+  "name": "Caçador de Chifre de Dragão",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Os chifres eram necessários para preparar um remédio para a vila, que sofria com uma praga. Mas ela não sabia que os dragões queimariam e destruiriam a vila depois de retirados do seu lar.",
+  "pendEffect": "Todos os Monstros Normais ganham 200 de ATK. Você não sofre dano das batalhas que envolvem Monstros Normais que você controla.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

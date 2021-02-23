@@ -1,0 +1,15 @@
+{
+  "id": 8455,
+  "type": "monster",
+  "name": "Gorgone Reptilia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte attaque un monstre, après le calcul des dommages : l'ATK du monstre devient 0, et aussi, il ne peut pas changer sa position de combat.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

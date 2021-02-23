@@ -1,0 +1,16 @@
+{
+  "id": 7341,
+  "type": "monster",
+  "name": "Glutflügel-Schmetterling",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Du kannst diese Karte als Tribut anbieten und dann 1 Zwillingsmonster in deinem Friedhof wählen, außer „Glutflügel-Schmetterling“; beschwöre das gewählte Ziel als Spezialbeschwörung und falls du dies tust, wird es zu einem Effektmonster und erhält seine Effekte.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Insekt",
+    "Zwilling",
+    "Effekt"
+  ]
+}

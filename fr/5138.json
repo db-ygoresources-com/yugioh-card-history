@@ -1,0 +1,15 @@
+{
+  "id": 5138,
+  "type": "monster",
+  "name": "Scarabée Bombardier",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "FLIP : Retourne face recto 1 Carte Monstre en Position de Défense face verso sur le Terrain de votre adversaire. Si la carte retournée est une Carte Monstre à Effet, détruisez-la immédiatement sans Activer son Effet. Si la carte n'est pas une Carte Monstre à Effet, retournez-la dans sa position d'origine.",
+  "level": 2,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

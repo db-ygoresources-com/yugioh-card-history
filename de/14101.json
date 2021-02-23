@@ -1,0 +1,16 @@
+{
+  "id": 14101,
+  "type": "monster",
+  "name": "Psi-Radraser",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du ein anderes Monster der Stufe 3 als „Psi-Radraser“ kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Verteidigungsposition beschwören. Du kannst „Psi-Radraser“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst 1 Monster auf dem Spielfeld wählen, das weniger ATK als das Synchromonster hat, das diese Karte als Material verwendet hat; zerstöre es. Du kannst diesen Effekt von „Psi-Radraser“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 600,
+  "def": 0,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

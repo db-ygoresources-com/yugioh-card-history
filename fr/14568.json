@@ -1,0 +1,15 @@
+{
+  "id": 14568,
+  "type": "monster",
+  "name": "Guêpe de Bataille - Fléchette le Chasseur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque votre monstre \"Guêpe de Bataille\" détruit un monstre au combat dont le propriétaire est votre adversaire : vous pouvez défausser cette carte ; infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit. Vous pouvez cibler 1 autre monstre Insecte que vous contrôlez ; il est traité comme un Syntoniseur ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Insecte exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Guêpe de Bataille - Fléchette le Chasseur\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

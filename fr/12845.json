@@ -1,0 +1,16 @@
+{
+  "id": 12845,
+  "type": "monster",
+  "name": "Raidjin l'Invokhé",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Aleister l'Invokhateur\" + 1 monstre VENT\nUne fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto sur le Terrain ; changez-le en Position de Défense face verso.",
+  "level": 5,
+  "atk": 2200,
+  "def": 2400,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

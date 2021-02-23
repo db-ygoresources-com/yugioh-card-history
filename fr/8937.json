@@ -1,0 +1,15 @@
+{
+  "id": 8937,
+  "type": "monster",
+  "name": "Gardien de la Citadelle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un monstre en Position de Défense que vous contrôlez est attaqué, vous pouvez envoyer cette carte depuis votre main au Cimetière durant la Damage Step pour augmenter la DEF de votre monstre attaqué de 1500 points jusqu'à la End Phase.",
+  "level": 4,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

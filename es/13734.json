@@ -1,0 +1,18 @@
+{
+  "id": 13734,
+  "type": "monster",
+  "name": "Dragón Señuelo Metafis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando tu monstruo es seleccionado para un ataque: puedes seleccionar 1 de tus monstruos \"Metaf\" que esté desterrado o en tu Cementerio; destierra esta carta y, si lo haces, Invoca ese monstruo de Modo Especial en Posición de Ataque. Durante la Standby Phase del próximo turno después de que esta carta fue desterrada: puedes Invocar de Modo Especial esta carta desterrada. Sólo puedes usar cada efecto de \"Dragón Señuelo Metafis\" una vez por turno.",
+  "pendEffect": "Cuando tu monstruo es seleccionado para un ataque: puedes seleccionar 1 de tus monstruos \"Metaf\" que esté desterrado o en tu Cementerio; destierra esta carta y, si lo haces, Invoca ese monstruo de Modo Especial en Posición de Ataque. Sólo puedes usar este efecto de \"Dragón Señuelo Metafis\" una vez por turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Wyrm",
+    "Péndulo",
+    "Efecto"
+  ]
+}

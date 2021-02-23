@@ -1,0 +1,16 @@
+{
+  "id": 8903,
+  "type": "monster",
+  "name": "Laval Forest Sprite",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Tuner",
+    "Effect"
+  ]
+}

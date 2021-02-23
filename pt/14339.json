@@ -1,0 +1,18 @@
+{
+  "id": 14339,
+  "type": "monster",
+  "name": "Velocidaroide Máquina de Gude",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode ativar este efeito; adicione 1 monstro \"Velocidaroide\" do seu Deck à sua mão e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros de VENTO. Você só pode usar este efeito de \"Velocidaroide Máquina de Gude\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno, quando um monstro seu em Posição de Defesa for escolhido como alvo de um ataque: você pode colocá-lo com a face para cima em Posição de Ataque e, além disso, ele não pode ser destruído em batalha neste turno (mesmo que este card deixe o campo).",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

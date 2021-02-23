@@ -1,0 +1,15 @@
+{
+  "id": 6116,
+  "type": "monster",
+  "name": "Soldat Élémentaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ce monstre acquiert le (ou les) effet(s) suivant(s) tant qu'il y a un monstre ou plus avec l'Attribut suivant sur le Terrain :\n ●EAU : Le contrôleur de cette carte ne peut pas changer.\n ●TERRE : L'effet du Monstre à Effet que cette carte détruit à l'issue d'un combat est annulé.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

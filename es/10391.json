@@ -1,0 +1,15 @@
+{
+  "id": 10391,
+  "type": "monster",
+  "name": "Sirenarmada Abisdina",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando esta carta es añadida a tu mano desde tu Deck o Cementerio por efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano. Debes controlar un monstruo \"Sirenarmado/a\" para activar y resolver este efecto. Cuando esta carta es Invocada de Modo Especial por el efecto de un monstruo \"Sirenarmado/a\": puedes seleccionar 1 monstruo \"Sirenarmado\" de Nivel 3 o menor en tu Cementerio; Invoca ese objetivo de Modo Especial. Sólo puedes usar 1 efecto de \"Sirenarmada Abisdina\" por turno, y solamente una vez ese turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

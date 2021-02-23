@@ -1,0 +1,18 @@
+{
+  "id": 14340,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Hexa-Auge",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Beide Spieler erhalten den Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Der Kampfschaden aus Kämpfen, an denen diese Karte beteiligt ist, wird halbiert. Falls diese Karte in der Pendelzone zerstört wird: Du kannst 1 offenes „Geschwindigkeitsroid“-Pendelmonster als Spezialbeschwörung von deinem Extra Deck beschwören.",
+  "pendEffect": "Du kannst 1 deiner WIND Synchromonster wählen, das verbannt ist oder sich in deinem Friedhof befindet; lege es ins Extra Deck zurück. Du kannst diesen Effekt von „Geschwindigkeitsroid Hexa-Auge“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

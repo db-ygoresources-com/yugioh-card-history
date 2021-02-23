@@ -1,0 +1,16 @@
+{
+  "id": 13237,
+  "type": "monster",
+  "name": "Dendrite Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez envoyer 1 monstre depuis votre Deck au Cimetière.\nSi cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 2 monstres \"Krawler\" (\"Dendrite Krawler\" exclu) de noms différents depuis votre Deck en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Dendrite Krawler\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 1300,
+  "def": 600,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

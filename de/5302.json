@@ -1,0 +1,16 @@
+{
+  "id": 5302,
+  "type": "monster",
+  "name": "Dunkler Balter, der Fürchterliche",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Besessene dunkle Seele“ + „Weiser aus den Grenzlanden“\nEine Fusionsbeschwörung dieses Monsters kann nur mit den oben genannten Fusionsmaterial-Monstern durchgeführt werden. Solange diese Karte offen auf dem Spielfeld liegt, zahle 1000 Life Points, um den Effekt einer Normalen Zauberkarte zu annullieren. Zusätzlich, annulliere die Effekte von Effektmonstern, die von diesem Monster als Ergebnis eines Kampfes zerstört werden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

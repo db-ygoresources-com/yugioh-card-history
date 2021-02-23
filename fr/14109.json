@@ -1,0 +1,16 @@
+{
+  "id": 14109,
+  "type": "monster",
+  "name": "Calibave Lutincantation",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Commencement de Lutincantation\". Vous pouvez révéler cette carte dans votre main ; défaussez 1 carte, et si vous le faites, Invoquez Spécialement 1 monstre \"Lutincantation\" depuis votre Deck, et aussi, perdez 2500 LP durant la End Phase si vous n'avez pas Invoqué Spécialement de Monstre Rituel ce tour après avoir résolu cet effet. Vous pouvez envoyer 1 carte \"Lutincantation\" depuis votre main ou Terrain face recto au Cimetière, puis ciblez 1 monstre contrôlé par votre adversaire ; détruisez-le. Vous ne pouvez utiliser qu'1 effet de \"Calibave Lutincantation\" par tour, et uniquement une fois le tour.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Rituel",
+    "Effet"
+  ]
+}

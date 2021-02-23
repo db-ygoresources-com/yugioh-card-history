@@ -1,0 +1,18 @@
+{
+  "id": 11433,
+  "type": "monster",
+  "name": "Catturatore P.M.",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta distrugge un mostro in battaglia: puoi scegliere come bersaglio 1 Mostro Pendulum nel tuo Cimitero; aggiungilo alla tua mano.",
+  "pendEffect": "Quando Evochi Pendulum uno o più mostri di Tipo Zombie: puoi attivare questo effetto; essi non possono essere distrutti in battaglia o dagli effetti delle carte in questo turno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Pendulum",
+    "Effetto"
+  ]
+}

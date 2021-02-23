@@ -1,0 +1,18 @@
+{
+  "id": 11968,
+  "type": "monster",
+  "name": "Vector Pendule, le Dracosseigneur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ce Seigneur envahit tout un monde avec son armée de Dracodémons, convertissant toute forme de vie en de terribles sbires grâce à son Alchémie Dragon. La source de son pouvoir est non identifiée et probablement extra-dimensionnelle.",
+  "pendEffect": "Annulez tous les effets de carte dans les Zones Pendule de votre adversaire.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1850,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Normal"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9103,
+  "type": "monster",
+  "name": "Wattkiwi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "I mostri \"Watt\" che controlli non possono essere distrutti in battaglia fino a quando stanno attaccando.",
+  "level": 3,
+  "atk": 600,
+  "def": 100,
+  "properties": [
+    "Tuono",
+    "Tuner",
+    "Effetto"
+  ]
+}

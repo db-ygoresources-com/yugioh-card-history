@@ -1,0 +1,16 @@
+{
+  "id": 9578,
+  "type": "monster",
+  "name": "Buten",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Durante la tua Main Phase: puoi bandire questa carta dal Cimitero per scegliere come bersaglio 1 mostro LUCE di Tipo Fata di Livello 4 o inferiore scoperto che controlli; esso viene considerato come un mostro Tuner mentre è scoperto sul Terreno.",
+  "level": 1,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Fata",
+    "Tuner",
+    "Effetto"
+  ]
+}

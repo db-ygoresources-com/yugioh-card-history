@@ -1,0 +1,16 @@
+{
+  "id": 14905,
+  "type": "monster",
+  "name": "Les Magiciens des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Magicien Sombre\" ou \"Magicienne des Ténèbres\" + 1 monstre Magicien\nUne fois par tour, si une Carte Magie/Piège ou effet de Magie/Piège est activé (sauf durant la Damage Step) : vous pouvez piocher 1 carte, puis si c'était une Magie/Piège, vous pouvez le Poser, et si c'était un Piège ou une Magie Jeu-Rapide , vous pouvez l'activer ce tour. Si cette carte est détruite : vous pouvez Invoquer Spécialement 1 \"Magicien Sombre\" ainsi qu'1 \"Magicienne des Ténèbres\" depuis votre main, Deck et/ou Cimetière.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

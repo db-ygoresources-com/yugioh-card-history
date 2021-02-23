@@ -1,0 +1,10 @@
+{
+  "id": 8662,
+  "type": "spell",
+  "name": "Rocket Pilder",
+  "englishAttribute": "spell",
+  "localizedAttribute": "SPELL",
+  "effectText": "While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.",
+  "englishProperty": "equip",
+  "localizedProperty": "Equip"
+}

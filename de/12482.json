@@ -1,0 +1,18 @@
+{
+  "id": 12482,
+  "type": "monster",
+  "name": "Buntäugiger Phantomdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese als Pendelbeschwörung beschworene Karte deinem Gegner Kampfschaden durch einen Angriff zufügt: Du kannst deinem Gegner Schaden in Höhe der Anzahl der „Buntäugig“-Karten in deinen Pendelzonen x 1200 zufügen. Du kannst diesen Effekt von „Buntäugiger Phantomdrache“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Angriff deklariert wird, an dem dein offenes Monster und ein Monster deines Gegners beteiligt sind, falls du eine „Buntäugig“-Karte in deiner anderen Pendelzone hast: Du kannst das Monster, das du kontrollierst, bis zum Ende der Battle Phase 1200 ATK erhalten lassen (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

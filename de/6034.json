@@ -1,0 +1,15 @@
+{
+  "id": 6034,
+  "type": "monster",
+  "name": "Absorbierendes Himmelskind",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte ein Monster als Ergebnis eines Kampfes zerstört und dieses auf den Friedhof gelegt wird, erhöhe deine Life Points um 300 Punkte x die Stufe des zerstörten Monsters.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

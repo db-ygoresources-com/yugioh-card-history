@@ -1,0 +1,15 @@
+{
+  "id": 14773,
+  "type": "monster",
+  "name": "Naglfar, Boss Genèraideur du Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Naglfar, Boss Genèraideur du Feu\". Si une ou plusieurs cartes que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez détruire 1 monstre \"Genèraideur\" ou 1 monstre Bête-Guerrier que vous contrôlez à la place. Vous ne pouvez utiliser cet effet de \"Naglfar, Boss Genèraideur du Feu\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 3100,
+  "def": 200,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

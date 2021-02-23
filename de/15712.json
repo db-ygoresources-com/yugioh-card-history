@@ -1,0 +1,18 @@
+{
+  "id": 15712,
+  "type": "monster",
+  "name": "Metallfose-Verschwindender",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange sich diese Karte in deiner Hand befindet: Du kannst 2 offene Karten wählen, die du kontrollierst, darunter eine „Metallfose“-Karte; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte durch den Effekt einer „Metallfose“-Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert oder in seinem Friedhof liegt; verbanne es. Du kannst jeden Monstereffekt von „Metallfose-Verschwindender“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls ein oder mehr Monster, die du kontrollierst, durch einen Karteneffekt zerstört werden (außer während des Damage Steps): Du kannst deiner Hand 1 „Metallfose“-Karte von deinem Friedhof hinzufügen, außer „Metallfose-Verschwindender“. Du kannst diesen Effekt von „Metallfose-Verschwindender“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 9,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Psi",
+    "Pendel",
+    "Effekt"
+  ]
+}

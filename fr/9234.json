@@ -1,0 +1,15 @@
+{
+  "id": 9234,
+  "type": "monster",
+  "name": "Guerrier Amplificateur",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si vous contrôlez un Syntoniseur, vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Position de Défense. Tous les monstres Guerrier que vous contrôlez gagnent 300 ATK.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4931,
+  "type": "monster",
+  "name": "Kotodama",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Mostri con lo stesso nome non possono esistere scoperti sul Terreno. Se viene Evocato o scoperto un mostro con lo stesso nome di un mostro scoperto sul Terreno, il nuovo mostro scoperto viene distrutto. (Se più mostri vengono Evocati o scoperti allo stesso tempo, vengono tutti distrutti.)",
+  "level": 3,
+  "atk": 0,
+  "def": 1600,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

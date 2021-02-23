@@ -1,0 +1,18 @@
+{
+  "id": 11330,
+  "type": "monster",
+  "name": "D/D-Stolz-Ordensritter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 offenes FINSTERNIS Pendelmonster von deinem Extra Deck hinzufügen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 500 LP zahlen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; es verliert 500 ATK (selbst falls diese Karte das Spielfeld verlässt). Der Pendelbereich dieser Karte wird zu 5, es sei denn, du hast eine „D/D“-Karte in deiner anderen Pendelzone.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2000,
+  "def": 700,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

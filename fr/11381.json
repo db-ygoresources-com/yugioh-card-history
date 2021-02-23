@@ -1,0 +1,16 @@
+{
+  "id": 11381,
+  "type": "monster",
+  "name": "Shekhinaga Marionnette de l'Ombre El",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Marionnette de l'Ombre\" + 1 monstre TERRE\nDoit d'abord être Invoquée par Fusion. Lorsqu'un monstre Invoqué Spécialement active son effet tant que vous avez une carte \"Marionnette de l'Ombre\" dans votre main (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez le monstre, puis envoyez 1 carte \"Marionnette de l'Ombre\" depuis votre main au Cimetière. Vous ne pouvez utiliser cet effet de \"Shekhinaga Marionnette de l'Ombre El\" qu'une fois par tour. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 Magie/Piège \"Marionnette de l'Ombre\" dans votre Cimetière ; ajoutez-le à votre main.",
+  "level": 10,
+  "atk": 2600,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

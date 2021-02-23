@@ -1,0 +1,15 @@
+{
+  "id": 13213,
+  "type": "monster",
+  "name": "Maître Sonique F.A.",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Gagne une ATK égale à son Niveau x 300. Non destructible au combat avec un monstre de l'adversaire dont le Niveau/Rang d'origine est inférieur au Niveau de cette carte. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Si cette carte est min. Niveau 7, elle peut faire max. 2 attaques sur des monstres durant chaque Battle Phase.",
+  "level": 4,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

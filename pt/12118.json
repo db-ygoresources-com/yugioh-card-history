@@ -1,0 +1,18 @@
+{
+  "id": 12118,
+  "type": "monster",
+  "name": "General Samurai Superpesado de Jade",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Você pode Invocar este card por Invocação-Tributo ao oferecer como Tributo 1 monstro \"Samurai Superpesado\". Quando este card for Invocado por Invocação-Normal ou Especial: você pode mudar sua posição de batalha. Este card pode atacar enquanto estiver com a face para cima em Posição de Defesa. Se o fizer, use sua DEF para o cálculo de dano.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Samurai Superpesado\". Este efeito não pode ser negado. Uma vez por turno: você pode escolher 1 monstro \"Samurai Superpesado\" que você controla; aumente o Nível dele em 1 (mesmo que este card deixe o campo).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

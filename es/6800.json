@@ -1,0 +1,15 @@
+{
+  "id": 6800,
+  "type": "monster",
+  "name": "Alienígena Gris",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Pon 1 Contador \"A\" en 1 monstruo boca arriba en el Campo de tu adversario. (Si un monstruo con Contadores \"A\" batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador \"A\", sólo durante el cálculo de daño.) Después de que esta carta haya sido volteada boca arriba, cuando es destruida como resultado de una batalla y mandada al Cementerio, roba 1 carta de tu Deck.",
+  "level": 2,
+  "atk": 300,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

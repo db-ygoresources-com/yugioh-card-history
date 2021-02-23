@@ -1,0 +1,18 @@
+{
+  "id": 12383,
+  "type": "monster",
+  "name": "Caballería Mágica de Cxulub",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta no es afectada por los efectos activados de monstruos, excepto los de Monstruos de Péndulo.",
+  "pendEffect": "",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Dinosaurio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

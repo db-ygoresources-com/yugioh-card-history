@@ -1,0 +1,16 @@
+{
+  "id": 12822,
+  "type": "monster",
+  "name": "Ultramafus Subterreur Béhémoth",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez changer tous les autres monstres face recto sur le Terrain en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Ultramafus Subterreur Béhémoth\" qu'une fois par tour.\nLorsqu'un monstre face recto que vous contrôlez est retourné face verso, si vous ne contrôlez aucun monstre face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense. Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso.",
+  "level": 12,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Pyro",
+    "Flip",
+    "Effet"
+  ]
+}

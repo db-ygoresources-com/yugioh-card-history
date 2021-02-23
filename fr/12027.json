@@ -1,0 +1,16 @@
+{
+  "id": 12027,
+  "type": "monster",
+  "name": "Esprincesse Sylvan",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 1\nVous pouvez détacher 1 Matériel Xyz de cette carte ; dévoilez la carte du dessus de votre Deck, et si c'est une Magie/Piège, ajoutez-le à votre main. Sinon, envoyez-la au Cimetière. Vous pouvez envoyer 1 autre monstre Plante depuis votre main ou face recto depuis votre Terrain au Cimetière, puis ciblez 1 monstre \"Sylvan\" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Esprincesse Sylvan\" qu'une fois par tour.",
+  "rank": 1,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Plante",
+    "Xyz",
+    "Effet"
+  ]
+}

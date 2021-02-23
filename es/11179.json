@@ -1,0 +1,15 @@
+{
+  "id": 11179,
+  "type": "monster",
+  "name": "Bloqueador de Entradas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Niega los efectos de las Mágicas de Campo de tu adversario. Tu adversario no puede poner contadores en cartas que estén en el Campo. Tu adversario no puede seleccionar otros monstruos que controles con efectos de cartas.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

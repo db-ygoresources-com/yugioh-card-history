@@ -1,0 +1,15 @@
+{
+  "id": 13648,
+  "type": "monster",
+  "name": "Fléau Écarlate Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez payer 1000 LP, puis ciblez 1 monstre \"Vampire\" (\"Fléau Écarlate Vampire\" exclu) dans votre Cimetière ; Invoquez-le Spécialement, mais il ne peut pas attaquer ce tour. Vous ne pouvez utiliser cet effet de \"Fléau Écarlate Vampire\" qu'une fois par tour. À la fin de la Battle Phase, si cette carte a détruit un ou plusieurs monstres au combat : vous pouvez les Invoquer Spécialement depuis les Cimetières sur votre Terrain.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4400,
+  "type": "monster",
+  "name": "Scorpione d'Acciaio",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Un mostro non di Tipo Macchina che attacchi \"Scorpione d'Acciaio\" verrà distrutto nella End Phase del secondo turno del tuo avversario seguente a questo attacco.",
+  "level": 1,
+  "atk": 250,
+  "def": 300,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

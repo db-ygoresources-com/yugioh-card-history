@@ -1,0 +1,18 @@
+{
+  "id": 12136,
+  "type": "monster",
+  "name": "Dinonévoa Cerátopo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Se todos os monstros que você controla forem monstros \"Dinonévoa\" (mín. 1) e nenhum for \"Dinonévoa Cerátopo\", você pode Invocar este card por Invocação-Especial (da sua mão).",
+  "pendEffect": "Se outro(s) card(s) \"Dinonévoa\" que você controla seria(m) destruído(s) em batalha ou por um efeito de card do oponente, em vez disso, você pode destruir este card.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

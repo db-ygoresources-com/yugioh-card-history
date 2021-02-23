@@ -1,0 +1,18 @@
+{
+  "id": 14858,
+  "type": "monster",
+  "name": "Controlador da Gravidade",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 Monstro que não seja Link em uma Zona de Monstros Adicional\nNão pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Este card na Zona de Monstros Adicional não pode ser destruído em batalha com um monstro na Zona de Monstros Principal. No começo da Etapa de Dano, se este card batalhar um monstro do oponente na Zona de Monstros Adicional: você pode devolver tanto esse monstro do oponente quanto este card para o Deck.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Psíquico",
+    "Link",
+    "Efeito"
+  ]
+}

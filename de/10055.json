@@ -1,0 +1,15 @@
+{
+  "id": 10055,
+  "type": "monster",
+  "name": "Lichtstrahl-Hexer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, solange 3 oder mehr deiner LICHT Monster verbannt sind, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 deiner verbannten LICHT Monster und 1 offenes Monster auf dem Spielfeld wählen; mische das erste gewählte Ziel ins Deck und falls du dies tust, verbanne das zweite gewählte Ziel. Diese Karte kann nicht in dem Spielzug angreifen, in dem du diesen Effekt aktivierst.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

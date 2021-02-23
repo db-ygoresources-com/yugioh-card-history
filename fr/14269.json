@@ -1,0 +1,16 @@
+{
+  "id": 14269,
+  "type": "monster",
+  "name": "Deus X-Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque votre adversaire active une carte ou un effet qui cible ce monstre face verso (Effet Rapide) : vous pouvez changer cette carte en Position de Défense face recto ; annulez l'activation, et si vous le faites, détruisez la carte. Après que cette carte a été retournée face recto, tant qu'elle est dans la Zone Monstre, annulez tous les effets de monstre activés sur le Terrain de votre adversaire. Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez ajouter 1 monstre de Niveau 9 de Type et Attribut d'origine différents de cette carte depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Deus X-Krawler\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

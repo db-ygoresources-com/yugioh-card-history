@@ -1,0 +1,15 @@
+{
+  "id": 10035,
+  "type": "monster",
+  "name": "Farfallospia Morfo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, quando viene cambiata la posizione di uno o più mostri di un avversario (eccetto durante il Damage Step): puoi scegliere come bersaglio uno di quei mostri; esso perde 1000 ATK e DEF.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

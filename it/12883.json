@@ -1,0 +1,19 @@
+{
+  "id": 12883,
+  "type": "monster",
+  "name": "Velociroid Dominofarfalla",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Non può essere utilizzato come Materiale Synchro, eccetto che per la Synchro Evocazione di un Mostro Synchro VENTO di Tipo Drago o Macchina. Se questa carta, Evocata Specialmente dall'Extra Deck, viene utilizzata come Materiale per una Synchro Evocazione, bandiscila.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri VENTO. Questo effetto non può essere annullato. Puoi scartare 1 mostro VENTO, poi scegliere come bersaglio 1 dei tuoi mostri VENTO banditi; aggiungilo alla tua mano. Puoi utilizzare questo effetto di \"Velociroid Dominofarfalla\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 100,
+  "def": 300,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13991,
+  "type": "monster",
+  "name": "Meister Frourreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre \"Frourreur\", \"Peluchimal\" ou \"Lutin Tranchant\" de max. Niveau 4 depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Fusion exclus) depuis l'Extra Deck le reste de ce tour. Vous pouvez Sacrifier min. 2 monstres Démon ; Invoquez Spécialement 1 Monstre Fusion \"Frourreur\" depuis votre Extra Deck, dont le Niveau est égal à la somme des Niveaux d'origine de ces monstres. (Ceci est traité comme une Invocation Fusion.) Vous ne pouvez utiliser chaque effet de \"Meister Frourreur\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez Sacrifier 1 monstre \"Frourreur\", \"Peluchimal\" ou \"Lutin Tranchant\" de max. Niveau 4 ; Invoquez Spécialement 1 monstre Démon de même Niveau, mais de nom différent depuis votre Deck. Vous ne pouvez utiliser cet effet de \"Meister Frourreur\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

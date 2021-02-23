@@ -1,0 +1,15 @@
+{
+  "id": 14771,
+  "type": "monster",
+  "name": "Frodi, Boss Genèraideur des Épées",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Frodi, Boss Genèraideur des Épées\". (Effet Rapide) : vous pouvez Sacrifier un nombre de votre choix de monstres \"Genèraideur\" et/ou monstres Guerrier, puis ciblez autant de monstres sur le Terrain ; détruisez-les, puis votre adversaire peut piocher un nombre de cartes égal au nombre de monstres détruits sur son Terrain. Vous ne pouvez utiliser cet effet de \"Frodi, Boss Genèraideur des Épées\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

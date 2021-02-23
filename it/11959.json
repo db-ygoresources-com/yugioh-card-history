@@ -1,0 +1,18 @@
+{
+  "id": 11959,
+  "type": "monster",
+  "name": "Artistamagus Direttore Specchio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, durante il turno di qualsiasi giocatore: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; scambia i suoi ATK e DEF attuali, poi subisci 500 danni. Questo cambio di ATK e DEF dura fino alla fine di questo turno.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto Evocato Specialmente sul Terreno; i suoi ATK e DEF diventano pari al suo ATK o DEF attuale (il più basso dei due) fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

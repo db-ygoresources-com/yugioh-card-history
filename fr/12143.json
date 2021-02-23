@@ -1,0 +1,18 @@
+{
+  "id": 12143,
+  "type": "monster",
+  "name": "Doriado des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez choisir 4 monstres depuis votre Deck (1 TERRE, 1 EAU, 1 FEU et 1 VENT), puis placez-les au-dessus du Deck dans l'ordre de votre choix.",
+  "pendEffect": "Tous les monstres TERRE, EAU, FEU et VENT que vous contrôlez gagnent 200 ATK/DEF pour chaque Attribut différent parmi les monstres que vous contrôlez.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9508,
+  "type": "monster",
+  "name": "Robot Berserker",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Robot Synchronique\" + 1 monstre non-Syntoniseur ou plus\nVous pouvez bannir 1 monstre \"Robot\" (\"Robot Patrouilleur\", \"Chevalier Robotisé\", \"Robot d'Assistance au Combat\", \"Robot Hyper Synchronique\" et \"Robot Vrille Koa'ki Meiru\" exclus) depuis votre Cimetière, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; la cible perd une ATK égale à l'ATK du monstre banni. Au début de la Damage Step, si cette carte attaque un monstre en Position de Défense : détruisez le monstre.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10162,
+  "type": "monster",
+  "name": "Kleiner Kavallerist",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte durch Kampf zerstört wird: Du kannst 1 Monster vom Typ Krieger der Stufe 2 oder niedriger als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören.",
+  "level": 1,
+  "atk": 900,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

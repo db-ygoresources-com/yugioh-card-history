@@ -1,0 +1,15 @@
+{
+  "id": 13819,
+  "type": "monster",
+  "name": "Sandaion, Herr der Zeit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Spezialbeschwörung vom Deck beschworen werden. Du kannst nur 1 „Sandaion, Herr der Zeit“ kontrollieren. Falls nur dein Gegner ein Monster kontrolliert, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Kann weder durch Kampf noch durch Karteneffekte zerstört werden. Kein Spieler erhält Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Am Ende der Battle Phase, falls diese Karte gekämpft hat: Füge deinem Gegner 2000 Schaden zu. Einmal pro Spielzug, während deiner Standby Phase: Mische diese Karte ins Deck.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

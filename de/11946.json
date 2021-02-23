@@ -1,0 +1,18 @@
+{
+  "id": 11946,
+  "type": "monster",
+  "name": "Künstlerkumpel Spritzmammut",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während deiner Main Phase: Du kannst 1 Fusionsmonster vom Typ Drache als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei Monster, die du kontrollierst, als Fusionsmaterial. Du kannst diesen Effekt von „Künstlerkumpel Spritzmammut“ nur einmal pro Duell verwenden.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein oder mehr Fusionsmonster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst 1 offenes „Buntäugig“-Pendelmonster als Spezialbeschwörung von deinem Extra Deck beschwören.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 1900,
+  "def": 2300,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

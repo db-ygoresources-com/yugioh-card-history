@@ -1,0 +1,16 @@
+{
+  "id": 7685,
+  "type": "monster",
+  "name": "Espíritu de Agua",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Este antiguo espíritu de agua ronda los monolitos glaciares de la Antártida. Tiene el poder de filtrarse por los poros de cualquier sustancia y congelarla.",
+  "level": 1,
+  "atk": 400,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Cantante",
+    "Normal"
+  ]
+}

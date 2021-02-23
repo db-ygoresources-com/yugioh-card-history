@@ -1,0 +1,17 @@
+{
+  "id": 7208,
+  "type": "monster",
+  "name": "水晶の占い師",
+  "nameRuby": "すいしょうのうらないし",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "リバース：自分のデッキの上からカードを２枚めくり、その中から１枚を選んで手札に加える。その後、残りのカードをデッキの一番下に戻す。",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "魔法使い族",
+    "リバース",
+    "効果"
+  ]
+}

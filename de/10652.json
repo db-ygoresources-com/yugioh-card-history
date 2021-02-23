@@ -1,0 +1,16 @@
+{
+  "id": 10652,
+  "type": "monster",
+  "name": "Hai-Caesar",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "3 oder mehr (max. 5) Monster der Stufe 3\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; lege 1 Hai-Zählmarke auf diese Karte. Falls diese Karte angreift oder angegriffen wird, erhält sie nur während des Damage Steps 1000 ATK für jede Hai-Zählmarke auf ihr.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 2000,
+  "properties": [
+    "Fisch",
+    "Xyz",
+    "Effekt"
+  ]
+}

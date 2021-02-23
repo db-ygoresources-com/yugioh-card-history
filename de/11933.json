@@ -1,0 +1,18 @@
+{
+  "id": 11933,
+  "type": "monster",
+  "name": "Dharma-Augen-Magier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange diese als Pendelbeschwörung beschworene Karte auf dem Spielfeld liegt, können „Magier“-Pendelmonster, die du kontrollierst, während des Spielzugs, in dem diese Karte als Pendelbeschwörung beschworen wurde, nicht durch Karteneffekte deines Gegners zerstört werden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 Pendelmonster in deiner Hand vorzeigen und dann 1 „Magier“-Karte in deiner Pendelzone wählen; der Pendelbereich des gewählten Ziels wird bis zum Ende dieses Spielzugs derselbe wie der des vorgezeigten Pendelmonsters (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 13202,
+  "type": "monster",
+  "name": "Encodeur Bavard",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres Cyberse\nUne fois par tour, avant le calcul des dommages, si votre monstre pointé par cette carte combat un monstre de l'adversaire avec une ATK supérieure : vous pouvez faire devenir le monstre indestructible par ce combat, et aussi, vous ne recevez aucun dommage de combat de ce combat. Après ce calcul des dommages, jusqu'à la fin de ce tour, faites gagner à cette carte ou 1 monstre qu'elle pointe une ATK égale à l'ATK du monstre de l'adversaire combattu.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "2",
+    "3"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

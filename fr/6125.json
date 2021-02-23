@@ -1,0 +1,15 @@
+{
+  "id": 6125,
+  "type": "monster",
+  "name": "Pénombre Femme Soldat",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte combat un monstre LUMIÈRE, augmentez l'ATK de cette carte de 1000 points durant la Damage Step.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

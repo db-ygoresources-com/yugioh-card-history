@@ -1,0 +1,16 @@
+{
+  "id": 9283,
+  "type": "monster",
+  "name": "サイキック・ブロッカー",
+  "nameRuby": "サイキック・ブロッカー",
+  "englishAttribute": "wind",
+  "localizedAttribute": "風属性",
+  "effectText": "１ターンに１度、カード名を１つ宣言して発動する。次の相手ターン終了時まで、お互いに宣言されたカードをプレイする事はできない。",
+  "level": 4,
+  "atk": 1200,
+  "def": 300,
+  "properties": [
+    "サイキック族",
+    "効果"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15775,
+  "type": "monster",
+  "name": "Myutant Ultimus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 „Myutant“-Monster der Stufe 8 oder höher\nWenn eine Karte oder ein Effekt aktiviert wird (Schnelleffekt): Du kannst 1 „Myutant“-Karte desselben Typs (Monster, Zauber oder Falle) von deiner Hand, deinem Friedhof oder offen von deiner Spielfeldseite verbannen; annulliere die Aktivierung und falls du dies tust, verbanne die Karte. Falls diese als Fusionsbeschwörung beschworene Karte, die du kontrollierst, durch eine Karte eines Gegners zerstört wird: Du kannst deiner Hand bis zu 3 deiner verbannten „Myutant“-Karten (je bis zu 1 Monster, Zauber und Falle) hinzufügen. Du kannst jeden Effekt von „Myutant Ultimus“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psi",
+    "Fusion",
+    "Effekt"
+  ]
+}

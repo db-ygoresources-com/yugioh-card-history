@@ -1,0 +1,15 @@
+{
+  "id": 8898,
+  "type": "monster",
+  "name": "Edelstein-Händler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während des Damage Steps des Spielzugs eines beliebigen Spielers, wenn ein offenes Normales ERDE Monster, das du kontrollierst, angreift oder angegriffen wird: Du kannst diese Karte von deiner Hand auf den Friedhof legen; das Monster erhält bis zur End Phase 1000 ATK und DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

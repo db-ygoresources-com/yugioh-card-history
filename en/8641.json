@@ -1,0 +1,15 @@
+{
+  "id": 8641,
+  "type": "monster",
+  "name": "Shreddder",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Once per turn: You can send 1 Machine-Type monster from your hand to the Graveyard, then target 1 monster your opponent controls with a Level less than or equal to the sent monster's; destroy that target.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

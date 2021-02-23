@@ -1,0 +1,15 @@
+{
+  "id": 5238,
+  "type": "monster",
+  "name": "Lámpara antigua",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano, a \"La Jinn, el Genio Místico de la Lámpara\". Esta carta debe estar boca arriba en el Campo para activar y resolver este efecto. Antes del cálculo de daño, si esta carta está siendo atacada por un monstruo de tu adversario, y estuvo boca abajo al comienzo del Damage Step: puedes seleccionar 1 monstruo que controle tu adversario, excepto el monstruo atacante; el monstruo atacante lo ataca en su lugar, y procedes al cálculo de daño.",
+  "level": 3,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

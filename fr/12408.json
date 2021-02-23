@@ -1,0 +1,18 @@
+{
+  "id": 12408,
+  "type": "monster",
+  "name": "Magicien Acrobatique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si l'activation d'une Carte Magie/Piège est annulée (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsque cette carte est détruite au combat : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Lorsqu'un ou plusieurs monstres que vous contrôlez sont détruits par un effet de carte (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Magicien Acrobatique\" qu'une fois par tour.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 800,
+  "def": 2300,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

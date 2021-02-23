@@ -1,0 +1,16 @@
+{
+  "id": 7894,
+  "type": "monster",
+  "name": "Fabled Raven",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.",
+  "level": 2,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Tuner",
+    "Effect"
+  ]
+}

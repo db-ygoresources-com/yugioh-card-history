@@ -1,0 +1,16 @@
+{
+  "id": 13924,
+  "type": "monster",
+  "name": "Titano Drago del Tuono",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "3 mostri \"Drago del/di Tuono\"\nDeve essere Evocato tramite Fusione, oppure Evocato Specialmente bandendo 1 mostro Tuono dalla tua mano e 1 Mostro Fusione Tuono che controlli, eccetto \"Titano Drago del Tuono\" (nel qual caso non utilizzi \"Polimerizzazione\"). Quando l'effetto di un mostro Tuono viene attivato nella mano, anche durante il Damage Step (Effetto Rapido): puoi distruggere 1 carta sul Terreno. Se questa carta sta per essere distrutta dall'effetto di una carta, puoi invece bandire 2 carte dal tuo Cimitero.",
+  "level": 10,
+  "atk": 3200,
+  "def": 3200,
+  "properties": [
+    "Tuono",
+    "Fusione",
+    "Effetto"
+  ]
+}

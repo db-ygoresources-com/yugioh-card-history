@@ -1,0 +1,16 @@
+{
+  "id": 12774,
+  "type": "monster",
+  "name": "Dragon Pendule aux Yeux Braves",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Dragon Pendule\" + 1 monstre de Type Guerrier\nLorsque cette carte est Invoquée par Fusion : vous pouvez changer l'ATK de tous les monstres face recto actuellement contrôlés par votre adversaire à 0, et aussi, les autres monstres que vous contrôlez ne peuvent pas attaquer le reste de ce tour. Annulez les effets de monstre avec 0 ATK activés. À la fin de la Damage Step, lorsque cette carte attaque un monstre de votre adversaire, mais que le monstre de votre adversaire n'a pas été détruit au combat : vous pouvez bannir le monstre de votre adversaire.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

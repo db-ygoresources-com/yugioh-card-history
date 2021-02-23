@@ -1,0 +1,15 @@
+{
+  "id": 11710,
+  "type": "monster",
+  "name": "Deskbot 004",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card battles an opponent's monster, during damage calculation (in either player's turn): You can activate this effect once per battle; your opponent takes no battle damage for the rest of this turn, also send 1 \"Deskbot\" monster from your Deck to the Graveyard, except \"Deskbot 004\", and if you do, this card gains ATK and DEF equal to the sent monster's Level x 500, during damage calculation only. If this card destroys an opponent's monster by battle: You can Special Summon 2 \"Deskbot\" monsters with different Levels from your hand and/or Graveyard in Defense Position.",
+  "level": 4,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

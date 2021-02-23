@@ -1,0 +1,16 @@
+{
+  "id": 7870,
+  "type": "monster",
+  "name": "Turbo Synchronique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte déclare une attaque : vous pouvez changer la cible de l'attaque en Position de Défense. Lorsque vous recevez des dommages de combat tant que cette carte attaque : vous pouvez Invoquer Spécialement 1 monstre avec une ATK inférieure ou égale aux dommages de combat que vous avez reçus depuis votre main.",
+  "level": 1,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

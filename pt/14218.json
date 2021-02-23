@@ -1,0 +1,16 @@
+{
+  "id": 14218,
+  "type": "monster",
+  "name": "Guerreiro do Sinal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nUma vez por turno, durante a Fase de Apoio: coloque 1 Marcador de Sinal em cada card com a face para cima na Zona do Campo e, além disso, coloque 1 neste card. Este card com um ou mais Marcadores de Sinal não pode ser destruído em batalha ou pelos efeitos de card do seu oponente. Uma vez por turno: você pode remover 4, 7 ou 10 Marcadores de Sinal de qualquer parte do campo; aplique este efeito dependendo do número de Marcadores de Sinal removidos.\n●4: Cause 800 de dano ao seu oponente.\n●7: Compre 1 card.\n●10: Destrua 1 card no campo.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerreiro",
+    "Sincro",
+    "Efeito"
+  ]
+}

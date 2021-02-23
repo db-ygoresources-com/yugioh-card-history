@@ -1,0 +1,15 @@
+{
+  "id": 15249,
+  "type": "monster",
+  "name": "Maugis, Chevalier Noble Inferno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que cette carte est une Carte d'Équipement, le monstre équipé ne peut pas être détruit au combat. Vous ne pouvez utiliser chacun des effets suivants de \"Maugis, Chevalier Noble Inferno\" qu'une fois par tour. Si cette carte est envoyée au Cimetière : vous pouvez mélanger dans le Deck, 3 de vos autres monstres FEU Guerrier et/ou cartes \"Armes Nobles\" qui sont bannis ou dans votre Cimetière ; piochez 1 carte. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre Guerrier que vous contrôlez ; équipez cette carte au monstre que vous contrôlez.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

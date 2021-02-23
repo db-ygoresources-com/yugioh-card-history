@@ -1,0 +1,15 @@
+{
+  "id": 5322,
+  "type": "monster",
+  "name": "Weiser aus den Grenzlanden",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Annulliere alle Zaubereffekte, die ein Monster vom Typ Krieger, das du kontrollierst, als Ziel wählen, und falls du dies tust, zerstöre die Karte.",
+  "level": 3,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14463,
+  "type": "monster",
+  "name": "Simorgh, l'Oiseau de la Calamité",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez envoyer 1 carte \"Simorgh\" (\"Simorgh, l'Oiseau de la Calamité\" exclu) depuis votre Deck au Cimetière. Si cette carte est dans votre Cimetière et que votre adversaire ne contrôle aucune carte dans sa Zone Magie & Piège : vous pouvez Invoquer Spécialement cette carte en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Bête Ailée exclus) le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Simorgh, l'Oiseau de la Calamité\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

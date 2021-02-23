@@ -1,0 +1,16 @@
+{
+  "id": 6454,
+  "type": "monster",
+  "name": "Alakan le Chevalier Harlequin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Chevalier de la Reine\" + \"Chevalier du Valet\" + \"Chevalier du Roi\"\nL'Invocation Fusion de cette carte ne peut être faite qu'avec les Matériels ci-dessus. Une fois par tour, lorsqu'une Carte Magie/Piège ou un effet de monstre qui cible cette carte face recto sur le Terrain est activé (Effet Rapide) : vous pouvez défausser le même type de carte (Monstre, Magie ou Piège) ; annulez l'effet.",
+  "level": 9,
+  "atk": 3800,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

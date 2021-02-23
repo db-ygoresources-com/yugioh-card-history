@@ -1,0 +1,18 @@
+{
+  "id": 11330,
+  "type": "monster",
+  "name": "D/D Orgulloso Caballero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano 1 Monstruo de Péndulo de OSCURIDAD boca arriba en tu Deck Extra.",
+  "pendEffect": "Una vez por turno: puedes pagar 500 LP, y después seleccionar 1 monstruo boca arriba que controle tu adversario; éste pierde 500 ATK (aún si esta carta deja el Campo). A menos que tengas una carta \"D/D\" en tu otra Zona de Péndulo, la Escala de Péndulo de esta carta se convierte en 5.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2000,
+  "def": 700,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

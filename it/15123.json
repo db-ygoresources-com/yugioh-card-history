@@ -1,0 +1,15 @@
+{
+  "id": 15123,
+  "type": "monster",
+  "name": "Spettralich il Signore Dorato",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi mandare questa carta e 1 Magia/Trappola dalla tua mano al Cimitero, poi scegliere come bersaglio 1 carta sul Terreno; mandala al Cimitero. Se questa carta è nel tuo Cimitero: puoi mandare 1 Magia/Trappola che controlli al Cimitero; aggiungi questa carta alla tua mano, poi puoi Evocare Specialmente 1 mostro Zombie dalla tua mano e, se lo fai, fino alla fine del turno del tuo avversario, esso guadagna 1000 ATK/DEF e non può essere distrutto dagli effetti delle carte. Puoi utilizzare ogni effetto di \"Spettralich il Signore Dorato\" una sola volta per turno.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11218,
+  "type": "monster",
+  "name": "Artistamigo Caleidoscorpio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controles; este turno, éste puede atacar a todos los monstruos Invocados de Modo Especial que controle tu adversario, una vez a cada uno.",
+  "pendEffect": "Todos los monstruos de LUZ que controles ganan 300 ATK.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "Insecto",
+    "Péndulo",
+    "Efecto"
+  ]
+}

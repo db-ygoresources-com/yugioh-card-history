@@ -1,0 +1,15 @@
+{
+  "id": 7104,
+  "type": "monster",
+  "name": "Martillador Volcánico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno puedes infligir daño a tu adversario igual a la cantidad de monstruos \"Volcánico\" en tu Cementerio x 200 puntos. Si activas este efecto, esta carta no puede atacar durante este turno.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

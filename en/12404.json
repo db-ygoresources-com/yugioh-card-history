@@ -1,0 +1,18 @@
+{
+  "id": 12404,
+  "type": "monster",
+  "name": "Performapal Gumgumouton",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.",
+  "pendEffect": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 900,
+  "def": 2400,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

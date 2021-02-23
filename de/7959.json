@@ -1,0 +1,16 @@
+{
+  "id": 7959,
+  "type": "monster",
+  "name": "Flamvell-Baby",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während deiner Main Phase kannst du diese Karte von deiner Hand auf den Friedhof legen, um 1 offenes FEUER Monster zu wählen, das du kontrollierst, und es 400 ATK erhalten zu lassen.",
+  "level": 1,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5585,
+  "type": "monster",
+  "name": "Tigre Zombie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, puoi: scegli come bersaglio 1 \"Comandante Decaduto\" che controlli; equipaggia questa carta a quel bersaglio, OPPURE: disequipaggia questa carta ed Evocala Specialmente in Posizione di Attacco. Mentre è equipaggiato da questo effetto, il mostro equipaggiato guadagna 500 ATK/DEF. Se il mostro equipaggiato distrugge un mostro dell'avversario in battaglia: scarta 1 carta a caso dalla sua mano. (Un mostro può essere equipaggiato con 1 solo mostro Unione alla volta. Se il mostro equipaggiato sta per essere distrutto in battaglia, distruggi invece questa carta.)",
+  "level": 3,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Unione",
+    "Effetto"
+  ]
+}

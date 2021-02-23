@@ -1,0 +1,15 @@
+{
+  "id": 5238,
+  "type": "monster",
+  "name": "Lampada Antica",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Durante la tua Main Phase: puoi Evocare Specialmente \"Genio della Lampada\" dalla tua mano. Questa carta deve essere scoperta sul Terreno per attivare e risolvere questo effetto. Prima del calcolo dei danni, se questa sta venendo attaccata da un mostro dell'avversario, ed era coperta all'inizio del Damage Step: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario, eccetto il mostro attaccante; il mostro attaccante attacca invece quel mostro, e procedi al calcolo dei danni.",
+  "level": 3,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

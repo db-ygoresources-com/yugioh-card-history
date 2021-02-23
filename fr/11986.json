@@ -1,0 +1,16 @@
+{
+  "id": 11986,
+  "type": "monster",
+  "name": "Soldat du Lustre Noir - Super Soldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Rituel du Super Soldat\". Si cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : infligez des dommages à votre adversaire égaux à son ATK dans le Cimetière. Si cette carte est détruite au combat et envoyée au Cimetière, ou si cette carte en votre possession est détruite par un effet de carte de votre adversaire et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement 1 monstre \"Gaïa le Chevalier Implacable\" (\"Aile Sombre Chevalier de Gaia\" inclus) depuis votre main, Deck ou Cimetière. Vous ne pouvez Invoquez Spécialement un ou plusieurs \"Soldat du Lustre Noir - Super Soldat\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Rituel",
+    "Effet"
+  ]
+}

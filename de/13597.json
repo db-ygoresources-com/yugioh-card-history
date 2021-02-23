@@ -1,0 +1,18 @@
+{
+  "id": 13597,
+  "type": "monster",
+  "name": "Albtraumritterin Meerjungfrau",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 „Albtraumritter“-Monster, außer „Albtraumritterin Meerjungfrau“\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Karte abwerfen; beschwöre 1 „Albtraumritter“-Monster als Spezialbeschwörung von deinem Deck, dann, falls diese Karte kreuzgelinkt war, als dieser Effekt aktiviert wurde, kannst du 1 Karte ziehen. Du kannst diesen Effekt von „Albtraumritterin Meerjungfrau“ nur einmal pro Spielzug verwenden. Monster auf dem Spielfeld verlieren 1000 ATK/DEF, es sei denn, sie sind kreuzgelinkt.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

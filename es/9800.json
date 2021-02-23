@@ -1,0 +1,16 @@
+{
+  "id": 9800,
+  "type": "monster",
+  "name": "Dragón de la Influencia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controles; éste se convierte en Tipo Dragón hasta la End Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Dragón",
+    "Cantante",
+    "Efecto"
+  ]
+}

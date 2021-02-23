@@ -1,0 +1,16 @@
+{
+  "id": 11718,
+  "type": "monster",
+  "name": "Chimère Frourreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres \"Frourreur\"\nUniquement Invocable par Fusion et non Invocable Spécialement autrement. Si cette carte combat, votre adversaire ne peut ni activer de cartes ni d'effets jusqu'à la fin de la Damage Step. Lorsque cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : vous pouvez Invoquer Spécialement le monstre sur votre Terrain, mais son ATK est divisée par deux. Vous ne pouvez utiliser cet effet de \"Chimère Frourreur\" qu'une fois par tour. Cette carte gagne 300 ATK pour chaque monstre que vous contrôlez dont le propriétaire est votre adversaire.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

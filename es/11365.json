@@ -1,0 +1,15 @@
+{
+  "id": 11365,
+  "type": "monster",
+  "name": "Lindflorecido",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si un monstruo que controlas batalla con un monstruo de tu adversario, durante el cálculo de daño: hasta el final del Damage Step, el ATK de cada monstruo en esa batalla se convierte en su DEF en este momento.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Wyrm",
+    "Efecto"
+  ]
+}

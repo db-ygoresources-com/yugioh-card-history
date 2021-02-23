@@ -1,0 +1,18 @@
+{
+  "id": 11477,
+  "type": "monster",
+  "name": "Yosenju Shinchu D",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es Invocada de Modo Normal: cámbiala a Posición de Defensa. Los monstruos que controle tu adversario no pueden seleccionar para ataques a monstruos \"Yosenju\" boca arriba, excepto a éste.",
+  "pendEffect": "Una vez por turno, si tienes una carta \"Yosenju\" en tu otra Zona de Péndulo: hasta el final de este turno, puedes hacer que la Escala de Péndulo de esta carta se convierta en 11, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Yosenju\" (aún si esta carta deja el Campo).",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Roca",
+    "Péndulo",
+    "Efecto"
+  ]
+}

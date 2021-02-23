@@ -1,0 +1,15 @@
+{
+  "id": 7567,
+  "type": "monster",
+  "name": "Dragón de Material de Primera",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cualquier efecto que fuera a infligir daño a un jugador aumenta en su lugar sus Life Points en esa misma cantidad. Durante el turno de cualquier jugador, cuando es activada una carta o efecto que fuera a destruir uno o más monstruos en el Campo: puedes mandar al Cementerio 1 carta en tu mano; niega la activación y, si lo haces, destruye la carta.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

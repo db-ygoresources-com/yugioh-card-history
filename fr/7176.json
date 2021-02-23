@@ -1,0 +1,16 @@
+{
+  "id": 7176,
+  "type": "monster",
+  "name": "Darkbright, HÉROS Élémentaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Sparkman, HÉROS Élémentaire\" + \"Nécrombre, HÉROS Élémentaire\"\nCe monstre ne peut pas être Invoqué Spécialement excepté par une Invocation Fusion. Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en tant que dommages de combat à votre adversaire. Si cette carte attaque, changez-la en Position de Défense à la fin de la Damage Step. Si cette carte est détruite, détruisez 1 monstre contrôlé par votre adversaire.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

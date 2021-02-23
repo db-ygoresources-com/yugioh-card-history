@@ -1,0 +1,15 @@
+{
+  "id": 11189,
+  "type": "monster",
+  "name": "Magic Hand",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When your opponent adds a card(s) from their Deck to their hand, except by drawing them (except during the Damage Step): You can send that card(s) to the GY, and if you do, inflict 800 damage to your opponent. This effect can only be used once while this card is face-up on the field.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

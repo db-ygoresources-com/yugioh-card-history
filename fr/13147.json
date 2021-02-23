@@ -1,0 +1,16 @@
+{
+  "id": 13147,
+  "type": "monster",
+  "name": "Ligre Familier Amazonesse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Tigresse Amazonesse\" + 1 monstre \"Amazonesse\"\nUne fois par combat, si cette carte attaque, durant le calcul des dommages : durant ce calcul des dommages uniquement, vous pouvez faire gagner 500 ATK à cette carte. Si votre monstre \"Amazonesse\" a attaqué un monstre de l'adversaire, après le calcul des dommages : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; il perd 800 ATK. Les monstres contrôlés par votre adversaire ne peuvent pas attaquer de monstres \"Amazonesse\" que vous contrôlez (celui-ci exclu).",
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Bête",
+    "Fusion",
+    "Effet"
+  ]
+}

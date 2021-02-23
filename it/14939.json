@@ -1,0 +1,19 @@
+{
+  "id": 14939,
+  "type": "monster",
+  "name": "Echidna Rettiliana",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri, compreso un mostro Rettile\nSe questa carta viene Evocata Link: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; cambia il suo ATK a 0. Durante la tua Main Phase, se il tuo avversario controlla uno o più mostri con 0 ATK: puoi aggiungere mostri Rettile con nomi diversi dal tuo Deck alla tua mano, fino al numero di mostri con 0 ATK controllati dal tuo avversario, inoltre non puoi Evocare Specialmente mostri dall'Extra Deck per il resto di questo turno, eccetto mostri Rettile. Puoi utilizzare ogni effetto di \"Echidna Rettiliana\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 200,
+  "properties": [
+    "Rettile",
+    "Link",
+    "Effetto"
+  ]
+}

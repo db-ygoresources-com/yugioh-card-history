@@ -1,0 +1,17 @@
+{
+  "id": 12869,
+  "type": "monster",
+  "name": "Fleur Cardian Contemplation des Fleurs de Lune",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 2 monstres non-Syntoniseur\nUne fois par tour, durant votre Main Phase : vous pouvez piocher 1 carte, et si vous le faites, montrez-la, puis, si c'est un monstre \"Fleur Cardian\", vous pouvez l'Invoquer Spécialement, en ignorant ses conditions d'Invocation, et il ne peut pas attaquer directement ce tour. Si vous avez activé cet effet, sautez la Draw Phase de votre prochain tour. Lorsque cette carte est utilisée comme Matériel Synchro, vous pouvez traiter cette carte et tous les autres Matériels Synchro (qui ont un Niveau) comme des monstres de Niveau 2.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

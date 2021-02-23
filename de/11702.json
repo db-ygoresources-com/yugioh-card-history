@@ -1,0 +1,18 @@
+{
+  "id": 11702,
+  "type": "monster",
+  "name": "Zefraxa, Flammenungeheuer der Nekroz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange sich diese Karte in deiner Hand oder deinem Friedhof befindet, falls eine oder mehr offene „Nekroz“- oder „Zefra“-Karten, außer „Zefraxa, Flammenungeheuer der Nekroz“, durch Kampf oder einen Karteneffekt zerstört werden, solange sie in deiner Monster- oder Pendelzone liegen: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Zefraxa, Flammenungeheuer der Nekroz“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Nekroz“- und „Zefra“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

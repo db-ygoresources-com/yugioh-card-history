@@ -1,0 +1,18 @@
+{
+  "id": 12134,
+  "type": "monster",
+  "name": "Dinofoschia Pteran",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Quando questa carta distrugge un mostro dell'avversario in battaglia: puoi aggiungere 1 carta \"Dinofoschia\" dal tuo Deck alla tua mano.",
+  "pendEffect": "Se una o più altre carte \"Dinofoschia\" che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta dell'avversario, puoi invece distruggere questa carta.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

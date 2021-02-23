@@ -1,0 +1,16 @@
+{
+  "id": 8603,
+  "type": "monster",
+  "name": "Arácnido Subterráneo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante de OSCURIDAD + 1 monstruo de Tipo Insecto que no sea Cantante\nSi esta carta ataca, tu adversario no puede activar Cartas Mágicas/de Trampa hasta el final del Damage Step. Una vez por turno, puedes seleccionar 1 monstruo boca arriba que controle tu adversario y equipárselo a esta carta. Si esta carta fuera a ser destruida en batalla, puedes destruir en su lugar al monstruo equipado por este efecto. (Sólo puedes equiparle 1 monstruo a la vez a esta carta.)",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Insecto",
+    "Sincronía",
+    "Efecto"
+  ]
+}

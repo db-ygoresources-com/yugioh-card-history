@@ -1,0 +1,16 @@
+{
+  "id": 14079,
+  "type": "monster",
+  "name": "Cyberse Synchronique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre de max. Niveau 4 que vous contrôlez ; jusqu'à la fin de ce tour, augmentez son Niveau de son Niveau d'origine. Si un ou plusieurs de vos monstres dans la Zone Monstre Extra vont être détruits au combat ou par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place. Vous ne pouvez utiliser cet effet de \"Cyberse Synchronique\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Cyberse",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14670,
+  "type": "monster",
+  "name": "Âme Désenchaînée de la Rage",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres (un monstre \"Âme Désenchaînée\" inclus)\nDurant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre face recto Invoqué Spécialement contrôlé par votre adversaire ; immédiatement après la résolution de cet effet, Invoquez par Lien 1 Monstre Lien TÉNÈBRES (\"Âme Désenchaînée de la Rage\" exclu), en utilisant uniquement le monstre de l'adversaire et cette carte que vous contrôlez comme Matériel. Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre Démon (\"Âme Désenchaînée de la Rage\" exclu) dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser chaque effet de \"Âme Désenchaînée de la Rage\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

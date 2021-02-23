@@ -1,0 +1,15 @@
+{
+  "id": 6598,
+  "type": "monster",
+  "name": "Insecte Silencieux",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte est changée en Position de Défense lorsqu'elle est Invoquée par Invocation Normale ou Invocation Flip. Tant que cette carte est face recto sur le Terrain, annulez les effets de toutes les Cartes Magie Continue et Cartes Piège Continu.",
+  "level": 2,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

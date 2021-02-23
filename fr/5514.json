@@ -1,0 +1,15 @@
+{
+  "id": 5514,
+  "type": "monster",
+  "name": "Sentinelle des Protecteurs du Tombeau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant le tour de chaque joueur, lorsque votre adversaire active une Carte Magie/Piège ou un effet de monstre qui le ferait défausser lors de sa résolution : vous pouvez envoyer cette carte depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la/le.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

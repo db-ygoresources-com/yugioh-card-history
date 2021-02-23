@@ -1,0 +1,15 @@
+{
+  "id": 10398,
+  "type": "monster",
+  "name": "Caballero de la Valkiria",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Los monstruos que controla tu adversario no pueden seleccionar para ataques a monstruos de Tipo Guerrero boca arriba, excepto a \"Caballero de la Valkiria\". Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes desterrar 1 monstruo de Tipo Guerrero y esta carta en tu Cementerio, y después seleccionar 1 monstruo de Tipo Guerrero de Nivel 5 o mayor en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

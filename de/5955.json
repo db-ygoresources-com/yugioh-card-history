@@ -1,0 +1,15 @@
+{
+  "id": 5955,
+  "type": "monster",
+  "name": "Das Unglückliche Mädchen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange diese Karte offen in Angriffsposition auf dem Spielfeld liegt, kann diese Karte nicht als Ergebnis eines Kampfes zerstört werden. Ein Monster, das gegen diese Karte kämpft, kann weder angreifen noch seine Position ändern, solange diese Karte offen in Angriffsposition auf dem Spielfeld liegt.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

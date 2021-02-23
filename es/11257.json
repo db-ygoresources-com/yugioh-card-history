@@ -1,0 +1,16 @@
+{
+  "id": 11257,
+  "type": "monster",
+  "name": "El Sombrañeca Winda",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Sombrañeca\" + 1 monstruo de OSCURIDAD\nDebe ser primero Invocado por Fusión. No puede ser destruido por efectos de cartas del adversario. Mientras esta carta esté boca arriba en el Campo, cada jugador sólo puede Invocar uno o más monstruos de Modo Especial una vez por turno. Si esta carta es mandada al Cementerio: puedes seleccionar 1 Mágica/Trampa \"Sombrañeca\" en tu Cementerio; añádela a tu mano.",
+  "level": 5,
+  "atk": 2200,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9993,
+  "type": "monster",
+  "name": "Oiseau-Tonnerre Colonie du Mal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant le tour de chaque joueur, lorsqu'une carte ou un effet est activé (sauf durant la Damage Step) : vous pouvez bannir cette carte que vous contrôlez. Durant la prochaine Standby Phase, renvoyez cette carte bannie par cet effet sur le Terrain, et si vous le faites, elle gagne 300 ATK. Vous ne pouvez utiliser cet effet de \"Oiseau-Tonnerre Colonie du Mal\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1650,
+  "def": 1050,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

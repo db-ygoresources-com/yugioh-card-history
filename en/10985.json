@@ -1,0 +1,15 @@
+{
+  "id": 10985,
+  "type": "monster",
+  "name": "Sylvan Mikorange",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: All Plant-Type monsters you currently control gain 300 ATK and DEF.",
+  "level": 3,
+  "atk": 400,
+  "def": 1100,
+  "properties": [
+    "Plant",
+    "Effect"
+  ]
+}

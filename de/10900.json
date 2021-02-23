@@ -1,0 +1,15 @@
+{
+  "id": 10900,
+  "type": "monster",
+  "name": "Gorgonischer Zerberus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst alle Monster vom Typ Fels, die du kontrollierst, Stufe 3 werden lassen.",
+  "level": 3,
+  "atk": 1300,
+  "def": 300,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7419,
+  "type": "monster",
+  "name": "Der finstere Schöpfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 5 oder mehr FINSTERNIS Monster in deinem Friedhof hast, solange du keine Monster kontrollierst. Einmal pro Spielzug: Du kannst 1 FINSTERNIS Monster von deinem Friedhof verbannen, um 1 FINSTERNIS Monster in deinem Friedhof zu wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 8,
+  "atk": 2300,
+  "def": 3000,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

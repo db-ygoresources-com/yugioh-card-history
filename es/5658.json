@@ -1,0 +1,15 @@
+{
+  "id": 5658,
+  "type": "monster",
+  "name": "Librería Mágica Real",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cada vez que se active una Carta Mágica, cuando se resuelva esa Mágica pon 1 Contador Mágico en esta carta (máx. 3). Puedes retirar 3 Contadores Mágicos de esta carta; roba 1 carta.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14122,
+  "type": "monster",
+  "name": "Update Jammer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 Level 2 or higher Cyberse monsters\nOnce per battle, during damage calculation, if your Cyberse monster battles (Quick Effect): You can activate this effect; negate all other card effects on the field until the end of the Damage Step, damage calculation for this battle uses each monster's original ATK/DEF, also if an opponent's monster is destroyed by this battle and sent to the GY, inflict 1000 damage to your opponent. If this card is sent to the GY as Link Material: That Link Monster can make a second attack during each Battle Phase this turn.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "4"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effect"
+  ]
+}

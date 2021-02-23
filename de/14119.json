@@ -1,0 +1,16 @@
+{
+  "id": 14119,
+  "type": "monster",
+  "name": "Hyperpsychischer Aufsteiger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nMonster, die weniger ATK als diese Karte haben, können nicht angreifen, zusätzlich kann kein Spieler die Effekte von offenen Monstern auf dem Spielfeld aktivieren, die mehr ATK als diese Karte haben. Falls diese Karte, die dir gehört, durch eine Karte deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 Empfänger und 1 Nicht-Empfänger-Monster, welche denselben Typ und dieselbe Eigenschaft haben, in deinem Friedhof wählen; füge sie deiner Hand hinzu. Du kannst diesen Effekt von „Hyperpsychischer Aufsteiger“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

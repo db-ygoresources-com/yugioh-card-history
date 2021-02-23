@@ -1,0 +1,16 @@
+{
+  "id": 10885,
+  "type": "monster",
+  "name": "Minerva, Lightsworn Maiden",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When this card is Normal Summoned: You can add 1 LIGHT Dragon-Type monster from your Deck to your hand, whose Level is less than or equal to the total number of \"Lightsworn\" monsters with different names in your Graveyard. If this card is sent from the hand or Deck to the Graveyard: Send the top card of your Deck to the Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Spellcaster",
+    "Tuner",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12121,
+  "type": "monster",
+  "name": "Partitura la Diva Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante el cálculo de daño (en el turno de cualquier jugador), si un monstruo \"Melodiosa\" que controlas batalla con un monstruo de tu adversario: puedes mandar al Cementerio esta carta en tu mano; hasta el final de este turno, cambia a 0 el ATK y la DEF de ese monstruo de tu adversario.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

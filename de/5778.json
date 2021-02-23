@@ -1,0 +1,15 @@
+{
+  "id": 5778,
+  "type": "monster",
+  "name": "Schädel-Erzunterweltler der Blitze",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während jeder deiner Standby Phasen musst du 500 Life Points zahlen (dies ist nicht optional), sonst wird diese Karte zerstört. Wenn ein Karteneffekt deines Gegner aufgelöst wird, der diese Karte als Ziel wählt, wirf einen sechsseitigen Würfel, annulliere den Effekt, falls du 1, 3 oder 6 gewürfelt hast, und falls du dies tust, zerstöre die Karte.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10368,
+  "type": "monster",
+  "name": "Lance Requin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez augmenter les Niveaux de tous les monstres de Type Poisson de Niveau 3 que vous contrôlez actuellement de 1. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

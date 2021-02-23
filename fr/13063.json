@@ -1,0 +1,15 @@
+{
+  "id": 13063,
+  "type": "monster",
+  "name": "Jeanne la Générale, Seigneur Lumière du Crépuscule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez bannir 1 monstre \"Seigneur Lumière\" depuis votre main ou Cimetière, puis ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, il perd une ATK/DEF égales au Niveau du monstre banni x 300. Une fois par tour, si un autre effet de votre monstre \"Seigneur Lumière\" est activé : envoyez les 2 cartes du dessus de votre Deck au Cimetière.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

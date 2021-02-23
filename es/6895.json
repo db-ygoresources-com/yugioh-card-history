@@ -1,0 +1,15 @@
+{
+  "id": 6895,
+  "type": "monster",
+  "name": "Rinoceronte Arrasador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, esta carta puede moverse a una Zona de Cartas de Monstruo que sea adyacente y no esté ocupada. Si esta carta ataca a un monstruo en su misma columna, esta carta gana 500 ATK durante el Damage Step.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

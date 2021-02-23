@@ -1,0 +1,16 @@
+{
+  "id": 11824,
+  "type": "monster",
+  "name": "Oiseau de Paradis Perdu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte gagne 100 ATK/DEF pour chaque monstre Syntoniseur dans votre Cimetière. Une fois par tour : vous pouvez envoyer 1 monstre Syntoniseur depuis votre main au Cimetière, puis ciblez 1 monstre contrôlé par votre adversaire ; jusqu'à la End Phase, prenez son contrôle.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

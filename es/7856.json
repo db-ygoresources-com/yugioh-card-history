@@ -1,0 +1,15 @@
+{
+  "id": 7856,
+  "type": "monster",
+  "name": "Paladín del Dragón Maldito",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo Zombi de Nivel 4 o menor en el Cementerio de tu adversario, que haya sido destruido en batalla; Invoca ese objetivo de Modo Especial.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

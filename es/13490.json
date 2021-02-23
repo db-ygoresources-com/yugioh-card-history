@@ -1,0 +1,19 @@
+{
+  "id": 13490,
+  "type": "monster",
+  "name": "Archidemonio Rey Máster",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Demonio\nUna vez por turno, durante tu Standby Phase, paga 500 LP o destruye esta carta. Una vez por Cadena, si pagas LP (excepto durante el Damage Step): puedes mandar al Cementerio 1 monstruo Demonio en tu Deck con ATK o DEF igual a la cantidad pagada. Una vez por Cadena, si uno o más monstruos Demonio son mandados a tu Cementerio (excepto durante el Damage Step): puedes lanzar un dado de seis caras, y después aplicar este efecto a 1 de esos monstruos basándote en el resultado.\n●1: Añádelo a tu mano.\n●2, 3, 4, 5: Barájalo al Deck.\n●6: Invócalo de Modo Especial.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

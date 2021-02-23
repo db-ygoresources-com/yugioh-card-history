@@ -1,0 +1,16 @@
+{
+  "id": 9578,
+  "type": "monster",
+  "name": "Buten",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während deiner Main Phase: Du kannst diese Karte vom Friedhof verbannen, um 1 offenes LICHT Monster vom Typ Fee der Stufe 4 oder niedriger zu wählen, das du kontrollierst; es wird als Empfänger-Monster behandelt, solange es offen auf dem Spielfeld liegt.",
+  "level": 1,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

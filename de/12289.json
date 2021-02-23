@@ -1,0 +1,16 @@
+{
+  "id": 12289,
+  "type": "monster",
+  "name": "Schwarzflügel - Decay der böse Wind",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du erhältst 1000 Schaden. Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Schwarzflügel“-Monster wählen, das du kontrollierst, und dann 1 dieser Effekte aktivieren;\n●Erhöhe seine Stufe um 1.\n●Verringere seine Stufe um 1.\nDu kannst diesen Effekt von „Schwarzflügel - Decay der böse Wind“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

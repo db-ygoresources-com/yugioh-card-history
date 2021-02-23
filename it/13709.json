@@ -1,0 +1,15 @@
+{
+  "id": 13709,
+  "type": "monster",
+  "name": "F.A. Dragster dell'Oscurità",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) avendo un mostro \"F.A.\" di Livello 7 o superiore sul Terreno, ma nessun \"F.A. Dragster dell'Oscurità\" nella tua Zona Mostri. Guadagna ATK pari al suo Livello x 300. Ogni volta che viene attivata una Carta Magia/Trappola \"F.A.\" o un loro effetto: puoi aumentare il Livello di questa carta di 1. Una volta per turno: puoi scegliere come bersaglio 1 carta sul Terreno; riduci il Livello di questa carta di 3 e, se lo fai, distruggi quel bersaglio.",
+  "level": 7,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

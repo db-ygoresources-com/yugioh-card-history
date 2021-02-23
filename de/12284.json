@@ -1,0 +1,18 @@
+{
+  "id": 12284,
+  "type": "monster",
+  "name": "Lunalicht Wolf",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein „Lunalicht“-Monster, das du kontrollierst, ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Lunalicht“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 1 „Lunalicht“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du das auf ihm aufgeführte Fusionsmaterial von deiner Spielfeldseite oder deinem Friedhof verbannst.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

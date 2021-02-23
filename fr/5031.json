@@ -1,0 +1,15 @@
+{
+  "id": 5031,
+  "type": "monster",
+  "name": "Lily Fée des Piqûres",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte attaque ou est attaquée, durant le calcul des dommages (du tour de chaque joueur) : une fois par combat, vous pouvez payer 2000 LP ; durant ce calcul des dommages uniquement, cette carte gagne 3000 ATK.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14260,
+  "type": "monster",
+  "name": "Réflecteur Psionique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Activation Mode Assaut\", ou 1 carte qui liste spécifiquement \"Activation Mode Assaut\" dans son texte (\"Réflecteur Psionique\" exclu) depuis votre Deck à votre main. Vous pouvez révéler 1 \"Activation Mode Assaut\" dans votre main, puis ciblez 1 monstre dans votre Cimetière qui liste spécifiquement \"Activation Mode Assaut\" dans son texte (\"Réflecteur Psionique\" exclu) ; Invoquez-le Spécialement, et si vous le faites, augmentez son Niveau de 1 à 4. Vous ne pouvez utiliser chaque effet de \"Réflecteur Psionique\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Psychique",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

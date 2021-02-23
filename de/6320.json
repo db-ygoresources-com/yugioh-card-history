@@ -1,0 +1,15 @@
+{
+  "id": 6320,
+  "type": "monster",
+  "name": "Verlorener Wächter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Die Grund-DEF dieser Karte entsprechen der Anzahl deiner verbannten Monster vom Typ Fels x 700.",
+  "level": 4,
+  "atk": 100,
+  "def": -1,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

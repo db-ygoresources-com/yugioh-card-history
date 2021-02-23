@@ -1,0 +1,15 @@
+{
+  "id": 12279,
+  "type": "monster",
+  "name": "Pachingo-Kart Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez défausser 1 monstre de Type Machine, puis ciblez 1 monstre sur le Terrain ; détruisez-le.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

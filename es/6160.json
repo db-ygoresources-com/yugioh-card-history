@@ -1,0 +1,15 @@
+{
+  "id": 6160,
+  "type": "monster",
+  "name": "Bloqueador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Sacrificar esta carta; Invoca de Modo Especial, en Posición de Defensa, una cantidad de \"Ficha Bloqueadora\" (Tipo Roca/TIERRA/Nivel 4/ATK 1000/DEF 1500) igual al número de tus turnos que esta carta haya estado boca arriba en tu Campo. Estas Fichas no pueden declarar un ataque.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

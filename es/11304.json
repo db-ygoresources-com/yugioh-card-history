@@ -1,0 +1,16 @@
+{
+  "id": 11304,
+  "type": "monster",
+  "name": "Ancla de Basura",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Para una Invocación por Sincronía, puedes sustituir esta carta por cualquier Cantante \"Sincrón\" (o \"Sincronizador\"). Una vez por turno: puedes descartar 1 carta, y después seleccionar 1 monstruo \"Basura\" que no sea Cantante en tu Cementerio; Invoca ese objetivo de Modo Especial y, si lo haces, inmediatamente después de que este efecto se resuelva, Invoca por Sincronía 1 Monstruo de Sincronía que liste un monstruo \"Sincrón\" (o \"Sincronizador\") como Cantante, usando solamente ese monstruo y esta carta. Estos Materiales de Sincronía son desterrados en lugar de ser mandados al Cementerio.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

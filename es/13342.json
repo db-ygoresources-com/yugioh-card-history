@@ -1,0 +1,19 @@
+{
+  "id": 13342,
+  "type": "monster",
+  "name": "Dragón Sobrerráfaga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos \"Cohette\"\nPuedes seleccionar otro Monstruo de Enlace que controlas; Invoca de Modo Especial, desde tu mano, 1 monstruo \"Cohette\" a tu zona a la que apunte ese objetivo, pero el monstruo Invocado por este efecto no puede ser usado como Material de Enlace, y además destrúyelo durante la End Phase. Sólo puedes usar este efecto de \"Dragón Sobrerráfaga\" una vez por turno. Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes seleccionar 1 monstruo \"Cohette\" en tu Cementerio; añádelo a tu mano.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

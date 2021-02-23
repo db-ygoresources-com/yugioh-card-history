@@ -1,0 +1,16 @@
+{
+  "id": 10817,
+  "type": "monster",
+  "name": "Tour Bus To Forbidden Realms",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Add 1 Fiend monster from your Deck to your hand, except a DARK or LIGHT monster.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Flip",
+    "Effect"
+  ]
+}

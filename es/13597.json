@@ -1,0 +1,18 @@
+{
+  "id": 13597,
+  "type": "monster",
+  "name": "Caballero de Pesadilla Sirena",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "1 monstruo \"Caballero de Pesadilla\", excepto \"Caballero de Pesadilla Sirena\"\nSi esta carta es Invocada por Enlace: puedes descartar 1 carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Caballero de Pesadilla\" y después, si esta carta fue co-enlazada cuando este efecto fue activado, puedes robar 1 carta. Sólo puedes usar este efecto de \"Caballero de Pesadilla Sirena\" una vez por turno. Los monstruos en el Campo pierden 1000 ATK/DEF, a menos que estén co-enlazados.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

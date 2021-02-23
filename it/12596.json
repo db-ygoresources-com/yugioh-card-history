@@ -1,0 +1,15 @@
+{
+  "id": 12596,
+  "type": "monster",
+  "name": "Predapianta Acchiappamosche",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; metti 1 Segnalino Predatore su di esso e, se è di Livello 2 o superiore, esso diventa di Livello 1 fino a quando ha un Segnalino Predatore. All'inizio del Damage Step, quando questa carta combatte con un mostro di Livello pari o inferiore: puoi distruggere quel mostro, poi aumentare il Livello di questa carta del Livello originale del mostro distrutto.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

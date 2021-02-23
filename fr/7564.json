@@ -1,0 +1,15 @@
+{
+  "id": 7564,
+  "type": "monster",
+  "name": "Anguille des Abysses",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est envoyée du Terrain au Cimetière, tous les monstres EAU face recto que vous contrôlez gagnent 500 points d'ATK jusqu'à la fin de ce tour.",
+  "level": 1,
+  "atk": 600,
+  "def": 100,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

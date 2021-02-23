@@ -1,0 +1,15 @@
+{
+  "id": 10040,
+  "type": "monster",
+  "name": "Cameraclope",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card atacar um monstro com a face para cima no campo, no começo da Etapa de Dano: destrua esse monstro. A DEF dele deve ser maior que o ATK deste card para que você possa ativar e resolver este efeito.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

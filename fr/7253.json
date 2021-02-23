@@ -1,0 +1,16 @@
+{
+  "id": 7253,
+  "type": "monster",
+  "name": "Guerrier Fossile Roi Squelette",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre Rocher + 1 monstre de min. Niveau 7\nDoit d'abord être Invoquée Spécialement avec \"Fusion Fossile\". Durant chaque Battle Phase, cette carte peut faire une seconde attaque. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire ; défaussez 1 carte, et si vous le faites, Invoquez Spécialement le monstre sur votre Terrain. Vous ne pouvez utiliser cet effet de \"Guerrier Fossile Roi Squelette\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1300,
+  "properties": [
+    "Rocher",
+    "Fusion",
+    "Effet"
+  ]
+}

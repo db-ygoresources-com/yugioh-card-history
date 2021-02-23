@@ -1,0 +1,18 @@
+{
+  "id": 14469,
+  "type": "monster",
+  "name": "Mayosenju Hitot",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Non può essere Evocato Specialmente, eccetto tramite Evocazione Pendulum. Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; falla ritornare nella mano. Ogni volta che una o più carte sul Terreno vengono fatte ritornare nella mano o nel Main Deck da un tuo effetto di carta, mentre questa carta è sul Terreno: tutti i mostri \"Yosenju\" che controlli attualmente guadagnano 500 ATK. Una volta per turno, durante la End Phase, se questa carta è stata Evocata Specialmente in questo turno: falla ritornare nella mano.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 carta \"Yosenju\" nella tua Zona Pendulum; per il resto di questo turno, il suo Valore Pendulum diventa 11, inoltre non puoi Evocare Specialmente mostri, eccetto mostri \"Yosenju\" (anche se questa carta lascia il Terreno). Durante la tua End Phase: fai ritornare questa carta nella mano. Puoi utilizzare ogni Effetto Pendulum di \"Mayosenju Hitot\" una sola volta per turno.",
+  "pendScale": 3,
+  "level": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

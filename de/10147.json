@@ -1,0 +1,15 @@
+{
+  "id": 10147,
+  "type": "monster",
+  "name": "Die Mäßigkeit der Prophezeiung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während deiner Main Phase, falls du in diesem Spielzug bereits eine „Magiebuch“-Zauberkarte aktiviert hast: Du kannst diese Karte als Tribut anbieten; beschwöre 1 LICHT oder FINSTERNIS Monster vom Typ Hexer der Stufe 5 oder höher als Spezialbeschwörung von deinem Deck. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, kein anderes Monster der Stufe 5 oder höher als Spezialbeschwörung beschwören.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

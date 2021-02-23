@@ -1,0 +1,15 @@
+{
+  "id": 7299,
+  "type": "monster",
+  "name": "Außerirdischer Telepath",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug kannst du 1 A-Zählmarke von einem Monster deines Gegners entfernen, um 1 Zauber- oder Fallenkarte zu zerstören. (Falls ein Monster mit einer A-Zählmarke gegen ein „Außerirdisch“-Monster kämpft, verliert es nur während der Schadensberechnung 300 ATK und DEF für jede A-Zählmarke.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

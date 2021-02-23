@@ -1,0 +1,15 @@
+{
+  "id": 11954,
+  "type": "monster",
+  "name": "D/D Berfomet",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo \"D/D\" que controles que tenga Nivel, excepto \"D/D Berfomet\", y declarar un Nivel de 1 a 8; hasta el final de este turno su Nivel se convierte en ese número, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos \"D/D\".",
+  "level": 4,
+  "atk": 1400,
+  "def": 1800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

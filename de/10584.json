@@ -1,0 +1,15 @@
+{
+  "id": 10584,
+  "type": "monster",
+  "name": "Lebhafter Ritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers (außer während des Damage Steps), wenn dein Gegner genau 1 LICHT Monster vom Typ Ungeheuer-Krieger, das du kontrollierst, (und keine anderen Karten) als Ziel für einen Angriff oder einen Karteneffekt wählt: Verbanne das Monster, das du kontrollierst, bis zu deiner nächsten Standby Phase und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand.",
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7529,
+  "type": "monster",
+  "name": "Criomante de la Barrera de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Mientras controles otro monstruo \"Barrera de Hielo\", los monstruos de Nivel 4 o mayor no pueden declarar un ataque.",
+  "level": 2,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Cantante",
+    "Efecto"
+  ]
+}

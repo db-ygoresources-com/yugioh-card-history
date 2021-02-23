@@ -1,0 +1,15 @@
+{
+  "id": 7884,
+  "type": "monster",
+  "name": "Perseguidor",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando un monstruo en Posición de Defensa es destruido en batalla y mandado al Cementerio, inflige 500 puntos de daño a tu adversario.",
+  "level": 3,
+  "atk": 1400,
+  "def": 600,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

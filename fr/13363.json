@@ -1,0 +1,15 @@
+{
+  "id": 13363,
+  "type": "monster",
+  "name": "Striges Vendetterreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est envoyée au Cimetière : vous pouvez révéler 1 carte \"Vendetterreur\" dans votre main ; Invoquez Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Un monstre \"Vendetterreur\" Invoqué Rituellement en utilisant cette carte sur le Terrain gagne l'effet suivant. Vous ne pouvez utiliser chacun des effets précédents de \"Striges Vendetterreur\" qu'une fois par tour.\n●Après le calcul des dommages, si cette carte a combattu un monstre de l'adversaire : vous pouvez piocher 1 carte, puis défaussez 1 carte.",
+  "level": 2,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

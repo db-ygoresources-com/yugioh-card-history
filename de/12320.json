@@ -1,0 +1,16 @@
+{
+  "id": 12320,
+  "type": "monster",
+  "name": "Lunalicht Löwentänzerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Lunalicht Panthertänzerin“ + 2 „Lunalicht“-Monster\nMuss als Fusionsbeschwörung mit dem oben aufgeführten Fusionsmaterial beschworen werden. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden. Diese Karte kann während jeder Battle Phase einen zweiten Angriff durchführen. Einmal pro Spielzug, am Ende des Damage Steps, falls diese Karte ein Monster angegriffen hat: Du kannst alle als Spezialbeschwörung beschworenen Monster zerstören, die dein Gegner kontrolliert.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

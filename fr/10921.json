@@ -1,0 +1,16 @@
+{
+  "id": 10921,
+  "type": "monster",
+  "name": "Graine Macrocarpa Mystique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non utilisable comme Monstre-Matériel de Synchro, sauf pour l'Invocation Synchro d'un monstre TERRE. Vous pouvez cibler 1 monstre TERRE sur le Terrain ; réduisez son Niveau de 1. Vous ne pouvez utiliser l'effet de \"Graine Macrocarpa Mystique\" que max. deux fois par tour.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

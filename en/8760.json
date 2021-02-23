@@ -1,0 +1,15 @@
+{
+  "id": 8760,
+  "type": "monster",
+  "name": "Earthbound Linewalker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "\"Earthbound Immortal\" monsters cannot be destroyed by their own effects.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1900,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

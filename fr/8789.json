@@ -1,0 +1,15 @@
+{
+  "id": 8789,
+  "type": "monster",
+  "name": "Rechargeur Enfernité",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, si vous n'avez aucune carte dans votre main, vous pouvez piocher 1 carte et la révéler. Si une Carte Monstre est piochée par cet effet, infligez des dommages à votre adversaire égaux au Niveau de ce monstre x 200. Si c'est une Carte Magie ou Piège, recevez 500 points de dommages.",
+  "level": 1,
+  "atk": 900,
+  "def": 0,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

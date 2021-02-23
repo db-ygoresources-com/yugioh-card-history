@@ -1,0 +1,11 @@
+{
+  "id": 8586,
+  "type": "trap",
+  "name": "吠え猛る大地",
+  "nameRuby": "ほえたけるだいち",
+  "englishAttribute": "trap",
+  "localizedAttribute": "罠",
+  "effectText": "自分フィールド上に存在する獣族モンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。この効果が適用された事によって相手ライフに戦闘ダメージを与えた時、相手フィールド上に表側表示で存在するモンスター１体の攻撃力・守備力は５００ポイントダウンする。",
+  "englishProperty": "continuous",
+  "localizedProperty": "永続"
+}

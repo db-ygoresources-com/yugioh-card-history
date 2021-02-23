@@ -1,0 +1,18 @@
+{
+  "id": 11134,
+  "type": "monster",
+  "name": "Mago Observador das Estrelas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, quando exatamente 1 outro Monstro Pêndulo que você controla (e nenhum outro card) for devolvido à sua mão por um efeito de card do oponente (exceto durante a Etapa de Dano): você pode Invocar por Invocação-Especial 1 monstro da sua mão com o mesmo nome que o que foi devolvido à mão.",
+  "pendEffect": "Se um Monstro Pêndulo que você controla batalhar, seu oponente não pode ativar Cards de Magia até o final da Etapa de Dano. A não ser que você tenha um card \"Mago\" ou um card \"Olhos Anômalos\" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 4.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

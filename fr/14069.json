@@ -1,0 +1,15 @@
+{
+  "id": 14069,
+  "type": "monster",
+  "name": "Danger ! Homme-Papillon !",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; votre adversaire choisit 1 carte au hasard depuis toute votre main, puis vous défaussez la carte choisie. Puis, si la carte défaussée n'était pas \"Danger ! Homme-Papillon !\", Invoquez Spécialement 1 \"Danger ! Homme-Papillon !\" depuis votre main, et si vous le faites, piochez 1 carte. Si cette carte est défaussée : vous pouvez faire piocher 1 carte à chaque joueur, puis chaque joueur défausse 1 carte. Vous ne pouvez utiliser cet effet de \"Danger ! Homme-Papillon !\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

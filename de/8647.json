@@ -1,0 +1,16 @@
+{
+  "id": 8647,
+  "type": "monster",
+  "name": "Ölmann",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du: 1 Monster vom Typ Maschine wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung in die Angriffsposition beschwören. Solange das ausgerüstete Monster durch diesen Effekt ausgerüstet ist, falls es ein Monster deines Gegners durch Kampf zerstört: Ziehe 1 Karte. (Ein Monster kann zu jeder Zeit nur mit 1 Union-Monster ausgerüstet sein. Falls das ausgerüstete Monster zerstört würde, zerstöre stattdessen diese Karte.)",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

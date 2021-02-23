@@ -1,0 +1,15 @@
+{
+  "id": 14481,
+  "type": "monster",
+  "name": "Voltester",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Especial a una zona a la que apunte un Monstruo de Enlace: destruye todos los Monstruos de Enlace que apunten a esta carta, y después destruye todos los otros monstruos a los que esos Monstruos de Enlace apuntaban, y sigue las Flechas de Enlace de todos esos monstruos destruidos, destruyendo todo aquello a lo que apuntaban, y repite el proceso hasta que no haya más monstruos que destruir. (Esta carta no puede ser destruida por este efecto). Sólo puedes usar este efecto de \"Voltester\" una vez por turno.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

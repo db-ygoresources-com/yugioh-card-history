@@ -1,0 +1,16 @@
+{
+  "id": 11254,
+  "type": "monster",
+  "name": "Escritoriobot 001",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Gana 500 ATK/DEF por cada monstruo Máquina que controles. Si 2 o más monstruos Máquina son Invocados de Modo Especial al mismo tiempo, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

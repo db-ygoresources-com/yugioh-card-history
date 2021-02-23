@@ -1,0 +1,16 @@
+{
+  "id": 7735,
+  "type": "monster",
+  "name": "Dragón Rojo Archidemonio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1 o más monstruos que no sean Cantantes\nDespués del cálculo de daño, si esta carta ataca a un monstruo en Posición de Defensa que controle tu adversario: destruye todos los monstruos en Posición de Defensa que controle tu adversario. Durante tu End Phase: destruye todos los demás monstruos que controles que este turno no declararon un ataque. Esta carta debe estar boca arriba en el Campo para activar y resolver este efecto.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

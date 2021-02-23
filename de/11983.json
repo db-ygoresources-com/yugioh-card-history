@@ -1,0 +1,18 @@
+{
+  "id": 11983,
+  "type": "monster",
+  "name": "Büroboter 006",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster auf dem Spielfeld wählen; ändere seine Kampfposition. Diese Karte erhält 500 ATK für jedes offene „Büroboter“-Monster in deinem Extra Deck. Falls diese Karte in der Pendelzone zerstört wird: Du kannst 1 „Büroboter“-Karte in deinem Friedhof wählen; füge das gewählte Ziel deiner Hand hinzu. Du kannst diesen Effekt von „Büroboter 006“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Büroboter“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

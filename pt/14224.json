@@ -1,0 +1,18 @@
+{
+  "id": 14224,
+  "type": "monster",
+  "name": "Camarartista Feiticeiro Sorridente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Magia/Armadilha \"Sorridente\" do seu Deck à sua mão. Se todos os monstros que você controlar forem monstros \"Camarartista\" ou \"Olhos Anômalos\", ou Monstros Pêndulo \"Mago\", e o ATK atual deste card for maior que seu ATK original: você pode comprar cards igual ao número de monstros que você controla cujo ATK atual seja maior que seu ATK original e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno. Você só pode usar cada efeito de \"Camarartista Feiticeiro Sorridente\" uma vez por turno.",
+  "pendEffect": "Se um ou mais monstros que você controla cujo ATK atual seja maior que seu ATK original forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo. Você só pode usar este efeito de \"Camarartista Feiticeiro Sorridente\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

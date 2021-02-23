@@ -1,0 +1,15 @@
+{
+  "id": 4484,
+  "type": "monster",
+  "name": "Soldados Insectos del Cielo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta ataca a un monstruo de VIENTO el ATK de esta carta Aumenta en 1000 puntos solo durante el Damage Step.",
+  "level": 3,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

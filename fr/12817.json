@@ -1,0 +1,15 @@
+{
+  "id": 12817,
+  "type": "monster",
+  "name": "Apprentie Magicienne Illusion",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en défaussant 1 carte. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Magicien Sombre\" depuis votre Deck à votre main. Durant le calcul des dommages, si votre autre monstre TÉNÈBRES Magicien combat un monstre de l'adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain face recto au Cimetière ; durant ce calcul des dommages uniquement, le monstre que vous contrôlez gagne 2000 ATK/DEF.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7210,
+  "type": "monster",
+  "name": "Dragón de Hielo y Fuego",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de FUEGO y 2 monstruos de AGUA en tu Cementerio, y no puede ser Invocado de Modo Especial de otra forma. Una vez por turno: puedes descartar 1 carta para seleccionar 1 monstruo en el Campo; destruye ese objetivo.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

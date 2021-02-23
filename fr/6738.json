@@ -1,0 +1,15 @@
+{
+  "id": 6738,
+  "type": "monster",
+  "name": "Sous-Marinroid",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Cette carte peut attaquer directement votre adversaire, mais lorsqu'elle le fait en utilisant cet effet, les dommages de combat infligés à votre adversaire sont l'ATK d'origine de cette carte. À la fin de la Damage Step, si cette carte a attaqué ou a été attaquée : vous pouvez changer cette carte en Position de Défense.",
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

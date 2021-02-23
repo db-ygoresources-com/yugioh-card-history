@@ -1,0 +1,22 @@
+{
+  "id": 14930,
+  "type": "monster",
+  "name": "Fünfköpfiger Linkdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "5 Monster\nMuss als Linkbeschwörung beschworen werden. Falls diese Karte als Linkbeschwörung beschworen wird und dafür die Eigenschaften FINSTERNIS, ERDE, WASSER, FEUER und WIND verwendet werden: Du kannst alle Karten zerstören, die dein Gegner kontrolliert. Kann nicht durch Kampf mit einem FINSTERNIS, ERDE, WASSER, FEUER oder WIND Monster zerstört werden. Bleibt von den Effekten anderer Karten unberührt. Einmal pro Spielzug, während der End Phase deines Gegners: Du musst 5 Karten von deinem Friedhof verdeckt verbannen (dies ist nicht optional) oder diese Karte auf den Friedhof legen.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14102,
+  "type": "monster",
+  "name": "Psi-Fährtenleser",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du ein anderes Monster der Stufe 3 als „Psi-Fährtenleser“ kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Verteidigungsposition beschwören. Du kannst „Psi-Fährtenleser“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Ein Synchromonster, das diese Karte als Material verwendet hat, erhält 600 ATK.",
+  "level": 3,
+  "atk": 1600,
+  "def": 600,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

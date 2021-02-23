@@ -1,0 +1,15 @@
+{
+  "id": 6602,
+  "type": "monster",
+  "name": "Planierraupe des Untergangs",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 Monster vom Typ Insekt von deinem Friedhof verbannst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Wenn diese Karte deinem Gegner Kampfschaden zufügt: Lege die oberste Karte seines Decks auf den Friedhof.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10178,
+  "type": "monster",
+  "name": "Âme de la Montagne Argent",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres TERRE de Niveau 3\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte pour cibler 1 carte Posée dans la Zone Carte Magie & Piège de votre adversaire ; elle ne peut pas être activée tant que cette carte est face recto sur le Terrain. Si cette carte détruit un monstre de votre adversaire au combat tant qu'elle a du Matériel Xyz : vous pouvez cibler 1 monstre TERRE dans votre Cimetière ; Invoquez Spécialement la cible en Position de Défense face recto.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 2200,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

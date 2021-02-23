@@ -1,0 +1,15 @@
+{
+  "id": 7576,
+  "type": "monster",
+  "name": "Magicien Miracle",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous contrôlez un \"Magicien Miracle\", vous ne pouvez pas Invoquer cette carte. Votre adversaire ne peut pas sélectionner un autre monstre face recto comme cible d'une attaque. Si cette carte est détruite au combat, Invoquez-la Spécialement sur le Terrain de votre adversaire à la fin de la Battle Phase. Si cette carte est détruite par l'effet d'une Carte Magie ou Piège, détruisez 1 monstre contrôlé par votre adversaire.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

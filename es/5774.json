@@ -1,0 +1,15 @@
+{
+  "id": 5774,
+  "type": "monster",
+  "name": "Archidemonio Álfil Oscuro",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "El controlador de esta carta paga 500 Life Points durante cada una de sus Standby Phases. Cuando una Carta de Monstruo ARCHIDEMONIO en tu Campo es designada como objetivo del efecto de una carta controlada por tu adversario, al resolver el efecto, lanza un dado de seis caras. Si el resultado es 1, 3 o 6, niega el efecto y destruye la carta de tu adversario.",
+  "level": 3,
+  "atk": 300,
+  "def": 1400,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

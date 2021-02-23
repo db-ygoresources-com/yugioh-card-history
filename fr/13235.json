@@ -1,0 +1,16 @@
+{
+  "id": 13235,
+  "type": "monster",
+  "name": "Récepteur Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez ajouter 1 monstre \"Krawler\" depuis votre Deck à votre main.\nSi cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 2 monstres \"Krawler\" (\"Récepteur Krawler\" exclu) de noms différents depuis votre Deck en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Récepteur Krawler\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 900,
+  "def": 1200,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

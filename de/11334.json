@@ -1,0 +1,18 @@
+{
+  "id": 11334,
+  "type": "monster",
+  "name": "Künstlerkumpel Trampoluchs",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Karte in der Pendelzone eines beliebigen Spielers wählen; gib sie auf die Hand zurück.",
+  "pendEffect": "Wenn du ein oder mehr Monster als Pendelbeschwörung beschwörst: Du kannst 1 Karte in der Pendelzone eines beliebigen Spielers wählen; gib sie auf die Hand zurück. Du kannst diesen Effekt von „Künstlerkumpel Trampoluchs“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

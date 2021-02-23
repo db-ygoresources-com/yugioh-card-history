@@ -1,0 +1,15 @@
+{
+  "id": 9289,
+  "type": "monster",
+  "name": "Sendbote der Wunder - Jupiter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du 1 „Sendbote/-in“-Monster in deinem Friedhof aus dem Spiel entfernen, um 1 offenes LICHT Monster vom Typ Fee zu wählen, das du kontrollierst. Das gewählte Monster erhält bis zur End Phase 800 ATK. Solange „Die Zuflucht im Himmel“ offen auf dem Spielfeld liegt, kannst du einmal pro Spielzug 1 Monster vom Typ Fee abwerfen, um 1 deiner aus dem Spiel entfernten LICHT Monster vom Typ Fee zu wählen und als Spezialbeschwörung zu beschwören.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

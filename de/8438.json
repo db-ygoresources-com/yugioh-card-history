@@ -1,0 +1,15 @@
+{
+  "id": 8438,
+  "type": "monster",
+  "name": "Max-Krieger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte ein Monster deines Gegners angreift, erhält diese Karte nur während des Damage Steps 400 ATK. Falls diese Karte ein Monster deines Gegners durch Kampf zerstört, bis zu deiner nächsten Standby Phase: Diese Karte wird Stufe 2 und ihre Grund-ATK und -DEF werden halbiert.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

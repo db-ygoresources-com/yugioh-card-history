@@ -1,0 +1,16 @@
+{
+  "id": 7615,
+  "type": "monster",
+  "name": "Schicksalsenddrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Schicksals-HELD - Plasma“ + „Schicksals-HELD - Dogma“\nEine Fusionsbeschwörung dieser Karte kann nur mit dem oben aufgeführten Fusionsmaterial durchgeführt werden. Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre das gewählte Ziel und falls es offen lag, füge deinem Gegner Schaden in Höhe der ATK zu, die es auf dem Spielfeld hatte. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Battle Phase durchführen. Einmal pro Spielzug, während deiner Standby Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Schicksals-HELD“-Karte von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

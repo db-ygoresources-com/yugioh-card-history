@@ -1,0 +1,15 @@
+{
+  "id": 13469,
+  "type": "monster",
+  "name": "Umgewandelte Insektenkönigin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Falls ein anderes Insekt-Monster auf dem Spielfeld liegt, kann dein Gegner Insekt-Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, zusätzlich können sie nicht durch Karteneffekte deines Gegners zerstört werden. Am Ende des Damage Steps, falls diese Karte angegriffen hat: Du kannst 1 Monster als Tribut anbieten; diese Karte kann sofort noch einmal ein Monster eines Gegners angreifen. Einmal pro Spielzug, während der End Phase: Du kannst 1 „Insektenmonster-Spielmarke“ (Insekt/ERDE/Stufe 1/ATK 100/DEF 100) als Spezialbeschwörung beschwören.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

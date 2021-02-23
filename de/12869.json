@@ -1,0 +1,17 @@
+{
+  "id": 12869,
+  "type": "monster",
+  "name": "Blumen-Kartian Mondblumenbetrachtung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 2 Nicht-Empfänger-Monster\nEinmal pro Spielzug, während deiner Main Phase: Du kannst 1 Karte ziehen und falls du dies tust, zeige sie, dann, falls es ein „Blumen-Kartian“-Monster ist, kannst du es als Spezialbeschwörung beschwören, ungeachtet seiner Beschwörungsbedingungen, und es kann in diesem Spielzug direkt angreifen. Falls du diesen Effekt aktiviert hast, überspringe die Draw Phase deines nächsten Spielzugs. Wenn diese Karte als Synchromaterial verwendet wird, kannst du sie und alles andere Synchromaterial (das eine Stufe hat) als Monster der Stufe 2 behandeln.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13131,
+  "type": "monster",
+  "name": "Dragón Venenoso de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Hambriento Venenoso\" + 1 monstruo \"Ojos Anómalos\"\nDebe ser Invocado por Fusión, y después puede ser Invocado por Péndulo. Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta la End Phase, esta carta gana ATK igual a su ATK y, si lo hace, el nombre de esta carta se convierte en el nombre original de ese monstruo, y reemplaza este efecto con los efectos originales de ese monstruo. Si esta carta en la Zona de Monstruos es destruida: puedes Invocar de Modo Especial 1 monstruo en tu Zona de Péndulo y, si lo haces, pon esta carta en tu Zona del Péndulo.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 Monstruo de Fusión que controles; hasta el final de este turno, éste gana 1000 ATK por cada monstruo que controle tu adversario.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

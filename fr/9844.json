@@ -1,0 +1,16 @@
+{
+  "id": 9844,
+  "type": "monster",
+  "name": "Peintre de la Douleur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que cette carte est face recto sur le Terrain, son nom est traité comme \"Zombie Épidémique\". Une fois par tour : vous pouvez cibler max. 2 monstres de Type Zombie face recto que vous contrôlez (cette carte exclue) ; jusqu'à la End Phase, ils deviennent Niveau 2. Ils ne peuvent pas être utilisés comme Monstre-Matériel de Synchro, sauf pour l'Invocation Synchro d'un monstre de Type Zombie.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

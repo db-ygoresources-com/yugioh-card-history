@@ -1,0 +1,15 @@
+{
+  "id": 15123,
+  "type": "monster",
+  "name": "Arcalich el Señor Dorado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes mandar al Cementerio esta carta y 1 Mágica/Trampa en tu mano, y después seleccionar 1 carta en el Campo; mándala al Cementerio. Si esta carta está en tu Cementerio: puedes mandar al Cementerio 1 Mágica/Trampa que controles; añade esta carta a tu mano, y después puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Zombi y, si lo haces, hasta el final del turno de tu adversario, éste gana 1000 ATK/DEF y no puede ser destruido por efectos de cartas. Sólo puedes usar cada efecto de \"Arcalich el Señor Dorado\" una vez por turno.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2800,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

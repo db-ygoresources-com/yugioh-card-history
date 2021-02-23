@@ -1,0 +1,15 @@
+{
+  "id": 6420,
+  "type": "monster",
+  "name": "Gigant Kozaky",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich kein offenes „Kozaky“ auf dem Spielfeld befindet, zerstöre diese Karte. Falls diese offene Karte auf dem Spielfeld zerstört wird, füge den Life Points des aktuellen Beherrschers Schaden in Höhe der Grund-ATK dieser Karte zu.",
+  "level": 4,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11872,
+  "type": "monster",
+  "name": "Dragonox, el Guerrero Fortalecido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes descartar 1 carta, y después selecciona 1 monstruo de Tipo Guerrero o Lanzador de Conjuros con 2000 ATK o menor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa boca abajo.",
+  "pendEffect": "Cuando un monstruo de tu adversario declara un ataque: puedes destruir esta carta, y después termina la Battle Phase.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Efecto"
+  ]
+}

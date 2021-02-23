@@ -1,0 +1,15 @@
+{
+  "id": 4604,
+  "type": "monster",
+  "name": "Piccola Chimera",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Tutti i mostri FUOCO sul Terreno guadagnano 500 ATK. Tutti i mostri ACQUA sul Terreno perdono 400 ATK.",
+  "level": 2,
+  "atk": 600,
+  "def": 550,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

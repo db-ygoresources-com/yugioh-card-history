@@ -1,0 +1,19 @@
+{
+  "id": 14933,
+  "type": "monster",
+  "name": "Ballista-Ingranaggio Antico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "2 mostri TERRA Macchina\nSe questa carta viene Evocata Link: puoi aggiungere 1 mostro \"Ingranaggio Antico\" o 1 \"Città degli Ingranaggi\" dal tuo Deck alla tua mano. Puoi scegliere come bersaglio 1 Magia/Trappola che controlli e 1 mostro scoperto controllato dal tuo avversario; distruggi quella carta che controlli e, se lo fai, cambia l'ATK/DEF di quel mostro dell'avversario a 0 fino alla fine del turno. Puoi utilizzare ogni effetto di \"Ballista-Ingranaggio Antico\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "1"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Macchina",
+    "Link",
+    "Effetto"
+  ]
+}

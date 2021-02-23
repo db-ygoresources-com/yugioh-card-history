@@ -1,0 +1,16 @@
+{
+  "id": 10943,
+  "type": "monster",
+  "name": "Betäubende Magierin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster vom Typ Hexer der Stufe 4\nWährend deiner Main Phase 2 kannst du diese Karte auch als Xyz-Beschwörung beschwören, indem du ein Xyz-Monster des Rangs 3 oder niedriger, das du kontrollierst, als Xyz-Material verwendest. (An das Monster angehängtes Xyz-Material wird ebenfalls zu Xyz-Material dieser Karte.) Diese Karte erhält 200 ATK für jedes an sie angehängte Xyz-Material. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Falls diese Karte angegriffen hat oder angegriffen wurde, nach der Schadensberechnung: Hänge 1 Xyz-Material von dieser Karte ab.",
+  "rank": 4,
+  "atk": 2100,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

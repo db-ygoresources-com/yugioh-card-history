@@ -1,0 +1,15 @@
+{
+  "id": 9234,
+  "type": "monster",
+  "name": "Verstärkungskrieger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du einen Empfänger kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Verteidigungsposition beschwören. Alle Krieger-Monster, die du kontrollierst, erhalten 300 ATK.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

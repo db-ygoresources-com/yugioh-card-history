@@ -1,0 +1,16 @@
+{
+  "id": 14218,
+  "type": "monster",
+  "name": "Guerrero de Señal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nUna vez por turno, durante la Standby Phase: pon 1 Contador Señal en cada carta boca arriba en la Zona del Campo, y además 1 en esta carta. Esta carta con uno o más Contadores Señal no puede ser destruida en batalla o por los efectos de cartas de tu adversario. Una vez por turno: puedes retirar 4, 7 ó 10 Contadores Señal de cualquier lugar del Campo; aplica este efecto, dependiendo de la cantidad retirada.\n●4: Inflige 800 puntos de daño a tu adversario.\n●7: Roba 1 carta.\n●10: Destruye 1 carta en el Campo.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

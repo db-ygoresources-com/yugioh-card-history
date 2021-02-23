@@ -1,0 +1,15 @@
+{
+  "id": 8438,
+  "type": "monster",
+  "name": "Guerrero Máximo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta ataca a un monstruo de tu adversario, gana 400 ATK sólo durante el Damage Step. Si esta carta destruye un monstruo de tu adversario en batalla, esta carta se convierte en Nivel 2 y su ATK y DEF originales se reducen a la mitad, hasta tu próxima Standby Phase.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4030,
+  "type": "monster",
+  "name": "Crâne Serviteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Fantôme squelette qui n'est pas très fort, mais qui, en nombre, peut devenir embarrassant.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Normal"
+  ]
+}

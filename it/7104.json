@@ -1,0 +1,15 @@
+{
+  "id": 7104,
+  "type": "monster",
+  "name": "Frantumatore Vulcanico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Una volta per turno, puoi infliggere danno al tuo avversario pari al numero di mostri \"Vulcanici\" nel tuo Cimitero x 200. Se attivi questo effetto, questa carta non può attaccare durante questo turno.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Pyro",
+    "Effetto"
+  ]
+}

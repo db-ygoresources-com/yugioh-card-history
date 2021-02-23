@@ -1,0 +1,19 @@
+{
+  "id": 12828,
+  "type": "monster",
+  "name": "Dragon Rapide de l'Aile Claire",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur VENT\n(Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire qui a été Invoqué Spécialement depuis l'Extra Deck ; jusqu'à la fin de ce tour, changez son ATK à 0, et aussi, annulez les effets du monstre face recto. Vous ne pouvez utiliser cet effet de \"Dragon Rapide de l'Aile Claire\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Vous pouvez envoyer 1 Syntoniseur \"Vitesseroid\" face recto et 1 monstre non-Syntoniseur face recto que vous contrôlez au Cimetière, dont le Niveau total est égal à 7 ; Invoquez Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Dragon Rapide de l'Aile Claire\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Pendule",
+    "Effet"
+  ]
+}

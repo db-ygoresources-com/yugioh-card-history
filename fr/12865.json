@@ -1,0 +1,18 @@
+{
+  "id": 12865,
+  "type": "monster",
+  "name": "Acteur des Abysses - Petite Étoile Brillante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non destructible au combat durant votre tour. Durant chaque Battle Phase, cette carte peut faire max. 3 attaques sur des monstres.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Acteur des Abysses\" exclus). Cet effet ne peut pas être annulé. Une fois par tour : vous pouvez cibler 1 monstre \"Acteur des Abysses\" que vous contrôlez ; il peut faire max. 3 attaques sur des monstres durant chaque Battle Phase ce tour, et aussi, les autres monstres que vous contrôlez ne peuvent pas attaquer le reste de ce tour (même si cette carte quitte le Terrain).",
+  "pendScale": 9,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

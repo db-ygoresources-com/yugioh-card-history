@@ -1,0 +1,16 @@
+{
+  "id": 8395,
+  "type": "monster",
+  "name": "마굉신 올트로",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "패를 1장 묘지에 보내고 발동한다. 패에서 레벨 3의 \"마굉신\"이라는 이름이 붙은 몬스터 1장을 특수 소환한다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "level": 2,
+  "atk": 800,
+  "def": 500,
+  "properties": [
+    "악마족",
+    "튜너",
+    "효과"
+  ]
+}

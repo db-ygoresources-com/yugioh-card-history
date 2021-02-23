@@ -1,0 +1,16 @@
+{
+  "id": 8005,
+  "type": "monster",
+  "name": "Dragon des Ruines",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre avec max. 500 ATK dans votre Cimetière ; Invoquez Spécialement la cible en Position d'Attaque, mais annulez ses effets. Non utilisable comme Matériel Synchro, sauf pour l'Invocation Synchro d'un monstre Dragon. Les autres Matériels Synchro ne peuvent pas être de Niveau 4.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

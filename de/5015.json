@@ -1,0 +1,15 @@
+{
+  "id": 5015,
+  "type": "monster",
+  "name": "Leuchtender Soldat",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte gegen ein FINSTERNIS Monster kämpft, erhöhe die ATK dieser Karte während des Damage Steps um 500 Punkte.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

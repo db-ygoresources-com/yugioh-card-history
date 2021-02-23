@@ -1,0 +1,15 @@
+{
+  "id": 6608,
+  "type": "monster",
+  "name": "Bösartiger Anwärter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange sich diese Karte offen auf dem Spielfeld befindet, lege während der Standby Phase deines Gegners eine Anzahl von Karten vom Deck deines Gegners auf den Friedhof gleich der Anzahl von „Bösartiger Anwärter“-Karten in deinem Friedhof.",
+  "level": 4,
+  "atk": 700,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

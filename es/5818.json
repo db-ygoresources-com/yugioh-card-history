@@ -1,0 +1,16 @@
+{
+  "id": 5818,
+  "type": "monster",
+  "name": "Lagarto del Vendaval",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "VOLTEO: Selecciona 1 monstruo que controle tu adversario; devuelve ese objetivo a la mano.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Reptil",
+    "Volteo",
+    "Efecto"
+  ]
+}

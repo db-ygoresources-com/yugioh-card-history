@@ -1,0 +1,15 @@
+{
+  "id": 6116,
+  "type": "monster",
+  "name": "Soldado Elemental",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Este monstruo consigue los siguientes efectos mientras hay monstruos con el siguiente Atributo en el Campo.\n●AGUA: El control de esta carta no puede cambiar.\n●TIERRA: El efecto de un Monstruo de Efecto que esta carta destruye como resultado de una batalla es negado.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

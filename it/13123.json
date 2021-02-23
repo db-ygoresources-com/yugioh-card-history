@@ -1,0 +1,19 @@
+{
+  "id": 13123,
+  "type": "monster",
+  "name": "D/D/D Armageddon Viola Super Re del Giudizio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri \"D/D/D\"\nPuoi scegliere come bersaglio 1 mostro in Posizione di Attacco controllato dal tuo avversario; distruggilo e, se lo fai, infliggi al tuo avversario danno pari alla metà del suo ATK originale. Puoi utilizzare questo effetto di \"D/D/D Armageddon Viola Super Re del Giudizio\" una sola volta per turno. Prima del calcolo dei danni, se un mostro dell'avversario combatte: puoi fare diventare il suo ATK pari al suo ATK originale fino alla fine del Damage Step. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno, prima del calcolo dei danni, se un tuo Mostro Fusione \"D/D/D\" combatte con un mostro dell'avversario: puoi far perdere 1000 ATK a quel mostro dell'avversario fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}

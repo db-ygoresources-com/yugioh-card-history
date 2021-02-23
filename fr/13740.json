@@ -1,0 +1,15 @@
+{
+  "id": 13740,
+  "type": "monster",
+  "name": "Volée Cupide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez choisir un nombre entre 1 et 3, puis envoyez autant de cartes du dessus de votre Deck au Cimetière ; jusqu'à la fin de ce tour, augmentez le Niveau de cette carte du nombre de cartes envoyées au Cimetière de cette façon. Si cette carte que vous contrôlez est détruite par une carte de l'adversaire et envoyée à votre Cimetière : vous gagnez 1500 LP. Vous ne pouvez utiliser chaque effet de \"Volée Cupide\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

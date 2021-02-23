@@ -1,0 +1,15 @@
+{
+  "id": 11943,
+  "type": "monster",
+  "name": "Distopía el Abatido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano o Cementerio) mandando al Cementerio 4 monstruos de Nivel 1 boca arriba que controles, y no puede ser Invocado de Modo Especial de otra forma. Los otros monstruos que controles no pueden atacar. Durante el Battle Step de cualquier jugador, una vez por batalla que involucre esta carta: puedes desterrar 1 monstruo de Nivel 1 en tu Cementerio; hasta el final del Damage Step, esta carta no es afectada por los efectos de otras cartas, y además no puede ser destruida en batalla.",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

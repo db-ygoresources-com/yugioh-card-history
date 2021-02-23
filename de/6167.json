@@ -1,0 +1,15 @@
+{
+  "id": 6167,
+  "type": "monster",
+  "name": "Schweigsamer Magier LV4",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn dein Gegner eine oder mehr Karten zieht, lege 1 Zauberzählmarke (max. 5) auf diese Karte. Diese Karte erhält 500 ATK für jede Zauberzählmarke auf dieser Karte. Während der Standby Phase deines nächsten Spielzugs, nachdem die 5. Zauberzählmarke auf diese Karte gelegt wurde: Du kannst diese offene Karte mit 5 Zauberzählmarken darauf auf den Friedhof legen; beschwöre 1 „Schweigsamer Magier LV8“ als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

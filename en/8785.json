@@ -1,0 +1,16 @@
+{
+  "id": 8785,
+  "type": "monster",
+  "name": "Trust Guardian",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Level 7 or higher Synchro Monster. Once per turn, that Synchro Monster cannot be destroyed by battle. Each time this effect is applied, that Synchro Monster loses 400 ATK and DEF at the end of the Damage Step.",
+  "level": 3,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Fairy",
+    "Tuner",
+    "Effect"
+  ]
+}

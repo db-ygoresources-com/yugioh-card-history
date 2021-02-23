@@ -1,0 +1,15 @@
+{
+  "id": 5713,
+  "type": "monster",
+  "name": "Panda Gyaku-Gire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "El ATK de esta carta aumenta en 500 puntos por cada monstruo en el Campo de tu adversario. Cuando esta carta ataca con un ATK mayor que la DEF del monstruo en Posición de Defensa, inflige la diferencia como daño de batalla a los Life Points de tu adversario.",
+  "level": 3,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

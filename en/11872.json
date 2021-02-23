@@ -1,0 +1,18 @@
+{
+  "id": 11872,
+  "type": "monster",
+  "name": "Dragonox, the Empowered Warrior",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn: You can discard 1 card, then target 1 Warrior or Spellcaster-Type monster with 2000 or less ATK in your Graveyard; Special Summon it in face-down Defense Position.",
+  "pendEffect": "When an opponent's monster declares an attack: You can destroy this card, then end the Battle Phase.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}

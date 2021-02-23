@@ -1,0 +1,15 @@
+{
+  "id": 4372,
+  "type": "monster",
+  "name": "Mur du Labyrinthe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ce mur forme un labyrinthe sans issue pour les ennemis.",
+  "level": 5,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Rocher",
+    "Normal"
+  ]
+}

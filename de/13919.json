@@ -1,0 +1,15 @@
+{
+  "id": 13919,
+  "type": "monster",
+  "name": "Zwei-für-eins-Team",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst beide Spieler 1 Karte von ihrer Hand zeigen lassen und falls beide gezeigte Karten denselben Kartentyp haben, führe basierend auf dem Typ 1 dieser Effekte aus.\n●Monster: Jeder Spieler kann sein Monster als Spezialbeschwörung beschwören.\n●Zauber: Jeder Spieler zieht 2 Karten.\n●Falle: Jeder Spieler legt genau 2 Karten von seinem Deck auf seinen Friedhof.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

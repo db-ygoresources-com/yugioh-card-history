@@ -1,0 +1,15 @@
+{
+  "id": 8172,
+  "type": "monster",
+  "name": "Esprit de la Terre Immortel Ccapac Apu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Il ne peut y avoir qu'1 monstre \"Esprit de la Terre Immortel\" sur le Terrain. S'il n'y a aucune Magie de Terrain face recto sur le Terrain, détruisez cette carte. Les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Cette carte peut attaquer directement. Si cette carte détruit un monstre de l'adversaire au combat : infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

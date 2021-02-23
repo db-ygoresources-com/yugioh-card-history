@@ -1,0 +1,18 @@
+{
+  "id": 11937,
+  "type": "monster",
+  "name": "Mago Bobodragón",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Monstruo de Péndulo \"Mago/a\" o monstruo \"Ojos Anómalos\" en tu Cementerio, excepto \"Mago Bobodragón\"; añádelo a tu mano. Sólo puedes usar este efecto de \"Mago Bobodragón\" una vez por turno.",
+  "pendEffect": "Si tienes una carta \"Mago/a\" en tu otra Zona de Péndulo: puedes añadir a tu mano, desde tu Deck Extra, 1 Monstruo de Péndulo \"Mago/a\" u \"Ojos Anómalos\" boca arriba, excepto \"Mago Bobodragón\". Sólo puedes usar este efecto de \"Mago Bobodragón\" una vez por turno.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

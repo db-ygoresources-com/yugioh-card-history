@@ -1,0 +1,15 @@
+{
+  "id": 15269,
+  "type": "monster",
+  "name": "Lampada Dracocione",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Una volta per turno (Effetto Rapido): puoi scartare 1 mostro Wyrm; questa carta guadagna 1000 DEF fino alla fine di questo turno. Una volta per battaglia, durante il calcolo dei danni, se questa carta in Posizione di Attacco combatte con un mostro in Posizione di Attacco (Effetto Rapido): puoi applicare il DEF di ogni carta per il calcolo dei danni.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Wyrm",
+    "Effetto"
+  ]
+}

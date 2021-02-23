@@ -1,0 +1,15 @@
+{
+  "id": 14274,
+  "type": "monster",
+  "name": "Fixétoileur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte gagne un effet selon votre Zone Monstre Main dans laquelle elle est.\n●La plus à gauche : Augmentez son Niveau de 4.\n●La plus à droite : Augmentez son Niveau de 3.\n●Centre : Augmentez son Niveau de 2.\n●Autres : Augmentez son Niveau de 1.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

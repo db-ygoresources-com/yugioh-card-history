@@ -1,0 +1,16 @@
+{
+  "id": 8807,
+  "type": "monster",
+  "name": "Trigon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, durant votre Main Phase, vous pouvez équiper cette carte à un monstre de Type Machine que vous contrôlez en tant que Carte d'Équipement, OU la déséquiper pour Invoquer Spécialement cette carte en Position d'Attaque face recto. Lorsqu'elle est équipée à un monstre par cet effet, si le monstre équipé détruit un monstre de l'adversaire au combat, sélectionnez et Invoquez Spécialement 1 monstre LUMIÈRE de Type Machine de Niveau 4 ou moins depuis votre Cimetière. (Un monstre ne peut être équipé qu'avec 1 Monstre Union à la fois. Si le monstre équipé doit être détruit, détruisez cette carte à la place.)",
+  "level": 3,
+  "atk": 500,
+  "def": 1700,
+  "properties": [
+    "Dragon",
+    "Union",
+    "Effet"
+  ]
+}

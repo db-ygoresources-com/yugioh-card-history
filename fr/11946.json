@@ -1,0 +1,18 @@
+{
+  "id": 11946,
+  "type": "monster",
+  "name": "Splashmammouth Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre de Fusion de Type Dragon depuis votre Extra Deck, en utilisant des monstres que vous contrôlez comme Matériels de Fusion. Vous ne pouvez utiliser cet effet de \"Splashmammouth Potartiste\" qu'une fois par Duel.",
+  "pendEffect": "Une fois par tour, lorsqu'un ou plusieurs Monstres de Fusion sont Invoqués Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 Monstre Pendule \"Yeux Impairs\" face recto depuis votre Extra Deck.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 1900,
+  "def": 2300,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

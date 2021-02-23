@@ -1,0 +1,18 @@
+{
+  "id": 12736,
+  "type": "monster",
+  "name": "Mago Convocador de Dragões",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno: você pode fazer com que este card se torne do Tipo Dragão até o final deste turno. Um monstro que foi Invocado por Invocação-Fusão, Sincro ou Xyz usando este card no campo como Matéria ganha este efeito.\n●Se este card batalhar um monstro do Tipo Dragão, o ATK deste card se torna o dobro do seu ATK original apenas durante a Etapa de Dano.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo; ele se torna do Tipo Dragão até o final do turno do seu oponente (mesmo que este card deixe o campo).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

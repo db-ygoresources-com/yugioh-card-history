@@ -1,0 +1,20 @@
+{
+  "id": 13879,
+  "type": "monster",
+  "name": "Schusskodier-Sprecher",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2+ Cyberse-Monster\nAm Beginn deiner Battle Phase: Du kannst diesen Effekt aktivieren; in dieser Battle Phase kann diese Karte Angriffe auf Monster deines Gegners bis zur Anzahl der Monster, auf die diese Karte derzeit zeigt, +1 durchführen, aber wenn sie in diesem Spielzug das einzige Monster deines Gegners angreift, verliert sie nur während der Schadensberechnung 400 ATK. Am Ende jeder Battle Phase: Du kannst Karten in Höhe der Anzahl der Monster ziehen, die diese Karte in diesem Spielzug durch Kampf zerstört hat.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

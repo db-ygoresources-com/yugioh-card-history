@@ -1,0 +1,16 @@
+{
+  "id": 12191,
+  "type": "monster",
+  "name": "Musashi le Maître de l'Épée Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nLorsque cette carte est Invoquée par Synchronisation : vous pouvez cibler 1 monstre Machine dans votre Cimetière ; ajoutez-le à votre main, et aussi, si vous avez une Magie/Piège dans votre Cimetière, vous ne pouvez Invoquer ni Normalement ni Spécialement le monstre ou un monstre de même nom, le reste de ce tour. Cette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez sa DEF pour le calcul des dommages.",
+  "level": 5,
+  "atk": 300,
+  "def": 2300,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

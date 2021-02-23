@@ -1,0 +1,15 @@
+{
+  "id": 11875,
+  "type": "monster",
+  "name": "Caninotauro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Una volta per turno, se questa carta combatte con un mostro dell'avversario, durante il calcolo dei danni (nel turno di qualsiasi giocatore): puoi mandare 1 mostro di Tipo Bestia, Guerriero-Bestia o Bestia Alata dalla tua mano o Deck al Cimitero e, se lo fai, questa carta guadagna ATK pari al Livello del mostro mandato x 100, fino alla fine della Battle Phase.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Guerriero-Bestia",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13025,
+  "type": "monster",
+  "name": "SPIORAL-Schläfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 „SPIORAL“-Karten von deinem Friedhof verbannst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 „SPIORAL“-Karte, die du kontrollierst, und bis zu 2 Karten, die dein Gegner kontrolliert, wählen; zerstöre sie. Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Zerstöre so viele Karten, die du kontrollierst, wie möglich und falls du dies tust, beschwöre 1 „SPIORAL-Superagent“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

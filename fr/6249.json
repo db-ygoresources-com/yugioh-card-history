@@ -1,0 +1,15 @@
+{
+  "id": 6249,
+  "type": "monster",
+  "name": "Chien Mécanique Marron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte sur le Terrain est détruite à l'issue du combat et envoyée au Cimetière, infligez 1000 points de dommages aux Life Points des deux joueurs. Lorsque cette carte est détruite excepté à l'issue du combat et envoyée au Cimetière, infligez 1000 points de dommages aux Life Points de votre adversaire.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

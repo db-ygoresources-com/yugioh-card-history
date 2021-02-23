@@ -1,0 +1,16 @@
+{
+  "id": 14470,
+  "type": "monster",
+  "name": "Adivinadora Pasado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El ATK/DEF de esta carta se convierte en su Nivel x 200. Una vez por turno, durante tu Standby Phase: aumenta el Nivel de esta carta en 1 (máx. 12). Puedes seleccionar 1 monstruo \"Adivinadora\" que controles; destierra cualquier cantidad de otros monstruos Lanzador de Conjuros en tu mano, Campo y/o Cementerio y, si lo haces, hasta el final de este turno, aumenta o reduce el Nivel de ese monstruo en el número de monstruos desterrados. Sólo puedes usar este efecto de \"Adivinadora Pasado\" una vez por turno.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Cantante",
+    "Efecto"
+  ]
+}

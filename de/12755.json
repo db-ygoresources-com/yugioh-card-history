@@ -1,0 +1,16 @@
+{
+  "id": 12755,
+  "type": "monster",
+  "name": "Kristron Rion",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während der Main Phase oder Battle Phase deines Gegners: Du kannst 1 deiner verbannten Nicht-Empfänger-Monster wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte bleiben annulliert (falls es welche hat), und falls du dies tust, sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Synchromonster vom Typ Maschine als Synchrobeschwörung und verwende dafür nur das Monster und diese Karte. (Dies ist ein Schnelleffekt.) Dieses Synchromaterial wird ins Deck gemischt, anstatt auf den Friedhof gelegt zu werden. Du kannst diesen Effekt von „Kristron Rion“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

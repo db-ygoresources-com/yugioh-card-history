@@ -1,0 +1,16 @@
+{
+  "id": 12072,
+  "type": "monster",
+  "name": "PSI-Hüllenpanzer Epsilon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Während des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Fallenkarte aktiviert, solange du keine Monster kontrollierst: Du kannst sowohl diese Karte als Spezialbeschwörung von deiner Hand als auch 1 „PSI-Hüllentreiber“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören und falls du dies tust, annulliere die Aktivierung und falls du dies tust, zerstöre die Fallenkarte. Während der End Phase, verbanne die durch diesen Effekt als Spezialbeschwörung beschworenen offenen Monster.",
+  "level": 2,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

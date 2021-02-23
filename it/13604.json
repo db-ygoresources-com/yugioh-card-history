@@ -1,0 +1,19 @@
+{
+  "id": 13604,
+  "type": "monster",
+  "name": "Vampira Succhiasangue",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri Zombie\nSe stai per offrire come Tributo uno o più mostri per un'Evocazione tramite Tributo, puoi offrire come Tributo uno o più mostri Zombie controllati dal tuo avversario, anche se non li controlli tu. Puoi utilizzare ognuno dei seguenti effetti di \"Vampira Succhiasangue\" una sola volta per turno.\n●Puoi scegliere come bersaglio 1 mostro nel Cimitero del tuo avversario; Evocalo Specialmente sul Terreno del tuo avversario in Posizione di Difesa, ma esso diventa un mostro Zombie.\n●Se uno o più mostri Zombie vengono Evocati Specialmente da qualsiasi Cimitero: pesca 1 carta.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Zombie",
+    "Link",
+    "Effetto"
+  ]
+}

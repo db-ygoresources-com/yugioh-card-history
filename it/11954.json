@@ -1,0 +1,15 @@
+{
+  "id": 11954,
+  "type": "monster",
+  "name": "D/D Berfomet",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro \"D/D\" che controlli che ha un Livello, eccetto \"D/D Berfomet\", e dichiarare un Livello tra 1 e 8; esso diventa di quel Livello fino alla fine di questo turno, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri \"D/D\".",
+  "level": 4,
+  "atk": 1400,
+  "def": 1800,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

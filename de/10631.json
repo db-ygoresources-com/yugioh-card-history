@@ -1,0 +1,15 @@
+{
+  "id": 10631,
+  "type": "monster",
+  "name": "Die Welt der Prophezeiung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte durch den Effekt eines Monsters vom Typ Hexer oder eine „Magiebuch“-Zauberkarte als Spezialbeschwörung beschworen wird: Du kannst 2 „Magiebuch“-Zauberkarten in deinem Friedhof wählen; füge die gewählten Ziele deiner Hand hinzu. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine anderen Monster als Spezialbeschwörung beschwören. Wenn du deiner Hand durch diesen Effekt Karten hinzufügst: Du kannst 4 „Magiebuch“-Zauberkarten mit unterschiedlichen Namen in deiner Hand vorzeigen; zerstöre alle anderen Karten auf dem Spielfeld.",
+  "level": 9,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

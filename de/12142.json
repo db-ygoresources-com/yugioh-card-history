@@ -1,0 +1,15 @@
+{
+  "id": 12142,
+  "type": "monster",
+  "name": "Shiranui-Samurai",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "(Schnelleffekt): Du kannst 1 Zombie-Monster von deinem Friedhof verbannen; diese Karte erhält 600 ATK und falls sie dies tut, verbanne nach der Schadensberechnung alle Monster, die gegen diese Karte gekämpft haben. Diese Effekte dauern bis zum Ende dieses Spielzugs an. Falls diese Karte verbannt wird: Du kannst 1 „Shiranui“-Monster in deinem Friedhof wählen, außer „Shiranui-Samurai“; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Shiranui-Samurai“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

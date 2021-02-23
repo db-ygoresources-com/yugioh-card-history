@@ -1,0 +1,15 @@
+{
+  "id": 11791,
+  "type": "monster",
+  "name": "Chalumeau Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre de votre adversaire déclare une attaque tant que vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; transférez-lui la cible de l'attaque et faites le calcul des dommages. Une fois par tour, lorsqu'un monstre de votre adversaire déclare une attaque : vous pouvez transférer la cible de l'attaque sur cette carte, et faites le calcul des dommages. Non destructible au combat.",
+  "level": 1,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7831,
+  "type": "monster",
+  "name": "Wurm Illidan",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn eine Karte auf deiner Spielfeldseite gesetzt wird, lege 1 Wurm-Zählmarke auf diese Karte. Du kannst 2 Wurm-Zählmarken von dieser Karte entfernen, um 1 Karte zu wählen, die dein Gegner kontrolliert, und sie zu zerstören.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

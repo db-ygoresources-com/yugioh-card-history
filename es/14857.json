@@ -1,0 +1,19 @@
+{
+  "id": 14857,
+  "type": "monster",
+  "name": "Aussa la Encantadora de la Tierra, Inamovible",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos, incluyendo un monstruo de TIERRA\n(Esta carta se trata siempre como una carta \"Familiar Poseído\").\nPuedes seleccionar 1 monstruo de TIERRA en el Cementerio de tu adversario; Invócalo de Modo Especial a tu zona a la que apunte esta carta. Si esta carta Invocada por Enlace es destruida en batalla, o es destruida por el efecto de una carta del adversario mientras está en la Zona de Monstruos de su dueño: puedes añadir a tu mano 1 monstruo de TIERRA con 1500 DEF o menos en tu Deck. Sólo puedes usar cada efecto de \"Aussa la Encantadora de la Tierra, Inamovible\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Enlace",
+    "Efecto"
+  ]
+}

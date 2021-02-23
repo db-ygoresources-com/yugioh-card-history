@@ -1,0 +1,15 @@
+{
+  "id": 5305,
+  "type": "monster",
+  "name": "Minion Ailé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Sacrifiez cette carte face recto. Sélectionnez 1 monstre de Type Démon face recto sur le Terrain et augmentez son ATK et sa DEF de 700 points tant qu'il reste face recto sur le Terrain.",
+  "level": 2,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

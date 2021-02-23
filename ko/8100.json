@@ -1,0 +1,15 @@
+{
+  "id": 8100,
+  "type": "monster",
+  "name": "나츄르 앤트조",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "상대가 몬스터의 특수 소환에 성공했을 때, 자신의 덱에서 레벨 3 이하의 \"나츄르\"라는 이름이 붙은 몬스터 1장을 특수 소환할 수 있다.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "곤충족",
+    "효과"
+  ]
+}

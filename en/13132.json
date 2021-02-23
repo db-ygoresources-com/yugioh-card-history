@@ -1,0 +1,19 @@
+{
+  "id": 13132,
+  "type": "monster",
+  "name": "D/D/D Super Doom King Bright Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 \"D/D\" Tuner + 1+ non-Tuner \"D/D/D\" monsters\nYour opponent cannot target monsters you control with card effects. If another monster is Normal or Special Summoned while this monster is on the field (except during the Damage Step): You can make your opponent choose 1 Pendulum Monster they control, and all other monsters they currently control have their effects negated. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "Once per turn, when an opponent's monster declares an attack: You can target 1 \"D/D/D\" Synchro Monster you control; destroy as many monsters your opponent controls as possible with DEF less than or equal to the targeted monster's ATK, and if you do, inflict 1000 damage to your opponent for each monster destroyed.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Fiend",
+    "Synchro",
+    "Pendulum",
+    "Effect"
+  ]
+}

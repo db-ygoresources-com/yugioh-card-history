@@ -1,0 +1,18 @@
+{
+  "id": 11521,
+  "type": "monster",
+  "name": "Artistamico Sciarpaleone di Fuoco",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Una volta per turno, se un Mostro Pendulum che controlli distrugge un mostro dell'avversario in battaglia, dopo il calcolo dei danni: puoi far guadagnare a quel mostro che controlli 200 ATK fino alla fine della Battle Phase e, se lo fai, esso può effettuare un secondo attacco di seguito.",
+  "pendEffect": "Quando un Mostro Pendulum che controlli viene distrutto in battaglia: puoi Evocare Specialmente questa carta dalla tua Zona Pendulum.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

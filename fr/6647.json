@@ -1,0 +1,15 @@
+{
+  "id": 6647,
+  "type": "monster",
+  "name": "Duo Hélios Megistus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte peut être Invoquée par Invocation Spéciale en sacrifiant 1 \"Hélios, le Soleil Primordial\" sur votre Terrain. L'ATK et la DEF de cette carte deviennent le nombre de monstres retirés du jeu x 200 points. Si cette carte est détruite à l'issue d'un combat et envoyée au Cimetière, cette carte sera Invoquée par Invocation Spéciale durant la End Phase, en augmentant son ATK et sa DEF de 300 points.",
+  "level": 6,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

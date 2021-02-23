@@ -1,0 +1,16 @@
+{
+  "id": 15462,
+  "type": "monster",
+  "name": "Mago del Tiempo del Mañana",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Mago del Tiempo\" + 1 Monstruo de Efecto\nUna vez por turno, mientras controles esta carta Invocada por Fusión: puedes lanzar una moneda y elegir cara o cruz. Destruye tantos monstruos en el Campo como sea posible y, si lo haces, inflige daño igual a la mitad del total del ATK original de los monstruos boca arriba destruidos. Si acertaste al lanzar la moneda tu adversario recibe el daño, si no acertaste, tú recibes el daño.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1900,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

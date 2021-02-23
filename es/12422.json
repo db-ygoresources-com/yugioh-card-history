@@ -1,0 +1,18 @@
+{
+  "id": 12422,
+  "type": "monster",
+  "name": "Metalmórfico Conductoro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Ese brillante y dorado buggy derrota a los malos de una vez por todas. ¡Qué maravilla de ruedas! (Con un bufón incompetente...)",
+  "pendEffect": "Una vez por turno: puedes seleccionar otra carta boca arriba que controles; destrúyela y, si lo haces, Coloca 1 Carta Mágica/de Trampa \"Metalmórfico/a\" directamente desde tu Deck.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1900,
+  "def": 500,
+  "properties": [
+    "Psíquico",
+    "Péndulo",
+    "Normal"
+  ]
+}

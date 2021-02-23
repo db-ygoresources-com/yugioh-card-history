@@ -1,0 +1,15 @@
+{
+  "id": 11179,
+  "type": "monster",
+  "name": "Porte Bloqueur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Annulez les effets des Magies de Terrain de votre adversaire. Votre adversaire ne peut pas placer de Compteurs sur les cartes sur le Terrain. Votre adversaire ne peut pas cibler d'autres monstres que vous contrôlez avec des effets de carte.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

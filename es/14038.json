@@ -1,0 +1,16 @@
+{
+  "id": 14038,
+  "type": "monster",
+  "name": "Tengu, el Mayakashi Alado",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSólo puedes controlar 1 \"Tengu, el Mayakashi Alado\". Sólo puedes usar cada uno de estos efectos de \"Tengu, el Mayakashi Alado\" una vez por turno.\n●Si un Monstruo de Sincronía en tu posesión cuyo Nivel original es 9, es destruido en batalla o por el efecto de una carta del adversario, mientras esta carta está en el Cementerio: puedes desterrar otro monstruo Zombi en tu Cementerio y, si lo haces, Invoca esta carta de Modo Especial.\n●Si esta carta es Invocada de Modo Especial desde el Cementerio: puedes destruir 1 Mágica/Trampa que controle tu adversario.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1500,
+  "properties": [
+    "Zombi",
+    "Sincronía",
+    "Efecto"
+  ]
+}

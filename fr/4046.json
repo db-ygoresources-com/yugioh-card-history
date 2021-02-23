@@ -1,0 +1,15 @@
+{
+  "id": 4046,
+  "type": "monster",
+  "name": "Charmeur de Dragon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "FLIP : Détruisez \"Jarre de Capture du Dragon\" et passez tous les monstres face recto de Type Dragon en Position d'Attaque.",
+  "level": 3,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

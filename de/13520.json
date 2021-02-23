@@ -1,0 +1,15 @@
+{
+  "id": 13520,
+  "type": "monster",
+  "name": "Meeresarchivar",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein Monster als Normal- oder Spezialbeschwörung in eine Zone beschworen wird, auf die ein Linkmonster zeigt (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof (falls sie dort lag, als die Beschwörung aufgelöst wurde) oder deiner Hand (selbst falls nicht) beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Meeresarchivar“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

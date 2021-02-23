@@ -1,0 +1,16 @@
+{
+  "id": 13362,
+  "type": "monster",
+  "name": "Chimère Vendetterreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Vendetterreur\". Lorsqu'une carte ou un effet qui va détruire une carte sur le Terrain est activé (Effet Rapide) : vous pouvez bannir 1 monstre Zombie depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte. Si cette carte est Sacrifiée ou bannie pour une Invocation Rituelle : tous les monstres contrôlés par votre adversaire perdent 500 ATK/DEF. Vous ne pouvez utiliser chaque effet de \"Chimère Vendetterreur\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2300,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Rituel",
+    "Effet"
+  ]
+}

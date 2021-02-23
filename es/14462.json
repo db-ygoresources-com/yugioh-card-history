@@ -1,0 +1,15 @@
+{
+  "id": 14462,
+  "type": "monster",
+  "name": "Simorgh, Ave de Traslado",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano 1 carta \"Simorgh\" en tu Deck, excepto \"Simorgh, Ave de Traslado\". Si esta carta está en tu Cementerio y tu adversario no controla cartas en su Zona de Magia y Trampas: puedes Invocar esta carta de Modo Especial en Posición de Defensa, pero destiérrala cuando deje el Campo y además, por el resto de este turno, no puedes Invocar monstruos de Modo Especial, excepto monstruos Bestia Alada. Sólo puedes usar cada efecto de \"Simorgh, Ave de Traslado\" una vez por turno.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

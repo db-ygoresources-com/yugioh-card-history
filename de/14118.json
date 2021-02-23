@@ -1,0 +1,16 @@
+{
+  "id": 14118,
+  "type": "monster",
+  "name": "Shiranui-Knappensage",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDu kannst nur einmal pro Spielzug einen oder mehr „Shiranui-Knappensage“ als Spezialbeschwörung beschwören. Einmal pro Spielzug: Du kannst 1 offenes Monster verbannen, das du kontrollierst oder das sich in deinem Friedhof befindet, dann wende nacheinander diese Effekte an, abhängig davon, was das Monster war, bevor es verbannt wurde, falls es etwas von den Folgenden war.\n●Zombie: Du kannst alle Monster, die du kontrollierst, 300 ATK erhalten lassen.\n●FEUER: Du kannst 1 Zauber/Falle auf dem Spielfeld zerstören.\n●Synchro: Du kannst 1 Monster auf dem Spielfeld zerstören.",
+  "level": 7,
+  "atk": 2100,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

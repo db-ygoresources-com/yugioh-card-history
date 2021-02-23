@@ -1,0 +1,16 @@
+{
+  "id": 15020,
+  "type": "monster",
+  "name": "Condutor da União",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno, você pode: escolher 1 monstro com a face para cima que você controla; equipe este card no alvo, OU: desequipe este card e Invoque-o por Invocação-Especial. Se o monstro equipado seria destruído em batalha ou por um efeito de card, em vez disso, destrua este card. Enquanto este card estiver equipado a um monstro: você pode banir este Card de Equipamento; equipe 1 monstro União apropriado de Nível 4 ou menos do seu Deck ao monstro ao qual este card estava equipado. Você só pode usar este efeito de \"Condutor da União\" uma vez por turno.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Union",
+    "Efeito"
+  ]
+}

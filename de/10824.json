@@ -1,0 +1,15 @@
+{
+  "id": 10824,
+  "type": "monster",
+  "name": "Gaia, der Polarritter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst jeden Effekt von „Gaia, der Polarritter“ nur einmal pro Spielzug verwenden.\n●Du kannst 1 anderes FINSTERNIS Monster als Tribut anbieten; füge deiner Hand 1 LICHT Monster vom Typ Krieger der Stufe 4 von deinem Deck hinzu, dann lege 1 Karte von deiner Hand auf den Friedhof.\n●Du kannst 1 LICHT Monster von deinem Friedhof verbannen und dann 1 Monster wählen, das du kontrollierst; es erhält bis zum Ende des Spielzugs deines Gegners 500 ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

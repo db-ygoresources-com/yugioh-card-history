@@ -1,0 +1,15 @@
+{
+  "id": 14454,
+  "type": "monster",
+  "name": "Dinowrestler Martial Ankylo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während der Schadensberechnung, falls ein anderes „Dinowrestler“-Monster, das du kontrollierst, gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; das Monster, das du kontrollierst, kann durch den Kampf nicht zerstört werden, zusätzlich werden die ATK des kämpfenden Monsters deines Gegners am Ende des Damage Steps halbiert. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug vom Spielfeld dorthin gelegt wurde: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Dinowrestler Martial Ankylo“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

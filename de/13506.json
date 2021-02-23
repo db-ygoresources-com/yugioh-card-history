@@ -1,0 +1,19 @@
+{
+  "id": 13506,
+  "type": "monster",
+  "name": "Cherubini, schwarzer Engel des Brennenden Abgrunds",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 3\nMonster, auf die diese Karte zeigt, können nicht durch Karteneffekte zerstört werden. Falls diese Karte durch Kampf oder einen Karteneffekt eines Gegners zerstört würde, kannst du stattdessen 1 andere Karte, die du kontrollierst, auf den Friedhof legen. Du kannst 1 Monster der Stufe 3 von deinem Deck auf den Friedhof legen und dann 1 „Brennenden Abgrund“-Monster auf dem Spielfeld wählen; es erhält bis zum Ende dieses Spielzugs ATK/DEF in Höhe der ATK/DEF des auf den Friedhof gelegten Monsters. Du kannst diesen Effekt von „Cherubini, schwarzer Engel des Brennenden Abgrunds“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 500,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

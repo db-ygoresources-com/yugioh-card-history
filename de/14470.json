@@ -1,0 +1,16 @@
+{
+  "id": 14470,
+  "type": "monster",
+  "name": "Schicksalsdame Vergangenheit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Die ATK/DEF dieser Karte werden gleich ihrer Stufe x 200. Einmal pro Spielzug, während deiner Standby Phase: Erhöhe die Stufe dieser Karte um 1 (max. 12). Du kannst 1 „Schicksalsdame“-Monster wählen, das du kontrollierst; verbanne eine beliebige Anzahl anderer Hexer-Monster von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof, und falls du dies tust, erhöhe oder verringere die Stufe des Monsters bis zum Ende dieses Spielzugs um die Anzahl der verbannten Monster. Du kannst diesen Effekt von „Schicksalsdame Vergangenheit“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13383,
+  "type": "monster",
+  "name": "Intruso Tindángulo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Puedes añadir a tu mano 1 carta \"Tindángulo\" en tu Deck.\nCuando esta carta es Invocada de Modo Normal: puedes mandar al Cementerio 1 carta \"Tindángulo\" desde tu Deck. Si uno o más monstruos son Invocados de Modo Especial a tu Campo en Posición de Defensa boca abajo mientras esta carta está en tu Cementerio: Invoca esta carta de Modo Especial en Posición de Defensa boca abajo (esto no es opcional). Sólo puedes usar cada efecto de \"Intruso Tindángulo\" una vez por turno.",
+  "level": 6,
+  "atk": 2200,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11815,
+  "type": "monster",
+  "name": "Galant Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Chef d'une des plus fougueuses unités commando Chevaliardent. Son plus grand défi est de garder le tempérament bouillonant ses hommes sous contrôle.",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 2200,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

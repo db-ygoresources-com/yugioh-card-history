@@ -1,0 +1,15 @@
+{
+  "id": 8238,
+  "type": "monster",
+  "name": "Jurrac Ptera",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta es atacada, devuelve a la mano al monstruo atacante después del cálculo de daño y esta carta gana DEF igual al Nivel del monstruo devuelto x 100.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

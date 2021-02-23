@@ -1,0 +1,15 @@
+{
+  "id": 4616,
+  "type": "monster",
+  "name": "Lagarto Eléctrico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Un monstruo que no sea del Tipo Zombi atacando al \"Lagarto Eléctrico\" no puede atacar en el turno siguiente.",
+  "level": 3,
+  "atk": 850,
+  "def": 800,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

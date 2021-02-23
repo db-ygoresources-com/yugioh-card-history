@@ -1,0 +1,18 @@
+{
+  "id": 14858,
+  "type": "monster",
+  "name": "Controlador de Gravedad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Monstruo que no sea de Enlace en una Zona de Monstruos Extra\nNo puede ser usada como Material de Enlace el turno en el que es Invocada por Enlace. Esta carta en la Zona de Monstruos Extra no puede ser destruida en batalla con un monstruo en la Zona de Monstruos Principal. Al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario en la Zona de Monstruos Extra: puedes devolver al Deck ese monstruo del adversario así como esta carta.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Psíquico",
+    "Enlace",
+    "Efecto"
+  ]
+}

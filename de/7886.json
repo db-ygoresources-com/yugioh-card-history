@@ -1,0 +1,15 @@
+{
+  "id": 7886,
+  "type": "monster",
+  "name": "Eisenketten-Schlange",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während deiner Main Phase kannst du 1 offenes Monster, das dein Gegner kontrolliert, mit dieser Karte ausrüsten. Das Monster verliert 800 ATK und DEF. Wenn es durch Kampf zerstört und auf den Friedhof gelegt wird, legt sein Beherrscher die obersten Karten in Höhe seiner Stufe von seinem Deck auf den Friedhof.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

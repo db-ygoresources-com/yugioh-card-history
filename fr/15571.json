@@ -1,0 +1,15 @@
+{
+  "id": 15571,
+  "type": "monster",
+  "name": "Brume Myutant",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non Invocable Spécialement, sauf avec l'effet d'une carte \"Myutant\". Votre adversaire ne peut pas cibler cette carte avec des effets de Magie. Vous ne pouvez utiliser chacun des effets suivants de \"Brume Myutant\" qu'une fois par tour. Lorsque votre adversaire active une Carte Piège ou effet de Piège (Effet Rapide) : vous pouvez bannir 1 carte depuis votre main ou Terrain ; piochez 2 cartes. Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez cibler 1 de vos monstres \"Myutant\" bannis ; ajoutez-le à votre main.",
+  "level": 8,
+  "atk": 2700,
+  "def": 2900,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

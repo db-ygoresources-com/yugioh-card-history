@@ -1,0 +1,16 @@
+{
+  "id": 14843,
+  "type": "monster",
+  "name": "Leviatán de Agua @Ignister",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Ritual de A.I.\". Si esta carta es Invocada por Ritual: puedes devolver a la mano todos los monstruos que controle tu adversario con 2300 ATK o menos. Puedes seleccionar 1 monstruo boca arriba que controle tu adversario; devuelve al Deck Extra todos los Monstruos de Enlace en tu Cementerio y, si lo haces, cambia el ATK de ese monstruo seleccionado a 0. Sólo puedes usar este efecto de \"Leviatán de Agua @Ignister\" una vez por turno. Una vez por batalla, durante el cálculo de daño, si esta carta batalla con un monstruo del adversario (Efecto Rápido): puedes dividir a la mitad el ATK de ese monstruo del adversario, sólo durante ese cálculo de daño.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Ciberso",
+    "Ritual",
+    "Efecto"
+  ]
+}

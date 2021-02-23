@@ -1,0 +1,16 @@
+{
+  "id": 8951,
+  "type": "monster",
+  "name": "Goblin de Restolhos",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser destruído em batalha. No final da Fase de Batalha, se este card com a face para cima em Posição de Defesa for escolhido como alvo de um ataque: destrua este card. Se este card for destruído pelo efeito de um card \"Restolhos\" e enviado para o Cemitério: você pode escolher 1 monstro \"Restolhos\" no seu Cemitério, exceto \"Goblin de Restolhos\"; adicione o alvo à sua mão.",
+  "level": 3,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Besta-Guerreira",
+    "Regulador",
+    "Efeito"
+  ]
+}

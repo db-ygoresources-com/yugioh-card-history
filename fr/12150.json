@@ -1,0 +1,18 @@
+{
+  "id": 12150,
+  "type": "monster",
+  "name": "Zèbre Zinzin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez choisir 1 Zone Monstre ou Zone Magie & Piège inutilisée ; tant que cette carte est face recto dans la Zone Monstre, la Zone ne peut pas être utilisée.",
+  "pendEffect": "Une fois par tour, durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez choisir 1 Zone Monstre ou Zone Magie & Piège inutilisée ; tant que cette carte est dans la Zone Pendule, la Zone choisie ne peut pas être utilisée.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

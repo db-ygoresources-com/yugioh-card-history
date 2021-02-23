@@ -1,0 +1,15 @@
+{
+  "id": 7211,
+  "type": "monster",
+  "name": "Tornado del Desierto",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 2 monstruos de VIENTO y 1 de TIERRA en tu Cementerio. Una vez por turno: puedes descartar 1 carta, y después seleccionar 1 Mágica/Trampa en el Campo; destrúyela.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

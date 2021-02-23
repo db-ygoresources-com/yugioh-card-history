@@ -1,0 +1,16 @@
+{
+  "id": 7550,
+  "type": "monster",
+  "name": "Urkisass de la Cloche de Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1 monstre non Syntoniseur ou plus\nDurant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en tant que dommages de combat à votre adversaire. Cette carte gagne 300 points d'ATK chaque fois qu'elle inflige des dommages de combat à votre adversaire.",
+  "level": 6,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Pyro",
+    "Synchro",
+    "Effet"
+  ]
+}

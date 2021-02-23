@@ -1,0 +1,16 @@
+{
+  "id": 8105,
+  "type": "monster",
+  "name": "Genex-Sekundärrohstoff",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug kannst du 1 „Genex“-Monster in deinem Friedhof wählen. Bis zur End Phase wird der Name dieser Karte als der Name des gewählten Monsters behandelt.",
+  "level": 1,
+  "atk": 200,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

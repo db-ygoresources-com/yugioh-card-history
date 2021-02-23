@@ -1,0 +1,15 @@
+{
+  "id": 15948,
+  "type": "monster",
+  "name": "Kriegsfels-Skyler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Erhält 100 ATK für jedes Monster, das dein Gegner kontrolliert. Während einer Battle Phase, in der dein ERDE Krieger-Monster kämpft (Schnelleffekt): Du kannst 1 Krieger-Monster der Stufe 5 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, zusätzlich erhalten alle „Kriegsfels“-Monster, die du derzeit kontrollierst, bis zum Ende des Spielzugs deines Gegners 200 ATK, zusätzlich kannst du für den Rest dieses Spielzugs mit Monstern der Stufe 5 oder niedriger nicht direkt angreifen. Du kannst diesen Effekt von „Kriegsfels-Skyler“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

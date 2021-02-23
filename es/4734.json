@@ -1,0 +1,16 @@
+{
+  "id": 4734,
+  "type": "monster",
+  "name": "Sirena Toon",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano), mientras controles \"Mundo Toon\". No puede atacar en el turno en el que es Invocado de Modo Especial. Debes pagar 500 LP para declarar un ataque con este monstruo. Si \"Mundo Toon\" en el Campo es destruido, destruye esta carta. Puede atacar a tu adversario directamente, a menos que éste controle un monstruo Toon, en cuyo caso esta carta debe seleccionar un monstruo Toon para sus ataques.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Toon",
+    "Efecto"
+  ]
+}

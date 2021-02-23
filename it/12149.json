@@ -1,0 +1,15 @@
+{
+  "id": 12149,
+  "type": "monster",
+  "name": "Incisore del Marchio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando il tuo avversario attiva una carta o un effetto dichiarando il nome di esattamente 1 carta (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; dichiara il nome di 1 altra carta. Il nome della carta dichiarato dal tuo avversario diventa il nome della carta dichiarato da questo effetto. Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 carta scoperta sul Terreno; distruggila durante la End Phase del prossimo turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

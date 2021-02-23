@@ -1,0 +1,15 @@
+{
+  "id": 4708,
+  "type": "monster",
+  "name": "Hamburguesa Hambrienta",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Este monstruo solo puede ser invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual \"Receta de Hamburguesa\". También debes ofrecer monstruos cuyo Nivel total sea 6 o más de tu Campo o tu mano como Sacrificio.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1850,
+  "properties": [
+    "Guerrero",
+    "Ritual"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6045,
+  "type": "monster",
+  "name": "Gesandter der Oase",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange sich ein offenes normales Monster der Stufe 3 oder niedriger auf deiner Spielfeldseite befindet, kann dein Gegner diese Karte nicht als Ziel eines Angriffs wählen. Solange diese Karte offen auf deiner Spielfeldseite liegt, wird Kampfschaden, der dem Spieler, der diese Karte kontrolliert, aus Kämpfen mit normalen Monstern der Stufe 3 oder niedriger zugefügt wird, zu 0.",
+  "level": 3,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

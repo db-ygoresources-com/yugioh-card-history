@@ -1,0 +1,19 @@
+{
+  "id": 13756,
+  "type": "monster",
+  "name": "Dragón Miniborre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos \"Cohette\"\nSi controlas un Monstruo de Enlace \"Borre\" mientras esta carta está en tu Cementerio: puedes Sacrificar 1 monstruo Link-3 o menor; Invoca esta carta de Modo Especial, pero no puede ser usada como material para la Invocación por Enlace de un monstruo con el mismo Rating de Enlace que el monstruo Sacrificado. Sólo puedes usar este efecto de \"Dragón Miniborre\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 800,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

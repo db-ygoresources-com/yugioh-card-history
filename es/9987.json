@@ -1,0 +1,15 @@
+{
+  "id": 9987,
+  "type": "monster",
+  "name": "Constelación Kaus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser usado como Material de Sincronía. Hasta dos veces por turno: puedes seleccionar 1 monstruo \"Constelación\" en el Campo, y después activar 1 de estos efectos;\n●Aumenta su Nivel en 1.\n●Reduce su Nivel en 1.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

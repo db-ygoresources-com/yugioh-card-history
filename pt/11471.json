@@ -1,0 +1,18 @@
+{
+  "id": 11471,
+  "type": "monster",
+  "name": "Mayosenju Daibak",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Não pode ser Invocado por Invocação-Especial, exceto por Invocação-Pêndulo. A Invocação-Pêndulo deste card não pode ser negada. Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher até 2 cards no campo; devolva-os para a mão. Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Especial neste turno: devolva-o para a mão.",
+  "pendEffect": "Quando um monstro \"Yosenju\" que você controla declarar um ataque: você pode fazer com que o monstro atacante ganhe 300 de ATK até o final da Fase de Batalha.",
+  "pendScale": 7,
+  "level": 10,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

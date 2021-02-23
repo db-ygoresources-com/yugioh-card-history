@@ -1,0 +1,15 @@
+{
+  "id": 8725,
+  "type": "monster",
+  "name": "Guardie Segrete della Barriera di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "I mostri \"Barriera di Ghiaccio\" scoperti che controlli non possono essere scelti come bersaglio dagli effetti dei Mostri con Effetto del tuo avversario.",
+  "level": 2,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

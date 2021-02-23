@@ -1,0 +1,15 @@
+{
+  "id": 4303,
+  "type": "monster",
+  "name": "Cybersoldat des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ce soldat mécanique n'arrêtera pas d'attaquer tant qu'il détectera des signes de vie autour de lui.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Normal"
+  ]
+}

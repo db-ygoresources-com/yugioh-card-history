@@ -1,0 +1,16 @@
+{
+  "id": 14843,
+  "type": "monster",
+  "name": "Léviathan d'Eau @Ignister",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Rituel d'A.I.\". Si cette carte est Invoquée Rituellement : vous pouvez renvoyer tous les monstres contrôlés par votre adversaire avec max. 2300 ATK à la main. Vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; renvoyez tous les Monstres Lien depuis votre Cimetière à l'Extra Deck, et si vous le faites, changez l'ATK du monstre ciblé à 0. Vous ne pouvez utiliser cet effet de \"Léviathan d'Eau @Ignister\" qu'une fois par tour. Une fois par combat, durant le calcul des dommages, si cette carte combat un monstre de l'adversaire (Effet Rapide) : vous pouvez diviser par deux l'ATK du monstre de l'adversaire, durant ce calcul des dommages uniquement.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Rituel",
+    "Effet"
+  ]
+}

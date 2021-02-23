@@ -1,0 +1,15 @@
+{
+  "id": 9039,
+  "type": "monster",
+  "name": "Akz, el Puma",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta sólo puede ser Invocada de Modo Especial retirando del juego 2 monstruos de Tipo Guerrero-Bestia en tu Cementerio. Una vez por turno, puedes descartar 1 monstruo de Tipo Guerrero-Bestia para activar 1 de los siguientes efectos:\n●Duplica el ATK de esta carta hasta la End Phase.\n●Esta carta puede atacar directamente a tu adversario este turno.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

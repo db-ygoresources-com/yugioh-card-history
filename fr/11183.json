@@ -1,0 +1,15 @@
+{
+  "id": 11183,
+  "type": "monster",
+  "name": "Train de Construction Signal Rouge",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, transférez la cible de l'attaque sur cette carte et passez au calcul des dommages. Cette carte ne peut pas être détruite par ce combat.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1300,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

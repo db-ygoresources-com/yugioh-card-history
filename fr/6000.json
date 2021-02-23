@@ -1,0 +1,15 @@
+{
+  "id": 6000,
+  "type": "monster",
+  "name": "Marshmallon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non destructible au combat. Après le calcul des dommages, si cette carte a été attaquée et qu'elle était face verso au début de la Damage Step : le joueur attaquant reçoit 1000 points de dommages.",
+  "level": 3,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

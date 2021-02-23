@@ -1,0 +1,16 @@
+{
+  "id": 5520,
+  "type": "monster",
+  "name": "Un Chat de Mauvais Augure",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Choisissez 1 Piège depuis votre Deck et placez-le au-dessus de votre Deck, ou, si \"Vallée Mortuaire\" est sur le Terrain, vous pouvez ajouter le Piège à votre main à la place.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Bête",
+    "Flip",
+    "Effet"
+  ]
+}

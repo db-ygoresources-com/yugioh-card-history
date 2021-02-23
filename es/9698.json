@@ -1,0 +1,15 @@
+{
+  "id": 9698,
+  "type": "monster",
+  "name": "Metaion, el Señor del Tiempo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocada de Modo Especial desde el Deck. Si no controlas monstruos, puedes Invocar esta carta de Modo Normal sin Sacrificios. No puede ser destruida en batalla o por efectos de cartas. No recibes daño de batalla de ataques que involucren a esta carta en Posición de Ataque. Al final de la Battle Phase, si esta carta batalló: devuelve a la mano tantos monstruos en el Campo como sea posible (que no sean esta carta) y, si lo haces, inflige 300 puntos de daño a tu adversario por cada carta devuelta. Una vez por turno, durante tu Standby Phase: baraja esta carta al Deck.",
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

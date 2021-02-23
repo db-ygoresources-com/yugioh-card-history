@@ -1,0 +1,18 @@
+{
+  "id": 11218,
+  "type": "monster",
+  "name": "Kaléidoscorp Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; ce tour, il peut attaquer une fois tous les monstres Invoqués Spécialement contrôlés par votre adversaire.",
+  "pendEffect": "Tous les monstres LUMIÈRE que vous contrôlez gagnent 300 ATK.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "Insecte",
+    "Pendule",
+    "Effet"
+  ]
+}

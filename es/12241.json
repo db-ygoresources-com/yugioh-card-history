@@ -1,0 +1,18 @@
+{
+  "id": 12241,
+  "type": "monster",
+  "name": "Caballería de Acero de Dinon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Al comienzo del Damage Step, si esta carta batalla con un Monstruo de Péndulo: hasta el final del Damage Step, el ATK y la DEF de esta carta se convierten en la mitad de su ATK y DEF en este momento.",
+  "pendEffect": "",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1600,
+  "def": 2600,
+  "properties": [
+    "Dinosaurio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

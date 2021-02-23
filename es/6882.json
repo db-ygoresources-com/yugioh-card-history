@@ -1,0 +1,15 @@
+{
+  "id": 6882,
+  "type": "monster",
+  "name": "Estatua-Barrera del Abismo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Ningún jugador puede Invocar monstruos de Modo Especial, excepto monstruos de OSCURIDAD.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

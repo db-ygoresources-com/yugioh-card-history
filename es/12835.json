@@ -1,0 +1,16 @@
+{
+  "id": 12835,
+  "type": "monster",
+  "name": "Predaplanta Quimerafflesia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Monstruo \"Predaplanta\" + 1 Monstruo de OSCURIDAD\nUna vez por turno: puedes seleccionar 1 monstruo en el Campo con un Nivel menor o igual al de esta carta; destiérralo. Cuando es declarado un ataque que involucra a esta carta y a un monstruo boca arriba de tu adversario: puedes activar este efecto; hasta el final de este turno, ese monstruo de tu adversario pierde 1000 ATK y, si lo hace, esta carta gana 1000 ATK. Una vez por turno, durante la próxima Standby Phase después de que esta carta fue mandada al Cementerio: puedes añadir a tu mano, desde tu Deck, 1 Carta Mágica \"Polimerización\" o Carta Mágica \"Fusión\".",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Planta",
+    "Fusión",
+    "Efecto"
+  ]
+}

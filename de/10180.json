@@ -1,0 +1,16 @@
+{
+  "id": 10180,
+  "type": "monster",
+  "name": "Schwertbrecher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster der Stufe 6\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen, um 1 Monstertyp zu benennen; diese Karte erhält den folgenden Effekt. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster mit einem benannten Typ kämpft: Zerstöre das Monster.",
+  "rank": 6,
+  "atk": 2700,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

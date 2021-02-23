@@ -1,0 +1,15 @@
+{
+  "id": 5955,
+  "type": "monster",
+  "name": "La Chica Infeliz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Mientras esta carta permanezca boca arriba en Posición de Ataque en el Campo, esta carta no es destruida como resultado de una batalla, a pesar de que el cálculo de daño se aplica normalmente. Un monstruo que batalle contra esta carta no puede cambiar su posición de batalla o atacar mientras esta carta permanezca boca arriba en Posición de Ataque en el Campo.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6804,
+  "type": "monster",
+  "name": "Guerrero Alienígena",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es destruida como resultado de una batalla y mandada al Cementerio, pon 2 Contadores \"A\" en el monstruo que la destruyó. (Si un monstruo con Contadores \"A\" batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador \"A\", sólo durante el cálculo de daño.)",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

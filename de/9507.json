@@ -1,0 +1,15 @@
+{
+  "id": 9507,
+  "type": "monster",
+  "name": "Vorbild der Morgenröte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kein Spieler kann Monster als Spezialbeschwörung beschwören. Wenn ein anderes Monster als Normalbeschwörung auf eine beliebige Spielfeldseite beschworen wird, zerstöre diese Karte.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

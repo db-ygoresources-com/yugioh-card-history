@@ -1,0 +1,15 @@
+{
+  "id": 11252,
+  "type": "monster",
+  "name": "Ipnosorella",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Questa carta guadagna effetti a seconda del numero totale di carte nelle Zone Pendulum di entrambi i giocatori.\n●1 o più: Questa carta guadagna 800 ATK e DEF.\n●2 o più: All'inizio del Damage Step, se questa carta combatte con un mostro Evocato Pendulum: distruggi quel mostro.\n●3 o più: I mostri controllati dal tuo avversario devono attaccare questa carta, se possibile.\n●4: Se questa carta distrugge un mostro in battaglia o con il suo stesso effetto: pesca 1 carta.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Psichico",
+    "Effetto"
+  ]
+}

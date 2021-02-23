@@ -1,0 +1,15 @@
+{
+  "id": 15070,
+  "type": "monster",
+  "name": "Vernichter-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 Karte, die du kontrollierst, und 1 Karte, die dein Gegner kontrolliert, wählen; zerstöre sie und falls du durch diesen Effekt ein oder mehr offene Unterweltler-Monster zerstört hast, erhält diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der Hälfte der Grund-ATK der Unterweltler-Monster. Du kannst diesen Effekt von „Vernichter-Erzunterweltler“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

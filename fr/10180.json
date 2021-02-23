@@ -1,0 +1,16 @@
+{
+  "id": 10180,
+  "type": "monster",
+  "name": "Briseur d'Épée",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 6\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte pour déclarer 1 Type de Monstre ; cette carte gagne l'effet suivant. Au début de la Damage Step, si cette carte combat un monstre du Type qui a été déclaré : détruisez le monstre.",
+  "rank": 6,
+  "atk": 2700,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6005,
+  "type": "monster",
+  "name": "Retour du Zombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre Standby Phase : vous pouvez payer 500 Life Points ; ajoutez cette carte depuis votre Cimetière à votre main. Vous ne devez avoir aucune carte dans votre main pour activer et résoudre cet effet.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

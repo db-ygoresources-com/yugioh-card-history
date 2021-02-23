@@ -1,0 +1,16 @@
+{
+  "id": 11716,
+  "type": "monster",
+  "name": "Lion Frourreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Scie du Lutin Tranchant\" + 1 monstre \"Peluchimal\"\nUniquement Invocable par Fusion. Vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; détruisez-le, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit. Vous ne pouvez utiliser cet effet de \"Lion Frourreur\" qu'une fois par tour. Cette carte ne peut pas attaquer directement durant le tour où vous activez cet effet.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

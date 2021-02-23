@@ -1,0 +1,16 @@
+{
+  "id": 5781,
+  "type": "monster",
+  "name": "Seigneur de la Flamme Légendaire",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ce monstre ne peut être Invoqué que par Invocation Rituelle avec la Carte Magie Rituelle, \"Épreuve du Feu\". Vous devez également sacrifier des monstres dont le total des Niveaux est égal à 7 ou plus du Terrain ou de votre main. À chaque fois que vous ou votre adversaire activez 1 Carte Magie, mettez 1 Compteur Magie sur cette carte. Retirez 3 Compteurs Magie de cette carte pour détruire tous les monstres sur le Terrain exceptée cette carte.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

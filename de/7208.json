@@ -1,0 +1,16 @@
+{
+  "id": 7208,
+  "type": "monster",
+  "name": "Kristallseher",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Grabe die obersten 2 Karten deines Decks aus, dann füge 1 von ihnen deiner Hand hinzu, dann lege die andere unter dein Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

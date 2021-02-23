@@ -1,0 +1,16 @@
+{
+  "id": 4735,
+  "type": "monster",
+  "name": "Herbeigerufener Toon-Schädel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)\nKann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 Monster als Tribut anbietest, solange du „Toon-Welt“ kontrollierst. Diese Karte kann nicht in dem Spielzug angreifen, in dem sie als Spezialbeschwörung beschworen wurde. Du musst 500 LP zahlen, um einen Angriff mit diesem Monster zu deklarieren. Falls „Toon-Welt“ auf dem Spielfeld zerstört wird, zerstöre diese Karte. Kann deinen Gegner direkt angreifen, es sei denn, er kontrolliert ein Toon-Monster, in welchem Fall diese Karte ein Toon-Monster als Ziel für ihre Angriffe wählen muss.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Toon",
+    "Effekt"
+  ]
+}

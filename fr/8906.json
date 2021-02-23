@@ -1,0 +1,15 @@
+{
+  "id": 8906,
+  "type": "monster",
+  "name": "Seigneur du Jugement Laval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour : vous pouvez bannir 1 monstre \"Laval\" depuis votre Cimetière ; infligez 1000 points de dommages à votre adversaire. \"Seigneur du Jugement Laval\" ne peut pas déclarer d'attaque le tour où cet effet est activé.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

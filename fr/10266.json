@@ -1,0 +1,16 @@
+{
+  "id": 10266,
+  "type": "monster",
+  "name": "Numéro 9 : Sphère Dyson",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 9\nUne fois par Battle Step, durant le tour de votre adversaire, si cette carte avec du Matériel Xyz est attaquée : annulez l'attaque (ceci est un Effet Rapide). Lorsque cette carte est ciblée par une attaque, tant qu'elle n'a pas de Matériel Xyz : vous pouvez cibler 2 monstres dans votre Cimetière ; attachez les cibles à cette carte comme Matériels Xyz. Durant votre Main Phase 1 : vous pouvez détacher 1 Matériel Xyz de cette carte ; cette carte peut attaquer directement votre adversaire ce tour. Votre adversaire doit contrôler un monstre avec une ATK supérieure à cette carte pour que vous puissiez activer et résoudre cet effet.",
+  "rank": 9,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

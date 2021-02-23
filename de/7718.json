@@ -1,0 +1,16 @@
+{
+  "id": 7718,
+  "type": "monster",
+  "name": "Psi-Befehlshaber",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn ein Monster vom Typ Psi kämpft, das du kontrollierst, kannst du während des Damage Steps Life Points in Vielfachen von 100 (max. 500) zahlen, um das Monster, gegen das es kämpft, bis zur End Phase so viele ATK und DEF verlieren zu lassen.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

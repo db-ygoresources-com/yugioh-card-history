@@ -1,0 +1,18 @@
+{
+  "id": 12410,
+  "type": "monster",
+  "name": "D/D Savant Nikola",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte dans la Zone Pendule est détruite : vous pouvez cibler 1 monstre \"D/D/D\" que vous contrôlez ; renvoyez-le à la main, et si vous le faites, placez max. 2 Monstres Pendule \"D/D\" face recto depuis votre Extra Deck dans vos Zones Pendule, mais ils ne peuvent pas activer leurs Effets Pendule ce tour. Vous ne pouvez utiliser cet effet de \"D/D Savant Nikola\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"D/D\" exclus). Cet effet ne peut pas être annulé. Une fois par tour : vous pouvez défausser 1 monstre \"D/D/D\", puis ciblez 1 monstre \"D/D\" de max. Niveau 6 que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 2000 ATK/DEF (même si cette carte quitte le Terrain).",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

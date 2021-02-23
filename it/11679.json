@@ -1,0 +1,18 @@
+{
+  "id": 11679,
+  "type": "monster",
+  "name": "Artistamico Pescalucertola",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se un altro mostro scoperto che controlli viene distrutto da un attacco o dall'effetto di una carta del tuo avversario: puoi pescare carte pari al numero di mostri \"Artistamico\" che controlli attualmente. Puoi utilizzare questo effetto di \"Artistamico Pescalucertola\" una sola volta per turno.",
+  "pendEffect": "Se hai una carta \"Artistamico\" nella tua altra Zona Pendulum, eccetto \"Artistamico Pescalucertola\": puoi distruggere questa carta e, se lo fai, pesca 1 carta. Puoi utilizzare questo effetto di \"Artistamico Pescalucertola\" una sola volta per turno.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Rettile",
+    "Pendulum",
+    "Effetto"
+  ]
+}

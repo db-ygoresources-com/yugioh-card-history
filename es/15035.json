@@ -1,0 +1,18 @@
+{
+  "id": 15035,
+  "type": "monster",
+  "name": "Crucenlace",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Monstruo de Enlace de Link-2 o mayor\nSi esta carta es Invocada por Enlace: puedes activar este efecto; Invoca de Modo Especial un número de \"Fichas Enlace\" (Ciberso/LUZ/Nivel 1/ATK 0/DEF 0) hasta el número de Rating de Enlace del monstruo usado para la Invocación por Enlace de esta carta, y además, por el resto de este turno no puedes usar \"Fichas Enlace\" como Material de Enlace. Sólo puedes usar este efecto de \"Crucenlace\" una vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 900,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

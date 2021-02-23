@@ -1,0 +1,16 @@
+{
+  "id": 8479,
+  "type": "monster",
+  "name": "Explosiver Magier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Hexer-Nicht-Empfänger-Monster\nDu kannst 2 Zauberzählmarken von deiner Spielfeldseite entfernen und dann 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

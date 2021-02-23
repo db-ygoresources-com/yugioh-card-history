@@ -1,0 +1,16 @@
+{
+  "id": 8306,
+  "type": "monster",
+  "name": "Turborakete",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange diese Karte angreift, kann sie nicht durch Kampf zerstört werden. Falls diese Karte angreift, füge deinem Gegner nach der Schadensberechnung Schaden in Höhe der Hälfte der ATK des Angriffsziels zu.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

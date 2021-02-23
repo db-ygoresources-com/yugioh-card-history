@@ -1,0 +1,16 @@
+{
+  "id": 11560,
+  "type": "monster",
+  "name": "Uni-Zombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; scarta 1 carta e, se lo fai, aumenta di 1 il Livello di quel bersaglio. Puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; i mostri che controlli non possono attaccare per il resto di questo turno, eccetto i mostri Zombie, inoltre manda 1 mostro Zombie dal tuo Deck al Cimitero e, se lo fai, aumenta di 1 il Livello di quel bersaglio. Puoi utilizzare ogni effetto di \"Uni-Zombie\" una sola volta per turno.",
+  "level": 3,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Tuner",
+    "Effetto"
+  ]
+}

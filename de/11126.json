@@ -1,0 +1,15 @@
+{
+  "id": 11126,
+  "type": "monster",
+  "name": "Shogi-Lanze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 anderes Monster vom Typ Ungeheuer-Krieger der Stufe 3 wählen, das du kontrollierst; die Stufe des Monsters und dieser Karte werden die Summe der Stufen der Monster.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

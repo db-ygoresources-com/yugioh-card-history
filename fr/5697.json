@@ -1,0 +1,16 @@
+{
+  "id": 5697,
+  "type": "monster",
+  "name": "Shinato, Roi d'un Plan Supérieur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut être Invoquée que par Invocation Rituelle avec la Carte Magie Rituelle, \"Arche de Shinato\". Vous devez également sacrifier des monstres dont le total des Niveaux est égal à 8 ou plus du Terrain ou de votre main. Lorsque cette carte détruit un monstre en Position de Défense et l'envoie au Cimetière à l'issue d'un combat, infligez des dommages aux Life Points de votre adversaire égaux à l'ATK d'origine du monstre détruit.",
+  "level": 8,
+  "atk": 3300,
+  "def": 3000,
+  "properties": [
+    "Elfe",
+    "Rituel",
+    "Effet"
+  ]
+}

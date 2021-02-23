@@ -1,0 +1,18 @@
+{
+  "id": 13397,
+  "type": "monster",
+  "name": "Bestia Mítica Maestro Cancerbero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 2 Contadores Mágicos en esta carta cuando esa Mágica se resuelva. Mientras haya 4 o más Contadores Mágicos en tu Campo, no puede ser destruida por efectos de cartas. Una vez por turno: puedes retirar 4 Contadores Mágicos en tu Campo, y después seleccionar 1 monstruo que controle tu adversario; destiérralo boca arriba y, si lo haces, hasta el final del turno del adversario esta carta gana ATK igual al ATK original del monstruo desterrado.",
+  "pendEffect": "Si no tienes cartas en tu otra Zona de Péndulo: puedes destruir esta carta y, si lo haces, añade a tu mano 1 Monstruo de Efecto \"Bestia Mítica\" de Nivel 7 o menor en tu Deck. Sólo puedes usar este efecto de \"Bestia Mítica Maestro Cancerbero\" una vez por turno.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

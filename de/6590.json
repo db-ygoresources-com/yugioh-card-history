@@ -1,0 +1,15 @@
+{
+  "id": 6590,
+  "type": "monster",
+  "name": "Maschinenkönig Prototyp",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte erhält 100 ATK und DEF für jedes Monster vom Typ Maschine auf dem Spielfeld, außer dieser Karte.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

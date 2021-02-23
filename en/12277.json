@@ -1,0 +1,18 @@
+{
+  "id": 12277,
+  "type": "monster",
+  "name": "Performapal Fireflux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If a \"Performapal\" or \"Odd-Eyes\" monster you control attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+  "pendEffect": "Once per turn, when an opponent's monster declares an attack: You can Tribute 1 \"Performapal\" monster; negate the attack, then end the Battle Phase.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Insect",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15330,
+  "type": "monster",
+  "name": "Réacteur Slime",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant votre Main Phase : vous pouvez activer cet effet ; Invoquez Spécialement 2 \"Jeton de Slime\" (Aqua/EAU/Niveau 1/ATK 500/DEF 500), et aussi, vous ne pouvez Invoquer ni Normalement ni Spécialement de monstres (monstres Bête Divine exclus) le reste de ce tour. Durant la Battle Phase (Effet Rapide) : vous pouvez Sacrifier cette carte ; Posez 1 \"Slime Métallique\" depuis votre main, Deck ou Cimetière. Il peut être activé ce tour. Vous ne pouvez utiliser chaque effet de \"Réacteur Slime\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

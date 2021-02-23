@@ -1,0 +1,16 @@
+{
+  "id": 9324,
+  "type": "monster",
+  "name": "Symphonic Warrior Basses",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Once per turn, you can select 1 face-up \"Symphonic Warrior\" monster on the field. Increase its Level by the number of cards in your hand; this increase lasts until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and increase its Level by the number of cards in your hand; this increase lasts until the End Phase.",
+  "level": 1,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Tuner",
+    "Effect"
+  ]
+}

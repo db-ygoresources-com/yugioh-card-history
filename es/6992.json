@@ -1,0 +1,16 @@
+{
+  "id": 6992,
+  "type": "monster",
+  "name": "Cúchulainn el Despierto",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta sólo puede ser Invocada por Ritual usando la Carta Mágica de Ritual \"Emblema del Despertar\". Una vez por turno, puedes retirar del juego 1 Monstruo Normal de tu cementerio. Esta carta gana ATK igual al ATK de ese Monstruo Normal hasta la Standby Phase de tu próximo turno.",
+  "level": 4,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Ritual",
+    "Efecto"
+  ]
+}

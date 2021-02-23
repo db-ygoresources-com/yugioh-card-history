@@ -1,0 +1,16 @@
+{
+  "id": 8971,
+  "type": "monster",
+  "name": "Licorne du Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur de Type Bête + 1 monstre non Syntoniseur ou plus\nUne fois par tour, durant votre Main Phase, vous pouvez sélectionner 1 monstre face recto contrôlé par votre adversaire. Il perd 500 points d'ATK pour chaque monstre que vous contrôlez, jusqu'à la End Phase. Durant le tour où cet effet est activé, aucun autre monstre ne peut attaquer, excepté cette carte.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Synchro",
+    "Effet"
+  ]
+}

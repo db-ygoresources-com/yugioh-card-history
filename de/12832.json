@@ -1,0 +1,15 @@
+{
+  "id": 12832,
+  "type": "monster",
+  "name": "Raubpflanze Pterakannenpflanze",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; lege 1 Raubtier-Zählmarke darauf und falls es Stufe 2 oder höher ist, wird es zu Stufe 1, solange es eine Raubtier-Zählmarke hat. Einmal pro Spielzug: Du kannst 1 Monster mit einer Stufe wählen, die kleiner oder gleich der dieser Karte ist, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle darüber.",
+  "level": 3,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

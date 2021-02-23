@@ -1,0 +1,15 @@
+{
+  "id": 6530,
+  "type": "monster",
+  "name": "Brujo Eliminador Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial (desde tu mano) Sacrificando 1 \"Mago Oscuro\", y no puede ser Invocada de Modo Especial de otra forma. Cada vez que se active una Carta Mágica Normal, inflígele 1000 puntos de daño a tu adversario inmediatamente después de que se resuelva.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

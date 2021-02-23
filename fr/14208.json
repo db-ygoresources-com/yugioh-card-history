@@ -1,0 +1,19 @@
+{
+  "id": 14208,
+  "type": "monster",
+  "name": "Ange Déchu Condamné",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres Elfe\nVous pouvez Invoquer par Sacrifice des monstres Elfe qui nécessitent 2 Sacrifices en bannissant 2 monstres depuis votre Cimetière au lieu de les Sacrifier (c'est toujours traité comme une Invocation Sacrifice). Vous pouvez défausser 1 carte ; prenez 1 monstre \"Ange Déchu\" depuis votre Deck, et soit ajoutez-le à votre main soit envoyez-le au Cimetière. Vous ne pouvez utiliser cet effet de \"Ange Déchu Condamné\" qu'une fois par tour. Une fois par tour, durant votre End Phase : gagnez 500 LP pour chaque monstre Elfe sur le Terrain.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Elfe",
+    "Lien",
+    "Effet"
+  ]
+}

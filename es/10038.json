@@ -1,0 +1,15 @@
+{
+  "id": 10038,
+  "type": "monster",
+  "name": "Taladro Enorme",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes incrementar en 1 los Niveles de todos los monstruos de Tipo Máquina que controles en este momento. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. Si esta carta ataca, se cambia a Posición de Defensa al final del Damage Step.",
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

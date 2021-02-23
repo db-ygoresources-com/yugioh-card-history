@@ -1,0 +1,16 @@
+{
+  "id": 11888,
+  "type": "monster",
+  "name": "Time Magic Hammer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Must be Special Summoned with \"The Claw of Hermos\", using a Spellcaster monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. At the start of the Damage Step, if it battles an opponent's monster: You can roll a six-sided die, and banish that opponent's monster until the Standby Phase of the Nth turn after this effect's activation (N = the result).",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Spellcaster",
+    "Fusion",
+    "Effect"
+  ]
+}

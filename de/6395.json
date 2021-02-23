@@ -1,0 +1,16 @@
+{
+  "id": 6395,
+  "type": "monster",
+  "name": "UFOroide Kämpfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„UFOroid“ + 1 Monster vom Typ Krieger\nEine Fusionsbeschwörung dieses Monsters kann nur mit den oben genannten Fusionsmaterial-Monstern durchgeführt werden. Die Grund-ATK und -DEF dieser Karte werden zur Summe der Grund-ATK der beiden Fusionsmaterial-Monster, die du für die Fusionsbeschwörung dieser Karte benutzt hast.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

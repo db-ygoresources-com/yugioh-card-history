@@ -1,0 +1,16 @@
+{
+  "id": 5591,
+  "type": "monster",
+  "name": "Frostiges Ungeheuer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, kannst du deine „Brennendes Ungeheuer“-Karte mit dieser Karte als Ausrüstungszauberkarte ausrüsten ODER sie als Union-Ausrüstung ausklinken und als Spezialbeschwörung in offener Angriffsposition auf deiner Spielfeldseite beschwören. Wenn diese Karte durch ihren Effekt ein Monster ausrüstet, zerstöre, wenn das ausgerüstete Monster deinem Gegner Kampfschaden zufügt, 1 verdeckte Zauber- oder Fallenkarte auf dem Spielfeld. (1 Monster kann nur mit 1 Union-Monster zurzeit ausgerüstet sein. Wenn das Monster, das mit dieser Karte ausgerüstet ist, als Ergebnis eines Kampfes zerstört wird, zerstöre stattdessen diese Karte.)",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Union",
+    "Effekt"
+  ]
+}

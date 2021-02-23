@@ -1,0 +1,15 @@
+{
+  "id": 14409,
+  "type": "monster",
+  "name": "Witchcrafter Madame Verre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "During damage calculation, if your Spellcaster monster battles an opponent's monster (Quick Effect): You can reveal any number of Spells with different names in your hand, and if you do, your battling monster gains 1000 ATK/DEF for each card revealed, until the end of this turn. (Quick Effect): You can discard 1 Spell; negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. You can only use each effect of \"Witchcrafter Madame Verre\" once per turn.",
+  "level": 8,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

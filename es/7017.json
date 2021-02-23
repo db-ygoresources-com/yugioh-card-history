@@ -1,0 +1,15 @@
+{
+  "id": 7017,
+  "type": "monster",
+  "name": "Dragón de la Tormenta de Nieve",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; hasta el final del próximo turno de tu adversario, ese monstruo no puede cambiar su posición de batalla o declarar un ataque.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

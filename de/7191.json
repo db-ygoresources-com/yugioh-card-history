@@ -1,0 +1,15 @@
+{
+  "id": 7191,
+  "type": "monster",
+  "name": "Vulkanische Ratte",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese mutierte Maus wohnt im Kern eines aktiven Vulkans. Es gibt keine Hitze, die sie nicht aushalten würde.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Pyro",
+    "Normal"
+  ]
+}

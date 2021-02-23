@@ -1,0 +1,16 @@
+{
+  "id": 13381,
+  "type": "monster",
+  "name": "Tindangle Hound",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: You can target 1 other face-up monster on the field; this card gains ATK equal to that target's original ATK, then change that target to face-down Defense Position.\nEach monster your opponent controls loses 1000 ATK for each monster linked to it. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 face-down monster on the field; change it to face-up Defense Position.",
+  "level": 7,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Fiend",
+    "Flip",
+    "Effect"
+  ]
+}

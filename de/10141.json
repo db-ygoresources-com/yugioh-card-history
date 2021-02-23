@@ -1,0 +1,15 @@
+{
+  "id": 10141,
+  "type": "monster",
+  "name": "Chronomaler Goldjet",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst die Stufen aller „Chronomal“-Monster, die du derzeit kontrollierst, um 1 erhöhen.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

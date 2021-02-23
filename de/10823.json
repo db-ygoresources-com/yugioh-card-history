@@ -1,0 +1,15 @@
+{
+  "id": 10823,
+  "type": "monster",
+  "name": "Schwarz Glänzender Soldat - Gesandter der Abenddämmerung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du alle LICHT Monster oder alle FINSTERNIS Monster von deinem Friedhof verbannst, solange du die gleiche Anzahl von beiden in deinem Friedhof hast. Solange diese Karte offen auf dem Spielfeld liegt, hat sie zusätzlich die Eigenschaft LICHT. Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst den entsprechenden Effekt aktivieren, basierend auf der Eigenschaft der für die Spezialbeschwörung verbannten Monster. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Battle Phase durchführen.\n●LICHT: Wähle 1 Monster auf dem Spielfeld; verbanne es.\n●FINSTERNIS: Verbanne bis zur End Phase deines Gegners 1 zufällige Karte von der Hand deines Gegners verdeckt.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

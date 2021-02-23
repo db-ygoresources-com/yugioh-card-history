@@ -1,0 +1,18 @@
+{
+  "id": 11814,
+  "type": "monster",
+  "name": "Margrave Caballerígneo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Un guerrero Caballerígneo de alto rango. Cuando finalmente entra en combate, sus ataques barredores no son temidos sólo por sus enemigos, sino por sus propias tropas.",
+  "pendEffect": "Si tienes una carta \"Caballerígneo\" en tu otra Zona de Péndulo: puedes destruir ambas cartas en tus Zonas de Péndulo y, si lo haces, añade a tu mano 1 monstruo de FUEGO de Tipo Guerrero en tu Deck o Cementerio.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1500,
+  "def": 2500,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

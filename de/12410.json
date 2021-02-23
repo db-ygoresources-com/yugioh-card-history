@@ -1,0 +1,18 @@
+{
+  "id": 12410,
+  "type": "monster",
+  "name": "D/D-Gelehrter Nikola",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte in der Pendelzone zerstört wird: Du kannst 1 „D/D/D“-Monster wählen, das du kontrollierst; gib es auf die Hand zurück und falls du dies tust, lege bis zu 2 offene „D/D“-Pendelmonster von deinem Extra Deck in deine Pendelzonen, aber sie können ihre Pendeleffekte in diesem Spielzug nicht aktivieren. Du kannst diesen Effekt von „D/D-Gelehrter Nikola“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „D/D“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 1 „D/D/D“-Monster abwerfen und dann 1 „D/D“-Monster der Stufe 6 oder niedriger wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 2000 ATK und DEF (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

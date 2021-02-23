@@ -1,0 +1,15 @@
+{
+  "id": 7343,
+  "type": "monster",
+  "name": "Dragão da Noite Branca",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Durante o turno de qualquer duelista, quando um Card de Magia/Armadilha que escolher este card como alvo for ativado: negue a ativação e, se isso acontecer, destrua-o. Quando outro monstro com a face para cima que você controla for alvo de um ataque: você pode enviar 1 Card de Magia/Armadilha que você controla para o Cemitério; esse ataque agora escolhe este card como alvo.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

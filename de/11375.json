@@ -1,0 +1,15 @@
+{
+  "id": 11375,
+  "type": "monster",
+  "name": "Die Richterin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein Karteneffekt deines Gegners aktiviert wird, bevor der Effekt aufgelöst wird, wirf zweimal eine Münze und falls das Ergebnis zweimal Kopf ist, annulliere den Effekt. Du kannst diesen Effekt von „Die Richterin“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

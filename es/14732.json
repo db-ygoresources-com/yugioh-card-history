@@ -1,0 +1,19 @@
+{
+  "id": 14732,
+  "type": "monster",
+  "name": "Hermandad del Puño de Fuego - Pavo Real",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos \"Puño de Fuego\"\nMientras esta carta apunte a un monstruo \"Puño de Fuego\", los monstruos de tu adversario no pueden seleccionar esta carta para ataques. Cuando esta carta declara un ataque: puedes mandar al Cementerio 1 Mágica/Trampa \"Formación de Fuego\" boca arriba que controles, y después seleccionar 1 monstruo que controle tu adversario; pon ese monstruo del adversario en una zona a la que apunte esta carta y toma su control hasta la End Phase, pero no puede declarar ataques este turno. Sólo puedes usar este efecto de \"Hermandad del Puño de Fuego - Pavo Real\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Enlace",
+    "Efecto"
+  ]
+}

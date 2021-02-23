@@ -1,0 +1,15 @@
+{
+  "id": 7788,
+  "type": "monster",
+  "name": "Grenouille Mystificatrice",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Le nom de cette carte devient \"Grenouille Des\" tant qu'elle est sur le Terrain. Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Lorsque cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 monstre \"Grenouille\" (\"Grenouille Mystificatrice\" exclu) depuis votre Deck ou Cimetière à votre main.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

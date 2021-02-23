@@ -1,0 +1,18 @@
+{
+  "id": 14469,
+  "type": "monster",
+  "name": "Mayosenju Hitot",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Cannot be Special Summoned, except by Pendulum Summon. If this card is Normal or Special Summoned: You can target 1 card your opponent controls; return it to the hand. Each time a card(s) on the field is returned to the hand or Main Deck by your card effect, while this card is on the field: All \"Yosenju\" monsters you currently control gain 500 ATK. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+  "pendEffect": "You can target 1 \"Yosenju\" card in your Pendulum Zone; for the rest of this turn, its Pendulum Scale becomes 11, also you cannot Special Summon monsters, except \"Yosenju\" monsters (even if this card leaves the field). During your End Phase: Return this card to the hand. You can only use each Pendulum Effect of \"Mayosenju Hitot\" once per turn.",
+  "pendScale": 3,
+  "level": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12624,
+  "type": "monster",
+  "name": "Boîte à Bijoux de Pandore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que vous n'avez aucune carte dans votre Extra Deck, piochez 2 cartes au lieu d'1 comme pioche normale durant votre Draw Phase.",
+  "pendEffect": "Tant que vous n'avez aucune carte dans votre Extra Deck : vous pouvez cibler 1 carte dans la Zone Pendule de votre adversaire ; détruisez-la, et si vous le faites, placez cette carte dans la Zone Pendule de votre adversaire.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Pendule",
+    "Effet"
+  ]
+}

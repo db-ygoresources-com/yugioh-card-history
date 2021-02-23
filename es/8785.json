@@ -1,0 +1,16 @@
+{
+  "id": 8785,
+  "type": "monster",
+  "name": "Guardián de la Confianza",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta no puede ser usada como Monstruo Material de Sincronía, excepto para la Invocación por Sincronía de un Monstruo de Sincronía de Nivel 7 o mayor. Una vez por turno, ese monstruo de Sincronía no puede ser destruido en batalla. Cada vez que apliques este efecto, ese Monstruo de Sincronía pierde 400 ATK y DEF al final del Damage Step.",
+  "level": 3,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Hada",
+    "Cantante",
+    "Efecto"
+  ]
+}

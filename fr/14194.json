@@ -1,0 +1,19 @@
+{
+  "id": 14194,
+  "type": "monster",
+  "name": "Chef d'Orchestre Harpie",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres VENT\nLe nom de cette carte devient \"Dame Harpie\" tant qu'elle est sur le Terrain ou dans le Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Chef d'Orchestre Harpie\" qu'une fois par tour.\n●Si un ou plusieurs monstres \"Harpie\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez détruire 1 Magie/Piège que vous contrôlez à la place.\n●Si un autre monstre \"Harpie\" face recto que vous contrôlez est renvoyé à votre main (sauf durant la Damage Step) : vous pouvez cibler 1 monstre Invoqué Spécialement contrôlé par votre adversaire ; renvoyez-le à la main.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Bête Ailée",
+    "Lien",
+    "Effet"
+  ]
+}

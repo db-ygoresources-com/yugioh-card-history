@@ -1,0 +1,15 @@
+{
+  "id": 6683,
+  "type": "monster",
+  "name": "Homme-Projecteur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Votre adversaire ne peut pas Poser (ni retourner face verso) de carte pour le restant de ce tour.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

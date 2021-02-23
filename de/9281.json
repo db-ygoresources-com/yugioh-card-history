@@ -1,0 +1,16 @@
+{
+  "id": 9281,
+  "type": "monster",
+  "name": "Schrott-Gedankenleser",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, solange diese Karte während deiner Main Phase 2 in deinem Friedhof liegt, kannst du 1 offenes „Schrott“-Monster wählen, das du kontrollierst, außer „Schrott-Gedankenleser“. Zerstöre das Monster und beschwöre diese Karte als Spezialbeschwörung vom Friedhof. Falls du dies tust, entferne diese Karte aus dem Spiel, wenn sie vom Spielfeld entfernt wird. Falls diese Karte als Synchromaterialmonster benutzt wird, müssen alle anderen Synchromaterialmonster „Schrott“-Monster sein.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

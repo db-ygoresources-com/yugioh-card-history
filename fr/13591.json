@@ -1,0 +1,19 @@
+{
+  "id": 13591,
+  "type": "monster",
+  "name": "Isolant de l'Espace",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres\nLes monstres pointés par cette carte perdent 800 ATK/DEF. Lorsqu'un Monstre Lien Cyberse est Invoqué par Lien sur votre Terrain, tant que cette carte dans le Cimetière, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte dans votre zone pointée par le monstre, mais elle ne peut pas être utilisée comme Matériel Lien, et aussi, bannissez-la lorsqu'elle quitte le Terrain.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

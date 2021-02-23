@@ -1,0 +1,15 @@
+{
+  "id": 8937,
+  "type": "monster",
+  "name": "Guardián de la Fortaleza",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si un monstruo en Posición de Defensa que controlas es atacado, puedes mandar al Cementerio esta carta en tu mano durante el Damage Step para hacer que tu monstruo atacado gane 1500 DEF hasta la End Phase.",
+  "level": 4,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

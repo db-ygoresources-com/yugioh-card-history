@@ -1,0 +1,16 @@
+{
+  "id": 9377,
+  "type": "monster",
+  "name": "Stella Vylon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est envoyée depuis la Zone Carte Monstre au Cimetière : vous pouvez payer 500 Life Points, puis ciblez 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible. À la fin de la Damage Step, si le monstre équipé a combattu un monstre de votre adversaire : détruisez le monstre de votre adversaire.",
+  "level": 3,
+  "atk": 1400,
+  "def": 200,
+  "properties": [
+    "Elfe",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

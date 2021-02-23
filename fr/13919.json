@@ -1,0 +1,15 @@
+{
+  "id": 13919,
+  "type": "monster",
+  "name": "Équipe Deux pour Un",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez faire montrer à chaque joueur 1 carte depuis sa main, et si les deux cartes montrées sont du même type de carte, appliquez 1 de ces effets, selon le type.\n●Monstre : Chaque joueur peut Invoquer Spécialement son monstre.\n●Magie : Chaque joueur pioche 2 cartes.\n●Piège : Chaque joueur envoie exactement 2 cartes depuis son Deck à son Cimetière.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

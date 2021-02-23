@@ -1,0 +1,16 @@
+{
+  "id": 13842,
+  "type": "monster",
+  "name": "Dragón Caos de Ojos Azules",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Forma del Caos\". Debe ser Invocada por Ritual. Tu adversario no puede seleccionar esta carta con efectos de cartas, y además, ésta no puede ser destruida por efectos de cartas de tu adversario. Si esta carta fue Invocada por Ritual usando \"Dragón Blanco de Ojos Azules\", cuando declara un ataque: puedes cambiar la posición de batalla de tantos monstruos que controle tu adversario como sea posible y, si lo haces, el ATK/DEF de esos monstruos cambiados se convierte en 0, y además, si esta carta ataca a un monstruo en Posición de Defensa este turno, inflige daño de batalla de penetración.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Dragón",
+    "Ritual",
+    "Efecto"
+  ]
+}

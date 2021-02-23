@@ -1,0 +1,16 @@
+{
+  "id": 14255,
+  "type": "monster",
+  "name": "Altergeist Fifinellag",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "I mostri controllati dal tuo avversario non possono scegliere come bersaglio i mostri \"Altergeist\" che controlli per gli attacchi, eccetto \"Altergeist Fifinellag\", inoltre il tuo avversario non può scegliere come bersaglio i mostri \"Altergeist\" che controlli con gli effetti delle carte, eccetto \"Altergeist Fifinellag\".",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Tuner",
+    "Effetto"
+  ]
+}

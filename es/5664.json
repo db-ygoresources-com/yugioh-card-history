@@ -1,0 +1,16 @@
+{
+  "id": 5664,
+  "type": "monster",
+  "name": "Koitsu",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno, durante tu Main Phase, puedes equipar esta carta a tu \"Aitsu\" como una Carta Mágica de Equipo O separar el equipamiento e Invocar mediante una Invocación Especial esta carta boca arriba en Posición de Ataque. Cuando esta carta es equipada por el efecto de esta carta, el ATK de ese monstruo aumenta en 3000 puntos y cuando el monstruo equipado ataca con un ATK superior a la DEF de un monstruo en Posición de Defensa, inflige la diferencia como daño de batalla a los Life Points de tu adversario. (1 monstruo solo puede ser equipado con 1 Monstruo de Unión a la vez. Si el monstruo equipado con esta carta es destruido como resultado de una batalla, destruye esta carta en su lugar).",
+  "level": 10,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Hada",
+    "Unión",
+    "Efecto"
+  ]
+}

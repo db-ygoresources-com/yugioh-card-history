@@ -1,0 +1,15 @@
+{
+  "id": 6591,
+  "type": "monster",
+  "name": "B.E.S. Cœur Protégé",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Mettez 2 compteurs sur cette carte lorsque vous en faites l'Invocation Normale. Cette carte ne peut pas être détruite à l'issue d'un combat. Si cette carte combat un monstre, jouez à pile ou face à la fin de la Damage Step. Si vous perdez, retirez 1 compteur. Si cette carte combat sans compteur, détruisez cette carte à la fin de la Damage Step.",
+  "level": 7,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

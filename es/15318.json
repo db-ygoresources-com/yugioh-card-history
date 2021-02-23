@@ -1,0 +1,20 @@
+{
+  "id": 15318,
+  "type": "monster",
+  "name": "Dragón Taotie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ monstruos Invocados de Modo Especial desde el Deck Extra\nEsta carta gana efectos basados en los tipos de cartas (Fusión/Sincronía/Xyz) de los materiales usados para su Invocación por Enlace.\n●Fusión: Tu adversario no puede activar efectos de monstruos durante la Battle Phase.\n●Sincronía: Tu adversario no puede activar Cartas Mágicas/de Trampa ni sus efectos durante tu Main Phase.\n●Xyz: Tu adversario no puede activar los efectos de cartas en el Cementerio durante tu Main Phase o Battle Phase.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Wyrm",
+    "Enlace",
+    "Efecto"
+  ]
+}

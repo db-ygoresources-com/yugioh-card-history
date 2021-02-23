@@ -1,0 +1,16 @@
+{
+  "id": 11259,
+  "type": "monster",
+  "name": "Saffira, Reine des Dragons",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Hymne de la Lumière\". Durant la End Phase, si cette carte a été Invoquée Rituellement ce tour, ou si un monstre LUMIÈRE a été envoyé depuis la main ou Deck au Cimetière ce tour tant que cette carte était face recto sur le Terrain : vous pouvez activer 1 de ces effets ;\n●Piochez 2 cartes, puis défaussez 1 carte.\n●Défaussez 1 carte au hasard de la main de votre adversaire.\n●Ajoutez 1 monstre LUMIÈRE depuis votre Cimetière à votre main.\nVous ne pouvez utiliser qu'1 effet de \"Saffira, Reine des Dragons\" par tour, et uniquement une fois le tour.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Dragon",
+    "Rituel",
+    "Effet"
+  ]
+}

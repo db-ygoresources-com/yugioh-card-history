@@ -1,0 +1,17 @@
+{
+  "id": 12450,
+  "type": "monster",
+  "name": "Korallendrache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 Karte abwerfen und dann 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie. Falls diese als Synchrobeschwörung beschworene Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 Karte ziehen. Du kannst diesen Effekt von „Korallendrache“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2400,
+  "def": 500,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

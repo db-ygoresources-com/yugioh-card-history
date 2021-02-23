@@ -1,0 +1,15 @@
+{
+  "id": 8641,
+  "type": "monster",
+  "name": "Déchiqueteur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez envoyer 1 monstre de Type Machine depuis votre main au Cimetière, puis ciblez 1 monstre contrôlé par votre adversaire d'un Niveau inférieur ou égal à celui du monstre envoyé ; détruisez la cible.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

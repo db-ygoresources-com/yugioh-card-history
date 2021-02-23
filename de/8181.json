@@ -1,0 +1,15 @@
+{
+  "id": 8181,
+  "type": "monster",
+  "name": "Verstärkter menschlicher Psiborg",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst bis zu zweimal pro Spielzug 1 Monster vom Typ Psi in deinem Friedhof aus dem Spiel entfernen, um diese Karte 500 ATK erhalten zu lassen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

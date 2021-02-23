@@ -1,0 +1,18 @@
+{
+  "id": 11826,
+  "type": "monster",
+  "name": "Archidemonio Excéntruca",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Sacrificar esta carta, y después seleccionar 1 monstruo en el Campo; destrúyelo. Sólo puedes usar este efecto de \"Archidemonio Excéntruca\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar otra Carta Mágica/de Trampa en el Campo; destrúyela, así como a esta carta. Sólo puedes usar este efecto de \"Archidemonio Excéntruca\" una vez por turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

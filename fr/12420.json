@@ -1,0 +1,18 @@
+{
+  "id": 12420,
+  "type": "monster",
+  "name": "Acieren Métalphose",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Des organismes de fer refroidi avec des machines métalliques brûlantes forment une combinaison homme-machine. Fusion Métalphose, enflamme l'âme !",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 autre carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, Posez 1 Carte Magie/Piège \"Métalphose\" directement depuis votre Deck.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Psychique",
+    "Pendule",
+    "Normal"
+  ]
+}

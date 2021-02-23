@@ -1,0 +1,15 @@
+{
+  "id": 8029,
+  "type": "monster",
+  "name": "Protettore del Deserto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Questa carta guadagna 300 DEF per ogni Carta Magia e Trappola sul Terreno. Se un mostro di Tipo Insetto che controlli verrebbe distrutto, puoi invece distruggere questa carta.",
+  "level": 4,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

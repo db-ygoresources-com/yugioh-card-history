@@ -1,0 +1,16 @@
+{
+  "id": 8014,
+  "type": "monster",
+  "name": "Zwielichtsrosen-Ritterin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Monster, die dein Gegner kontrolliert, können keine Pflanze-Monster als Angriffsziel wählen. Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Pflanze-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand beschwören.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

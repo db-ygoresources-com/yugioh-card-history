@@ -1,0 +1,18 @@
+{
+  "id": 12409,
+  "type": "monster",
+  "name": "D/D Thomas il Saggio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scegliere come bersaglio 1 carta \"D/D\" nella tua Zona Pendulum; distruggi quella carta e, se lo fai, Evoca Specialmente 1 mostro \"D/D/D\" di Livello 8 dal tuo Deck in Posizione di Difesa, ma, per il resto di questo turno, i suoi effetti (se ne ha) vengono annullati, e qualsiasi danno da combattimento subito dal tuo avversario viene dimezzato. Puoi utilizzare questo effetto di \"D/D Thomas il Saggio\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi aggiungere 1 Mostro Pendulum \"D/D\" scoperto dal tuo Extra Deck alla tua mano. Puoi utilizzare questo effetto di \"D/D Thomas il Saggio\" una sola volta per turno.",
+  "pendScale": 6,
+  "level": 8,
+  "atk": 1800,
+  "def": 2600,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

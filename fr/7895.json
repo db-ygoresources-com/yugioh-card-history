@@ -1,0 +1,16 @@
+{
+  "id": 7895,
+  "type": "monster",
+  "name": "Compagnon du Spadassin de Landstar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tous les monstres de Type Guerrier que vous contrôlez gagnent 400 ATK.",
+  "level": 3,
+  "atk": 500,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

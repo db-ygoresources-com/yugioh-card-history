@@ -1,0 +1,15 @@
+{
+  "id": 5700,
+  "type": "monster",
+  "name": "Dragón Berserker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial con \"Un Trato con el Señor Oscuro\" y no puede ser Invocado de Modo Especial de otra forma. Esta carta puede atacar todos los monstruos que controle tu adversario una vez a cada uno. Durante cada una de tus End Phases, esta carta pierde 500 ATK.",
+  "level": 8,
+  "atk": 3500,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

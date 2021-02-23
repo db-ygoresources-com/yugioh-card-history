@@ -1,0 +1,16 @@
+{
+  "id": 7340,
+  "type": "monster",
+  "name": "Sang Putride, Le Gardien des Limbes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec cet effet.\n●Une fois par tour : vous pouvez Invoquer Spécialement 1 monstre Zombie depuis votre main ou l'un des Cimetières, mais si cette carte quitte le Terrain, détruisez tous les monstres Zombie Invoqués Spécialement par cet effet.",
+  "level": 6,
+  "atk": 2100,
+  "def": 800,
+  "properties": [
+    "Zombie",
+    "Gémeau",
+    "Effet"
+  ]
+}

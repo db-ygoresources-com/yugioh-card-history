@@ -1,0 +1,15 @@
+{
+  "id": 11252,
+  "type": "monster",
+  "name": "Hipnohermana",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Esta carta gana efectos basados en la cantidad total de cartas en las Zonas de Péndulo de ambos jugadores.\n●1 o más: Esta carta gana 800 ATK y DEF.\n●2 o más: Al comienzo del Damage Step, si esta carta batalla con un monstruo Invocado por Péndulo: destruye ese monstruo.\n●3 o más: Si pueden, los monstruos que controle tu adversario deben atacar a esta carta.\n●4: Si esta carta destruye un monstruo en batalla o por su propio efecto: roba 1 carta.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

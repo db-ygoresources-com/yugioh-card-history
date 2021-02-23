@@ -1,0 +1,18 @@
+{
+  "id": 11968,
+  "type": "monster",
+  "name": "Vector Péndulo, el Dracoseñor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Este Señor conquistó todo un mundo con su ejército de Dracodemonios, usando su Alquimia Dracónica para convertir a cada ser vivo en un sirviente. La fuente de este poder no ha sido identificada, y probablemente pertenezca a otra dimensión.",
+  "pendEffect": "Niega todos los efectos de cartas en las Zonas del Péndulo de tu adversario.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1850,
+  "def": 0,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Normal"
+  ]
+}

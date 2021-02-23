@@ -1,0 +1,16 @@
+{
+  "id": 6487,
+  "type": "monster",
+  "name": "HÉROE Elemental Tempest",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "\"HÉROE Elemental Avian\" + \"HÉROE Elemental Sparkman\" + \"HÉROE Elemental Bubbleman\"\nEste monstruo no puede ser Invocado mediante una Invocación Especial excepto mediante una Invocación de Fusión. Manda 1carta (exceptuando ésta) de tu Campo al Cementerio para seleccionar 1 monstruo en tu Campo. Mientras esta carta esté boca arriba en el Campo, el monstruo seleccionado no es destruido como resultado de una batalla. (El cálculo de daño se aplica normalmente.)",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

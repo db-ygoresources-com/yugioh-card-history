@@ -1,0 +1,18 @@
+{
+  "id": 12131,
+  "type": "monster",
+  "name": "Meister-Pendel, der Drachobezwinger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Lüster-Pendel, der Drachobezwinger“ setzt seine Reise fort, um die Geheimnisse der Drachenalchemie zu lüften. Er glaubt, dass darin der Schlüssel zur Aufhebung seines Fluches liegt und er so seine Erinnerungen wiedererlangen kann. Seine Macht wächst weiter ... ist es womöglich gar dieselbe, die von den Drachounterweltlern eingesetzt wird?",
+  "pendEffect": "Einmal, solange diese Karte in deiner Pendelzone liegt: Du kannst 1 Karte in einer Pendelzone wählen; zerstöre sie.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1950,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Normal"
+  ]
+}

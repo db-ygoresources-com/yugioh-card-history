@@ -1,0 +1,16 @@
+{
+  "id": 8572,
+  "type": "monster",
+  "name": "Espíritu Sagrado de la Barrera de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Esta carta no puede ser Invocada de Modo Especial. Esta carta regresa a la mano durante la End Phase del turno en el que es Invocada de Modo Normal o volteada boca arriba, a menos que controles otro monstruo \"Barrera de Hielo\" boca arriba. En ese caso, el efecto de esta carta cambia a: Selecciona un monstruo que controle tu adversario y devuélvelo a la mano.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Zombi",
+    "Spirit",
+    "Efecto"
+  ]
+}

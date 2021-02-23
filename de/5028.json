@@ -1,0 +1,15 @@
+{
+  "id": 5028,
+  "type": "monster",
+  "name": "Donner-Nyan Nyan",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls sich ein Nicht-LICHT Monster auf deiner Spielfeldseite befindet, zerstöre diese offene Karte.",
+  "level": 4,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

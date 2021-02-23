@@ -1,0 +1,16 @@
+{
+  "id": 9207,
+  "type": "monster",
+  "name": "Pesadilla Psíquica",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1 o más monstruos de Tipo Psíquico que no sean Cantantes\nUna vez por turno, durante tu Main Phase, puedes elegir 1 carta al azar de la mano de tu adversario y adivinar que tipo de carta es (Monstruo, Mágica o de Trampa). Si adivinas correctamente, esta carta gana 1000 ATK hasta la End Phase de tu adversario.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Psíquico",
+    "Sincronía",
+    "Efecto"
+  ]
+}

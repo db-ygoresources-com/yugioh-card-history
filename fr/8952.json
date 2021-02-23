@@ -1,0 +1,16 @@
+{
+  "id": 8952,
+  "type": "monster",
+  "name": "Bête de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte en Position de Défense face recto est ciblée par une attaque, à la fin de la Battle Phase : détruisez cette carte. Si cette carte est détruite par l'effet d'une carte \"Ferraille\" et envoyée au Cimetière : vous pouvez cibler 1 monstre \"Ferraille\" (\"Bête de Ferraille\" exclu) dans votre Cimetière ; ajoutez la cible à votre main.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Bête",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

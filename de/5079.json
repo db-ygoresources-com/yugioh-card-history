@@ -1,0 +1,15 @@
+{
+  "id": 5079,
+  "type": "monster",
+  "name": "Blitz-Meeraal",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Der gewaltige Aal erzeugt ungeheuere elektrische Ladungen und setzt sie als Blitze frei.",
+  "level": 3,
+  "atk": 350,
+  "def": 750,
+  "properties": [
+    "Donner",
+    "Normal"
+  ]
+}

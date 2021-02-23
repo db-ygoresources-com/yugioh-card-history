@@ -1,0 +1,15 @@
+{
+  "id": 10241,
+  "type": "monster",
+  "name": "Sirenarmado Abispulmón",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Tu adversario no puede seleccionar para ataques a monstruos de AGUA boca arriba, excepto a éste. Todos los monstruos de AGUA que controles ganan 300 ATK.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

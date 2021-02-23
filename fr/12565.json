@@ -1,0 +1,15 @@
+{
+  "id": 12565,
+  "type": "monster",
+  "name": "Magicien Silencieux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en Sacrifiant 1 monstre de Type Magicien, et non Invocable Spécialement autrement. Cette carte gagne 500 ATK pour chaque carte dans votre main. Une fois par tour, durant le tour de chaque joueur, lorsqu'une Carte Magie est activée : vous pouvez annuler l'activation. Si cette carte est détruite au combat, ou si cette carte contrôlée par son propriétaire est détruite par un effet de carte de votre adversaire : vous pouvez Invoquer Spécialement 1 monstre \"Magicien Silencieux\" (\"Magicien Silencieux\" exclu) depuis votre main ou Deck, en ignorant ses conditions d'Invocation.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

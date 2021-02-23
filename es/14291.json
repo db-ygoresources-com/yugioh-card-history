@@ -1,0 +1,19 @@
+{
+  "id": 14291,
+  "type": "monster",
+  "name": "Dragón Delingroso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Dragón de OSCURIDAD\nUna vez por turno, durante la End Phase de tu adversario: puedes seleccionar 1 monstruo en Posición de Ataque que controle tu adversario y que no declaró un ataque este turno; destrúyelo y, si lo haces, inflige daño a tu adversario igual al ATK original de ese monstruo. Si uno o más monstruos \"Cohette\" son Invocados de Modo Especial a tu Campo, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Dragón Delingroso\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

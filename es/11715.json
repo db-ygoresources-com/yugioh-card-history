@@ -1,0 +1,16 @@
+{
+  "id": 11715,
+  "type": "monster",
+  "name": "Diva Florecida, la Coral Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo \"Maestra Melodiosa\" + 1 monstruo \"Melodiosa\"\nNo puede ser destruido en batalla o efectos de cartas, además no recibes daño de batalla de ataques que involucren a esta carta. Si esta carta batalla un monstruo Invocado de Modo Especial, después del cálculo de daño: puedes infligir daño a tu adversario igual a la diferencia entre el ATK original de ese monstruo de tu adversario y esta carta y, si lo haces, destruye ese monstruo de tu adversario.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Hada",
+    "Fusión",
+    "Efecto"
+  ]
+}

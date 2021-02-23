@@ -1,0 +1,15 @@
+{
+  "id": 14774,
+  "type": "monster",
+  "name": "Nidhogg, Chefe Generaidor do Gelo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Você só pode controlar 1 \"Nidhogg, Chefe Generaidor do Gelo\". Quando seu oponente Invocaria por Invocação-Especial um ou mais monstros (Efeito Rápido): você pode oferecer como Tributo 1 monstro \"Generaidor\" ou 1 monstro Wyrm; negue a Invocação e, se isso acontecer, destrua esses monstros. Você só pode usar este efeito de \"Nidhogg, Chefe Generaidor do Gelo\" uma vez por turno.",
+  "level": 9,
+  "atk": 2100,
+  "def": 2600,
+  "properties": [
+    "Wyrm",
+    "Efeito"
+  ]
+}

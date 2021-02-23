@@ -1,0 +1,18 @@
+{
+  "id": 11442,
+  "type": "monster",
+  "name": "D/D Sapiente Keplero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi attivare 1 di questi effetti. Puoi utilizzare questo effetto di \"D/D Sapiente Keplero\" una sola volta per turno.\n●Scegli come bersaglio 1 altra carta \"D/D\" che controlli; falla ritornare nella mano.\n●Aggiungi 1 carta \"Contratto Oscuro\" dal tuo Deck alla tua mano.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"D/D\". Questo effetto non può essere annullato. Una volta per turno, durante la tua Standby Phase: riduci il Valore Pendulum di questa carta di 2 (minimo 1), poi distruggi tutti i mostri che controlli con Livello pari o superiore al Valore Pendulum di questa carta, eccetto i mostri \"D/D\".",
+  "pendScale": 10,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

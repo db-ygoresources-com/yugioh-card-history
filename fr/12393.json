@@ -1,0 +1,18 @@
+{
+  "id": 12393,
+  "type": "monster",
+  "name": "Dinde Douce",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Le goût de la victoire vous fera tomber par terre.",
+  "pendEffect": "Une fois par tour : vous pouvez lancer un dé à six faces. Jusqu'à la fin de ce tour, réduisez l'Échelle Pendule de cette carte de ce numéro (min. 1).",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Bête Ailée",
+    "Pendule",
+    "Normal"
+  ]
+}

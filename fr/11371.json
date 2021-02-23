@@ -1,0 +1,18 @@
+{
+  "id": 11371,
+  "type": "monster",
+  "name": "Hamster Sauveteur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte a été Invoquée Normalement ce tour et que vous avez une Carte Monstre Pendule de max. Niveau 5 face recto dans votre Extra Deck : vous pouvez Sacrifier cette carte ; choisissez 1 Carte Monstre Pendule de max. Niveau 5 face recto dans votre Extra Deck, et Invoquez Spécialement 2 monstres du même nom que la carte depuis votre Deck, mais ils ont leurs effets annulés, et aussi, ils sont détruits durant la End Phase.",
+  "pendEffect": "Vous pouvez bannir cette carte depuis votre Zone Pendule ; ajoutez 2 Cartes Monstre Pendule face recto de même nom depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de \"Hamster Sauveteur\" qu'une fois par Duel.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

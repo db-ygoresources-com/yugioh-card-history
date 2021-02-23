@@ -1,0 +1,15 @@
+{
+  "id": 13874,
+  "type": "monster",
+  "name": "Radiateur Codeur",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un monstre Cyberse que vous contrôlez va être utilisé comme Matériel Lien pour un monstre \"Codeur Bavard\", cette carte dans votre main peut aussi être utilisée comme Matériel. Si cette carte est envoyée depuis la main ou Terrain au Cimetière comme Matériel pour l'Invocation Lien d'un monstre \"Codeur Bavard\" : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; changez son ATK à 0, et aussi, annulez ses effets. Si cette carte sur le Terrain a été utilisée comme Matériel, vous pouvez cibler 2 monstres à la place. Vous ne pouvez utiliser chaque effet de \"Radiateur Codeur\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

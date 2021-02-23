@@ -1,0 +1,19 @@
+{
+  "id": 15529,
+  "type": "monster",
+  "name": "Geonator-Vertauscherin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Effektmonster\nDiese gelinkte Karte und Monster, auf die sie zeigt, können nicht durch Karteneffekte deines Gegners zerstört werden. Falls diese Karte auf 2 Monster zeigt: Du kannst die Kontrolle über die Monster vertauschen. Du kannst diesen Effekt von „Geonator-Vertauscherin“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "9",
+    "1"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Fels",
+    "Link",
+    "Effekt"
+  ]
+}

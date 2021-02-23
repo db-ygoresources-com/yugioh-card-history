@@ -1,0 +1,16 @@
+{
+  "id": 15274,
+  "type": "monster",
+  "name": "Le Premier Ange Déchu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres TÉNÈBRES Elfe\nVotre adversaire ne peut pas cibler de monstres Elfe que vous contrôlez avec des effets de carte. Vous ne pouvez utiliser qu'1 des effets suivants de \"Le Premier Ange Déchu\" par tour, et uniquement une fois le tour.\n●Si cette carte est Invoquée par Fusion en utilisant \"Ange Déchu Étoile du Matin\" comme Matériel : vous pouvez détruire toutes les cartes contrôlées par votre adversaire.\n●Durant la Main Phase (Effet Rapide) : vous pouvez payer 1000 LP ; Invoquez Spécialement 1 monstre Elfe depuis votre main ou Cimetière en Position de Défense.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Effet"
+  ]
+}

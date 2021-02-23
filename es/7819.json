@@ -1,0 +1,16 @@
+{
+  "id": 7819,
+  "type": "monster",
+  "name": "Arquero Flamvell",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno, puedes Sacrificar 1 monstruo de Tipo Piro boca arriba que controles para hacer que todos los monstruos \"Flamvell\" en el Campo ganen 800 ATK hasta la End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Piro",
+    "Cantante",
+    "Efecto"
+  ]
+}

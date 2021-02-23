@@ -1,0 +1,18 @@
+{
+  "id": 12739,
+  "type": "monster",
+  "name": "Performapal Laugh Maker",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When this card declares an attack: You can make this card gain 1000 ATK for each monster on the field whose current ATK is higher than its original ATK, except other monsters you control, until the end of the Battle Phase. If this card is destroyed by battle or card effect while its current ATK is higher than its original ATK: You can target 1 monster in your Graveyard; Special Summon it. You can only use 1 monster effect of \"Performapal Laugh Maker\" per turn, and only once that turn.",
+  "pendEffect": "Once per turn, if your opponent controls a monster whose current ATK is higher than its original ATK: You can gain 1000 LP.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15641,
+  "type": "monster",
+  "name": "Drytron-Meteonis Quadrantiden",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Meteonis-Drytron“ als Ritualbeschwörung beschwören. Dein Gegner kann diese Karte nicht als Ziel für Zauber-/Fallenkarten oder -effekte wählen. Du kannst jeden der folgenden Effekte von „Drytron-Meteonis Quadrantiden“ nur einmal pro Spielzug verwenden. Falls die Summe der Stufen der Monster, die für die Ritualbeschwörung dieser Karte verwendet wurden, 2 oder weniger war: Du kannst alle Zauber und Fallen zerstören, die dein Gegner kontrolliert. Falls diese als Ritualbeschwörung beschworene Karte zerstört wird: Du kannst „Drytron“-Monster als Spezialbeschwörung von deinem Friedhof beschwören, außer „Drytron-Meteonis Quadrantiden“, deren gemeinsame ATK genau 4000 entsprechen.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Maschine",
+    "Ritual",
+    "Effekt"
+  ]
+}

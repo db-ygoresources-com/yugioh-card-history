@@ -1,0 +1,15 @@
+{
+  "id": 14537,
+  "type": "monster",
+  "name": "Walküre Erda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst nur 1 „Walküre Erda“ kontrollieren. Solange du diese Karte kontrollierst, die durch den Effekt einer „Walküre“-Karte als Spezialbeschwörung beschworen wurde, verlieren alle offenen Monster, die dein Gegner kontrolliert, 1000 ATK. Jede durch Kampf oder einen Karteneffekt zerstörte Karte, die auf den Friedhof deines Gegners gelegt würde, wird stattdessen verbannt.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2200,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

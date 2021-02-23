@@ -1,0 +1,19 @@
+{
+  "id": 14933,
+  "type": "monster",
+  "name": "Baliste Rouages Ancients",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres TERRE Machine\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 \"Ville des Engrenages\" ou 1 monstre \"Rouages Ancients\" depuis votre Deck à votre main. Vous pouvez cibler 1 Magie/Piège que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire ; détruisez la carte que vous contrôlez, et si vous le faites, changez l'ATK/DEF du monstre de l'adversaire à 0 jusqu'à la fin du tour. Vous ne pouvez utiliser chaque effet de \"Baliste Rouages Ancients\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "1"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

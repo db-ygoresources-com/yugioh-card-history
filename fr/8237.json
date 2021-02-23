@@ -1,0 +1,16 @@
+{
+  "id": 8237,
+  "type": "monster",
+  "name": "Miztoji Mythologique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Envoyez cette carte de votre main au Cimetière pour sélectionner 1 monstre \"Mythologique\" face recto que vous contrôlez. Le monstre sélectionné est traité comme un monstre Syntoniseur tant qu'il est face recto sur le Terrain.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Démon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

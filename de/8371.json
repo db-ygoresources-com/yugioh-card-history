@@ -1,0 +1,15 @@
+{
+  "id": 8371,
+  "type": "monster",
+  "name": "Schlachtstürmer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte erhält 100 ATK für jedes Monster vom Typ Geflügeltes Ungeheuer, das du kontrollierst. Einmal pro Spielzug: Du kannst 1 Zauber-/Fallenkarte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel. Du musst 3 oder mehr Monster vom Typ Geflügeltes Ungeheuer kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

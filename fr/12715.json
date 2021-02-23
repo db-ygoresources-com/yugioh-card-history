@@ -1,0 +1,18 @@
+{
+  "id": 12715,
+  "type": "monster",
+  "name": "Acteur des Abysses - Actrice Principale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, lorsque des dommages de combat sont infligés : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; il perd une ATK égale aux dommages de combat. Lorsque cette carte est détruite au combat, ou si cette carte dans la Zone Monstre de son propriétaire est détruite par un effet de carte de l'adversaire : vous pouvez Poser 1 Magie \"Script des Abysses\" directement depuis votre Deck.",
+  "pendEffect": "Une fois par tour, lorsque vous recevez des dommages de combat d'un monstre attaquant de l'adversaire : vous pouvez activer 1 de ces effets ;\n●Le monstre de l'adversaire perd une ATK égale aux dommages que vous avez reçus (même si cette carte quitte le Terrain).\n●Ajoutez 1 Monstre Pendule \"Acteur des Abysses\" face recto depuis votre Extra Deck à votre main avec une ATK inférieure ou égale aux dommages que vous avez reçus.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

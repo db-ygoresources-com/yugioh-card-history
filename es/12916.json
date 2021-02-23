@@ -1,0 +1,15 @@
+{
+  "id": 12916,
+  "type": "monster",
+  "name": "Artistamigo Alumno del Cielo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante el turno de cualquier jugador: puedes devolver a la mano 1 monstruo \"Artistamigo\" de Nivel 5 o mayor que controles; Invoca esta carta de Modo Especial desde tu mano. Sólo puedes usar este efecto de \"Artistamigo Alumno del Cielo\" una vez por turno. Si esta carta batalla con un monstruo de tu adversario, ese monstruo ve sus efectos negados hasta el final del Damage Step. Antes del cálculo de daño, si esta carta atacó a un monstruo de tu adversario mientras tú controlas otro monstruo \"Artistamigo\": puedes destruir ese monstruo de tu adversario.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

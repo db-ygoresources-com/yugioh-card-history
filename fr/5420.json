@@ -1,0 +1,15 @@
+{
+  "id": 5420,
+  "type": "monster",
+  "name": "Momie à la Hache Géante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez retourner cette carte en Position de Défense face verso une fois par tour durant votre Main Phase. Lorsque l'ATK d'un monstre de votre adversaire qui attaque cette carte en Position de Défense est inférieure à la DEF de ce monstre, le monstre attaquant est détruit.",
+  "level": 5,
+  "atk": 1700,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

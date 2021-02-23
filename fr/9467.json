@@ -1,0 +1,15 @@
+{
+  "id": 9467,
+  "type": "monster",
+  "name": "Jupiter le Grand",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez défausser 2 cartes, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; équipez le monstre face recto à cette carte. Cette carte gagne une ATK égale à la somme des ATK d'origine des monstres qui lui sont équipés par cet effet. Une fois par tour, durant la End Phase : vous pouvez cibler 1 Carte Monstre équipée à cette carte par l'effet de cette carte ; Invoquez-la Spécialement sur votre Terrain.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

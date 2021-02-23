@@ -1,0 +1,15 @@
+{
+  "id": 10986,
+  "type": "monster",
+  "name": "Geistertrick-Yeti",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Wenn diese Karte aufgedeckt wird: Du kannst 1 „Geistertrick“-Monster auf dem Spielfeld wählen; es kann in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden.",
+  "level": 3,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

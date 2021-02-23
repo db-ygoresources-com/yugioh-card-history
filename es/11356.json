@@ -1,0 +1,18 @@
+{
+  "id": 11356,
+  "type": "monster",
+  "name": "Disco Qlifuerte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta de Modo Normal sin Sacrificar. Si esta carta es Invocada de Modo Normal sin Sacrificar, o es Invocada de Modo Especial, su Nivel se convierte en 4 y su ATK original se convierte en 1800. Si esta carta es Invocada de Modo Normal/Colocada, no es afectada por efectos activados de ningún monstruo cuyo Nivel/Rango original sea menor que el Nivel de esta carta en este momento. Cuando esta carta es Invocada por Sacrificio Sacrificando uno o más monstruos \"Qli\": puedes Invocar de Modo Especial, desde tu Deck, 2 monstruos \"Qli\", pero destrúyelos durante la End Phase.",
+  "pendEffect": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"Qli\". Este efecto no puede ser negado. Todos los monstruos \"Qli\" que controles ganan 300 ATK.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

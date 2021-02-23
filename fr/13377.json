@@ -1,0 +1,15 @@
+{
+  "id": 13377,
+  "type": "monster",
+  "name": "Dragon Cartourokkette",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un effet de Monstre Lien qui cible cette carte face recto sur le Terrain est activé (Effet Rapide) : vous pouvez détruire cette carte, puis détruisez 1 monstre dans la colonne où était cette carte, et si vous le faites, détruisez les monstres dans les zones adjacentes de la carte. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite sur le Terrain au combat ou par un effet de carte et y a été envoyée ce tour : vous pouvez Invoquer Spécialement 1 monstre \"Rokkette\" (\"Dragon Cartourokkette\" exclu) depuis votre Deck. Vous ne pouvez utiliser chaque effet de \"Dragon Cartourokkette\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 1100,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

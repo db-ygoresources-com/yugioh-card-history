@@ -1,0 +1,16 @@
+{
+  "id": 10712,
+  "type": "monster",
+  "name": "Norito l'Autorité Morale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Magicien de Niveau 6\nUne fois par tour, lorsque votre adversaire active une Carte Magie/Piège (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; annulez l'activation, et si vous le faites, détruisez-la.",
+  "rank": 6,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Xyz",
+    "Effet"
+  ]
+}

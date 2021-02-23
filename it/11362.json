@@ -1,0 +1,16 @@
+{
+  "id": 11362,
+  "type": "monster",
+  "name": "Bambolaombra Segugio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "SCOPRI: Puoi scegliere come bersaglio 1 carta \"Bambolaombra\" nel tuo Cimitero; aggiungila alla tua mano.\nSe questa carta viene mandata al Cimitero dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro sul Terreno; cambia la sua posizione. (Gli effetti dei mostri Scoperta non vengono attivati in questa occasione, eccetto quelli dei mostri \"Bambolaombra\".) Puoi utilizzare solo 1 effetto di \"Bambolaombra Segugio\" per turno, e solo una volta in quel turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Incantatore",
+    "Scoperta",
+    "Effetto"
+  ]
+}

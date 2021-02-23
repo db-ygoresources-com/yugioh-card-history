@@ -1,0 +1,19 @@
+{
+  "id": 13516,
+  "type": "monster",
+  "name": "Booster-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 „Rakkete“-Monster\nEinmal pro Spielzug: Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; es erhält 500 ATK/DEF. Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren. Falls diese als Linkbeschwörung beschworene Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 anderes Drache-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Booster-Drache“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

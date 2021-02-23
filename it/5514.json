@@ -1,0 +1,15 @@
+{
+  "id": 5514,
+  "type": "monster",
+  "name": "Sorvegliante - Custode di Tombe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante il turno di qualsiasi giocatore, quando il tuo avversario attiva una Carta Magia/Trappola o effetto di mostro che potrebbe fargli scartare quando si risolve: puoi mandare questa carta dalla tua mano al Cimitero; annulla l'attivazione e, se lo fai, distruggila.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

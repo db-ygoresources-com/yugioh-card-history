@@ -1,0 +1,16 @@
+{
+  "id": 5600,
+  "type": "monster",
+  "name": "Paladín de Dragón Blanco",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Ritual del Dragón Blanco\". Al comienzo del Damage Step, si esta carta ataca un monstruo en Posición de Defensa boca abajo: destruye ese monstruo boca abajo. Puedes Sacrificar esta carta; Invoca de Modo Especial, desde tu mano o Deck, 1 \"Dragón Blanco de Ojos Azules\", pero \"Dragón Blanco de Ojos Azules\" no puede atacar por el resto de este turno.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Dragón",
+    "Ritual",
+    "Efecto"
+  ]
+}

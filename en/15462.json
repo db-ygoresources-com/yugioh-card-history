@@ -1,0 +1,16 @@
+{
+  "id": 15462,
+  "type": "monster",
+  "name": "Time Wizard of Tomorrow",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "\"Time Wizard\" + 1 Effect Monster\nOnce per turn, while you control this Fusion Summoned card: You can toss a coin and call it. Destroy as many monsters on the field as possible, and if you do, inflict damage equal to half the total original ATK of the destroyed face-up monsters. If you called the coin toss right, your opponent takes the damage, if you called it wrong, you take the damage.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1900,
+  "properties": [
+    "Spellcaster",
+    "Fusion",
+    "Effect"
+  ]
+}

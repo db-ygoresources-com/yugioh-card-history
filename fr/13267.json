@@ -1,0 +1,19 @@
+{
+  "id": 13267,
+  "type": "monster",
+  "name": "Magicien Akashique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de même Type (Jetons exclus)\nVous ne pouvez Invoquer par Lien un ou plusieurs \"Magicien Akashique\" qu'une fois par tour. Si cette carte est Invoquée par Lien : renvoyez tous les monstres pointés par cette carte à la main. Une fois par tour : vous pouvez déclarer 1 nom de carte ; dévoilez un nombre de cartes du dessus de votre Deck, égal à la somme des Classifications Lien des Monstres Lien co-liés à cette carte, puis vous pouvez dévoiler un nombre de votre choix d'exemplaires de la carte déclarée, ajoutez-les à votre main, et aussi, envoyez les cartes restantes au Cimetière.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6884,
+  "type": "monster",
+  "name": "Statue-Barrière des Enfers",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Aucun joueur ne peut Invoquer Spécialement de monstres (monstres FEU exclus).",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

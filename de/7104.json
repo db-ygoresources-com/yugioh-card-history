@@ -1,0 +1,15 @@
+{
+  "id": 7104,
+  "type": "monster",
+  "name": "Vulkanischer Zertrümmerer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug kannst du deinem Gegner Schaden in Höhe der Anzahl „Vulkanisch“-Monster in deinem Friedhof x 200 zufügen. Falls du diesen Effekt aktivierst, kann diese Karte während dieses Spielzugs nicht angreifen.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

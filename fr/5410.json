@@ -1,0 +1,15 @@
+{
+  "id": 5410,
+  "type": "monster",
+  "name": "Seigneur Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte inflige des dommages de combat à votre adversaire : déclarez 1 type de carte (Monstre, Magie ou Piège) ; votre adversaire envoie 1 carte de ce type depuis son Deck au Cimetière. Une fois par tour, durant votre prochaine Standby Phase après que cette carte en votre possession a été détruite et envoyée à votre Cimetière par un effet de carte de l'adversaire : Invoquez Spécialement cette carte depuis le Cimetière.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

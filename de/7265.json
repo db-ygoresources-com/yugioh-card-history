@@ -1,0 +1,15 @@
+{
+  "id": 7265,
+  "type": "monster",
+  "name": "Wolkian - Geisternebel",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Jeglicher Kampfschaden, den ein beliebiger Spieler aus einem Kampf mit diesem Monster erhält, wird zu 0. Falls diese Karte durch Kampf zerstört wird, verteile neue Nebel-Zählmarken in Höhe der Stufe des Monsters, das es zerstört hat, auf offene Monster.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

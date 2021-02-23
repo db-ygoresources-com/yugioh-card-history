@@ -1,0 +1,16 @@
+{
+  "id": 9217,
+  "type": "monster",
+  "name": "Finsterer Wahrsager",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 FINSTERNIS Empfänger- + 1 Nicht-Empfänger-Monster vom Typ Insekt\nDiese Karte kann nicht durch Kampf zerstört werden. Wenn diese Karte einen Angriff deklariert, falls die ATK des Angriffsziels höher sind als die dieser Karte: Die ATK des Angriffsziels werden gleich den aktuellen ATK dieser offenen Karte. Diese Änderung hält bis zum Ende der Battle Phase an. Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt: Lege die obersten 3 Karten des Decks deines Gegners auf den Friedhof.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Effekt"
+  ]
+}

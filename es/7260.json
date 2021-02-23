@@ -1,0 +1,16 @@
+{
+  "id": 7260,
+  "type": "monster",
+  "name": "HÉROE Malvado Lightning Gólem",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"HÉROE Elemental Sparkman\" + \"HÉROE Elemental Clayman\"\nEste monstruo no puede ser Invocado de Modo Especial excepto con \"Fusión Oscura\". Una vez por turno, puedes destruir 1 monstruo en el Campo.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

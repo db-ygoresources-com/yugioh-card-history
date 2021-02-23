@@ -1,0 +1,16 @@
+{
+  "id": 14275,
+  "type": "monster",
+  "name": "Fille Fantôme et Cornouiller Effrayant",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant chaque tour, sauf la End Phase (Effet Rapide) : vous pouvez défausser cette carte ; ce tour, appliquez cet effet. Vous ne pouvez utiliser cet effet de \"Fille Fantôme et Cornouiller Effrayant\" qu'une fois par tour.\n●Chaque fois que votre adversaire Invoque Spécialement un ou plusieurs Monstres à Effet durant la Main Phase ou Battle Phase, vous gagnez des LP égaux à l'ATK du monstre. Si vous n'avez pas gagné de LP par cet effet, vos LP sont divisés par deux durant la End Phase.",
+  "level": 3,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10860,
+  "type": "monster",
+  "name": "Schneepflug Extraflott",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert, solange du eine oder mehr Karten in deiner Zauber- & Fallenzone kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann zerstöre so viele Karten in deiner Zauber- & Fallenzone wie möglich und falls du dies tust, füge deinem Gegner für jede zerstörte Karte 200 Schaden zu. Du kannst keine Monster als Spezialbeschwörung beschwören, außer Maschine-Monstern.",
+  "level": 10,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13054,
+  "type": "monster",
+  "name": "Yeux Impairs, Roi Suprême du Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Sacrifier 2 monstres \"Roi Suprême du Dragon\" ; Invoquez Spécialement cette carte depuis votre main. Si votre Monstre Pendule combat un monstre de votre adversaire, les dommages de combat qu'il inflige à votre adversaire sont doublés. Durant la Battle Phase (Effet Rapide) : vous pouvez Sacrifier cette carte ; Invoquez Spécialement max. 2 Monstres Pendule \"Roi Suprême du Dragon\" (\"Yeux Impairs, Roi Suprême du Dragon\" exclu) et/ou \"Roi Suprême du Portail\" face recto depuis votre Extra Deck en Position de Défense.",
+  "pendEffect": "Vous pouvez Sacrifier 1 monstre \"Roi Suprême du Dragon\" ; détruisez cette carte, et si vous le faites, ajoutez 1 Monstre Pendule avec max. 1500 ATK depuis votre Deck à votre main.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

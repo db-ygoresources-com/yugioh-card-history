@@ -1,0 +1,18 @@
+{
+  "id": 12944,
+  "type": "monster",
+  "name": "Zefraath",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Deck Extra boca arriba) Sacrificando todos los monstruos que controles, incluyendo por lo menos 3 monstruos \"Zefra\", y no puede ser Invocado de Modo Especial de otra forma. Después de que Invoques esta carta de Modo Especial, puedes realizar 1 Invocación por Péndulo de uno o más monstruos \"Zefra\" durante tu Main Phase de este turno, además de tu Invocación por Péndulo. (Sólo puedes ganar este efecto una vez por turno). Una vez por turno: puedes Sacrificar 1 monstruo; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Zefra\".",
+  "pendEffect": "Durante tu Main Phase: puedes añadir a tu Deck Extra boca arriba 1 Monstruo de Péndulo \"Zefra\" en tu Deck y, si lo haces, hasta el final de este turno la Escala de Péndulo de esta carta se convierte en la misma que la de ese Monstruo de Péndulo. Sólo puedes usar este efecto de \"Zefraath\" una vez por turno.",
+  "pendScale": 5,
+  "level": 11,
+  "atk": 3450,
+  "def": 2950,
+  "properties": [
+    "Roca",
+    "Péndulo",
+    "Efecto"
+  ]
+}

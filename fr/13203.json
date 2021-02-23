@@ -1,0 +1,20 @@
+{
+  "id": 13203,
+  "type": "monster",
+  "name": "Sorcier Tri-Porte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres (Jetons exclus)\nCette carte gagne ces effets selon le nombre de monstres co-liés à cette carte.\n●1+ : Si un monstre co-lié à cette carte combat un monstre de votre adversaire, les dommages de combat qu'il inflige à votre adversaire sont doublés.\n●2+ : Une fois par tour : vous pouvez cibler 1 carte sur le Terrain ; bannissez-la.\n●3 : Une fois par tour, lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, bannissez la carte.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "6"
+  ],
+  "atk": 2200,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

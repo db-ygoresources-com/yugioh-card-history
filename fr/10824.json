@@ -1,0 +1,15 @@
+{
+  "id": 10824,
+  "type": "monster",
+  "name": "Gaïa le Chevalier Polaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne pouvez utiliser chaque effet de \"Gaïa le Chevalier Polaire\" qu'une fois par tour.\n●Vous pouvez Sacrifier 1 monstre TÉNÈBRES (cette carte exclue) ; ajoutez 1 monstre LUMIÈRE de Type Guerrier de Niveau 4 depuis votre Deck à votre main, puis envoyez 1 carte depuis votre main au Cimetière.\n●Vous pouvez bannir 1 monstre LUMIÈRE depuis votre Cimetière, puis ciblez 1 monstre que vous contrôlez ; jusqu'à la fin du tour de votre adversaire, il gagne 500 ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

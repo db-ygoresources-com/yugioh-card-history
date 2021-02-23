@@ -1,0 +1,16 @@
+{
+  "id": 12562,
+  "type": "monster",
+  "name": "Blumen-Kartian Lichtschauer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 3 Nicht-Empfänger-Monster\nDein Gegner kann „Blumen-Kartian“-Monster, die du kontrollierst, weder als Ziel für Karteneffekte wählen noch können die Monster durch Karteneffekte zerstört werden. Während der Draw Phase deines Gegners, falls er eine oder mehr Karten als sein normales Ziehen zieht: Füge deinem Gegner 1500 Schaden zu. Einmal pro Spielzug, während der End Phase deines Gegners: Aktiviere 1 dieser Effekte;\n●Überspringe die Draw Phase deines nächsten Spielzugs.\n●Annulliere die anderen Effekte dieser Karte bis zur nächsten Standby Phase deines Gegners.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

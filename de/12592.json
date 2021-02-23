@@ -1,0 +1,18 @@
+{
+  "id": 12592,
+  "type": "monster",
+  "name": "Künstlerkumpel Launekatze",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann als 2 Tribute für die Tributbeschwörung eines Pendelmonsters behandelt werden.",
+  "pendEffect": "Falls dein Gegner ein offenes Monster kontrolliert, das als Spezialbeschwörung vom Extra Deck beschworen wurde, und du nicht: Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören. Du kannst diesen Effekt von „Künstlerkumpel Launekatze“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

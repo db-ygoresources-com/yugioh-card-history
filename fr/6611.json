@@ -1,0 +1,15 @@
+{
+  "id": 6611,
+  "type": "monster",
+  "name": "Excelion - Dragon Divin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est Invoquée par Invocation Normale, elle acquiert 1 des effets suivants pour chaque \"Excelion - Dragon Divin\" dans votre Cimetière lorsque cet effet se résout (votre choix). Un même effet ne peut être sélectionné qu'une fois.\n ●Augmentez l'ATK de cette carte de 1000 points.\n ●Si cette carte détruit un monstre de votre adversaire à l'issue d'un combat, elle peut attaquer à nouveau immédiatement après.\n ●Lorsque cette carte détruit un monstre à l'issue d'un combat et l'envoie au Cimetière, infligez aux Life Points de votre adversaire des dommages égaux à l'ATK du monstre détruit.",
+  "level": 5,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

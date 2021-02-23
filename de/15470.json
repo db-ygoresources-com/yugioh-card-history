@@ -1,0 +1,16 @@
+{
+  "id": 15470,
+  "type": "monster",
+  "name": "Toon-Schwarz glänzender Soldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du Toon-Monster, deren gemeinsame Stufe 8 oder mehr entspricht, von deiner Hand oder Spielfeldseite als Tribut anbietest. Solange du „Toon-Welt“ kontrollierst und dein Gegner keine Toon-Monster kontrolliert, kann diese Karte direkt angreifen. Einmal pro Spielzug, falls du „Toon-Welt“ kontrollierst: Du kannst 1 Karte auf dem Spielfeld wählen; verbanne sie, zusätzlich kann diese Karte in dem Spielzug, in dem dieser Effekt aktiviert wird, nicht angreifen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Krieger",
+    "Toon",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11702,
+  "type": "monster",
+  "name": "Zefraxa, Bestia Fiamma dei Nekroz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Mentre questa carta è nella tua mano o Cimitero, se una o più carte \"Nekroz\" o \"Zefra\" scoperte, eccetto \"Zefraxa, Bestia Fiamma dei Nekroz\", vengono distrutte in battaglia o dall'effetto di una carta mentre sono nella tua Zona Mostri o Zona Pendulum: puoi Evocare Specialmente questa carta. Puoi utilizzare questo effetto di \"Zefraxa, Bestia Fiamma dei Nekroz\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Nekroz\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

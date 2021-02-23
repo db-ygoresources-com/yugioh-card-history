@@ -1,0 +1,15 @@
+{
+  "id": 10394,
+  "type": "monster",
+  "name": "Bufón de la Profecía",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes mandar al Cementerio 1 Carta Mágica \"Libro de Magia\" en tu Deck. Durante la End Phase del turno en el que esta carta activó este efecto: puedes Sacrificar esta carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo de OSCURIDAD de Tipo Lanzador de Conjuros de Nivel 5 o mayor. Debes tener 5 o más Cartas Mágicas \"Libro de Magia\" con nombre diferente en tu Cementerio para activar y resolver este efecto.",
+  "level": 3,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15024,
+  "type": "monster",
+  "name": "Goldlöckchen, der Schlacht-Landumformer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung in eine Zone beschworen wird, die nicht die mittlere Main-Monsterzone ist, zerstöre diese Karte. Diese Karte erhält 3000 ATK, solange sie in der mittleren Main-Monsterzone liegt. Einmal pro Spielzug: Du kannst 1 deiner nicht verwendeten Main-Monsterzonen bestimmen; bewege diese Karte von deiner Main-Monsterzone in die Zone, dann zerstöre alle anderen Karten in der Spalte der Zone, in der diese Karte lag, in der Spalte der Zone, in die diese Karte bewegt wurde, und in allen Spalten dazwischen.",
+  "level": 10,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11345,
+  "type": "monster",
+  "name": "Superheavy Samurai Soulbang Cannon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "You can target 1 \"Superheavy Samurai\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1000 DEF. During either player's Battle Phase, when your opponent activates a card effect while you control a Defense Position \"Superheavy Samurai\" monster: You can banish this card from your Graveyard; negate the activation, and if you do, destroy it, then destroy as many monsters on the field as possible (min.1), and if you do, both players take 1000 damage.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

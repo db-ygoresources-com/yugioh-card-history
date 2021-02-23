@@ -1,0 +1,15 @@
+{
+  "id": 9084,
+  "type": "monster",
+  "name": "Energieriese",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 Monster der Stufe 4 oder niedriger von deiner Hand auf den Friedhof legst. Falls du dies tust, verringere die Stufe dieser Karte um die Stufe des Monsters. Falls diese Karte angreift oder angegriffen wird, wird bis zum Ende des Damage Steps jeglicher Effektschaden, den du erhältst, zu 0.",
+  "level": 6,
+  "atk": 2200,
+  "def": 0,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4022,
+  "type": "monster",
+  "name": "Magicien du Temps",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez jouer à pile ou face. Si vous gagnez, détruisez tous les monstres contrôlés par votre adversaire. Si vous perdez, détruisez autant de monstres que vous contrôlez que possible, et si vous le faites, recevez des dommages égaux à la moitié de la somme des ATK que ces monstres détruits avaient tant qu'ils étaient face recto sur le Terrain.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

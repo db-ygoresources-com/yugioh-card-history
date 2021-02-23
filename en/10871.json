@@ -1,0 +1,15 @@
+{
+  "id": 10871,
+  "type": "monster",
+  "name": "Ghostrick Ghoul",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. Once per turn, during your Main Phase 1: You can target 1 \"Ghostrick\" monster you control; its ATK becomes equal to the combined original ATK of all \"Ghostrick\" monsters currently on the field, until the end of your opponent's next turn, but if it does, only that monster can attack this turn.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effect"
+  ]
+}

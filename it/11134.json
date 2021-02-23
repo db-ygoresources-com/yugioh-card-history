@@ -1,0 +1,18 @@
+{
+  "id": 11134,
+  "type": "monster",
+  "name": "Mago Mirastelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, quando esattamente 1 altro Mostro Pendulum che controlli (e nessuna altra carta) viene fatto ritornare nella tua mano dall'effetto di una carta dell'avversario (eccetto durante il Damage Step): puoi Evocare Specialmente dalla tua mano 1 mostro con lo stesso nome di quel mostro fatto ritornare nella mano.",
+  "pendEffect": "Se un Mostro Pendulum che controlli combatte, il tuo avversario non può attivare Carte Magia fino alla fine del Damage Step. A meno che tu abbia una carta \"Mago\" o una carta \"Occhi Diversi\" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 4.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

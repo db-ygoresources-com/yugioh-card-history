@@ -1,0 +1,17 @@
+{
+  "id": 9754,
+  "type": "monster",
+  "name": "デス・ウサギ",
+  "nameRuby": "デス・ウサギ",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "リバース：トークン以外の自分フィールド上に表側表示で存在する通常モンスター１体につき、相手ライフに１０００ポイントダメージを与える。",
+  "level": 3,
+  "atk": 1000,
+  "def": 1900,
+  "properties": [
+    "獣族",
+    "リバース",
+    "効果"
+  ]
+}

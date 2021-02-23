@@ -1,0 +1,15 @@
+{
+  "id": 8861,
+  "type": "monster",
+  "name": "Guerrier d'Intervention",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Durant votre Main Phase 1, vous pouvez activer l'effet de cette carte. Si vous le faites, elle peut attaquer directement votre adversaire ce tour. Les autres monstres ne peuvent pas attaquer durant le tour où vous activez cet effet.",
+  "level": 4,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

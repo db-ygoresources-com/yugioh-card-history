@@ -1,0 +1,20 @@
+{
+  "id": 13879,
+  "type": "monster",
+  "name": "Tirecodeur Bavard",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2+ monstres Cyberse\nAu début de votre Battle Phase : vous pouvez activer cet effet ; cette Battle Phase, cette carte peut faire des attaques sur un nombre de monstres de votre adversaire, inférieur ou égal au nombre de monstres pointés actuellement par cette carte +1, mais lorsqu'elle attaque l'unique monstre de votre adversaire ce tour, cette carte perd 400 ATK durant ce calcul des dommages uniquement. À la fin de chaque Battle Phase : vous pouvez piocher un nombre de cartes égal au nombre de monstres que cette carte a détruit au combat ce tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

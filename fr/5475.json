@@ -1,0 +1,16 @@
+{
+  "id": 5475,
+  "type": "monster",
+  "name": "Sorcier Masqué Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ne peut pas attaquer le tour où elle est Invoquée. Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Si cette carte inflige des dommages de combat à votre adversaire : piochez 1 carte.",
+  "level": 4,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Toon",
+    "Effet"
+  ]
+}

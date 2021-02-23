@@ -1,0 +1,15 @@
+{
+  "id": 5053,
+  "type": "monster",
+  "name": "Brouilleur Sonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "FLIP : Votre adversaire ne peut activer aucune Carte Magie jusqu'à la fin de la End Phase du prochain tour.",
+  "level": 2,
+  "atk": 350,
+  "def": 650,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

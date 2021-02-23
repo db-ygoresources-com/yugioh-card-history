@@ -1,0 +1,15 @@
+{
+  "id": 8026,
+  "type": "monster",
+  "name": "Insassomate",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn 1 anderes offenes Monster vom Typ Pflanze als Ziel für den Effekt einer Zauber- oder Fallenkarte, die dein Gegner kontrolliert, gewählt wird, kannst du diese Karte als Tribut anbieten, um 2 Karten zu ziehen.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

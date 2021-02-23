@@ -1,0 +1,18 @@
+{
+  "id": 11615,
+  "type": "monster",
+  "name": "Künstlerkumpel Pendelzauberer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Karten wählen, die du kontrollierst; zerstöre sie und falls du dies tust, füge deiner Hand „Künstlerkumpel“-Monster mit unterschiedlichen Namen in Höhe der Anzahl der zerstörten Karten von deinem Deck hinzu, außer „Künstlerkumpel Pendelzauberer“. Du kannst diesen Effekt von „Künstlerkumpel Pendelzauberer“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls ein oder mehr „Künstlerkumpel“-Monster als Pendelbeschwörung auf deine Spielfeldseite beschworen werden: Alle „Künstlerkumpel“-Monster, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 1000 ATK (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

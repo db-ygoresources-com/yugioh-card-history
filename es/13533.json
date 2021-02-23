@@ -1,0 +1,19 @@
+{
+  "id": 13533,
+  "type": "monster",
+  "name": "Espíritu del Karate Kuro-Obi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes mandar al Cementerio todas las Mágicas/Trampas que tu adversario controle y que estén en las mismas columnas que las cartas en tus Zonas del Péndulo. Una vez por turno, durante la End Phase, si esta carta fue Invocada de Modo Normal o volteada boca arriba este turno: devuelve esta carta a la mano.",
+  "pendEffect": "Si uno o más monstruos son Invocados por Péndulo: devuelve a la mano esta carta en la Zona del Péndulo.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Spirit",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4608,
+  "type": "monster",
+  "name": "Soldado Pinguim",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "VIRE: Você pode escolher até 2 monstros no campo; devolva os alvos para a mão.",
+  "level": 2,
+  "atk": 750,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Virar",
+    "Efeito"
+  ]
+}

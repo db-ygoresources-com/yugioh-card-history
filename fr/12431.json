@@ -1,0 +1,16 @@
+{
+  "id": 12431,
+  "type": "monster",
+  "name": "Magicien Sombre Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ne peut pas attaquer le tour où elle est Invoquée. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Une fois par tour : vous pouvez défausser 1 carte \"Toon\", puis activez 1 de ces effets ;\n●Invoquez Spécialement 1 monstre Toon (\"Magicien Sombre Toon\" exclu) depuis votre Deck, en ignorant ses conditions d'Invocation.\n●Ajoutez 1 Magie/Piège \"Toon\" depuis votre Deck à votre main.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Magicien",
+    "Toon",
+    "Effet"
+  ]
+}

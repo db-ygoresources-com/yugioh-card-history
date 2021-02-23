@@ -1,0 +1,19 @@
+{
+  "id": 13702,
+  "type": "monster",
+  "name": "Espíritu del Kendo Kai-Den",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes elegir 1 carta en tu Zona del Péndulo, y mandar al Cementerio todas las cartas que controle tu adversario que estén en la misma columna que esa carta. Una vez por turno, durante la End Phase, si esta carta fue Invocada de Modo Normal o volteada boca arriba este turno: devuelve esta carta a la mano.",
+  "pendEffect": "Si uno o más monstruos son Invocados por Péndulo: devuelve a la mano esta carta en la Zona del Péndulo.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Spirit",
+    "Efecto"
+  ]
+}

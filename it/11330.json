@@ -1,0 +1,18 @@
+{
+  "id": 11330,
+  "type": "monster",
+  "name": "D/D Fiero Cavaliere",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi aggiungere 1 Mostro Pendulum OSCURITÀ scoperto dal tuo Extra Deck alla tua mano.",
+  "pendEffect": "Una volta per turno: puoi pagare 500 LP, poi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; esso perde 500 ATK (anche se questa carta lascia il Terreno). A meno che tu non abbia una carta \"D/D\" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 5.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2000,
+  "def": 700,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

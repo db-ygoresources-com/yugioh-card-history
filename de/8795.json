@@ -1,0 +1,16 @@
+{
+  "id": 8795,
+  "type": "monster",
+  "name": "Spore",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 anderes Pflanze-Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, erhöhe ihre Stufe um die Stufe des verbannten Monsters. Du kannst diesen Effekt von „Spore“ nur einmal pro Duell verwenden.",
+  "level": 1,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

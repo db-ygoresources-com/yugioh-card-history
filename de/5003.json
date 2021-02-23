@@ -1,0 +1,16 @@
+{
+  "id": 5003,
+  "type": "monster",
+  "name": "Alligatorschwert-Drache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "„Babydrache“ + „Alligatorschwert“\nDiese Karte kann deinen Gegner direkt angreifen, falls die einzigen offenen Monster, die er kontrolliert, ERDE, WASSER oder FEUER sind.",
+  "level": 5,
+  "atk": 1700,
+  "def": 1500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

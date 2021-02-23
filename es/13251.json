@@ -1,0 +1,16 @@
+{
+  "id": 13251,
+  "type": "monster",
+  "name": "Hormiga Autodestructiva",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: cada jugador recibe 1000 puntos de daño.\nSi esta carta es destruida en batalla o por efecto de una carta y mandada al Cementerio: inflige 1000 puntos de daño a tu adversario. Sólo puedes usar cada efecto de \"Hormiga Autodestructiva\" una vez por turno.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Insecto",
+    "Volteo",
+    "Efecto"
+  ]
+}

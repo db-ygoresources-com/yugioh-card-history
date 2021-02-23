@@ -1,0 +1,18 @@
+{
+  "id": 12277,
+  "type": "monster",
+  "name": "Luciolux Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un monstre \"Potartiste\" ou \"Yeux Impairs\" que vous contrôlez attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step.",
+  "pendEffect": "Une fois par tour, lorsqu'un monstre de votre adversaire déclare une attaque : vous pouvez Sacrifier 1 monstre \"Potartiste\" ; annulez l'attaque, puis terminez la Battle Phase.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Insecte",
+    "Pendule",
+    "Effet"
+  ]
+}

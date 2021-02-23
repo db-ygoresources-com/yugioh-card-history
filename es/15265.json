@@ -1,0 +1,15 @@
+{
+  "id": 15265,
+  "type": "monster",
+  "name": "Mano de Trueno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si uno o más monstruos boca arriba que controlas con 1600 ATK o DEF originales son destruidos en batalla o por efecto de una carta del adversario y mandados al Cementerio, mientras esta carta está en tu mano o Cementerio: puedes Invocar esta carta de Modo Especial (pero destiérrala cuando deje el Campo) y, si lo haces, destruye 1 carta que controle tu adversario. Sólo puedes usar este efecto de \"Mano de Trueno\" una vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

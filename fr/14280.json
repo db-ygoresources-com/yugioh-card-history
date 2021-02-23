@@ -1,0 +1,16 @@
+{
+  "id": 14280,
+  "type": "monster",
+  "name": "Dinolutteur Chimère T Rexlutte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Monstre Lien \"Dinolutteur\" + 1 monstre \"Dinolutteur\"\nSi cette carte combat, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Les monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Si cette carte détruit un monstre au combat : elle gagne 500 ATK. Si cette carte est détruite par un effet de carte : détruisez tous les monstres en Position d'Attaque de votre adversaire.",
+  "level": 8,
+  "atk": 3500,
+  "def": 0,
+  "properties": [
+    "Dinosaure",
+    "Fusion",
+    "Effet"
+  ]
+}

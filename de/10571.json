@@ -1,0 +1,15 @@
+{
+  "id": 10571,
+  "type": "monster",
+  "name": "ZW - Adlerkralle",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls dein Gegner mindestens 2000 Life Points mehr hat als du, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst 1 „Utopia“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster vom Spielfeld aus. Es erhält 2000 ATK. Einmal pro Spielzug, solange diese Karte ein Monster ausrüstet, wenn eine Fallenkarte oder ein Falleneffekt aufgelöst wird, die oder der auf der Spielfeldseite deines Gegners aktiviert wurde, annulliere den Effekt der Karte. Du kannst nur 1 „ZW - Adlerkralle“ kontrollieren.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

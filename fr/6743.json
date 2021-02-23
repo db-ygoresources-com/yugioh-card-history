@@ -1,0 +1,15 @@
+{
+  "id": 6743,
+  "type": "monster",
+  "name": "Camionroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : équipez le monstre détruit à cette carte. Cette carte gagne une ATK égale à la somme des ATK des monstres équipés à elle par cet effet.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

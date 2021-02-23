@@ -1,0 +1,16 @@
+{
+  "id": 9389,
+  "type": "monster",
+  "name": "Tetrogre Evigishki",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Carte Magie Rituelle \"Gishki\". Une fois par tour : vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) ; votre adversaire peut défausser 1 carte pour annuler l'effet de cette carte, sinon chaque joueur envoie 1 carte du type déclaré depuis son Main Deck au Cimetière.",
+  "level": 6,
+  "atk": 2600,
+  "def": 2100,
+  "properties": [
+    "Aqua",
+    "Rituel",
+    "Effet"
+  ]
+}

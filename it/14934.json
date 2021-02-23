@@ -1,0 +1,19 @@
+{
+  "id": 14934,
+  "type": "monster",
+  "name": "Araldo delle Luci dei Miraggi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri con lo stesso Tipo e Attributo, eccetto i Segna-Mostro\nQuando viene attivata una Carta Magia/Trappola o un loro effetto (Effetto Rapido): puoi mandare 1 mostro Fata dalla tua mano al Cimitero; annulla l'attivazione e, se lo fai, distruggila. Se questa carta sotto il tuo comando viene mandata al tuo Cimitero da una carta dell'avversario: puoi aggiungere fino a 2 Mostri Rituale e/o Magie Rituali con nomi diversi dal tuo Cimitero alla tua mano. Puoi utilizzare ogni effetto di \"Araldo delle Luci dei Miraggi\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 600,
+  "properties": [
+    "Fata",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11697,
+  "type": "monster",
+  "name": "Zefranaga Sombraneco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Pêndulo ou enviado para o Cemitério: você pode escolher 1 card na Zona de Pêndulo de qualquer duelista; devolva-o para a mão. Você deve ter um card \"Zefra\" na sua Zona de Pêndulo para ativar e resolver este efeito. Você só pode usar este efeito de \"Zefranaga Sombraneco\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Sombraneco\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

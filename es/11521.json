@@ -1,0 +1,18 @@
+{
+  "id": 11521,
+  "type": "monster",
+  "name": "Artistamigo Bufandaleón",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno, si un Monstruo de Péndulo que controlas destruye un monstruo de tu adversario en batalla, después del cálculo de daño: puedes hacer que ese monstruo que controlas gane 200 ATK hasta el final de la Battle Phase y, si lo haces, ese monstruo puede hacer un segundo ataque inmediatamente después.",
+  "pendEffect": "Cuando un Monstruo de Péndulo que controles es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6800,
+  "type": "monster",
+  "name": "Alieno Grigio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "SCOPRI: Metti un Segnalino-A su un mostro scoperto sul Terreno del tuo avversario. (Se un mostro con un Segnalino-A combatte un mostro che include \"Alieno\" nel suo nome, diminuisci i suoi ATK e DEF di 300 punti per ogni Segnalino-A solo durante il calcolo dei danni.) Dopo che questa carta è stata scoperta, quando questa carta viene distrutta in seguito ad una battaglia e mandata al Cimitero, pesca 1 carta dal tuo Deck.",
+  "level": 2,
+  "atk": 300,
+  "def": 800,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

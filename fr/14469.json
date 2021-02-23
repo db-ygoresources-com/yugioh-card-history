@@ -1,0 +1,18 @@
+{
+  "id": 14469,
+  "type": "monster",
+  "name": "Mayosenju Hitot",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non Invocable Spécialement, sauf par Invocation Pendule. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 carte contrôlée par votre adversaire ; renvoyez-la à la main. Chaque fois qu'une ou plusieurs cartes sur le Terrain sont renvoyées à la main ou Main Deck par votre effet de carte, tant que cette carte est sur le Terrain : tous les monstres \"Yosenju\" que vous contrôlez actuellement gagnent 500 ATK. Une fois par tour, durant la End Phase, si cette carte a été Invoquée Spécialement ce tour : renvoyez-la à la main.",
+  "pendEffect": "Vous pouvez cibler 1 carte \"Yosenju\" dans votre Zone Pendule ; le reste de ce tour, son Échelle Pendule devient 11, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Yosenju\" exclus) (même si cette carte quitte le Terrain). Durant votre End Phase : renvoyez cette carte à la main. Vous ne pouvez utiliser chaque Effet Pendule de \"Mayosenju Hitot\" qu'une fois par tour.",
+  "pendScale": 3,
+  "level": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

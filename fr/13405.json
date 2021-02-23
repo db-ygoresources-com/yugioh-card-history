@@ -1,0 +1,15 @@
+{
+  "id": 13405,
+  "type": "monster",
+  "name": "Boarder Inspecteur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Invocable Spécialement si vous contrôlez un monstre. Aucun joueur ne peut activer d'effets de monstre sauf si le nombre d'effets de monstre que le joueur a précédemment activé ce tour est inférieur au nombre de types de carte de monstre actuellement sur le Terrain (Rituel, Fusion, Synchro, Xyz, Pendule et Lien). (Si l'activation d'un effet a été annulée, elle est toujours incluse dans le compte total du tour. Seuls les effets qui ont été activés tant que ce monstre était face recto sur le Terrain sont comptés.)",
+  "level": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

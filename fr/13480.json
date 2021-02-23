@@ -1,0 +1,15 @@
+{
+  "id": 13480,
+  "type": "monster",
+  "name": "Armature Rouages Ancients",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez défausser 1 carte ; ajoutez 1 \"Golem Rouages Ancients\" ou 1 Magie/Piège qui liste spécifiquement la carte \"Golem Rouages Ancients\" dans son texte, depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Armature Rouages Ancients\" qu'une fois par tour. Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. Si cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement max. 3 \"Golem Rouages Ancients\" et/ou \"Golem Rouages Ancients - Frappe Ultime\" depuis votre main, en ignorant leurs conditions d'Invocation.",
+  "level": 4,
+  "atk": 1600,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

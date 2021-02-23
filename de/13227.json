@@ -1,0 +1,15 @@
+{
+  "id": 13227,
+  "type": "monster",
+  "name": "Magnarakketen-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn der Effekt eines Linkmonsters aktiviert wird, der diese offene Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst diese Karte zerstören, dann lege 1 Monster vom Spielfeld auf den Friedhof. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört und dorthin gelegt wurde: Du kannst 1 „Rakkete“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Magnarakketen-Drache“. Du kannst jeden Effekt von „Magnarakketen-Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

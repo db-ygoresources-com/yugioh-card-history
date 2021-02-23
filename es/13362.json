@@ -1,0 +1,16 @@
+{
+  "id": 13362,
+  "type": "monster",
+  "name": "Quimera Vengamiedo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Vengamiedo\". Cuando es activada una carta o efecto que fuera a destruir una carta en el Campo (Efecto Rápido): puedes desterrar 1 monstruo Zombi en tu Cementerio; niega la activación y, si lo haces, destruye esa carta. Si esta carta es Sacrificada, o desterrada, para una Invocación por Ritual: todos los monstruos que controla tu adversario pierden 500 ATK/DEF. Sólo puedes usar cada efecto de \"Quimera Vengamiedo\" una vez por turno.",
+  "level": 5,
+  "atk": 2300,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Ritual",
+    "Efecto"
+  ]
+}

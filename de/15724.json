@@ -1,0 +1,16 @@
+{
+  "id": 15724,
+  "type": "monster",
+  "name": "Amanokujaki",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst die Effekte anderer als Spezialbeschwörung beschworener Monster mit derselben Eigenschaft wie diese Karte nicht aktivieren. Einmal pro Spielzug, während der Main Phase des Besitzers dieser Karte (Schnelleffekt): Du kannst die Kontrolle über diese Karte an deinen Gegner übergeben, dann kannst du (der aktivierende Spieler) diese Karte bis zum Ende des nächsten Spielzugs zu einer beliebigen Eigenschaft werden lassen.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7180,
+  "type": "monster",
+  "name": "Vipére Venin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez placer 1 Compteur Venin sur 1 monstre contrôlé par votre adversaire. Si vous activez cet effet, cette carte ne peut pas attaquer durant ce tour.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

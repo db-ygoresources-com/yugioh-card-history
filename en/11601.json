@@ -1,0 +1,18 @@
+{
+  "id": 11601,
+  "type": "monster",
+  "name": "Crystal Master",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You can Tribute this card; add 1 \"Ultimate Crystal\" monster, \"Crystal Beast\" monster, or \"Crystal\" Spell/Trap from your Deck to your hand.",
+  "pendEffect": "Your opponent cannot target \"Ultimate Crystal\" monsters or \"Crystal Beast\" cards you control with card effects.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

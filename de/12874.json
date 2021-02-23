@@ -1,0 +1,16 @@
+{
+  "id": 12874,
+  "type": "monster",
+  "name": "Unterterror-Behemoth Dragossarium",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst diesen Effekt aktivieren; in diesem Spielzug können „Unterterror“-Karten, die du kontrollierst, nicht durch Karteneffekte deines Gegners zerstört werden. Du kannst diesen Effekt von „Unterterror-Behemoth Dragossarium“ nur einmal pro Spielzug verwenden.\nWenn ein offenes Monster, das du kontrollierst, verdeckt wird, falls du keine offenen Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Flipp",
+    "Effekt"
+  ]
+}

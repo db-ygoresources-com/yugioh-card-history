@@ -1,0 +1,15 @@
+{
+  "id": 6589,
+  "type": "monster",
+  "name": "Explosivo Adhesivo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Antes del cálculo de daño, si esta carta fue atacada por un monstruo del adversario y estaba en Posición de Defensa boca abajo al comienzo del Damage Step: equipa esta carta al monstruo atacante. Después, durante la próxima Standby Phase de tu adversario, destruye el monstruo equipado con esta carta.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

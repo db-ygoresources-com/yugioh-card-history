@@ -1,0 +1,16 @@
+{
+  "id": 8645,
+  "type": "monster",
+  "name": "Gundari",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte wird während der End Phase des Spielzugs, in dem sie als Normalbeschwörung beschworen oder aufgedeckt wurde, auf die Hand ihres Besitzers zurückgegeben. Falls diese Karte gegen ein Synchromonster kämpft, gib am Beginn des Damage Steps beide Monster auf die Hände ihrer Besitzer zurück (ohne Schadensberechnung).",
+  "level": 4,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Spirit",
+    "Effekt"
+  ]
+}

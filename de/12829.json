@@ -1,0 +1,18 @@
+{
+  "id": 12829,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Vorbeigleiter",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls keine Monster auf dem Spielfeld liegen, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Geschwindigkeitsroid Vorbeigleiter“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Wenn diese Karte als Tributbeschwörung beschworen wird: Du kannst 1 „Geschwindigkeitsroid“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Monster deines Gegners können keine „Geschwindigkeitsroid“-Monster als Angriffsziel wählen, außer diesem.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Geschwindigkeitsroid“-Empfänger von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; erhöhe oder verringere (min. 1) den Pendelbereich dieser Karte bis zum Ende dieses Spielzugs um die Grund-Stufe des auf den Friedhof gelegten Monsters.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

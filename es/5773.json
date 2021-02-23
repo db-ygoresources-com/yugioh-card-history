@@ -1,0 +1,15 @@
+{
+  "id": 5773,
+  "type": "monster",
+  "name": "Archidemonio Caballero de la Sombra",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "El controlador de esta carta paga 900 Life Points durante cada una de sus Standby Phases. Cuando esta carta es designada como objetivo del efecto de una carta controlada por tu adversario, al resolver el efecto, lanza un dado de seis caras. Si el resultado es 3, niega el efecto y destruye la carta de tu adversario. El daño de batalla que esta carta inflige a los Life Points de tu adversario se divide a la mitad.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

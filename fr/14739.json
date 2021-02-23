@@ -1,0 +1,18 @@
+{
+  "id": 14739,
+  "type": "monster",
+  "name": "D/D Mal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ne peut pas attaquer sauf si vous contrôlez un autre monstre \"D/D\". Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre face recto Invoqué par Pendulation contrôlé par votre adversaire ; jusqu'à la fin de ce tour, annulez les effets du monstre face recto. Vous ne pouvez utiliser cet effet de \"D/D Mal\" qu'une fois par tour.",
+  "pendEffect": "Une fois, tant que cette carte est dans votre Zone Pendule, lorsque votre adversaire Invoque par Pendulation un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez activer cet effet ; ce tour, le monstre Invoqué par Pendulation ne peut pas attaquer, et aussi, ses effets sont annulés.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

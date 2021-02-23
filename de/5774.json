@@ -1,0 +1,15 @@
+{
+  "id": 5774,
+  "type": "monster",
+  "name": "Läufer der Finsternis, Erzunterweltler",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Der Spieler, der diese Karte kontrolliert, zahlt 500 Life Points in jeder seiner Standby Phasen. Wenn eine ERZUNTERWELTLER-Monsterkarte auf deiner Spielfeldseite als Ziel eines Effekts einer Karte, die dein Gegner kontrolliert, bestimmt wird, wirf bei der Abwicklung des Effekts einen sechsseitigen Würfel. Wenn das Würfelergebnis 1, 3 oder 6 ist, annulliere den Effekt und zerstöre die Karte.",
+  "level": 3,
+  "atk": 300,
+  "def": 1400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

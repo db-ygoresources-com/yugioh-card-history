@@ -1,0 +1,15 @@
+{
+  "id": 13581,
+  "type": "monster",
+  "name": "Homme-Batterie Solaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 monstre Tonnerre depuis votre Deck au Cimetière. Si un ou plusieurs monstres Tonnerre sont Invoqués Normalement ou Spécialement tant que ce monstre est sur le Terrain : Invoquez Spécialement 1 \"Jeton Homme-Batterie\" (Tonnerre/LUMIÈRE/Niveau 1/ATK 0/DEF 0). Vous pouvez cibler 1 Monstre à Effet \"Homme-Batterie\" que vous contrôlez ou dans votre Cimetière ; jusqu'à la End Phase, le nom de cette carte devient celui du monstre. Vous ne pouvez utiliser chaque effet de \"Homme-Batterie Solaire\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8935,
+  "type": "monster",
+  "name": "Dévoreur de Dommages",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant le tour de votre adversaire, lorsque votre adversaire active une carte ou un effet qui doit infliger des dommages, vous pouvez retirer du jeu cette carte dans votre Cimetière pour changer cet effet et augmenter ainsi vos Life Points du même montant à la place.",
+  "level": 2,
+  "atk": 100,
+  "def": 800,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

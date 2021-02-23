@@ -1,0 +1,15 @@
+{
+  "id": 13581,
+  "type": "monster",
+  "name": "Batteriemann Solar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Donner-Monster von deinem Deck auf den Friedhof legen. Falls ein oder mehr Donner-Monster als Normal- oder Spezialbeschwörung beschworen werden, solange dieses Monster auf dem Spielfeld liegt: Beschwöre 1 „Batteriemann-Spielmarke“ (Donner/LICHT/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung. Du kannst 1 „Batteriemann“-Effektmonster wählen, das du kontrollierst oder das sich in deinem Friedhof befindet; der Name dieser Karte wird bis zur End Phase derselbe wie der des Monsters. Du kannst jeden Effekt von „Batteriemann Solar“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9800,
+  "type": "monster",
+  "name": "Drago Influenza",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto che controlli; esso diventa di Tipo Drago fino alla End Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Drago",
+    "Tuner",
+    "Effetto"
+  ]
+}

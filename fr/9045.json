@@ -1,0 +1,16 @@
+{
+  "id": 9045,
+  "type": "monster",
+  "name": "Robot Gardna",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Robot Synchronique\" + 1 monstre non Syntoniseur ou plus\nUne fois par tour, vous pouvez sélectionner 1 monstre contrôlé par votre adversaire et changer sa position de combat. Cet effet peut être activé durant votre tour ou celui de votre adversaire. Si cette carte est envoyée du Terrain au Cimetière, vous pouvez sélectionner 1 monstre sur le Terrain et changer sa position de combat.",
+  "level": 6,
+  "atk": 1400,
+  "def": 2600,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

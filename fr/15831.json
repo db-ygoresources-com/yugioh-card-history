@@ -1,0 +1,16 @@
+{
+  "id": 15831,
+  "type": "monster",
+  "name": "Esprit Hexa de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", les monstres contrôlés par votre adversaire perdent 500 ATK/DEF. Durant votre Main Phase : vous pouvez envoyer 1 monstre \"Barrière de Glace\" de max. Niveau 3 depuis votre Deck au Cimetière, et si vous le faites, le Niveau de cette carte devient le même que celui du monstre jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Esprit Hexa de la Barrière de Glace\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Serpent de Mer",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

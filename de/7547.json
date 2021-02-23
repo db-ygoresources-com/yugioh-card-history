@@ -1,0 +1,15 @@
+{
+  "id": 7547,
+  "type": "monster",
+  "name": "Wurm Erokin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Einmal pro Spielzug, wähle 1 offenes „Wurm“-Monster vom Typ Reptil auf dem Spielfeld und ändere es in die verdeckte Verteidigungsposition.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

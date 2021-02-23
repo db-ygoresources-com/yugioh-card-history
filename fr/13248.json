@@ -1,0 +1,15 @@
+{
+  "id": 13248,
+  "type": "monster",
+  "name": "Soldats Draconiques",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez Invoquer Spécialement 1 monstre Dragon de max. Niveau 2 depuis votre Deck.",
+  "level": 2,
+  "atk": 700,
+  "def": 800,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

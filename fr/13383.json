@@ -1,0 +1,16 @@
+{
+  "id": 13383,
+  "type": "monster",
+  "name": "Intrus Tindangle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez ajouter 1 carte \"Tindangle\" depuis votre Deck à votre main.\nLorsque cette carte est Invoquée Normalement : vous pouvez envoyer 1 carte \"Tindangle\" depuis votre Deck au Cimetière. Si un ou plusieurs monstres sont Invoqués Spécialement sur votre Terrain en Position de Défense face verso tant que cette carte est dans votre Cimetière : Invoquez Spécialement cette carte en Position de Défense face verso (ceci est obligatoire). Vous ne pouvez utiliser chaque effet de \"Intrus Tindangle\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2200,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Flip",
+    "Effet"
+  ]
+}

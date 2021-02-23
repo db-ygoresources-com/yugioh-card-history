@@ -1,0 +1,15 @@
+{
+  "id": 13257,
+  "type": "monster",
+  "name": "Médecin Musclé",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un joueur va recevoir des dommages de combats impliquant cette carte, il gagne autant de LP à la place.",
+  "level": 4,
+  "atk": 2200,
+  "def": 100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

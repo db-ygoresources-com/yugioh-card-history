@@ -1,0 +1,18 @@
+{
+  "id": 12482,
+  "type": "monster",
+  "name": "Dragão Fantasma de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando este card Invocado por Invocação-Pêndulo causar dano de combate ao seu oponente ao atacar: você pode causar dano ao seu oponente igual ao número de cards \"Olhos Anômalos\" nas suas Zonas de Pêndulo x 1200. Você só pode usar este efeito de \"Dragão Fantasma de Olhos Anômalos\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno, quando um ataque for declarado envolvendo um monstro seu com a face para cima e um monstro do oponente, se você tiver um card \"Olhos Anômalos\" na sua outra Zona de Pêndulo: você pode fazer com que esse monstro que você controla ganhe 1200 de ATK até o final da Fase de Batalha (mesmo que este card deixe o campo).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

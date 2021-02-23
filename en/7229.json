@@ -1,0 +1,10 @@
+{
+  "id": 7229,
+  "type": "trap",
+  "name": "Destructive Draw",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAP",
+  "effectText": "If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continuous"
+}

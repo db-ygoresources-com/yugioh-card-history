@@ -1,0 +1,16 @@
+{
+  "id": 13923,
+  "type": "monster",
+  "name": "Colosso Drago del Tuono",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Drago del Tuono\" + 1 mostro Tuono\nDeve essere Evocato tramite Fusione, oppure Evocato Specialmente durante un turno in cui l'effetto di un mostro Tuono è stato attivato nella mano, offrendo come Tributo 1 Mostro non-Fusione Effetto Tuono (nel qual caso non utilizzi \"Polimerizzazione\"). Le carte non possono essere aggiunte dal Main Deck alla mano del tuo avversario eccetto pescandole. Se questa carta sta per essere distrutta in battaglia o dall'effetto di una carta, puoi invece bandire 1 mostro Tuono dal tuo Cimitero.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2400,
+  "properties": [
+    "Tuono",
+    "Fusione",
+    "Effetto"
+  ]
+}

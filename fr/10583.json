@@ -1,0 +1,15 @@
+{
+  "id": 10583,
+  "type": "monster",
+  "name": "Poussinocolats Magidolce",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte en votre possession est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : mélangez cette carte dans le Deck. Une fois par tour, lorsque la position de combat d'un ou plusieurs monstres \"Magidolce\" que vous contrôlez est changée (et est maintenant face recto), tant que cette carte est face recto sur le Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 monstre sur le Terrain ; changez-le en Position de Défense face recto, et si vous le faites, sauf si c'est un monstre \"Magidolce\", il ne peut pas attaquer, et aussi, ses effets sont annulés.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

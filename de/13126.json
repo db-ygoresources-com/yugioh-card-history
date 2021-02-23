@@ -1,0 +1,15 @@
+{
+  "id": 13126,
+  "type": "monster",
+  "name": "Buntäugiger Lancerdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein Pendelmonster, das du kontrollierst, durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 Monster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Falls eine oder mehr „Buntäugig“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 1 „Buntäugig“-Karte in deiner Hand, Monsterzone oder Pendelzone zerstören.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

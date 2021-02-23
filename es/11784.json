@@ -1,0 +1,18 @@
+{
+  "id": 11784,
+  "type": "monster",
+  "name": "Mago Ojo de Sabiduría",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes descartar esta carta, y después selecciona 1 carta en tu Zona de Péndulo, cuya Escala de Péndulo en ese momento sea diferente a su Escala de Péndulo original; su Escala de Péndulo se convierte en su Escala de Péndulo original hasta el final de este turno.",
+  "pendEffect": "Si tienes una carta \"Mago/a\" o \"Artistamigo\" en tu otra Zona de Péndulo: puedes destruir esta carta y, si lo haces, pon en tu Zona de Péndulo, desde tu Deck, 1 Monstruo de Péndulo \"Mago/a\", excepto \"Mago Ojo de Sabiduría\".",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

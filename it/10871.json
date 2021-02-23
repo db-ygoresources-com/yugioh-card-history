@@ -1,0 +1,15 @@
+{
+  "id": 10871,
+  "type": "monster",
+  "name": "Ghoul Fantasmatrucco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente, a meno che tu controlli un mostro \"Fantasmatrucco\". Una volta per turno: puoi mettere questa carta coperta in Posizione di Difesa. Una volta per turno, durante la tua Main Phase 1: puoi scegliere come bersaglio 1 mostro \"Fantasmatrucco\" che controlli; il suo ATK diventa pari alla somma degli ATK originali di tutti i mostri \"Fantasmatrucco\" attualmente sul Terreno, fino alla fine del prossimo turno del tuo avversario, ma, se lo fa, solo quel mostro può attaccare in questo turno.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

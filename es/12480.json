@@ -1,0 +1,18 @@
+{
+  "id": 12480,
+  "type": "monster",
+  "name": "Dragón Persona de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba en el Campo que fue Invocado de Modo Especial desde el Deck Extra; hasta el final de este turno, éste ve sus efectos negados.",
+  "pendEffect": "Una vez por turno, durante la End Phase, si este turno tu adversario activó una carta o efecto que seleccionó 1 Monstruo de Péndulo \"Ojos Anómalos\" que controlabas (y ninguna otra carta) mientras esta carta estaba en tu Zona de Péndulo: Invoca esta carta de Modo Especial y, si lo haces, pon en tu Zona de Péndulo, desde tu Deck Extra, 1 Monstruo de Péndulo \"Ojos Anómalos\" boca arriba, excepto \"Dragón Persona de Ojos Anómalos\".",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

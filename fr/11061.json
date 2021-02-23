@@ -1,0 +1,15 @@
+{
+  "id": 11061,
+  "type": "monster",
+  "name": "Boîte Rouages Ancients",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est ajoutée depuis le Deck ou Cimetière à votre main, sauf en la piochant : vous pouvez ajouter 1 monstre TERRE de Type Machine avec 500 ATK et/ou DEF (\"Boîte Rouages Ancients\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Boîte Rouages Ancients\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

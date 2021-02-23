@@ -1,0 +1,16 @@
+{
+  "id": 15271,
+  "type": "monster",
+  "name": "Gaïa le Chevalier Magique des Dragons",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 monstre \"Gaïa le Chevalier Implacable\" + 1 monstre Dragon de Niveau 5\nLe nom de cette carte devient \"Gaïa le Dragon Champion\" tant qu'elle est sur le Terrain. Vous ne pouvez utiliser chacun des effets suivants de \"Gaïa le Chevalier Magique des Dragons\" qu'une fois par tour. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 autre carte sur le Terrain ; cette carte perd exactement 2600 ATK, et si elle le fait, détruisez la carte. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez faire gagner 2600 ATK à cette carte.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2100,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

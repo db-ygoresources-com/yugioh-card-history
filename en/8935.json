@@ -1,0 +1,15 @@
+{
+  "id": 8935,
+  "type": "monster",
+  "name": "Damage Eater",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "During your opponent's turn, when your opponent activates a card or effect that would inflict damage, you can remove from play this card in your Graveyard to change that effect so it increases Life Points by the same amount instead.",
+  "level": 2,
+  "atk": 100,
+  "def": 800,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

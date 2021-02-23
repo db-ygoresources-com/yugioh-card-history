@@ -1,0 +1,16 @@
+{
+  "id": 8020,
+  "type": "monster",
+  "name": "Arkaner Lehrling",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte für eine Synchrobeschwörung auf den Friedhof gelegt wird, kannst du deiner Hand 1 „Angriffsmodus aktivieren“ von deinem Deck hinzufügen.",
+  "level": 2,
+  "atk": 1000,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

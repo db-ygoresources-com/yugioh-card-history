@@ -1,0 +1,15 @@
+{
+  "id": 5594,
+  "type": "monster",
+  "name": "Entzauberer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Zauberkarten und ihre Effekte auf dem Spielfeld können nicht aktiviert werden. Annulliere alle Zaubereffekte auf dem Spielfeld.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

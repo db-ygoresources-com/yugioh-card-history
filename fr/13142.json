@@ -1,0 +1,18 @@
+{
+  "id": 13142,
+  "type": "monster",
+  "name": "Kagen, Ninja du Crépuscule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Sacrifier cette carte, puis ciblez 1 monstre \"Ninja\" que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 800 ATK.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Ninja\" exclus). Cet effet ne peut pas être annulé. Une fois par tour, lorsque votre monstre \"Ninja\" déclare une attaque : jusqu'à la fin de la Damage Step (même si cette carte quitte le Terrain), vous pouvez faire gagner 1000 ATK au monstre.",
+  "pendScale": 10,
+  "level": 1,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

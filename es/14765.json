@@ -1,0 +1,16 @@
+{
+  "id": 14765,
+  "type": "monster",
+  "name": "Dragoncella Amadellaves",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo \"Dragoncella\" + 1 monstruo Dragón\nUna vez por turno, durante la Standby Phase: puedes seleccionar otro monstruo \"Dragoncella\" que controles; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo \"Dragoncella\" cuyo Nivel sea 1 mayor o 1 menor que el del monstruo seleccionado, en Posición de Defensa. Cuando uno o más monstruos Dragón boca arriba que controles vuelvan a tu mano (excepto durante el Damage Step): puedes seleccionar 1 monstruo que controle tu adversario; destrúyelo.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6384,
+  "type": "monster",
+  "name": "Patroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Prenez et regardez 1 carte Posée sur le Terrain de votre adversaire, puis renvoyez-la dans sa position d'origine. Vous ne pouvez activer cet effet qu'une fois par tour, durant votre Main Phase.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

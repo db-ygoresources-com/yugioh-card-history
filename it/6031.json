@@ -1,0 +1,15 @@
+{
+  "id": 6031,
+  "type": "monster",
+  "name": "Scommettitore della Sabbia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Lancia una moneta 3 volte. Se il risultato è 3 volte testa, distruggi tutti i mostri sul Terreno del tuo avversario. Se il risultato è 3 volte croce, distruggi tutti i mostri sul tuo Terreno. Questo effetto può essere usato solo una volta per turno durante la tua Main Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 1600,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

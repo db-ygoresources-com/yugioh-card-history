@@ -1,0 +1,19 @@
+{
+  "id": 14343,
+  "type": "monster",
+  "name": "Drago Velenemico Affamato Dose Letale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "3 Mostri Pendulum OSCURITÀ\nOgni volta che una o più carte vengono mandate dal Terreno al Cimitero, metti 1 Segnalino Velenemico su questa carta per ogni carta mandata. Tutti i mostri sul Terreno, eccetto i mostri OSCURITÀ Drago, perdono 200 ATK per ogni Segnalino Velenemico sul Terreno. Una volta per turno, durante la tua Main Phase: puoi annullare gli effetti di tutti i mostri scoperti attualmente controllati dal tuo avversario, fino alla fine di questo turno. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno, durante la tua Main Phase: puoi mettere 1 Segnalino Velenemico su ogni mostro scoperto controllato dal tuo avversario. Tutti i mostri sul Terreno, eccetto i mostri OSCURITÀ Drago, perdono 200 ATK per ogni Segnalino Velenemico sul Terreno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}

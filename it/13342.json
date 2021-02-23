@@ -1,0 +1,19 @@
+{
+  "id": 13342,
+  "type": "monster",
+  "name": "Drago Sovraesplosione",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri \"Mizzile\"\nPuoi scegliere come bersaglio 1 altro Mostro Link che controlli; Evoca Specialmente 1 mostro \"Mizzile\" dalla tua mano in una tua zona puntata da quel bersaglio, ma il mostro Evocato da questo effetto non può essere utilizzato come Materiale Link, inoltre distruggilo durante la End Phase. Puoi utilizzare questo effetto di \"Drago Sovraesplosione\" una sola volta per turno. Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi scegliere come bersaglio 1 mostro \"Mizzile\" nel tuo Cimitero; aggiungilo alla tua mano.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Drago",
+    "Link",
+    "Effetto"
+  ]
+}

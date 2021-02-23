@@ -1,0 +1,15 @@
+{
+  "id": 12596,
+  "type": "monster",
+  "name": "Raubpflanze Fliegenfalle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; lege 1 Raubtier-Zählmarke darauf und falls es Stufe 2 oder höher ist, wird es zu Stufe 1, solange es eine Raubtier-Zählmarke hat. Am Beginn des Damage Steps, wenn diese Karte gegen ein Monster mit einer gleichen oder niedrigeren Stufe kämpft: Du kannst das Monster zerstören, dann erhöhe die Stufe dieser Karte um die Grund-Stufe des zerstörten Monsters.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

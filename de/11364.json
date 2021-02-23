@@ -1,0 +1,16 @@
+{
+  "id": 11364,
+  "type": "monster",
+  "name": "Jiaotu, Finsternis des Yang Zing",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 „Yang Zing“-Monster als Spezialbeschwörung von deinem Deck in die Angriffsposition beschwören, außer „Jiaotu, Finsternis des Yang Zing“. Falls du keine anderen Monster kontrollierst: Du kannst 2 „Yang Zing“-Karten von deiner Hand auf den Friedhof legen; beschwöre 1 „Yang Zing“-Monster mit 0 ATK und 1 „Yang Zing“-Monster mit 0 DEF als Spezialbeschwörung von deinem Deck, aber verbanne sie während der End Phase. Du kannst nur 1 Effekt von „Jiaotu, Finsternis des Yang Zing“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Wyrm",
+    "Empfänger",
+    "Effekt"
+  ]
+}

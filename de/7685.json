@@ -1,0 +1,16 @@
+{
+  "id": 7685,
+  "type": "monster",
+  "name": "Geist des Wassers",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Dieser uralte Geist spukt in den eiszeitlichen Monolithen der Antarktis. Er hat die Kraft, in die Poren jedes Wesens zu sickern und es bis auf die Knochen durchzufrieren.",
+  "level": 1,
+  "atk": 400,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Normal"
+  ]
+}

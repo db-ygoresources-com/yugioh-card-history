@@ -1,0 +1,16 @@
+{
+  "id": 11362,
+  "type": "monster",
+  "name": "Shaddoll Hound",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: You can target 1 \"Shaddoll\" card in your GY; add it to your hand.\nIf this card is sent to the GY by a card effect: You can target 1 monster on the field; change its battle position. (Flip monsters' effects are not activated at this time, except \"Shaddoll\" monsters'.) You can only use 1 \"Shaddoll Hound\" effect per turn, and only once that turn.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

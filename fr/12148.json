@@ -1,0 +1,18 @@
+{
+  "id": 12148,
+  "type": "monster",
+  "name": "Robobureau 008",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte gagne 500 ATK pour chaque carte \"Robobureau\" dans votre Cimetière. Votre adversaire ne peut pas cibler de cartes \"Robobureau\" face recto (celle-ci exclu) avec des effets de carte. Cette carte peut faire max. 2 attaques sur monstres durant chaque Battle Phase.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Robobureau\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

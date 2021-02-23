@@ -1,0 +1,18 @@
+{
+  "id": 11937,
+  "type": "monster",
+  "name": "Oafdragon Magician",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "If this card is Normal or Special Summoned: You can target 1 \"Magician\" Pendulum Monster or \"Odd-Eyes\" monster in your Graveyard, except \"Oafdragon Magician\"; add it to your hand. You can only use this effect of \"Oafdragon Magician\" once per turn.",
+  "pendEffect": "If you have a \"Magician\" card in your other Pendulum Zone: You can add 1 face-up \"Magician\" or \"Odd-Eyes\" Pendulum Monster from your Extra Deck to your hand, except \"Oafdragon Magician\". You can only use this effect of \"Oafdragon Magician\" once per turn.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

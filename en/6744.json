@@ -1,0 +1,16 @@
+{
+  "id": 6744,
+  "type": "monster",
+  "name": "Ambulance Rescueroid",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "\"Rescueroid\" + \"Ambulanceroid\"\nThis monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effect"
+  ]
+}

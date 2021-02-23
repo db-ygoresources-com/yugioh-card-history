@@ -1,0 +1,16 @@
+{
+  "id": 13208,
+  "type": "monster",
+  "name": "Revenschrecken Schlächter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit einem beliebigen „Venschrecken“-Ritualzauber als Ritualbeschwörung beschwören. Einmal pro Kampf, falls diese Karte gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst 1 Zombie-Monster von deinem Friedhof verbannen; diese Karte erhält 300 ATK. Falls diese als Ritualbeschwörung beschworene Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Ritualzauber von deinem Deck hinzufügen und falls du dies tust, lege 1 „Venschrecken“-Monster von deinem Deck auf den Friedhof. Du kannst diesen Effekt von „Revenschrecken Schlächter“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2400,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Ritual",
+    "Effekt"
+  ]
+}

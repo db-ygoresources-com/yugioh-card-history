@@ -1,0 +1,16 @@
+{
+  "id": 11145,
+  "type": "monster",
+  "name": "Invocador de la Tortuga Verde",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "VOLTEO: Selecciona 1 monstruo que controle tu adversario; destrúyelo.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

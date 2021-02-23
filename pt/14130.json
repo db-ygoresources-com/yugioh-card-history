@@ -1,0 +1,19 @@
+{
+  "id": 14130,
+  "type": "monster",
+  "name": "Dragão-Guarda Agardor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros Dragão\nVocê não pode Invocar monstros por Invocação-Especial, exceto monstros Dragão. Durante sua Fase Principal: você pode Invocar por Invocação-Especial 1 monstro Dragão do seu Deck Adicional, em uma Zona de Monstros Adicional ou Zona de Monstros Principal onde você possa Invocar, para a qual 2 ou mais Monstros Link apontarem. Você só pode usar este efeito de \"Dragão-Guarda Agardor\" uma vez por turno. Você só pode Invocar um ou mais \"Dragão-Guarda Agardor\" por Invocação-Especial uma vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Dragão",
+    "Link",
+    "Efeito"
+  ]
+}

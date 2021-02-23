@@ -1,0 +1,15 @@
+{
+  "id": 10057,
+  "type": "monster",
+  "name": "Gearfried Rayoluz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) mientras tengas 5 o más monstruos de LUZ con nombres diferentes en tu Cementerio, y no puede ser Invocado de Modo Especial de otra forma. Una vez por turno, durante el turno de cualquier jugador, cuando es activada una Carta Mágica/de Trampa: puedes desterrar 1 monstruo de Tipo Guerrero en tu Cementerio; niega la activación y, si lo haces, destruye la carta. Todos los monstruos boca arriba que controles deben ser de Tipo Guerrero para activar y resolver este efecto.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

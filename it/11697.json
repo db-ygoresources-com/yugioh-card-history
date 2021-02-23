@@ -1,0 +1,18 @@
+{
+  "id": 11697,
+  "type": "monster",
+  "name": "Bambolaombra Zefraniaga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Pendulum o mandata al Cimitero: puoi scegliere come bersaglio 1 carta nella Zona Pendulum di qualsiasi giocatore; falla ritornare nella mano. Devi avere una carta \"Zefra\" nella tua Zona Pendulum per attivare e risolvere questo effetto. Puoi utilizzare questo effetto di \"Bambolaombra Zefraniaga\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Bambolaombra\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

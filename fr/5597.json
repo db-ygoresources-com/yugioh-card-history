@@ -1,0 +1,15 @@
+{
+  "id": 5597,
+  "type": "monster",
+  "name": "Jarre Dimensionnelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Chaque joueur peut retirer du jeu jusqu'à 3 monstres du Cimetière de son adversaire.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

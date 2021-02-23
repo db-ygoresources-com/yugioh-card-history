@@ -1,0 +1,18 @@
+{
+  "id": 12738,
+  "type": "monster",
+  "name": "Performapal Dag Daggerman",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "During your Main Phase, if this card was Pendulum Summoned this turn: You can send 1 \"Performapal\" monster from your hand to the Graveyard; draw 1 card. You can only use this effect of \"Performapal Dag Daggerman\" once per turn.",
+  "pendEffect": "During your Main Phase, if this card was activated this turn: You can target 1 \"Performapal\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Performapal Dag Daggerman\" once per turn.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}

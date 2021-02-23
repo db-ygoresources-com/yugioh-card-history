@@ -1,0 +1,15 @@
+{
+  "id": 14657,
+  "type": "monster",
+  "name": "Bayonador, el Cañón Funesto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste pierde 1000 ATK por cada monstruo que controle tu adversario.",
+  "level": 1,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

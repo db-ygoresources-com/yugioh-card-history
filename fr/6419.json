@@ -1,0 +1,15 @@
+{
+  "id": 6419,
+  "type": "monster",
+  "name": "B.E.S. Cœur Cristallin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Mettez 3 compteurs sur cette carte lorsque vous en faites l'Invocation Normale. Cette carte ne peut pas être détruite à l'issue d'un combat. Si cette carte combat un monstre, retirez 1 compteur de cette carte à la fin de la Damage Step. Si cette carte combat sans compteur, détruisez cette carte à la fin de la Damage Step. Une fois par tour, durant votre Main Phase, vous pouvez changer 1 monstre en Position d'Attaque face recto sur le Terrain de votre adversaire en Position de Défense face recto.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

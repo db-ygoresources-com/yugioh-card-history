@@ -1,0 +1,16 @@
+{
+  "id": 8866,
+  "type": "monster",
+  "name": "HÉROE Elemental Caballero Neos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"HÉROE Elemental Neos\" + 1 monstruo Guerrero\nDebe ser Invocada por Fusión. Gana ATK igual a la mitad del ATK original del Material de Fusión Guerrero utilizado en su Invocación por Fusión, excepto \"HÉROE Elemental Neos\". Puede hacer un segundo ataque durante cada Battle Phase. Tu adversario no recibe daño de batalla de ataques que involucren a esta carta.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

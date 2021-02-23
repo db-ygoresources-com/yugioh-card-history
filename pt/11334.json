@@ -1,0 +1,18 @@
+{
+  "id": 11334,
+  "type": "monster",
+  "name": "Camarartista Trampolynx",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode escolher 1 card na Zona de Pêndulo de qualquer duelista; devolva-o para a mão.",
+  "pendEffect": "Quando você Invocar um ou mais monstros por Invocação-Pêndulo: você pode escolher 1 card na Zona de Pêndulo de qualquer duelista; devolva-o para a mão. Você só pode usar este efeito de \"Camarartista Trampolynx\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

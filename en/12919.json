@@ -1,0 +1,18 @@
+{
+  "id": 12919,
+  "type": "monster",
+  "name": "Performapal Coin Dragon",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "Other Dragon-Type monsters you control gain 500 ATK, also they cannot be destroyed by card effects.",
+  "pendEffect": "Once per turn: You can target 1 Dragon-Type monster you control that was Special Summoned from the Extra Deck; this turn, if that monster you control battles an opponent's monster, banish that opponent's monster after damage calculation (even if this card leaves the field).",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}

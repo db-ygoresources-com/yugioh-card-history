@@ -1,0 +1,15 @@
+{
+  "id": 8081,
+  "type": "monster",
+  "name": "Rai-Jin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Alle LICHT Monster, die du kontrollierst, erhalten 100 ATK für jedes LICHT Monster in deinem Friedhof. Während deiner End Phase, zerstöre 1 LICHT Monster, das du kontrollierst. Es kann sich nur 1 offener „Rai-Jin“ auf dem Spielfeld befinden.",
+  "level": 4,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

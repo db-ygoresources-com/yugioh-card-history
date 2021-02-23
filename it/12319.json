@@ -1,0 +1,16 @@
+{
+  "id": 12319,
+  "type": "monster",
+  "name": "Pantera Danzante della Lucelunare",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Gatto Danzante della Lucelunare\" + 1 mostro \"Lucelunare\"\nDeve prima essere Evocato tramite Fusione con i Materiali da Fusione sopra indicati. Non può essere distrutto dagli effetti delle carte del tuo avversario. Una volta per turno, durante la tua Main Phase 1: puoi attivare questo effetto; per il resto di questo turno, la prima volta che ogni mostro controllato dal tuo avversario sta per essere distrutto in battaglia, non viene distrutto, inoltre questa carta può attaccare tutti i mostri controllati dal tuo avversario, due volte ciascuno, in questo turno. Se questa carta distrugge un mostro dell'avversario in battaglia: questa carta guadagna 200 ATK fino alla fine della Battle Phase.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Guerriero-Bestia",
+    "Fusione",
+    "Effetto"
+  ]
+}

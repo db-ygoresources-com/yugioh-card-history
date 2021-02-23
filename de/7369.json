@@ -1,0 +1,16 @@
+{
+  "id": 7369,
+  "type": "monster",
+  "name": "Zwillingslanzenträger",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte offen auf dem Spielfeld liegt, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Seeschlange",
+    "Zwilling",
+    "Effekt"
+  ]
+}

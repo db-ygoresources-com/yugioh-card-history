@@ -1,0 +1,16 @@
+{
+  "id": 12836,
+  "type": "monster",
+  "name": "Dragon Fusion Venin Avide",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Prédaplante\" + 1 monstre TÉNÈBRES dont le Niveau d'origine est min. 8\nDoit d'abord être Invoquée par Fusion. Une fois par tour : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, changez l'ATK de la cible à 0, et aussi, la cible a ses effets annulés. Si cette carte est détruite et envoyée au Cimetière : détruisez autant de monstres sur le Terrain que possible, puis vous pouvez bannir 1 monstre TÉNÈBRES de min. Niveau 8 depuis votre Cimetière et Invoquer Spécialement cette carte depuis le Cimetière.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

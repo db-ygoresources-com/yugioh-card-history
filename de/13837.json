@@ -1,0 +1,21 @@
+{
+  "id": 13837,
+  "type": "monster",
+  "name": "Kalliberwach-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3+ Effektmonster\nKann nicht durch Karteneffekte zerstört werden. Einmal pro Spielzug: Du kannst 1 Karte von deiner Zauber- & Fallenzone auf den Friedhof legen; beschwöre 1 Monster, das in diesem Spielzug zerstört und auf einen beliebigen Friedhof gelegt wurde, als Spezialbeschwörung von dort auf deine Spielfeldseite, aber annulliere seine Effekte. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Monster auf dem Spielfeld wählen; ändere es in die offene Verteidigungsposition. Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "6",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

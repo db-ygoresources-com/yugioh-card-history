@@ -1,0 +1,18 @@
+{
+  "id": 11355,
+  "type": "monster",
+  "name": "Elica Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi Evocare Normalmente questa carta senza offrire Tributi. Se questa carta viene Evocata Normalmente senza offrire Tributi, o viene Evocata Specialmente, il suo Livello diventa 4 e il suo ATK originale diventa 1800. Se questa carta viene Evocata Normalmente/Posizionata, essa è immune agli effetti attivati di qualsiasi mostro il cui Livello/Rango originale è inferiore al Livello attuale di questa carta. Se questa carta viene offerta come Tributo: puoi scegliere come bersaglio 1 Carta Magia/Trappola sul Terreno; distruggila.",
+  "pendEffect": "Non puoi Evocare Specialmente mostri, eccetto mostri \"Qli\". Questo effetto non può essere annullato. Tutti i mostri controllati dal tuo avversario perdono 300 ATK.",
+  "pendScale": 9,
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

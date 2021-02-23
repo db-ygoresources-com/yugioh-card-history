@@ -1,0 +1,18 @@
+{
+  "id": 12919,
+  "type": "monster",
+  "name": "Künstlerkumpel Münzdrache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Andere Monster vom Typ Drache, die du kontrollierst, erhalten 500 ATK, zusätzlich können sie nicht durch Karteneffekte zerstört werden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 Monster vom Typ Drache wählen, das du kontrollierst und das als Spezialbeschwörung vom Extra Deck beschworen wurde; falls das Monster, das du kontrollierst, in diesem Spielzug gegen ein Monster deines Gegners kämpft, verbanne das Monster deines Gegners nach der Schadensberechnung (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

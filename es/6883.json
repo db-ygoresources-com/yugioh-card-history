@@ -1,0 +1,15 @@
+{
+  "id": 6883,
+  "type": "monster",
+  "name": "Estatua-Barrera del Torrente",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Ningún jugador puede Invocar monstruos de Modo Especial, excepto monstruos de AGUA.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

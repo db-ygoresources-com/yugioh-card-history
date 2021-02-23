@@ -1,0 +1,15 @@
+{
+  "id": 5504,
+  "type": "monster",
+  "name": "Tête de Canon X",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Monstre doté d'un puissant canon, il utilise la technique d'intégration pour mener ses combats. Il attaque la plupart du temps en s'associant ou se dissociant d'autres monstres.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Normal"
+  ]
+}

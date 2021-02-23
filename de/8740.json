@@ -1,0 +1,15 @@
+{
+  "id": 8740,
+  "type": "monster",
+  "name": "Stygianische Straßenpatrouille",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte ein Monster durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner Schaden in Höhe der Grund-Stufe des Monsters im Friedhof x 100 zu. Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 Unterweltler-Monster mit 2000 oder weniger ATK als Spezialbeschwörung von deiner Hand.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

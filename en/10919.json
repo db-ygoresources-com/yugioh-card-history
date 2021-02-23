@@ -1,0 +1,15 @@
+{
+  "id": 10919,
+  "type": "monster",
+  "name": "Gravekeeper's Shaman",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Gains 200 DEF for each \"Gravekeeper's\" monster in your GY. Negate all monster effects that activate in the GY, except \"Gravekeeper's\" monsters. While \"Necrovalley\" is on the field, your opponent cannot activate Field Spell Cards, also Field Spell Cards cannot be destroyed by your opponent's card effects.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

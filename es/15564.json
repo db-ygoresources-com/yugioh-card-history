@@ -1,0 +1,15 @@
+{
+  "id": 15564,
+  "type": "monster",
+  "name": "Panda Golpeante",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si 2 o más monstruos Guerrero-Bestia están en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial \"Panda Golpeante\" una vez por turno de esta forma. Si esta carta es mandada del Campo a tu Cementerio: puedes seleccionar 1 monstruo boca arriba que controles; éste gana 500 ATK. Sólo puedes usar este efecto de \"Panda Golpeante\" una vez por turno.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

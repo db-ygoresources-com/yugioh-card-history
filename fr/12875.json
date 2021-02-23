@@ -1,0 +1,16 @@
+{
+  "id": 12875,
+  "type": "monster",
+  "name": "Voltellurique Subterreur Béhémoth",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez cibler 1 monstre Posé contrôlé par votre adversaire ; prenez son contrôle jusqu'à votre prochaine End Phase. Vous ne pouvez utiliser cet effet de \"Voltellurique Subterreur Béhémoth\" qu'une fois par tour.\nLorsqu'un monstre face recto que vous contrôlez est retourné face verso, si vous ne contrôlez aucun monstre face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense. Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso.",
+  "level": 9,
+  "atk": 1900,
+  "def": 3000,
+  "properties": [
+    "Tonnerre",
+    "Flip",
+    "Effet"
+  ]
+}

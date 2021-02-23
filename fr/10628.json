@@ -1,0 +1,15 @@
+{
+  "id": 10628,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Harrliard",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, lorsqu'un ou plusieurs monstres que vous contrôlez sont Sacrifiés pour activer une carte ou un effet (cette carte exclue) : Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Type Machine/VENT/Niveau 3/ATK 0/DEF 0). Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Une fois par tour : vous pouvez Sacrifier 1 Jeton ; Invoquez Spécialement 1 monstre \"Bête Fantôme Méca\" depuis votre main.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

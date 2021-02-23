@@ -1,0 +1,16 @@
+{
+  "id": 10885,
+  "type": "monster",
+  "name": "Minerva, Fanciulla Fedele della Luce",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi aggiungere dal tuo Deck alla tua mano 1 mostro LUCE di Tipo Drago con Livello pari o inferiore al numero totale di mostri \"Fedele della Luce\" con nomi diversi nel tuo Cimitero. Se questa carta viene mandata dalla mano o Deck al Cimitero: manda la prima carta del tuo Deck al Cimitero. Durante ogni tua End Phase: manda le prime 2 carte del tuo Deck al Cimitero.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Incantatore",
+    "Tuner",
+    "Effetto"
+  ]
+}

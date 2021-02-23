@@ -1,0 +1,16 @@
+{
+  "id": 10263,
+  "type": "monster",
+  "name": "Vaquero Gagaga",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos de Nivel 4\nUna vez por turno: puedes desacoplar de esta carta 1 Material Xyz; aplica este efecto, dependiendo de la posición de batalla de esta carta en este momento.\n●Posición de Ataque: Si esta carta ataca a un monstruo de tu adversario este turno, gana 1000 ATK y además el monstruo de tu adversario pierde 500 ATK, sólo durante el Damage Step.\n●Posición de Defensa: Inflige 800 puntos de daño a tu adversario.",
+  "rank": 4,
+  "atk": 1500,
+  "def": 2400,
+  "properties": [
+    "Guerrero",
+    "Xyz",
+    "Efecto"
+  ]
+}

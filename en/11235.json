@@ -1,0 +1,16 @@
+{
+  "id": 11235,
+  "type": "monster",
+  "name": "Shaddoll Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: You can target 1 card your opponent controls; return it to the hand.\nIf this card is sent to the GY by a card effect: You can target 1 Spell/Trap on the field; destroy it. You can only use 1 \"Shaddoll Dragon\" effect per turn, and only once that turn.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

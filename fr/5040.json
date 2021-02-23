@@ -1,0 +1,15 @@
+{
+  "id": 5040,
+  "type": "monster",
+  "name": "Lépidoptère Électromagnétique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Ciblez 1 monstre de Type Machine contrôlé par votre adversaire ; jusqu'à votre prochaine End Phase, prenez le contrôle de la cible.\nSi cette carte est détruite au combat : le monstre qui l'a détruite perd 500 ATK/DEF.",
+  "level": 3,
+  "atk": 200,
+  "def": 1400,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

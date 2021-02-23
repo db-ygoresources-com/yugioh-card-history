@@ -1,0 +1,18 @@
+{
+  "id": 12931,
+  "type": "monster",
+  "name": "Rey Supremo Puerta Cero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar otra carta boca arriba que controles; destrúyela, así como a esta carta y, si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Fusión o Sincronía de Tipo Dragón, pero su ATK y DEF se convierten en 0, ve sus efectos negados, y además no puede ser usado como Material para una Invocación Xyz o por Sincronía. Si esta carta en la Zona de Monstruos es destruida en batalla o por efecto de una carta: puedes poner esta carta en tu Zona del Péndulo.",
+  "pendEffect": "Si controlas \"Rey Supremo Z-ARC\", no recibes daño. Una vez por turno, si tienes a \"Rey Supremo Puerta Infinito\" en tu otra Zona del Péndulo: puedes destruir ambas cartas en tus Zonas del Péndulo y, si lo haces, añade a tu mano 1 Carta Mágica \"Polimerización\" o 1 Carta Mágica \"Fusión\" en tu Deck.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

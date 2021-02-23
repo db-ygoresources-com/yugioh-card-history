@@ -1,0 +1,15 @@
+{
+  "id": 15393,
+  "type": "monster",
+  "name": "Prisetroll Électroménageur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous contrôlez un monstre \"Électroménageur\" : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si un autre \"Prisetroll Électroménageur\" est Invoqué Spécialement sur votre Terrain tant que vous contrôlez ce monstre (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 \"Prisetroll Électroménageur\" depuis votre Deck. Vous ne pouvez utiliser chaque effet de \"Prisetroll Électroménageur\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

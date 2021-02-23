@@ -1,0 +1,15 @@
+{
+  "id": 4780,
+  "type": "monster",
+  "name": "Cañón Satélite",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta no puede ser destruida en batalla con un monstruo de Nivel 7 o menor. Durante cada una de tus End Phases: esta carta gana 1000 ATK. Si esta carta ataca, este incremento en el ATK vuelve a 0, después del cálculo de daño.",
+  "level": 5,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

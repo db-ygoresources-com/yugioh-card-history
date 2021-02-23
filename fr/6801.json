@@ -1,0 +1,15 @@
+{
+  "id": 6801,
+  "type": "monster",
+  "name": "Alien Mars",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Les effets des Monstres à Effet avec un (ou plusieurs) Compteur(s)-A sont annulés, excepté \"Alien Mars\".",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

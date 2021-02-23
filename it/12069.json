@@ -1,0 +1,16 @@
+{
+  "id": 12069,
+  "type": "monster",
+  "name": "PSI-Strutturattrezzatura Beta",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di una carta, e non può essere Evocato Specialmente in altri modi. Quando un mostro dell'avversario dichiara un attacco mentre tu non controlli nessun mostro: puoi Evocare Specialmente sia questa carta dalla tua mano che 1 \"PSI-Struttura Pilota\" dalla tua mano, Deck o Cimitero e, se lo fai, distruggi il mostro attaccante, poi termina la Battle Phase. Durante la End Phase, bandisci i mostri scoperti Evocati Specialmente da questo effetto.",
+  "level": 1,
+  "atk": 700,
+  "def": 0,
+  "properties": [
+    "Psichico",
+    "Tuner",
+    "Effetto"
+  ]
+}

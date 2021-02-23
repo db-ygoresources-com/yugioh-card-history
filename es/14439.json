@@ -1,0 +1,18 @@
+{
+  "id": 14439,
+  "type": "monster",
+  "name": "Endimión, el Poderoso Maestro de Magia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, cuando una Carta Mágica/de Trampa o efecto es activado (Efecto Rápido): puedes devolver a la mano 1 carta que controles con un Contador Mágico y, si lo haces, niega la activación, y, si haces eso, destrúyela. Después, puedes poner en esta carta la misma cantidad de Contadores Mágicos que tenía la carta devuelta. Mientras esta carta tenga un Contador Mágico, tu adversario no puede seleccionarla con efectos de cartas, y además no puede ser destruida por los efectos de cartas de tu adversario. Cuando esta carta con un Contador Mágico es destruida en batalla: puedes añadir a tu mano 1 Mágica Normal en tu Deck.",
+  "pendEffect": "Puedes retirar 6 Contadores Mágicos en tu Campo; Invoca esta carta de Modo Especial desde la Zona de Péndulo, y después cuenta el número de cartas que controlas que puedan tener un Contador Mágico, destruye hasta esa cantidad de cartas en el Campo, y, si lo haces, pon en esta carta tantos Contadores Mágicos como cartas destruidas. Sólo puedes usar este efecto de \"Endimión, el Poderoso Maestro de Magia\" una vez por turno.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2800,
+  "def": 1700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

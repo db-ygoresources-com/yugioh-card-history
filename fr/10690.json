@@ -1,0 +1,15 @@
+{
+  "id": 10690,
+  "type": "monster",
+  "name": "Monolithe Solaire Chronomal",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre \"Chronomal\" que vous contrôlez ; son Niveau devient 6. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Chronomal\" exclus) pendant le tour où vous activez cet effet.",
+  "level": 6,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

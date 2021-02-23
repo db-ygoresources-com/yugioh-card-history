@@ -1,0 +1,15 @@
+{
+  "id": 5700,
+  "type": "monster",
+  "name": "Berserker-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss mit „Pakt mit dem Dunklen Herrscher“ als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Diese Karte kann alle Monster, die dein Gegner kontrolliert, einmal angreifen. Während jeder deiner End Phasen verliert diese Karte 500 ATK.",
+  "level": 8,
+  "atk": 3500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

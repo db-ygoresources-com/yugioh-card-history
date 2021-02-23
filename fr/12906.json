@@ -1,0 +1,18 @@
+{
+  "id": 12906,
+  "type": "monster",
+  "name": "Sorcier Astrographe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si une ou plusieurs cartes que vous contrôlez sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez choisir 1 monstre dans le Cimetière, Extra Deck ou qui est banni, et qui a été détruit ce tour, et ajoutez 1 monstre du même nom depuis votre Deck à votre main. Vous pouvez bannir cette carte que vous contrôlez, plus 1 monstre \"Dragon Pendule\", 1 monstre \"Dragon Xyz\", 1 monstre \"Dragon Synchro\" et 1 monstre \"Dragon Fusion\" depuis votre main, Terrain et/ou Cimetière ; Invoquez Spécialement 1 \"Z-ARC, Roi Suprême\" depuis votre Extra Deck. (Ceci est traité comme une Invocation Fusion.)",
+  "pendEffect": "Durant votre Main Phase : vous pouvez détruire cette carte, et si vous le faites, prenez 1 \"Magicien Observateur des Étoiles\" depuis votre main ou Deck, et soit placez-le dans votre Zone Pendule soit Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"Sorcier Astrographe\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

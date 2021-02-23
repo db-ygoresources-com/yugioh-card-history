@@ -1,0 +1,16 @@
+{
+  "id": 14915,
+  "type": "monster",
+  "name": "Satellitenkrieger",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Synchromonster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst Karten, die dein Gegner kontrolliert, bis zur Anzahl der Synchromonster in deinem Friedhof wählen; zerstöre sie und falls du dies tust, erhält diese Karte für jede zerstörte Karte 1000 ATK. Falls diese als Synchrobeschwörung beschworene Karte zerstört wird: Du kannst bis zu 3 „Krieger“-, „Synchron“- und/oder „Sternenstaub“-Synchromonster der Stufe 8 oder niedriger mit unterschiedlichen Namen als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Satellitenkrieger“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

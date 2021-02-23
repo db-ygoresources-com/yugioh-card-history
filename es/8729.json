@@ -1,0 +1,16 @@
+{
+  "id": 8729,
+  "type": "monster",
+  "name": "Aliado Genex Trifuerza",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante \"Genex\" + 1 o más monstruos que no sean Cantantes\nLos efectos de esta carta dependen de los Atributos de sus Monstruos Material de Sincronía que no sean Cantantes.\n●TIERRA: Si esta carta ataca, tu adversario no puede activar Cartas Mágicas/de Trampa hasta el final del Damage Step.\n●FUEGO: Si esta carta destruye en batalla a un monstruo, inflige daño a tu adversario igual al ATK del monstruo destruido.\n●LUZ: Una vez por turno, puedes seleccionar 1 monstruo de LUZ en tu Cementerio e Invocarlo de Modo Especial en Posición de Defensa boca abajo.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

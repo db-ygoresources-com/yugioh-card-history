@@ -1,0 +1,18 @@
+{
+  "id": 12402,
+  "type": "monster",
+  "name": "Artistamico Fiondatore Extra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi bandire 1 carta dal tuo Extra Deck, poi scegliere come bersaglio 1 carta in una Zona Pendulum; distruggila e, se lo fai, infliggi 300 danni al tuo avversario.",
+  "pendEffect": "Durante la tua Main Phase: puoi infliggere 300 danni al tuo avversario per ogni Mostro Pendulum scoperto nel tuo Extra Deck. Puoi utilizzare questo effetto di \"Artistamico Fiondatore Extra\" una sola volta per turno. Non puoi Evocare Pendulum nel turno in cui attivi questo effetto.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 800,
+  "def": 1100,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

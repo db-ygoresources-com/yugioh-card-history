@@ -1,0 +1,15 @@
+{
+  "id": 5974,
+  "type": "monster",
+  "name": "Dragão da Chama Solar",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Este card não pode ser atacado se existir outro monstro do Tipo Piro no seu Campo. Este card inflige 500 pontos de dano aos Life Points do seu adversário durante a End Phase do seu turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Piro",
+    "Efeito"
+  ]
+}

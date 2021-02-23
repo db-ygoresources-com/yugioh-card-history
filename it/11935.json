@@ -1,0 +1,18 @@
+{
+  "id": 11935,
+  "type": "monster",
+  "name": "Mago Dragopozzo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Questo mago molto dotato può risvegliare l'energia immagazzinata nelle profondità della terra, note come Pozzi del Drago. Il suo atteggiamento impassibile gli procura pochi amici, e spesso si piega ai desideri del suo pupillo.",
+  "pendEffect": "Una volta per turno, se hai una carta \"Mago\" nella tua altra Zona Pendulum: puoi scartare 1 Mostro Pendulum, poi scegliere come bersaglio 1 Carta Magia/Trappola sul Terreno; distruggila.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 900,
+  "def": 2700,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Normale"
+  ]
+}

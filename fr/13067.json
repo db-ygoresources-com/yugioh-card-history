@@ -1,0 +1,15 @@
+{
+  "id": 13067,
+  "type": "monster",
+  "name": "Dragon du Châtiment",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en possédant min. 4 monstres \"Seigneur Lumière\" bannis de noms différents. Une fois par tour (Effet Rapide) : vous pouvez payer 1000 LP ; mélangez toutes les cartes dans les Cimetières et toutes les cartes bannies face recto (monstres \"Seigneur Lumière\" exclus) dans les Decks. Une fois par tour, si un effet de votre monstre \"Seigneur Lumière\" est activé : envoyez les 4 cartes du dessus de votre Deck au Cimetière.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

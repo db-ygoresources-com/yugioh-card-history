@@ -1,0 +1,16 @@
+{
+  "id": 14079,
+  "type": "monster",
+  "name": "Cyberse-Synchron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster der Stufe 4 oder niedriger wählen, das du kontrollierst; erhöhe seine Stufe bis zum Ende dieses Spielzugs um seine Grund-Stufe. Falls dein oder deine Monster in der Extra-Monsterzone durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst diesen Effekt von „Cyberse-Synchron“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Cyberse",
+    "Empfänger",
+    "Effekt"
+  ]
+}

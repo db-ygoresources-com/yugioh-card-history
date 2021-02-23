@@ -1,0 +1,16 @@
+{
+  "id": 8650,
+  "type": "monster",
+  "name": "Garlandolf, Rey de la Destrucción",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta sólo puede ser Invocada por Ritual con la Carta Mágica de Ritual \"Ritual de la Destrucción\". Cuando esta carta es Invocada por Ritual, destruye todos los demás monstruos boca arriba en el Campo que tengan DEF menor o igual al ATK de esta carta. Esta carta gana 100 ATK por cada monstruo destruido por este efecto.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1400,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Efecto"
+  ]
+}

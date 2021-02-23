@@ -1,0 +1,19 @@
+{
+  "id": 12910,
+  "type": "monster",
+  "name": "Mago de Asas Brancas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Dragão Sincro\".)\nSe este card Invocado por Invocação-Pêndulo for usado para uma Invocação-Sincro, bana-o.",
+  "pendEffect": "Uma vez por turno, quando um card ou efeito ativado resolver que escolheu como alvo um monstro de TREVAS do Tipo Mago que você controla, negue o efeito e, depois, destrua este card.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

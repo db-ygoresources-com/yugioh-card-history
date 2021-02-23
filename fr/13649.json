@@ -1,0 +1,15 @@
+{
+  "id": 13649,
+  "type": "monster",
+  "name": "Baron Rouge Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez payer 1000 LP, puis ciblez 1 monstre contrôlé par votre adversaire et 1 autre monstre \"Vampire\" que vous contrôlez ; échangez le contrôle de ces monstres. À la fin de la Battle Phase, si cette carte a détruit un ou plusieurs monstres au combat : vous pouvez les Invoquer Spécialement depuis les Cimetières sur votre Terrain.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

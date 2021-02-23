@@ -1,0 +1,16 @@
+{
+  "id": 9256,
+  "type": "monster",
+  "name": "Phénix de Flammes, l'Oiseau de Bombardement",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 monstre de Type Machine + 1 monstre de Type Pyro\nUne fois par tour, durant votre Main Phase : vous pouvez infliger 300 points de dommages à votre adversaire pour chaque carte sur le Terrain. Cette carte ne peut pas attaquer durant le tour où vous activez cet effet.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effet"
+  ]
+}

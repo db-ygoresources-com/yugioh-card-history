@@ -1,0 +1,15 @@
+{
+  "id": 9042,
+  "type": "monster",
+  "name": "Drago Verità Maligno",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dal suo stesso effetto, e non può essere Evocato Specialmente in altri modi. Se un mostro \"Maligno\" che controlli, eccetto \"Drago Verità Maligno\", viene distrutto in battaglia o dall'effetto di una carta: puoi pagare la metà dei tuoi Life Point; Evoca Specialmente questa carta dalla tua mano o Cimitero. Ci può essere solo 1 mostro \"Maligno\" sul Terreno. Se non c'è nessuna Carta Magia Terreno scoperta sul Terreno, distruggi questa carta. Se questa carta distrugge un mostro dell'avversario in battaglia: distruggi tutti i mostri scoperti controllati dal tuo avversario.",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Drago",
+    "Effetto"
+  ]
+}

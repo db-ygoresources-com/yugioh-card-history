@@ -1,0 +1,16 @@
+{
+  "id": 11888,
+  "type": "monster",
+  "name": "Martello Magico del Tempo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Deve essere Evocato Specialmente con \"Artiglio di Hermos\", utilizzando un mostro Incantatore. Se questa carta viene Evocata Specialmente: scegli come bersaglio 1 altro mostro scoperto sul Terreno; equipaggia questa carta ad esso. All'inizio del Damage Step, se esso combatte con un mostro dell'avversario: puoi tirare un dado a sei facce e bandire quel mostro dell'avversario fino alla Standby Phase del turno numero N dopo l'attivazione di questo effetto (dove N = il risultato).",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Incantatore",
+    "Fusione",
+    "Effetto"
+  ]
+}

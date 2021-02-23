@@ -1,0 +1,16 @@
+{
+  "id": 4434,
+  "type": "monster",
+  "name": "Magician of Faith",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+  "level": 1,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12315,
+  "type": "monster",
+  "name": "Dadlope",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Uma vez por turno: você pode lançar um dado de seis faces e, depois, aplicar o resultado.\n●1: Olhe a mão do seu oponente e, além disso, descarte 1 card da mão dele.\n●2, 3, 4, 5: Descarte 1 card.\n●6: Descarte toda a sua mão.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

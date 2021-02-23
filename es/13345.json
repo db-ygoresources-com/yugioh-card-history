@@ -1,0 +1,15 @@
+{
+  "id": 13345,
+  "type": "monster",
+  "name": "Convertidor Ciberso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si todos los monstruos que controlas son monstruos Ciberso (mín. 1), puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial a \"Convertidor Ciberso\" una vez por turno de esta forma. Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno, se convierte en un monstruo Ciberso.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

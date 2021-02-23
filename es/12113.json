@@ -1,0 +1,18 @@
+{
+  "id": 12113,
+  "type": "monster",
+  "name": "Artistamigo Tortuga Pequemordisco",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando esta carta es destruida en batalla: puedes destruir al monstruo que la destruyó.",
+  "pendEffect": "Una vez por turno: puedes mostrar 1 monstruo \"Artistamigo\" u \"Ojos Anómalos\" en tu mano y, si lo haces, por el resto de este turno reduce en 1 los Niveles de los monstruos en tu mano con ese nombre (aún después de que hayan sido Invocados/Colocados, y aún si esta carta deja el Campo).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Reptil",
+    "Péndulo",
+    "Efecto"
+  ]
+}

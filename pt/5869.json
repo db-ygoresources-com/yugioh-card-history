@@ -1,0 +1,15 @@
+{
+  "id": 5869,
+  "type": "monster",
+  "name": "Valquíria do Mago",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Monstros que seu oponente controla não podem escolher monstros do Tipo Mago com a face para cima como alvo de ataques, exceto este.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

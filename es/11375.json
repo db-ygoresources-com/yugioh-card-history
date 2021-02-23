@@ -1,0 +1,15 @@
+{
+  "id": 11375,
+  "type": "monster",
+  "name": "Jueza",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si se activa un efecto de una carta de tu adversario, antes de resolver ese efecto, lanza dos veces una moneda, y si el resultado son 2 Caras, niega ese efecto. Sólo puedes usar este efecto de \"Jueza\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

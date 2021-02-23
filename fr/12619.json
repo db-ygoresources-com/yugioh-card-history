@@ -1,0 +1,15 @@
+{
+  "id": 12619,
+  "type": "monster",
+  "name": "Multitraiteur Structure-PSY",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Le nom de cette carte devient \"Pilote Structure-PSY\" tant qu'elle est dans la main ou Cimetière. Si une ou plusieurs cartes \"Structure-PSY\" que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez défausser cette carte à la place. Si un Syntoniseur \"Structure-PSY\" est Invoqué Spécialement sur votre Terrain, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Multitraiteur Structure-PSY\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 0,
+  "def": 2500,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

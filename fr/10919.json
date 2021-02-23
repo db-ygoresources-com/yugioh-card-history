@@ -1,0 +1,15 @@
+{
+  "id": 10919,
+  "type": "monster",
+  "name": "Shaman des Protecteurs du Tombeau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Gagne 200 DEF pour chaque monstre \"Protecteurs du Tombeau\" dans votre Cimetière. Annulez tous les effets de monstre (monstres \"Protecteurs du Tombeau\" exclus) qui s'activent dans le Cimetière. Tant que \"Vallée Mortuaire\" est sur le Terrain, votre adversaire ne peut pas activer de Cartes Magie de Terrain, et aussi, les Cartes Magie de Terrain ne peuvent pas être détruites par des effets de carte de votre adversaire.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10370,
+  "type": "monster",
+  "name": "Rémora Xyz",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en détachant 2 Matériels Xyz d'un ou plusieurs monstres que vous contrôlez. Lorsque vous le faites : vous pouvez cibler 2 monstres de Type Poisson de Niveau 4 dans votre Cimetière ; Invoquez Spécialement les cibles en Position de Défense face recto. Leurs effets sont annulés, et ils ne peuvent ni attaquer, ni changer de position de combat, ni être utilisés comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre EAU.",
+  "level": 4,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9629,
+  "type": "monster",
+  "name": "Super-Computerbug",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss zuerst als Spezialbeschwörung (von deiner Hand) in die offene Verteidigungsposition beschworen werden, indem du „Computerbug X“, „Computerbug Y“ und „Computerbug Z“ von deinem Friedhof verbannst. Vertausche die ATK und DEF aller Monster in offener Angriffsposition auf dem Spielfeld. Es kann nur 1 offener „Super-Computerbug“ auf dem Spielfeld liegen.",
+  "level": 4,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

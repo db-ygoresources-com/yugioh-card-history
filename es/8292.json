@@ -1,0 +1,15 @@
+{
+  "id": 8292,
+  "type": "monster",
+  "name": "Kuribon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta fue seleccionada como objetivo de un ataque por un monstruo de tu adversario, puedes activar su efecto durante el cálculo de daño. No recibes daño de batalla de esta batalla, tu adversario gana tantos Life Points como ATK tenga el monstruo atacante, y después regresas esta carta a tu mano.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

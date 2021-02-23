@@ -1,0 +1,18 @@
+{
+  "id": 13127,
+  "type": "monster",
+  "name": "Artistamico Occhi Diversi Minitauro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante il calcolo dei danni, se un tuo Mostro Pendulum attacca un mostro dell'avversario: puoi far perdere a quel mostro 100 ATK per ogni carta \"Artistamico\" e \"Occhi Diversi\" che controlli, solamente durante il calcolo dei danni.",
+  "pendEffect": "Se un tuo mostro \"Artistamico\" o \"Occhi Diversi\" attacca un mostro in posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Guerriero-Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

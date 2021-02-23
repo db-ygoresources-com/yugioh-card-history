@@ -1,0 +1,18 @@
+{
+  "id": 11701,
+  "type": "monster",
+  "name": "Zefrasäbel, Schwertmeister der Nekroz",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte von deiner Hand oder offen von deiner Spielfeldseite als Tribut anbieten; biete Monster von deiner Hand oder Spielfeldseite als Tribut an, dann beschwöre 1 „Nekroz“-Ritualmonster als Ritualbeschwörung von deiner Hand, dessen Stufe genau der Summe der Stufen der Monster entspricht. Du kannst diesen Effekt von „Zefrasäbel, Schwertmeister der Nekroz“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Nekroz“- und „Zefra“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

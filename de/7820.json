@@ -1,0 +1,15 @@
+{
+  "id": 7820,
+  "type": "monster",
+  "name": "Flamvell-Unterweltler",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte deinem Gegner Kampfschaden zufügt, füge deinem Gegner 200 Schaden für jedes Monster vom Typ Pyro in deinem Friedhof zu.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

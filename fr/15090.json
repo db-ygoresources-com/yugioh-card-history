@@ -1,0 +1,15 @@
+{
+  "id": 15090,
+  "type": "monster",
+  "name": "Raideur Aérien Méchabot",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez défausser 1 autre monstre \"Méchabot\" ; Invoquez Spécialement cette carte depuis votre main. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre Machine que vous contrôlez ; Invoquez Spécialement 1 monstre \"Méchabot\" de nom différent et d'un Niveau inférieur ou égal au monstre depuis votre Deck, et si vous le faites, détruisez le monstre ciblé. Vous ne pouvez utiliser chaque effet de \"Raideur Aérien Méchabot\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1500,
+  "def": 2600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

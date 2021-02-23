@@ -1,0 +1,18 @@
+{
+  "id": 12373,
+  "type": "monster",
+  "name": "Künstlerkumpel Schaukobra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann deinen Gegner direkt angreifen. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Monster, das du kontrollierst, deinem Gegner Kampfschaden zufügt: Du kannst die oberste Karte des Decks deines Gegners auf den Friedhof legen.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "Reptil",
+    "Pendel",
+    "Effekt"
+  ]
+}

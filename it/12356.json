@@ -1,0 +1,15 @@
+{
+  "id": 12356,
+  "type": "monster",
+  "name": "Ragazza Maga Limone",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi offrire come Tributo 1 mostro \"Ragazza Maga\", eccetto \"Ragazza Maga Limone\"; aggiungi 1 mostro di Tipo Incantatore dal tuo Deck alla tua mano. Una volta per turno, se questa carta viene scelta come bersaglio per un attacco: puoi Evocare Specialmente 1 mostro di Tipo Incantatore dalla tua mano, ma i suoi effetti (se ne ha) sono annullati, poi cambia il bersaglio dell'attacco su di esso e, se lo fai, l'ATK del mostro attaccante diventa la meta del suo ATK attuale.",
+  "level": 2,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

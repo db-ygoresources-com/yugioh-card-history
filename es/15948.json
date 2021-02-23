@@ -1,0 +1,15 @@
+{
+  "id": 15948,
+  "type": "monster",
+  "name": "Roca de Guerra Skyler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Gana 100 ATK por cada monstruo que controle tu adversario. Durante una Battle Phase en la cual tu monstruo Guerrero de TIERRA batalle (Efecto Rápido): puedes seleccionar 1 monstruo Guerrero de Nivel 5 o menor en tu Cementerio; Invócalo de Modo Especial, y además todos los monstruos \"Roca de Guerra\" que controles en este momento ganan 200 ATK hasta el final del turno de tu adversario, y además, por el resto de este turno no puedes atacar directamente con monstruos de Nivel 5 o menor. Sólo puedes usar este efecto de \"Roca de Guerra Skyler\" una vez por turno.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

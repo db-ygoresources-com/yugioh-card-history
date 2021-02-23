@@ -1,0 +1,18 @@
+{
+  "id": 12406,
+  "type": "monster",
+  "name": "Camarartista Cavalo Rabo Rabanete",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se seu oponente controlar um monstro Invocado por Invocação-Especial e controlar pelo menos tantos monstros quanto você, você pode Invocar este card por Invocação-Especial (da sua mão). Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo de cada duelista; até o final deste turno, esse monstro do oponente perde ATK igual ao ATK deste card e, se isso acontecer, esse monstro que você controla ganha ATK igual ao ATK deste card.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla e 1 monstro \"Camarartista\" que você controla; esse monstro do oponente perde ATK igual ao ATK desse monstro \"Camarartista\" que você controla (mesmo que este card deixe o campo).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Planta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

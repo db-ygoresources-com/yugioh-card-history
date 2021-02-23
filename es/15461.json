@@ -1,0 +1,15 @@
+{
+  "id": 15461,
+  "type": "monster",
+  "name": "Dragón Centenario",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno: puedes hacer que esta carta gane Niveles igual a la cantidad de cartas que controles y, si lo haces, ésta gana 100 ATK por cada Nivel ganado. Estos cambios duran hasta el final de este turno. Si esta carta es mandada al Cementerio: puedes seleccionar 1 monstruo boca arriba que controles que fue Invocado de Modo Especial desde el Deck Extra; la primera vez que ese monstruo boca arriba fuera a ser destruido en batalla o por efecto de una carta, no es destruido. Sólo puedes usar este efecto de \"Dragón Centenario\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

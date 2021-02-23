@@ -1,0 +1,16 @@
+{
+  "id": 10409,
+  "type": "monster",
+  "name": "Sirenarmada Abistrite",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "3 monstruos de Nivel 3\nDurante el turno de cualquier jugador, cuando tu adversario selecciona a exactamente 1 monstruo \"Sirenarmado/a\" boca arriba que controles para un ataque o con un efecto de Carta Mágica/de Trampa que podría haber seleccionado a esta carta (excepto durante el Damage Step): puedes desacoplar de esta carta 1 Material Xyz; ese ataque/efecto ahora selecciona a esta carta. Cuando esta carta es destruida y mandada al Cementerio: puedes seleccionar 1 monstruo \"Sirenarmado/a\" en tu Cementerio, excepto \"Sirenarmada Abistrite\"; Invoca ese objetivo de Modo Especial.",
+  "rank": 3,
+  "atk": 1600,
+  "def": 2800,
+  "properties": [
+    "Serpiente Marina",
+    "Xyz",
+    "Efecto"
+  ]
+}

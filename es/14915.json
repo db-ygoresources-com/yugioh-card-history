@@ -1,0 +1,16 @@
+{
+  "id": 14915,
+  "type": "monster",
+  "name": "Guerrero del Satélite",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ Monstruos de Sincronía que no sean Cantantes\nSi esta carta es Invocada por Sincronía: puedes seleccionar hasta tantas cartas que controle tu adversario como la cantidad de Monstruos de Sincronía en tu Cementerio; destrúyelas y, si lo haces, esta carta gana 1000 ATK por cada carta destruida. Si esta carta Invocada por Sincronía es destruida: puedes Invocar de Modo Especial, desde tu Cementerio, hasta 3 Monstruos de Sincronía \"Guerrero/a\", \"Sincrón\" (o \"Sincronizador\") y/o \"Polvo de Estrellas\" de Nivel 8 o menor con nombres diferentes. Sólo puedes usar cada efecto de \"Guerrero del Satélite\" una vez por turno.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

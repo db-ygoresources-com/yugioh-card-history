@@ -1,0 +1,15 @@
+{
+  "id": 8033,
+  "type": "monster",
+  "name": "Seigneur de Guerre Alien",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez retirer 2 Compteurs-A du Terrain pour Invoquer Spécialement cette carte depuis votre main. Une fois par tour, vous pouvez placer 1 Compteur-A sur chaque monstre face recto contrôlé par votre adversaire (si un monstre avec un Compteur-A combat un monstre \"Alien\", il perd 300 points d'ATK et de DEF pour chaque Compteur-A durant le calcul des dommages uniquement). Vous ne pouvez contrôler qu'1 seul \"Seigneur de Guerre Alien\".",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

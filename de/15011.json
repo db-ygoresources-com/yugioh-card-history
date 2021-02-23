@@ -1,0 +1,15 @@
+{
+  "id": 15011,
+  "type": "monster",
+  "name": "Herr der Donnerdrachen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du während des Spielzugs, in dem ein Effekt eines Donner-Monsters in der Hand aktiviert wurde, 1 Donner-Monster der Stufe 8 oder niedriger von deiner Hand oder offen von deiner Spielfeldseite verbannst. Einmal pro Spielzug eines Gegners (Schnelleffekt): Du kannst 2 Karten von deinem Friedhof verbannen, darunter ein Donner-Monster, und dann 1 Donner-Monster wählen, das du kontrollierst; dein Gegner kann es in diesem Spielzug nicht als Ziel für Karteneffekte wählen. Einmal pro Spielzug, während deiner End Phase: Du kannst 1 „Donnerdrache“-Karte von deinem Deck auf den Friedhof legen.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

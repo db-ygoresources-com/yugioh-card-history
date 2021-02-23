@@ -1,0 +1,16 @@
+{
+  "id": 5378,
+  "type": "monster",
+  "name": "Long-Nez le Géant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte ne peut pas être Invoquée par Invocation Spéciale. Cette carte retourne dans la main de son propriétaire durant la End Phase du tour où elle a été Invoquée par Invocation Normale ou retournée face recto. Si cette carte inflige des dommages de combat aux Life Points de votre adversaire, celui-ci saute la Battle Phase de son prochain tour.",
+  "level": 5,
+  "atk": 1900,
+  "def": 1700,
+  "properties": [
+    "Bête-Guerrier",
+    "Spirit",
+    "Effet"
+  ]
+}

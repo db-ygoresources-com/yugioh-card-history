@@ -1,0 +1,15 @@
+{
+  "id": 12315,
+  "type": "monster",
+  "name": "Dadociclope",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Una volta per turno: puoi tirare un dado a sei facce, poi applicare il risultato.\n●1: Guarda la mano del tuo avversario, inoltre scarta 1 carta dalla sua mano.\n●2, 3, 4, 5: Scarta 1 carta.\n●6: Scarta tutta la tua mano.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

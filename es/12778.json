@@ -1,0 +1,16 @@
+{
+  "id": 12778,
+  "type": "monster",
+  "name": "Vientobruja - Campana del Invierno",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1+ monstruos de VIENTO que no sean Cantantes\nPuedes seleccionar 1 monstruo \"Vientobruja\" en tu Cementerio; inflige daño a tu adversario igual al Nivel de ese objetivo x 200. Durante la Battle Phase (Efecto Rápido): puedes seleccionar 1 monstruo \"Vientobruja\" que controles; Invoca 1 monstruo de Modo Especial, desde tu mano, con un Nivel igual o menor al de ese monstruo, pero este turno, éste no puede atacar. Sólo puedes usar cada efecto de \"Vientobruja - Campana del Invierno\" una vez por turno.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Sincronía",
+    "Efecto"
+  ]
+}

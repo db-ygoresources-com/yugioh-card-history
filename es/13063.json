@@ -1,0 +1,15 @@
+{
+  "id": 13063,
+  "type": "monster",
+  "name": "Jain, General Luminoso del Atardecer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes desterrar 1 monstruo \"Luminoso/a\" en tu mano o Cementerio, y después seleccionar 1 monstruo boca arriba en el Campo; hasta el final de este turno, éste pierde ATK y DEF igual al Nivel del monstruo desterrado x 300. Una vez por turno, si es activado el efecto de otro monstruo \"Luminoso/a\" tuyo: manda al Cementerio las 2 cartas de la parte superior de tu Deck.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

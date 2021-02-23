@@ -1,0 +1,16 @@
+{
+  "id": 12077,
+  "type": "monster",
+  "name": "Perseguidor Goyo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante + 1 o más monstruos que no sean Cantantes\nEsta carta gana 300 ATK por cada Monstruo de Sincronía de TIERRA de Tipo Guerrero en el campo (que no sea esta carta). Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes Invocar a ese monstruo de Modo Especial a tu lado del Campo, pero su ATK se reduce a la mitad.",
+  "level": 5,
+  "atk": 1900,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10763,
+  "type": "monster",
+  "name": "Princesse des Fantômes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte face recto est détruite tant qu'elle est dans une Zone Monstre, vous pouvez la placer face recto dans votre Zone Magie & Piège comme une Carte Magie Continue au lieu de l'envoyer au Cimetière. Tant que cette carte est traitée comme une Carte Magie Continue par cet effet, durant la Standby Phase de chaque joueur : placez 1 Compteur Citrouille sur cette carte. Tous les monstres contrôlés par votre adversaire perdent 100 ATK/DEF pour chaque Compteur Citrouille sur cette carte.",
+  "level": 3,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

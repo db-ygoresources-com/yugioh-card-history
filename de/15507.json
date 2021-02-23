@@ -1,0 +1,15 @@
+{
+  "id": 15507,
+  "type": "monster",
+  "name": "Achtung-Amor",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls alle Monster, die du kontrollierst, Monster mit 600 DEF sind (min. 1): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. (Schnelleffekt): Du kannst 1 Karte abwerfen und dann 1 LICHT Fee-Monster, das du kontrollierst, und 1 offenes Monster auf dem Spielfeld wählen; die Stufe deines Monsters wird bis zum Ende dieses Spielzugs dieselbe wie die Stufe des anderen Monsters. Du kannst jeden Effekt von „Achtung-Amor“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2200,
+  "def": 600,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

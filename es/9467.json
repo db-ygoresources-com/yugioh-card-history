@@ -1,0 +1,15 @@
+{
+  "id": 9467,
+  "type": "monster",
+  "name": "El Júpiter Grandioso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes descartar 2 cartas, y después seleccionar 1 monstruo boca arriba que controle tu adversario; equipa ese monstruo boca arriba a esta carta. Esta carta gana ATK igual a los ATK originales combinados de los monstruos equipados a ella por este efecto. Una vez por turno, durante la End Phase: puedes seleccionar 1 Carta de Monstruo equipada a esta carta por el efecto de esta carta; Invócala de Modo Especial a tu Campo.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

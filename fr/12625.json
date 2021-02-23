@@ -1,0 +1,16 @@
+{
+  "id": 12625,
+  "type": "monster",
+  "name": "Animal Féérique - Belle",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Vous pouvez Invoquer Spécialement 1 monstre depuis votre main.\nLorsque votre adversaire active une Carte Magie Normale/Piège Normal (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre ; l'effet activé devient \"Changez 1 monstre face recto contrôlé par votre adversaire en Position de Défense face verso\". Vous ne pouvez utiliser cet effet de \"Animal Féérique - Belle\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12713,
+  "type": "monster",
+  "name": "Actor del Abismo - Novato Insolente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "La primera vez que esta carta fuera a ser destruida en batalla o por el efecto de una carta en cada turno, no es destruida. Si esta carta es destruida en batalla, o si esta carta en la Zona de Monstruos de su dueño es destruida por el efecto de una carta de tu adversario: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Actor del Abismo\" de Nivel 4 o menor, excepto \"El Actor del Abismo - Novato Insolente\". Si esta carta en la Zona de Péndulo es destruida: puedes seleccionar 1 monstruo de Nivel 4 o menor que controle tu adversario; destrúyelo.",
+  "pendEffect": "Si uno o más monstruos \"Actor del Abismo\" que controlas fueran a ser destruidos en batalla o por el efecto de una carta de tu adversario, puedes destruir esta carta en su lugar.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

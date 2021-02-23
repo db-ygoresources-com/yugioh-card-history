@@ -1,0 +1,19 @@
+{
+  "id": 13413,
+  "type": "monster",
+  "name": "Recovery Sorcerer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "2 Cyberse monsters\n(Quick Effect): You can target 1 Cyberse Link Monster in your GY that was destroyed this turn; Special Summon it, but it has its effects negated, also destroy it during the End Phase. You can only use this effect of \"Recovery Sorcerer\" once per turn.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effect"
+  ]
+}

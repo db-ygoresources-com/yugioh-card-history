@@ -1,0 +1,15 @@
+{
+  "id": 10038,
+  "type": "monster",
+  "name": "Foreuse Jumbo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez augmenter le Niveau de tous les monstres de Type Machine que vous contrôlez actuellement de 1. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Si cette carte attaque, à la fin de la Damage Step, elle est changée en Position de Défense.",
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10035,
+  "type": "monster",
+  "name": "Himmelsfalter-Spionling",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, wenn die Kampfpositionen von Monstern deines Gegners geändert werden (außer während des Damage Steps): Du kannst eins der Monster wählen; es verliert 1000 ATK und DEF.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7667,
+  "type": "monster",
+  "name": "Orties",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte face recto doit être détruite, vous pouvez détruire 1 monstre de Type Plante face recto que vous contrôlez à la place.",
+  "level": 2,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6525,
+  "type": "monster",
+  "name": "Tualatin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls es die Battle Phase deines Gegners ist und alle Monster, die du am Beginn dieser Battle Phase kontrolliert hast, (min. 2) durch Kampf zerstört und auf deinen Friedhof gelegt wurden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls sie auf diese Art beschworen wird: Bestimme eine Eigenschaft und zerstöre alle offenen Monster mit der Eigenschaft. Dein Gegner kann keine Monster mit der Eigenschaft als Normal- oder Spezialbeschwörung beschwören.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

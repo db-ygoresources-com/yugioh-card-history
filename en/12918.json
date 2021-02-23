@@ -1,0 +1,18 @@
+{
+  "id": 12918,
+  "type": "monster",
+  "name": "Performapal U Go Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and Dragon monsters you control as Fusion Materials.",
+  "pendEffect": "Once per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your GY or face-up in your Extra Deck to your hand.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

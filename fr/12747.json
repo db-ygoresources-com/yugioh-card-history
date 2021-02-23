@@ -1,0 +1,15 @@
+{
+  "id": 12747,
+  "type": "monster",
+  "name": "Fleur Cardian de Cerisier avec Rideau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement par son propre effet. Vous pouvez révéler cette carte dans votre main ; piochez 1 carte, et si vous le faites, montrez-la, puis Invoquez Spécialement cette carte si la carte piochée est un monstre \"Fleur Cardian\". Sinon, envoyez-la avec cette carte au Cimetière. Durant la Damage Step de chaque joueur, lorsque votre monstre \"Fleur Cardian\" combat un monstre de votre adversaire : vous pouvez défausser cette carte ; jusqu'à la fin de ce tour, votre monstre combattant gagne 1000 ATK.",
+  "level": 3,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

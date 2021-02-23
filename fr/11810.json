@@ -1,0 +1,18 @@
+{
+  "id": 11810,
+  "type": "monster",
+  "name": "Écuyer Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "L'armure d'acier refroidit de ce jeune écuyer ne peut pas contenir le vif 'esprit brûlant qu'elle contient.",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

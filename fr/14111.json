@@ -1,0 +1,16 @@
+{
+  "id": 14111,
+  "type": "monster",
+  "name": "Salamangrande Chimère Violette",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 monstre \"Salamangrande\" + 1 Monstre Lien\nSi cette carte est Invoquée par Fusion : jusqu'à la fin de ce tour, vous pouvez faire gagner à cette carte une ATK égale à la moitié de la somme des ATK d'origine des Matériels utilisés pour l'Invoquer. Une fois par combat, durant le calcul des dommages, si ce monstre combat un monstre dont l'ATK actuelle est différente de son ATK d'origine (Effet Rapide) : vous pouvez doubler l'ATK de cette carte durant le calcul des dommages uniquement. Si cette carte qui a été Invoquée par Fusion en utilisant \"Salamangrande Chimère Violette\" comme Matériel combat un monstre, l'ATK du monstre devient 0 durant le calcul des dommages uniquement.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11252,
+  "type": "monster",
+  "name": "Hypnosœur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte gagne des effets selon le nombre total de cartes dans les Zones Pendule de chaque joueur.\n●Min. 1 : Cette carte gagne 800 ATK/DEF.\n●Min. 2 : Au début de la Damage Step, si cette carte combat un monstre Invoqué par Pendulation : détruisez le monstre.\n●Min. 3 : Les monstres contrôlés par votre adversaire doivent attaquer cette carte, si possible.\n●4 : Si cette carte détruit un monstre au combat ou par son propre effet : piochez 1 carte.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

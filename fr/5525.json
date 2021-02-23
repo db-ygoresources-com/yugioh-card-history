@@ -1,0 +1,15 @@
+{
+  "id": 5525,
+  "type": "monster",
+  "name": "Jarre à Cobra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Faites l'Invocation Spéciale d'1 \"Jeton Serpent Venimeux\" (Type Reptile/TERRE/Niveau 3/ATK 1200/DEF 1200). Lorsque le \"Jeton Serpent Venimeux\" est détruit à l'issue d'un combat, infligez 500 points de dommages aux Life Points de votre adversaire.",
+  "level": 2,
+  "atk": 600,
+  "def": 300,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

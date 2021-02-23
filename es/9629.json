@@ -1,0 +1,15 @@
+{
+  "id": 9629,
+  "type": "monster",
+  "name": "Súper Crashbug",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Primero debe ser Invocado de Modo Especial, desde tu mano, en Posición de Defensa boca arriba, desterrando a \"Crashbug X\", \"Crashbug Y\", y \"Crashbug Z\" en tu Cementerio. Intercambia el ATK y la DEF de todos los monstruos en Posición de Ataque boca arriba en el Campo. Sólo puede haber 1 \"Súper Crashbug\" boca arriba en el Campo.",
+  "level": 4,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

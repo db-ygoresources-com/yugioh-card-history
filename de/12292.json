@@ -1,0 +1,16 @@
+{
+  "id": 12292,
+  "type": "monster",
+  "name": "Weiser mit den blauen Augen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 LICHT Empfänger der Stufe 1 von deinem Deck hinzufügen, außer „Weiser mit den blauen Augen“. Du kannst diese Karte abwerfen und dann 1 Effektmonster wählen, das du kontrollierst; lege es auf den Friedhof und falls du dies tust, beschwöre 1 „Blauäugig“-Monster als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Weiser mit den blauen Augen“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12605,
+  "type": "monster",
+  "name": "Cristron Quan",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Durante la Main Phase o Battle Phase de tu adversario: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo que no sea Cantante, pero ve sus efectos negados (si los tiene) y, si lo haces, inmediatamente después de que se resuelva este efecto, Invoca por Sincronía 1 Monstruo de Sincronía de Tipo Máquina usando sólo a ese monstruo y esta carta (este es un Efecto Rápido). Sólo puedes usar este efecto de \"Cristron Quan\" una vez por turno.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4294,
+  "type": "monster",
+  "name": "Artiste des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est attaquée par un monstre LUMIÈRE, sa DEF est divisée par deux durant le calcul des dommages uniquement.",
+  "level": 3,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

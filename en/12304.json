@@ -1,0 +1,18 @@
+{
+  "id": 12304,
+  "type": "monster",
+  "name": "Dinomist Spinos",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "You can Tribute 1 other \"Dinomist\" monster, then activate 1 of these effects;\n●This card can attack your opponent directly this turn.\n●This card can make a second attack during each Battle Phase this turn.",
+  "pendEffect": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

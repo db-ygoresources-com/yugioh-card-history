@@ -1,0 +1,18 @@
+{
+  "id": 12595,
+  "type": "monster",
+  "name": "Artistamigo Cambiorafa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; mientras esta carta esté boca arriba en el Campo, ese monstruo boca arriba no puede atacar, y además niega los efectos de ese monstruo boca arriba mientras esté en el Campo.",
+  "pendEffect": "Cuando exactamente 1 monstruo que controles (y ninguna otra carta) sea destruido en batalla: puedes destruir esta carta y, si lo haces, Invoca de Modo Especial, en Posición de Ataque, a ese monstruo destruido en batalla y, si lo haces, este turno éste no puede ser destruido en batalla (aún si esta carta deja el Campo).",
+  "pendScale": 5,
+  "level": 1,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

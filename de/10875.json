@@ -1,0 +1,16 @@
+{
+  "id": 10875,
+  "type": "monster",
+  "name": "Herrin des Sees",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines Monsters vom Typ Krieger. Falls diese Karte für eine Synchrobeschwörung verwendet wird, verbanne sie. Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Normales „Edler Ritter“-Monster in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Edler Ritter“-Monster der Stufe 5 wählen, das du kontrollierst; verringere seine Stufe um 1 und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung vom Friedhof.",
+  "level": 1,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

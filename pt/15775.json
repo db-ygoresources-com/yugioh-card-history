@@ -1,0 +1,16 @@
+{
+  "id": 15775,
+  "type": "monster",
+  "name": "Último Miutante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "3 monstros \"Miutante\" de Nível 8 ou mais\nQuando um card ou efeito for ativado (Efeito Rápido): você pode banir 1 card \"Miutante\" da sua mão, do Cemitério ou do campo com a face para cima do mesmo tipo (Monstro, Magia ou Armadilha); negue a ativação e, se isso acontecer, bana esse card. Se este card Invocado por Invocação-Fusão que você controla for destruído por um card do oponente: você pode adicionar até 3 dos seus cards \"Miutante\" banidos (até 1 de cada dentre Monstro, Magia e Armadilha) à sua mão. Você só pode usar cada efeito de \"Último Miutante\" uma vez por turno.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psíquico",
+    "Fusão",
+    "Efeito"
+  ]
+}

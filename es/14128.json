@@ -1,0 +1,18 @@
+{
+  "id": 14128,
+  "type": "monster",
+  "name": "Guardragón Elpy",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo Dragón de Nivel 4 o menor\nNo puedes Invocar monstruos de Modo Especial, excepto monstruos Dragón. Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo Dragón a tu zona a la que apunten 2 o más Monstruos de Enlace. Sólo puedes usar este efecto de \"Guardragón Elpy\" una vez por turno. Sólo puedes Invocar de Modo Especial uno o más \"Guardragón Elpy\" una vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "4"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

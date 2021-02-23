@@ -1,0 +1,16 @@
+{
+  "id": 8192,
+  "type": "monster",
+  "name": "Detonatore Ala di Drago",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Tuner + 1 o più mostri non-Tuner di Tipo Drago\nAll'inizio del Damage Step, se questa carta combatte con un mostro: puoi distruggere quel mostro e, se lo fai, infliggi al tuo avversario danni pari all'ATK che il mostro ditrutto aveva sul Terreno. L'ATK di questa carta deve essere pari o superiore all'ATK di quel mostro per attivare e risolvere questo effetto.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Drago",
+    "Synchro",
+    "Effetto"
+  ]
+}

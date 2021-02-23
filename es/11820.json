@@ -1,0 +1,15 @@
+{
+  "id": 11820,
+  "type": "monster",
+  "name": "Arobruja Romero",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Mientras tus LP sean más altos que los de tu adversario, si un monstruo Planta que controles ataca, hasta el final del Damage Step tu adversario no puede activar efectos de monstruos. Una vez por turno, si ganas LP: selecciona 1 monstruo boca arriba en el Campo; cambia su posición de batalla.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

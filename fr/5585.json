@@ -1,0 +1,16 @@
+{
+  "id": 5585,
+  "type": "monster",
+  "name": "Tigre Zombie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 \"Commandant Décomposé\" que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement en Position d'Attaque. Tant qu'il est équipé par cet effet, le monstre équipé gagne 500 ATK/DEF. Si le monstre équipé détruit un monstre de l'adversaire au combat : défaussez-lui 1 carte au hasard. (Un monstre ne peut être équipé qu'avec 1 monstre Union à la fois. Si le monstre équipé va être détruit au combat, détruisez cette carte à la place.)",
+  "level": 3,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Union",
+    "Effet"
+  ]
+}

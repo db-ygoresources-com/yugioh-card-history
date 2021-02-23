@@ -1,0 +1,19 @@
+{
+  "id": 13129,
+  "type": "monster",
+  "name": "Synchronique aux Yeux Impairs Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte, Invoquée Spécialement depuis l'Extra Deck, est utilisée comme Matériel Synchro, bannissez-la. Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre \"Potartiste\" ou \"Yeux Impairs\" de max. Niveau 3 dans votre Cimetière ; Invoquez-le Spécialement, mais il a ses effets annulés. Une fois par tour : vous pouvez cibler 1 carte dans votre Zone Pendule ; Invoquez-la Spécialement, mais elle a ses effets annulés (si elle en a), et si vous le faites, immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro en utilisant uniquement le monstre et cette carte.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre \"Potartiste\" ou \"Yeux Impairs\" que vous contrôlez ; ce tour (même si cette carte quitte le Terrain), le monstre face recto est traité comme un Syntoniseur, et aussi, son Niveau devient 1.",
+  "pendScale": 6,
+  "level": 2,
+  "atk": 200,
+  "def": 600,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

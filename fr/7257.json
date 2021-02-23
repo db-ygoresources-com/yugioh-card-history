@@ -1,0 +1,16 @@
+{
+  "id": 7257,
+  "type": "monster",
+  "name": "Aile Infernale, HÉROS du Mal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Avian, HÉROS Élémentaire\" + \"Burstinatrix, HÉROS Élémentaire\"\nCette carte ne peut pas être Invoquée Spécialement excepté avec \"Fusion des Ténèbres\". Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en tant que dommages de combat à votre adversaire. Lorsque cette carte détruit un monstre au combat et l'envoie au Cimetière, infligez aux Life Points de votre adversaire des dommages égaux à la valeur d'ATK ou de DEF du monstre détruit, choisissez la plus élevée.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

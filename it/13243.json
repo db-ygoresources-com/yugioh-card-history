@@ -1,0 +1,15 @@
+{
+  "id": 13243,
+  "type": "monster",
+  "name": "Esecutore Metafisico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) bandendo 5 carte \"Metafisico\" con nomi diversi dal tuo Cimitero e/o scoperte dal tuo Terreno. Non può essere distrutto, o bandito, dagli effetti delle carte. Una volta per turno, se il tuo avversario controlla più carte di te: puoi scegliere come bersaglio 1 dei tuoi mostri \"Metafisico\" banditi; Evocalo Specialmente, ma bandiscilo durante la End Phase del prossimo turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Wyrm",
+    "Effetto"
+  ]
+}

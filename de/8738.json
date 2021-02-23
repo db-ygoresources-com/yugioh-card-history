@@ -1,0 +1,16 @@
+{
+  "id": 8738,
+  "type": "monster",
+  "name": "Stygische Sicherheitseinheit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Beschwöre 1 Monster vom Typ Unterweltler der Stufe 1 als Spezialbeschwörung von deinem Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

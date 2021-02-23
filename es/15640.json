@@ -1,0 +1,16 @@
+{
+  "id": 15640,
+  "type": "monster",
+  "name": "Drytron Meteonis Dracónidas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Drytron Meteonis\". Tu adversario no puede seleccionar esta carta con efectos de monstruos. Si los Niveles totales de los monstruos usados para su Invocación por Ritual son 2 o menos, esta carta puede atacar a todos los monstruos Invocados de Modo Especial que controle tu adversario, una vez a cada uno. Durante el turno de tu adversario (Efecto Rápido): puedes desterrar monstruos en tu Cementerio cuyo ATK combinado sea exactamente igual a 2000 o 4000, y después seleccionar 1 carta boca arriba que controle tu adversario por cada 2000 ATK del total; manda esa o esas cartas al Cementerio. Sólo puedes usar este efecto de \"Drytron Meteonis Dracónidas\" una vez por turno.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Máquina",
+    "Ritual",
+    "Efecto"
+  ]
+}

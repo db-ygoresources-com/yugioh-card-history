@@ -1,0 +1,16 @@
+{
+  "id": 12583,
+  "type": "monster",
+  "name": "B-Busterdrachling",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du: 1 LICHT Maschine-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Ein Monster, das mit dieser Karte ausgerüstet ist, bleibt von den Zaubereffekten deines Gegners unberührt, zusätzlich, falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Union-Monster von deinem Deck hinzufügen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

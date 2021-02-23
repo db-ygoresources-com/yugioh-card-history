@@ -1,0 +1,19 @@
+{
+  "id": 12374,
+  "type": "monster",
+  "name": "Tapicureuil Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez cibler 1 carte Posée sur le Terrain ; détruisez-la. Si cette carte est Invoquée Spécialement : vous pouvez la changer en Position de Défense face verso.",
+  "pendEffect": "Détruisez cette carte, sauf si vous avez une carte dans votre autre Zone Pendule. Tant que cette carte est dans la Zone Pendule, les dommages de combat que vous recevez deviennent divisés par deux.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Flip",
+    "Effet"
+  ]
+}

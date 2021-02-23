@@ -1,0 +1,16 @@
+{
+  "id": 15641,
+  "type": "monster",
+  "name": "Drytron Météonis Quadrantids",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Météonis Drytron\". Votre adversaire ne peut pas cibler cette carte avec des Cartes Magie/Piège ou effets de Magie/Piège. Vous ne pouvez utiliser chacun des effets suivants de \"Drytron Météonis Quadrantids\" qu'une fois par tour. Si la somme des Niveaux des monstres utilisés pour l'Invocation Rituelle de cette carte était max. 2 : vous pouvez détruire toutes les Magies/Pièges contrôlés par votre adversaire. Si cette carte Invoquée Rituellement est détruite : vous pouvez Invoquer Spécialement un nombre de monstres \"Drytron\" (\"Drytron Météonis Quadrantids\" exclu) depuis votre Cimetière, dont la somme des ATK est exactement égale à 4000.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Machine",
+    "Rituel",
+    "Effet"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15959,
+  "type": "monster",
+  "name": "Regulador Estrella de Acero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "3 Monstruos que no sean de Enlace\nGana ATK igual a los Niveles/Rangos originales combinados de los monstruos usados para su Invocación por Enlace x 100. Puedes seleccionar 1 Monstruo que no sea de Enlace que controle tu adversario con ATK igual o menor al de esta carta; destrúyelo, y después si esta carta fue Invocada por Enlace usando un Monstruo Xyz como material, inflige daño a tu adversario igual a la mitad del ATK original del monstruo destruido. Sólo puedes usar este efecto de \"Regulador Estrella de Acero\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "7",
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

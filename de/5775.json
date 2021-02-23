@@ -1,0 +1,15 @@
+{
+  "id": 5775,
+  "type": "monster",
+  "name": "Turm des Todes, Erzunterweltler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Der Spieler, der diese Karte kontrolliert, zahlt 500 Life Points in jeder seiner Standby Phasen. Wenn diese Karte als Ziel eines Effekts einer Karte, die dein Gegner kontrolliert, bestimmt wird, wirf bei der Abwicklung des Effekts einen sechsseitigen Würfel. Wenn das Würfelergebnis 3 ist, annulliere den Effekt und zerstöre die Karte. Wenn eine „König des Schreckens, Erzunterweltler“-Karte auf deiner Spielfeldseite zerstört und auf den Friedhof gelegt wird, lege diese Karte aus deiner Hand auf den Friedhof, um die „König des Schreckens, Erzunterweltler“-Karte als Spezialbeschwörung zu beschwören.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

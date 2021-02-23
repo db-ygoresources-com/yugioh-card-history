@@ -1,0 +1,16 @@
+{
+  "id": 6656,
+  "type": "monster",
+  "name": "Exécuteur Phœnix Lumineux, HÉROS Élémentaire",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Exécuteur Phœnix, HÉROS Élémentaire\" + \"Sparkman, HÉROS Élémentaire\"\nCe monstre ne peut pas être Invoqué par Invocation Spéciale excepté par une Invocation Fusion. Augmentez l'ATK de cette carte de 300 points pour chaque carte dans votre Cimetière qui inclut \"HÉROS Élémentaire\" dans son nom de carte. Cette carte ne peut pas être détruite à l'issue d'un combat.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

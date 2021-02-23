@@ -1,0 +1,19 @@
+{
+  "id": 14673,
+  "type": "monster",
+  "name": "Panthère de Laboratoire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres (un monstre \"Bête Gladiateur\" inclus)\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 carte \"Bête Gladiateur\" depuis votre Deck à votre main. Vous pouvez cibler 1 monstre \"Bête Gladiateur\" que vous contrôlez ; mélangez le monstre \"Bête Gladiateur\" dans le Deck, et si vous le faites, Invoquez Spécialement 1 monstre \"Bête Gladiateur\" de nom d'origine différent depuis votre Deck. (Ceci est traité comme une Invocation Spéciale par un effet de monstre \"Bête Gladiateur\".) Vous ne pouvez utiliser chaque effet de \"Panthère de Laboratoire\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Bête",
+    "Lien",
+    "Effet"
+  ]
+}

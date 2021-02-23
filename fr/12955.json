@@ -1,0 +1,16 @@
+{
+  "id": 12955,
+  "type": "monster",
+  "name": "Lyrilusc - Rossignol Indépendant",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Lyrilusc - Rossignol Assemblé\" + 1 monstre \"Lyrilusc\"\nSi cette carte est Invoquée par Fusion en utilisant un Monstre Xyz sur le Terrain dont le nom d'origine inclut \"Lyrilusc\" comme Matériel de Fusion : vous pouvez augmenter le Niveau de cette carte du nombre de Matériels Xyz que ces monstres avaient. Cette carte gagne une ATK égale à son Niveau x 500. Non affectée par les effets d'autres cartes. Une fois par tour : vous pouvez infliger des dommages à votre adversaire égaux au Niveau de cette carte x 500.",
+  "level": 1,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Bête Ailée",
+    "Fusion",
+    "Effet"
+  ]
+}

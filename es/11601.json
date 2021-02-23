@@ -1,0 +1,18 @@
+{
+  "id": 11601,
+  "type": "monster",
+  "name": "Amo del Cristal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Sacrificar esta carta; añade a tu mano 1 monstruo \"Cristal Definitivo/a\" o \"Bestia de Cristal\", o una Mágica/Trampa \"Cristal\" en tu Deck.",
+  "pendEffect": "Tu adversario no puede seleccionar con efectos de cartas a monstruos \"Cristal Definitivo/a\" o cartas \"Bestia de Cristal\" que tú controles.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15270,
+  "type": "monster",
+  "name": "Phul Mégalithe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Mégalithe\". Si cette carte est Invoquée Rituellement : vous pouvez cibler 1 Monstre Rituel dans votre Cimetière ; le Niveau de cette carte devient le Niveau de la cible, puis ajoutez la cible à votre main. Durant la Main Phase (Effet Rapide) : vous pouvez activer cet effet ; Invoquez Rituellement 1 Monstre Rituel \"Mégalithe\" depuis votre main ou Deck en Sacrifiant un nombre de monstres depuis votre main ou Terrain dont le Niveau total est supérieur ou égal au Niveau du Monstre Rituel. Vous ne pouvez utiliser chaque effet de \"Phul Mégalithe\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Rocher",
+    "Rituel",
+    "Effet"
+  ]
+}

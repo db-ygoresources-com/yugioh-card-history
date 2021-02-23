@@ -1,0 +1,18 @@
+{
+  "id": 11934,
+  "type": "monster",
+  "name": "Magicien Dragonpulsant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ce garçon magicien a le don de voir les lignes d'énergie naturelles qui courent autour de la terre, que son peuple nomme Pulsations du Dragon. Son exubérance et son talent lui ont valu le respect de son mentor, le \"Magicien Dragonfosse\".",
+  "pendEffect": "Une fois par tour, si vous avez une carte \"Magicien\" dans votre autre Zone Pendule : vous pouvez défausser 1 Monstre Pendule, puis ciblez 1 monstre face recto sur le Terrain ; détruisez-le.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1800,
+  "def": 900,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Normal"
+  ]
+}

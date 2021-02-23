@@ -1,0 +1,15 @@
+{
+  "id": 4716,
+  "type": "monster",
+  "name": "Crabe-Tortue",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Ce monstre ne peut être Invoqué que par Invocation Rituelle avec la Carte Magie Rituelle, \"Serment de la Tortue\". Vous devez également sacrifier des monstres dont le total des Niveaux est égal à 8 ou plus du Terrain ou de votre main.",
+  "level": 8,
+  "atk": 2550,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Rituel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9960,
+  "type": "monster",
+  "name": "Zubaba-Brecher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte deinem Gegner Kampfschaden zufügt, am Ende des Damage Steps: Zerstöre das 1 offene Monster auf dem Spielfeld, das die niedrigsten ATK hat, (bei Gleichstand darfst du eins wählen) und falls du dies tust, verliert diese Karte 800 ATK.",
+  "level": 3,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

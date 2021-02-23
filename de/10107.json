@@ -1,0 +1,15 @@
+{
+  "id": 10107,
+  "type": "monster",
+  "name": "Käfron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 offene/n Zauber/Falle, den oder die du kontrollierst, auf den Friedhof legen und dann 1 Insekt-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre das Insekt-Monster als Spezialbeschwörung in die Verteidigungsposition. Du kannst diesen Effekt von „Käfron“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

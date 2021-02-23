@@ -1,0 +1,15 @@
+{
+  "id": 8453,
+  "type": "monster",
+  "name": "Araignée Sniper",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte détruit un monstre de votre adversaire en Position de Défense au combat, vous pouvez sélectionner et Invoquer Spécialement 1 monstre de Type Insecte de Niveau 4 ou moins depuis votre Cimetière.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

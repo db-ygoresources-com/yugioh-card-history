@@ -1,0 +1,18 @@
+{
+  "id": 12277,
+  "type": "monster",
+  "name": "Artistamico Fuocolucciola",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se un mostro \"Artistamico\" o \"Occhi Diversi\" che controlli attacca, il tuo avversario non può attivare nessuna Carta Magia/Trappola fino alla fine del Damage Step.",
+  "pendEffect": "Una volta per turno, quando un mostro dell'avversario dichiara un attacco: puoi offrire come Tributo 1 mostro \"Artistamico\"; annulla l'attacco, poi termina la Battle Phase.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Insetto",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9743,
+  "type": "monster",
+  "name": "Chauve-Souris Automate",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez cibler 1 monstre \"Automate\" dans votre Cimetière ; changez cette carte face recto en Position d'Attaque que vous contrôlez en Position de Défense face recto, et ajoutez la cible à votre main. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 1,
+  "atk": 300,
+  "def": 350,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

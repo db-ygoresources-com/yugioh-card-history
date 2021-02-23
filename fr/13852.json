@@ -1,0 +1,16 @@
+{
+  "id": 13852,
+  "type": "monster",
+  "name": "Aile Noire - Maître Complet des Armures",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur \"Aile Noire\" + 1+ monstre non-Syntoniseur\nNon affectée par les effets d'autres cartes. Chaque fois qu'un monstre de l'adversaire active son effet, placez 1 Compteur Cuirasse sur le monstre de l'adversaire (max. 1) après la résolution de l'effet. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec un Compteur Cuirasse ; prenez-en le contrôle. Une fois par tour, durant votre End Phase : vous pouvez détruire tous les monstres sur le Terrain qui ont un Compteur Cuirasse.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Bête Ailée",
+    "Synchro",
+    "Effet"
+  ]
+}

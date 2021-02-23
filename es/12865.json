@@ -1,0 +1,18 @@
+{
+  "id": 12865,
+  "type": "monster",
+  "name": "Actor del Abismo - Brilla Estrellita",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser destruido en batalla durante tu turno. Esta carta puede hacer hasta 3 ataques a monstruos durante cada Battle Phase.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Actor del Abismo\". Este efecto no puede ser negado. Una vez por turno: puedes seleccionar 1 monstruo \"Actor del Abismo\" que controles; este turno, éste puede hacer hasta 3 ataques a monstruos durante cada Battle Phase, y además por el resto de este turno los otros monstruos que controles no pueden atacar (aun si esta carta deja el Campo).",
+  "pendScale": 9,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10927,
+  "type": "monster",
+  "name": "Sirènorca",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si vous contrôlez des monstres de Type Poisson et Bête Ailée, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Lorsque vous le faites : vous pouvez déclarer un Niveau de 3 à 5 ; le Niveau de tous les monstres que vous contrôlez actuellement devient du Niveau déclaré. Si vous activez cet effet, le reste de ce tour, les monstres (monstres EAU exclus) que vous contrôlez ne peuvent pas activer leurs effets.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

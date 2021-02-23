@@ -1,0 +1,15 @@
+{
+  "id": 14095,
+  "type": "monster",
+  "name": "Maître de l'Épée Shiranui",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est dans votre Cimetière et que vous contrôlez min. 2 monstres \"Shiranui\" de noms différents : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Si cette carte est bannie : vous pouvez cibler 1 monstre Zombie que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 600 ATK. Vous ne pouvez utiliser chaque effet de \"Maître de l'Épée Shiranui\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 600,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

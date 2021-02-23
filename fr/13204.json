@@ -1,0 +1,19 @@
+{
+  "id": 13204,
+  "type": "monster",
+  "name": "Sorcière Binaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres (Jetons exclus)\nCette carte gagne ces effets selon le nombre de monstres co-liés à cette carte.\n●1+ : Lorsqu'un monstre co-lié à cette carte combat un monstre de votre adversaire et lui inflige des dommages de combat : vous pouvez gagner autant de LP.\n●2 : Une fois par tour (Effet Rapide) : vous pouvez cibler 2 monstres face recto que vous contrôlez ; jusqu'à la fin de ce tour, divisez par deux l'ATK d'1 monstre, et si vous le faites, ajoutez l'ATK perdue à l'autre monstre.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

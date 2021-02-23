@@ -1,0 +1,15 @@
+{
+  "id": 12356,
+  "type": "monster",
+  "name": "Chica Maga Limón",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes Sacrificar 1 monstruo \"Chica Maga\", excepto \"Chica Maga Limón\"; añade a tu mano, desde tu Deck, 1 monstruo de Tipo Lanzador de Conjuros. Una vez por turno, si esta carta es seleccionada para un ataque: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo de Tipo Lanzador de Conjuros, pero sus efectos (si los tiene) son negados, y después cambia el objetivo del ataque a él y, si lo haces, el ATK del monstruo atacante se convierte en la mitad de su ATK en este momento.",
+  "level": 2,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

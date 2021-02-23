@@ -1,0 +1,15 @@
+{
+  "id": 5000,
+  "type": "monster",
+  "name": "El Dragón Alado de Ra",
+  "englishAttribute": "divine",
+  "localizedAttribute": "DIVINIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial. Requiere 3 Sacrificios para ser Invocado de Modo Normal (no puede ser Colocado de Modo Normal). La Invocación Normal de esta carta no puede ser negada. Cuando es Invocado de Modo Normal, no se pueden activar otras cartas ni efectos. Cuando esta carta es Invocada de Modo Normal: puedes pagar LP hasta que sólo te queden 100; esta carta gana ATK/DEF iguales a la cantidad de LP pagados. Puedes pagar 1000 LP, y después seleccionar 1 monstruo en el Campo; destruye ese objetivo.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Bestia Divina",
+    "Efecto"
+  ]
+}

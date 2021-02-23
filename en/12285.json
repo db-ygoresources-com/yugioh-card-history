@@ -1,0 +1,18 @@
+{
+  "id": 12285,
+  "type": "monster",
+  "name": "Lunalight Tiger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card on the field is destroyed by battle or card effect: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Lunalight Tiger\" once per turn.",
+  "pendEffect": "Once per turn: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it, but it cannot attack, its effects are negated, also it is destroyed during the End Phase.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Beast-Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}

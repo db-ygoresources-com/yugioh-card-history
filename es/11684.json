@@ -1,0 +1,15 @@
+{
+  "id": 11684,
+  "type": "monster",
+  "name": "Samurai Superpesado Alma Guante Destructor",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes seleccionar 1 monstruo \"Samurai Superpesado\" que controles; equipa este monstruo en tu mano o Campo a ese objetivo. Ese gana 400 DEF. Durante el Damage Step de cualquier jugador, cuando un monstruo \"Samurai Superpesado\" en Posición de Defensa que controles batalle con un monstruo de tu adversario, y tú no tengas Cartas Mágicas/de Trampa en tu Cementerio: puedes mandar al Cementerio esta carta en tu mano; hasta el final de este turno, la DEF de tu monstruo batallante se convierte en el doble de su DEF original.",
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

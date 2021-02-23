@@ -1,0 +1,16 @@
+{
+  "id": 15470,
+  "type": "monster",
+  "name": "Soldat du Lustre Noir Toon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en Sacrifiant des monstres Toon depuis votre main ou Terrain, dont le Niveau total est égal à min. 8. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement. Une fois par tour, si vous contrôlez \"Monde des Toons\" : vous pouvez cibler 1 carte sur le Terrain ; bannissez-la, et aussi, cette carte ne peut pas attaquer le tour où cet effet est activé.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Toon",
+    "Effet"
+  ]
+}

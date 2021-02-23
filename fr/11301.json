@@ -1,0 +1,18 @@
+{
+  "id": 11301,
+  "type": "monster",
+  "name": "Griffe d'Argent Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte déclare une attaque : jusqu'à la fin de la Battle Phase, tous les monstres \"Potartiste\" que vous contrôlez actuellement gagnent 300 ATK.",
+  "pendEffect": "Tous les monstres \"Potartiste\" que vous contrôlez gagnent 300 ATK.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

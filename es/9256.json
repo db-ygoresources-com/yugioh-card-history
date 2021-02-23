@@ -1,0 +1,16 @@
+{
+  "id": 9256,
+  "type": "monster",
+  "name": "Llamarada Fénix, el Pájaro del Bombardeo Abrasador",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 monstruo de Tipo Máquina + 1 monstruo de Tipo Piro\nUna vez por turno, durante tu Main Phase: puedes infligir 300 puntos de daño a tu adversario por cada carta en el Campo. Esta carta no puede atacar en el turno en el que activaste este efecto.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Piro",
+    "Fusión",
+    "Efecto"
+  ]
+}

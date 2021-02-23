@@ -1,0 +1,15 @@
+{
+  "id": 11010,
+  "type": "monster",
+  "name": "Dynathérium",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Dynathérium\" qu'une fois par tour de cette façon. Lorsqu'elle est Invoquée de cette façon : votre adversaire peut cibler 1 monstre de Niveau 4 dans l'un des Cimetières ; il Invoque Spécialement la cible sur son Terrain.",
+  "level": 4,
+  "atk": 1600,
+  "def": 600,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8016,
+  "type": "monster",
+  "name": "Frondon Morphtronique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "●En Position d'Attaque : Une fois par tour, vous pouvez Sacrifier 1 monstre \"Morphtronique\", excepté \"Frondon Morphtronique\", pour détruire 1 carte sur le Terrain.\n ●En Position de Défense : Si cette carte doit être détruite, vous pouvez détruire un autre monstre \"Morphtronique\" que vous contrôlez à la place.",
+  "level": 4,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

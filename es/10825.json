@@ -1,0 +1,15 @@
+{
+  "id": 10825,
+  "type": "monster",
+  "name": "Gaia, el Caballero del Sol de Medianoche",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Sólo puedes usar cada efecto de \"Gaia, el Caballero del Sol de Medianoche\" una vez por turno.\n●Puedes Sacrificar otro monstruo de LUZ; añade a tu mano 1 monstruo de OSCURIDAD de Tipo Guerrero de Nivel 4 en tu Deck, y después manda al Cementerio 1 carta en tu mano.\n●Puedes desterrar 1 monstruo de OSCURIDAD en tu Cementerio, y después seleccionar 1 monstruo en el Campo; hasta el final del turno de tu adversario, éste pierde 500 ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7888,
+  "type": "monster",
+  "name": "Eisenketten-Spule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du 1 „Eisenketten“-Monster wählen, das du kontrollierst, um es 300 ATK und DEF erhalten zu lassen, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

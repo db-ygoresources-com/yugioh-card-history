@@ -1,0 +1,18 @@
+{
+  "id": 11938,
+  "type": "monster",
+  "name": "Artistamico Teschiocrobata Giullare",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi aggiungere 1 mostro \"Artistamico\", Mostro Pendulum \"Mago\" o mostro \"Occhi Diversi\" dal tuo Deck alla tua mano, eccetto \"Artistamico Teschiocrobata Giullare\".",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Artistamico\", Mostri Pendulum \"Mago\" o mostri \"Occhi Diversi\". Questo effetto non può essere annullato.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

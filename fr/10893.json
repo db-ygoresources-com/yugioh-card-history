@@ -1,0 +1,15 @@
+{
+  "id": 10893,
+  "type": "monster",
+  "name": "Chargeur Photon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : jusqu'à votre prochaine Standby Phase, vous pouvez faire devenir l'ATK de cette carte le double de son ATK d'origine. Cette carte ne peut pas attaquer le tour où vous activez cet effet.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

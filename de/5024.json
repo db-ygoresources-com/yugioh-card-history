@@ -1,0 +1,15 @@
+{
+  "id": 5024,
+  "type": "monster",
+  "name": "Feenkönig Wahrtal",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange diese Karte in Verteidigungsposition liegt, erhalten alle Monster vom Typ Pflanze, die du kontrollierst, 500 ATK und DEF.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1500,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

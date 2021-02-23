@@ -1,0 +1,20 @@
+{
+  "id": 13167,
+  "type": "monster",
+  "name": "プロキシー・ドラゴン",
+  "nameRuby": "プロキシー・ドラゴン",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "モンスター２体\n①：自分フィールドのカードが戦闘・効果で破壊される場合、代わりにこのカードのリンク先の自分のモンスター１体を破壊できる。",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1400,
+  "properties": [
+    "サイバース族",
+    "リンク",
+    "効果"
+  ]
+}

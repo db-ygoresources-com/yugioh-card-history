@@ -1,0 +1,15 @@
+{
+  "id": 7571,
+  "type": "monster",
+  "name": "Athéna",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un ou plusieurs autres monstres Elfe sont Invoqués : infligez 600 points de dommages à votre adversaire. Une fois par tour : vous pouvez envoyer 1 monstre Elfe face recto que vous contrôlez (\"Athéna\" exclu) au Cimetière, puis ciblez 1 monstre Elfe (\"Athéna\" exclu) dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 7,
+  "atk": 2600,
+  "def": 800,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

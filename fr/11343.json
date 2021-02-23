@@ -1,0 +1,15 @@
+{
+  "id": 11343,
+  "type": "monster",
+  "name": "Mur Bouclierâme Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez cibler 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; équipez ce monstre depuis votre main ou votre Terrain à la cible. Il gagne 1200 DEF. Lorsque le monstre équipé avec cette carte par cet effet est ciblé par une attaque : vous pouvez envoyer cette Carte d'Équipement au Cimetière ; annulez l'attaque, mais la DEF du monstre équipé devient 0.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

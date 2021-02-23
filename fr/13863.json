@@ -1,0 +1,18 @@
+{
+  "id": 13863,
+  "type": "monster",
+  "name": "Acteur des Abysses - Soulagement Comique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne recevez aucun dommage de combat d'attaques impliquant cette carte. Une fois par tour, durant votre Standby Phase : donnez le contrôle de cette carte à votre adversaire. Une fois par tour, si le contrôle de cette carte face recto change : activez cet effet ; le propriétaire de cette carte peut détruire 1 Magie \"Script des Abysses\" Posée dans sa Zone Magie & Piège.",
+  "pendEffect": "Vous pouvez cibler 1 Monstre Pendule \"Acteur des Abysses\" que vous contrôlez et 1 monstre contrôlé par votre adversaire ; échangez le contrôle des deux monstres, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Soulagement Comique\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8901,
+  "type": "monster",
+  "name": "Guerrero Laval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando esta carta destruye un monstruo de tu adversario en batalla: inflige daño a tu adversario igual al ATK original del monstruo destruido. Debes tener en tu Cementerio 4 o más monstruos \"Laval\" con nombres diferentes para activar y para resolver este efecto.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

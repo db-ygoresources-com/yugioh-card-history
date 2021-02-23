@@ -1,0 +1,18 @@
+{
+  "id": 12908,
+  "type": "monster",
+  "name": "Mago Doppia Iride",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "(Questa carta viene sempre considerata come una carta \"Drago Pendulum\".)\nSe questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi aggiungere 1 carta \"Pendulumgrafo\" dal tuo Deck alla tua mano.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro OSCURITÀ di Tipo Incantatore che controlli; applica questo effetto ad esso, poi distruggi questa carta. Una volta applicato, raddoppia qualsiasi danno da combattimento che quel mostro infligge al tuo avversario in questo turno se esso combatte con un mostro dell'avversario.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

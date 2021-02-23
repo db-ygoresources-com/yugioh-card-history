@@ -1,0 +1,15 @@
+{
+  "id": 5254,
+  "type": "monster",
+  "name": "El Espíritu Roca",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de TIERRA en tu Cementerio. Gana 300 ATK sólo durante la Battle Phase de tu adversario.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

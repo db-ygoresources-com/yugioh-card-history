@@ -1,0 +1,18 @@
+{
+  "id": 12425,
+  "type": "monster",
+  "name": "Dinomist Ankylos",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "Banish any monster destroyed by battle with a \"Dinomist\" monster you control.",
+  "pendEffect": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

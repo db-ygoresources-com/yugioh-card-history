@@ -1,0 +1,15 @@
+{
+  "id": 5424,
+  "type": "monster",
+  "name": "Jarre Dés",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Chaque joueur lance un dé à six faces. Le joueur avec le résultat le plus faible reçoit des dommages égaux au résultat de son adversaire x 500. Cependant, si le résultat du gagnant est 6, le perdant reçoit 6000 points de dommages. Si les résultats sont les mêmes, chaque joueur relance le dé.",
+  "level": 3,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

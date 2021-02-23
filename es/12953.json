@@ -1,0 +1,19 @@
+{
+  "id": 12953,
+  "type": "monster",
+  "name": "Rey Supremo Z-ARC",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "4 monstruos Dragón (1 de Fusión, 1 de Sincronía, 1 Xyz y 1 de Péndulo)\nDebe ser Invocado por Fusión. Si esta carta es Invocada de Modo Especial: destruye todas las cartas que controle tu adversario. No puede ser destruida por efectos de cartas de tu adversario. Tu adversario no puede seleccionar esta carta con efectos de cartas. Cuando esta carta destruye un monstruo del adversario en batalla: puedes Invocar de Modo Especial, desde tu Deck o Deck Extra, 1 monstruo \"Rey Supremo Dragón\". Si esta carta en la Zona de Monstruos es destruida en batalla o por efecto de una carta: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Los Monstruos de Fusión, Sincronía y Xyz que controle tu adversario no pueden activar sus efectos. Una vez por turno, cuando una o más cartas son añadidas a la mano de tu adversario desde su Deck Principal (excepto durante la Draw Phase o el Damage Step): puedes destruir esa o esas cartas.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

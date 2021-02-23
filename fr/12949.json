@@ -1,0 +1,15 @@
+{
+  "id": 12949,
+  "type": "monster",
+  "name": "Fou du Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant le tour de chaque joueur : vous pouvez défausser cette carte ; infligez 1000 points de dommages à votre adversaire, et si vous le faites, sautez votre prochaine Draw Phase. Vous ne pouvez utiliser cet effet de \"Fou du Feu\" qu'une fois par tour. Chaque fois que votre adversaire reçoit des dommages d'effet, placez 1 Compteur sur cette carte. Une fois par tour, durant la End Phase : retirez tous les Compteurs de cette carte qui ont été placés par son effet, et si vous le faites, infligez 300 points de dommages à votre adversaire pour chacun d'eux.",
+  "level": 4,
+  "atk": 1700,
+  "def": 200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

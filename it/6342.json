@@ -1,0 +1,16 @@
+{
+  "id": 6342,
+  "type": "monster",
+  "name": "Reshef l'Entità Oscura",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Questo mostro può essere Evocato solo tramite Evocazione Rituale utilizzando la Carta Magia Rituale \"Rituale Finale degli Antichi\". Scarta 1 Carta Magia dalla tua mano. Prendi il controllo di 1 mostro sul Terreno del tuo avversario fino alla End Phase. Puoi usare questo effetto solo una volta per turno.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Demone",
+    "Rituale",
+    "Effetto"
+  ]
+}

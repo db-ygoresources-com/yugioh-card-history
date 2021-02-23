@@ -1,0 +1,16 @@
+{
+  "id": 15278,
+  "type": "monster",
+  "name": "Melffy de la Forêt",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 2\nVous pouvez détacher 1 Matériel de cette carte ; ajoutez 1 carte \"Melffy\" depuis votre Deck à votre main. Si un autre monstre \"Melffy\" face recto que vous contrôlez est renvoyé à votre main (sauf durant la Damage Step) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; il ne peut pas attaquer, et aussi, ses effets sont annulés tant qu'il est face recto sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Melffy de la Forêt\" qu'une fois par tour.",
+  "rank": 2,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Bête",
+    "Xyz",
+    "Effet"
+  ]
+}

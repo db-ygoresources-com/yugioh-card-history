@@ -1,0 +1,15 @@
+{
+  "id": 9039,
+  "type": "monster",
+  "name": "Akz, le Guerrier Puma",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut ni être Invoquée Normalement ni être Posée. Cette carte ne peut être Invoquée Spécialement qu'en retirant du jeu 2 monstres de Type Bête-Guerrier depuis votre Cimetière. Une fois par tour, vous pouvez défausser 1 monstre de Type Bête-Guerrier pour activer 1 des effets suivants :\n ●Doublez l'ATK de cette carte jusqu'à la End Phase.\n ●Cette carte peut attaquer directement votre adversaire ce tour.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

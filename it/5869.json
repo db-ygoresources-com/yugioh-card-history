@@ -1,0 +1,15 @@
+{
+  "id": 5869,
+  "type": "monster",
+  "name": "Valkyria del Mago",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "I mostri controllati dal tuo avversario non possono scegliere come bersaglio per gli attacchi i mostri di Tipo Incantatore scoperti, eccetto questo.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

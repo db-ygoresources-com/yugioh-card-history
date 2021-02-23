@@ -1,0 +1,15 @@
+{
+  "id": 10059,
+  "type": "monster",
+  "name": "Herrin der Drachen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dein Gegner kann keine offenen Monster vom Typ Drache, die du kontrollierst, als Ziel für Angriffe wählen. Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 Monster vom Typ Drache von deiner Hand auf den Friedhof legen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

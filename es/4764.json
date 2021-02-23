@@ -1,0 +1,15 @@
+{
+  "id": 4764,
+  "type": "monster",
+  "name": "Gran Escudo Gardna",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando es activada una Carta Mágica que seleccione esta carta boca abajo (y ninguna otra carta) (Efecto Rápido): cambia esta carta a Posición de Defensa boca arriba y, si lo haces, niega la activación. Si esta carta es atacada, cámbiala a Posición de Ataque al final del Damage Step.",
+  "level": 4,
+  "atk": 100,
+  "def": 2600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

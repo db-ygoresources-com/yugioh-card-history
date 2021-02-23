@@ -1,0 +1,19 @@
+{
+  "id": 12828,
+  "type": "monster",
+  "name": "Dragón Veloz Ala Transparente",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1+ monstruos de VIENTO que no sean Cantantes\n(Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario que fue Invocado de Modo Especial desde el Deck Extra; hasta el final de este turno, cambia su ATK a 0, y además niega los efectos de ese monstruo boca arriba. Sólo puedes usar este efecto de \"Dragón Veloz Ala Transparente\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida en batalla o por efecto de una carta: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Puedes mandar al Cementerio 1 Cantante \"Velociroid\" boca arriba y 1 monstruo boca arriba que no sea Cantante que controles, cuyos Niveles totales sean iguales a 7; Invoca esta carta de Modo Especial desde tu Zona de Péndulo. Sólo puedes usar este efecto de \"Dragón Veloz Ala Transparente\" una vez por turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Péndulo",
+    "Efecto"
+  ]
+}

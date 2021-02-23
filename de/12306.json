@@ -1,0 +1,15 @@
+{
+  "id": 12306,
+  "type": "monster",
+  "name": "Digitalkäfer Tausendbit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Xyz-Material für eine Xyz-Beschwörung verwendet werden, außer für die Xyz-Beschwörung eines Monsters vom Typ Insekt. Einmal pro Spielzug, wenn diese offene Karte aus der Angriffsposition in die Verteidigungsposition geändert wird: Du kannst 1 Monster vom Typ Insekt der Stufe 3 als Spezialbeschwörung von deinem Deck in die Verteidigungsposition beschwören. Ein Xyz-Monster, das mit dieser Karte auf dem Spielfeld als Xyz-Material beschworen wurde, erhält diesen Effekt.\n●Diese Karte kann alle Monster in Verteidigungsposition, die dein Gegner kontrolliert, einmal angreifen.",
+  "level": 3,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

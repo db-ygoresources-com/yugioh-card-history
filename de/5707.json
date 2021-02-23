@@ -1,0 +1,15 @@
+{
+  "id": 5707,
+  "type": "monster",
+  "name": "Wächter von Ceal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht beschworen werden, es sei denn, du kontrollierst einen offenen „Ceal, Sternschnuppenbogen“. Du kannst 1 Ausrüstungszauberkarte, die du kontrollierst und mit der diese Karte ausgerüstet ist, auf den Friedhof legen, um 1 Monster zu wählen, das dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

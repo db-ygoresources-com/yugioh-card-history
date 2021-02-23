@@ -1,0 +1,15 @@
+{
+  "id": 9110,
+  "type": "monster",
+  "name": "Princesse Dansante de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, si vous contrôlez un autre monstre \"Barrière de Glace\" : vous pouvez révéler un nombre de votre choix de monstres \"Barrière de Glace\" dans votre main, puis ciblez un nombre égal de Magies/Pièges Posés contrôlés par votre adversaire ; renvoyez les cibles à la main.",
+  "level": 4,
+  "atk": 1700,
+  "def": 900,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14040,
+  "type": "monster",
+  "name": "Tsuchigumo, Mayakashi du Poison",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nVous ne pouvez contrôler qu'1 \"Tsuchigumo, Mayakashi du Poison\". Vous ne pouvez utiliser chacun de ces effets de \"Tsuchigumo, Mayakashi du Poison\" qu'une fois par tour.\n●Si un Monstre Synchro en votre possession, dont le Niveau d'origine est 7, est détruit au combat ou par un effet de carte de l'adversaire tant que cette carte est dans le Cimetière : vous pouvez bannir 1 autre monstre Zombie depuis votre Cimetière, et si vous le faites, Invoquez Spécialement cette carte.\n●Si cette carte est Invoquée Spécialement depuis le Cimetière : vous pouvez envoyer à chaque joueur les 3 cartes du dessus de son Deck au Cimetière.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effet"
+  ]
+}

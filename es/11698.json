@@ -1,0 +1,18 @@
+{
+  "id": 11698,
+  "type": "monster",
+  "name": "Zefranúcleo Sombrañeca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada por Péndulo o mandada al Cementerio: puedes seleccionar 1 carta \"Zefra\" en tu Zona de Péndulo, excepto \"Zefranúcleo Sombrañeca\"; Invócala de Modo Especial. Sólo puedes usar este efecto de \"Zefranúcleo Sombrañeca\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Sombrañeca\" y \"Zefra\". Este efecto no puede ser negado.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 450,
+  "def": 1950,
+  "properties": [
+    "Roca",
+    "Péndulo",
+    "Efecto"
+  ]
+}

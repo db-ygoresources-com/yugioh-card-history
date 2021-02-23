@@ -1,0 +1,16 @@
+{
+  "id": 7718,
+  "type": "monster",
+  "name": "Commandant Psychique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre de Type Psychique que vous contrôlez combat, durant la Damage Step vous pouvez payer des Life Points en multiples de 100 (max. 500) pour que le monstre qu'il combat perde ce même montant en ATK et DEF, jusqu'à la End Phase.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Psychique",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

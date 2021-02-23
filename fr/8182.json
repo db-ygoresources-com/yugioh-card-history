@@ -1,0 +1,15 @@
+{
+  "id": 8182,
+  "type": "monster",
+  "name": "Maître de la Destruction Psy",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez payer 1000 Life Points pour détruire un nombre de monstres contrôlés par votre adversaire égal au nombre de monstres de Type Psychique face recto que vous contrôlez.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1400,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

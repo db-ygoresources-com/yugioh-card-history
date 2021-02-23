@@ -1,0 +1,15 @@
+{
+  "id": 7885,
+  "type": "monster",
+  "name": "Reparador de Cadena de Hierro",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta destruye un monstruo en batalla y lo manda al Cementerio, inflige 300 puntos de daño a tu adversario. Una vez por turno, puedes Invocar de Modo Especial desde tu Cementerio 1 monstruo \"Cadena de Hierro\" de Nivel 4 o menor, excepto \"Reparador de Cadena de Hierro\". Esta carta no puede atacar el turno en el que actives este efecto.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

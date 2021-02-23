@@ -1,0 +1,15 @@
+{
+  "id": 6768,
+  "type": "monster",
+  "name": "Delfín Aqua Neo Espacial",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno: puedes descartar 1 carta; mira la mano de tu adversario y elige 1 monstruo. Si controlas un monstruo con ATK igual o mayor que el ATK de la carta elegida, destruye la carta elegida y, si lo haces, inflige 500 puntos de daño a tu adversario. De otra forma, tú recibes 500 puntos de daño.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

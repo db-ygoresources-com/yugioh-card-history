@@ -1,0 +1,16 @@
+{
+  "id": 7870,
+  "type": "monster",
+  "name": "Turbosynchron",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte einen Angriff deklariert: Du kannst das Angriffsziel in die Verteidigungsposition ändern. Wenn du Kampfschaden erhältst, solange diese Karte angreift: Du kannst 1 Monster, dessen ATK kleiner oder gleich dem Kampfschaden sind, den du erhalten hast, als Spezialbeschwörung von deiner Hand beschwören.",
+  "level": 1,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

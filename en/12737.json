@@ -1,0 +1,18 @@
+{
+  "id": 12737,
+  "type": "monster",
+  "name": "Performapal Handstandaccoon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "When this card is destroyed by battle: You can target 1 card on the field; return it to the hand.",
+  "pendEffect": "You can target 1 \"Performapal\" card you control; return it to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as the one returned to the hand by this effect (even if this card leaves the field). You can only use this effect of \"Performapal Handstandaccoon\" once per turn.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 400,
+  "def": 600,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

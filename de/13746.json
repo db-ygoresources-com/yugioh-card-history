@@ -1,0 +1,16 @@
+{
+  "id": 13746,
+  "type": "monster",
+  "name": "Demise, Oberster König des Jüngsten Tages",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Zyklus der Welt“ als Ritualbeschwörung beschwören. Der Name dieser Karte wird zu „Demise, König des Jüngsten Tages“, solange sie sich in der Hand oder auf dem Spielfeld befindet. Solange diese als Ritualbeschwörung beschworene Karte auf dem Spielfeld liegt, können deine Ritualmonster nicht durch Kampf zerstört werden. Falls alle Monster, die verwendet wurden, um diese Karte als Ritualbeschwörung zu beschwören, Ritualmonster waren, zahlst du keine LP, um ihre Effekte zu aktivieren. Einmal pro Spielzug: Du kannst 2000 LP zahlen; zerstöre so viele andere Karten auf dem Spielfeld wie möglich und falls du dies tust, füge deinem Gegner 200 Schaden für jede zerstörte Karte zu, die er kontrolliert hat.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Effekt"
+  ]
+}

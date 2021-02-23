@@ -1,0 +1,16 @@
+{
+  "id": 11565,
+  "type": "monster",
+  "name": "Dragon Pendule aux Yeux Runiques",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Dragon Pendule aux Yeux Impairs\" + 1 monstre de Type Magicien\nSi cette carte a été Invoquée par Fusion en utilisant un ou plusieurs monstres Invoqués par Pendulation sur le Terrain comme Matériels de Fusion, elle n'est pas affectée par des effets de carte de votre adversaire ce tour. Appliquez l'effet approprié, selon le Niveau d'origine du monstre utilisé comme Matériel de Fusion qui n'était pas \"Dragon Pendule aux Yeux Impairs\".\n●Max. Niveau 4 : Durant chaque Battle Phase, cette carte peut faire max. 2 attaques sur des monstres.\n●Min. Niveau 5 : Durant chaque Battle Phase, cette carte peut faire max. 3 attaques sur des monstres.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

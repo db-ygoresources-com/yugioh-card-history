@@ -1,0 +1,16 @@
+{
+  "id": 8965,
+  "type": "monster",
+  "name": "Elefun",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird, kannst du 1 deiner aus dem Spiel entfernten Monster vom Typ Ungeheuer, Ungeheuer-Krieger oder Geflügeltes Ungeheuer der Stufe 3 oder niedriger wählen und deiner Hand hinzufügen.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

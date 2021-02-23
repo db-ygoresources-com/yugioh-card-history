@@ -1,0 +1,15 @@
+{
+  "id": 7492,
+  "type": "monster",
+  "name": "Kartenauswerfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Karte im Friedhof deines Gegners wählen; verbanne das gewählte Ziel.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

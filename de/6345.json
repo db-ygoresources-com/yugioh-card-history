@@ -1,0 +1,16 @@
+{
+  "id": 6345,
+  "type": "monster",
+  "name": "Elementar-HELD Donnergigant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Elementar-HELD Sparkman“ + „Elementar-HELD Clayman“\nMuss als Fusionsbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 Karte abwerfen, um 1 offenes Monster auf dem Spielfeld zu wählen, dessen Grund-ATK kleiner sind als die ATK dieser Karte; zerstöre das gewählte Ziel.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

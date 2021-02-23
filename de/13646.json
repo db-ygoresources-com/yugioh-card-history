@@ -1,0 +1,15 @@
+{
+  "id": 13646,
+  "type": "monster",
+  "name": "Vampirfräulein",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn ein Monster einen Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Du kannst diesen Effekt von „Vampirfräulein“ nur einmal pro Spielzug verwenden. Einmal pro Kampf, falls dein Zombie-Monster gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst LP in Vielfachen von 100 zahlen (max. 3000); dein kämpfendes Monster erhält nur während der Schadensberechnung so viele ATK/DEF. Am Ende der Battle Phase, falls diese Karte ein oder mehr Monster durch Kampf zerstört hat: Du kannst sie als Spezialbeschwörung von den Friedhöfen auf deine Spielfeldseite beschwören.",
+  "level": 5,
+  "atk": 600,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

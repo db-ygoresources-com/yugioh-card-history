@@ -1,0 +1,16 @@
+{
+  "id": 7263,
+  "type": "monster",
+  "name": "Dragón Fósil Craneogios",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo Roca + 1 monstruo de Nivel 7 o mayor en el Cementerio de tu adversario\nDebe ser primero Invocado de Modo Especial con \"Fusión Fósil\". Antes del cálculo de daño, si esta carta batalla con un monstruo del adversario: hasta el final de ese Damage Step, puedes intercambiar el ATK y DEF actuales de ese monstruo del adversario. Si esta carta ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Si esta carta Invocada por Fusión batalla con un monstruo del adversario, cualquier daño de batalla que inflija a tu adversario se duplica.",
+  "level": 8,
+  "atk": 3500,
+  "def": 0,
+  "properties": [
+    "Roca",
+    "Fusión",
+    "Efecto"
+  ]
+}

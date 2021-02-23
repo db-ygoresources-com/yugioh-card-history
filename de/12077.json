@@ -1,0 +1,16 @@
+{
+  "id": 12077,
+  "type": "monster",
+  "name": "Goyoverfolger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster\nDiese Karte erhält 300 ATK für jedes ERDE Synchromonster vom Typ Krieger auf dem Spielfeld (außer dieser Karte). Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst das Monster als Spezialbeschwörung auf deine Spielfeldseite beschwören, aber seine ATK werden halbiert.",
+  "level": 5,
+  "atk": 1900,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

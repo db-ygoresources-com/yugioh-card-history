@@ -1,0 +1,15 @@
+{
+  "id": 10836,
+  "type": "monster",
+  "name": "Taucherhund",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls dein Gegner ein Monster kontrolliert und alle offenen Monster, die du kontrollierst (min. 1), Stufe 4 sind, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Taucherhund“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Diese Karte kann nicht als Xyz-Material für eine Xyz-Beschwörung verwendet werden, außer für die Xyz-Beschwörung eines Monsters vom Typ Krieger.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

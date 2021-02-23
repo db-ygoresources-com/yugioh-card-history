@@ -1,0 +1,20 @@
+{
+  "id": 13934,
+  "type": "monster",
+  "name": "Folgo, Juez Mascota a Sueldo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 monstruos con Tipos diferentes\nNo puede ser usado como Material de Enlace. Si esta carta es Invocada por Enlace: puedes Invocar de Modo Especial en Posición de Defensa 1 monstruo \"Mascota a Sueldo\" en tu Deck, con un Tipo diferente al de los 3 monstruos usados para la Invocación por Enlace. Si una o más cartas que controla tu adversario es destruida en batalla o por efecto de una carta: puedes robar 1 carta, y después, si controlas 3 o más monstruos \"Mascota a Sueldo\" con nombres diferentes, roba 2 cartas adicionales. Sólo puedes usar cada efecto de \"Folgo, Juez Mascota a Sueldo\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Bestia",
+    "Enlace",
+    "Efecto"
+  ]
+}

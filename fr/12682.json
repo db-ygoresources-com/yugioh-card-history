@@ -1,0 +1,15 @@
+{
+  "id": 12682,
+  "type": "monster",
+  "name": "Chose de Magie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Le Niveau de cette carte est augmenté du nombre de Compteurs Magie sur elle. Vous pouvez retirer 3 Compteurs Magie de cette carte, puis ciblez 1 Magie Jeu-Rapide dans votre Cimetière ; Posez la carte dans votre Zone Magie & Piège. Vous ne pouvez utiliser cet effet de \"Chose de Magie\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1300,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13038,
+  "type": "monster",
+  "name": "Diablillo de Comealgodón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Especial: puedes infligir 200 puntos de daño a tu adversario por cada monstruo \"Atemorizante\" en tu Cementerio. Sólo puedes usar este efecto de \"Diablillo de Comealgodón\" una vez por turno.",
+  "pendEffect": "Todos los Monstruos de Fusión que controles ganan 300 ATK. Una vez por turno, si uno o más Monstruos de Fusión \"Atemorizante\" son Invocados por Fusión a tu Campo (excepto durante el Damage Step): puedes robar 1 carta.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

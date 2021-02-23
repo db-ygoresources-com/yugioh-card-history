@@ -1,0 +1,18 @@
+{
+  "id": 12150,
+  "type": "monster",
+  "name": "Zebra Bizzarra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi selezionare 1 Zona Mostri o Zona Magie & Trappole non utilizzata; mentre questa carta è scoperta nella Zona Mostri, quella Zona non può essere utilizzata.",
+  "pendEffect": "Una volta per turno, durante la tua Main Phase, se questa carta è stata attivata in questo turno: puoi selezionare 1 Zona Mostri o Zona Magie & Trappole non utilizzata; mentre questa carta è nella Zona Pendulum, la Zona selezionata non può essere utilizzata.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

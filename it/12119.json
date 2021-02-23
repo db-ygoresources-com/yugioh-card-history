@@ -1,0 +1,18 @@
+{
+  "id": 12119,
+  "type": "monster",
+  "name": "Samurai Superpesante Generale Corallo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se non hai nessuna Carta Magia/Trappola nel tuo Cimitero: puoi offrire come Tributo fino a 2 mostri \"Samurai Superpesante\"; pesca quel numero di carte. Puoi utilizzare questo effetto di \"Samurai Superpesante Generale Corallo\" una sola volta per turno.",
+  "pendEffect": "Mentre hai una o più carte Magia/Trappola nel tuo Cimitero, il Valore Pendulum di questa carta diventa 4. Una volta per turno, quando un mostro \"Samurai Superpesante\" che controlli distrugge un mostro dell'avversario in battaglia: puoi attivare questo effetto; quel mostro può effettuare un secondo attacco di seguito (anche se questa carta lascia il Terreno).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

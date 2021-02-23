@@ -1,0 +1,15 @@
+{
+  "id": 12565,
+  "type": "monster",
+  "name": "Mago Silente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocata Normalmente/Posizionata. Deve essere Evocata Specialmente (dalla tua mano) offrendo come Tributo 1 mostro di Tipo Incantatore, e non può essere Evocata Specialmente in altri modi. Questa carta guadagna 500 ATK per ogni carta nella tua mano. Una volta per turno, durante il turno di qualsiasi giocatore, quando viene attivata una Carta Magia: puoi annullare l'attivazione. Se questa carta viene distrutta in battaglia, o se questa carta sotto il controllo del suo proprietario viene distrutta dall'effetto di una carta dell'avversario: puoi Evocare Specialmente 1 mostro \"Mago Silente\" dalla tua mano o Deck, eccetto \"Mago Silente\", ignorando le sue condizioni di Evocazione.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

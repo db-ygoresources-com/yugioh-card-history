@@ -1,0 +1,15 @@
+{
+  "id": 14630,
+  "type": "monster",
+  "name": "Crowntail Marincesa",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Durante el cálculo de daño, si un monstruo batalla con otro monstruo (Efecto Rápido): puedes mandar al Cementerio otro monstruo \"Marincesa\" en tu mano; Invoca esta carta de Modo Especial desde tu mano y, si lo haces, el daño que recibes de esa batalla se divide a la mitad. Al comienzo del Damage Step, si un monstruo del adversario ataca: puedes desterrar esta carta en tu Cementerio; este turno, no recibes daño de batalla que sea igual o menor que el Rating de Enlace total de los Monstruos de Enlace \"Marincesa\" en tu Cementerio x 1000. Sólo puedes usar cada efecto de \"Crowntail Marincesa\" una vez por turno.",
+  "level": 5,
+  "atk": 600,
+  "def": 2300,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

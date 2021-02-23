@@ -1,0 +1,18 @@
+{
+  "id": 12113,
+  "type": "monster",
+  "name": "Künstlerkumpel Beißchenschildkröte",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte durch Kampf zerstört wird: Du kannst das Monster zerstören, das sie zerstört hat.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Künstlerkumpel“- oder „Buntäugig“-Monster in deiner Hand vorzeigen und falls du dies tust, verringere für den Rest dieses Spielzugs die Stufen der Monster mit dem Namen in deiner Hand um 1 (selbst nachdem sie beschworen/gesetzt wurden und selbst, falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Reptil",
+    "Pendel",
+    "Effekt"
+  ]
+}

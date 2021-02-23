@@ -1,0 +1,18 @@
+{
+  "id": 12919,
+  "type": "monster",
+  "name": "Dragon Pièce Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Les autres monstres de Type Dragon que vous contrôlez gagnent 500 ATK, et aussi, ils ne peuvent pas être détruits par des effets de carte.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre de Type Dragon que vous contrôlez qui a été Invoqué Spécialement depuis l'Extra Deck ; ce tour, si le monstre que vous contrôlez combat un monstre de votre adversaire, bannissez le monstre de votre adversaire après le calcul des dommages (même si cette carte quitte le Terrain).",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

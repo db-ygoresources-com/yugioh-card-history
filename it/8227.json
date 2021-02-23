@@ -1,0 +1,10 @@
+{
+  "id": 8227,
+  "type": "trap",
+  "name": "Attacco del Topo in Trappola",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Se un Mostro Normale di Livello 3 o inferiore che controlli combatte, durante il Damage Step puoi pagare Life Points in multipli di 100. L'ATK del mostro dell'avversario viene ridotto della quantità di Life Points che hai pagato, fino all'End Phase. (Non puoi pagare più Life Points dell'ATK del mostro dell'avversario.)",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

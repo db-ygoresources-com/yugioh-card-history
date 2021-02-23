@@ -1,0 +1,15 @@
+{
+  "id": 7437,
+  "type": "monster",
+  "name": "Koala Marino",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; hasta el final de este turno, cambia su ATK a 0. Debes controlar un monstruo de Tipo Bestia (que no sea esta carta) para activar y resolver este efecto.",
+  "level": 2,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

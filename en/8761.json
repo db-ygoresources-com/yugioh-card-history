@@ -1,0 +1,15 @@
+{
+  "id": 8761,
+  "type": "monster",
+  "name": "Gravekeeper's Priestess",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper's\" monsters on the field gain 200 ATK/DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

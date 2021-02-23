@@ -1,0 +1,15 @@
+{
+  "id": 8302,
+  "type": "monster",
+  "name": "Adivinadora Fuego",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "El ATK y la DEF de esta carta son iguales a su Nivel x 200. Durante cada una de tus Standby Phases, incrementa en 1 el Nivel de esta carta (max. 12). Cuando esta carta es Invocada de Modo Especial en Posición de Ataque boca arriba por el efecto de una carta \"Adivinadora\", destruye 1 monstruo boca arriba que controle tu adversario, e inflige daño a tu adversario igual al ATK del monstruo destruido.",
+  "level": 2,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

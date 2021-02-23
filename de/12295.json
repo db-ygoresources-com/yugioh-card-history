@@ -1,0 +1,20 @@
+{
+  "id": 12295,
+  "type": "monster",
+  "name": "Lector-Pendel, der Drachoberherr",
+  "oldName": "Lector Pendulum, der Drachoberherr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "notes": "Kartenname geändert von „Lector Pendulum, der Drachoberherr\" am 22-06-2017.",
+  "effectText": "Am Beginn des Damage Steps, falls diese Karte gegen ein Pendelmonster kämpft: Zerstöre sowohl das Monster als auch diese Karte.",
+  "pendEffect": "Annulliere die Effekte von offenen Pendelmonstern, solange dein Gegner sie kontrolliert.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1950,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

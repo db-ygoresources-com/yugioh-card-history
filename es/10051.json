@@ -1,0 +1,15 @@
+{
+  "id": 10051,
+  "type": "monster",
+  "name": "Luciérnaga Inzektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes equipar a esta carta 1 monstruo \"Inzektor\" en tu mano o Cementerio. Si un monstruo \"Inzektor\" se equipa a esta carta: puedes mirar todas las cartas Colocadas que controle tu adversario. Mientras esta carta está equipada a un monstruo, el Nivel de ese monstruo se incrementa en 1, y además gana ATK y DEF iguales al ATK y DEF de esta carta.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

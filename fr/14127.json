@@ -1,0 +1,20 @@
+{
+  "id": 14127,
+  "type": "monster",
+  "name": "Lanceur au Trident T.G.",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ Monstres à Effet (un Syntoniseur \"T.G.\" inclus)\nSi cette carte est Invoquée par Lien, vous pouvez : Invoquez Spécialement 3 monstres \"T.G.\" (1 depuis votre main, 1 depuis votre Deck et 1 depuis votre Cimetière) en Position de Défense dans vos zones pointées par cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"T.G.\" exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Lanceur au Trident T.G.\" qu'une fois par tour. Votre adversaire ne peut pas cibler de Monstres Synchro \"T.G.\" pointés par cette carte avec des effets de carte.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2200,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

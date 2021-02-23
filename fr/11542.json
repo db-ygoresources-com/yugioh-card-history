@@ -1,0 +1,18 @@
+{
+  "id": 11542,
+  "type": "monster",
+  "name": "Furtivité Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Normalement cette carte sans Sacrifices. Si cette carte est Invoquée Normalement sans Sacrifices ou Invoquée Spécialement, son Niveau devient 4 et son ATK d'origine devient 1800. Si cette carte est Invoquée Normalement ou Posée Normalement, elle n'est pas affectée par les effets activés de monstres dont le Niveau/Rang d'origine est inférieur au Niveau actuel de cette carte. Lorsque cette carte est Invoquée par Sacrifice en Sacrifiant un ou plusieurs monstres \"Qli\" : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main. Votre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet.",
+  "pendEffect": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Qli\" exclus). Cet effet ne peut pas être annulé. Tous les monstres \"Qli\" que vous contrôlez gagnent 300 ATK.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

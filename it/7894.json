@@ -1,0 +1,16 @@
+{
+  "id": 7894,
+  "type": "monster",
+  "name": "Il Favoloso Corvo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi scartare un qualsiasi numero di carte e, se lo fai, questa carta guadagna 1 Livello e 400 ATK per ogni carta scartata, fino alla fine di questo turno.",
+  "level": 2,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Tuner",
+    "Effetto"
+  ]
+}

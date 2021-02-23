@@ -1,0 +1,15 @@
+{
+  "id": 8089,
+  "type": "monster",
+  "name": "Tragödia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn du Kampfschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Erhält 600 ATK/DEF für jede Karte in deiner Hand. Einmal pro Spielzug: Du kannst 1 Monster von deiner Hand auf den Friedhof legen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert und das dieselbe Stufe hat, die das auf den Friedhof gelegte Monster in der Hand hatte; übernimm die Kontrolle über das offene Monster. Einmal pro Spielzug: Du kannst 1 Monster in deinem Friedhof wählen; die Stufe dieser Karte wird bis zum Ende dieses Spielzugs dieselbe wie die des gewählten Ziels.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

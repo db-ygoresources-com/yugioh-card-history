@@ -1,0 +1,19 @@
+{
+  "id": 14051,
+  "type": "monster",
+  "name": "Étoile Brillante GT F.A.",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Machine\nGagne une ATK égale à la somme des Niveaux des monstres \"F.A.\" pointés par cette carte x 300. Aucun joueur ne reçoit de dommages de combat des attaques impliquant cette carte. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : placez 1 Compteur Athlète sur cette carte. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez retirer 1 Compteur Athlète de cette carte ; annulez l'activation, et si vous le faites, détruisez-le. Vous ne pouvez utiliser cet effet de \"Étoile Brillante GT F.A.\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 0,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

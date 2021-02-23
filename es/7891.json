@@ -1,0 +1,16 @@
+{
+  "id": 7891,
+  "type": "monster",
+  "name": "Saltarín Psíquico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes pagar 1000 LP, y después seleccionar 1 monstruo boca arriba que controle tu adversario y 1 monstruo de Tipo Psíquico que controles, excepto \"Saltarín Psíquico\"; intercambia el control de esos objetivos y, si lo haces, este turno sus posiciones de batalla no pueden cambiarse.",
+  "level": 2,
+  "atk": 100,
+  "def": 1500,
+  "properties": [
+    "Psíquico",
+    "Cantante",
+    "Efecto"
+  ]
+}

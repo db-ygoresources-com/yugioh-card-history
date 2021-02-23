@@ -1,0 +1,15 @@
+{
+  "id": 6939,
+  "type": "monster",
+  "name": "Truppa della Carta",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno: puoi selezionare un numero tra 1 e 3, poi mandare quel numero di carte dalla cima del tuo Deck al Cimitero; questa carta guadagna 500 ATK per ogni carta mandata al Cimitero in questo modo, fino alla fine di questo turno. Se questa carta che controlli viene distrutta e mandata al tuo Cimitero: pesca 1 carta.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5040,
+  "type": "monster",
+  "name": "Polilla Electromagnética",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Selecciona 1 monstruo de Tipo Máquina que controle tu adversario; toma el control de ese objetivo hasta tu próxima End Phase.\nSi esta carta es destruida en batalla: el monstruo que la destruyó pierde 500 ATK y DEF.",
+  "level": 3,
+  "atk": 200,
+  "def": 1400,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

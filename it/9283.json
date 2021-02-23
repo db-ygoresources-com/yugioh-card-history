@@ -1,0 +1,15 @@
+{
+  "id": 9283,
+  "type": "monster",
+  "name": "Bloccatore Psichico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Una volta per turno: puoi dichiarare il nome di 1 carta; le carte con quel nome, ed i loro effetti, non possono essere utilizzati fino alla fine del prossimo turno del tuo avversario.",
+  "level": 4,
+  "atk": 1200,
+  "def": 300,
+  "properties": [
+    "Psichico",
+    "Effetto"
+  ]
+}

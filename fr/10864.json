@@ -1,0 +1,15 @@
+{
+  "id": 10864,
+  "type": "monster",
+  "name": "Spadassin des Flammes Bleues",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, durant la Battle Phase de chaque joueur : vous pouvez cibler 1 autre monstre de Type Guerrier que vous contrôlez ; cette carte perd exactement 600 ATK, et si elle le fait, le monstre gagne 600 ATK. Lorsque cette carte que vous contrôlez est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre FEU de Type Guerrier dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

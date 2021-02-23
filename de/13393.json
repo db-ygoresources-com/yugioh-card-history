@@ -1,0 +1,18 @@
+{
+  "id": 13393,
+  "type": "monster",
+  "name": "Mythisches Ungeheuer Garuda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Wenn dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 3 Zauberzählmarken von deiner Spielfeldseite entfernen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann gib die beschworenen Monster eines Gegners auf die Hand zurück. Du kannst diesen Effekt von „Mythisches Ungeheuer Garuda“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du keine Karte in deiner anderen Pendelzone hast: Du kannst 1 andere/n Zauber/Falle auf dem Spielfeld wählen; zerstöre sowohl ihn oder sie als auch diese Karte. Du kannst diesen Effekt von „Mythisches Ungeheuer Garuda“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

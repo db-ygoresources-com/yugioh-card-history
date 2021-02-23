@@ -1,0 +1,16 @@
+{
+  "id": 7200,
+  "type": "monster",
+  "name": "Brillengolem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof ist. Solange diese Karte offen auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Die Grund-ATK dieser Karte werden zu 2100.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Fels",
+    "Zwilling",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14964,
+  "type": "monster",
+  "name": "Keios Qadsombrañeca",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Puedes Invocar de Modo Especial, desde tu mano, 1 monstruo \"Sombrañeca\" en Posición de Defensa boca arriba o boca abajo.\nSi esta carta es mandada al Cementerio por efecto de una carta: puedes mandar al Cementerio 1 monstruo \"Sombrañeca\" en tu mano y, si lo haces, por el resto de este turno, todos los monstruos que controlas ganan ATK/DEF igual al Nivel original x 100 de ese monstruo mandado al Cementerio. Sólo puedes usar 1 efecto de \"Keios Qadsombrañeca\" por turno, y sólo una vez ese turno.",
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13868,
+  "type": "monster",
+  "name": "Robot Rapide",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur \"Synchronique\" + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez Invoquer Spécialement autant de Syntoniseurs \"Synchronique\" que possible de Niveaux différents depuis votre Deck, en Position de Défense. Le tour où vous activez cet effet, vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Synchro exclus) depuis l'Extra Deck. Lorsqu'une attaque impliquant cette carte Invoquée par Synchronisation ce tour et un autre monstre est déclarée : jusqu'à la fin de ce tour, vous pouvez faire devenir l'ATK de cette carte le double de son ATK d'origine. Vous ne pouvez utiliser chaque effet de \"Robot Rapide\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

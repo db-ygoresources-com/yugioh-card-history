@@ -1,0 +1,18 @@
+{
+  "id": 12944,
+  "type": "monster",
+  "name": "Zefraath",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dal tuo Extra Deck scoperto) offrendo come Tributo tutti i mostri che controlli, compresi almeno 3 mostri \"Zefra\", e non può essere Evocato Specialmente in altri modi. Dopo che hai Evocato Specialmente questa carta, puoi effettuare 1 Evocazione Pendulum di uno o più mostri \"Zefra\" durante la tua Main Phase in questo turno, in aggiunta alla tua Evocazione Pendulum. (Puoi guadagnare questo effetto una sola volta per turno.) Una volta per turno: puoi offrire come Tributo 1 mostro; Evoca Specialmente 1 mostro \"Zefra\" dal tuo Deck.",
+  "pendEffect": "Durante la tua Main Phase: puoi aggiungere scoperto 1 Mostro Pendulum \"Zefra\" dal tuo Deck al tuo Extra Deck e, se lo fai, cambia il Valore Pendulum di questa carta in modo che sia lo stesso di quel Mostro Pendulum, fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Zefraath\" una sola volta per turno.",
+  "pendScale": 5,
+  "level": 11,
+  "atk": 3450,
+  "def": 2950,
+  "properties": [
+    "Roccia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

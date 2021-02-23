@@ -1,0 +1,16 @@
+{
+  "id": 11992,
+  "type": "monster",
+  "name": "Dragon Berceau-Gris",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 Syntoniseur de Type Aqua + 1 monstre non-Syntoniseur ou plus\nLorsque cette carte est Invoquée par Synchronisation : vous pouvez cibler un nombre de cartes contrôlées par votre adversaire, inférieur ou égal au nombre de monstres EAU utilisés pour l'Invocation Synchro de cette carte ; détruisez-les. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez cibler 1 autre monstre EAU dans votre Cimetière ; Invoquez-le Spécialement, mais ses effets sont annulés. Vous ne pouvez utiliser chaque effet de \"Dragon Berceau-Gris\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Synchro",
+    "Effet"
+  ]
+}

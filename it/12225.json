@@ -1,0 +1,18 @@
+{
+  "id": 12225,
+  "type": "monster",
+  "name": "D/D/D Apocalisse Re del Chaos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante il turno del tuo avversario, se questa carta è nella tua mano o Cimitero: puoi scegliere come bersaglio 2 Carte Magia/Trappola scoperte che controlli; non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri di Tipo Demone, inoltre distruggi le carte scelte come bersaglio e, se lo fai, Evoca Specialmente questa carta (questo è un Effetto Rapido). Puoi utilizzare questo effetto di \"D/D/D Apocalisse Re del Chaos\" una sola volta per turno.",
+  "pendEffect": "Puoi bandire 2 mostri \"D/D\" dal tuo Cimitero; Evoca Specialmente questa carta dalla tua Zona Pendulum.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

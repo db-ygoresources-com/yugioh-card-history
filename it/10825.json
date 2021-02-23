@@ -1,0 +1,15 @@
+{
+  "id": 10825,
+  "type": "monster",
+  "name": "Gaia, Cavaliere del Sole di Mezzanotte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi utilizzare ogni effetto di \"Gaia, Cavaliere del Sole di Mezzanotte\" una sola volta per turno.\n●Puoi offrire come Tributo 1 altro mostro LUCE; aggiungi 1 mostro OSCURITÀ di Tipo Guerriero di Livello 4 dal tuo Deck alla tua mano, poi manda 1 carta dalla tua mano al Cimitero.\n●Puoi bandire 1 mostro OSCURITÀ dal tuo Cimitero, poi scegliere come bersaglio 1 mostro sul Terreno; esso perde 500 ATK fino alla fine del turno del tuo avversario.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

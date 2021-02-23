@@ -1,0 +1,15 @@
+{
+  "id": 12244,
+  "type": "monster",
+  "name": "Kozmo-Schwebetruppen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers: Du kannst diese Karte verbannen; beschwöre 1 „Kozmo“-Monster der Stufe 4 oder höher als Spezialbeschwörung von deiner Hand. Du kannst diesen Effekt von „Kozmo-Schwebetruppen“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1000 LP zahlen und dann 1 „Kozmo“-Monster vom Typ Psi in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

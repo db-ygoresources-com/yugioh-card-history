@@ -1,0 +1,15 @@
+{
+  "id": 10053,
+  "type": "monster",
+  "name": "Dermattero Inzektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi equipaggiare 1 mostro \"Inzektor\" dalla tua mano o Cimitero a questa carta. Mentre questa carta è equipaggiata ad un mostro, quel mostro guadagna ATK e DEF pari all'ATK e DEF di questa carta. Quando questa carta viene mandata al Cimitero mentre è equipaggiata ad un mostro: il mostro a cui questa carta era equipaggiata guadagna 1000 ATK, fino alla End Phase.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13751,
+  "type": "monster",
+  "name": "Bruja Ciberso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Ciberso\nSi un monstruo es Invocado de Modo Especial a una zona a la que esta carta apunte (excepto durante el Damage Step): puedes desterrar 1 Mágica en tu Cementerio; añade a tu mano 1 Monstruo de Ritual Ciberso y 1 \"Cinet-Ritual\" en tu Deck. Durante tu Main Phase, si este efecto fue activado este turno: puedes seleccionar 1 monstruo Ciberso de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar cada efecto de \"Bruja Ciberso\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

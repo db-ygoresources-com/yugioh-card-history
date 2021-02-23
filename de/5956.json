@@ -1,0 +1,15 @@
+{
+  "id": 5956,
+  "type": "monster",
+  "name": "Seelen absorbierender Knochenturm",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du ein anderes Monster vom Typ Zombie kontrollierst, kann dein Gegner diese Karte nicht als Ziel für Angriffe wählen. Jedes Mal, wenn Monster vom Typ Zombie als Spezialbeschwörung beschworen werden: Lege die obersten 2 Karten des Decks deines Gegners auf den Friedhof.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

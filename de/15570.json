@@ -1,0 +1,15 @@
+{
+  "id": 15570,
+  "type": "monster",
+  "name": "Myutant Ungeheuer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden, außer durch den Effekt einer „Myutant“-Karte. Dein Gegner kann diese Karte nicht als Ziel für Monstereffekte wählen. Du kannst jeden der folgenden Effekte von „Myutant Ungeheuer“ nur einmal pro Spielzug verwenden. Wenn dein Gegner eine Zauberkarte oder einen Zaubereffekt aktiviert (Schnelleffekt): Du kannst 1 Karte von deiner Hand oder Spielfeldseite verbannen; annulliere die Aktivierung und falls du dies tust, verbanne die Karte. Falls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Du kannst 1 deiner verbannten „Myutant“-Fallen wählen; füge sie deiner Hand hinzu.",
+  "level": 8,
+  "atk": 2400,
+  "def": 2400,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

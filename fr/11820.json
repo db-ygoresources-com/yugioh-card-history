@@ -1,0 +1,15 @@
+{
+  "id": 11820,
+  "type": "monster",
+  "name": "Romarin Arômage",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vos LP sont supérieurs à ceux de votre adversaire, si un monstre Plante que vous contrôlez attaque, votre adversaire ne peut pas activer d'effets de monstre jusqu'à la fin de la Damage Step. Une fois par tour, si vous gagnez des LP : ciblez 1 monstre face recto sur le Terrain ; changez sa position de combat.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

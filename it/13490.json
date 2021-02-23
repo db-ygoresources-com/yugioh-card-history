@@ -1,0 +1,19 @@
+{
+  "id": 13490,
+  "type": "monster",
+  "name": "Arcidemone Re Maestro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri Demone\nUna volta per turno, durante la tua Standby Phase, paga 500 LP o distruggi questa carta. Una volta per Catena, se paghi LP (eccetto durante il Damage Step): puoi mandare dal tuo Deck al Cimitero 1 mostro Demone con ATK o DEF pari all'ammontare pagato. Una volta per Catena, se uno o più mostri Demone vengono mandati al tuo Cimitero (eccetto durante il Damage Step): puoi tirare un dado a sei facce, poi applicare questo effetto su 1 di quei mostri a seconda del risultato.\n●1: Aggiungilo alla tua mano.\n●2, 3, 4, 5: Mischialo nel Deck.\n●6: Evocalo Specialmente.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Demone",
+    "Link",
+    "Effetto"
+  ]
+}

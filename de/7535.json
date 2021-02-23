@@ -1,0 +1,16 @@
+{
+  "id": 7535,
+  "type": "monster",
+  "name": "Flamvell-Wache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Ein Flamvell-Wächter, der mit der Kraft seiner Gedanken über das Feuer gebieten kann. Seine heiße Magmabarriere schützt seine Truppen vor allen Eindringlingen.",
+  "level": 1,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Normal"
+  ]
+}

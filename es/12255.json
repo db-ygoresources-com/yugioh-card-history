@@ -1,0 +1,16 @@
+{
+  "id": 12255,
+  "type": "monster",
+  "name": "Cambiador de Basura",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Sólo puedes usar el siguiente efecto de \"Cambiador de Basura\" una vez por turno. Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo \"Basura\" en el Campo, y después activar 1 de estos efectos;\n●Aumenta en 1 su Nivel.\n●Reduce en 1 su Nivel.",
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

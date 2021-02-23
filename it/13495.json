@@ -1,0 +1,19 @@
+{
+  "id": 13495,
+  "type": "monster",
+  "name": "Picofalena Inzektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri Insetto\nSe questa carta viene Evocata Link: puoi scartare 1 carta, poi scegliere come bersaglio 1 altro mostro Insetto che controlli; equipaggia 1 mostro Insetto dal tuo Deck ad esso come una Magia Equipaggiamento che guadagna questo effetto.\n●Il mostro equipaggiato guadagna 500 ATK/DEF.\nPuoi scegliere come bersaglio 3 mostri Insetto nel tuo Cimitero; mischiali nel Deck, poi pesca 1 carta. Puoi utilizzare ogni effetto di \"Picofalena Inzektor\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Insetto",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11714,
+  "type": "monster",
+  "name": "Schuberta la Maestria de la Musique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres \"Musique\"\nDurant le tour de chaque joueur : vous pouvez cibler max. 3 cartes dans les Cimetières ; bannissez-les, et si vous le faites, cette carte gagne 200 ATK pour chacune d'elles. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13393,
+  "type": "monster",
+  "name": "Bestia Mítica Garuda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva. Cuando tu adversario Invoca uno o más monstruos de Modo Normal o Especial (excepto durante el Damage Step): puedes retirar 3 Contadores Mágicos en tu Campo; Invoca esta carta de Modo Especial desde tu mano, y después devuelve a la mano ese o esos monstruos Invocados del adversario. Sólo puedes usar este efecto de \"Bestia Mítica Garuda\" una vez por turno.",
+  "pendEffect": "Si no tienes cartas en tu otra Zona del Péndulo: puedes seleccionar otra Mágica/Trampa en el Campo; destrúyela, así como a esta carta. Sólo puedes usar este efecto de \"Bestia Mítica Garuda\" una vez por turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

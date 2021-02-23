@@ -1,0 +1,16 @@
+{
+  "id": 11609,
+  "type": "monster",
+  "name": "Symphonischer Krieger Synthes-s-s",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Du kannst deiner Hand 1 „Symphonischer Krieger“-Monster von deinem Deck hinzufügen, außer „Symphonischer Krieger Synthes-s-s“.\nEinmal pro Spielzug: Du kannst 1 Monster wählen, das du kontrollierst oder in deinem Friedhof und dessen Grund-Name „Symphonischer Krieger“ enthält, außer „Symphonischer Krieger Synthes-s-s“; bis zur End Phase wird der Name dieser Karte gleich dem Grund-Namen des Monsters und ersetze diesen Effekt durch die Grundeffekte des Monsters. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 deiner verbannten „Symphonischer Krieger“-Monster wählen, außer „Symphonischer Krieger Synthes-s-s“; beschwöre es als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1900,
+  "properties": [
+    "Maschine",
+    "Flipp",
+    "Effekt"
+  ]
+}

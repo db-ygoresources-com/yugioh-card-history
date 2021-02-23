@@ -1,0 +1,16 @@
+{
+  "id": 12615,
+  "type": "monster",
+  "name": "Ovibos Ox Chimicréa",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec cet effet.\n●Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre Gémeau depuis votre main, et si vous le faites, tous les monstres Gémeau que vous contrôlez actuellement deviennent du Niveau d'origine du monstre jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Ovibos Ox Chimicréa\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Bête",
+    "Gémeau",
+    "Effet"
+  ]
+}

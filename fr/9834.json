@@ -1,0 +1,16 @@
+{
+  "id": 9834,
+  "type": "monster",
+  "name": "Mâchos",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Invoquez Spécialement 3 \"Jeton Mâchos Junior\" (Type Zombie/TERRE/Niveau 1/ATK 100/DEF 300) sur le Terrain de votre adversaire en Position de Défense.",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Zombie",
+    "Flip",
+    "Effet"
+  ]
+}

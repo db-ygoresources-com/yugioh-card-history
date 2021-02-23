@@ -1,0 +1,16 @@
+{
+  "id": 5377,
+  "type": "monster",
+  "name": "Yamata-Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte kehrt während der End Phase des Spielzugs, in dem sie als Normalbeschwörung beschworen oder aufgedeckt wurde, auf die Hand ihres Besitzers zurück. Wenn diese Karte deinem Gegner Kampfschaden zufügt, ziehe Karten, bis du 5 Karten auf deiner Hand hast.",
+  "level": 7,
+  "atk": 2600,
+  "def": 3100,
+  "properties": [
+    "Drache",
+    "Spirit",
+    "Effekt"
+  ]
+}

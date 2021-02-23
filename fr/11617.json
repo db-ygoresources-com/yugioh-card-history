@@ -1,0 +1,16 @@
+{
+  "id": 11617,
+  "type": "monster",
+  "name": "Tigre Frourreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Lames du Lutin Tranchant\" + 1 monstre \"Peluchimal\" ou plus\nLorsque cette carte est Invoquée par Fusion : vous pouvez cibler un nombre de cartes sur le Terrain, inférieur ou égal au nombre de Matériels de Fusion utilisés pour son Invocation Fusion ; détruisez-les. Tous les monstres \"Frourreur\" que vous contrôlez gagnent 300 ATK pour chaque monstre \"Peluchimal\" et monstre \"Frourreur\" que vous contrôlez. Vous ne pouvez contrôler qu'1 \"Tigre Frourreur\".",
+  "level": 6,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

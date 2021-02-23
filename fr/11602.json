@@ -1,0 +1,18 @@
+{
+  "id": 11602,
+  "type": "monster",
+  "name": "Garde du Cristal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si un monstre \"Bête Cristalline\" que vous contrôlez combat un monstre de l'adversaire, durant le calcul des dommages (Effet Rapide) : vous pouvez Sacrifier cette carte depuis votre main ou face recto depuis votre Terrain ; l'ATK/DEF de votre monstre combattant devient le double de son ATK/DEF d'origine durant ce calcul des dommages uniquement, mais il est détruit durant la fin de cette Damage Step.",
+  "pendEffect": "Chaque tour, la première fois qu'un ou plusieurs monstres \"Cristal Ultime\" et/ou une ou plusieurs cartes \"Bête Cristalline\" que vous contrôlez vont être détruits par un effet de carte ce tour, ils ne sont pas détruits.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

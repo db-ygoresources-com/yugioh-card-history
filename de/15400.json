@@ -1,0 +1,18 @@
+{
+  "id": 15400,
+  "type": "monster",
+  "name": "Gerätewesen Trocknerdrachling",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 „Gerätewesen“-Monster\nDiese Karte kann nicht in dem Spielzug als Linkmaterial verwendet werden, in dem sie als Linkbeschwörung beschworen wurde. Diese gelinkte Karte erhält 1000 ATK. Einmal pro Spielzug, während deiner Battle Phase, falls diese Karte kreuzgelinkt ist (außer während des Damage Steps): Du kannst die Orte von 2 „Gerätewesen“-Monstern, darunter diese Karte, in deiner Main-Monsterzone vertauschen und falls du dies tust, kann das andere Monster in diesem Spielzug während jeder Battle Phase einen zweiten Angriff durchführen. Einmal pro Spielzug, wenn diese Karte, die nicht kreuzgelinkt ist, als Ziel für einen Angriff gewählt wird: Du kannst den Angriff annullieren.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 0,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

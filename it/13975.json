@@ -1,0 +1,18 @@
+{
+  "id": 13975,
+  "type": "monster",
+  "name": "Imperatore del Chaos, il Drago dell'Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano o Extra Deck) bandendo 1 mostro LUCE e 1 mostro OSCURITÀ dal tuo Cimitero. Puoi Evocare Specialmente \"Imperatore del Chaos, il Drago dell'Armageddon\" una sola volta per turno in questo modo. Una volta per turno: puoi pagare la metà dei tuoi LP; manda al Cimitero tante carte che controlli quante possibile, eccetto per la Zona Mostri Extra e, se lo fai, manda al Cimitero carte controllate dal tuo avversario, fino al numero di tue carte mandate al Cimitero, poi infliggi 300 danni al tuo avversario per ogni carta mandata al suo Cimitero dall'effetto di questa carta. Se questa carta scoperta Evocata Specialmente lascia il Terreno, falla ritornare in fondo al Deck.",
+  "pendEffect": "Puoi pagare 1000 LP, poi scegliere come bersaglio 1 dei tuoi mostri Drago banditi; distruggi questa carta e, se lo fai, aggiungi quel mostro alla tua mano. Puoi utilizzare questo effetto di \"Imperatore del Chaos, il Drago dell'Armageddon\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

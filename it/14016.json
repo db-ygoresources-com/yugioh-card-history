@@ -1,0 +1,20 @@
+{
+  "id": 14016,
+  "type": "monster",
+  "name": "Nephtys, la Sacra Fiamma",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "2+ mostri, compreso un Mostro Rituale\nMentre questa carta è nella Zona Mostri Extra, i mostri controllati dal tuo avversario non possono scegliere come bersaglio i mostri \"Nephtys\" nella Zona Mostri Main per gli attacchi. Questa carta guadagna effetti a seconda del numero di Mostri Rituale utilizzati per la sua Evocazione Link.\n●1+: Non può essere distrutta in battaglia.\n●2+: Non può essere distrutta dagli effetti delle carte, inoltre essa guadagna 1200 ATK.\n●3: Nessun giocatore può scegliere questa carta come bersaglio con gli effetti delle carte, inoltre essa guadagna un altro 1200 ATK.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Bestia Alata",
+    "Link",
+    "Effetto"
+  ]
+}

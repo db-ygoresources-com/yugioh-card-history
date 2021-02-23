@@ -1,0 +1,20 @@
+{
+  "id": 15959,
+  "type": "monster",
+  "name": "Regolatore di Stelle d'Acciaio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "3 Mostri non-Link\nGuadagna ATK pari alla somma dei Livelli/Ranghi originali dei mostri utilizzati per la sua Evocazione Link x 100. Puoi scegliere come bersaglio 1 Mostro non-Link controllato dal tuo avversario con ATK pari o inferiore a questa carta; distruggilo, poi se questa carta è stata Evocata Link utilizzando un Mostro Xyz come materiale, infliggi al tuo avversario danno pari alla metà dell'ATK originale del mostro distrutto. Puoi utilizzare questo effetto di \"Regolatore di Stelle d'Acciaio\" una sola volta per turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "7",
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Macchina",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13396,
+  "type": "monster",
+  "name": "Bestia Mítica Rey Chacal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 2 Contadores Mágicos en esta carta cuando esa Mágica se resuelva. Una vez por turno, cuando el adversario activa un efecto de monstruo (Efecto Rápido): puedes retirar 2 Contadores Mágicos en tu Campo; niega la activación y, si lo haces, destruye esa carta.",
+  "pendEffect": "Si no tienes cartas en tu otra Zona de Péndulo: puedes destruir esta carta y, si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Péndulo \"Bestia Mítica\" boca arriba, excepto \"Bestia Mítica Rey Chacal\". Sólo puedes usar este efecto de \"Bestia Mítica Rey Chacal\" una vez por turno.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2400,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

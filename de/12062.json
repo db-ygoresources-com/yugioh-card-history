@@ -1,0 +1,16 @@
+{
+  "id": 12062,
+  "type": "monster",
+  "name": "Synkronresonator",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein Synchromonster auf dem Spielfeld liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Synkronresonator“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 „Resonator“-Monster in deinem Friedhof wählen, außer „Synkronresonator“; füge es deiner Hand hinzu.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13579,
+  "type": "monster",
+  "name": "Elementsäbel Lapauila Mana",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 2 andere Monster von deiner Hand auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst diesen Effekt von „Elementsäbel Lapauila Mana“ nur einmal pro Spielzug verwenden. Wende die folgenden Effekte auf „Elementsäbel“- und „Elementarherrscher“-Monster an, die du kontrollierst, abhängig von den Grund-Eigenschaften der „Elementsäbel“-Monster, die auf den Friedhof gelegt wurden, um den Effekt dieser Karte zu aktivieren.\n●ERDE oder WIND: Können nicht durch Kampf zerstört werden.\n●WASSER oder FEUER: Können nicht durch Effekte zerstört werden.\n●LICHT oder FINSTERNIS: Dein Gegner kann sie nicht als Ziel für Karteneffekte wählen.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

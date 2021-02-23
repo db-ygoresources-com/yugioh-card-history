@@ -1,0 +1,15 @@
+{
+  "id": 13519,
+  "type": "monster",
+  "name": "Recolector de Residuos",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes seleccionar otro monstruo Ciberso que controles que haya comenzado el Duelo en el Deck Principal; devuélvelo a la mano y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 monstruo Ciberso con el mismo Nivel, pero nombre diferente. Sólo puedes usar este efecto de \"Recolector de Residuos\" una vez por turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 1900,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

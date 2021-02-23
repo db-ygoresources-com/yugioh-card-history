@@ -1,0 +1,15 @@
+{
+  "id": 8789,
+  "type": "monster",
+  "name": "Casualizzatore Demoneterno",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, fino a quando non hai carte in mano, puoi pescare 1 carta e rivelarla. Se hai pescato una Carta Mostro con questo effetto, infliggi danno al tuo avversario pari al Livello di quel mostro x 200. Se hai pescato una Carta Magia o Trappola, tu subisci 500 danni.",
+  "level": 1,
+  "atk": 900,
+  "def": 0,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

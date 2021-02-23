@@ -1,0 +1,18 @@
+{
+  "id": 12029,
+  "type": "monster",
+  "name": "Micro, Guerrier Symphonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en retirant 3 Compteurs Symphonique depuis votre Terrain. Après que vous avez Invoqué Normalement ou Spécialement cette carte, vous pouvez Invoquer Normalement 1 monstre durant votre Main Phase ce tour, en plus de votre Invocation Normale ou Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.)",
+  "pendEffect": "L'Échelle Pendule de cette carte devient 4, sauf si vous avez une carte \"Guerrier Symphonique\" dans votre autre Zone Pendule. Une fois par tour, durant votre End Phase : vous pouvez cibler 1 de vos monstres \"Guerrier Symphonique\" bannis ; ajoutez-le à votre main.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

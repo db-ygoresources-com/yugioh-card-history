@@ -1,0 +1,18 @@
+{
+  "id": 11814,
+  "type": "monster",
+  "name": "Fuocavaliere Margravio",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Un guerriero Fuocavaliere di alto rango. Quando infine entra nella mischia, i suoi attacchi indiscriminati sono temuti non solo dai suoi nemici, ma anche dalle sue stesse truppe.",
+  "pendEffect": "Se hai una carta \"Fuocavaliere\" nella tua altra Zona Pendulum: puoi distruggere entrambe le carte nelle tue Zone Pendulum e, se lo fai, aggiungi 1 mostro FUOCO di Tipo Guerriero dal tuo Deck o Cimitero alla tua mano.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1500,
+  "def": 2500,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

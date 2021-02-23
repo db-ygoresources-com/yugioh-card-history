@@ -1,0 +1,16 @@
+{
+  "id": 11314,
+  "type": "monster",
+  "name": "Core, HÉROS Élémentaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "3 monstres \"HÉROS Élémentaire\"\nUniquement Invocable par Fusion et non Invocable Spécialement autrement. Une fois par tour, lorsque cette carte est ciblée par une attaque : jusqu'à la fin de la Damage Step, vous pouvez faire devenir l'ATK de cette carte le double de son ATK actuelle. À la fin de la Battle Phase, si cette carte a combattu : vous pouvez cibler 1 monstre sur le Terrain ; détruisez-le. Lorsque cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 Monstre de Fusion \"HÉROS Élémentaire\" de max. Niveau 8 dans votre Cimetière ; Invoquez-le Spécialement, en ignorant ses conditions d'Invocation.",
+  "level": 9,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

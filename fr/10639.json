@@ -1,0 +1,15 @@
+{
+  "id": 10639,
+  "type": "monster",
+  "name": "Talaya, Princesse des Fleurs de Cerisier",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Gagne 100 ATK pour chaque monstre Plante que vous contrôlez. Les autres monstres Plante sur le Terrain ne peuvent pas être détruits par des effets de carte.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1200,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

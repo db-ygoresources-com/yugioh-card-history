@@ -1,0 +1,15 @@
+{
+  "id": 13918,
+  "type": "monster",
+  "name": "Spielmarken-Sammler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls eine Spielmarke als Spezialbeschwörung beschworen wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung vom Friedhof (falls sie dort lag, als die Spielmarke als Spezialbeschwörung beschworen wurde) oder der Hand (selbst falls nicht) beschwören. Du kannst diesen Effekt von „Spielmarken-Sammler“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Zerstöre so viele Spielmarken auf dem Spielfeld wie möglich und falls du dies tust, erhält diese Karte für jede zerstörte Spielmarke 400 ATK. Kein Spieler kann Spielmarken als Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

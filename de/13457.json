@@ -1,0 +1,19 @@
+{
+  "id": 13457,
+  "type": "monster",
+  "name": "Linkerbell",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster\nDu kannst diese Karte nicht als Linkbeschwörung beschwören, es sei denn, du hast mindestens 3 Karten mehr in deinem Extra Deck als dein Gegner.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

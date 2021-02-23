@@ -1,0 +1,21 @@
+{
+  "id": 13602,
+  "type": "monster",
+  "name": "Albtraumritter Greif",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Monster mit unterschiedlichen Namen\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Karte abwerfen und dann 1 Zauber/Falle in deinem Friedhof wählen; setze ihn oder sie auf deine Spielfeldseite, aber er oder sie kann in diesem Spielzug nicht aktiviert werden, dann, falls diese Karte kreuzgelinkt war, als dieser Effekt aktiviert wurde, kannst du 1 Karte ziehen. Du kannst diesen Effekt von „Albtraumritter Greif“ nur einmal pro Spielzug verwenden. Die Effekte von als Spezialbeschwörung beschworenen Monstern auf dem Spielfeld können nicht aktiviert werden, es sei denn, sie sind gelinkt.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

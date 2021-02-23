@@ -1,0 +1,16 @@
+{
+  "id": 7529,
+  "type": "monster",
+  "name": "Sorcier de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", les monstres de min. Niveau 4 ne peuvent pas déclarer d'attaque.",
+  "level": 2,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

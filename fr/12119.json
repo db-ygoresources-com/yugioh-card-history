@@ -1,0 +1,18 @@
+{
+  "id": 12119,
+  "type": "monster",
+  "name": "Général Samouraï Supralourd de Corail",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez sacrifier max. 2 monstres \"Samouraï Supralourd\" ; piochez autant de cartes. Vous ne pouvez utiliser cet effet de \"Général Samouraï Supralourd de Corail\" qu'une fois par tour.",
+  "pendEffect": "Tant que vous avez une ou plusieurs Cartes Magie/Piège dans votre Cimetière, l'Échelle Pendule de cette carte devient 4. Une fois par tour, lorsqu'un monstre \"Samouraï Supralourd\" que vous contrôlez détruit un monstre de votre adversaire au combat : vous pouvez activer cet effet ; le monstre peut faire une seconde attaque à la suite (même si cette carte quitte le Terrain).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

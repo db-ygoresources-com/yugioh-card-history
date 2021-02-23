@@ -1,0 +1,16 @@
+{
+  "id": 5585,
+  "type": "monster",
+  "name": "Tigre Zombi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, puedes: selecciona 1 \"Comandante Putrefacto\" que controles; equipa esta carta a ese objetivo, O: desequipa esta carta e Invócala de Modo Especial en Posición de Ataque. Mientras esté equipada por este efecto, el monstruo equipado gana 500 ATK/DEF. Si el monstruo equipado destruye a un monstruo del adversario en batalla: descarta 1 carta al azar de su mano. (Un monstruo sólo puede ser equipado con 1 monstruo de Unión a la vez. Si el monstruo equipado fuera a ser destruido en batalla, destruye esta carta en su lugar).",
+  "level": 3,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Zombi",
+    "Unión",
+    "Efecto"
+  ]
+}

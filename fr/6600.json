@@ -1,0 +1,15 @@
+{
+  "id": 6600,
+  "type": "monster",
+  "name": "Fourmilier Vorace",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut pas être Invoquée par Invocation Spéciale, excepté en envoyant 2 Cartes Magie ou Piège depuis votre Terrain au Cimetière. Cette carte peut détruire 1 Carte Magie ou Piège sur le Terrain de votre adversaire, mais elle ne peut pas attaquer ce tour si vous activez cet effet.",
+  "level": 5,
+  "atk": 2000,
+  "def": 500,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

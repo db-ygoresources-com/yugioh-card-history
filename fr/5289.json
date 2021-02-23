@@ -1,0 +1,15 @@
+{
+  "id": 5289,
+  "type": "monster",
+  "name": "Éléphant Volant",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour de l'adversaire, si cette carte va être détruite par un effet de carte de l'adversaire, elle n'est pas détruite. Une fois par tour, durant sa End Phase, si l'effet a été appliqué ce tour : appliquez l'effet suivant.\n●Durant votre prochain tour, si cette carte inflige des dommages de combat à votre adversaire par une attaque directe, vous gagnez le Duel.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1300,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11875,
+  "type": "monster",
+  "name": "Cantauro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno, si esta carta batalla con un monstruo de tu adversario, durante el cálculo de daño (en el turno de cualquier jugador): puedes mandar al Cementerio 1 monstruo de Tipo Bestia, Guerrero-Bestia o Bestia Alada en tu Deck o mano y, si lo haces, hasta el final de la Battle Phase esta carta gana tanto ATK como el Nivel x 100 del monstruo mandado.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

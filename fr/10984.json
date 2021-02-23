@@ -1,0 +1,15 @@
+{
+  "id": 10984,
+  "type": "monster",
+  "name": "Défenlame Sylvan",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessous de votre Deck. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez ajouter cette carte depuis votre Cimetière à votre main.",
+  "level": 4,
+  "atk": 1900,
+  "def": 700,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

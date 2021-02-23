@@ -1,0 +1,15 @@
+{
+  "id": 10864,
+  "type": "monster",
+  "name": "Blauer Flammen-Schwertkämpfer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug, während der Battle Phase eines beliebigen Spielers: Du kannst 1 anderes Monster vom Typ Krieger wählen, das du kontrollierst; diese Karte verliert genau 600 ATK und falls sie dies tust, erhält das Monster 600 ATK. Wenn diese Karte, die du kontrollierst, durch eine Karte deines Gegners (durch Kampf oder einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 FEUER Monster vom Typ Krieger in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

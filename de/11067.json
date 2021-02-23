@@ -1,0 +1,15 @@
+{
+  "id": 11067,
+  "type": "monster",
+  "name": "Verfluchte Jungfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während des Spielzugs deines Gegners kannst du 1 Schnellzauberkarte von deiner Hand aktivieren. Du kannst diesen Effekt von „Verfluchte Jungfer“ nur einmal pro Duell verwenden.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

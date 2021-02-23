@@ -1,0 +1,18 @@
+{
+  "id": 12714,
+  "type": "monster",
+  "name": "Actor del Abismo - Extras",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Sacrificar esta carta; pon en tu Zona de Péndulo, desde tu Deck, 1 Monstruo de Péndulo \"Actor del Abismo\", y además por el resto de este turno, no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Actor del Abismo\", ni activar el Efecto de Péndulo de \"Actor del Abismo - Extras\". Sólo puedes usar este efecto de \"Actor del Abismo - Extras\" una vez por turno.",
+  "pendEffect": "Si tu adversario controla un monstruo: puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo. Sólo puedes usar este efecto de \"Actor del Abismo - Extras\" una vez por turno.",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8238,
+  "type": "monster",
+  "name": "Ptérodactyle Préhistorique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est attaquée, renvoyez le monstre attaquant à la main après le calcul des dommages et cette carte gagne un montant de DEF égal au Niveau du monstre renvoyé x 100.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

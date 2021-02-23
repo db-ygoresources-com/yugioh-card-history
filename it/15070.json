@@ -1,0 +1,15 @@
+{
+  "id": 15070,
+  "type": "monster",
+  "name": "Arcidemone Annientatore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scegliere come bersaglio 1 carta che controlli e 1 carta controllata dal tuo avversario; distruggile e, se hai distrutto uno o più mostri Demone scoperti con questo effetto, questa carta guadagna ATK pari alla metà dell'ATK originale dei mostri Demone, fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Arcidemone Annientatore\" una sola volta per turno.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

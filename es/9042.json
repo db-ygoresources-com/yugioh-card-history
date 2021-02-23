@@ -1,0 +1,15 @@
+{
+  "id": 9042,
+  "type": "monster",
+  "name": "Malicioso Dragón de la Verdad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial por su propio efecto, y no puede ser Invocado de Modo Especial de otra forma. Si un monstruo \"Malicioso/a\" que controles, excepto \"Malicioso Dragón de la Verdad\", es destruido en batalla o por el efecto de una carta: puedes pagar la mitad de tus Life Points; Invoca esta carta de Modo Especial desde tu mano o Cementerio. Sólo puede haber 1 monstruo \"Malicioso/a\" en el Campo. Si no hay una Carta Mágica de Campo boca arriba en el Campo, destruye esta carta. Si esta carta destruye un monstruo de tu adversario en batalla: destruye todos los monstruos boca arriba que controle tu adversario.",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

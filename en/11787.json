@@ -1,0 +1,18 @@
+{
+  "id": 11787,
+  "type": "monster",
+  "name": "Xiangke Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, during either player's turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.",
+  "pendEffect": "Once per turn: You can target 1 face-up Xyz Monster you control; this turn, you can use it as an Xyz Material for an Xyz Summon using its Rank as if it were a Level (even if this card leaves the field).",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 500,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

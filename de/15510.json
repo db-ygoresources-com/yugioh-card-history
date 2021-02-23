@@ -1,0 +1,16 @@
+{
+  "id": 15510,
+  "type": "monster",
+  "name": "Brigrand der Ruhmdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Gefallener von Albaz“ + 1 Monster der Stufe 8 oder höher\nKann nicht durch Kampf zerstört werden. Solange du diese als Fusionsbeschwörung beschworene Karte kontrollierst, kann dein Gegner andere Monster, die du kontrollierst, nicht als Ziel für Monstereffekte wählen. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst 1 „Sta-Brigade“-Monster oder 1 „Gefallener von Albaz“ von deinem Deck deiner Hand hinzufügen oder als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Brigrand der Ruhmdrache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12162,
+  "type": "monster",
+  "name": "Saga-Shogun Shiranui",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur de Type Zombie + 1 monstre non-Syntoniseur de Type Zombie ou plus\nSi cette carte est Invoquée Spécialement : vous pouvez bannir 1 monstre de Type Zombie depuis votre Cimetière ; jusqu'à la fin de ce tour, cette carte gagne une ATK égale à l'ATK d'origine du monstre banni. Si cette carte sur le Terrain est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez cibler 1 de vos monstres de Type Zombie avec 0 DEF bannis ; renvoyez-le au Cimetière. Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Saga-Shogun Shiranui\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effet"
+  ]
+}

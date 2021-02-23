@@ -1,0 +1,16 @@
+{
+  "id": 13539,
+  "type": "monster",
+  "name": "F.A. Autocaravana de Transporte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nGanha ATK igual ao seu Nível x 300. Sempre que um Card ou efeito de Magia/Armadilha \"F.A.\" for ativado: você pode aumentar em 1 o Nível deste card. Este card ganha o(s) seguinte(s) efeito(s), baseado no seu Nível atual.\n●Nível 11 ou mais: Não pode ser destruído em batalha ou por efeitos de card.\n●Nível 13 ou mais: Uma vez por turno: você pode escolher 1 monstro \"F.A.\" no seu Cemitério; Invoque-o por Invocação-Especial.",
+  "level": 9,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Máquina",
+    "Sincro",
+    "Efeito"
+  ]
+}

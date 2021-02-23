@@ -1,0 +1,16 @@
+{
+  "id": 12161,
+  "type": "monster",
+  "name": "Shiranui Sagasamurai",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 Cantante de Tipo Zombi + 1 o más monstruos de Tipo Zombi que no sean Cantantes\nUna vez por turno, durante el turno de cualquier jugador: puedes seleccionar 1 de tus monstruos de Tipo Zombi desterrados; barájalo al Deck y, si lo haces, cambia a Posición de Defensa todos los monstruos que controle tu adversario que tengan ATK menor o igual al de ese monstruo. Si esta carta es desterrada: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste pierde 500 ATK. Sólo puedes Invocar de Modo Especial 1 o más \"Shiranui Sagasamurai\" una vez por turno.",
+  "level": 6,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Sincronía",
+    "Efecto"
+  ]
+}

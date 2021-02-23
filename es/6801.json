@@ -1,0 +1,15 @@
+{
+  "id": 6801,
+  "type": "monster",
+  "name": "Marte Alienígena",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Los efectos de Monstruos de Efecto que tengan Contadores-A son negados, exceptuando \"Marte Alienígena\".",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

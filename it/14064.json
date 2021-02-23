@@ -1,0 +1,16 @@
+{
+  "id": 14064,
+  "type": "monster",
+  "name": "Shinobi Necro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se un altro mostro Zombie viene Evocato Specialmente dal tuo Cimitero mentre controlli questo mostro (eccetto durante il Damage Step): puoi pescare 1 carta, poi scartare 1 carta. Se questa carta nel Cimitero viene bandita scoperta per attivare un effetto, o da un effetto: puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare ogni effetto di \"Shinobi Necro\" una sola volta per turno.",
+  "level": 2,
+  "atk": 800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Tuner",
+    "Effetto"
+  ]
+}

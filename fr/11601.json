@@ -1,0 +1,18 @@
+{
+  "id": 11601,
+  "type": "monster",
+  "name": "Maître du Cristal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Sacrifier cette carte ; ajoutez 1 monstre \"Cristal Ultime\", monstre \"Bête Cristalline\" ou Magie/Piège \"Cristal\" depuis votre Deck à votre main.",
+  "pendEffect": "Votre adversaire ne peut cibler ni les monstres \"Cristal Ultime\" ni les cartes \"Bête Cristalline\" que vous contrôlez avec des effets de carte.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

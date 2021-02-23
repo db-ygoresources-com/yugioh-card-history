@@ -1,0 +1,15 @@
+{
+  "id": 12050,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Rasirang",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte kann nicht in dem Spielzug angreifen, in dem sie als Normalbeschwörung beschworen wurde. Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; ändere diese Karte in die Verteidigungsposition und falls du dies tust, verliert das gewählte Ziel bis zum Ende dieses Spielzugs 800 ATK.",
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

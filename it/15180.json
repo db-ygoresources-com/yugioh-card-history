@@ -1,0 +1,16 @@
+{
+  "id": 15180,
+  "type": "monster",
+  "name": "Velociroid AutoTurbo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se controlli un mostro VENTO: puoi Evocare Specialmente questa carta dalla tua mano, inoltre non puoi attivare effetti di mostri per il resto di questo turno, eccetto mostri VENTO. Puoi bandire questa carta e 1 mostro \"Velociroid\" dal tuo Cimitero; tutti i mostri VENTO che controlli attualmente guadagnano 800 ATK fino alla fine di questo turno. Puoi utilizzare ogni effetto di \"Velociroid AutoTurbo\" una sola volta per turno.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Tuner",
+    "Effetto"
+  ]
+}

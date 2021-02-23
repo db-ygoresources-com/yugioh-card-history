@@ -1,0 +1,18 @@
+{
+  "id": 14363,
+  "type": "monster",
+  "name": "Dragón Fantasma de Ojos Totales",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial (desde tu mano o Deck Extra boca arriba) Sacrificando todos los monstruos que controles (mín. 2), incluyendo un Monstruo de Péndulo Dragón. Sólo puedes Invocar de Modo Especial a \"Dragón Fantasma de Ojos Totales\" una vez por turno de esta forma. Una vez por turno, durante el cálculo de daño, si esta carta batalla con un monstruo del adversario: hasta el final de este turno, duplica el ATK de esta carta en este momento. Una vez por turno, cuando tu adversario active una Carta Mágica/de Trampa o efecto (Efecto Rápido): puedes mandar al Cementerio 1 Mágica/Trampa que controles; niega la activación.",
+  "pendEffect": "Una vez por turno, al final del Damage Step, si tu Monstruo de Péndulo Dragón atacó un monstruo del adversario: puedes activar este efecto; éste puede atacar otra vez inmediatamente después. No puedes declarar ataques en el turno en el que activaste este efecto, excepto con ese monstruo.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

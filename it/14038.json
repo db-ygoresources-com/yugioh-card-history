@@ -1,0 +1,16 @@
+{
+  "id": 14038,
+  "type": "monster",
+  "name": "Tengu, il Mayakashi Alato",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nPuoi controllare solo 1 \"Tengu, il Mayakashi Alato\". Puoi utilizzare ognuno di questi effetti di \"Tengu, il Mayakashi Alato\" una sola volta per turno.\n●Se un Mostro Synchro sotto il tuo comando, il cui Livello originale è 9, viene distrutto in battaglia o dall'effetto di una carta dell'avversario mentre questa carta è nel Cimitero: puoi bandire 1 altro mostro Zombie dal tuo Cimitero e, se lo fai, Evoca Specialmente questa carta.\n●Se questa carta viene Evocata Specialmente dal Cimitero: puoi distruggere 1 Magia/Trappola controllata dal tuo avversario.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effetto"
+  ]
+}

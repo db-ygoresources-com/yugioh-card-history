@@ -1,0 +1,15 @@
+{
+  "id": 13373,
+  "type": "monster",
+  "name": "Striping-Partner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch den folgenden Effekt als Spezialbeschwörung beschworen werden. Falls die Effektaktivierung eines Monsters, das du kontrollierst, annulliert wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.\nWenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Cyberse-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Striping-Partner“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14068,
+  "type": "monster",
+  "name": "Danger ! Homme-Chien !",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; votre adversaire choisit 1 carte au hasard depuis toute votre main, puis vous défaussez la carte choisie. Puis, si la carte défaussée n'était pas \"Danger ! Homme-Chien !\", Invoquez Spécialement 1 \"Danger ! Homme-Chien !\" depuis votre main, et si vous le faites, piochez 1 carte. Si cette carte est défaussée : jusqu'à la fin de ce tour, vous pouvez faire perdre 1000 ATK à tous les monstres face recto actuellement contrôlés par votre adversaire. Vous ne pouvez utiliser cet effet de \"Danger ! Homme-Chien !\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

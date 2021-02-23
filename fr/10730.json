@@ -1,0 +1,15 @@
+{
+  "id": 10730,
+  "type": "monster",
+  "name": "Dragon Galactique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut pas attaquer directement, et peut uniquement attaquer des monstres de Type Dragon. Si cette carte combat un monstre de Type Dragon, cette carte gagne 1000 ATK durant la Damage Step uniquement, et aussi, le monstre a ses effets annulés durant cette Battle Phase, tant que cette carte reste face recto sur le Terrain.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

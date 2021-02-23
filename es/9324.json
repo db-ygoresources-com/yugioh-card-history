@@ -1,0 +1,16 @@
+{
+  "id": 9324,
+  "type": "monster",
+  "name": "Guerrero Sinfónico Bajjos",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno, puedes seleccionar 1 monstruo \"Guerrero Sinfónico\" boca arriba en el Campo. Aumenta su Nivel tanto como cartas tienes en tu mano; este aumento dura hasta la End Phase. Puedes retirar del juego esta carta en tu Cementerio para seleccionar 1 monstruo \"Guerrero Sinfónico\" boca arriba que controles, y aumentar su Nivel tanto como cartas tienes en tu mano; este aumento dura hasta la End Phase.",
+  "level": 1,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

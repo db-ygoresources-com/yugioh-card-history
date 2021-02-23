@@ -1,0 +1,18 @@
+{
+  "id": 12715,
+  "type": "monster",
+  "name": "Abyss Actor - Leading Lady",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, when battle damage is inflicted: You can target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. When this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Set 1 \"Abyss Script\" Spell directly from your Deck.",
+  "pendEffect": "Once per turn, when you take battle damage from an opponent's attacking monster: You can activate 1 of these effects;\n●That opponent's monster loses ATK equal to the damage you took (even if this card leaves the field).\n●Add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand with ATK less than or equal to the damage you took.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

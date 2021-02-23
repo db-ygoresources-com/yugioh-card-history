@@ -1,0 +1,18 @@
+{
+  "id": 11458,
+  "type": "monster",
+  "name": "D/D Cerbero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta viene Evocata Pendulum dalla mano, mentre controlli un mostro \"D/D\" diverso da \"D/D Cerbero\": puoi scegliere come bersaglio 1 Carta Magia Continua nel tuo Cimitero; aggiungila alla tua mano.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro \"D/D\" che controlli; cambia il suo Livello a 4 e, se lo fai, esso guadagna 400 ATK e DEF (anche se questa carta lascia il Terreno).",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

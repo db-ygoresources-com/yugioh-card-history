@@ -1,0 +1,15 @@
+{
+  "id": 9283,
+  "type": "monster",
+  "name": "Inhibiteur Psi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez déclarer 1 nom de carte ; jusqu'à la fin du prochain tour de votre adversaire, les cartes de ce nom et leurs effets ne peuvent pas être utilisés.",
+  "level": 4,
+  "atk": 1200,
+  "def": 300,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

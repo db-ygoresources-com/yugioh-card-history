@@ -1,0 +1,15 @@
+{
+  "id": 6182,
+  "type": "monster",
+  "name": "Mago do Elemento",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Este monstro obtém o(s) seguinte(s) efeito(s) enquanto existir(em) monstro(s) com o seguinte Atributo no Campo.\n●ÁGUA: O controle deste card não pode ser mudado.\n●VENTO: Se este card destruir um monstro como resultado de um combate, este card pode atacar mais uma vez logo em seguida.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

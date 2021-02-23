@@ -1,0 +1,19 @@
+{
+  "id": 14333,
+  "type": "monster",
+  "name": "Espadachín de la Llama Feroz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos con nombres diferentes\nTodos los monstruos Guerrero en el Campo ganan 500 ATK. Si esta carta Invocada por Enlace es destruida en batalla, o por el efecto de una carta del adversario mientras está en la Zona de Monstruos de su dueño: puedes seleccionar 1 monstruo Guerrero que no sea de Enlace en tu Cementerio; Invócalo de Modo Especial, pero destiérralo cuando deje el Campo. Sólo puedes usar este efecto de \"Espadachín de la Llama Feroz\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 1300,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

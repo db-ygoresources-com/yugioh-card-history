@@ -1,0 +1,18 @@
+{
+  "id": 11704,
+  "type": "monster",
+  "name": "Domador del Espíritu Bestia Zefrawendi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal o por Péndulo: puedes añadir a tu mano 1 monstruo \"Zefra\" boca arriba en tu Deck Extra, excepto \"Domador del Espíritu Bestia Zefrawendi\". Sólo puedes Invocar de Modo Especial a uno o más \"Domador del Espíritu Bestia Zefrawendi\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Espíritu Bestia\" y \"Zefra\". Este efecto no puede ser negado.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Psíquico",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14342,
+  "type": "monster",
+  "name": "Finsterer Anthelion-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 7\nFalls du Stufe 7 als Pendelbeschwörung beschwören kannst, kannst du diese offene Karte in deinem Extra Deck als Pendelbeschwörung beschwören. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; bis zum Ende dieses Spielzugs werden seine ATK gleich der Hälfte seiner derzeitigen ATK und falls sie dies tun, erhält diese Karte die verlorenen ATK. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; halbiere bis zum Ende dieses Spielzugs seine Grund-ATK (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 10,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

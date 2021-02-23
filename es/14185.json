@@ -1,0 +1,16 @@
+{
+  "id": 14185,
+  "type": "monster",
+  "name": "Bailarín de Espada de la Lunaluz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 monstruos \"Lunaluz\"\nDebe ser Invocado por Fusión. Gana 200 ATK por cada monstruo Guerrero-Bestia que esté desterrado o en los Cementerios. Tu adversario no puede seleccionar esta carta con efectos de cartas. Durante tu Main Phase, excepto en el turno en el que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio, y después selecciona 1 Monstruo de Fusión que controles; hasta el final de este turno, éste gana 3000 ATK. Sólo puedes usar este efecto de \"Bailarín de Espada de la Lunaluz\" una vez por turno.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Guerrero-Bestia",
+    "Fusión",
+    "Efecto"
+  ]
+}

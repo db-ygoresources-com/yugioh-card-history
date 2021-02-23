@@ -1,0 +1,18 @@
+{
+  "id": 12406,
+  "type": "monster",
+  "name": "Cheval Radis Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si votre adversaire contrôle un monstre Invoqué Spécialement et qu'il contrôle au moins autant de monstres que vous, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Une fois par tour : vous pouvez cibler 1 monstre face recto sur chaque Terrain ; jusqu'à la fin de ce tour, le monstre de votre adversaire perd une ATK égale à l'ATK de cette carte, et s'il le fait, le monstre que vous contrôlez gagne une ATK égale à l'ATK de cette carte.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire et 1 monstre \"Potartiste\" que vous contrôlez ; le monstre de votre adversaire perd une ATK égale à l'ATK du monstre \"Potartiste\" que vous contrôlez (même si cette carte quitte le Terrain).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Pendule",
+    "Effet"
+  ]
+}

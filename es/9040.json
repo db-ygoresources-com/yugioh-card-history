@@ -1,0 +1,16 @@
+{
+  "id": 9040,
+  "type": "monster",
+  "name": "Highlander Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo Cantante de Tipo Demonio + 1 o más monstruos de Tipo Demonio que no sean Cantantes\nNingún jugador puede Invocar por Sincronía. Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario que esté equipado con una Carta de Equipo; destruye todas las Cartas de Equipo equipadas a ese monstruo y, si lo haces, inflige 400 puntos de daño a tu adversario por cada carta destruida.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Demonio",
+    "Sincronía",
+    "Efecto"
+  ]
+}

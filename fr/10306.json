@@ -1,0 +1,15 @@
+{
+  "id": 10306,
+  "type": "monster",
+  "name": "Sœutonerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre LUMIÈRE de Type Tonnerre de Niveau 4 avec max. 1600 ATK (\"Sœutonerre\" exclu) dans votre Cimetière ; bannissez la cible. Durant la End Phase de ce tour, ajoutez la carte à votre main.",
+  "level": 4,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

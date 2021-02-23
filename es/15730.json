@@ -1,0 +1,19 @@
+{
+  "id": 15730,
+  "type": "monster",
+  "name": "Parametalmórfico Azortless",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 monstruo \"Metalmórfico/a\" + 1 Monstruo de Fusión\nSi esta carta es Invocada de Modo Especial desde el Deck Extra: puedes seleccionar 1 carta que controle tu adversario; baraja al Deck 2 Monstruos de Péndulo boca arriba en tu Deck Extra y, si lo haces, destruye esa carta. Sólo puedes usar este efecto de \"Parametalmórfico Azortless\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Si una o más cartas \"Metalmórfico/a\" boca arriba que controlas son destruidas por el efecto de una carta (excepto durante el Damage Step): puedes seleccionar 1 carta boca arriba en el Campo; destrúyela. Sólo puedes usar este efecto de \"Parametalmórfico Azortless\" una vez por turno.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psíquico",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

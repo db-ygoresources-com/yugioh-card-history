@@ -1,0 +1,15 @@
+{
+  "id": 13321,
+  "type": "monster",
+  "name": "Zakiel, Cerveau de la Magie de Mousquet",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer par Sacrifice face recto cette carte en Sacrifiant 1 monstre \"Magie de Mousquet\". Durant le tour de chaque joueur, vous pouvez activer des Cartes Magie/Piège \"Magie de Mousquet\" depuis votre main. Une fois par tour, durant la End Phase de votre adversaire : vous pouvez piocher un nombre de cartes égal au nombre de Cartes Magie/Piège \"Magie de Mousquet\" que vous avez activées ce tour tant que cette carte était face recto sur votre Terrain. Vous ne pouvez utiliser cet effet de \"Zakiel, Cerveau de la Magie de Mousquet\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

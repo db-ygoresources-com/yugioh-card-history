@@ -1,0 +1,16 @@
+{
+  "id": 12637,
+  "type": "monster",
+  "name": "Aromaserafia Rosmarino",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 Tuner + 1 o più mostri non-Tuner\nMentre i tuoi LP sono superiori a quelli del tuo avversario, tutti i mostri di Tipo Pianta che controlli guadagnano 500 ATK e DEF. Una volta per turno, se guadagni LP: scegli come bersaglio 1 carta scoperta controllata dal tuo avversario; gli effetti di quella carta scoperta si annullano fino alla fine di questo turno.",
+  "level": 5,
+  "atk": 2000,
+  "def": 900,
+  "properties": [
+    "Pianta",
+    "Synchro",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12132,
+  "type": "monster",
+  "name": "Dinofoschia Stegosaur",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se un altro Mostro Pendulum che controlli combatte con un mostro dell'avversario, dopo il calcolo dei danni: puoi distruggere quei mostri.",
+  "pendEffect": "Se una o più altre carte \"Dinofoschia\" che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta dell'avversario, puoi invece distruggere questa carta.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

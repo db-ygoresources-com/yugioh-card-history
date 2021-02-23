@@ -1,0 +1,15 @@
+{
+  "id": 10604,
+  "type": "monster",
+  "name": "DZW - Quimera Revestida",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes seleccionar 1 monstruo \"Número C39\" que controles; equipa este monstruo en tu mano o tu lado del Campo a ese objetivo. El monstruo equipado no puede ser destruido en batalla. Al final del Damage Step, cuando el monstruo equipado ataca a un monstruo de tu adversario pero el monstruo de tu adversario no es destruido en batalla: puedes hacer que el ATK del monstruo de tu adversario se convierta en 0 (aún después de que esta carta deje el Campo o el monstruo no pueda ser afectado por efectos de cartas) y, si lo haces, el monstruo equipado puede hacer un segundo ataque inmediatamente después a ese mismo monstruo.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

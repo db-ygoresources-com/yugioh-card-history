@@ -1,0 +1,16 @@
+{
+  "id": 13745,
+  "type": "monster",
+  "name": "Ruina, Reina Suprema del Olvido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Ciclo del Mundo\". El nombre de esta carta se convierte en \"Ruina, Reina del Olvido\" mientras esté en la mano o en el Campo. Mientras esta carta Invocada por Ritual esté en el Campo, los Monstruos de Ritual que controles no pueden ser destruidos por efectos de cartas. Si todos los monstruos usados para Invocar esta carta por Ritual fueron Monstruos de Ritual, ésta puede hacer un segundo ataque durante cada Battle Phase. Si esta carta destruye un monstruo del adversario en batalla: puedes infligir daño a tu adversario igual al ATK original de ese monstruo destruido.",
+  "level": 10,
+  "atk": 2900,
+  "def": 3000,
+  "properties": [
+    "Hada",
+    "Ritual",
+    "Efecto"
+  ]
+}

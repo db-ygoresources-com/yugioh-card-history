@@ -1,0 +1,15 @@
+{
+  "id": 14832,
+  "type": "monster",
+  "name": "Fée Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto : vous pouvez cibler 1 carte \"Fantôruse\" dans votre Cimetière ; Posez la carte (mais bannissez-la lorsqu'elle quitte le Terrain), puis, vous pouvez changer un nombre de monstres face recto contrôlés par votre adversaire en Position de Défense face verso, inférieur ou égal au nombre de cartes Posées que vous contrôlez.",
+  "level": 2,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

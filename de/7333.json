@@ -1,0 +1,15 @@
+{
+  "id": 7333,
+  "type": "monster",
+  "name": "Behüter des Ozeans",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu. Wenn diese Karte durch Kampf zerstört wird, füge deiner Hand 1 „Tausendäugige Qualle“ oder 1 „Hirnschädelfisch“ von deinem Deck hinzu.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

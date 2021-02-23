@@ -1,0 +1,15 @@
+{
+  "id": 5015,
+  "type": "monster",
+  "name": "Soldado del Sol",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta batalla contra un monstruo de OSCURIDAD, aumenta el ATK de esta carta en 500 puntos durante el Damage Step.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15001,
+  "type": "monster",
+  "name": "Menestrella del Mare Profondo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Puoi scartare questa carta e 1 mostro ACQUA; guarda la mano del tuo avversario e bandisci 1 carta dalla sua mano scoperta, fino alla End Phase. Se questa carta viene Evocata Specialmente: puoi mandare le prime 3 carte del tuo Deck al Cimitero, poi scegliere come bersaglio 1 mostro ACQUA di Livello 4 o inferiore nel tuo Cimitero, eccetto \"Menestrella del Mare Profondo\"; mettilo in cima o in fondo al Deck. Puoi utilizzare ogni effetto di \"Menestrella del Mare Profondo\" una sola volta per turno.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1500,
+  "properties": [
+    "Serpente Marino",
+    "Tuner",
+    "Effetto"
+  ]
+}

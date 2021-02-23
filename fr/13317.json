@@ -1,0 +1,15 @@
+{
+  "id": 13317,
+  "type": "monster",
+  "name": "Kidbrave, Magie de Mousquetaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant le tour de chaque joueur, vous pouvez activer des Cartes Magie/Piège \"Magie de Mousquet\" depuis votre main. Si une Carte Magie/Piège est activée dans la colonne de cette carte : vous pouvez défausser 1 carte \"Magie de Mousquet\" ; piochez 2 cartes. Vous ne pouvez utiliser cet effet de \"Kidbrave, Magie de Mousquetaire\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

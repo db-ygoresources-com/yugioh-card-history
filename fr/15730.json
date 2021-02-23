@@ -1,0 +1,19 @@
+{
+  "id": 15730,
+  "type": "monster",
+  "name": "Azortless Métalphose Para",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 monstre \"Métalphose\" + 1 Monstre Fusion\nSi cette carte est Invoquée Spécialement depuis l'Extra Deck : vous pouvez cibler 1 carte contrôlée par votre adversaire ; mélangez 2 Monstres Pendule face recto depuis votre Extra Deck dans le Deck, et si vous le faites, détruisez la carte. Vous ne pouvez utiliser cet effet de \"Azortless Métalphose Para\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Si une ou plusieurs cartes \"Métalphose\" face recto que vous contrôlez sont détruites par un effet de carte (sauf durant la Damage Step) : vous pouvez cibler 1 carte face recto sur le Terrain ; détruisez-la. Vous ne pouvez utiliser cet effet de \"Azortless Métalphose Para\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psychique",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

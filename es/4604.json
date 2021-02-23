@@ -1,0 +1,15 @@
+{
+  "id": 4604,
+  "type": "monster",
+  "name": "Pequeña Quimera",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Todos los monstruos de FUEGO en el Campo ganan 500 ATK. Todos los monstruos de AGUA en el Campo pierden 400 ATK.",
+  "level": 2,
+  "atk": 600,
+  "def": 550,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

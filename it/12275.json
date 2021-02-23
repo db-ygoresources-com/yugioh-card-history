@@ -1,0 +1,18 @@
+{
+  "id": 12275,
+  "type": "monster",
+  "name": "Artistamico Occhi Diversi Fenice della Luce",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "(Effetto Rapido): puoi offrire come Tributo questa carta, poi scegliere come bersaglio 1 mostro \"Artistamico\" che controlli; esso guadagna 1000 ATK fino alla fine di questo turno.",
+  "pendEffect": "Quando un mostro dell'avversario dichiara un attacco diretto mentre hai una carta nella tua altra Zona Pendulum: puoi distruggere la carta nella tua altra Zona Pendulum e, se lo fai, Evoca Specialmente questa carta.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Bestia Alata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

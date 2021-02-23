@@ -1,0 +1,15 @@
+{
+  "id": 10509,
+  "type": "monster",
+  "name": "Fratellanza del Pugno di Fuoco - Rinoceronte",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Se un mostro \"Pugno di Fuoco\" che controlli attacca o viene attaccato, durante il calcolo dei danni (nel turno di qualsiasi giocatore): puoi mandare 1 Carta Magia/Trappola \"Formazione di Fuoco\" scoperta che controlli e 1 mostro \"Pugno di Fuoco\" dalla tua mano al Cimitero una volta per battaglia; il tuo mostro attaccante/attaccato guadagna ATK pari all'ATK originale del mostro mandato al Cimitero, solamente durante il calcolo dei danni.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Guerriero-Bestia",
+    "Effetto"
+  ]
+}

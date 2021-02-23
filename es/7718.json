@@ -1,0 +1,16 @@
+{
+  "id": 7718,
+  "type": "monster",
+  "name": "Comandante Psíquico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando batalle un monstruo de Tipo Psíquico que controles, durante el Damage Step puedes pagar Life Points en múltiplos de 100 (max. 500) para hacer que el monstruo contra el que batalla pierda esa cantidad de ATK y DEF hasta la End Phase.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Psíquico",
+    "Cantante",
+    "Efecto"
+  ]
+}

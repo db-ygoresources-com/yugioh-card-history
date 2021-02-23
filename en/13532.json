@@ -1,0 +1,19 @@
+{
+  "id": 13532,
+  "type": "monster",
+  "name": "Yoko-Zuna Sumo Spirit",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "When this card is Normal Summoned: You can send to the GY all monsters your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+  "pendEffect": "If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Spirit",
+    "Effect"
+  ]
+}

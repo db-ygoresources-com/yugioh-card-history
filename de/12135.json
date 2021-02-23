@@ -1,0 +1,18 @@
+{
+  "id": 12135,
+  "type": "monster",
+  "name": "Dinonebel Brachion",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du nicht „Dinonebel Brachion“ in deiner Monsterzone kontrollierst und dein Gegner ein Monster kontrolliert, das die höchsten ATK auf dem Spielfeld hat, (selbst falls es einen Gleichstand gibt) kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.",
+  "pendEffect": "Einmal, solange diese Karte in deiner Pendelzone liegt, kannst du einen aktivierten Karteneffekt annullieren, der eine oder mehr andere „Dinonebel“-Karten, die du kontrollierst, als Ziel wählt, dann zerstöre diese Karte.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

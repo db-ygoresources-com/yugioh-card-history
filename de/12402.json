@@ -1,0 +1,18 @@
+{
+  "id": 12402,
+  "type": "monster",
+  "name": "Künstlerkumpel Extraschleuderer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Karte von deinem Extra Deck verbannen und dann 1 Karte in einer Pendelzone wählen; zerstöre sie und falls du dies tust, füge deinem Gegner 300 Schaden zu.",
+  "pendEffect": "Während deiner Main Phase: Du kannst deinem Gegner 300 Schaden für jedes offene Pendelmonster in deinem Extra Deck zufügen. Du kannst diesen Effekt von „Künstlerkumpel Extraschleuderer“ nur einmal pro Spielzug verwenden. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Monster als Pendelbeschwörung beschwören.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 800,
+  "def": 1100,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

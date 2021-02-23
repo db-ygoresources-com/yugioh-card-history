@@ -1,0 +1,16 @@
+{
+  "id": 7301,
+  "type": "monster",
+  "name": "Bestia di Superlega Raptinus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 Mostro \"Gemello\" + 1 Mostro \"Gemello\"\nTutti i Mostri \"Gemello\" sul Terreno vengono considerati Mostri con Effetto, e guadagnano i loro effetti.",
+  "level": 8,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9112,
+  "type": "monster",
+  "name": "Wichttraum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Totenkopfdiener“, solange sie im Friedhof liegt. Du kannst diese Karte abwerfen und dann 1 der folgenden Effekte aktivieren.\n●Wähle 1 deiner verbannten „Totenkopfdiener“ oder „Wichttraum“; lege ihn auf den Friedhof zurück.\n●Wähle 1 deiner verbannten „Die Herrin der Wichte“ oder „König der Totenkopfdiener“; beschwöre sie oder ihn als Spezialbeschwörung.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

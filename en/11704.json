@@ -1,0 +1,18 @@
+{
+  "id": 11704,
+  "type": "monster",
+  "name": "Ritual Beast Tamer Zefrawendi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "When this card is Normal or Pendulum Summoned: You can add 1 face-up \"Zefra\" monster from your Extra Deck to your hand, except \"Ritual Beast Tamer Zefrawendi\". You can only Special Summon \"Ritual Beast Tamer Zefrawendi(s)\" once per turn.",
+  "pendEffect": "You cannot Pendulum Summon monsters, except \"Ritual Beast\" and \"Zefra\" monsters. This effect cannot be negated.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Psychic",
+    "Pendulum",
+    "Effect"
+  ]
+}

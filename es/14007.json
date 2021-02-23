@@ -1,0 +1,19 @@
+{
+  "id": 14007,
+  "type": "monster",
+  "name": "Policía Local del Inframundo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos\nSi esta carta es Invocada por Enlace usando 2 monstruos de OSCURIDAD con nombres diferentes como material, gana este efecto.\n●Puedes Sacrificar 1 monstruo, y después selecciona 1 carta boca arriba en el Campo; pon 1 Contador Patrulla en ella. Sólo puedes usar este efecto de \"Policía Local del Inframundo\" una vez por turno. (Si una carta con un Contador Patrulla fuera a ser destruida en batalla o por efecto de una carta, retira 1 Contador Patrulla de ella en su lugar).",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

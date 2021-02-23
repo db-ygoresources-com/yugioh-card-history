@@ -1,0 +1,19 @@
+{
+  "id": 13591,
+  "type": "monster",
+  "name": "Aislador Espacial",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos\nLos monstruos a los que apunte esta carta pierden 800 ATK/DEF. Cuando un Monstruo de Enlace Ciberso es Invocado por Enlace a tu Campo, mientras esta carta esté en el Cementerio, excepto el turno en el que esta carta fue mandada al Cementerio: puedes Invocar esta carta de Modo Especial a una de tus zonas a la que apunte ese monstruo, pero no puede ser usado como Material de Enlace, y además destiérralo cuando deje el Campo.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

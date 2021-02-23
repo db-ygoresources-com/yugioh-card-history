@@ -1,0 +1,15 @@
+{
+  "id": 7038,
+  "type": "monster",
+  "name": "Jägereule",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte erhält 500 ATK für jedes offenes WIND Monster, das du kontrollierst. Solange du ein anderes offenes WIND Monster kontrollierst, kann dein Gegner diese Karte nicht als Ziel eines Angriffs wählen.",
+  "level": 4,
+  "atk": 1000,
+  "def": 900,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

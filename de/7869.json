@@ -1,0 +1,15 @@
+{
+  "id": 7869,
+  "type": "monster",
+  "name": "Heilwellengenerator",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du ein anderes offenes Monster wählen, das du kontrollierst, um Life Points in Höhe der Stufe des Monsters x 100 zu erhalten.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

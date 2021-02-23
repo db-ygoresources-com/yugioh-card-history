@@ -1,0 +1,19 @@
+{
+  "id": 13936,
+  "type": "monster",
+  "name": "Eccezionale Evocatore Estivo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri Tuono\nUna volta per turno dell'avversario (Effetto Rapido): puoi scartare 1 carta, poi scegliere come bersaglio 1 mostro Tuono nel tuo Cimitero, eccetto un Mostro Link; Evocalo Specialmente in una tua zona puntata da questa carta.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Tuono",
+    "Link",
+    "Effetto"
+  ]
+}

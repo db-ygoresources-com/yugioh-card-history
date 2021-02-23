@@ -1,0 +1,15 @@
+{
+  "id": 14617,
+  "type": "monster",
+  "name": "Dragon Explorokkette",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un effet de Monstre Lien qui cible cette carte face recto sur le Terrain est activé (Effet Rapide) : vous pouvez détruire cette carte, puis chaque joueur reçoit 2000 points de dommages. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite sur le Terrain au combat ou par un effet de carte et y a été envoyée ce tour : vous pouvez Invoquer Spécialement 1 monstre \"Rokkette\" (\"Dragon Explorokkette\" exclu) depuis votre Deck. Vous ne pouvez utiliser chaque effet de \"Dragon Explorokkette\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9107,
+  "type": "monster",
+  "name": "Naturia-Kirschen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte durch eine Karte deines Gegners vom Spielfeld auf den Friedhof gelegt wird (einschließlich durch Kampf, einen Karteneffekt oder indem sie zerstört wird), kannst du bis zu 2 „Naturia-Kirschen“ als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

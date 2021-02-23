@@ -1,0 +1,16 @@
+{
+  "id": 7302,
+  "type": "monster",
+  "name": "Bestia Gladiador Gaiodiaz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Bestia Gladiador Spartacus\" + 1 monstruo \"Bestia Gladiador\"\nEsta carta sólo puede ser Invocada de Modo Especial desde tu Deck Extra devolviendo al Deck las cartas citadas arriba; tú debes controlarlas (no usas \"Polimerización\"). Cuando esta carta destruye un monstruo en batalla y lo manda al Cementerio, inflige daño a tu adversario igual a la DEF del monstruo destruido. Al final de la Battle Phase, si esta carta atacó o fue atacada, puedes devolverla al Deck Extra para Invocar de Modo Especial 2 monstruos \"Bestia Gladiador\" de tu Deck, excepto \"Bestia Gladiador Spartacus\".",
+  "level": 7,
+  "atk": 2600,
+  "def": 1500,
+  "properties": [
+    "Dinosaurio",
+    "Fusión",
+    "Efecto"
+  ]
+}

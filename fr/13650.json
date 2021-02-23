@@ -1,0 +1,16 @@
+{
+  "id": 13650,
+  "type": "monster",
+  "name": "Sheridan Vampire Dhampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres de Niveau 6\nSi vous utilisez un ou plusieurs monstres, avec un Niveau, dont le propriétaire est votre adversaire pour l'Invocation Xyz de cette carte, traitez-les comme Niveau 6. Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 carte contrôlée par votre adversaire ; envoyez-la au Cimetière. Une fois par tour, si une ou plusieurs Cartes Monstre sont envoyées depuis le Terrain au Cimetière de votre adversaire par un effet de carte, ou si un monstre est détruit au combat et envoyé au Cimetière de votre adversaire : vous pouvez détacher 1 Matériel de cette carte ; Invoquez Spécialement 1 de ces monstres sur votre Terrain en Position de Défense.",
+  "rank": 6,
+  "atk": 2600,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Effet"
+  ]
+}

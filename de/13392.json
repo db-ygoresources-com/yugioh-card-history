@@ -1,0 +1,18 @@
+{
+  "id": 13392,
+  "type": "monster",
+  "name": "Mythisches Ungeheuer Schakal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Du kannst 3 Zauberzählmarken von deiner Spielfeldseite entfernen und diese Karte als Tribut anbieten; beschwöre 1 „Mythisches Ungeheuer“-Effektmonster als Spezialbeschwörung von deinem Deck, außer „Mythisches Ungeheuer Schakal“.",
+  "pendEffect": "Falls du keine Karte in deiner anderen Pendelzone hast: Du kannst 1 offene Karte wählen, die du kontrollierst und auf die du eine Zauberzählmarke legen kannst; zerstöre diese Karte und falls du dies tust, lege 1 Zauberzählmarke auf die Karte. Du kannst diesen Effekt von „Mythisches Ungeheuer Schakal“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 0,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

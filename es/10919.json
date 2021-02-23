@@ -1,0 +1,15 @@
+{
+  "id": 10919,
+  "type": "monster",
+  "name": "Chamán Cuidador de Tumbas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Gana 200 DEF por cada monstruo \"Cuidador de Tumbas\" en tu Cementerio. Niega todos los efectos de monstruo que se activen en el Cementerio, excepto los de los monstruos \"Cuidador de Tumbas\". Mientras \"Necrovalle\" está en el Campo, tu adversario no puede activar Cartas Mágicas de Campo, y además las Cartas Mágicas de Campo no pueden ser destruidas por efectos de cartas de tu adversario.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

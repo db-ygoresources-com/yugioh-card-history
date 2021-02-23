@@ -1,0 +1,18 @@
+{
+  "id": 13990,
+  "type": "monster",
+  "name": "Raubpflanze Spinnenorchidee",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während der End Phase, falls diese Karte in diesem Spielzug als Normal- oder Spezialbeschwörung beschworen wurde: Du kannst 1 Pflanze-Monster abwerfen; füge deiner Hand 1 Pflanze-Monster der Stufe 4 oder niedriger von deinem Deck hinzu. Du kannst diesen Effekt von „Raubpflanze Spinnenorchidee“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst 1 andere offene Karte in der Zauber- & Fallenzone wählen; zerstöre sie. Du kannst diesen Effekt von „Raubpflanze Spinnenorchidee“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Pflanze",
+    "Pendel",
+    "Effekt"
+  ]
+}

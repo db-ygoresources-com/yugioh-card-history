@@ -1,0 +1,16 @@
+{
+  "id": 8939,
+  "type": "monster",
+  "name": "Egoistischer Affe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 1 Monster vom Typ Ungeheuer von deiner Hand auf den Friedhof legst. Wenn diese Karte auf diese Weise als Spezialbeschwörung beschworen wird, kannst du 1 dieser Effekte aktivieren:\n● Erhöhe die Stufe dieser Karte um die Stufe des Monsters vom Typ Ungeheuer.\n● Verringere die Stufe dieser Karte um die Stufe des Monsters vom Typ Ungeheuer.",
+  "level": 5,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

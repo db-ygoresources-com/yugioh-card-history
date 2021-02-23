@@ -1,0 +1,16 @@
+{
+  "id": 11832,
+  "type": "monster",
+  "name": "Erzunterweltler Schwarzer Totenkopfdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Normales „Erzunterweltler“-Monster der Stufe 6 + 1 Normales „Rotäugig“-Monster\nDu kannst nur einmal pro Spielzug einen oder mehr „Erzunterweltler Schwarzer Totenkopfdrache“ als Spezialbeschwörung beschwören. Falls diese Karte kämpft, können die Karten und Effekte deines Gegners bis zum Ende des Damage Steps nicht aktiviert werden. Falls die Schadensberechnung durchgeführt wird und diese als Fusionsbeschwörung beschworene Karte daran beteiligt ist, am Ende der Battle Phase: Du kannst 1 Normales „Rotäugig“-Monster in deinem Friedhof wählen; füge deinem Gegner Schaden in Höhe seiner ATK im Friedhof zu, dann mische es ins Deck.",
+  "level": 9,
+  "atk": 3200,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

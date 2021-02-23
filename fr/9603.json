@@ -1,0 +1,16 @@
+{
+  "id": 9603,
+  "type": "monster",
+  "name": "Disigma Vylon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "3 monstres de Niveau 4\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte pour cibler 1 Monstre à Effet en Position d'Attaque face recto contrôlé par votre adversaire ; équipez la cible à cette carte. Au début de la Damage Step, si cette carte combat un monstre du même Attribut qu'une carte équipée par cet effet : détruisez le monstre.",
+  "rank": 4,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Elfe",
+    "Xyz",
+    "Effet"
+  ]
+}

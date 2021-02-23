@@ -1,0 +1,15 @@
+{
+  "id": 14447,
+  "type": "monster",
+  "name": "Artistamigo Soldado del Turno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Al comienzo de tu Battle Phase: puedes poner 1 contador en esta carta (máx. 2). Esta carta gana el siguiente efecto, basado en el número de contadores en ella.\n●1: Una vez por turno, cuando un monstruo del adversario declare un ataque: puedes negar ese ataque.\n●2: Puedes Sacrificar esta carta; destierra todos los monstruos en el Campo, hasta la 2a End Phase de tu adversario.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13516,
+  "type": "monster",
+  "name": "Dragón de Impulso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos \"Cohette\"\nUna vez por turno: puedes seleccionar otro monstruo boca arriba en el Campo; éste gana 500 ATK/DEF. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto. Si esta carta Invocada por Enlace es destruida en batalla o por el efecto de una carta y mandada al Cementerio: puedes seleccionar otro monstruo Dragón en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Dragón de Impulso\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14024,
+  "type": "monster",
+  "name": "Streichbuben Wetterwäscher",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 „Streichbuben“-Monster\nFalls dein „Streichbuben“-Monster angreift, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst diese Karte als Tribut anbieten und dann 2 „Streichbuben“-Nicht-Fusionsmonster mit unterschiedlichen Namen in deinem Friedhof wählen; beschwöre sie als Spezialbeschwörung. Sie können in diesem Spielzug nicht durch Kampf zerstört werden. Du kannst diesen Effekt von „Streichbuben Wetterwäscher“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11812,
+  "type": "monster",
+  "name": "Fuocavaliere Templare",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Un guerriero Fuocavaliere che combatte per la giustizia e disprezza la corruzione. Di questi tempi, mette in discussione anche le sue stesse armi, a causa della sua ricerca della giustizia assoluta.",
+  "pendEffect": "Se hai una carta \"Fuocavaliere\" nella tua altra Zona Pendulum: puoi distruggere entrambe le carte nelle tue Zone Pendulum e, se lo fai, aggiungi 1 mostro FUOCO di Tipo Guerriero dal tuo Deck o Cimitero alla tua mano.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1300,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11333,
+  "type": "monster",
+  "name": "Pompomtaupe Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez cibler 1 monstre dont l'ATK actuelle est différente de son ATK d'origine ; appliquez l'effet approprié. Vous ne pouvez utiliser cet effet de \"Pompomtaupe Potartiste\" qu'une fois par tour.\n●Si l'ATK actuelle du monstre est supérieure à son ATK d'origine, il gagne 1000 ATK.\n●Si l'ATK actuelle du monstre est inférieure à son ATK d'origine, il perd 1000 ATK.",
+  "pendEffect": "Tous les Monstres Pendules que vous contrôlez gagnent 300 ATK.",
+  "pendScale": 5,
+  "level": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

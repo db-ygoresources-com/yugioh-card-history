@@ -1,0 +1,16 @@
+{
+  "id": 7710,
+  "type": "monster",
+  "name": "Luchador con Jutte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, puedes cambiar 1 monstruo en Posición de Ataque boca arriba controlado por tu adversario a Posición de Defensa boca arriba.",
+  "level": 2,
+  "atk": 700,
+  "def": 900,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

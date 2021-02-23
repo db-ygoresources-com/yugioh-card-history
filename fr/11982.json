@@ -1,0 +1,16 @@
+{
+  "id": 11982,
+  "type": "monster",
+  "name": "Revolver Dragon Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ne peut pas attaquer le tour où elle est Invoquée. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Une fois par tour : vous pouvez cibler 1 carte sur le Terrain ; lancez une pièce 3 fois et détruisez-la si min. 2 des résultats sont face.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Toon",
+    "Effet"
+  ]
+}

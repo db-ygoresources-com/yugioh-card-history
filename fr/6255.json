@@ -1,0 +1,15 @@
+{
+  "id": 6255,
+  "type": "monster",
+  "name": "Abare Ushioni",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Prenez une pièce et jouez à pile ou face. Si vous gagnez, infligez 1000 points de dommages aux Life Points de votre adversaire. Si vous perdez, vous recevez 1000 points de dommages. Vous ne pouvez utiliser cet effet qu'une fois par tour durant votre Main Phase.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

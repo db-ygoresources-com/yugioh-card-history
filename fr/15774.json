@@ -1,0 +1,16 @@
+{
+  "id": 15774,
+  "type": "monster",
+  "name": "Synthèse Myutant",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres \"Myutant\" d'Attributs différents\nSi cette carte est Invoquée par Fusion : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez activer cet effet ; le reste de ce tour, cette carte face recto n'est pas affectée par les effets des cartes de l'adversaire du même type (Monstre, Magie ou Piège) que la carte. Si cette carte Invoquée par Fusion que vous contrôlez est détruite par une carte de l'adversaire : vous pouvez ajouter 1 de vos cartes \"Myutant\" bannies à votre main. Vous ne pouvez utiliser chaque effet de \"Synthèse Myutant\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psychique",
+    "Fusion",
+    "Effet"
+  ]
+}

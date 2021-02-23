@@ -1,0 +1,16 @@
+{
+  "id": 12439,
+  "type": "monster",
+  "name": "Abstimmgummi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 offenes Monster wählen, das du kontrollierst; das offene Monster wird in diesem Spielzug als Empfänger behandelt. Du kannst diesen Effekt von „Abstimmgummi“ nur einmal pro Spielzug verwenden. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, nur mit Synchromonstern angreifen. Während des Spielzugs eines beliebigen Spielers, wenn eine Karte oder ein Effekt aktiviert wird, die oder der genau 1 Synchromonster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt: Du kannst diese Karte von deinem Friedhof verbannen; annulliere die Aktivierung.",
+  "level": 1,
+  "atk": 400,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12919,
+  "type": "monster",
+  "name": "Camarartista Dragão Moeda",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Outros monstros do Tipo Dragão que você controla ganham 500 de ATK e, além disso, eles não podem ser destruídos por efeitos de card.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro do Tipo Dragão que você controla que foi Invocado por Invocação-Especial do Deck Adicional; neste turno, se esse monstro que você controla batalhar um monstro do oponente, bana o monstro do oponente depois do cálculo de dano (mesmo que este card deixe o campo).",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

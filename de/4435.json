@@ -1,0 +1,15 @@
+{
+  "id": 4435,
+  "type": "monster",
+  "name": "Launische Göttin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst eine Münze werfen und Kopf oder Zahl wählen. Falls du richtig vorausgesagt hast, verdopple während dieses Spielzugs die ATK dieser Karte. Falls du falsch vorausgesagt hast, halbiere während dieses Spielzugs ihre ATK.",
+  "level": 3,
+  "atk": 950,
+  "def": 700,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

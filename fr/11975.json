@@ -1,0 +1,18 @@
+{
+  "id": 11975,
+  "type": "monster",
+  "name": "Vétéran Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ce leader grisonnant de la division des gardes du corps veille sur la Cavalière et est l'un des rares à se plaindre de son insouciance (en grande partie auprès du Galant qui est le seul à le comprendre).",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 1300,
+  "def": 2700,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

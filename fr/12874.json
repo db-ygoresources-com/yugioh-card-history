@@ -1,0 +1,16 @@
+{
+  "id": 12874,
+  "type": "monster",
+  "name": "Dracossuaire Subterreur Béhémoth",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez activer cet effet ; ce tour, toutes les cartes \"Subterreur\" que vous contrôlez ne peuvent pas être détruites par des effets de carte de votre adversaire. Vous ne pouvez utiliser cet effet de \"Dracossuaire Subterreur Béhémoth\" qu'une fois par tour.\nLorsqu'un monstre face recto que vous contrôlez est retourné face verso, si vous ne contrôlez aucun monstre face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense face recto. Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Flip",
+    "Effet"
+  ]
+}

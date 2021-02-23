@@ -1,0 +1,15 @@
+{
+  "id": 11199,
+  "type": "monster",
+  "name": "Bujingi Sinyou",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante el Damage Step de cualquier jugador, si un monstruo \"Bujin\" de Tipo Guerrero-Bestia que controles batalla con un monstruo de tu adversario: puedes desterrar esta carta en tu Cementerio; hasta el final del Damage Step, ese monstruo que controlas gana ATK igual al ATK en este momento del monstruo de tu adversario con el que está batallando y, si lo hace, todo el daño de batalla que tu adversario recibe de esa batalla se divide a la mitad. Sólo puedes usar este efecto de \"Bujingi Sinyou\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

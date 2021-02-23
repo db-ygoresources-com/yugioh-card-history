@@ -1,0 +1,16 @@
+{
+  "id": 8413,
+  "type": "monster",
+  "name": "Wurm Zero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 oder mehr „Wurm“-Monster vom Typ Reptil\nFür jedes Fusionsmaterialmonster mit einem verschiedenen Namen, das für die Fusionsbeschwörung dieser Karte benutzt wurde, erhält sie 500 ATK und zusätzlich diese Effekte:\n●2+: Einmal pro Spielzug kannst du 1 Monster vom Typ Reptil in deinem Friedhof wählen und als Spezialbeschwörung in die verdeckte Verteidigungsposition beschwören.\n●4+: Du kannst 1 Monster vom Typ Reptil in deinem Friedhof aus dem Spiel entfernen, um 1 Monster auf dem Spielfeld auf den Friedhof zu legen.\n●6+: Einmal pro Spielzug kannst du 1 Karte ziehen.",
+  "level": 10,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Reptil",
+    "Fusion",
+    "Effekt"
+  ]
+}

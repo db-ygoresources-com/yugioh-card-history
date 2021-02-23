@@ -1,0 +1,15 @@
+{
+  "id": 10690,
+  "type": "monster",
+  "name": "Monolito del Sol Cronómalo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo \"Cronómalo/a\" que controles; su Nivel se convierte en 6. Durante el turno en el que activas este efecto, no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Cronómalo/a\".",
+  "level": 6,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

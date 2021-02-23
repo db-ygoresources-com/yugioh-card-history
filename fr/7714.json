@@ -1,0 +1,16 @@
+{
+  "id": 7714,
+  "type": "monster",
+  "name": "Maître à Penser",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez payer 800 Life Points et Sacrifier 1 monstre de Type Psychique, excepté \"Maître à Penser\", pour Invoquer Spécialement depuis votre Deck, 1 monstre de Type Psychique de Niveau 4 ou moins en Position d'Attaque face recto.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Psychique",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

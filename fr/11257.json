@@ -1,0 +1,16 @@
+{
+  "id": 11257,
+  "type": "monster",
+  "name": "Winda Marionnette de l'Ombre El",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Marionnette de l'Ombre\" + 1 monstre TÉNÈBRES\nDoit d'abord être Invoquée par Fusion. Non destructible par des effets de carte de l'adversaire. Chaque joueur ne peut Invoquer Spécialement un ou plusieurs monstres qu'une fois par tour tant que cette carte est face recto sur le Terrain. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 Magie/Piège \"Marionnette de l'Ombre\" dans votre Cimetière ; ajoutez-le à votre main.",
+  "level": 5,
+  "atk": 2200,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

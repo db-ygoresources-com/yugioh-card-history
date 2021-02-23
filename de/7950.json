@@ -1,0 +1,16 @@
+{
+  "id": 7950,
+  "type": "monster",
+  "name": "Genex-Ersatzteil",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, falls du andere „Genex“-Monster kontrollierst, kannst du den Namen dieser Karte bis zur End Phase zu „Genex-Überwacher“ machen.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

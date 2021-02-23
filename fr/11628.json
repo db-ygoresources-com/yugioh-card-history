@@ -1,0 +1,16 @@
+{
+  "id": 11628,
+  "type": "monster",
+  "name": "Guerrier à Réaction",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Avion à Réaction Synchronique\" + 1 monstre non-Syntoniseur ou plus\nSi cette carte est Invoquée par Synchronisation : vous pouvez cibler 1 carte contrôlée par votre adversaire ; renvoyez-la à la main. Si cette carte est dans votre Cimetière : vous pouvez Sacrifier 1 monstre de max. Niveau 2 ; Invoquez Spécialement cette carte en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Guerrier à Réaction\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

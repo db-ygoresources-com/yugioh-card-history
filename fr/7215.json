@@ -1,0 +1,15 @@
+{
+  "id": 7215,
+  "type": "monster",
+  "name": "Maître des Zombies",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez envoyer 1 monstre depuis votre main au Cimetière, puis ciblez 1 monstre Zombie de max. Niveau 4 dans l'un des Cimetières ; Invoquez Spécialement la cible. Ce monstre doit être face recto sur le Terrain pour activer et résoudre cet effet.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

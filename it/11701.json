@@ -1,0 +1,18 @@
+{
+  "id": 11701,
+  "type": "monster",
+  "name": "Zefrasciabola, Spadaccino dei Nekroz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Puoi offrire come Tributo questa carta dalla tua mano o scoperta sul tuo Terreno; offri come Tributo mostri dalla tua mano o Terreno, poi Evoca tramite Rituale dalla tua mano 1 Mostro Rituale \"Nekroz\" il cui Livello è esattamente pari alla somma dei Livelli di quei mostri. Puoi utilizzare questo effetto di \"Zefrasciabola, Spadaccino dei Nekroz\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Nekroz\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

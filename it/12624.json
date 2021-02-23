@@ -1,0 +1,18 @@
+{
+  "id": 12624,
+  "type": "monster",
+  "name": "Scatola dei Gioielli di Pandora",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Mentre non hai nessuna carta nel tuo Extra Deck, pesca 2 carte invece di 1 per la tua normale pescata durante la tua Draw Phase.",
+  "pendEffect": "Mentre non hai carte nel tuo Extra Deck: puoi scegliere come bersaglio 1 carta nella Zona Pendulum del tuo avversario; distruggila e, se lo fai, metti questa carta nella Zona Pendulum del tuo avversario.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Pendulum",
+    "Effetto"
+  ]
+}

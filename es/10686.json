@@ -1,0 +1,15 @@
+{
+  "id": 10686,
+  "type": "monster",
+  "name": "Comandante Archidemonio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas una carta \"Archidemonio\", puedes Invocar esta carta de Modo Especial (desde tu mano), pero no puede atacar este turno. Sólo puedes Invocar a \"Comandante Archidemonio\" de Modo Especial de esta forma una vez por turno. Cuando es Invocado de Modo Especial de esta forma: selecciona 1 carta \"Archidemonio\" que controles; destruye ese objetivo. Cuando esta carta es Invocada por Sacrificio: puedes seleccionar 1 monstruo \"Archidemonio\" de Nivel 6 en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Defensa boca arriba.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

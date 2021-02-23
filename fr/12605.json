@@ -1,0 +1,16 @@
+{
+  "id": 12605,
+  "type": "monster",
+  "name": "Quan Crystron",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant la Main Phase ou Battle Phase de votre adversaire : vous pouvez Invoquer Spécialement 1 monstre non-Syntoniseur depuis votre main, mais il a ses effets annulés (s'il en a), et si vous le faites, immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro de Type Machine en utilisant uniquement le monstre et cette carte (ceci est un Effet Rapide). Vous ne pouvez utiliser cet effet de \"Quan Crystron\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

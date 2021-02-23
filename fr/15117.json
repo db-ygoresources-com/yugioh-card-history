@@ -1,0 +1,16 @@
+{
+  "id": 15117,
+  "type": "monster",
+  "name": "Kanzashi la Reine Rikka",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 6\nSi un ou plusieurs monstres sont Sacrifiés (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre dans l'un des Cimetières ; Invoquez-le Spécialement, mais annulez ses effets, et aussi, il devient un monstre Plante. Si un ou plusieurs monstres Plante que vous contrôlez vont être détruits par un effet de carte, vous pouvez Sacrifier 1 monstre Plante depuis votre main ou Terrain à la place. Vous ne pouvez utiliser chaque effet de \"Kanzashi la Reine Rikka\" qu'une fois par tour.",
+  "rank": 6,
+  "atk": 2400,
+  "def": 2400,
+  "properties": [
+    "Plante",
+    "Xyz",
+    "Effet"
+  ]
+}

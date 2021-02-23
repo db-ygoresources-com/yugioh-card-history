@@ -1,0 +1,18 @@
+{
+  "id": 12911,
+  "type": "monster",
+  "name": "Mago Tossina Viola",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "(Questa carta viene sempre considerata come una carta \"Drago Fusione\".)\nSe questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 carta scoperta sul Terreno; distruggila.",
+  "pendEffect": "Una volta per turno, se un tuo mostro OSCURITÀ di Tipo Incantatore combatte, prima del calcolo dei danni: puoi attivare questo effetto; quel mostro guadagna 1200 ATK (fino alla fine del Damage Step), poi distruggi questa carta.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

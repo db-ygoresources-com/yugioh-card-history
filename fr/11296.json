@@ -1,0 +1,16 @@
+{
+  "id": 11296,
+  "type": "monster",
+  "name": "Numéro 86 : Champion Héroïque - Rhongomyniad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Min. 2 (max. 5) monstres Guerrier de Niveau 4\nUne fois par tour, durant la End Phase de votre adversaire : détachez 1 Matériel de cette carte. Cette carte gagne des effets selon le nombre de Matériels qui lui sont attachés.\n●1+ : Non destructible au combat.\n●2+ : Gagne 1500 ATK/DEF.\n●3+ : Non affectée par les effets d'autres cartes.\n●4+ : Votre adversaire ne peut Invoquer ni Normalement ni Spécialement de monstres.\n●5 : Une fois par tour : vous pouvez détruire toutes les cartes contrôlées par votre adversaire.",
+  "rank": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

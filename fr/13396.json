@@ -1,0 +1,18 @@
+{
+  "id": 13396,
+  "type": "monster",
+  "name": "Roi Chacal, Bête Mythique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 2 Compteurs Magie sur cette carte lorsque la Magie est résolue. Une fois par tour, lorsque l'adversaire active un effet de monstre (Effet Rapide) : vous pouvez retirer 2 Compteurs Magie depuis votre Terrain ; annulez l'activation, et si vous le faites, détruisez la carte.",
+  "pendEffect": "Si vous n'avez aucune carte dans votre autre Zone Pendule : vous pouvez détruire cette carte, et si vous le faites, Invoquez Spécialement 1 Monstre Pendule \"Bête Mythique\" face recto (\"Roi Chacal, Bête Mythique\" exclu) depuis votre Extra Deck. Vous ne pouvez utiliser cet effet de \"Roi Chacal, Bête Mythique\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2400,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

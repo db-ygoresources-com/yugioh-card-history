@@ -1,0 +1,15 @@
+{
+  "id": 14774,
+  "type": "monster",
+  "name": "Nidhogg, Boss Genèraideur de la Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Nidhogg, Boss Genèraideur de la Glace\". Lorsque votre adversaire va Invoquer Spécialement un ou plusieurs monstres (Effet Rapide) : vous pouvez Sacrifier 1 monstre \"Genèraideur\" ou 1 monstre Wyrm ; annulez l'Invocation, et si vous le faites, détruisez ces monstres. Vous ne pouvez utiliser cet effet de \"Nidhogg, Boss Genèraideur de la Glace\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 2100,
+  "def": 2600,
+  "properties": [
+    "Wyrm",
+    "Effet"
+  ]
+}

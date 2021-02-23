@@ -1,0 +1,19 @@
+{
+  "id": 11936,
+  "type": "monster",
+  "name": "Mago Nobledragón",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser usado como Material de Sincronía, excepto para la Invocación por Sincronía de un Monstruo de Sincronía Dragón. Si esta carta es utilizada como Material de Sincronía, a menos que todos los demás Materiales de Sincronía sean monstruos \"Ojos Anómalos\", pon esta carta en el fondo del Deck. Si esta carta está en tu mano o Cementerio: puedes seleccionar 1 monstruo \"Ojos Anómalos\" de Nivel 7 o superior que controles; reduce su Nivel en 3 y, si lo haces, Invoca esta carta de Modo Especial.",
+  "pendEffect": "A menos que tengas una carta \"Mago/a\" en tu otra Zona de Péndulo, destruye esta carta.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 700,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

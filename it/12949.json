@@ -1,0 +1,15 @@
+{
+  "id": 12949,
+  "type": "monster",
+  "name": "Petardiere",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Durante il turno di qualsiasi giocatore: puoi scartare questa carta; infliggi 1000 danni al tuo avversario e, se lo fai, salta la tua prossima Draw Phase. Puoi utilizzare questo effetto di \"Petardiere\" una sola volta per turno. Ogni volta che il tuo avversario subisce danno da effetto, metti 1 Segnalino su questa carta. Una volta per turno, durante la End Phase: rimuovi da questa carta tutti i Segnalini che ci erano stati messi dal suo effetto e, se lo fai, infliggi 300 danni al tuo avversario per ognuno.",
+  "level": 4,
+  "atk": 1700,
+  "def": 200,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

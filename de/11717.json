@@ -1,0 +1,16 @@
+{
+  "id": 11717,
+  "type": "monster",
+  "name": "Schreckenspelz Schaf",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Kettenkobold“ + 1 „Kuscheltier“-Monster\nFalls diese Karte kämpft, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren. Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird oder falls diese Karte, die dir gehört, durch einen Karteneffekt deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, erhält sie 800 ATK. Du kannst diesen Effekt von „Schreckenspelz Schaf“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

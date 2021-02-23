@@ -1,0 +1,15 @@
+{
+  "id": 7071,
+  "type": "monster",
+  "name": "Bête Cristalline : Chat d'Améthyste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte peut attaquer directement votre adversaire, mais lorsqu'elle utilise cet effet, les dommages de combat qu'elle inflige à votre adversaire sont divisés par deux. Si cette carte face recto est détruite dans une Zone Monstre, vous pouvez la placer face recto dans votre Zone Magie & Piège comme Magie Continue au lieu de l'envoyer au Cimetière.",
+  "level": 3,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12737,
+  "type": "monster",
+  "name": "Artistamigo Verticalmapache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es destruida en batalla: puedes seleccionar 1 carta en el Campo; devuélvela a la mano.",
+  "pendEffect": "Puedes seleccionar 1 carta \"Artistamigo\" que controles; devuélvela a la mano, pero por el resto de este turno no puedes activar cartas, o efectos de cartas, con el mismo nombre que el que se devuleve a la mano por este efecto (aún si esta carta deja el Campo). Sólo puedes usar este efecto de \"Artistamigo Verticalmapache\" una vez por turno.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 400,
+  "def": 600,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

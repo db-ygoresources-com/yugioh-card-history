@@ -1,0 +1,15 @@
+{
+  "id": 10384,
+  "type": "monster",
+  "name": "Bruderschaft der Feuerfaust - Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug, falls du eine „Feuerformation“-Zauber-/Fallenkarte aktivierst (außer während des Damage Steps): Du kannst 1 „Feuerformation“-Falle direkt von deinem Deck setzen. Einmal pro Spielzug: Du kannst 2 offene „Feuerformation“-Zauber/Fallen, die du kontrollierst, auf den Friedhof legen und dann 1 „Feuerfaust“-Monster in deinem Friedhof wählen, außer „Bruderschaft der Feuerfaust - Drache“; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

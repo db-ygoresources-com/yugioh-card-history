@@ -1,0 +1,19 @@
+{
+  "id": 13514,
+  "type": "monster",
+  "name": "Jet d'Ogre Gouki",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres \"Gouki\"\nUne fois par tour : vous pouvez cibler 1 carte \"Gouki\" que vous contrôlez ; détruisez-la, et si vous le faites, changez tous les monstres sur le Terrain en Position d'Attaque face recto. Si cette carte est envoyée depuis le Terrain au Cimetière : jusqu'à la fin de ce tour, vous pouvez faire gagner 500 ATK à tous les monstres \"Gouki\" que vous contrôlez actuellement. Vous ne pouvez utiliser cet effet de \"Jet d'Ogre Gouki\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

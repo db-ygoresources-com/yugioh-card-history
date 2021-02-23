@@ -1,0 +1,15 @@
+{
+  "id": 12315,
+  "type": "monster",
+  "name": "Würfelops",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen, dann führe das Ergebnis aus.\n●1: Sieh dir die Hand deines Gegners an, zusätzlich wirf 1 Karte von seiner Hand ab.\n●2, 3, 4, 5: Wirf 1 Karte ab.\n●6: Wirf deine gesamte Hand ab.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

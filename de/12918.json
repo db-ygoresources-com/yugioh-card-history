@@ -1,0 +1,18 @@
+{
+  "id": 12918,
+  "type": "monster",
+  "name": "Künstlerkumpel U-Go-Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, falls diese Karte in diesem Spielzug als Pendelbeschwörung beschworen wurde: Du kannst 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei diese Karte, die du kontrollierst, und Drache-Monster, die du kontrollierst, als Fusionsmaterial.",
+  "pendEffect": "Einmal pro Spielzug, falls ein Monster als Fusionsbeschwörung auf deine Spielfeldseite beschworen wird (außer während des Damage Steps): Du kannst deiner Hand 1 „Künstlerkumpel“-, „Buntäugig“- oder „Magier“-Pendelmonster von deinem Friedhof oder offen von deinem Extra Deck hinzufügen.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

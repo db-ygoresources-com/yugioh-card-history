@@ -1,0 +1,16 @@
+{
+  "id": 8742,
+  "type": "monster",
+  "name": "アーマード・ビー",
+  "nameRuby": "アーマード・ビー",
+  "englishAttribute": "wind",
+  "localizedAttribute": "風属性",
+  "effectText": "１ターンに１度、相手フィールド上に表側表示で存在するモンスター１体を選択して発動する。選択した相手モンスターの攻撃力をエンドフェイズ時まで半分にする。",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "昆虫族",
+    "効果"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9201,
+  "type": "monster",
+  "name": "Jeanne le Chevalier Noble",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte attaque, elle perd 300 ATK durant la Damage Step uniquement. Si cette carte en votre possession est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : vous pouvez envoyer 1 carte depuis votre main au Cimetière, puis ciblez 1 monstre de Type Guerrier de max. Niveau 4 dans votre Cimetière ; ajoutez la cible à votre main.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1300,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11254,
+  "type": "monster",
+  "name": "Deskbot 001",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Guadagna 500 ATK/DEF per ogni mostro Macchina che controlli. Se 2 o più mostri Macchina vengono Evocati Specialmente allo stesso tempo, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Tuner",
+    "Effetto"
+  ]
+}

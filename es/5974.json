@@ -1,0 +1,15 @@
+{
+  "id": 5974,
+  "type": "monster",
+  "name": "Dragón de la Llamarada Solar",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Mientras controles otro monstruo de Tipo Piro, esta carta no puede ser atacada. Durante cada una de tus End Phases: inflige 500 puntos de daño a tu adversario.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

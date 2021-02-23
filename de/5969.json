@@ -1,0 +1,15 @@
+{
+  "id": 5969,
+  "type": "monster",
+  "name": "Zweitausend Nadeln",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte angegriffen wird, wenn sie sich in Verteidigungsposition befindet und die ATK des angreifenden Monsters kleiner als die DEF dieser Karte ist, zerstöre das angreifende Monster nach der Schadensberechnung.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

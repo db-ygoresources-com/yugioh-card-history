@@ -1,0 +1,15 @@
+{
+  "id": 10032,
+  "type": "monster",
+  "name": "Rebotador del Martillo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si tu adversario controla cartas y tú no controlas ninguna, puedes Invocar esta carta de Modo Normal sin Sacrificios. Si esta carta ataca a un monstruo de tu adversario, mientras no controles Cartas Mágicas/de Trampa, tu adversario no puede activar Cartas Mágicas/de Trampa hasta el final del Damage Step.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

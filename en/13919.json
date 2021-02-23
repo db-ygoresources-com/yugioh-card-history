@@ -1,0 +1,15 @@
+{
+  "id": 13919,
+  "type": "monster",
+  "name": "Two-for-One Team",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.\n●Monster: Each player can Special Summon their monster.\n●Spell: Each player draws 2 cards.\n●Trap: Each player sends exactly 2 cards from their Deck to their GY.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Warrior",
+    "Effect"
+  ]
+}

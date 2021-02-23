@@ -1,0 +1,15 @@
+{
+  "id": 12489,
+  "type": "monster",
+  "name": "Dragão Pandêmico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno: você pode pagar PV em múltiplos de 100; outros monstros com a face para cima no campo perdem esse tanto de ATK. Uma vez por turno: você pode escolher 1 monstro no campo com ATK menor ou igual ao deste card; destrua-o. Se este card for destruído em batalha ou por um efeito de card: todos os monstros com a face para cima no campo perdem 1000 de ATK.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

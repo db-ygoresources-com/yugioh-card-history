@@ -1,0 +1,15 @@
+{
+  "id": 12440,
+  "type": "monster",
+  "name": "Panda Roupanneur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant la Standby Phase : vous pouvez payer 500 LP ; envoyez la carte du dessus de votre Deck au Cimetière, et si vous le faites, cette carte gagne une ATK/DEF égales au Niveau du monstre x 200 si c'était un monstre. Si cette carte en votre possession est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : vous pouvez ajouter le monstre avec le plus faible Niveau depuis votre Cimetière à votre main (en cas d'égalité, vous choisissez).",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

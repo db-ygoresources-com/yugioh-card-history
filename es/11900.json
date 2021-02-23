@@ -1,0 +1,16 @@
+{
+  "id": 11900,
+  "type": "monster",
+  "name": "Golem de Mecanismo Antiguo Toon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede atacar en el turno en el que es Invocado. Mientras controles \"Mundo Toon\" y tu adversario no controle monstruos Toon, esta carta puede atacar a tu adversario directamente. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar ninguna Mágica/Trampa.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Máquina",
+    "Toon",
+    "Efecto"
+  ]
+}

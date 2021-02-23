@@ -1,0 +1,16 @@
+{
+  "id": 8306,
+  "type": "monster",
+  "name": "Roquette Turbo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte attaque, elle ne peut pas être détruite au combat. Si cette carte attaque, après le calcul des dommages, infligez des dommages égaux à la moitié de l'ATK de la cible d'attaque à votre adversaire.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

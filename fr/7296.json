@@ -1,0 +1,15 @@
+{
+  "id": 7296,
+  "type": "monster",
+  "name": "Joueur Légendaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez lancer une pièce 3 fois et appliquer les effets suivants :\n ●3 \"face\" : Détruisez tous les monstres contrôlés par votre adversaire.\n ●2 \"face\" : Défaussez 1 carte au hasard de la main de votre adversaire.\n ●1 \"face\" : Détruisez 1 carte que vous contrôlez.\n ●3 \"pile\" : Défaussez toutes les cartes de votre main.",
+  "level": 4,
+  "atk": 500,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

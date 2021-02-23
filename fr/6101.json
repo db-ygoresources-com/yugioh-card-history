@@ -1,0 +1,16 @@
+{
+  "id": 6101,
+  "type": "monster",
+  "name": "Imitateur des Ténèbres LV1",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Piochez 1 carte.\nUne fois par tour, durant votre Standby Phase : vous pouvez envoyer cette carte au Cimetière ; Invoquez Spécialement 1 \"Imitateur des Ténèbres LV3\" depuis votre main ou Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Flip",
+    "Effet"
+  ]
+}

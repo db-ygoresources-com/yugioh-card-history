@@ -1,0 +1,19 @@
+{
+  "id": 13544,
+  "type": "monster",
+  "name": "Conector de Basura",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Efecto (Guerrero y/o Máquina), incluyendo un Cantante\nUna vez por turno, durante la Main o Battle Phase, puedes (Efecto Rápido): inmediatamente después de que se resuelva este efecto, Invocar por Sincronía 1 Monstruo de Sincronía, usando sólo materiales a los que apunte esta carta. Si esta carta Invocada por Enlace que controlas es destruida en batalla o por el efecto de una carta del adversario y mandada a tu Cementerio: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo de Sincronía \"Basura\". (Ésta se trata como una Invocación por Sincronía).",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

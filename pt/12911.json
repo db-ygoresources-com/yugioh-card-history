@@ -1,0 +1,18 @@
+{
+  "id": 12911,
+  "type": "monster",
+  "name": "Mago de Veneno Púrpura",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Dragão Fusão\".)\nSe este card for destruído em batalha ou por um efeito de card: você pode escolher 1 card com a face para cima no campo; destrua-o.",
+  "pendEffect": "Uma vez por turno, se um dos seus monstros de TREVAS do Tipo Mago batalhar, antes do cálculo de dano: você pode ativar este efeito; esse monstro ganha 1200 de ATK (até o final da Etapa de Dano) e, depois, destrua este card.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

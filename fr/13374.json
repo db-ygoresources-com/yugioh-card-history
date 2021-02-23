@@ -1,0 +1,15 @@
+{
+  "id": 13374,
+  "type": "monster",
+  "name": "Clown Flick",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous contrôlez min. 2 autres monstres Cyberse et que vous n'avez aucune carte dans votre main : vous pouvez payer 1000 LP ; piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Clown Flick\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1400,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

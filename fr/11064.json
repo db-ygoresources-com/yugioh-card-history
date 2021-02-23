@@ -1,0 +1,15 @@
+{
+  "id": 11064,
+  "type": "monster",
+  "name": "Thestalos le Méga Monarque",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre Invoqué par Sacrifice. Si cette carte est Invoquée par Sacrifice : regardez la main de votre adversaire et défaussez-lui 1 carte, puis, si c'était une Carte Monstre, infligez des dommages à votre adversaire égaux à son Niveau d'origine x 200. Si cette carte a été Invoquée par Sacrifice en Sacrifiant un monstre FEU, ajoutez cet effet supplémentaire.\n●Aussi, infligez 1000 points de dommages à votre adversaire après ça.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

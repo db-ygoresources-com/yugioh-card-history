@@ -1,0 +1,16 @@
+{
+  "id": 5656,
+  "type": "monster",
+  "name": "Mandragore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Placez 1 Compteur Magie sur chaque carte face recto sur le Terrain sur laquelle vous pouvez placer un Compteur Magie.",
+  "level": 2,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14445,
+  "type": "monster",
+  "name": "Fracas du Jour, le Brillant Guerrier Magique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Magicien\nSi cette carte est Invoquée par Lien : placez 1 Compteur Magie sur elle. Gagne 300 ATK pour chaque Compteur Magie sur elle. Vous ne pouvez activer chacun des effets suivants de \"Fracas du Jour, le Brillant Guerrier Magique\" qu'une fois par tour.\n●Si un ou plusieurs monstres Magicien sont Invoqués Spécialement dans une ou plusieurs zones pointées par cette carte : placez 1 Compteur Magie sur cette carte.\n●Vous pouvez retirer 2 Compteurs Magie de cette carte, puis ciblez 1 carte sur le Terrain ; détruisez-la.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12302,
+  "type": "monster",
+  "name": "Amorfago Accidia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Nessun giocatore può Evocare Specialmente mostri dall'Extra Deck, eccetto mostri \"Amorfago\".",
+  "pendEffect": "Mentre controlli un mostro \"Amorfago\", nessun giocatore può aggiungere carte dal suo Deck alla sua mano, eccetto pescandole. Una volta per turno, durante la tua Standby Phase, offri come Tributo 1 mostro o distruggi questa carta.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2250,
+  "def": 0,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

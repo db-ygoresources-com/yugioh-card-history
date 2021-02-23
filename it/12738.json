@@ -1,0 +1,18 @@
+{
+  "id": 12738,
+  "type": "monster",
+  "name": "Artistamico Pug Pugnaliere",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Durante la tua Main Phase, se questa carta è stata Evocata Pendulum in questo turno: puoi mandare 1 mostro \"Artistamico\" dalla tua mano al Cimitero; pesca 1 carta. Puoi utilizzare questo effetto di \"Artistamico Pug Pugnaliere\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase, se questa carta è stata attivata in questo turno: puoi scegliere come bersaglio 1 mostro \"Artistamico\" nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare questo effetto di \"Artistamico Pug Pugnaliere\" una sola volta per turno.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

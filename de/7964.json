@@ -1,0 +1,15 @@
+{
+  "id": 7964,
+  "type": "monster",
+  "name": "Verbündeter der Gerechtigkeit Donnerrüstung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Während eines Kampfes zwischen einem angreifenden „Verbündeter der Gerechtigkeit“-Monster, das du kontrollierst, und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK des angreifenden Monsters, füge die Differenz deinem Gegner als Kampfschaden zu.",
+  "level": 8,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

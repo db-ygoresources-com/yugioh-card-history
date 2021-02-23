@@ -1,0 +1,15 @@
+{
+  "id": 8027,
+  "type": "monster",
+  "name": "Scanner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, puoi scegliere 1 dei mostri del tuo avversario rimossi dal gioco. Fino alla End Phase, il nome di questa carta viene considerato come il nome del mostro scelto, e questa carta ha lo stesso Attributo, Livello, ATK e DEF del mostro scelto. Se questa carta viene rimossa dal Terreno fino a quando si applica questo effetto, rimuovila dal gioco.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

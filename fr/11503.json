@@ -1,0 +1,18 @@
+{
+  "id": 11503,
+  "type": "monster",
+  "name": "Lancephorhynchus",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette espèce primordiale a survécu en développant une lance offensive qui peut tout percer, et ce, malgré que son régime alimentaire qui se compose encore principalement de poisson.",
+  "pendEffect": "Si un Monstre Normal que vous contrôlez attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Dinosaure",
+    "Pendule",
+    "Normal"
+  ]
+}

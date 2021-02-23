@@ -1,0 +1,16 @@
+{
+  "id": 4507,
+  "type": "monster",
+  "name": "Insecte Mangeur d'Hommes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Ciblez 1 monstre sur le Terrain ; détruisez-le.",
+  "level": 2,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

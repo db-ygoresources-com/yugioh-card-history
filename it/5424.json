@@ -1,0 +1,15 @@
+{
+  "id": 5424,
+  "type": "monster",
+  "name": "Giara Dado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "SCOPRI: Entrambi i giocatori tirano un dado a sei facce. Il giocatore con il risultato inferiore subisce danno pari al risultato del tiro del suo avversario x 500. Tuttavia, se il vincitore ha tirato un 6, il perdente subisce 6000 danni. Se i risultati sono uguali, entrambi i giocatori tirano ancora.",
+  "level": 3,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Roccia",
+    "Effetto"
+  ]
+}

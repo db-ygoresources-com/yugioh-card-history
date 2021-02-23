@@ -1,0 +1,18 @@
+{
+  "id": 12046,
+  "type": "monster",
+  "name": "Sakyo, Swordmaster of the Far East",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "The dust has now settled on this greatest of battles.\nHail to your victories.",
+  "pendEffect": "Once per turn: You can banish 3 Warrior-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 2900,
+  "def": 2600,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Normal"
+  ]
+}

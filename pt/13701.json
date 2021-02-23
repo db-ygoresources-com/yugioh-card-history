@@ -1,0 +1,18 @@
+{
+  "id": 13701,
+  "type": "monster",
+  "name": "Fofanimal Anjo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode oferecer este card como Tributo e, depois, escolha 1 Monstro de Fusão \"Peladura\" no seu Cemitério; descarte 1 card e, se isso acontecer, Invoque o monstro alvo por Invocação-Especial. Você só pode usar este efeito de \"Fofanimal Anjo\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 monstro \"Fofanimal\" ou \"Diabrete de\" no seu Cemitério; Invoque-o por Invocação-Especial e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros de Fusão (mesmo que este card deixe o campo). Você só pode usar este efeito de \"Fofanimal Anjo\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

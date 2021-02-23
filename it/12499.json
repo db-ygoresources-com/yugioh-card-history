@@ -1,0 +1,15 @@
+{
+  "id": 12499,
+  "type": "monster",
+  "name": "Ragazza Maga Kiwi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Durante il turno di qualsiasi giocatore: puoi scartare questa carta; i mostri \"Ragazza Maga\" che controlli attualmente guadagnano 300 ATK e DEF per ogni mostro \"Ragazza Maga\" con nome diverso sul Terreno e nei Cimiteri, fino alla fine di questo turno. I mostri di Tipo Incantatore che controlli non possono essere distrutti dagli effetti delle carte e il tuo avversario non puo sceglierli come bersaglio con gli effetti delle carte.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

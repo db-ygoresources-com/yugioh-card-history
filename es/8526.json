@@ -1,0 +1,15 @@
+{
+  "id": 8526,
+  "type": "monster",
+  "name": "Vigilante de las Cartas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: ponle 1 Contador de Guardia. Esta carta gana 300 ATK por cada Contador de Guardia que tenga. Una vez por turno: puedes seleccionar otra carta boca arriba que controles; retira 1 Contador de Guardia de esta carta y, si lo haces, ponle 1 Contador de Guardia a ese objetivo (si esa carta fuera a ser destruida en algún momento, retírale 1 Contador de Guardia en su lugar).",
+  "level": 4,
+  "atk": 1600,
+  "def": 500,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11935,
+  "type": "monster",
+  "name": "Magicien Dragonfosse",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Ce talentueux magicien peut éveiller l'énergie conservée dans les profondeurs de la terre, connues comme les Fosses du Dragon. Son attitude stoïque lui a valu quelques amitiés, et il se plie souvent aux désirs de son élève.",
+  "pendEffect": "Une fois par tour, si vous avez une carte \"Magicien\" dans votre autre Zone Pendule : vous pouvez défausser 1 Monstre Pendule, puis ciblez 1 Carte Magie/Piège sur le Terrain ; détruisez-la.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 900,
+  "def": 2700,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Normal"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14050,
+  "type": "monster",
+  "name": "Aventerrore Salvatore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri Zombie\nIl nome di questa carta diventa \"Reventerrore Assassino\" mentre è sul Terreno. Puoi utilizzare ognuno dei seguenti effetti di \"Aventerrore Salvatore\" una sola volta per turno.\n●Puoi scegliere come bersaglio 1 carta \"Venterrore\" nel tuo Cimitero; aggiungila alla tua mano.\n●Durante il calcolo dei danni, se questa carta combatte con un mostro dell'avversario (Effetto Rapido): puoi mandare 1 mostro Zombie dal tuo Deck al Cimitero; quel mostro dell'avversario perde ATK pari al Livello del mostro mandato al Cimitero x 200, fino alla fine di questo turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Zombie",
+    "Link",
+    "Effetto"
+  ]
+}

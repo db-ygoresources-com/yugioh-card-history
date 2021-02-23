@@ -1,0 +1,16 @@
+{
+  "id": 7900,
+  "type": "monster",
+  "name": "Vitalisatrice Psychique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1 monstre non Syntoniseur ou plus\nUne fois par tour, vous pouvez retirer du jeu 1 monstre de Type Psychique depuis votre Cimetière pour gagner 1200 Life Points.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

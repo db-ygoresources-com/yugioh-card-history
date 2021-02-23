@@ -1,0 +1,18 @@
+{
+  "id": 12693,
+  "type": "monster",
+  "name": "Siniveleiro Camarartista",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno: você pode declarar um Nível de 1 a 5 e, depois, escolher 1 outro monstro \"Camarartista\" que você controla; até o final deste turno, reduza o Nível deste card pelo Nível declarado e, se isso acontecer, aumente o Nível do outro monstro pelo mesmo valor.",
+  "pendEffect": "Uma vez por turno: você pode aumentar em 1 os Níveis de todos os monstros Invocados por Invocação-Pêndulo que você controla atualmente (mesmo que este card deixe o campo).",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 2600,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

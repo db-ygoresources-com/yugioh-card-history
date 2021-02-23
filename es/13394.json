@@ -1,0 +1,18 @@
+{
+  "id": 13394,
+  "type": "monster",
+  "name": "Bestia Mítica Medusa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva. Una vez por turno, durante la Battle Phase (Efecto Rápido): puedes retirar 2 Contadores Mágicos de tu Campo, y después seleccionar 1 monstruo boca arriba en el Campo; hasta el final de este turno, su ATK/DEF se convierten en la mitad de su ATK/DEF en este momento.",
+  "pendEffect": "Si no tienes cartas en tu otra Zona de Péndulo: puedes seleccionar 1 monstruo en tu Cementerio en el que puedas poner un Contador Mágico; destruye esta carta y, si lo haces, Invoca ese monstruo de Modo Especial y, si haces eso, pon 1 Contador Mágico en él. Sólo puedes usar este efecto de \"Bestia Mítica Medusa\" una vez por turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

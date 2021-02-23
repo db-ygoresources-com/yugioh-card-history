@@ -1,0 +1,15 @@
+{
+  "id": 10599,
+  "type": "monster",
+  "name": "Hada Fantasma Elfobia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno: puedes mostrar 1 monstruo de VIENTO en tu mano; hasta el final de la próxima Main Phase 1 de tu adversario, los monstruos con Nivel mayor al del monstruo mostrado no pueden activar sus efectos.",
+  "level": 3,
+  "atk": 900,
+  "def": 500,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8089,
+  "type": "monster",
+  "name": "Tragoedia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando recibes daño de batalla: puedes Invocar esta carta de Modo Especial desde tu mano. Gana 600 ATK/DEF por cada carta en tu mano. Una vez por turno: puedes mandar al Cementerio 1 monstruo en tu mano, y después seleccionar 1 monstruo boca arriba que controle tu adversario con el mismo Nivel que el monstruo mandado tenía en la mano; toma el control de ese monstruo boca arriba. Una vez por turno: puedes seleccionar 1 monstruo en tu Cementerio; hasta el final de este turno, el Nivel de esta carta se convierte en el mismo que el de ese objetivo.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

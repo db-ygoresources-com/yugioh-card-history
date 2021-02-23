@@ -1,0 +1,15 @@
+{
+  "id": 4046,
+  "type": "monster",
+  "name": "Gaitero Dragón",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "VOLTEO: Destruye \"Jarra de Captura de Dragones\" boca arriba en el Campo y cambia todos los monstruos de Tipo Dragón boca arriba en el Campo a la Posición de Ataque.",
+  "level": 3,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

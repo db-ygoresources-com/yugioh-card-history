@@ -1,0 +1,15 @@
+{
+  "id": 10132,
+  "type": "monster",
+  "name": "Schadensmagierin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn du Schaden von einem Karteneffekt erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhältst du Life Points in Höhe des Schadens, den du erhalten hast.",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

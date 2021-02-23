@@ -1,0 +1,18 @@
+{
+  "id": 12404,
+  "type": "monster",
+  "name": "Artistamigo Carnerogoma",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, cuando es declarado un ataque que involucre a un monstruo que controlas y un monstruo de tu adversario: puedes activar este efecto; ese monstruo que controlas no puede ser destruido en esa batalla.",
+  "pendEffect": "Una vez por turno, cuando es declarado un ataque que involucre a un monstruo que controlas y un monstruo de tu adversario: puedes activar este efecto; ese monstruo que controlas no puede ser destruido en esa batalla.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 900,
+  "def": 2400,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

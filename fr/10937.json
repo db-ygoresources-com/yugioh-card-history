@@ -1,0 +1,16 @@
+{
+  "id": 10937,
+  "type": "monster",
+  "name": "Gardien Gorgonique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Type Rocher de Niveau 3\nUne fois par tour, durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; son ATK devient 0, et si elle le devient, ses effets sont annulés. Ces effets durent jusqu'à la fin de ce tour. Une fois par tour : vous pouvez cibler 1 monstre sur le Terrain avec 0 ATK ; détruisez-le.",
+  "rank": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

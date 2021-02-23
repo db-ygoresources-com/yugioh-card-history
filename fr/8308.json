@@ -1,0 +1,15 @@
+{
+  "id": 8308,
+  "type": "monster",
+  "name": "Esprit de la Terre Immortel Chacu Challhua",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Il ne peut y avoir qu'1 monstre \"Esprit de la Terre Immortel\" sur le Terrain. S'il n'y a aucune Carte Magie de Terrain face recto sur le Terrain, détruisez cette carte. Votre adversaire ne peut pas cibler cette carte avec une attaque. Cette carte peut attaquer directement votre adversaire. Une fois par tour : vous pouvez infliger des dommages à votre adversaire égaux à la moitié de la DEF de cette carte sur le Terrain. Cette carte ne peut pas attaquer durant le tour où vous activez cet effet. Tant que cette carte est en Position de Défense, votre adversaire ne peut mener sa Battle Phase.",
+  "level": 10,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

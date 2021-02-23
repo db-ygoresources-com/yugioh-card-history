@@ -1,0 +1,15 @@
+{
+  "id": 13345,
+  "type": "monster",
+  "name": "Cyberse-Umwandler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls alle Monster, die du kontrollierst, Cyberse-Monster sind (min. 1), kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Cyberse-Umwandler“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 offenes Monster wählen, das du kontrollierst; es wird bis zum Ende dieses Spielzugs zu einem Cyberse-Monster.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

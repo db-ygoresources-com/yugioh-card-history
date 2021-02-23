@@ -1,0 +1,18 @@
+{
+  "id": 12594,
+  "type": "monster",
+  "name": "Anguiphoque Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 Carte Magie/Piège Posée contrôlée par votre adversaire ; la carte Posée ne peut pas être activée ce tour. Aucun joueur ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; le monstre face recto a ses effets annulés jusqu'à la fin de ce tour (même si cette carte quitte le Terrain).",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Poisson",
+    "Pendule",
+    "Effet"
+  ]
+}

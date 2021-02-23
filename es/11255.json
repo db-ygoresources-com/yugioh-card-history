@@ -1,0 +1,15 @@
+{
+  "id": 11255,
+  "type": "monster",
+  "name": "Espía Picante",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta es Invocada de Modo Normal: mira 1 carta al azar en el Deck Extra de tu adversario, y si ésta tiene 2000 ATK o más, esta carta gana 1000 ATK. Si esa carta tiene 2000 ATK o menos, tú ganas tantos LP como el ATK de ese monstruo.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1300,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

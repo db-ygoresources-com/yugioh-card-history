@@ -1,0 +1,19 @@
+{
+  "id": 13133,
+  "type": "monster",
+  "name": "D/D/D Super Roi du Déclin Armageddon Sombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres \"D/D/D\" de Niveau 8\nNon Invocable par Pendulation. Lorsque cette carte est Invoquée par Xyz : vous pouvez attacher 1 Monstre Pendule \"D/D\" face recto depuis votre Extra Deck à cette carte comme Matériel. Les Monstres Pendule que vous contrôlez ne peuvent pas être détruits par des effets de carte. Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez un nombre de monstres contrôlés par votre adversaire, égal au nombre de Monstres Pendule que vous contrôlez ; détruisez-les. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Une fois par tour, si vous avez une carte \"D/D\" dans votre autre Zone Pendule : vous pouvez Invoquer Spécialement 1 Monstre Xyz \"D/D/D\" (\"D/D/D Super Roi du Déclin Armageddon Sombre\" exclu) depuis votre Extra Deck.",
+  "pendScale": 1,
+  "rank": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Xyz",
+    "Pendule",
+    "Effet"
+  ]
+}

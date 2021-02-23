@@ -1,0 +1,18 @@
+{
+  "id": 12592,
+  "type": "monster",
+  "name": "Artistamigo Bruja Caprichosa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta se puede tratar como 2 Sacrificios para la Invocación por Sacrificio de un Monstruo de Péndulo.",
+  "pendEffect": "Si tu adversario controla un monstruo boca arriba que fuera Invocado de Modo Especial desde el Deck Extra pero tú no: puedes Invocar esta carta de Modo Especial desde tu Zona del Péndulo. Sólo puedes usar este efecto de \"Artistamigo Bruja Caprichosa\" una vez por turno.",
+  "pendScale": 4,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

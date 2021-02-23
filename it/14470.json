@@ -1,0 +1,16 @@
+{
+  "id": 14470,
+  "type": "monster",
+  "name": "Passato, Signora della Fortuna",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Gli ATK/DEF di questa carta diventano il suo Livello x 200. Una volta per turno, durante la tua Standby Phase: aumenta il Livello di questa carta di 1 (massimo 12). Puoi scegliere come bersaglio 1 mostro \"Signora della Fortuna\" che controlli; bandisci un qualsiasi numero di altri mostri Incantatore dalla tua mano, Terreno e/o Cimitero e, se lo fai, aumenta o riduci il Livello di quel mostro del numero di mostri banditi, fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Passato, Signora della Fortuna\" una sola volta per turno.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Incantatore",
+    "Tuner",
+    "Effetto"
+  ]
+}

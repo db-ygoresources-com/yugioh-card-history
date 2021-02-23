@@ -1,0 +1,15 @@
+{
+  "id": 13685,
+  "type": "monster",
+  "name": "Herzog Shade, der sündhafte Schattenherr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst eine beliebige Anzahl FINSTERNIS Monster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, erhält sie 500 ATK für jedes Monster, das du als Tribut angeboten hast. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 FINSTERNIS Monster der Stufe 5 oder höher in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Herzog Shade, der sündhafte Schattenherr“ nur einmal pro Spielzug verwenden. Du kannst in dem Spielzug, in dem du einen der Effekte dieser Karte aktivierst, keine Monster als Spezialbeschwörung beschwören, außer FINSTERNIS Monstern.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

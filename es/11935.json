@@ -1,0 +1,18 @@
+{
+  "id": 11935,
+  "type": "monster",
+  "name": "Mago Fosadragón",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Este talentoso mago puede despertar la energía almacenada en las profundidades de la tierra, conocidas como las Fosas del Dragón. Su carácter estoico le gana pocos amigos, y a menudo cede ante los deseos de su pupilo.",
+  "pendEffect": "Una vez por turno, si tienes una carta \"Mago/a\" en tu otra Zona de Péndulo: puedes descartar 1 Monstruo de Péndulo, y después seleccionar 1 Carta Mágica/de Trampa en el Campo; destrúyelo.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 900,
+  "def": 2700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Normal"
+  ]
+}

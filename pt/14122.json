@@ -1,0 +1,19 @@
+{
+  "id": 14122,
+  "type": "monster",
+  "name": "Atualizar Bloqueador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "2 monstros Ciberso de Nível 2 ou mais\nUma vez por batalha, durante o cálculo de dano, se um monstro Ciberso seu batalhar (Efeito Rápido): você pode ativar este efeito; até o final da Etapa de Dano, negue todos os outros efeitos de card no campo, o cálculo de dano desta batalha usa o ATK/DEF originais de cada monstro e, além disso, se um monstro do oponente for destruído por esta batalha e enviado para o Cemitério, cause 1000 de dano ao seu oponente. Se este card for enviado para o Cemitério como Matéria Link: esse Monstro Link pode realizar um segundo ataque durante cada Fase de Batalha neste turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "4"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Ciberso",
+    "Link",
+    "Efeito"
+  ]
+}

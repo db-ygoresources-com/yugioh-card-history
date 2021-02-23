@@ -1,0 +1,15 @@
+{
+  "id": 9084,
+  "type": "monster",
+  "name": "Gigante del Poder",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta de Modo Especial (desde tu mano) mandando al Cementerio 1 monstruo de Nivel 4 o menor en tu mano. Si lo haces, disminuye el Nivel de esta carta tanto como el Nivel de ese monstruo. Si esta carta ataca o es atacada, cualquier daño que recibas por efectos se convierte en 0, hasta el final del Damage Step.",
+  "level": 6,
+  "atk": 2200,
+  "def": 0,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

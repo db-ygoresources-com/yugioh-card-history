@@ -1,0 +1,15 @@
+{
+  "id": 7358,
+  "type": "monster",
+  "name": "Démon Shutendoji",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez activer 1 de ces effets.\n●Bannissez 2 monstres Zombie depuis votre Cimetière ; piochez 1 carte.\n●Ciblez 1 de vos monstres Zombie bannis ; placez la cible au-dessus de votre Deck.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11443,
+  "type": "monster",
+  "name": "D/D/D Armagedom, o Rei do Fim",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, se um ou mais monstros que você controla forem destruídos em batalha ou por um efeito de card: você pode escolher 1 desses monstros; até o final deste turno, este card ganha ATK igual ao ATK original desse monstro. Este card não pode atacar diretamente seu oponente durante o turno em que este efeito for ativado. Não pode ser destruído por efeitos de Magia/Armadilha que não escolherem este card como alvo.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro \"D/D\" que você controla; ele ganha 800 de ATK até o final deste turno (mesmo que este card deixe o campo).",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

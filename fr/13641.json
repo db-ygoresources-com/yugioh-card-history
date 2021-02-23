@@ -1,0 +1,16 @@
+{
+  "id": 13641,
+  "type": "monster",
+  "name": "Dragon Destruction",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Uniquement Invocable Spécialement avec \"Le Croc de Critias\", en utilisant \"Anneau de Destruction\". Une fois par tour : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la. Puis, si c'était une Carte Monstre, infligez des dommages à votre adversaire égaux à son ATK d'origine.",
+  "level": 8,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

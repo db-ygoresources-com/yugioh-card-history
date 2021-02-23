@@ -1,0 +1,16 @@
+{
+  "id": 12778,
+  "type": "monster",
+  "name": "Windhexe - Winterglocke",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ WIND Nicht-Empfänger-Monster\nDu kannst 1 „Windhexe“-Monster in deinem Friedhof wählen; füge deinem Gegner Schaden in Höhe der Stufe des gewählten Ziels x 200 zu. Während der Battle Phase (Schnelleffekt): Du kannst 1 „Windhexe“-Monster wählen, das du kontrollierst; beschwöre 1 Monster, dessen Stufe kleiner oder gleich der des Monsters ist, als Spezialbeschwörung von deiner Hand, aber es kann in diesem Spielzug nicht angreifen. Du kannst jeden Effekt von „Windhexe - Winterglocke“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

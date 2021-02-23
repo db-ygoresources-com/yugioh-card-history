@@ -1,0 +1,15 @@
+{
+  "id": 4242,
+  "type": "monster",
+  "name": "Gardien du Labyrinthe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ce monstre est chargé de garder l'entrée des enfers.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Normal"
+  ]
+}

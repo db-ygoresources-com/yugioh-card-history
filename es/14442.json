@@ -1,0 +1,18 @@
+{
+  "id": 14442,
+  "type": "monster",
+  "name": "Sirviente de Endimión",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Sólo puedes Invocar de Modo Especial uno o más \"Sirviente de Endimión\" una vez por turno. Esta carta con un Contador Mágico puede atacar directamente. Una vez por turno del adversario (Efecto Rápido): puedes descartar 1 carta; pon 1 Contador Mágico en cada carta que controles a la que le puedas poner un Contador Mágico. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo, y después ponle la misma cantidad de Contadores Mágicos que tenía como monstruo.",
+  "pendEffect": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Puedes retirar 3 Contadores Mágicos de esta carta; Invoca de Modo Especial tanto esta carta desde tu Zona de Péndulo como 1 monstruo desde tu Deck con 1000 ATK o más al que le puedas poner un Contador Mágico y, si lo haces, pon 1 Contador Mágico a cada uno.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 900,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

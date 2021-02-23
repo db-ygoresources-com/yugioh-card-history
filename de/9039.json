@@ -1,0 +1,15 @@
+{
+  "id": 9039,
+  "type": "monster",
+  "name": "Akz, der Pumakrieger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 2 Monster vom Typ Ungeheuer-Krieger in deinem Friedhof aus dem Spiel entfernst. Einmal pro Spielzug kannst du 1 Monster vom Typ Ungeheuer-Krieger abwerfen, um 1 der folgenden Effekte zu aktivieren:\n●Verdopple die ATK dieser Karte bis zur End Phase.\n●Diese Karte kann deinen Gegner in diesem Spielzug direkt angreifen.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

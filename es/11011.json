@@ -1,0 +1,16 @@
+{
+  "id": 11011,
+  "type": "monster",
+  "name": "Beelze de los Dragones Diabólicos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante de OSCURIDAD + 1+ monstruos que no sean Cantantes\nNo puede ser destruido en batalla o por efectos de cartas. Si recibes daño de un ataque que involucre a esta carta, o de un efecto de una carta del adversario: esta carta gana ATK igual al daño que recibiste.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

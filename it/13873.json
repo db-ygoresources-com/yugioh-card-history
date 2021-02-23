@@ -1,0 +1,15 @@
+{
+  "id": 13873,
+  "type": "monster",
+  "name": "Serpente Proibit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "All'inizio del Damage Step, se un tuo Mostro Link Cyberso combatte con un mostro dell'avversario: puoi mandare questa carta dalla tua mano al Cimitero; fai ritornare quel mostro dell'avversario nella mano. Quando un tuo mostro Cyberso distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero, mentre questa carta è nel tuo Cimitero: puoi bandire 1 carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro Cyberso di Livello 4 o inferiore nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare ogni effetto di \"Serpente Proibit\" una sola volta per turno.",
+  "level": 2,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effetto"
+  ]
+}

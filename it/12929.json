@@ -1,0 +1,16 @@
+{
+  "id": 12929,
+  "type": "monster",
+  "name": "D/D Fantasma",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 mostro \"D/D\" o 1 carta \"Contratto Oscuro\" nel tuo Cimitero, eccetto \"D/D Fantasma\"; manda 1 carta con quel nome dal tuo Deck al Cimitero. Se questa carta viene bandita: puoi scegliere come bersaglio 1 dei tuoi mostri \"D/D\" o carte \"Contratto Oscuro\" bandite, eccetto \"D/D Fantasma\"; fallo ritornare nel Cimitero.",
+  "level": 2,
+  "atk": 600,
+  "def": 300,
+  "properties": [
+    "Demone",
+    "Tuner",
+    "Effetto"
+  ]
+}

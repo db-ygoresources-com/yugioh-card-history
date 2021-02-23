@@ -1,0 +1,15 @@
+{
+  "id": 13589,
+  "type": "monster",
+  "name": "Boycoton",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous recevez les dommages de combat que votre adversaire aurait dû recevoir de combats impliquant cette carte à la place. Si cette carte combat, n'est pas détruite, et que vous recevez des dommages de ce combat : renvoyez cette carte à la main.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14269,
+  "type": "monster",
+  "name": "Deus X-Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando tu adversario activa una carta o efecto que selecciona este monstruo boca abajo (Efecto Rápido): puedes cambiar esta carta a Posición de Defensa boca arriba; niega la activación y, si lo haces, destruye esa carta. Después de que esta carta fuera volteada boca arriba, mientras está en la Zona de Monstruos, niega todos los efectos de monstruo activados en el Campo de tu adversario. Si esta carta en el Campo es destruida en batalla o por efecto de una carta: puedes añadir a tu mano, desde tu Deck, 1 monstruo de Nivel 9 con un Tipo y Atributo originales diferentes a los de esta carta. Sólo puedes usar este efecto de \"Deus X-Krawler\" una vez por turno.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Insecto",
+    "Volteo",
+    "Efecto"
+  ]
+}

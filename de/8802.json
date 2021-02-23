@@ -1,0 +1,16 @@
+{
+  "id": 8802,
+  "type": "monster",
+  "name": "Wattfuchs",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte durch eine Karte deines Gegners zerstört wird (entweder durch Kampf oder durch einen Karteneffekt), kann dein Gegner für den Rest dieses Spielzugs weder Monster als Spezialbeschwörung beschwören noch Zauber, Fallen und Effekte von Zauber-, Fallen- und Monsterkarten aktivieren.",
+  "level": 2,
+  "atk": 800,
+  "def": 100,
+  "properties": [
+    "Donner",
+    "Empfänger",
+    "Effekt"
+  ]
+}

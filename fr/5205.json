@@ -1,0 +1,15 @@
+{
+  "id": 5205,
+  "type": "monster",
+  "name": "Fée hystérique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Sacrifiez 2 monstres de votre Terrain pour augmenter vos Life Points de 1000 points.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

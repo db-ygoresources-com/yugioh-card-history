@@ -1,0 +1,15 @@
+{
+  "id": 15090,
+  "type": "monster",
+  "name": "Maquinaria Incursora Aérea",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes descartar otro monstruo \"Maquinaria\"; Invoca esta carta de Modo Especial desde tu mano. Durante el turno de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo Máquina que controles; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Maquinaria\" con nombre diferente y de igual o menor Nivel que ese monstruo y, si lo haces, destruye ese monstruo seleccionado. Sólo puedes usar cada efecto de \"Maquinaria Incursora Aérea\" una vez por turno.",
+  "level": 8,
+  "atk": 1500,
+  "def": 2600,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

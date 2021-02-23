@@ -1,0 +1,16 @@
+{
+  "id": 15118,
+  "type": "monster",
+  "name": "Larme la Reine Rikka",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 8\nVous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre sur le Terrain ; Sacrifiez-le. Ceci est un Effet Rapide si cette carte a un monstre Plante comme Matériel. Vous ne pouvez utiliser cet effet de \"Larme la Reine Rikka\" qu'une fois par tour. Chaque fois qu'un ou plusieurs monstres sont Sacrifiés : jusqu'à la fin de ce tour, cette carte gagne 200 ATK pour chacun d'eux.",
+  "rank": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Plante",
+    "Xyz",
+    "Effet"
+  ]
+}

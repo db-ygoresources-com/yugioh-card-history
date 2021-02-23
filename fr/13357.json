@@ -1,0 +1,16 @@
+{
+  "id": 13357,
+  "type": "monster",
+  "name": "Magicien Sombre le Dragon Chevalier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Magicien Sombre\" + 1 monstre Dragon\nLe nom de cette carte devient \"Magicien Sombre\" tant qu'elle est sur le Terrain ou dans le Cimetière. Votre adversaire ne peut pas cibler de Magies/Pièges que vous contrôlez avec des effets de carte, et aussi, ils ne peuvent pas être détruits par des effets de carte de votre adversaire.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

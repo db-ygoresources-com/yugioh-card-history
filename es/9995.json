@@ -1,0 +1,15 @@
+{
+  "id": 9995,
+  "type": "monster",
+  "name": "Gólem Horda de Maldad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo de Nivel 5 o mayor en el Campo que no sea de OSCURIDAD; destruye ese objetivo.",
+  "level": 5,
+  "atk": 2150,
+  "def": 1250,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

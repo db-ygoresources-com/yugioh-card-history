@@ -1,0 +1,16 @@
+{
+  "id": 12077,
+  "type": "monster",
+  "name": "Poursuivant Goyo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nCette carte gagne 300 ATK pour chaque Monstre Synchro TERRE de Type Guerrier sur le Terrain (cette carte exclue). Lorsque cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : vous pouvez Invoquer Spécialement le monstre sur votre Terrain, mais son ATK sera divisée par deux.",
+  "level": 5,
+  "atk": 1900,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

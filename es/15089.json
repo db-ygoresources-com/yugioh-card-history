@@ -1,0 +1,15 @@
+{
+  "id": 15089,
+  "type": "monster",
+  "name": "Maquinaria Ciudadela",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por el efecto de una carta. (Efecto Rápido): puedes seleccionar 1 monstruo Máquina que controles; destruye ese monstruo Máquina y todos los monstruos que controle tu adversario y que tengan ATK igual o menor al de éste. Si uno o más monstruos Máquina de TIERRA boca arriba que controles, excepto \"Maquinaria Ciudadela\", son destruidos en batalla o por efecto de una carta mientras esta carta esté en tu Cementerio: puedes Invocar esta carta de Modo Especial. Sólo puedes usar cada efecto de \"Maquinaria Ciudadela\" una vez por turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

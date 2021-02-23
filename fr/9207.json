@@ -1,0 +1,16 @@
+{
+  "id": 9207,
+  "type": "monster",
+  "name": "Démon du Cauchemar Psychique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1 monstre non Syntoniseur de Type Psychique ou plus\nUne fois par tour, durant votre Main Phase, vous pouvez sélectionner 1 carte au hasard dans la main de votre adversaire et deviner de quel type de carte il s'agit (Monstre, Magie ou Piège). Si vous devinez juste, cette carte gagne 1000 points d'ATK jusqu'à la End Phase de votre adversaire.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

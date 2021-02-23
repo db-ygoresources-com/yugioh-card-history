@@ -1,0 +1,15 @@
+{
+  "id": 5928,
+  "type": "monster",
+  "name": "Mordlong",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en dommages de combat aux Life Points de votre adversaire.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

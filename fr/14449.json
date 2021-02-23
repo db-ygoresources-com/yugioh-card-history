@@ -1,0 +1,15 @@
+{
+  "id": 14449,
+  "type": "monster",
+  "name": "Furet Interlaceur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant le calcul des dommages, si votre monstre Cyberse est attaqué (Effet Rapide) : vous pouvez défausser cette carte ; vous ne recevez aucun dommage de combat de ce combat. Vous ne pouvez utiliser cet effet de \"Furet Interlaceur\" qu'une fois par tour. Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été défaussée pour activer cet effet ce tour : Invoquez Spécialement cette carte.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

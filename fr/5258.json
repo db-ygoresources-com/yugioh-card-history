@@ -1,0 +1,15 @@
+{
+  "id": 5258,
+  "type": "monster",
+  "name": "Lutin Onirique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est attaquée par un monstre de votre adversaire, sélectionnez 1 autre monstre sur votre Terrain et désignez-le comme cible de l'attaque, puis calculez les dommages.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

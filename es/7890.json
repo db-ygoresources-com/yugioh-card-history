@@ -1,0 +1,15 @@
+{
+  "id": 7890,
+  "type": "monster",
+  "name": "Llamador de Tormentas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes poner los monstruos de tu adversario que sean destruidos en batalla con otros monstruos de Tipo Psíquico en la parte superior del Deck de su dueño en vez de mandarlos al Cementerio. Cuando esta carta es destruida por el efecto de una carta, el controlador de esta carta recibe daño igual a su ATK original.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

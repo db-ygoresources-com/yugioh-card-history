@@ -1,0 +1,20 @@
+{
+  "id": 14671,
+  "type": "monster",
+  "name": "Anima Svincolata dell'Angoscia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2+ mostri compreso un mostro \"Anima Svincolata\"\nPuoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; immediatamente dopo che questo effetto si è risolto, Evoca Link 1 Mostro Link OSCURITÀ, eccetto \"Anima Svincolata dell'Angoscia\", utilizzando solo quel mostro dell'avversario e questa carta che controlli come materiale. Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro Demone nel tuo Cimitero, eccetto \"Anima Svincolata dell'Angoscia\"; aggiungilo alla tua mano. Puoi utilizzare ogni effetto di \"Anima Svincolata dell'Angoscia\" una sola volta per turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Demone",
+    "Link",
+    "Effetto"
+  ]
+}

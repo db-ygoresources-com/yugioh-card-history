@@ -1,0 +1,18 @@
+{
+  "id": 12422,
+  "type": "monster",
+  "name": "Orducteur Métalphose",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cet étincelant buggy doré transforme les mauvaises personnes en bonnes personnes. Quelles merveilleuses roues ! (Malheureusement son conducteur prend un peu trop son temps...)",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 autre carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, Posez 1 Carte Magie/Piège \"Métalphose\" directement depuis votre Deck.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1900,
+  "def": 500,
+  "properties": [
+    "Psychique",
+    "Pendule",
+    "Normal"
+  ]
+}

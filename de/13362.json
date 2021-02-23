@@ -1,0 +1,16 @@
+{
+  "id": 13362,
+  "type": "monster",
+  "name": "Venschrecken Chimäre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit einem beliebigen „Venschrecken“-Ritualzauber als Ritualbeschwörung beschwören. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der eine Karte auf dem Spielfeld zerstören würde (Schnelleffekt): Du kannst 1 Zombie-Monster von deinem Friedhof verbannen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte. Falls diese Karte als Tribut für eine Ritualbeschwörung angeboten oder für eine Ritualbeschwörung verbannt wird: Alle Monster, die dein Gegner kontrolliert, verlieren 500 ATK/DEF. Du kannst jeden Effekt von „Venschrecken Chimäre“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2300,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Ritual",
+    "Effekt"
+  ]
+}

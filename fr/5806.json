@@ -1,0 +1,15 @@
+{
+  "id": 5806,
+  "type": "monster",
+  "name": "Rex le Géant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ne peut pas attaquer directement. Si cette carte est bannie : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, cette carte gagne 200 ATK pour chacun de vos monstres Dinosaure bannis. Vous ne pouvez utiliser cet effet de \"Rex le Géant\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

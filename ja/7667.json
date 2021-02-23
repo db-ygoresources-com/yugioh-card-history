@@ -1,0 +1,17 @@
+{
+  "id": 7667,
+  "type": "monster",
+  "name": "ウィード",
+  "nameRuby": "ウィード",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "フィールド上に表側表示で存在するこのカードが破壊される場合、代わりにこのカード以外の自分フィールド上に表側表示で存在する植物族モンスター１体を破壊できる。",
+  "level": 2,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "植物族",
+    "チューナー",
+    "効果"
+  ]
+}

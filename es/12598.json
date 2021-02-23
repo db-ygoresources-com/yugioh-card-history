@@ -1,0 +1,15 @@
+{
+  "id": 12598,
+  "type": "monster",
+  "name": "Predaplanta Drosera Calamar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes mandar al Cementerio esta carta en tu mano, y después seleccionar 1 monstruo boca arriba que controles; este turno, ese monstruo puede atacar una vez a cada uno de los monstruos que controle tu adversario que tengan un Contador de Predador. Si esta carta boca arriba deja el Campo: pon 1 Contador de Predador en cada monstruo que controle tu adversario que haya sido Invocado de Modo Especial y, si lo haces, cualquiera de esos monstruos que sea Nivel 2 o mayor se convierte en Nivel 1 mientras tenga un Contador de Predador.",
+  "level": 2,
+  "atk": 800,
+  "def": 400,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

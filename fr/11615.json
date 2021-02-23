@@ -1,0 +1,18 @@
+{
+  "id": 11615,
+  "type": "monster",
+  "name": "Sorcier Pendule Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée Spécialement : vous pouvez cibler max. 2 cartes que vous contrôlez ; détruisez-les, et si vous le faites, ajoutez un nombre de monstres \"Potartiste\" de noms différents (\"Sorcier Pendule Potartiste\" exclu) depuis votre Deck à votre main, égal au nombre de cartes détruites. Vous ne pouvez utiliser cet effet de \"Sorcier Pendule Potartiste\" qu'une fois par tour.",
+  "pendEffect": "Si un ou plusieurs monstres \"Potartiste\" sont Invoqués par Pendulation sur votre Terrain : jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), tous les monstres \"Potartiste\" que vous contrôlez actuellement gagnent 1000 ATK.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

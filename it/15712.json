@@ -1,0 +1,18 @@
+{
+  "id": 15712,
+  "type": "monster",
+  "name": "Metalfosi Vaporizzatore",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Mentre questa carta è nella tua mano: puoi scegliere come bersaglio 2 carte scoperte che controlli, compresa una carta \"Metalfosi\"; distruggile e, se lo fai, Evoca Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Specialmente dall'effetto di una carta \"Metalfosi\": puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario o nel suo Cimitero; bandiscilo. Puoi utilizzare ogni effetto di mostro di \"Metalfosi Vaporizzatore\" una sola volta per turno.",
+  "pendEffect": "Se uno o più mostri che controlli vengono distrutti dall'effetto di una carta (eccetto durante il Damage Step): puoi aggiungere 1 carta \"Metalfosi\" dal tuo Cimitero alla tua mano, eccetto \"Metalfosi Vaporizzatore\". Puoi utilizzare questo effetto di \"Metalfosi Vaporizzatore\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 9,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Psichico",
+    "Pendulum",
+    "Effetto"
+  ]
+}

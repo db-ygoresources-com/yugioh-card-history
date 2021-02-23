@@ -1,0 +1,18 @@
+{
+  "id": 12276,
+  "type": "monster",
+  "name": "Licorne aux Yeux Impairs Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre \"Potartiste\" dans votre Cimetière ; gagnez des LP égaux à son ATK.",
+  "pendEffect": "Une fois, tant que cette carte est dans votre Zone Pendule, lorsque votre monstre \"Yeux Impairs\" déclare une attaque : vous pouvez cibler 1 autre monstre \"Potartiste\" que vous contrôlez ; jusqu'à la fin de la Battle Phase (même si cette carte quitte le Terrain), le monstre attaquant gagne une ATK égale à l'ATK d'origine du monstre ciblé sur le Terrain.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

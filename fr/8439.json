@@ -1,0 +1,16 @@
+{
+  "id": 8439,
+  "type": "monster",
+  "name": "Hors-la-Loi Synchronique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en envoyant 1 monstre depuis votre main au Cimetière. Pour une Invocation Synchro, vous pouvez substituer cette carte à 1 Syntoniseur \"Synchronique\". Non utilisable comme Matériel Synchro, sauf pour l'Invocation Synchro d'un monstre qui liste un Syntoniseur \"Synchronique\" comme Matériel.",
+  "level": 5,
+  "atk": 700,
+  "def": 1400,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "Performapal Trumpanda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "When your Pendulum Monster is targeted for an attack: You can negate the attack. You can only use this effect of \"Performapal Trumpanda\" once per turn.",
+  "pendEffect": "Once per turn: You can increase this card's Pendulum Scale by 1 (max. 12).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

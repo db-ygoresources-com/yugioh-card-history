@@ -1,0 +1,16 @@
+{
+  "id": 11254,
+  "type": "monster",
+  "name": "Robobureau 001",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Gagne 500 ATK/DEF pour chaque monstre Machine que vous contrôlez. Si min. 2 monstres Machine sont Invoqués Spécialement en même temps, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

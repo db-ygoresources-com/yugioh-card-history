@@ -1,0 +1,16 @@
+{
+  "id": 12845,
+  "type": "monster",
+  "name": "Beschworener Raidjin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "„Aleister der Beschwörer“ + 1 WIND Monster\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster auf dem Spielfeld wählen; ändere es in die verdeckte Verteidigungsposition.",
+  "level": 5,
+  "atk": 2200,
+  "def": 2400,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

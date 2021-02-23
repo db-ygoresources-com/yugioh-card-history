@@ -1,0 +1,15 @@
+{
+  "id": 10035,
+  "type": "monster",
+  "name": "Morpho Butterspy",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, when the battle position of an opponent's monster(s) is changed (except during the Damage Step): You can target one of those monsters; it loses 1000 ATK and DEF.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Warrior",
+    "Effect"
+  ]
+}

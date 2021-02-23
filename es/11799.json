@@ -1,0 +1,15 @@
+{
+  "id": 11799,
+  "type": "monster",
+  "name": "Artilusionista Malabarista del Daño",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando es activada una carta o efecto que fuera a infligirte daño (Efecto Rápido): puedes descartar esta carta; niega la activación y, si lo haces, destruye esa carta. Durante la Battle Phase (Efecto Rápido): puedes descartar esta carta; reduce a 0 el próximo daño de batalla que fueras a recibir este turno. Puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo \"Artilusionista\" en tu Deck, excepto \"Artilusionista Malabarista del Daño\". Sólo puedes usar este efecto de \"Artilusionista Malabarista del Daño\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

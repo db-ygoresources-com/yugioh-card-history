@@ -1,0 +1,16 @@
+{
+  "id": 15520,
+  "type": "monster",
+  "name": "Arc-Rebellions-Xyz-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 Monster der Stufe 5\nDiese als Xyz-Beschwörung beschworene Karte kann nicht durch Karteneffekte zerstört werden. Du kannst 1 Material von dieser Karte abhängen; diese Karte erhält ATK in Höhe der Summe der Grund-ATK aller anderen Monster auf dem Spielfeld, dann, falls diese Karte ein FINSTERNIS Xyz-Monster als Material hat, annulliere die Effekte aller anderen offenen Monster auf dem Spielfeld. Nachdem dieser Effekt aufgelöst wurde, kannst du für den Rest dieses Spielzugs keine Angriffe mit anderen Monstern deklarieren. Du kannst diesen Effekt von „Arc-Rebellions-Xyz-Drache“ nur einmal pro Spielzug verwenden.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Effekt"
+  ]
+}

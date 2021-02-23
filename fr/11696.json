@@ -1,0 +1,18 @@
+{
+  "id": 11696,
+  "type": "monster",
+  "name": "Stellchevalier Zefraxciton",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement, par Flip ou par Pendulation : vous pouvez cibler 1 autre carte \"tellchevalier\" ou \"Zefra\" dans votre Zone Monstre ou Zone Pendule, et 1 carte Posée contrôlée par votre adversaire ; détruisez-les. Vous ne pouvez utiliser cet effet de \"Stellchevalier Zefraxciton\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"tellchevalier\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

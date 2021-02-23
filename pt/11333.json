@@ -1,0 +1,18 @@
+{
+  "id": 11333,
+  "type": "monster",
+  "name": "Camarartista Toupeira de Torcida",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Você pode escolher 1 monstro cujo ATK atual seja diferente do seu ATK original; aplique o efeito apropriado. Você só pode usar este efeito de \"Camarartista Toupeira de Torcida\" uma vez por turno.\n●Se o ATK atual desse monstro for maior que o ATK original dele, ele ganha 1000 de ATK.\n●Se o ATK atual desse monstro for menor que o ATK original dele, ele perde 1000 de ATK.",
+  "pendEffect": "Todos os Monstros Pêndulo que você controla ganham 300 de ATK.",
+  "pendScale": 5,
+  "level": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

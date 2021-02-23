@@ -1,0 +1,18 @@
+{
+  "id": 12697,
+  "type": "monster",
+  "name": "Actor del Abismo - Reemplazante de Moda",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si tienes 2 cartas \"Actor del Abismo\" en tus Zonas del Péndulo: puedes Sacrificar esta carta; Invoca de Modo Especial, desde tu mano o boca arriba en tu Deck Extra, 1 Monstruo de Péndulo \"Actor del Abismo\" de Nivel 1 u 8. Sólo puedes usar este efecto de \"Actor del Abismo - Reemplazante de Moda\" una vez por turno.",
+  "pendEffect": "Cuando Invocas un monstruo por Péndulo: puedes añadir a tu mano 1 Monstruo de Péndulo \"Actor del Abismo\" de Nivel 1 u 8 boca arriba en tu Deck Extra.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

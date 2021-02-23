@@ -1,0 +1,19 @@
+{
+  "id": 14856,
+  "type": "monster",
+  "name": "Mouton de Croix",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de noms différents\nSi un monstre est Invoqué Spécialement dans une zone pointée par cette carte : vous pouvez appliquer les effets suivants dans l'ordre selon les types de carte des monstres pointés par cette carte.\n●Rituel : Piochez 2 cartes, puis défaussez 2 cartes.\n●Fusion : Invoquez Spécialement 1 monstre de max. Niveau 4 depuis votre Cimetière.\n●Synchro : Tous les monstres que vous contrôlez gagnent 700 ATK.\n●Xyz : Tous les monstres contrôlés par votre adversaire perdent 700 ATK.\nVous ne pouvez utiliser cet effet de \"Mouton de Croix\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 700,
+  "properties": [
+    "Bête",
+    "Lien",
+    "Effet"
+  ]
+}

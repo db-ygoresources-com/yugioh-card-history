@@ -1,0 +1,15 @@
+{
+  "id": 5301,
+  "type": "monster",
+  "name": "Gobernante Oscuro Ha Des",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial desde el Cementerio. Niega los efectos de los monstruos destruidos en batalla con monstruos Demonio que controles.",
+  "level": 6,
+  "atk": 2450,
+  "def": 1600,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

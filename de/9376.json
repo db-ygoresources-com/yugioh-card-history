@@ -1,0 +1,16 @@
+{
+  "id": 9376,
+  "type": "monster",
+  "name": "Vylon Tetra",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte von der Monsterkartenzone auf den Friedhof gelegt wird: Du kannst 500 Life Points zahlen und dann 1 offenes Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus. Falls das ausgerüstete Monster zerstört würde, kannst du stattdessen diese Ausrüstungskarte zerstören.",
+  "level": 2,
+  "atk": 900,
+  "def": 900,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15020,
+  "type": "monster",
+  "name": "Conductor de la Unión",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, puedes: seleccionar 1 monstruo boca arriba que controlas; equipa esta carta a ese objetivo, O: desequipar esta carta e Invocarla de Modo Especial. Si el monstruo equipado fuera a ser destruido en batalla o por el efecto de una carta, destruye esta carta en su lugar. Mientras esta carta está equipada a un monstruo: puedes desterrar esta Carta de Equipo; equipa al monstruo al que esta carta estaba equipada 1 monstruo de Unión apropiado de Nivel 4 o menor en tu Deck. Sólo puedes usar este efecto de \"Conductor de la Unión\" una vez por turno.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Unión",
+    "Efecto"
+  ]
+}

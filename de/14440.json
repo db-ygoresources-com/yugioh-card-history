@@ -1,0 +1,18 @@
+{
+  "id": 14440,
+  "type": "monster",
+  "name": "Reflexion von Endymion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst nur einmal pro Spielzug eine oder mehr „Reflexion von Endymion“ als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte, die dein Gegner kontrolliert, und 1 Karte mit einer Zauberzählmarke, die du kontrollierst, außer dieser Karte, wählen; gib die Karte des Gegners und deine Karte auf die Hand zurück, dann lege dieselbe Anzahl Zauberzählmarken auf diese Karte, die auf deiner zurückgegebenen Karte lagen. Wenn diese Karte mit einer Zauberzählmarke durch Kampf zerstört wird: Du kannst deiner Hand 1 „Endymion“-Karte von deinem Deck hinzufügen.",
+  "pendEffect": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Du kannst 3 Zauberzählmarken von dieser Karte entfernen; beschwöre sowohl diese Karte als Spezialbeschwörung von deiner Pendelzone als auch 1 Monster, auf das du eine Zauberzählmarke legen kannst, als Spezialbeschwörung von deiner Hand und falls du dies tust, lege jeweils 1 Zauberzählmarke darauf.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 1850,
+  "def": 2700,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

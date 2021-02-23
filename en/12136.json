@@ -1,0 +1,18 @@
+{
+  "id": 12136,
+  "type": "monster",
+  "name": "Dinomist Ceratops",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "If all monsters you control are \"Dinomist\" monsters (min. 1), and none are \"Dinomist Ceratops\", you can Special Summon this card (from your hand).",
+  "pendEffect": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

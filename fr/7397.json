@@ -1,0 +1,15 @@
+{
+  "id": 7397,
+  "type": "monster",
+  "name": "Rai-Oh le Roi du Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Aucun joueur ne peut ajouter de cartes depuis son Deck à sa main, sauf en les piochant. Durant le tour de chaque joueur, lorsque votre adversaire va Invoquer Spécialement exactement 1 monstre : vous pouvez envoyer cette carte face recto au Cimetière ; annulez l'Invocation Spéciale, et si vous le faites, détruisez-le.",
+  "level": 4,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

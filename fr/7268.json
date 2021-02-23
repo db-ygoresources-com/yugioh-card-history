@@ -1,0 +1,15 @@
+{
+  "id": 7268,
+  "type": "monster",
+  "name": "Nuagien - Gaz Toxique",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est détruite au combat et envoyée au Cimetière, si elle était face recto au début de la Damage Step : détruisez le monstre qui l'a détruite, et si vous le faites, infligez 800 points de dommages à votre adversaire.",
+  "level": 3,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

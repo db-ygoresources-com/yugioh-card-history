@@ -1,0 +1,19 @@
+{
+  "id": 11936,
+  "type": "monster",
+  "name": "Mago do Dragão Nobre",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser usado como Matéria Sincro, exceto para a Invocação-Sincro de um Monstro Sincro Dragão. Se este card for usado como Matéria Sincro, coloque-o no fundo do Deck, a não ser que todas as outras Matérias Sincro sejam monstros \"Olhos Anômalos\". Se este card estiver na sua mão ou no Cemitério: você pode escolher 1 monstro \"Olhos Anômalos\" de Nível 7 ou mais que você controla; reduza o Nível dele em 3 e, se isso acontecer, Invoque este card por Invocação-Especial.",
+  "pendEffect": "Destrua este card a não ser que você tenha um card \"Mago\" na sua outra Zona de Pêndulo.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 700,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

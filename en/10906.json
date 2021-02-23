@@ -1,0 +1,15 @@
+{
+  "id": 10906,
+  "type": "monster",
+  "name": "Sylvan Hermitree",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Once per turn: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard, and if you do, draw 1 card. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: Look at up to 3 cards from the top of your Deck, then place them on the top of the Deck in any order.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Plant",
+    "Effect"
+  ]
+}

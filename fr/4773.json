@@ -1,0 +1,16 @@
+{
+  "id": 4773,
+  "type": "monster",
+  "name": "Dragon Toon aux Yeux Bleus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en Sacrifiant 2 monstres, tant que vous contrôlez \"Monde des Toons\". Ne peut pas attaquer le tour où elle est Invoquée Spécialement. Vous devez payer 500 LP pour déclarer une attaque avec ce monstre. Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Peut attaquer directement votre adversaire, sauf s'il contrôle un monstre Toon, auquel cas cette carte doit cibler un monstre Toon avec ses attaques.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Toon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4597,
+  "type": "monster",
+  "name": "Morphojarre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Chaque joueur défausse autant de cartes que possible depuis sa main, puis chaque joueur pioche 5 cartes.",
+  "level": 2,
+  "atk": 700,
+  "def": 600,
+  "properties": [
+    "Rocher",
+    "Flip",
+    "Effet"
+  ]
+}

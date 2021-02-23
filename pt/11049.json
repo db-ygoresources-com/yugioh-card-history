@@ -1,0 +1,15 @@
+{
+  "id": 11049,
+  "type": "monster",
+  "name": "Translotus Silvestre",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Uma vez por turno: você pode escavar um número de cards do topo do seu Deck igual ao número de cards que seu oponente controla, enviar quaisquer monstros escavados do Tipo Planta para o Cemitério e, além disso, colocar os outros cards no fundo do seu Deck em qualquer ordem. Se este card for escavado do Deck e enviado para o Cemitério por um efeito de card: você pode escolher até 5 cards \"Silvestre\" no seu Cemitério, exceto \"Translotus Silvestre\"; coloque-os no fundo do seu Deck em qualquer ordem.",
+  "level": 5,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Planta",
+    "Efeito"
+  ]
+}

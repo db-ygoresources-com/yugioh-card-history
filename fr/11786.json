@@ -1,0 +1,18 @@
+{
+  "id": 11786,
+  "type": "monster",
+  "name": "Risebell l'Invocateur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "En tant que frère aîné, Risebell s'occupe bien de sa petite sœur Saambell. Il lit un livre magique à sa sœur à chaque début d'après-midi, ce qui amène un sourire à tout le monde.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto sur le Terrain ; augmentez son Niveau de 1 (même si cette carte quitte le Terrain).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Psychique",
+    "Pendule",
+    "Normal"
+  ]
+}

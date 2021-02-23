@@ -1,0 +1,15 @@
+{
+  "id": 14098,
+  "type": "monster",
+  "name": "Orcust Chevalier du Cauchemar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non destructible au combat avec un Monstre Lien. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre face recto sur le Terrain ; vous ne pouvez pas Invoquer Spécialement de monstres (monstres TÉNÈBRES exclus) le reste de ce tour, et aussi, envoyez 1 monstre TÉNÈBRES Machine (\"Orcust Chevalier du Cauchemar\" exclu) depuis votre Deck au Cimetière, et si vous le faites, le monstre ciblé gagne une ATK égale au Niveau du monstre envoyé au Cimetière x 100 jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Orcust Chevalier du Cauchemar\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

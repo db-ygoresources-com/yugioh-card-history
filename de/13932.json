@@ -1,0 +1,21 @@
+{
+  "id": 13932,
+  "type": "monster",
+  "name": "Orcustrion",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Effektmonster, darunter ein „Orcust“-Monster\nDiese gelinkte Karte kann weder durch Kampf noch durch Karteneffekte zerstört werden. Du kannst 3 deiner verbannten Maschine-Monster wählen; mische sie ins Deck und falls du dies tust, werden die ATK/DEF jedes gelinkten Monsters, das dein Gegner derzeit kontrolliert, zu 0, zusätzlich werden ihre Effekte annulliert. Du kannst diesen Effekt von „Orcustrion“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "9",
+    "1",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

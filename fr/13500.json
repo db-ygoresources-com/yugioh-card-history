@@ -1,0 +1,19 @@
+{
+  "id": 13500,
+  "type": "monster",
+  "name": "Isolde, Deux Récits du Chevalier Noble",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Guerrier\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 monstre Guerrier depuis votre Deck à votre main, mais le reste de ce tour, vous ne pouvez ni Invoquer/Poser Normalement ni Invoquer Spécialement de monstres de ce nom, ni activer leurs effets de monstre. Vous pouvez envoyer un nombre de votre choix de Magies d'Équipement de noms différents depuis votre Deck au Cimetière ; Invoquez Spécialement 1 monstre Guerrier depuis votre Deck, dont le Niveau total est égal au nombre de cartes envoyées au Cimetière. Vous ne pouvez utiliser chaque effet de \"Isolde, Deux Récits du Chevalier Noble\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

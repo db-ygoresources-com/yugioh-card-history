@@ -1,0 +1,18 @@
+{
+  "id": 15181,
+  "type": "monster",
+  "name": "Perro D/D",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, si tu adversario Invoca de Modo Especial uno o más Monstruos de Fusión, Sincronía o Xyz (excepto durante el Damage Step): puedes seleccionar 1 de esos monstruos; este turno, ese monstruo boca arriba no puede atacar, y además sus efectos son negados.",
+  "pendEffect": "Puedes seleccionar 1 Monstruo de Fusión, Sincronía o Xyz que controle tu adversario; hasta el final de este turno niega sus efectos, y después destruye esta carta. Sólo puedes usar este efecto de \"Perro D/D\" una vez por turno.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

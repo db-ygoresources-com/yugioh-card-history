@@ -1,0 +1,16 @@
+{
+  "id": 14120,
+  "type": "monster",
+  "name": "Intégrateur Cyberse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation, vous pouvez : Invoquez Spécialement 1 Syntoniseur Cyberse depuis votre main ou Cimetière en Position de Défense, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Cyberse exclus) le reste de ce tour. Si cette carte Invoquée par Synchronisation est envoyée au Cimetière : vous pouvez piocher 1 carte. Vous ne pouvez utiliser chaque effet de \"Intégrateur Cyberse\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Synchro",
+    "Effet"
+  ]
+}

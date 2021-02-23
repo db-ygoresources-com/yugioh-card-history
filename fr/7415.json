@@ -1,0 +1,15 @@
+{
+  "id": 7415,
+  "type": "monster",
+  "name": "Triceratops Volcanique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsque vous recevez des dommages de combat tant que cette carte est dans votre Cimetière : bannissez-la depuis votre Cimetière, puis s'il y a un monstre FEU autre que \"Triceratops Volcanique\" dans votre Cimetière, infligez des dommages à votre adversaire égaux au montant des dommages de combat que vous avez reçus.",
+  "level": 3,
+  "atk": 300,
+  "def": 1300,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

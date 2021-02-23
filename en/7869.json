@@ -1,0 +1,15 @@
+{
+  "id": 7869,
+  "type": "monster",
+  "name": "Healing Wave Generator",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn, you can select another face-up monster you control to gain Life Points equal to that monster's Level x 100.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10625,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Gazouillurane",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est envoyée au Cimetière pour l'Invocation Synchro d'un monstre de Type Machine : Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Type Machine/VENT/Niveau 3/ATK 0/DEF 0), et aussi, le reste de ce tour, vous ne pouvez pas Invoquer Spécialement d'autres monstres (monstres VENT exclus). Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Vous pouvez Sacrifier 1 autre monstre \"Bête Fantôme Méca\" ; augmentez le Niveau de cette carte de 1. Vous ne pouvez utiliser qu'1 effet de \"Bête Fantôme Méca Gazouillurane\" par tour, et uniquement une fois le tour.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

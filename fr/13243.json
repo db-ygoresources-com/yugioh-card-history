@@ -1,0 +1,15 @@
+{
+  "id": 13243,
+  "type": "monster",
+  "name": "Exécuteur Métaphysique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en bannissant 5 cartes \"Métaphysique\" de noms différents depuis votre Cimetière et/ou face recto depuis votre Terrain. Ni destructible ni bannissable par des effets de carte. Une fois par tour, si votre adversaire contrôle plus de cartes que vous : vous pouvez cibler 1 de vos monstres \"Métaphysique\" bannis ; Invoquez-le Spécialement, mais bannissez-le durant la End Phase du prochain tour.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Wyrm",
+    "Effet"
+  ]
+}

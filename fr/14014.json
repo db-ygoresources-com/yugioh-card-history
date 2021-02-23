@@ -1,0 +1,16 @@
+{
+  "id": 14014,
+  "type": "monster",
+  "name": "Phœnix Sacré Céruléen de Nephtys",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Réincarnation de Nephtys\". Vous ne pouvez utiliser chacun des effets suivants de \"Phœnix Sacré Céruléen de Nephtys\" qu'une fois par tour.\n●Durant votre Main Phase : vous pouvez détruire un nombre de votre choix de cartes \"Nephtys\" dans votre main et/ou sur votre Terrain face recto, puis détruisez autant de monstres contrôlés par votre adversaire.\n●Durant votre prochaine Standby Phase après que cette carte a été détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Bête Ailée",
+    "Rituel",
+    "Effet"
+  ]
+}

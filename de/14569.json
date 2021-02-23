@@ -1,0 +1,16 @@
+{
+  "id": 14569,
+  "type": "monster",
+  "name": "Kampfwespe - Stachel das Toxin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Kampfwespe“-Monster von deinem Deck hinzufügen, außer „Kampfwespe - Stachel das Toxin“. (Schnelleffekt): Du kannst 1 anderes Insekt-Monster als Tribut anbieten und dann 1 Effektmonster wählen, das dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs seine Effekte. Du kannst jeden Effekt von „Kampfwespe - Stachel das Toxin“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Insekt",
+    "Empfänger",
+    "Effekt"
+  ]
+}

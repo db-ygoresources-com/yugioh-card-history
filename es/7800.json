@@ -1,0 +1,15 @@
+{
+  "id": 7800,
+  "type": "monster",
+  "name": "Sirviente Maníaco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, durante la Standby Phase de tu adversario, puedes retirar del juego cualquier cantidad de monstruos de OSCURIDAD en tu Cementerio. Este monstruo gana 500 DEF por cada monstruo que retiraste, hasta la End Phase.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

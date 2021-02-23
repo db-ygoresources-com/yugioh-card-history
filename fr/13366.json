@@ -1,0 +1,15 @@
+{
+  "id": 13366,
+  "type": "monster",
+  "name": "Crosseur Whip F.A.",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Gagne une ATK égale à son Niveau x 300. Votre adversaire doit payer 300 LP pour activer l'effet d'un monstre dont le Niveau/Rang d'origine est inférieur au Niveau de cette carte. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Si cette carte est min. Niveau 7, votre adversaire ne peut ni défausser ni envoyer de cartes depuis sa main au Cimetière pour activer un effet de carte.",
+  "level": 4,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

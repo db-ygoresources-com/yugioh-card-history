@@ -1,0 +1,15 @@
+{
+  "id": 10928,
+  "type": "monster",
+  "name": "Vengador Xyz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta no es afectada por los efectos de Monstruos Xyz. Cuando esta carta es destruida en batalla con un Monstruo Xyz y mandada al Cementerio: activa 1 de estos efectos, dependiendo del Rango del Monstruo Xyz que destruyó a esta carta;\n●Rango 3 o menor: Tu adversario manda al Cementerio 1 carta en su Deck Extra.\n●Rango 4: Elige 1 carta en el Deck Extra de tu adversario y mándala al Cementerio.\n●Rango 5 o mayor: Tu adversario manda al Cementerio tantas cartas en su Deck Extra como sea posible, pero no más que el Rango del Monstruo Xyz.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

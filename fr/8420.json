@@ -1,0 +1,15 @@
+{
+  "id": 8420,
+  "type": "monster",
+  "name": "Dragon Golem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Votre adversaire ne peut pas prendre pour cible d'attaque les monstres de Type Dragon face recto (celui-ci exclu).",
+  "level": 4,
+  "atk": 200,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

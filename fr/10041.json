@@ -1,0 +1,15 @@
+{
+  "id": 10041,
+  "type": "monster",
+  "name": "Dragon Hiératique de Nuit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, durant le tour de chaque joueur, lorsque cette carte face recto sur le Terrain est ciblée par une Carte Magie/Piège ou un effet de carte : Invoquez Spécialement 1 Monstre Normal de Type Dragon depuis votre main, Deck ou Cimetière, et son ATK/DEF deviennent 0.",
+  "level": 4,
+  "atk": 1700,
+  "def": 900,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

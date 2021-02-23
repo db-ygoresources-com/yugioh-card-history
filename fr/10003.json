@@ -1,0 +1,16 @@
+{
+  "id": 10003,
+  "type": "monster",
+  "name": "Praesepe de la Constellée",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres \"Constellée\" de Niveau 4\nUne fois par tour, durant la Damage Step de chaque joueur, lorsqu'un monstre \"Constellée\" que vous contrôlez attaque ou est attaqué : vous pouvez détacher 1 Matériel Xyz de cette carte ; jusqu'à la End Phase, le monstre gagne 1000 ATK.",
+  "rank": 4,
+  "atk": 2400,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

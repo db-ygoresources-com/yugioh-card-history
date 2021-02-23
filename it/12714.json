@@ -1,0 +1,18 @@
+{
+  "id": 12714,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Extra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi offrire come Tributo questa carta; metti 1 Mostro Pendulum \"Attore dell'Abisso\" dal tuo Deck nella tua Zona Pendulum, inoltre, per il resto di questo turno, non puoi Evocare Specialmente mostri, eccetto mostri \"Attore dell'Abisso\", né attivare l'Effetto Pendulum di \"Attore dell'Abisso - Extra\". Puoi utilizzare questo effetto di \"Attore dell'Abisso - Extra\" una sola volta per turno.",
+  "pendEffect": "Se il tuo avversario controlla un mostro: puoi Evocare Specialmente questa carta dalla tua Zona Pendulum. Puoi utilizzare questo effetto di \"Attore dell'Abisso - Extra\" una sola volta per turno.",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

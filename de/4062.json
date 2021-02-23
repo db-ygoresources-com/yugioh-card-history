@@ -1,0 +1,15 @@
+{
+  "id": 4062,
+  "type": "monster",
+  "name": "Mottenlarve",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Dieses Monster kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Dieses Monster kann nur als Spezialbeschwörung beschworen werden, indem du die „Kleine Motte“ mit dem „Kokon der Evolution“ ausrüstest und im zweiten deiner darauf folgenden Spielzüge als Tribut anbietest.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

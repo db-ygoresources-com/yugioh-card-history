@@ -1,0 +1,18 @@
+{
+  "id": 11974,
+  "type": "monster",
+  "name": "Cavalière Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Les fameuses armes de cette femme Chevaliardent rose ont infligé autant de dégâts à ses ennemis qu'à ses propres troupes, mais comme elle obtient des résultats peu de personnes s'en plaignent.",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12437,
+  "type": "monster",
+  "name": "Zap Mustung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta durante tu Main Phase 1, no puede ser Invocado de Modo Especial de otra forma, y no puede ser Invocado de Modo Especial si este turno has Invocado de modo Especial. Dos veces por turno, esta carta no puede ser destruida en batalla. Cada turno, el jugador activo sólo puede Invocar de Modo Especial tantas veces como la cantidad de ataques que haya realizado (y que llegaran al Damage Step) este turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15711,
+  "type": "monster",
+  "name": "Melcaster Métalphose Para",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez ajouter 1 Monstre Pendule \"Métalphose\" (\"Melcaster Métalphose Para\" exclu) face recto depuis votre Extra Deck à votre main, mais vous ne pouvez ni l'activer ni activer des cartes avec son nom pour le placer dans les Zones Pendule, le reste de ce tour, sauf par un effet de carte. Vous ne pouvez utiliser cet effet de \"Melcaster Métalphose Para\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 autre carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, Posez 1 Magie/Piège \"Métalphose\" directement depuis votre Deck.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psychique",
+    "Pendule",
+    "Effet"
+  ]
+}

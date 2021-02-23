@@ -1,0 +1,15 @@
+{
+  "id": 13305,
+  "type": "monster",
+  "name": "Resistencia Interrumpida",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando recibes daño de batalla: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, gana ATK igual al daño que recibiste. Una vez por turno, durante el cálculo de daño, cuando otro monstruo en Posición de Defensa que controles es atacado por un monstruo del adversario (Efecto Rápido): puedes activar este efecto; durante este cálculo de daño, la DEF de tu monstruo atacado se convierte igual a la DEF de esta carta, y además no puede ser destruido en esa batalla.",
+  "level": 6,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

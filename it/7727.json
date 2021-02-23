@@ -1,0 +1,15 @@
+{
+  "id": 7727,
+  "type": "monster",
+  "name": "Cacciatore Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "L'effetto di questa carta cambia a seconda del numero di mostri OSCURITÀ nel tuo Cimitero.\n●1 o meno: Questa carta perde 400 ATK.\n●da 2 a 4: Questa carta guadagna 400 ATK.\n●5 o più: Puoi mandare questa carta al Cimitero per distruggere tutti i mostri coperti controllati dal tuo avversario.",
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

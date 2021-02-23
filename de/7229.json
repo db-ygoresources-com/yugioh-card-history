@@ -1,0 +1,10 @@
+{
+  "id": 7229,
+  "type": "trap",
+  "name": "Zerstörerisches Ziehen",
+  "englishAttribute": "trap",
+  "localizedAttribute": "FALLE",
+  "effectText": "Falls ein Spieler am Beginn seiner Draw Phase keine Karten in seiner Hand hat, kann er zusätzlich zu seinem normalen Ziehen 1 weitere Karte ziehen. Der Beherrscher dieser Karte verliert während seiner End Phase 700 Life Points. (Falls er weniger als 700 hat, werden diese stattdessen zu 0.) Wenn diese offene Karte vom Spielfeld entfernt wird, füge dem Spieler, der sie kontrolliert hat, 3000 Schaden zu.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Permanent"
+}

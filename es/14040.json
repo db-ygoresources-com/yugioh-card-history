@@ -1,0 +1,16 @@
+{
+  "id": 14040,
+  "type": "monster",
+  "name": "Tsuchigumo, el Mayakashi Tóxico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSólo puedes controlar 1 \"Tsuchigumo, el Mayakashi Tóxico\". Sólo puedes usar cada uno de estos efectos de \"Tsuchigumo, el Mayakashi Tóxico\" una vez por turno.\n●Si un Monstruo de Sincronía en tu posesión cuyo Nivel original es 7, es destruido en batalla o por el efecto de una carta del adversario, mientras esta carta está en el Cementerio: puedes desterrar otro monstruo Zombi en tu Cementerio y, si lo haces, Invoca esta carta de Modo Especial.\n●Si esta carta es Invocada de Modo Especial desde el Cementerio: puedes hacer que cada jugador mande al Cementerio las 3 cartas de la parte superior de su Deck.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Zombi",
+    "Sincronía",
+    "Efecto"
+  ]
+}

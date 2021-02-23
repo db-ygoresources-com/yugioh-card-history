@@ -1,0 +1,15 @@
+{
+  "id": 10904,
+  "type": "monster",
+  "name": "Chevalifeuille Sylvan",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessous de votre Deck. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez choisir 1 carte \"Sylvan\" depuis votre Deck et placez-la au-dessus de votre Deck.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

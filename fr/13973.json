@@ -1,0 +1,16 @@
+{
+  "id": 13973,
+  "type": "monster",
+  "name": "Jugement, le Dragon des Cieux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi vous Invoquez par Synchronisation cette carte, tous les Matériels doivent être du même Attribut. Une fois par tour, si vous avez min. 4 Syntoniseurs de noms différents dans votre Cimetière et contrôlez cette carte Invoquée par Synchronisation : vous pouvez payer la moitié de vos LP ; détruisez toutes les autres cartes sur le Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Dragon exclus) le reste de ce tour. Une fois par tour, durant votre End Phase : bannissez 4 cartes du dessus de votre Deck.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

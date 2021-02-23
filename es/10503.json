@@ -1,0 +1,15 @@
+{
+  "id": 10503,
+  "type": "monster",
+  "name": "Mecha Bestia Fantasma Loboatado",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es Invocada de Modo Normal: Invoca de Modo Especial 1 \"Ficha Mecha Bestia Fantasma\" (Máquina/VIENTO/Nivel 3/ATK 0/DEF 0). El Nivel de esta carta se aumenta en la cantidad total de Niveles de todas las \"Ficha Mecha Bestia Fantasma\" que controles. Mientras controles una Ficha, esta carta no puede ser destruida en batalla o por efectos de cartas. Una vez por batalla, durante el Damage Step, cuando esta carta batalla con un monstruo del adversario (Efecto Rápido): puedes Sacrificar 1 Ficha; hasta el final de este turno, esta carta gana 800 ATK.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6835,
+  "type": "monster",
+  "name": "Super Véhicroid - Alliance Furtive",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Camionroid\" + \"Expressroid\" + \"Drillroid\" + \"Furtiroid\"\nUne fois par tour : vous pouvez cibler 1 monstre non-Machine face recto sur le Terrain ; équipez la cible à cette carte. Tant qu'elle est équipée avec un monstre par cet effet, cette carte peut attaquer une fois tous les monstres contrôlés par votre adversaire. Si cette carte attaque, son ATK d'origine est divisée par deux. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants.",
+  "level": 9,
+  "atk": 3600,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6287,
+  "type": "monster",
+  "name": "Maldición del Vampiro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes pagar 500 Life Points; Invócala de Modo Especial durante la Standby Phase del próximo turno. Cuando lo haces: ésta gana 500 ATK.",
+  "level": 6,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

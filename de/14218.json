@@ -1,0 +1,16 @@
+{
+  "id": 14218,
+  "type": "monster",
+  "name": "Signalkrieger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug, während der Standby Phase: Lege 1 Signalzählmarke auf jede offene Karte in der Spielfeldzone, zusätzlich lege 1 auf diese Karte. Diese Karte mit einer oder mehr Signalzählmarken kann weder durch Kampf noch durch Karteneffekte deines Gegners zerstört werden. Einmal pro Spielzug: Du kannst 4, 7 oder 10 Signalzählmarken von irgendwo auf dem Spielfeld entfernen; führe diesen Effekt aus, abhängig von der entfernten Anzahl.\n●4: Füge deinem Gegner 800 Schaden zu.\n●7: Ziehe 1 Karte.\n●10: Zerstöre 1 Karte auf dem Spielfeld.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14224,
+  "type": "monster",
+  "name": "Performapal Smile Sorcerer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is Normal or Special Summoned: You can add 1 \"Smile\" Spell/Trap from your Deck to your hand. If every monster you control is a \"Performapal\" or \"Odd-Eyes\" monster, or a \"Magician\" Pendulum Monster, and this card's current ATK is higher than its original ATK: You can draw cards equal to the number of monsters you control whose current ATK is higher than their original ATK, also you cannot Special Summon monsters for the rest of this turn. You can only use each effect of \"Performapal Smile Sorcerer\" once per turn.",
+  "pendEffect": "If a monster(s) you control whose current ATK is higher than its original ATK is destroyed by battle or card effect: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Performapal Smile Sorcerer\" once per turn.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 13415,
+  "type": "monster",
+  "name": "Dragón Triple Explosión",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ monstruos, excepto Fichas\nUna vez por turno, durante el Damage Step, cuando es activada una Carta Mágica/de Trampa, o efecto de monstruo (Efecto Rápido): puedes negar la activación. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Durante tu Main Phase, excepto en el turno en que esta carta fue Invocada de Modo Especial: puedes Sacrificar esta carta, y después seleccionar 1 monstruo de Link-2 o menor en tu Cementerio; Invócalo de Modo Especial, y después puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Dragón de Nivel 4 o menor.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

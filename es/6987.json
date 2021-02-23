@@ -1,0 +1,17 @@
+{
+  "id": 6987,
+  "type": "monster",
+  "name": "Psíquico Alienígena",
+  "oldName": "Psíquico Alien",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "notes": "Nombre de Carta actualizado de \"Psíquico Alien\". (Versión impresa aún no disponible)",
+  "effectText": "Esta carta se cambia a Posición de Defensa cuando es Invocada de Modo Normal o por Volteo. Los monstruos con Contadores \"A\" no pueden declarar ataques.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

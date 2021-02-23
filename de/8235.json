@@ -1,0 +1,15 @@
+{
+  "id": 8235,
+  "type": "monster",
+  "name": "Sagenhafte Topi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls dein Gegner 2 oder mehr Karten mehr in seiner Hand hat als du, kannst du 1 „Sagenhaft“-Monster in deiner Hand vorzeigen und diese offene Karte als Tribut anbieten, um 2 Zauber- oder Fallenkarten zu wählen, die dein Gegner kontrolliert, und sie zu zerstören.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

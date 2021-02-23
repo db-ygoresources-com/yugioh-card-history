@@ -1,0 +1,15 @@
+{
+  "id": 12415,
+  "type": "monster",
+  "name": "Miroir Rouge",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsqu'un monstre de votre adversaire déclare une attaque : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 monstre FEU de Type Démon (\"Miroir Rouge\" exclu) dans votre Cimetière ; ajoutez-le à votre main. Si vous Invoquez par Synchronisation tant que cette carte est dans votre Cimetière (sauf durant la Damage Step ou le tour où cette carte a été envoyée au Cimetière) : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Miroir Rouge\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

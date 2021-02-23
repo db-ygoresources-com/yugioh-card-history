@@ -1,0 +1,15 @@
+{
+  "id": 7415,
+  "type": "monster",
+  "name": "Vulkanischer Gegenschlag",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn du Kampfschaden erhältst, solange sich diese Karte in deinem Friedhof befindet: Verbanne sie von deinem Friedhof und dann, falls sich ein FEUER Monster außer „Vulkanischer Gegenschlag“ in deinem Friedhof befindet, füge deinem Gegner Schaden in Höhe des Kampfschadens zu, den du erhalten hast.",
+  "level": 3,
+  "atk": 300,
+  "def": 1300,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

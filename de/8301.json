@@ -1,0 +1,15 @@
+{
+  "id": 8301,
+  "type": "monster",
+  "name": "Schicksalsdame Licht",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Die ATK und DEF dieser Karte entsprechen ihrer Stufe x 200. Während jeder deiner Standby Phasen, erhöhe die Stufe dieser Karte um 1 (maximal 12). Wenn diese Karte durch einen Karteneffekt vom Spielfeld entfernt wird, kannst du 1 „Schicksalsdame“-Monster als Spezialbeschwörung von deinem Deck beschwören.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

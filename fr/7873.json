@@ -1,0 +1,16 @@
+{
+  "id": 7873,
+  "type": "monster",
+  "name": "Plante Mimétique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 autre monstre de Type Plante sur le Terrain qui a un Niveau ; jusqu'à la fin de ce tour, le Niveau de cette carte devient du Niveau actuel du monstre.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

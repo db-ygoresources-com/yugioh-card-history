@@ -1,0 +1,19 @@
+{
+  "id": 14674,
+  "type": "monster",
+  "name": "Dragón Satélite Galaxia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Dragón\nDurante la Battle Phase (Efecto Rápido): puedes desterrar esta carta en tu Campo o Cementerio, y después seleccionar 1 Monstruo Xyz \"Número\" que controles cuyos Atributo/Tipo originales sean LUZ/Dragón; hasta el final de la Battle Phase, su ATK se convierte en igual al valor del \"Número\" en su nombre x 100, y además cualquier daño de batalla que reciba tu adversario se divide a la mitad. Durante la End Phase de tu adversario: puedes elegir 1 carta en tu Deck y ponerla en la parte superior de tu Deck. Sólo puedes usar cada efecto de \"Dragón Satélite Galaxia\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12832,
+  "type": "monster",
+  "name": "Predaplanta Pterapenthes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta inflige daño de batalla a tu adversario: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; pon 1 Contador de Predador en él, y si su Nivel es 2 o mayor, éste se convierte en Nivel 1 mientras tenga un Contador de Predador. Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario con un Nivel menor o igual al de esta carta; hasta la End Phase, toma su control.",
+  "level": 3,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

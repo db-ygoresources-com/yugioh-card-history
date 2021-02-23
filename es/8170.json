@@ -1,0 +1,16 @@
+{
+  "id": 8170,
+  "type": "monster",
+  "name": "Torapart",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta no puede ser utilizada como Monstruo Material de Sincronía, excepto en la Invocación por Sincronía de un monstruo Sincro de Tipo Guerrero. Si el monstruo de Sincronía así Invocado ataca, tu adversario no puede activar Cartas de Trampa hasta el final del Damage Step.",
+  "level": 2,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

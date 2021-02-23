@@ -1,0 +1,15 @@
+{
+  "id": 10919,
+  "type": "monster",
+  "name": "Grabwächters Schamane",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Erhält 200 DEF für jedes „Grabwächter“-Monster in deinem Friedhof. Annulliere alle Monstereffekte, die im Friedhof aktiviert werden, außer denen von „Grabwächter“-Monstern. Solange „Tal der Toten“ auf dem Spielfeld liegt, kann dein Gegner keine Spielfeldzauberkarten aktivieren, zusätzlich können Spielfeldzauberkarten nicht durch Karteneffekte deines Gegners zerstört werden.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

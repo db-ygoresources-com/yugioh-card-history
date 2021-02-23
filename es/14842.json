@@ -1,0 +1,15 @@
+{
+  "id": 14842,
+  "type": "monster",
+  "name": "Saque de Cupido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No es afectada por los efectos activados de monstruos, excepto de monstruos cuyo Nivel sea igual o menor que el de esta carta. Puedes desterrar hasta 3 cartas en tu Cementerio; hasta el final de este turno, aumenta el Nivel de esta carta en ese número. Sólo puedes usar este efecto de \"Saque de Cupido\" una vez por turno.",
+  "level": 2,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

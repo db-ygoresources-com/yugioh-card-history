@@ -1,0 +1,15 @@
+{
+  "id": 14835,
+  "type": "monster",
+  "name": "Jack-o-Bolan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst 1 Zombie-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 Zombie-Monster in einem beliebigen Friedhof wählen; beschwöre das Monster als Spezialbeschwörung (aber verbanne es, wenn es das Spielfeld verlässt), dann verbanne diese offene Karte bis zur End Phase. Du kannst jeden Effekt von „Jack-o-Bolan“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 1500,
+  "def": 2200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

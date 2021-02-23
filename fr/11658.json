@@ -1,0 +1,18 @@
+{
+  "id": 11658,
+  "type": "monster",
+  "name": "Dragong",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ce gong abrite l'âme d'un dragon sauvage. Il plane et rugit dans le ciel, motivant tous ceux qui entendent son appel à la bataille.",
+  "pendEffect": "",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Normal"
+  ]
+}

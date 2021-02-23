@@ -1,0 +1,15 @@
+{
+  "id": 14651,
+  "type": "monster",
+  "name": "Primineral Großkong",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Falls ein Monster von der Hand oder dem Deck deines Gegners auf den Friedhof gelegt wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die verdeckte Verteidigungsposition beschwören. Falls diese Karte aufgedeckt wird: Du kannst bis zu 2 Karten auf dem Spielfeld wählen; zerstöre sie.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

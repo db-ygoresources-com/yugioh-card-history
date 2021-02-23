@@ -1,0 +1,18 @@
+{
+  "id": 11630,
+  "type": "monster",
+  "name": "Dragoons of Draconia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.",
+  "pendEffect": "Once per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Beast-Warrior",
+    "Pendulum",
+    "Normal"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11011,
+  "type": "monster",
+  "name": "Beelze des Dragons Diaboliques",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur TÉNÈBRES + 1+ monstre non-Syntoniseur\nNon destructible ni au combat ni par des effets de carte. Si vous recevez des dommages d'une attaque impliquant cette carte ou d'un effet de carte de l'adversaire : cette carte gagne une ATK égale aux dommages que vous avez reçus.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11564,
+  "type": "monster",
+  "name": "Nékroz de Gungnir",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement, sans utiliser des monstres de Niveau 7. Vous ne pouvez utiliser chacun de ces effets de \"Nékroz de Gungnir\" qu'une fois par tour.\n●(Effet Rapide) : vous pouvez défausser cette carte, puis ciblez 1 monstre \"Nékroz\" que vous contrôlez ; ce tour, il ne peut être détruit ni au combat ni par des effets de carte.\n●(Effet Rapide) : vous pouvez défausser 1 carte \"Nékroz\", puis ciblez 1 carte sur le Terrain ; détruisez-la.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1700,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

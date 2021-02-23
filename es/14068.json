@@ -1,0 +1,15 @@
+{
+  "id": 14068,
+  "type": "monster",
+  "name": "¡Peligro! ¡Hombre Perro!",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes mostrar esta carta en tu mano; tu adversario elige al azar 1 carta en toda tu mano, y después descartas la carta elegida. Después, si la carta descartada no fue \"¡Peligro! ¡Hombre Perro!\", Invoca de Modo Especial, desde tu mano, 1 \"¡Peligro! ¡Hombre Perro!\" y, si lo haces, roba 1 carta. Si esta carta es descartada: puedes hacer que todos los monstruos boca arriba que controle tu adversario en este momento pierdan 1000 ATK hasta el final de este turno. Sólo puedes usar este efecto de \"¡Peligro! ¡Hombre Perro!\" una vez por turno.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

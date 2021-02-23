@@ -1,0 +1,15 @@
+{
+  "id": 5561,
+  "type": "monster",
+  "name": "Zombie Goblin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte inflige des dommages de combat à votre adversaire : envoyez la carte du dessus de son Deck au Cimetière. Si cette carte est envoyée depuis le Terrain au Cimetière : ajoutez 1 monstre Zombie avec max. 1200 DEF depuis votre Deck à votre main.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1050,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

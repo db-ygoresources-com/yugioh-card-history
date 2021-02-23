@@ -1,0 +1,18 @@
+{
+  "id": 11703,
+  "type": "monster",
+  "name": "Domatore Bestia Spirito Zeframpilica",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando questa carta viene Evocata Normalmente o Pendulum: puoi scegliere come bersaglio 1 mostro \"Bestia Spirito\" o \"Zefra\" nel tuo Cimitero, eccetto \"Domatore Bestia Spirito Zeframpilica\"; Evocalo Specialmente, ma distruggilo durante la End Phase. Puoi Evocare Specialmente uno o più \"Domatore Bestia Spirito Zeframpilica\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Bestia Spirito\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Psichico",
+    "Pendulum",
+    "Effetto"
+  ]
+}

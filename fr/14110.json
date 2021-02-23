@@ -1,0 +1,16 @@
+{
+  "id": 14110,
+  "type": "monster",
+  "name": "Douce Guitare du Groupe Farstar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Monstre Lien \"Farstar\" + 1 monstre \"Farstar\"\nLes dommages d'effet infligés à votre adversaire par votre Monstre Lien \"Farstar\" lié à cette carte sont doublés. Si votre adversaire reçoit des dommages par un effet de monstre \"Farstar\" : cette carte gagne une ATK égale aux dommages qu'il a reçus. Une fois par tour, durant la End Phase, si cette carte a attaqué ce tour : l'ATK gagnée par cet effet redevient 0, puis vous pouvez ajouter 1 monstre \"Farstar\" depuis votre Cimetière à votre main.",
+  "level": 7,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Effet"
+  ]
+}

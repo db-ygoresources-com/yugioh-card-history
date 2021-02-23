@@ -1,0 +1,15 @@
+{
+  "id": 9089,
+  "type": "monster",
+  "name": "Soldado de Sincronía",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, durante tu Main Phase 1, puedes seleccionar 1 Monstruo de Sincronía boca arriba que controles. Retira del juego a ese monstruo e inflige 600 puntos de daño a tu adversario. Si usas este efecto, durante tu próxima Standby Phase el monstruo retirado del juego vuelve al Campo.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

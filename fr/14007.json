@@ -1,0 +1,19 @@
+{
+  "id": 14007,
+  "type": "monster",
+  "name": "Policière Patrouilleuse des Enfers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres\nSi cette carte est Invoquée par Lien en utilisant 2 monstres TÉNÈBRES de noms différents comme Matériel, elle gagne cet effet.\n●Vous pouvez Sacrifier 1 monstre, puis ciblez 1 carte face recto sur le Terrain ; placez 1 Compteur Patrouilleur sur elle. Vous ne pouvez utiliser cet effet de \"Policière Patrouilleuse des Enfers\" qu'une fois par tour. (Si une carte avec un Compteur Patrouilleur va être détruite au combat ou par un effet de carte, retirez-lui 1 Compteur Patrouilleur à la place.)",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

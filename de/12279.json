@@ -1,0 +1,15 @@
+{
+  "id": 12279,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Pachingo-Kart",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster vom Typ Maschine abwerfen und dann 1 Monster auf dem Spielfeld wählen; zerstöre es.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

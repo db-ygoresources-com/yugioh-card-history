@@ -1,0 +1,19 @@
+{
+  "id": 13500,
+  "type": "monster",
+  "name": "Isolde, Due Racconti dei Nobili Cavalieri",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri Guerriero\nSe questa carta viene Evocata Link: puoi aggiungere 1 mostro Guerriero dal tuo Deck alla tua mano, ma, per il resto di questo turno, non puoi Evocare Normalmente/Posizionare o Evocare Specialmente mostri con quel nome, né attivare i loro effetti di mostro. Puoi mandare un qualsiasi numero di Magie Equipaggiamento con nomi diversi dal tuo Deck al Cimitero; Evoca Specialmente dal tuo Deck 1 mostro Guerriero con Livello pari al numero di carte mandate al Cimitero. Puoi utilizzare ogni effetto di \"Isolde, Due Racconti dei Nobili Cavalieri\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Guerriero",
+    "Link",
+    "Effetto"
+  ]
+}

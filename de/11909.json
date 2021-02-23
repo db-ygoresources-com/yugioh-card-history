@@ -1,0 +1,16 @@
+{
+  "id": 11909,
+  "type": "monster",
+  "name": "Wahrsageprinzessin Astromorrigan",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Während der End Phase dieses Spielzugs, zerstöre so viele Monster in Verteidigungsposition, die dein Gegner kontrolliert, wie möglich und falls du dies tust, füge deinem Gegner für jedes zerstörte Monster 500 Schaden zu.",
+  "level": 3,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Fee",
+    "Flipp",
+    "Effekt"
+  ]
+}

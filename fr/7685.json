@@ -1,0 +1,16 @@
+{
+  "id": 7685,
+  "type": "monster",
+  "name": "Gremlin des Eaux",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Cette créature aquatique hante les monolithes glaciaires de l'Antarctique. Son pouvoir surnaturel lui permet de s'infiltrer dans les pores de n'importe quelle substance pour la transformer en glace.",
+  "level": 1,
+  "atk": 400,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Syntoniseur",
+    "Normal"
+  ]
+}

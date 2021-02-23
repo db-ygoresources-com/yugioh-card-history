@@ -1,0 +1,15 @@
+{
+  "id": 5924,
+  "type": "monster",
+  "name": "Geflügeltes Nashorn",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn eine Fallenkarte aktiviert wird (außer während des Damage Steps): Du kannst diese offene Karte vom Spielfeld auf die Hand zurückgeben.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14408,
+  "type": "monster",
+  "name": "Hexwerkerin Haine",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dein Gegner kann andere Hexer-Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen. (Schnelleffekt): Du kannst 1 Zauber abwerfen und dann 1 offene Karte wählen, die dein Gegner kontrolliert; zerstöre sie. Du kannst diesen Effekt von „Hexwerkerin Haine“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

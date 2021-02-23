@@ -1,0 +1,15 @@
+{
+  "id": 9553,
+  "type": "monster",
+  "name": "Meklord Astro Mekanikle",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) mandando al Cementerio 3 monstruos \"Meklord\" en tu mano. Una vez por turno: puedes seleccionar 1 Monstruo de Sincronía que controle tu adversario; equipa ese objetivo a esta carta. Esta carta gana ATK igual al ATK combinado de los monstruos equipados a ella por este efecto. Una vez por turno, durante tu Standby Phase: puedes mandar al Cementerio 1 de esos monstruos equipados que controles; inflige daño a tu adversario igual al ATK original de ese monstruo. El turno en el que activas este efecto, no puedes realizar tu Battle Phase.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

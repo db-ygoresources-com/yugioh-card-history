@@ -1,0 +1,18 @@
+{
+  "id": 11787,
+  "type": "monster",
+  "name": "Mago Xiangke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, durante il turno di qualsiasi giocatore: puoi scegliere come bersaglio 1 mostro LUCE sul Terreno; gli effetti di quel mostro scoperto si annullano fino alla fine di questo turno.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 Mostro Xyz scoperto che controlli; in questo turno, puoi utilizzarlo come Materiale Xyz per un'Evocazione Xyz utilizzando il suo Rango come se fosse un Livello (anche se questa carta lascia il Terreno).",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

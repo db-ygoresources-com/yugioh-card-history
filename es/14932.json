@@ -1,0 +1,19 @@
+{
+  "id": 14932,
+  "type": "monster",
+  "name": "Transporte de la Unión",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos con el mismo Tipo o Atributo\nNo puede ser usado como Material de Enlace el turno en el que es Invocado por Enlace. Puedes seleccionar 1 monstruo boca arriba que controles; equípale 1 monstruo en tu mano o Deck con su mismo Tipo o Atributo original. El monstruo equipado gana 1000 ATK. Si lo equipaste desde el Deck, por el resto de este turno no puedes Invocar de Modo Especial monstruos con el nombre de esa Carta de Equipo. Sólo puedes usar este efecto de \"Transporte de la Unión\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8934,
+  "type": "monster",
+  "name": "Flitzkrieger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte angreift, erhält sie nur während des Damage Steps 1200 ATK.",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

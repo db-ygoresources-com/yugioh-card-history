@@ -1,0 +1,16 @@
+{
+  "id": 6264,
+  "type": "monster",
+  "name": "Dragón Gatling",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Dragón Cañón\" + \"Dragón Escupefuego\"\nUna vez por turno: puedes lanzar una moneda 3 veces y destruir tantos monstruos en el Campo como sea posible, pero no más que la cantidad de Caras.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Efecto"
+  ]
+}

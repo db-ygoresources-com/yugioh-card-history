@@ -1,0 +1,16 @@
+{
+  "id": 10589,
+  "type": "monster",
+  "name": "Chevaucheur des Vents de Tempête",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez cibler 1 Monstre Normal Dragon que vous contrôlez ; équipez ce monstre depuis votre main ou Terrain à la cible. Si un monstre équipé avec cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Si un monstre équipé avec cette carte va être détruit, détruisez cette carte à la place.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Dragon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

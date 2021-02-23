@@ -1,0 +1,15 @@
+{
+  "id": 8021,
+  "type": "monster",
+  "name": "Mercenario de Ataque",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, puedes devolver al Deck, desde tu mano o Cementerio, 1 \"Activar Modo de Ataque\" para destruir 1 Carta Mágica o de Trampa que controle tu adversario.",
+  "level": 4,
+  "atk": 1800,
+  "def": 300,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4769,
+  "type": "monster",
+  "name": "Parasite Paracide",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Placez cette carte face recto sur le Deck de votre adversaire et mélangez le Deck. Lorsque votre adversaire pioche cette carte, celle-ci est Invoquée Spécialement en Position de Défense face recto sur son Terrain et lui inflige 1000 points de dommages. Puis, tant que cette carte reste face recto sur le Terrain, tous les monstres contrôlés par votre adversaire deviennent des monstres de Type Insecte.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

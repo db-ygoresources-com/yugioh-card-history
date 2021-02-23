@@ -1,0 +1,19 @@
+{
+  "id": 14122,
+  "type": "monster",
+  "name": "Brouilleur de Mise à Jour",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres Cyberse de min. Niveau 2\nUne fois par combat, durant le calcul des dommages, si votre monstre Cyberse combat (Effet Rapide) : vous pouvez activer cet effet ; annulez tous les autres effets de carte sur le Terrain jusqu'à la fin de la Damage Step, le calcul des dommages pour ce combat utilise les ATK/DEF d'origine de chaque monstre, et aussi, si un monstre de l'adversaire est détruit par ce combat et envoyé au Cimetière, infligez 1000 points de dommages à votre adversaire. Si cette carte est envoyée au Cimetière comme Matériel Lien : le Monstre Lien peut faire une seconde attaque durant chaque Battle Phase ce tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "4"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

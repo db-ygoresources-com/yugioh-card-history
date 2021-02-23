@@ -1,0 +1,16 @@
+{
+  "id": 11122,
+  "type": "monster",
+  "name": "Número 52: Rey Cangrejo Diamante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos de Nivel 4\nUna vez por turno: puedes desacoplar de esta carta 1 Material Xyz; cambia la DEF de esta carta a 0 y, si lo haces, cambia su ATK a 3000. Estos cambios duran hasta el final de este turno. Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase. Si esta carta es atacada, cámbiala a Posición de Ataque al final del Damage Step si no tiene Materiales Xyz. Sólo puedes controlar 1 \"Número 52: Rey Cangrejo Diamante\".",
+  "rank": 4,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Roca",
+    "Xyz",
+    "Efecto"
+  ]
+}

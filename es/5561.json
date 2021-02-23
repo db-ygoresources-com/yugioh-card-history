@@ -1,0 +1,15 @@
+{
+  "id": 5561,
+  "type": "monster",
+  "name": "Goblin Zombi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta inflige daño de batalla a tu adversario: manda al Cementerio la carta de la parte superior de su Deck. Si esta carta es mandada del Campo al Cementerio: añade a tu mano 1 monstruo Zombi con 1200 DEF o menos en tu Deck.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1050,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

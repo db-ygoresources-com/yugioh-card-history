@@ -1,0 +1,16 @@
+{
+  "id": 10040,
+  "type": "monster",
+  "name": "スクープ・シューター",
+  "nameRuby": "スクープ・シューター",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "このカードが、このカードの攻撃力よりも高い守備力を持つフィールド上に表側表示で存在するモンスターに攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "戦士族",
+    "効果"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4608,
+  "type": "monster",
+  "name": "ペンギン・ソルジャー",
+  "nameRuby": "ペンギン・ソルジャー",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "リバース：フィールド上のモンスターを２体まで選択して持ち主の手札に戻す事ができる。",
+  "level": 2,
+  "atk": 750,
+  "def": 500,
+  "properties": [
+    "水族",
+    "リバース",
+    "効果"
+  ]
+}

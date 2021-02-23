@@ -1,0 +1,19 @@
+{
+  "id": 13933,
+  "type": "monster",
+  "name": "Crusadia Spatha",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Effektmonster, darunter ein „Crusadia“-Monster\nErhält ATK in Höhe der Grund-ATK aller Monster, auf die diese Karte zeigt. Ein Monster, auf das diese Karte zeigt, kann nicht angreifen. Einmal pro Spielzug, falls ein Effektmonster als Spezialbeschwörung in eine Zone beschworen wird, auf die diese Karte zeigt (außer während des Damage Steps): Du kannst 1 Monster in der Main-Monsterzone eines beliebigen Spielers wählen, außer dieser Karte; bewege es in eine andere Main-Monsterzone auf der Spielfeldseite seines Beherrschers.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 500,
+  "properties": [
+    "Krieger",
+    "Link",
+    "Effekt"
+  ]
+}

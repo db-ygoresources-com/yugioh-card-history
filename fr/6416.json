@@ -1,0 +1,15 @@
+{
+  "id": 6416,
+  "type": "monster",
+  "name": "Chien de Meute Mécanique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que vous n'avez pas de carte dans votre main, votre adversaire ne peut pas activer de Carte Magie.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

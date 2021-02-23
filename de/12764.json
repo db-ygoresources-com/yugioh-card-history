@@ -1,0 +1,16 @@
+{
+  "id": 12764,
+  "type": "monster",
+  "name": "Auszubildender Flötenspieler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 Monster als Spezialbeschwörung von deiner Hand beschwören.\nFalls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 Monster als Spezialbeschwörung von deiner Hand beschwören.",
+  "level": 2,
+  "atk": 100,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

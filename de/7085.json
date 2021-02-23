@@ -1,0 +1,15 @@
+{
+  "id": 7085,
+  "type": "monster",
+  "name": "Vulkanisches Verdammnisfeuer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du einen offenen „Dreifacher Glutbeschleuniger“, das du kontrollierst, auf den Friedhof legst. Während der Battle Phase deines Gegner muss dein Gegner dieses Monster mit jedem Monster in Angriffsposition angreifen, das er kontrolliert. Wenn diese Karte ein Monster zerstört und es auf den Friedhof legt, zerstöre alle Monster, die dein Gegner kontrolliert und füge deinem Gegner 500 Schaden für jedes durch diesen Effekt zerstörte Monster zu.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

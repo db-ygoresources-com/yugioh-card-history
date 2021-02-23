@@ -1,0 +1,21 @@
+{
+  "id": 13836,
+  "type": "monster",
+  "name": "Dragon Gumblar Topologique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ Monstres à Effet\nSi un autre monstre est Invoqué Spécialement dans une zone pointée par un Monstre Lien, tant que ce monstre est sur le Terrain : défaussez 1 ou 2 cartes au hasard, puis votre adversaire défausse le même nombre. Durant votre Main Phase, si cette carte est Liée Extra et que votre adversaire a min. 1 carte dans sa main : vous pouvez faire défausser 1 ou 2 cartes (le plus grand nombre) à votre adversaire, puis, s'il n'a plus de cartes dans sa main, infligez-lui 3000 points de dommages. Vous ne pouvez utiliser qu'1 effet de \"Dragon Gumblar Topologique\" par tour, et uniquement une fois le tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

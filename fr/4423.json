@@ -1,0 +1,15 @@
+{
+  "id": 4423,
+  "type": "monster",
+  "name": "Jongleur Explosif",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous ne pouvez Activer cette effet que durant votre Standby Phase. Sélectionnez et détruisez 2 monstres face recto avec une ATK de 1000 points ou moins en sacrifiant cette carte face recto.",
+  "level": 3,
+  "atk": 800,
+  "def": 900,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

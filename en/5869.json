@@ -1,0 +1,15 @@
+{
+  "id": 5869,
+  "type": "monster",
+  "name": "Magician's Valkyria",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13038,
+  "type": "monster",
+  "name": "Baumwollschlingenkobold",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deinem Gegner für jedes „Schreckenspelz“-Monster in deinem Friedhof 200 Schaden zufügen. Du kannst diesen Effekt von „Baumwollschlingenkobold“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Alle Fusionsmonster, die du kontrollierst, erhalten 300 ATK. Einmal pro Spielzug, falls ein oder mehr „Schreckenspelz“-Fusionsmonster als Fusionsbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst 1 Karte ziehen.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

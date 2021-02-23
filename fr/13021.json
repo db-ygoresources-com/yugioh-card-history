@@ -1,0 +1,15 @@
+{
+  "id": 13021,
+  "type": "monster",
+  "name": "Démone Subterreur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre \"Subterreur\" que vous contrôlez ; annulez l'activation, puis changez le monstre ciblé en Position de Défense face verso. Vous pouvez cibler 1 monstre face recto que vous contrôlez ; changez-le en Position de Défense face verso, et si vous le faites, Invoquez Spécialement 1 monstre \"Subterreur\" depuis votre main ou Cimetière en Position de Défense face recto ou face verso. Vous ne pouvez utiliser chaque effet de \"Démone Subterreur\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 800,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

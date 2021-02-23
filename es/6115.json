@@ -1,0 +1,15 @@
+{
+  "id": 6115,
+  "type": "monster",
+  "name": "Dragón Elemental",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Este monstruo consigue los siguientes efectos mientras hay monstruos con el siguiente Atributo en el Campo.\n●FUEGO: Aumenta el ATK de esta carta en 500 puntos.\n●VIENTO: Si esta carta destruye el monstruo de tu adversario como resultado de una batalla, esta carta puede atacar una vez más inmediatamente después.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

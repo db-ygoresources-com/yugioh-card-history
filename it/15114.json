@@ -1,0 +1,15 @@
+{
+  "id": 15114,
+  "type": "monster",
+  "name": "Erica la Fata Rikka",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Quando viene dichiarato un attacco che coinvolge un altro mostro Pianta che controlli: puoi offrire come Tributo questa carta dalla tua mano o Terreno scoperto; quel mostro che controlli guadagna 1000 ATK/DEF fino alla fine di questo turno. Se uno o più mostri Pianta che controlli vengono offerti come Tributo, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta in Posizione di Difesa, ma bandiscila quando lascia il Terreno. Puoi utilizzare ogni effetto di \"Erica la Fata Rikka\" una sola volta per turno.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

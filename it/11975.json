@@ -1,0 +1,18 @@
+{
+  "id": 11975,
+  "type": "monster",
+  "name": "Fuocavaliere Veterano",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Questo comandante veterano della divisione guardie del corpo funge da accompagnatore per la Sprezzante, ed è uno dei pochi che si lamentano della sua avventatezza (principalmente con il Gentiluomo, l'unico che lo capisce).",
+  "pendEffect": "Se hai una carta \"Fuocavaliere\" nella tua altra Zona Pendulum: puoi distruggere entrambe le carte nelle tue Zone Pendulum e, se lo fai, aggiungi 1 mostro FUOCO di Tipo Guerriero dal tuo Deck o Cimitero alla tua mano.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 1300,
+  "def": 2700,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

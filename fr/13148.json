@@ -1,0 +1,16 @@
+{
+  "id": 13148,
+  "type": "monster",
+  "name": "Impératrice Amazonesse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Reine Amazonesse\" + 1 monstre \"Amazonesse\"\nLes autres cartes \"Amazonesse\" que vous contrôlez ne peuvent être détruites ni au combat ni par des effets de carte. Si votre monstre \"Amazonesse\" attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Si cette carte face recto Invoquée par Fusion est détruite au combat, ou quitte le Terrain à cause d'un effet de carte de l'adversaire tant que son propriétaire la contrôle : vous pouvez Invoquer Spécialement 1 \"Reine Amazonesse\" depuis votre main, Deck ou Cimetière.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

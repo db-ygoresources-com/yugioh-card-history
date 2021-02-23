@@ -1,0 +1,15 @@
+{
+  "id": 10039,
+  "type": "monster",
+  "name": "Pfeilschneller Raketenexpress",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du keine Karten kontrollierst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Du kannst in dem Spielzug, in dem du diese Karte als Spezialbeschwörung beschwörst, keine Battle Phase durchführen. Du kannst weder Karten oder Effekte aktivieren noch Karten setzen. Während jeder deiner Standby Phasen, zerstöre diese Karte, es sei denn, du legst deine gesamte Hand auf den Friedhof (min. 1 Karte).",
+  "level": 10,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

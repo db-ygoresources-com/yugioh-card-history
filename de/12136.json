@@ -1,0 +1,18 @@
+{
+  "id": 12136,
+  "type": "monster",
+  "name": "Dinonebel Ceratops",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls alle Monster, die du kontrollierst, „Dinonebel“-Monster sind (min. 1) und keins „Dinonebel Ceratops“ ist, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.",
+  "pendEffect": "Falls eine oder mehr andere „Dinonebel“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

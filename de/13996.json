@@ -1,0 +1,16 @@
+{
+  "id": 13996,
+  "type": "monster",
+  "name": "Streitwagen des Glücks",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "(Diese Karte wird zusätzlich immer als „Walküre“-Karte behandelt.)\nEinmal pro Spielzug kannst du: 1 Fee-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Das ausgerüstete Monster kann direkt angreifen, aber wenn es das mit diesem Effekt tut, wird der Kampfschaden halbiert, der deinem Gegner zugefügt wird.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Union",
+    "Effekt"
+  ]
+}

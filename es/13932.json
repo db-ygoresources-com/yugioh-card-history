@@ -1,0 +1,21 @@
+{
+  "id": 13932,
+  "type": "monster",
+  "name": "Orcustrión",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ Monstruos de Efecto, incluyendo un monstruo \"Orcust\"\nEsta carta enlazada no puede ser destruida en batalla o por efectos de cartas. Puedes seleccionar 3 de tus monstruos Máquina desterrados; barájalos al Deck y, si lo haces, el ATK/DEF de cualquiera de los monstruos enlazados que controle tu adversario en este momento se convierte en 0, y además sus efectos son negados. Sólo puedes usar este efecto de \"Orcustrión\" una vez por turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "9",
+    "1",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

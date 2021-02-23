@@ -1,0 +1,16 @@
+{
+  "id": 8008,
+  "type": "monster",
+  "name": "Cometrampas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocada de Modo Especial mandando al Cementerio 1 Carta de Trampa boca arriba que controle tu adversario, y no puede ser Invocado de Modo Especial de otra forma.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Demonio",
+    "Cantante",
+    "Efecto"
+  ]
+}

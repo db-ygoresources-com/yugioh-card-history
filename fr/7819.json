@@ -1,0 +1,16 @@
+{
+  "id": 7819,
+  "type": "monster",
+  "name": "Archer de la Cloche de Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, vous pouvez Sacrifier 1 monstre de Type Pyro face recto que vous contrôlez pour augmenter l'ATK de tous les monstres \"Cloche de Feu\" sur le Terrain de 800 points.",
+  "level": 3,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

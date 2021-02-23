@@ -1,0 +1,15 @@
+{
+  "id": 4377,
+  "type": "monster",
+  "name": "Sanga des Donners",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Schadensberechnung im Spielzug deines Gegners, falls diese Karte angegriffen wird: Du kannst das angreifende Monster wählen; die ATK des gewählten Ziels werden nur während der Schadensberechnung zu 0. (Dies ist ein Schnelleffekt.) Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

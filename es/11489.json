@@ -1,0 +1,16 @@
+{
+  "id": 11489,
+  "type": "monster",
+  "name": "Necroz de Armadura Decisiva",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Carta Mágica de Ritual \"Necroz\". Debe ser Invocada por Ritual sin usar monstruos de Nivel 10, y no puede ser Invocada de Modo Especial de otra forma. Sólo puedes usar cada uno de estos efectos de \"Necroz de Armadura Decisiva\" una vez por turno.\n●Durante el turno de cualquier jugador: puedes descartar esta carta, y después seleccionar 1 monstruo \"Necroz\" que controles; hasta el final de este turno, éste gana 1000 ATK y DEF.\n●Puedes seleccionar 1 carta Colocada que controle tu adversario; destrúyela y, si lo haces, destiérrala.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2300,
+  "properties": [
+    "Dragón",
+    "Ritual",
+    "Efecto"
+  ]
+}

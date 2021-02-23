@@ -1,0 +1,15 @@
+{
+  "id": 15948,
+  "type": "monster",
+  "name": "Caverguerra Skyler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Ganha 100 de ATK para cada monstro que seu oponente controla. Durante uma Fase de Batalha na qual um monstro Guerreiro de TERRA seu batalhar (Efeito Rápido): você pode escolher 1 monstro Guerreiro de Nível 5 ou menos no seu Cemitério; Invoque-o por Invocação-Especial e, além disso, todos os monstros \"Caverguerra\" que você controla atualmente ganham 200 de ATK até o final do turno do seu oponente e, além disso, pelo resto deste turno, você não pode atacar diretamente com monstros de Nível 5 ou menos. Você só pode usar este efeito de \"Caverguerra Skyler\" uma vez por turno.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

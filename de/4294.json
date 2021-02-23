@@ -1,0 +1,15 @@
+{
+  "id": 4294,
+  "type": "monster",
+  "name": "Dunkler Künstler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte von einem LICHT Monster angegriffen wird, werden ihre DEF nur während der Schadensberechnung halbiert.",
+  "level": 3,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15282,
+  "type": "monster",
+  "name": "Serment des Guerriers Anciens - Seigneurs Double Dragon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres Bête-Guerrier (un monstre VENT \"Guerriers Anciens\" inclus)\nTous les monstres \"Guerriers Anciens\" que vous contrôlez gagnent 500 ATK/DEF. Vous ne pouvez utiliser chacun des effets suivants de \"Serment des Guerriers Anciens - Seigneurs Double Dragon\" qu'une fois par tour. Si cette carte est Invoquée par Lien : vous pouvez ajouter 1 carte \"Guerriers Anciens\" depuis votre Deck à votre main. (Effet Rapide) : vous pouvez envoyer 1 carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 carte face recto contrôlée par votre adversaire ; renvoyez-la à la main.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1100,
+  "properties": [
+    "Bête-Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

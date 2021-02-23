@@ -1,0 +1,15 @@
+{
+  "id": 8179,
+  "type": "monster",
+  "name": "Gehirngolem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Effekte von offenen LICHT Monstern werden annulliert. Falls diese Karte ein LICHT Monster durch Kampf zerstört, kann sie sofort noch einmal angreifen.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

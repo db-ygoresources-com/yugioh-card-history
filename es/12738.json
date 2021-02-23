@@ -1,0 +1,18 @@
+{
+  "id": 12738,
+  "type": "monster",
+  "name": "Artistamigo Dag Hombredaga",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante tu Main Phase, si este turno esta carta fue Invocada por Péndulo: puedes mandar al Cementerio 1 monstruo \"Artistamigo\" en tu mano; roba 1 carta. Sólo puedes usar este efecto de \"Artistamigo Dag Hombredaga\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase, si esta carta fue activada este turno: puedes seleccionar 1 monstruo \"Artistamigo\" en tu Cementerio; añádelo a tu mano. Sólo puedes usar este efecto de \"Artistamigo Dag Hombredaga\" una vez por turno.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Efecto"
+  ]
+}

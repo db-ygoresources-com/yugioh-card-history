@@ -1,0 +1,15 @@
+{
+  "id": 13245,
+  "type": "monster",
+  "name": "Avatar del Rey de Fuego Arvata",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando es activado el efecto de un monstruo mientras este monstruo está en el Campo (Efecto Rápido): puedes negar la activación y, si lo haces, destruye otro monstruo de FUEGO en tu mano o Campo. Si esta carta es destruida y mandada al Cementerio: puedes seleccionar 1 monstruo de FUEGO Bestia, Guerrero-Bestia o Bestia Alada en tu Cementerio, excepto \"Avatar del Rey de Fuego Arvata\"; Invócalo de Modo Especial, pero ve sus efectos negados y además es destruido durante la End Phase. Sólo puedes usar cada efecto de \"Avatar del Rey de Fuego Arvata\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13604,
+  "type": "monster",
+  "name": "Vampire Aspirante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres Zombie\nSi vous allez Sacrifier un ou plusieurs monstres pour une Invocation Sacrifice, vous pouvez Sacrifier un ou plusieurs monstres Zombie contrôlés par votre adversaire, même si vous ne les contrôlez pas. Vous ne pouvez utiliser chacun des effets suivants de \"Vampire Aspirante\" qu'une fois par tour.\n●Vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur le Terrain de votre adversaire en Position de Défense, mais il devient un monstre Zombie.\n●Si un ou plusieurs monstres Zombie sont Invoqués Spécialement depuis le Cimetière : piochez 1 carte.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Zombie",
+    "Lien",
+    "Effet"
+  ]
+}

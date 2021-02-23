@@ -1,0 +1,16 @@
+{
+  "id": 5779,
+  "type": "monster",
+  "name": "Lunatite - Parasite Métallisant",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, durant votre Main Phase, si vous contrôlez ce monstre sur le Terrain, vous pouvez l'équiper à un monstre face recto sur votre Terrain comme une Carte Magie d'Équipement, OU libérer cet équipement Union et faire l'Invocation Spéciale de cette carte en Position d'Attaque face recto. Lorsque cette carte est équipée par l'effet de cette carte, ce monstre n'est plus affecté par les effets des Cartes Magie contrôlées par votre adversaire. (1 monstre ne peut être équipé que par 1 Monstre Union. Si le monstre équipé avec cette carte est détruit à l'issue d'un combat, détruisez cette carte à la place.)",
+  "level": 7,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Union",
+    "Effet"
+  ]
+}

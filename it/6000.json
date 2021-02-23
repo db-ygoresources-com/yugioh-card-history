@@ -1,0 +1,15 @@
+{
+  "id": 6000,
+  "type": "monster",
+  "name": "Marshmallon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere distrutto in battaglia. Dopo il calcolo dei danni, se questa carta è stata attaccata ed era coperta all'inizio del Damage Step: il giocatore attaccante subisce 1000 danni.",
+  "level": 3,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11421,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Jaculuslan",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur \"Bête Fantôme Méca\" + 1+ monstre non-Syntoniseur \"Bête Fantôme Méca\"\nLorsque cette carte est Invoquée par Synchronisation : vous pouvez Sacrifier un nombre de \"Jeton Bête Fantôme Méca\", inférieur ou égal au nombre de cartes dans la main de votre adversaire ; défaussez au hasard un nombre de cartes à votre adversaire, égal au nombre de monstres Sacrifiés. Les autres monstres \"Bête Fantôme Méca\" que vous contrôlez ne peuvent être détruits ni au combat ni par des effets de carte. Si cette carte en possession de son propriétaire est détruite par votre adversaire : vous pouvez Poser 1 Magie Jeu-Rapide directement depuis votre Deck.",
+  "level": 9,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

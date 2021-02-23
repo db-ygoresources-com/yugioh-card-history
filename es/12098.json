@@ -1,0 +1,18 @@
+{
+  "id": 12098,
+  "type": "monster",
+  "name": "Caballería Samurai de Reptier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Al comienzo del Damage Step, si esta carta ataca a un monstruo boca arriba de tu adversario que no sea un Monstruo de Péndulo: puedes destruir ese monstruo.",
+  "pendEffect": "",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Dinosaurio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12147,
+  "type": "monster",
+  "name": "Deskbot 007",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "This card gains 500 ATK for each \"Deskbot\" card in your Graveyard. Monsters your opponent controls cannot target face-up \"Deskbot\" monsters for attacks, except this one. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "pendEffect": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

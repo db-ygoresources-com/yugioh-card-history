@@ -1,0 +1,16 @@
+{
+  "id": 4735,
+  "type": "monster",
+  "name": "Crâne Invoqué Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Archdémon\".)\nNi Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en Sacrifiant 1 monstre, tant que vous contrôlez \"Monde des Toons\". Ne peut pas attaquer le tour où elle est Invoquée Spécialement. Vous devez payer 500 LP pour déclarer une attaque avec ce monstre. Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Peut attaquer directement votre adversaire, sauf s'il contrôle un monstre Toon, auquel cas cette carte doit cibler un monstre Toon avec ses attaques.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Toon",
+    "Effet"
+  ]
+}

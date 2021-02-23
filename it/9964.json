@@ -1,0 +1,16 @@
+{
+  "id": 9964,
+  "type": "monster",
+  "name": "Numero 7: Sequenza Fortunata",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "3 mostri di Livello 7\nPuoi staccare 1 Materiale Xyz da questa carta; tira un dado a sei facce due volte e l'ATK di questa carta diventa pari al numero più alto ottenuto x 700, poi se la somma dei due tiri è esattamente 7, puoi applicare uno di questi effetti.\n●Manda tutte le altre carte sul Terreno al Cimitero.\n●Evoca Specialmente 1 mostro dalla tua mano o dal Cimitero di qualsiasi giocatore.\n●Pesca 3 carte, poi scarta 2 carte.",
+  "rank": 7,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Fata",
+    "Xyz",
+    "Effetto"
+  ]
+}

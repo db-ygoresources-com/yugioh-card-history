@@ -1,0 +1,15 @@
+{
+  "id": 8254,
+  "type": "monster",
+  "name": "Ver - Solide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte gagne 100 points de DEF pour chaque monstre \"Ver\" de Type Reptile dans votre Cimetière. Si votre adversaire subit des dommages de combat en attaquant cette carte, sélectionnez 1 Carte Magie ou Piège contrôlée par votre adversaire à la fin de la Damage Step, et détruisez-la.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

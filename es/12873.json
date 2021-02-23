@@ -1,0 +1,15 @@
+{
+  "id": 12873,
+  "type": "monster",
+  "name": "Defensor Némesis del Subterror",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante el turno de cualquier jugador, cuando tu adversario activa una carta o efecto que seleccione exactamente 1 monstruo Colocado que controles (y ninguna otra carta), o cuando un monstruo Colocado que controles es seleccionado para un ataque por un monstruo de tu adversario: puedes mandar al Cementerio esta carta en tu mano o boca arriba en tu Campo, y después seleccionar otro monstruo que controles y que sea un objetivo apropiado; esa carta/efecto/ataque ahora selecciona al nuevo objetivo. Mientras controles un monstruo Colocado, esta carta no puede ser destruida en batalla o por efectos de cartas.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

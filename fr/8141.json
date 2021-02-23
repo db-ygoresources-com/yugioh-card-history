@@ -1,0 +1,15 @@
+{
+  "id": 8141,
+  "type": "monster",
+  "name": "Briseur d'Os",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Spécialement depuis votre Cimetière par l'effet d'un monstre de Type Zombie : vous pouvez cibler 1 Carte Magie/Piège contrôlée par votre adversaire ; détruisez la cible. Durant la End Phase du tour où cette carte a été Invoquée Spécialement : détruisez-la.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9040,
+  "type": "monster",
+  "name": "Highlander des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur de Type Démon + 1 monstre non-Syntoniseur de Type Démon ou plus\nAucun joueur ne peut Invoquer par Synchronisation. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire qui est équipé avec une Carte d'Équipement ; détruisez toutes les Cartes d'Équipement équipées au monstre, et si vous le faites, infligez 400 points de dommages à votre adversaire pour chaque carte détruite.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Démon",
+    "Synchro",
+    "Effet"
+  ]
+}

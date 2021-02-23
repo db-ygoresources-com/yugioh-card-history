@@ -1,0 +1,16 @@
+{
+  "id": 13251,
+  "type": "monster",
+  "name": "Self-Destruct Ant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Each player takes 1000 damage.\nIf this card is destroyed by battle or card effect and sent to the GY: Inflict 1000 damage to your opponent. You can only use each effect of \"Self-Destruct Ant\" once per turn.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Insect",
+    "Flip",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12388,
+  "type": "monster",
+  "name": "Planeta Oscuro Kozmo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando monstruos \"Kozmo\" en tu mano cuyos Niveles totales sean 10 o más, y no puede ser Invocado de Modo Especial de otra forma. No puede ser seleccionado por efectos de cartas de tu adversario. Durante el turno de cualquier jugador, cuando es activada una Carta Mágica: puedes desterrar 1 monstruo \"Kozmo\" en tu Cementerio; niega la activación y, si lo haces, destruye esa carta. Si esta carta es destruida en batalla o por efecto de una carta y mandada al Cementerio: puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo \"Kozmo\" de Nivel 9 o menor en tu Deck.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

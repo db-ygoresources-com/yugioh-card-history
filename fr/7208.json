@@ -1,0 +1,16 @@
+{
+  "id": 7208,
+  "type": "monster",
+  "name": "Voyante à la Boule de Cristal",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Dévoilez les 2 cartes du dessus de votre Deck, puis ajoutez-en 1 à votre main, puis placez l'autre au-dessous de votre Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

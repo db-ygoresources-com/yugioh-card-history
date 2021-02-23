@@ -1,0 +1,15 @@
+{
+  "id": 8450,
+  "type": "monster",
+  "name": "Araña Oscura",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno puedes aumentar en 2 el Nivel de 1 monstruo de Tipo Insecto boca arriba que controles, hasta la End Phase.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11247,
+  "type": "monster",
+  "name": "Batteriemann 9-Volt-Block",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte beschworen wird: Du kannst deiner Hand 1 „Batteriemann“-Monster von deinem Deck hinzufügen und falls du dies tust, werden die ATK und DEF dieser Karte zum Doppelten ihrer Grund-ATK und -DEF. Du kannst diesen Effekt von „Batteriemann 9-Volt-Block“ nur einmal pro Spielzug verwenden. Während deiner End Phase: Zerstöre diese Karte.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

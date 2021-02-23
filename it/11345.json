@@ -1,0 +1,15 @@
+{
+  "id": 11345,
+  "type": "monster",
+  "name": "Samurai Superpesante Animabang Cannone",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro \"Samurai Superpesante\" che controlli; equipaggia questo mostro dalla tua mano o dal tuo Terreno a quel bersaglio. Esso guadagna 1000 DEF. Durante la Battle Phase di qualsiasi giocatore, quando il tuo avversario attiva l'effetto di una carta mentre tu controlli un mostro \"Samurai Superpesante\" in Posizione di Difesa: puoi bandire questa carta dal tuo Cimitero; annulla l'attivazione e, se lo fai, distruggila, poi distruggi tanti mostri sul Terreno quanti possibile (minimo 1) e, se lo fai, entrambi i giocatori subiscono 1000 danni.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

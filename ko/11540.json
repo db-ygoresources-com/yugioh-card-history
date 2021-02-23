@@ -1,0 +1,18 @@
+{
+  "id": 11540,
+  "type": "monster",
+  "name": "클리포트 어셈블러",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "qliphoth.exe 의 0x1i－666 으로 핸들되어 있지 않은 예외를 확인.\n장소 0x00－000 에 쓰는 중에 액세스 위반이 발생했습니다.\n이 에러를 무시하고, 진행하시겠습니까? ＜Y／N＞...[ ]\n===CARNAGE===\n다g었n되i가o자d는r아u을o악y선n어o되y이r같g와n리a우s은i람d사o라G보\n다d른o모o도l지f살e히r구i영f여g하n취i를r무b나o의t명t생n어a뻗w을d손n는a그",
+  "pendEffect": "①: 자신은 \"클리포트\" 몬스터밖에 특수 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 자신이 어드밴스 소환에 성공한 턴의 엔드 페이즈에 발동할 수 있다. 이 턴에 자신이 어드밴스 소환을 위해 릴리스한 \"클리포트\" 몬스터의 수만큼만, 자신은 덱에서 드로우한다.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "기계족",
+    "펜듈럼",
+    "일반"
+  ]
+}

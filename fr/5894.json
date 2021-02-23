@@ -1,0 +1,15 @@
+{
+  "id": 5894,
+  "type": "monster",
+  "name": "Poisson Torpille",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant qu' \"Umi\" reste face recto sur le Terrain, cette carte n'est pas affectée par les effets des les Cartes Magie.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

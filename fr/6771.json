@@ -1,0 +1,15 @@
+{
+  "id": 6771,
+  "type": "monster",
+  "name": "Limon Luminescent Néo-Spacien",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte attaque ou est attaquée : votre adversaire pioche 1 carte et la montre, puis, appliquez cet effet selon son type.\n●Monstre : Terminez la Battle Phase de ce tour.\n●Magie : Si cette carte attaque, vous pouvez changer l'attaque en attaque directe à la place.\n●Piège : Changez cette carte en Position de Défense.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

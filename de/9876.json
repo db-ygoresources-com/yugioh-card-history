@@ -1,0 +1,15 @@
+{
+  "id": 9876,
+  "type": "monster",
+  "name": "Darklon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst alle offenen Monster, die du derzeit kontrollierst, 1 Stufe erhalten und zusätzlich FINSTERNIS werden lassen. (Diese Effekte dauern bis zur End Phase an.)",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

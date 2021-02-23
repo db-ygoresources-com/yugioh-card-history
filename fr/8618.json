@@ -1,0 +1,15 @@
+{
+  "id": 8618,
+  "type": "monster",
+  "name": "Enchanteur de Puissance",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre face recto que vous contrôlez. Il gagne 400 points d'ATK lorsque vous contrôlez cette carte face recto. (Un monstre ne peut gagner plus de 400 points d'ATK par l'effet de cette carte.)",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7890,
+  "type": "monster",
+  "name": "Invocateur de Tempête",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez mettre les monstres de votre adversaire détruits au combat par les autres monstres de Type Psychique au dessus du Deck de leur propriétaire au lieu de les envoyer au Cimetière. Lorsque cette carte est détruite par l'effet d'une carte, le contrôleur de cette carte reçoit des dommages égaux à son ATK d'origine.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

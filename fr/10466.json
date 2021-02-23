@@ -1,0 +1,16 @@
+{
+  "id": 10466,
+  "type": "monster",
+  "name": "Kappa Cuirassé",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 2\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; cette carte gagne 1000 ATK ou DEF. Durant la Battle Step de chaque joueur, tant qu'une attaque impliquant votre monstre a lieu : vous pouvez défausser 1 carte ; le reste de ce tour, les monstres que vous contrôlez ne peuvent pas être détruits au combat, et aussi, vous ne recevez aucun dommage de combat. Vous ne pouvez utiliser cet effet de \"Kappa Cuirassé\" qu'une fois par Duel.",
+  "rank": 2,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Psychique",
+    "Xyz",
+    "Effet"
+  ]
+}

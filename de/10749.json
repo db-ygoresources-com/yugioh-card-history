@@ -1,0 +1,15 @@
+{
+  "id": 10749,
+  "type": "monster",
+  "name": "Geistertrick-Hexe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere es in die verdeckte Verteidigungsposition.",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

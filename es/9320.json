@@ -1,0 +1,16 @@
+{
+  "id": 9320,
+  "type": "monster",
+  "name": "Gusano de Chatarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta puede atacar a tu adversario directamente. Si esta carta ataca, es destruida al final de la Battle Phase. Si esta carta es destruida por efecto de una carta \"Chatarra\" y mandada al Cementerio, puedes seleccionar 1 monstruo \"Chatarra\" en tu Cementerio, excepto \"Gusano de Chatarra\", y añadirlo a tu mano.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Insecto",
+    "Cantante",
+    "Efecto"
+  ]
+}

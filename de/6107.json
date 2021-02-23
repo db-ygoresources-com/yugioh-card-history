@@ -1,0 +1,15 @@
+{
+  "id": 6107,
+  "type": "monster",
+  "name": "Bewaffneter Drache LV7",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch „Bewaffneter Drache LV5“ als Spezialbeschwörung beschworen werden. Du kannst 1 Monster von deiner Hand auf den Friedhof legen; zerstöre alle Monster, die dein Gegner kontrolliert und deren ATK kleiner oder gleich den ATK des auf den Friedhof gelegten Monsters sind.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

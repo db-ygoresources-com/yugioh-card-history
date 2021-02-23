@@ -1,0 +1,15 @@
+{
+  "id": 10813,
+  "type": "monster",
+  "name": "Drystan le Chevalier Noble",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Chevalier Noble\", votre adversaire ne peut pas cibler vos monstres avec une ATK inférieure à 1800 (cette carte exclue) avec des effets de carte, et ses monstres ne peuvent pas les cibler avec une attaque. Si une Magie d'Équipement \"Armes Nobles\" est équipée à cette carte : ciblez 1 carte face recto sur le Terrain ; détruisez la cible. Vous ne pouvez utiliser cet effet de \"Drystan le Chevalier Noble\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

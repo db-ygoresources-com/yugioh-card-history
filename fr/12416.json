@@ -1,0 +1,15 @@
+{
+  "id": 12416,
+  "type": "monster",
+  "name": "Magicien de l'Illusion Noire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Magicien Sombre\" tant qu'elle est sur le Terrain. Vous ne pouvez utiliser chacun de ces effets de \"Magicien de l'Illusion Noire\" qu'une fois par tour.\n●Durant le tour de votre adversaire, si vous activez une Carte Magie/Piège ou effet de Magie/Piège (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main.\n●Si vous activez une Carte Magie/Piège ou effet de Magie/Piège tant que cette carte est face recto sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 \"Magicien Sombre\" dans votre Cimetière ; Invoquez-le Spécialement. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 7,
+  "atk": 2100,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

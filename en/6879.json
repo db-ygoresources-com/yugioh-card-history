@@ -1,0 +1,15 @@
+{
+  "id": 6879,
+  "type": "monster",
+  "name": "Snipe Hunter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
+  "level": 4,
+  "atk": 1500,
+  "def": 600,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

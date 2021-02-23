@@ -1,0 +1,15 @@
+{
+  "id": 10999,
+  "type": "monster",
+  "name": "Geargiaforeuse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez ajouter 1 monstre TERRE de Type Machine de Niveau 4 (\"Geargiaforeuse\" exclu) depuis votre Deck à votre main, et aussi, vous ne pouvez ni déclarer d'attaque ni Invoquer Spécialement de monstres (monstres de Type Machine exclus) le reste de ce tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

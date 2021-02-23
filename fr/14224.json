@@ -1,0 +1,18 @@
+{
+  "id": 14224,
+  "type": "monster",
+  "name": "Sorcier Souriant Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Souriant\" depuis votre Deck à votre main. Si tous les monstres que vous contrôlez sont des monstres \"Potartiste\", \"Yeux Impairs\" et/ou des Monstres Pendule \"Magicien\", et que l'ATK actuelle de cette carte est supérieure à son ATK d'origine : vous pouvez piocher un nombre de cartes égal au nombre de monstres que vous contrôlez dont l'ATK actuelle est supérieure à leur ATK d'origine, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Sorcier Souriant Potartiste\" qu'une fois par tour.",
+  "pendEffect": "Si un ou plusieurs monstres que vous contrôlez, dont l'ATK actuelle est supérieure à leur ATK d'origine, sont détruits au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Sorcier Souriant Potartiste\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

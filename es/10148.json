@@ -1,0 +1,15 @@
+{
+  "id": 10148,
+  "type": "monster",
+  "name": "La Fuerza de la Profecía",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno: puedes barajar a tu Deck 1 Carta Mágica \"Libro de Magia\" en tu Cementerio para seleccionar 1 monstruo de Tipo Lanzador de Conjuros boca arriba en el Campo; aumenta su Nivel en 1 y su ATK en 500.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

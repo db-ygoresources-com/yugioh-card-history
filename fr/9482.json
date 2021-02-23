@@ -1,0 +1,15 @@
+{
+  "id": 9482,
+  "type": "monster",
+  "name": "Agrafeuse Morphtronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "● En Position d'Attaque : Tant que cette carte est face recto sur le Terrain, votre adversaire ne peut pas sélectionner un autre monstre comme cible d'une attaque. Si cette carte est détruite au combat, le monstre qui a détruit cette carte perd 300 d'ATK.\n ● En Position de Défense : Cette carte ne peut pas être détruite au combat. Si cette carte est attaquée, après le calcul des dommages, sélectionnez 1 monstre face recto en Position d'Attaque contrôlé par votre adversaire. Changez-le en Position de Défense et cette carte en Position d'Attaque.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

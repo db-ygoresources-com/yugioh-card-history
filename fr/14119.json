@@ -1,0 +1,16 @@
+{
+  "id": 14119,
+  "type": "monster",
+  "name": "Monteur Hyper Psychique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nLes monstres avec une ATK inférieure à celle de cette carte ne peuvent pas attaquer, et aussi, aucun joueur ne peut activer les effets des monstres face recto sur le Terrain avec une ATK supérieure à celle de cette carte. Si cette carte en votre possession est détruite par une carte de votre adversaire et envoyée à votre Cimetière : vous pouvez cibler 1 Syntoniseur et 1 monstre non-Syntoniseur dans votre Cimetière qui ont chacun les mêmes Type et Attribut ; ajoutez-les à votre main. Vous ne pouvez utiliser cet effet de \"Monteur Hyper Psychique\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14775,
+  "type": "monster",
+  "name": "Hela, Boss Genèraideur de la Mort",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Hela, Boss Genèraideur de la Mort\". (Effet Rapide) : vous pouvez Sacrifier 1 monstre \"Genèraideur\" ou 1 monstre Zombie, puis ciblez 1 monstre \"Genèraideur\" ou 1 monstre Zombie dans votre Cimetière, de nom différent de celui que le monstre Sacrifié avait sur le Terrain ; Invoquez Spécialement le monstre en Position de Défense. Vous ne pouvez utiliser cet effet de \"Hela, Boss Genèraideur de la Mort\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 800,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

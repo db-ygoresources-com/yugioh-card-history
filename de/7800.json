@@ -1,0 +1,15 @@
+{
+  "id": 7800,
+  "type": "monster",
+  "name": "Wahnsinniger Diener",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während der Standby Phase deines Gegners, kannst du eine beliebige Anzahl FINSTERNIS Monster in deinem Friedhof aus dem Spiel entfernen. Dieses Monster erhält bis zur End Phase 500 DEF für jedes Monster, das du entfernt hast.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

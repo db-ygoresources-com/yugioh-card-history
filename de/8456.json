@@ -1,0 +1,15 @@
+{
+  "id": 8456,
+  "type": "monster",
+  "name": "Reptilianische Medusa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Lege 1 Karte von deiner Hand auf den Friedhof und wähle 1 offenes Monster, das dein Gegner kontrolliert. Die ATK des gewählten Monsters werden zu 0 und es kann seine Kampfposition nicht ändern.",
+  "level": 6,
+  "atk": 2200,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

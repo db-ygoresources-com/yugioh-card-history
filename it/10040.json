@@ -1,0 +1,15 @@
+{
+  "id": 10040,
+  "type": "monster",
+  "name": "Fotograciclope",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta attacca un mostro scoperto sul Terreno, all'inizio del Damage Step: distruggi quel mostro. Il suo DEF deve essere superiore all'ATK di questa carta per attivare e risolvere questo effetto.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

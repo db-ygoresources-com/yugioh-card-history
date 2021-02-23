@@ -1,0 +1,18 @@
+{
+  "id": 13462,
+  "type": "monster",
+  "name": "Dragón Revolución de Ojos Anómalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado por Péndulo (desde tu mano), o Invocado de Modo Especial (desde tu mano) Sacrificando 3 monstruos Dragón (1 de Fusión, 1 de Sincronía y 1 Xyz). Puedes descartar esta carta y pagar 500 LP: añade a tu mano 1 Monstruo de Péndulo Dragón de Nivel 8 o menor en tu Deck. Gana ATK/DEF igual a la mitad de los LP de tu adversario. Una vez por turno: puedes pagar la mitad de tus LP; baraja al Deck todas las demás cartas en el Campo y los Cementerios.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos Dragón. Este efecto no puede ser negado. Puedes seleccionar 1 Monstruo Dragón de Fusión, Sincronía o Xyz en tu Cementerio; destruye esta carta y, si lo haces, Invoca ese objetivo de Modo Especial.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

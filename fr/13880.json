@@ -1,0 +1,19 @@
+{
+  "id": 13880,
+  "type": "monster",
+  "name": "Elfphase",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres Cyberse de min. Niveau 3\nGagne 300 ATK pour chaque monstre pointé par cette carte. Si cette carte Invoquée par Lien quitte le Terrain : vous pouvez cibler 1 monstre Cyberse de max. Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement, mais le reste de ce tour, ses effets (s'il en a) sont annulés et il ne peut pas être utilisé comme Matériel Lien. Vous ne pouvez utiliser cet effet de \"Elfphase\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "6"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

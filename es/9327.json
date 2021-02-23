@@ -1,0 +1,15 @@
+{
+  "id": 9327,
+  "type": "monster",
+  "name": "Majioshaleón",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Tu adversario no puede seleccionar a esta carta como objetivo de un ataque mientras controle Cartas Mágicas/de Trampa. Durante una batalla entre esta carta atacante y un monstruo en Posición de Defensa cuya DEF sea menor que el ATK de esta carta, inflige la diferencia como daño de batalla a tu adversario.",
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

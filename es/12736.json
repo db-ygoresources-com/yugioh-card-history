@@ -1,0 +1,18 @@
+{
+  "id": 12736,
+  "type": "monster",
+  "name": "Mago Llamadragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes hacer que esta carta se convierta en de Tipo Dragón hasta el final de este turno. Un monstruo que haya sido Invocado por Fusión, Sincronía o Xyz usando esta carta en el Campo como material gana este efecto.\n●Si esta carta batalla con un monstruo de Tipo Dragón, el ATK de esta carta se convierte en el doble de su ATK original, sólo durante el Damage Step.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo; hasta el final del turno de tu adversario, éste se convierte en de Tipo Dragón (aún si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

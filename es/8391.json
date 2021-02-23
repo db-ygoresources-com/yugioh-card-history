@@ -1,0 +1,16 @@
+{
+  "id": 8391,
+  "type": "monster",
+  "name": "Dracounidad Lanzaoscura",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno, puedes Sacrificar 1 monstruo \"Dracounidad\" de Tipo Dragón para seleccionar 1 monstruo de Tipo Bestia Alada de Nivel 4 o menor en tu Cementerio e Invocarlo de Modo Especial.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Dragón",
+    "Cantante",
+    "Efecto"
+  ]
+}

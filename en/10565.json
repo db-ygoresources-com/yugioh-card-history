@@ -1,0 +1,16 @@
+{
+  "id": 10565,
+  "type": "monster",
+  "name": "Magical Undertaker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon that target.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

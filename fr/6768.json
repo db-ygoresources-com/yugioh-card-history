@@ -1,0 +1,15 @@
+{
+  "id": 6768,
+  "type": "monster",
+  "name": "Dauphin Aquatique Néo-Spacien",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez défausser 1 carte ; regardez la main de votre adversaire et choisissez 1 monstre. Si vous contrôlez un monstre avec une ATK supérieure ou égale à l'ATK de la carte choisie, détruisez la carte choisie, et si vous le faites, infligez 500 points de dommages à votre adversaire. Sinon, recevez 500 points de dommages.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

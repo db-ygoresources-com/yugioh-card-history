@@ -1,0 +1,18 @@
+{
+  "id": 11456,
+  "type": "monster",
+  "name": "Leonardo's Silver Skyship",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Her wings display her glory.\nThe proof of her glories are told in legend..\nThis card cannot be used in a Duel.",
+  "pendEffect": "Once per turn: You can banish 3 Machine-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Normal"
+  ]
+}

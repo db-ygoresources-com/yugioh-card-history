@@ -1,0 +1,19 @@
+{
+  "id": 14485,
+  "type": "monster",
+  "name": "Magicalibra",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una balanza sensible. Mantiene el equilibrio del universo, pero a menudo pone las estrellas en el lado equivocado.",
+  "pendEffect": "Puedes declarar un Nivel de 1 a 6, y después seleccionar 2 monstruos boca arriba que controles; hasta el final de este turno, reduce el Nivel de 1 de esos monstruos en la cantidad declarada y, si lo haces, aumenta el Nivel del otro en la misma cantidad (aún si esta carta deja el Campo). Sólo puedes usar este efecto de \"Magicalibra\" una vez por turno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Cantante",
+    "Normal"
+  ]
+}

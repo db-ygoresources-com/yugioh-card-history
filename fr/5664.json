@@ -1,0 +1,16 @@
+{
+  "id": 5664,
+  "type": "monster",
+  "name": "Koitsu",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, durant votre Main Phase, si vous contrôlez cette carte sur le Terrain, vous pouvez l'équiper à votre \"Aitsu\" comme une Carte Magie d'Équipement, OU libérer l'équipement Union et faire l'Invocation Spéciale de cette carte en Position d'Attaque face recto. Uniquement lorsque cette carte est équipée à un monstre par l'effet de cette carte, augmentez l'ATK du monstre équipé de 3000 points, et lorsqu'il attaque avec une ATK supérieure à la DEF du monstre en Position de Défense, infligez la différence aux Life Points de votre adversaire en tant que dommages de combat. (1 monstre ne peut être équipé qu'avec 1 Monstre Union. Si le monstre équipé est détruit à l'issue d'un combat, détruisez cette carte à la place.)",
+  "level": 10,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Elfe",
+    "Union",
+    "Effet"
+  ]
+}

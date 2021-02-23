@@ -1,0 +1,16 @@
+{
+  "id": 9095,
+  "type": "monster",
+  "name": "Aufblühende Blumenzwiebel",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst die oberste Karte deines Decks auf den Friedhof legen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Aufblühende Blumenzwiebel“ nur einmal pro Duell verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

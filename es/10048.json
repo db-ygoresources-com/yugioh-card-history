@@ -1,0 +1,15 @@
+{
+  "id": 10048,
+  "type": "monster",
+  "name": "Dragón Hierático de Sutekh",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser primero Invocado de Modo Especial desde tu mano desterrando 3 Monstruos Normales de Tipo Dragón en tu Cementerio. Una vez por turno: puedes desterrar 1 monstruo de Tipo Dragón en tu Cementerio para seleccionar 1 carta en el Campo; destruye ese objetivo.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

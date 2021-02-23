@@ -1,0 +1,16 @@
+{
+  "id": 5450,
+  "type": "monster",
+  "name": "Toon-Dunkles Magier-Mädchen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 Monster als Tribut anbietest, solange du „Toon-Welt“ kontrollierst. Falls „Toon-Welt“ auf dem Spielfeld zerstört wird, zerstöre diese Karte. Kann deinen Gegner direkt angreifen, es sei denn, er kontrolliert ein Toon-Monster, in welchem Fall diese Karte ein Toon-Monster als Ziel für ihre Angriffe wählen muss. Erhält 300 ATK für jeden „Dunkler Magier“ und „Magier des Schwarzen Chaos“ in den Friedhöfen beider Spieler.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Hexer",
+    "Toon",
+    "Effekt"
+  ]
+}

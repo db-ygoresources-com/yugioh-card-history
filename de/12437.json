@@ -1,0 +1,15 @@
+{
+  "id": 12437,
+  "type": "monster",
+  "name": "Blitz-Mustung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss während deiner Main Phase 1 durch einen Karteneffekt als Spezialbeschwörung beschworen werden, kann nicht auf andere Art als Spezialbeschwörung beschworen werden und kann nicht als Spezialbeschwörung beschworen werden, falls du in diesem Spielzug Monster als Spezialbeschwörung beschworen hast. Zweimal pro Spielzug kann diese Karte nicht durch Kampf zerstört werden. In jedem Spielzug kann der Zugspieler nur so viele Male Monster als Spezialbeschwörung beschwören wie die Anzahl Angriffe, die er in diesem Spielzug durchgeführt (und den Damage Step erreicht) hat.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

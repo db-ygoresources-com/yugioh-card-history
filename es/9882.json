@@ -1,0 +1,15 @@
+{
+  "id": 9882,
+  "type": "monster",
+  "name": "Apaleador Fotónico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Primero debe ser Invocado de Modo Especial (desde tu mano) mientras no controles monstruos. No puede atacar si controlas otro monstruo.",
+  "level": 4,
+  "atk": 2100,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5774,
+  "type": "monster",
+  "name": "Arcidemone Alfiere Oscuro",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Il controllore di questa carta paga 500 Life Points durante ogni sua Standby Phase (non è opzionale). Quando una Carta Mostro ARCIDEMONE sul tuo Terreno viene designata come bersaglio dell'effetto di una carta controllata dal tuo avversario, quando l'effetto viene risolto, tira un dado. Se il risultato è 1, 3 o 6, annulla l'effetto e distruggi la carta dell'avversario.",
+  "level": 3,
+  "atk": 300,
+  "def": 1400,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

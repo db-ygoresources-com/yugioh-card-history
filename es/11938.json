@@ -1,0 +1,18 @@
+{
+  "id": 11938,
+  "type": "monster",
+  "name": "Artistamigo Bufón Calaveracróbata",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano, desde tu Deck, 1 monstruo \"Artistamigo\", Monstruo de Péndulo \"Mago/a\", o monstruo \"Ojos Anómalos\", excepto \"Artistamigo Bufón Calaveracróbata\".",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Artistamigo\", Monstruos de Péndulo \"Mago/a\", y monstruos \"Ojos Anómalos\". Este efecto no puede ser negado.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

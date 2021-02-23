@@ -1,0 +1,15 @@
+{
+  "id": 10985,
+  "type": "monster",
+  "name": "Mikorange Sylvan",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte que vous contrôlez est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessous de votre Deck. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : tous les monstres de Type Plante que vous contrôlez actuellement gagnent 300 ATK/DEF.",
+  "level": 3,
+  "atk": 400,
+  "def": 1100,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

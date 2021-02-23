@@ -1,0 +1,18 @@
+{
+  "id": 13884,
+  "type": "monster",
+  "name": "Chuva Bozu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Ganha ATK apenas durante o seu turno e ganha DEF apenas durante o turno do seu oponente, cada um igual à diferença entre o número de cards nos Decks Adicionais x 200. Se este card atacar, ele é colocado em Posição de Defesa no final da Fase de Batalha. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima que você controla; até o final deste turno, ele ganha ATK igual à diferença entre o número de cards nos Decks Adicionais x 100 (mesmo que este card deixe o campo).",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

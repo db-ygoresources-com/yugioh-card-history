@@ -1,0 +1,18 @@
+{
+  "id": 12150,
+  "type": "monster",
+  "name": "Zebra Zuada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode selecionar 1 Zona de Monstro ou Zona de Magias & Armadilhas não utilizada; enquanto este card estiver com a face para cima na Zona de Monstros, essa Zona não pode ser usada.",
+  "pendEffect": "Uma vez por turno, durante sua Fase Principal, se este card foi ativado neste turno: você pode selecionar Zona de Monstro ou Zona de Magias & Armadilhas não utilizada; enquanto este card estiver na Zona de Pêndulo, essa Zona selecionada não pode ser usada.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

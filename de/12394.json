@@ -1,0 +1,18 @@
+{
+  "id": 12394,
+  "type": "monster",
+  "name": "Geisterfleisch",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Geist des Weihnachtsessens.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen. Erhöhe den Pendelbereich dieser Karte bis zum Ende dieses Spielzugs um die gewürfelte Zahl (max. 10).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Normal"
+  ]
+}

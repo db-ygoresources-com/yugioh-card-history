@@ -1,0 +1,15 @@
+{
+  "id": 13218,
+  "type": "monster",
+  "name": "Kondensatorpirscher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 anderes Cyberse-Monster wählen, das du kontrollierst; solange dieses offene Monster auf dem Spielfeld liegt, erhält das Monster 800 ATK. Falls diese Karte in der Monsterzone durch einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Jeder Spieler erhält 800 Schaden. Du kannst diesen Effekt von „Kondensatorpirscher“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

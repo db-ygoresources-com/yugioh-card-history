@@ -1,0 +1,16 @@
+{
+  "id": 11824,
+  "type": "monster",
+  "name": "Ave del Paraíso Perdido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta gana 100 ATK y DEF por cada monstruo Cantante en tu Cementerio. Una vez por turno: puedes mandar al Cementerio 1 monstruo Cantante en tu mano, y después seleccionar 1 monstruo que controle tu adversario; toma su control hasta la End Phase.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Cantante",
+    "Efecto"
+  ]
+}

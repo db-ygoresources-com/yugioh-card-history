@@ -1,0 +1,18 @@
+{
+  "id": 12423,
+  "type": "monster",
+  "name": "Wolflamme Métalphose",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Un moteur-fusée rouge flamboyant dégage des flammes ardentes telles de la lave liquéfiée. Vainqueur du Disparu !",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 autre carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, Posez 1 Carte Magie/Piège \"Métalphose\" directement depuis votre Deck.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Psychique",
+    "Pendule",
+    "Normal"
+  ]
+}

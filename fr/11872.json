@@ -1,0 +1,18 @@
+{
+  "id": 11872,
+  "type": "monster",
+  "name": "Dragonox, le Guerrier Éveillé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez défausser 1 carte, puis ciblez 1 monstre de Type Guerrier ou Magicien avec max. 2000 ATK dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense face verso.",
+  "pendEffect": "Lorsqu'un monstre de votre adversaire déclare une attaque : vous pouvez détruire cette carte, puis terminez la Battle Phase.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14672,
+  "type": "monster",
+  "name": "Abomination Désenchaînée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres (un Monstre Lien inclus)\nSi une ou plusieurs cartes sur le Terrain sont détruites par un effet de carte (\"Abomination Désenchaînée\" exclu) (sauf durant la Damage Step) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Lorsqu'un autre monstre est détruit au combat : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Durant la End Phase : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Vous ne pouvez utiliser chaque effet de \"Abomination Désenchaînée\" qu'une fois par tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

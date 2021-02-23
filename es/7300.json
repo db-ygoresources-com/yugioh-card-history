@@ -1,0 +1,16 @@
+{
+  "id": 7300,
+  "type": "monster",
+  "name": "Hipnotizador Alienígena",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo o en el Cementerio. Mientras esta carta esté boca arriba en el Campo, puedes Invocarla de Modo Normal para que se la trate como un Monstruo de Efecto con el siguiente efecto:\n●Durante tu Main Phase, puedes seleccionar 1 monstruo controlado por tu adversario que tenga uno o más \"Contadores A\" y tomar el control de ese monstruo mientras esta carta esté en el Campo. Durante cada una de tus End Phases retira 1 \"Contador A\" de cada monstruo controlado. Si todos los \"Contadores A\" son retirados de uno de estos monstruos, destrúyelo.",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Reptil",
+    "Géminis",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10921,
+  "type": "monster",
+  "name": "Semilla Mística de Macrocarpa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser usada como Monstruo Material de Sincronía, excepto para la Invocación por Sincronía de un monstruo de TIERRA. Puedes seleccionar 1 monstruo de TIERRA en el Campo; reduce su Nivel en 1. Sólo puedes usar el efecto de \"Semilla Mística de Macrocarpa\" hasta dos veces por turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Planta",
+    "Cantante",
+    "Efecto"
+  ]
+}

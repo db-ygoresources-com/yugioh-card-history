@@ -1,0 +1,20 @@
+{
+  "id": 14937,
+  "type": "monster",
+  "name": "Selene, Königin der Meistermagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Monster, darunter ein Hexer-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Lege Zauberzählmarken in Höhe der Anzahl der Zauber auf dem Spielfeld und in den Friedhöfen auf diese Karte. Solange eine oder mehr „Endymion“-Karten auf dem Spielfeld liegen, können Monster deines Gegners diese Karte nicht als Angriffsziel wählen. Einmal pro Spielzug, während der Main Phase (Schnelleffekt): Du kannst 3 Zauberzählmarken von deiner Spielfeldseite entfernen; beschwöre 1 Hexer-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof in die Verteidigungsposition in deine Zone, auf die diese Karte zeigt.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11189,
+  "type": "monster",
+  "name": "Mano Magica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando il tuo avversario aggiunge una o più carte dal suo Deck alla sua mano, eccetto pescandole (eccetto durante il Damage Step): puoi mandare quelle carte al Cimitero e, se lo fai, infliggi 800 danni al tuo avversario. Questo effetto può essere utilizzato una sola volta mentre questa carta è scoperta sul Terreno.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

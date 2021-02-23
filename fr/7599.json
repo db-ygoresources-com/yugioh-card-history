@@ -1,0 +1,15 @@
+{
+  "id": 7599,
+  "type": "monster",
+  "name": "Dragon du Jugement",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en ayant min. 4 monstres \"Seigneur Lumière\" de noms différents dans votre Cimetière. Vous pouvez payer 1000 LP ; détruisez toutes les autres cartes sur le Terrain. Une fois par tour, durant votre End Phase : envoyez les 4 cartes du dessus de votre Deck au Cimetière.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

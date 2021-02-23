@@ -1,0 +1,15 @@
+{
+  "id": 5869,
+  "type": "monster",
+  "name": "Valkyrie de Magicien",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres de Type Magicien face recto (celui-ci exclu) avec une attaque.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

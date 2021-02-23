@@ -1,0 +1,18 @@
+{
+  "id": 12404,
+  "type": "monster",
+  "name": "Artistamico Gommontone",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, quando viene dichiarato un attacco che coinvolge un mostro che controlli e un mostro dell'avversario: puoi attivare questo effetto; quel mostro che controlli non può essere distrutto in quella battaglia.",
+  "pendEffect": "Una volta per turno, quando viene dichiarato un attacco che coinvolge un mostro che controlli e un mostro dell'avversario: puoi attivare questo effetto; quel mostro che controlli non può essere distrutto in quella battaglia.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 900,
+  "def": 2400,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

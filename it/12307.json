@@ -1,0 +1,15 @@
+{
+  "id": 12307,
+  "type": "monster",
+  "name": "Bug Digitale Saldaragno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere utilizzato come Materiale Xyz per un'Evocazione Xyz, eccetto per l'Evocazione Xyz di un mostro di Tipo Insetto. Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto in Posizione di Attacco che controlli; mettilo in Posizione di Difesa e, se lo fai, Evoca Specialmente 1 mostro di Tipo Insetto di Livello 3 dalla tua mano in Posizione di Difesa. Un Mostro Xyz che è stato Evocato utilizzando questa carta sul Terreno come Materiale Xyz guadagna questo effetto.\n●Se è stato Evocato Xyz: il DEF di tutti i mostri scoperti controllati dal tuo avversario diventa 0, inoltre mettili in Posizione di Difesa.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15948,
+  "type": "monster",
+  "name": "Roccia di Guerra Skyler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Guadagna 100 ATK per ogni mostro controllato dal tuo avversario. Durante una Battle Phase in cui un tuo mostro TERRA Guerriero combatte (Effetto Rapido): puoi scegliere come bersaglio 1 mostro Guerriero di Livello 5 o inferiore nel tuo Cimitero; Evocalo Specialmente, inoltre tutti i mostri \"Roccia di Guerra\" che controlli attualmente guadagnano 200 ATK fino alla fine del turno del tuo avversario, inoltre, per il resto di questo turno, non puoi attaccare direttamente con mostri di Livello 5 o inferiore. Puoi utilizzare questo effetto di \"Roccia di Guerra Skyler\" una sola volta per turno.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

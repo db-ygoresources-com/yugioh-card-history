@@ -1,0 +1,18 @@
+{
+  "id": 13701,
+  "type": "monster",
+  "name": "Ángel Peluchanimal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Sacrificar esta carta, y después seleccionar 1 Monstruo de Fusión \"Atemorizante\" en tu Cementerio; descarta 1 carta y, si lo haces, Invoca de Modo Especial el monstruo seleccionado. Sólo puedes usar este efecto de \"Ángel Peluchanimal\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar 1 monstruo \"Peluchanimal\" o \"Diablillo de\" en tu Cementerio; Invócalo de Modo Especial, y además, por el resto de este turno, no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Fusión (aun si esta carta deja el Campo). Sólo puedes usar este efecto de \"Ángel Peluchanimal\" una vez por turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9876,
+  "type": "monster",
+  "name": "다크론",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "이 카드가 일반 소환에 성공했을 때 발동할 수 있다. 자신 필드 위에 앞면 표시로 존재하는 몬스터는 엔드 페이즈시까지 레벨이 1개 올라가고 어둠 속성이 된다.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "악마족",
+    "효과"
+  ]
+}

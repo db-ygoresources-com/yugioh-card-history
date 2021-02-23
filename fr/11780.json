@@ -1,0 +1,15 @@
+{
+  "id": 11780,
+  "type": "monster",
+  "name": "Kaiser Serpent des Mers",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si votre adversaire contrôle un monstre et que vous n'en contrôlez aucun, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Kaiser Serpent des Mers\" qu'une fois par tour de cette façon. Lorsqu'elle est Invoquée de cette façon : vous pouvez Invoquer Spécialement 1 monstre Serpent de Mer de Niveau 8 depuis votre main ou Cimetière, mais son ATK/DEF deviennent 0. Si cette carte est Invoquée Spécialement, son Niveau devient 4 et son ATK d'origine devient 0.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Serpent de Mer",
+    "Effet"
+  ]
+}

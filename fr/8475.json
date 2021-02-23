@@ -1,0 +1,16 @@
+{
+  "id": 8475,
+  "type": "monster",
+  "name": "Dragon des Étoiles Majestueux",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Dragon Majestueux\" + \"Dragon Poussière d'Étoile\" + 1 monstre non-Syntoniseur\nDurant le tour de chaque joueur, lorsque votre adversaire active une carte ou un effet : vous pouvez Sacrifier cette carte ; annulez l'activation, et si vous le faites, détruisez toutes les cartes contrôlées par votre adversaire. Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, annulez ses effets, et une fois ce tour, vous pouvez activer 1 de ses effets comme l'effet de cette carte. Durant la End Phase : ciblez 1 \"Dragon Poussière d'Étoile\" dans votre Cimetière ; renvoyez cette carte depuis le Terrain à l'Extra Deck, puis Invoquez Spécialement la cible.",
+  "level": 10,
+  "atk": 3800,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

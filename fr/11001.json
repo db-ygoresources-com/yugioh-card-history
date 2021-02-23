@@ -1,0 +1,15 @@
+{
+  "id": 11001,
+  "type": "monster",
+  "name": "Docteur Poissonborg",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est dans votre Cimetière et que tous les monstres que vous contrôlez sont des monstres \"Poissonborg\" (min. 1) : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Docteur Poissonborg\" qu'une fois par tour. Si vous contrôlez un monstre (monstres \"Poissonborg\" exclus), détruisez cette carte.",
+  "level": 4,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

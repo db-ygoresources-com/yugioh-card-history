@@ -1,0 +1,15 @@
+{
+  "id": 15013,
+  "type": "monster",
+  "name": "Harr, Jefe Geneincursor de las Tormentas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Sólo puedes controlar 1 \"Harr, Jefe Geneincursor de las Tormentas\". Una vez por turno, si tu adversario añade a su mano una o más cartas en el Deck, excepto durante la Draw Phase (Efecto Rápido): puedes hacer que tu adversario mande al Cementerio 1 monstruo en su mano o Campo (a su elección). Cuando una carta o efecto es activado (Efecto Rápido): puedes Sacrificar 2 monstruos \"Geneincursor\" y/o Lanzador de Conjuros; niega la activación y, si lo haces, destruye esa carta. Sólo puedes usar este efecto de \"Harr, Jefe Geneincursor de las Tormentas\" una vez por turno.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 8662,
+  "type": "spell",
+  "name": "Cohete de Comando",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Mientras el monstruo equipado esté atacando, no puede ser destruido en batalla. Al final del Damage Step, si el monstruo equipado atacó: el objetivo del ataque pierde ATK igual al ATK del monstruo equipado, hasta la End Phase.",
+  "englishProperty": "equip",
+  "localizedProperty": "Equipo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13884,
+  "type": "monster",
+  "name": "Regen-Bozu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Erhält nur während deines Spielzugs ATK und erhält nur während des Spielzugs deines Gegners DEF, jeweils in Höhe der Differenz zwischen den Anzahlen der Karten in den Extra Decks x 200. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs ATK in Höhe der Differenz zwischen den Anzahlen der Karten in den Extra Decks x 100 (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

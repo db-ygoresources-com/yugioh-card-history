@@ -1,0 +1,18 @@
+{
+  "id": 14340,
+  "type": "monster",
+  "name": "Velociroid Hexaplatillo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Ambos jugadores reciben cualquier daño de batalla de ataques que involucren esta carta. Cualquier daño de batalla de batallas que involucren esta carta se divide a la mitad. Si esta carta es destruida en la Zona de Péndulo: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo de Péndulo \"Velociroid\" boca arriba.",
+  "pendEffect": "Puedes seleccionar 1 de tus Monstruos de Sincronía de VIENTO que esté desterrado o en tu Cementerio; devuélvelo al Deck Extra. Sólo puedes usar este efecto de \"Velociroid Hexaplatillo\" una vez por turno.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

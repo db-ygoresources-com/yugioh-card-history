@@ -1,0 +1,15 @@
+{
+  "id": 6384,
+  "type": "monster",
+  "name": "Patroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Nimm 1 gesetzte Karte auf der Spielfeldseite deines Gegners, sieh sie an und lege sie in ihre ursprüngliche Position zurück. Du kannst diesen Effekt nur einmal pro Spielzug, während deiner Main Phase aktivieren.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

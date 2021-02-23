@@ -1,0 +1,16 @@
+{
+  "id": 12547,
+  "type": "monster",
+  "name": "Numéro 51 : Finisseur le Bras Puissant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "3 monstres de Niveau 3\nNon destructible au combat. À la fin de la Damage Step, si cette carte a combattu : vous pouvez détacher 1 Matériel de cette carte ; placez 1 Compteur sur cette carte (max. 3). À la fin de la Battle Phase, si cette carte a combattu et a 3 de ces Compteurs : vous pouvez détruire toutes les cartes contrôlées par votre adversaire.",
+  "rank": 3,
+  "atk": 2600,
+  "def": 0,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

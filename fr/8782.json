@@ -1,0 +1,15 @@
+{
+  "id": 8782,
+  "type": "monster",
+  "name": "Appareil de Support",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Sacrifier cette carte pour sélectionner 1 monstre en Position d'Attaque face recto que vous contrôlez. Le monstre sélectionné gagne 1500 points d'ATK jusqu'à la End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

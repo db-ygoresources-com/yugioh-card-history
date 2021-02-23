@@ -1,0 +1,16 @@
+{
+  "id": 4734,
+  "type": "monster",
+  "name": "Sirène Toon",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main), tant que vous contrôlez \"Monde des Toons\". Ne peut pas attaquer le tour où elle est Invoquée Spécialement. Vous devez payer 500 LP pour déclarer une attaque avec ce monstre. Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Peut attaquer directement votre adversaire, sauf s'il contrôle un monstre Toon, auquel cas cette carte doit cibler un monstre Toon avec ses attaques.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Toon",
+    "Effet"
+  ]
+}

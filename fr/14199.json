@@ -1,0 +1,19 @@
+{
+  "id": 14199,
+  "type": "monster",
+  "name": "Vouivre de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres (un monstre \"Ferraille\" inclus)\nVous pouvez cibler 1 monstre \"Ferraille\" dans votre Cimetière ; Invoquez-le Spécialement, puis détruisez 1 carte que vous contrôlez. Si un autre monstre \"Ferraille\" face recto est détruit par un effet de carte, tant que vous contrôlez ce monstre (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 monstre \"Ferraille\" depuis votre Deck, puis détruisez 1 carte sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Vouivre de Ferraille\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Dragon",
+    "Lien",
+    "Effet"
+  ]
+}

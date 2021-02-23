@@ -1,0 +1,16 @@
+{
+  "id": 10442,
+  "type": "monster",
+  "name": "Roi Géantraîneur",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "3 monstres de Niveau 8\nVous pouvez détacher 1 Matériel Xyz de cette carte ; piochez 1 carte et montrez-la, puis si c'était un monstre, infligez 800 points de dommages à votre adversaire. Vous ne pouvez pas mener votre Battle Phase le tour où vous activez cet effet. Vous ne pouvez utiliser cet effet de \"Roi Géantraîneur\" que max. trois fois par tour.",
+  "rank": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

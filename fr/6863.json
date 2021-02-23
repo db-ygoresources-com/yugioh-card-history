@@ -1,0 +1,15 @@
+{
+  "id": 6863,
+  "type": "monster",
+  "name": "Bourgeon, HÉROS Élémentaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "À chaque fois que cette carte inflige des dommages de combat à votre adversaire, elle gagne 100 points d'ATK et perd 100 points de DEF. Tant que vous contrôlez un autre monstre \"HÉROS Élémentaire\" face recto, votre adversaire ne peut pas sélectionner cette carte comme cible d'une attaque, et cette carte peut attaquer directement votre adversaire.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13405,
+  "type": "monster",
+  "name": "Ispettore Cavalcatavola",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente o Specialmente se controlli un mostro. Nessun giocatore può attivare effetti di mostri, a meno che il numero di effetti di mostri che quel giocatore ha attivato in precedenza in quel turno non sia inferiore al numero di tipi di carta mostro attualmente sul Terreno (Rituale, Fusione, Synchro, Xyz, Pendulum e Link). (Se l'attivazione di un effetto viene annullata, conta comunque per il totale di quel turno. Contano solo gli effetti che sono stati attivati mentre questo mostro era scoperto sul Terreno.)",
+  "level": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

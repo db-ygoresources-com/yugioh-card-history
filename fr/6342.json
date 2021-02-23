@@ -1,0 +1,16 @@
+{
+  "id": 6342,
+  "type": "monster",
+  "name": "Reshef, l'Être des Ténèbres",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut être Invoquée que par Invocation Rituelle avec la Carte Magie Rituelle, \"Ultime Rituel des Anciens\". Défaussez 1 Carte Magie de votre main. Prenez le contrôle d'1 monstre sur le Terrain de votre adversaire jusqu'à la End Phase. Vous ne pouvez utiliser cet effet qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Démon",
+    "Rituel",
+    "Effet"
+  ]
+}

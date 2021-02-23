@@ -1,0 +1,18 @@
+{
+  "id": 11357,
+  "type": "monster",
+  "name": "Concha Qlifuerte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta de Modo Normal sin Sacrificar. Si esta carta es Invocada de Modo Normal sin Sacrificar, o es Invocada de Modo Especial, su Nivel se convierte en 4 y su ATK original se convierte en 1800. Si esta carta es Invocada de Modo Normal/Colocada, no es afectada por efectos activados de ningún monstruo cuyo Nivel/Rango original sea menor que el Nivel de esta carta en este momento. Si esta carta es Invocada de Modo Normal Sacrificando uno o más monstruos \"Qli\", ésta puede hacer un segundo ataque durante cada Battle Phase, y si ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "pendEffect": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"Qli\". Este efecto no puede ser negado. Todos los monstruos que controle tu adversario pierden 300 ATK.",
+  "pendScale": 9,
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

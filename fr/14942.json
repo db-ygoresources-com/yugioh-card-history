@@ -1,0 +1,19 @@
+{
+  "id": 14942,
+  "type": "monster",
+  "name": "Dagda - Artéfact",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de noms différents\nLorsqu'un effet d'une autre carte sur le Terrain est activé (Effet Rapide) : vous pouvez Poser 1 monstre \"Artéfact\" depuis votre main ou Deck dans votre Zone Magie & Piège comme une Magie, mais détruisez-le durant la prochaine End Phase de votre adversaire. Durant le tour de votre adversaire, si cette carte Invoquée par Lien est détruite : vous pouvez Invoquer Spécialement 1 monstre \"Artéfact\" depuis votre Cimetière en Position de Défense. Vous ne pouvez utiliser chaque effet de \"Dagda - Artéfact\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Elfe",
+    "Lien",
+    "Effet"
+  ]
+}

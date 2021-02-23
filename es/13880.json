@@ -1,0 +1,19 @@
+{
+  "id": 13880,
+  "type": "monster",
+  "name": "Elfase",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2 monstruos Ciberso de Nivel 3 o mayor\nGana 300 ATK por cada monstruo al que apunte esta carta. Si esta carta Invocada por Enlace deja el Campo: puedes seleccionar 1 monstruo Ciberso de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial pero, por el resto de este turno, sus efectos (si los hay) son negados y no puede ser usado como Material de Enlace. Sólo puedes usar este efecto de \"Elfase\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "6"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

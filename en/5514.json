@@ -1,0 +1,15 @@
+{
+  "id": 5514,
+  "type": "monster",
+  "name": "Gravekeeper's Watcher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "During either player's turn, when your opponent activates a Spell/Trap Card or monster effect that could make them discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

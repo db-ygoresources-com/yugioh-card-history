@@ -1,0 +1,18 @@
+{
+  "id": 11933,
+  "type": "monster",
+  "name": "Mago de Ojos del Dharma",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Mientras esta carta Invocada por Péndulo esté en el Campo, los Monstruos de Péndulo \"Mago/a\" que controles no pueden ser destruidos por efectos de cartas de tu adversario durante el turno en el que esta carta fue Invocada por Péndulo.",
+  "pendEffect": "Una vez por turno: puedes mostrar 1 Monstruo de Péndulo en tu mano, y después seleccionar 1 carta \"Mago/a\" en tu Zona de Péndulo; hasta el final de este turno, la Escala de Péndulo de ese objetivo se convierte en la misma que la del Monstruo de Péndulo mostrado (aún si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

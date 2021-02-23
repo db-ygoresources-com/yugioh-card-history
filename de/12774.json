@@ -1,0 +1,16 @@
+{
+  "id": 12774,
+  "type": "monster",
+  "name": "Tapferäugiger Pendeldrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Pendeldrache“-Monster + 1 Monster vom Typ Krieger\nWenn diese Karte als Fusionsbeschwörung beschworen wird: Du kannst die ATK aller offenen Monster, die dein Gegner derzeit kontrolliert, zu 0 ändern, zusätzlich können andere Monster, die du kontrollierst, für den Rest dieses Spielzugs nicht angreifen. Annulliere die aktivierten Effekte von Monstern mit 0 ATK. Am Ende des Damage Steps, wenn diese Karte ein Monster deines Gegners angreift, aber das Monster deines Gegners nicht durch den Kampf zerstört wurde: Du kannst das Monster deines Gegners verbannen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

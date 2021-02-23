@@ -1,0 +1,15 @@
+{
+  "id": 11682,
+  "type": "monster",
+  "name": "Gigagants Samouraï Supralourd",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est envoyée au Cimetière, et que vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez regarder les 5 cartes du dessus de votre Deck, puis placez-les au-dessus du Deck dans l'ordre de votre choix. Lorsqu'un monstre de votre adversaire déclare une attaque directe : vous pouvez bannir cette carte depuis votre Cimetière ; dévoilez la carte du dessus de votre Deck, et si c'est un monstre \"Samouraï Supralourd\", ajoutez-le à votre main, et si vous le faites, l'ATK du monstre attaquant devient 0. Sinon, envoyez-la au Cimetière.",
+  "level": 3,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

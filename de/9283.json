@@ -1,0 +1,15 @@
+{
+  "id": 9283,
+  "type": "monster",
+  "name": "Psi-Blocker",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Kartennamen benennen; Karten mit dem benannten Namen und ihre Effekte können bis zum Ende des nächsten Spielzugs deines Gegners nicht verwendet werden.",
+  "level": 4,
+  "atk": 1200,
+  "def": 300,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

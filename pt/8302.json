@@ -1,0 +1,15 @@
+{
+  "id": 8302,
+  "type": "monster",
+  "name": "Senhora Fortuna do Fogo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "O ATK/DEF deste card se tornam seu Nível x 200. Uma vez por turno, durante sua Fase de Apoio: aumente em 1 o Nível deste card (máx. 12). Quando este card for Invocado por Invocação-Especial em Posição de Ataque pelo efeito de um card \"Senhora Fortuna\": escolha 1 monstro com a face para cima que seu oponente controla; destrua o alvo e, se isso acontecer, cause dano ao seu oponente igual ao ATK do monstro destruído no campo.",
+  "level": 2,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

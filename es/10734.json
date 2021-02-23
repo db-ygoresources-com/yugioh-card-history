@@ -1,0 +1,15 @@
+{
+  "id": 10734,
+  "type": "monster",
+  "name": "Málfago Cuchara",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando un monstruo \"Málfago\" de nombre diferente es Invocado a tu lado del Campo de Modo Normal o Especial (excepto durante el Damage Step): puedes seleccionar 1 monstruo de Tipo Demonio de Nivel 2 en tu Cementerio; Invoca ese objetivo de Modo Especial. Sus efectos son negados. Sólo puedes usar el efecto de \"Málfago Cuchara\" una vez por turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

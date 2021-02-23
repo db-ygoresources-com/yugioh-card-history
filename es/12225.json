@@ -1,0 +1,18 @@
+{
+  "id": 12225,
+  "type": "monster",
+  "name": "D/D/D Apocalipsis, Rey del Caos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el turno de tu adversario, si esta carta está en tu mano o Cementerio: puedes seleccionar 2 Cartas Mágicas/de Trampa boca arriba que controles; por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos de Tipo Demonio, además destruye las cartas seleccionadas y, si lo haces, Invoca esta carta de Modo Especial (éste es un Efecto Rápido). Sólo puedes usar este efecto de \"D/D/D Apocalipsis, Rey del Caos\" una vez por turno.",
+  "pendEffect": "Puedes desterrar 2 monstruos \"D/D\" en tu Cementerio; Invoca esta carta de Modo Especial desde tu Zona de Péndulo.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

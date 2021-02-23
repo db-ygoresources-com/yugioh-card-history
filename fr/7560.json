@@ -1,0 +1,15 @@
+{
+  "id": 7560,
+  "type": "monster",
+  "name": "Téthys, Déesse de la Lumière",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque vous piochez un ou plusieurs monstres Elfe (sauf durant la Damage Step) : vous pouvez révéler 1 de ces monstres ; piochez 1 carte. Cette carte doit être face recto sur le Terrain pour activer et résoudre cet effet.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

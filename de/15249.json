@@ -1,0 +1,15 @@
+{
+  "id": 15249,
+  "type": "monster",
+  "name": "Flammedler Ritter Maugis",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange diese Karte eine Ausrüstungskarte ist, kann das ausgerüstete Monster nicht durch Kampf zerstört werden. Du kannst jeden der folgenden Effekte von „Flammedler Ritter Maugis“ nur einmal pro Spielzug verwenden. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 3 deiner anderen FEUER Krieger-Monster und/oder „Edle Waffen“-Karten, die verbannt sind oder sich in deinem Friedhof befinden, ins Deck mischen; ziehe 1 Karte. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Krieger-Monster wählen, das du kontrollierst; rüste das Monster, das du kontrollierst, mit dieser Karte aus.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

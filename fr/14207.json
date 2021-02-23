@@ -1,0 +1,19 @@
+{
+  "id": 14207,
+  "type": "monster",
+  "name": "Seigneur Structure-PSY Lambda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres (Jetons exclus)\nVous pouvez activer les effets des monstres \"Pièce Structure-PSY\" dans votre main même tant que vous contrôlez un ou plusieurs monstres. Si un monstre Psychique face recto que vous contrôlez est banni face recto tant que vous contrôlez ce monstre (sauf durant la Damage Step) : vous pouvez activer cet effet ; durant la End Phase de ce tour, ajoutez 1 carte \"Structure-PSY\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Seigneur Structure-PSY Lambda\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Psychique",
+    "Lien",
+    "Effet"
+  ]
+}

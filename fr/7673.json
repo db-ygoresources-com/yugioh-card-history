@@ -1,0 +1,16 @@
+{
+  "id": 7673,
+  "type": "monster",
+  "name": "Héraut de la Lumière Écarlate",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez envoyer cette carte et 1 autre monstre Elfe depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-le.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Elfe",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

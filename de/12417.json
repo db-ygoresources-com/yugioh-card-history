@@ -1,0 +1,15 @@
+{
+  "id": 12417,
+  "type": "monster",
+  "name": "Robe des Magiers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 Zauber/Falle abwerfen; beschwöre 1 „Dunkler Magier“ als Spezialbeschwörung von deinem Deck. Während des Spielzugs deines Gegners, falls du eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktivierst, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Robe des Magiers“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

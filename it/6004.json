@@ -1,0 +1,15 @@
+{
+  "id": 6004,
+  "type": "monster",
+  "name": "Demoni Gemelli",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante il turno di qualsiasi giocatore, quando il tuo avversario attiva una Carta Magia, Carta Trappola o l'effetto di un mostro che potrebbe farti scartare quando si risolve: puoi mandare questa carta dalla tua mano al Cimitero; annulla l'attivazione e, se lo fai, distruggila. Poi pesca 1 carta.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

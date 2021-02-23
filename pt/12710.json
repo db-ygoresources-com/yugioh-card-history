@@ -1,0 +1,18 @@
+{
+  "id": 12710,
+  "type": "monster",
+  "name": "Ator do Abismo - Calcanhar Malvado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro com a face para cima que seu oponente controla; até o final deste turno, ele perde 1000 de ATK para cada monstro \"Ator do Abismo\" que você controla. Quando este card destruir um monstro do oponente em batalha: você pode escolher 1 Card de Magia \"Script do Abismo\" no seu Cemitério; Baixe esse card.",
+  "pendEffect": "Uma vez por turno: você pode oferecer como Tributo 1 monstro \"Ator do Abismo\" e, depois, escolher 1 monstro com a face para cima que seu oponente controla; até o final deste turno, ele perde ATK igual ao ATK original do monstro oferecido como Tributo (mesmo que este card deixe o campo).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

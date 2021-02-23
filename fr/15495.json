@@ -1,0 +1,15 @@
+{
+  "id": 15495,
+  "type": "monster",
+  "name": "Conjurateur Enfernité",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que vous n'avez aucune carte dans votre main, les monstres contrôlés par votre adversaire perdent 800 ATK. Tant que vous n'avez aucune carte dans votre main et que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Conjurateur Enfernité\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

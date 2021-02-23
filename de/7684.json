@@ -1,0 +1,16 @@
+{
+  "id": 7684,
+  "type": "monster",
+  "name": "Empfängerkrieger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Die Antenne des Kriegers kann auf jede Energiewelle abgestimmt werden. Er kann Übertragungen über Kilometer hinweg abhören, leidet aber immer unter schlechtem Empfang.",
+  "level": 3,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Normal"
+  ]
+}

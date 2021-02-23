@@ -1,0 +1,18 @@
+{
+  "id": 14440,
+  "type": "monster",
+  "name": "Reflejo de Endimión",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Sólo puedes Invocar de Modo Especial uno o más \"Reflejo de Endimión\" una vez por turno. Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 carta que controle tu adversario, y 1 carta que controles con un Contador Mágico, excepto esta carta; devuelve a la mano esa carta del adversario y tu carta, y después pon en esta carta la misma cantidad de Contadores Mágicos que tenía tu carta devuelta. Cuando esta carta con un Contador Mágico es destruida en batalla: puedes añadir a tu mano 1 carta \"Endimión\" en tu Deck.",
+  "pendEffect": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Puedes retirar 3 Contadores Mágicos de esta carta; Invoca de Modo Especial tanto esta carta de tu Zona de Péndulo como 1 monstruo en tu mano al que le puedas poner un Contador Mágico y, si lo haces, pon 1 Contador Mágico en cada uno.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 1850,
+  "def": 2700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

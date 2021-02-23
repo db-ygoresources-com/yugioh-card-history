@@ -1,0 +1,16 @@
+{
+  "id": 12581,
+  "type": "monster",
+  "name": "Imperion Magnum le Bot de Combat Supraconducteur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Valkyrion, le Guerrier Magnétique\" + \"Berserkion, le Guerrier Magnétique Électrique\"\nUniquement Invocable par Fusion avec les Matériels de Fusion ci-dessus et non Invocable Spécialement autrement. Une fois par tour, durant le tour de chaque joueur, lorsque votre adversaire active une Carte Magie/Piège ou un effet de monstre : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte. Si cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 1 \"Valkyrion, le Guerrier Magnétique\" ainsi qu'1 \"Berserkion, le Guerrier Magnétique Électrique\" depuis votre main et/ou Deck, en ignorant leurs conditions d'Invocation.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Rocher",
+    "Fusion",
+    "Effet"
+  ]
+}

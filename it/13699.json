@@ -1,0 +1,19 @@
+{
+  "id": 13699,
+  "type": "monster",
+  "name": "Pentestcervo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 Mostri con Effetto\nSe un tuo mostro linkato attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

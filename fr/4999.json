@@ -1,0 +1,15 @@
+{
+  "id": 4999,
+  "type": "monster",
+  "name": "Slifer, le Dragon Céleste",
+  "englishAttribute": "divine",
+  "localizedAttribute": "DIVIN",
+  "effectText": "Nécessite 3 Sacrifices pour son Invocation Normale (non Posable Normalement). L'Invocation Normale de cette carte ne peut pas être annulée. Lorsqu'elle est Invoquée Normalement, les cartes et les effets ne peuvent pas être activés. Une fois par tour, durant la End Phase, si cette carte a été Invoquée Spécialement : envoyez-la au Cimetière. Gagne 1000 ATK/DEF pour chaque carte dans votre main. Si un ou plusieurs monstres sont Invoqués Normalement ou Spécialement sur le Terrain de votre adversaire en Position d'Attaque : ces monstres perdent 2000 ATK, puis si leur ATK a été réduite à 0 en conséquence, détruisez-les.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Bête Divine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8903,
+  "type": "monster",
+  "name": "Esprit de la Forêt Laval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsque cette carte est envoyée depuis le Terrain au Cimetière : jusqu'à la End Phase, tous les monstres \"Laval\" face recto que vous contrôlez actuellement gagnent 200 ATK pour chaque monstre \"Laval\" dans votre Cimetière.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

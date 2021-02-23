@@ -1,0 +1,15 @@
+{
+  "id": 6417,
+  "type": "monster",
+  "name": "사이버 데몬",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "자신의 드로우 페이즈 시작 시에 자신의 패가 0장인 경우, 일반 드로우 외에도 1장 더 드로우한다. 자신의 엔드 페이즈시에 자신의 패가 1장 이상 존재하고 있을 경우, 이 카드를 파괴한다.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "악마족",
+    "효과"
+  ]
+}

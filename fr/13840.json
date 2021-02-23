@@ -1,0 +1,19 @@
+{
+  "id": 13840,
+  "type": "monster",
+  "name": "Magicien de l'Espoir",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 4\nSi vous pouvez effectuer une Invocation Pendule de Niveau 4, vous pouvez Invoquer par Pendulation cette carte face recto dans votre Extra Deck. Vous pouvez détacher 1 Matériel de cette carte ; Invoquez Spécialement 1 Monstre Pendule de max. Niveau 7 depuis votre main en Position de Défense, mais annulez ses effets, puis vous pouvez placer cette carte face recto dans votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Magicien de l'Espoir\" qu'une fois par tour. Si cette carte est Invoquée par Pendulation : vous pouvez cibler 1 Monstre Pendule dans votre Cimetière ; attachez-lui cette carte comme Matériel.",
+  "pendEffect": "Une fois par tour, lorsqu'un monstre déclare une attaque : vous pouvez annuler l'attaque, puis détruisez cette carte.",
+  "pendScale": 8,
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Xyz",
+    "Pendule",
+    "Effet"
+  ]
+}

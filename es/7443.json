@@ -1,0 +1,17 @@
+{
+  "id": 7443,
+  "type": "monster",
+  "name": "Neos Arco Iris",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "notes": "Nombre de Carta actualizado de \"Neos Arco Iris\" en 00-01-1900.",
+  "effectText": "\"HÉROE Elemental Neos\" + 1 monstruo \"Cristal Definitivo/a\"\nDebe ser Invocado por Fusión con los Monstruos Material de Fusión indicados y no puede ser Invocado de Modo Especial de ninguna otra forma. Una vez por turno: puedes activar 1 de estos efectos.\n●Manda al Cementerio 1 monstruo que controles; baraja al Deck todos los monstruos que controle tu adversario.\n●Manda al Cementerio 1 Carta Mágica/de Trampa que controles; baraja al Deck todas las Cartas Mágicas/de Trampa que controle tu adversario.\n●Manda al Cementerio 1 carta de la parte superior de tu Deck; baraja al Deck todas las cartas en el Cementerio de tu adversario.",
+  "level": 10,
+  "atk": 4500,
+  "def": 3000,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 13714,
+  "type": "monster",
+  "name": "Aufsteigerschnuppen-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Monster, dessen Stufe niedriger ist als die dieser Karte auf dem Spielfeld, von deinem Deck auf den Friedhof legen und falls du dies tust, verringere die Stufe dieser Karte um die des Monsters, aber für den Rest dieses Spielzugs kannst du keine Effekte von Monstern mit demselben Namen aktivieren, den das gelegte Monster im Friedhof hatte. Du kannst diesen Effekt von „Aufsteigerschnuppen-Drache“ nur einmal pro Spielzug verwenden. Einmal pro Kette, während der Main Phase deines Gegners, kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, führe eine Synchrobeschwörung durch und verwende dafür diese Karte, die du kontrollierst.",
+  "level": 7,
+  "atk": 2100,
+  "def": 1700,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

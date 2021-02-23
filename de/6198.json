@@ -1,0 +1,15 @@
+{
+  "id": 6198,
+  "type": "monster",
+  "name": "Fuchsfeuer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während der End Phase, falls diese Karte in diesem Spielzug durch Kampf zerstört und auf den Friedhof gelegt wurde und am Beginn des Damage Steps offen lag: Beschwöre diese Karte als Spezialbeschwörung vom Friedhof. Diese offene Karte kann nicht als Tribut für eine Tributbeschwörung angeboten werden.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

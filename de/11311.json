@@ -1,0 +1,16 @@
+{
+  "id": 11311,
+  "type": "monster",
+  "name": "Maskierter HELD Koga",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Muss mit „Maskenwechsel“ als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Diese Karte erhält 500 ATK für jedes Monster, das dein Gegner kontrolliert. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 „HELD“-Monster von deinem Friedhof verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; das gewählte Ziel verliert bis zum Ende dieses Spielzugs ATK in Höhe der ATK des Monsters, das verbannt wurde, um diesen Effekt zu aktivieren.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

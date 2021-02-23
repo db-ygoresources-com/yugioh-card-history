@@ -1,0 +1,15 @@
+{
+  "id": 13067,
+  "type": "monster",
+  "name": "Dragón del Castigo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) poseyendo 4 o más monstruos desterrados \"Luminoso/a\" con nombres diferentes. Una vez por turno (Efecto Rápido): puedes pagar 1000 LP; baraja a los Decks todas las cartas en los Cementerios y todas las cartas desterradas boca arriba, excepto los monstruos \"Luminoso/a\". Una vez por turno, si es activado el efecto de tu monstruo \"Luminoso/a\": manda al Cementerio las 4 cartas de la parte superior de tu Deck.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

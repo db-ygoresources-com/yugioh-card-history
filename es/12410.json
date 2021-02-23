@@ -1,0 +1,18 @@
+{
+  "id": 12410,
+  "type": "monster",
+  "name": "D/D Nikola el Sabio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta en la Zona de Péndulo es destruida: puedes seleccionar 1 monstruo \"D/D/D\" que controles; devuélvelo a la mano y, si lo haces, pon en tus Zonas del Péndulo hasta 2 Monstruos de Péndulo \"D/D\" boca arriba en tu Deck Extra, pero este turno no pueden activar sus Efectos de Péndulo. Sólo puedes usar este efecto de \"D/D Nikola el Sabio\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"D/D\". Este efecto no puede ser negado. Una vez por turno: puedes descartar 1 monstruo \"D/D/D\", y después seleccionar 1 monstruo \"D/D\" de Nivel 6 o menor que controles; hasta el final de este turno, éste gana 2000 ATK y DEF (aún si esta carta deja el Campo).",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

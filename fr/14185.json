@@ -1,0 +1,16 @@
+{
+  "id": 14185,
+  "type": "monster",
+  "name": "Danseuse aux Épées Clair de Lune",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres \"Clair de Lune\"\nUniquement Invocable par Fusion. Gagne 200 ATK pour chaque monstre Bête-Guerrier qui est banni ou dans les Cimetières. Votre adversaire ne peut pas cibler cette carte avec des effets de carte. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Fusion que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 3000 ATK. Vous ne pouvez utiliser cet effet de \"Danseuse aux Épées Clair de Lune\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Bête-Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

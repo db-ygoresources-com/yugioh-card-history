@@ -1,0 +1,15 @@
+{
+  "id": 13315,
+  "type": "monster",
+  "name": "Caspar, Magie de Mousquetaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant le tour de chaque joueur, vous pouvez activer des Cartes Magie/Piège \"Magie de Mousquet\" depuis votre main. Si une Carte Magie/Piège est activée dans la colonne de cette carte (sauf durant la Damage Step) : vous pouvez ajouter 1 carte \"Magie de Mousquet\" depuis votre Deck à votre main, mais pas une carte du même nom que la carte activée. Vous ne pouvez utiliser cet effet de \"Caspar, Magie de Mousquetaire\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

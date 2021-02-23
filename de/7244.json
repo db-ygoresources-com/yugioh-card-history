@@ -1,0 +1,15 @@
+{
+  "id": 7244,
+  "type": "monster",
+  "name": "Fellgrant-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Dieses Monster kann nicht als Spezialbeschwörung beschworen werden, außer vom Friedhof, und nur, falls es vom Spielfeld dorthin gelegt wurde. Falls diese Karte als Spezialbeschwörung beschworen wird: Wähle 1 Monster in deinem Friedhof; diese Karte erhält ATK in Höhe der Stufe des Monsters x 200.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

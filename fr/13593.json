@@ -1,0 +1,18 @@
+{
+  "id": 13593,
+  "type": "monster",
+  "name": "Floraison Farstar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre \"Farstar\" de max. Niveau 2\nSi cette carte est Invoquée par Lien : vous pouvez faire piocher 1 carte à votre adversaire. Si un monstre \"Farstar\" face recto pointé par cette carte est détruit au combat ou par un effet de carte : vous pouvez infliger 200 points de dommages à votre adversaire pour chaque carte dans sa main. Vous ne pouvez utiliser cet effet de \"Floraison Farstar\" qu'une fois par tour.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 100,
+  "properties": [
+    "Elfe",
+    "Lien",
+    "Effet"
+  ]
+}

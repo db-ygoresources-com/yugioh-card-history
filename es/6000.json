@@ -1,0 +1,15 @@
+{
+  "id": 6000,
+  "type": "monster",
+  "name": "Marshmallon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser destruida en batalla. Después del cálculo de daño, si esta carta fue atacada y estaba boca abajo al comienzo del Damage Step: el jugador atacante recibe 1000 puntos de daño.",
+  "level": 3,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

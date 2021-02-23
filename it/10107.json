@@ -1,0 +1,15 @@
+{
+  "id": 10107,
+  "type": "monster",
+  "name": "Scaratron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi mandare 1 Magia/Trappola scoperta che controlli al Cimitero, poi scegliere come bersaglio 1 mostro Insetto di Livello 4 o inferiore nel tuo Cimitero; Evoca Specialmente quel mostro Insetto in Posizione di Difesa. Puoi utilizzare questo effetto di \"Scaratron\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

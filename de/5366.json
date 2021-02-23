@@ -1,0 +1,15 @@
+{
+  "id": 5366,
+  "type": "monster",
+  "name": "Agido",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, wirf einen sechsseitigen Würfel einmal. Danach kannst du 1 Monster vom Typ Fee, dessen Stufe dem Würfelergebnis entspricht, als Spezialbeschwörung aus deinem Friedhof beschwören. Wenn das Würfelergebnis 6 ist, kannst du 1 Monster der Stufe 6 oder höher als Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

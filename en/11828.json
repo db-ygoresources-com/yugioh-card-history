@@ -1,0 +1,18 @@
+{
+  "id": 11828,
+  "type": "monster",
+  "name": "Deskbot 005",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it. This card gains 500 ATK for each face-up \"Deskbot\" monster in your Extra Deck. If this card in the Pendulum Zone is destroyed: You can target 1 \"Deskbot\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Deskbot 005\" once per turn.",
+  "pendEffect": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.",
+  "pendScale": 10,
+  "level": 5,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

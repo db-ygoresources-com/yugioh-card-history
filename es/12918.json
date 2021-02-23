@@ -1,0 +1,18 @@
+{
+  "id": 12918,
+  "type": "monster",
+  "name": "Artistamigo U Go Gólem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, durante tu Main Phase, si esta carta fue Invocada por Péndulo este turno: puedes Invocar por Fusión 1 Monstruo de Fusión en tu Deck Extra, usando esta carta que controlas y monstruos Dragón que controles como Materiales de Fusión.",
+  "pendEffect": "Una vez por turno, si un monstruo es Invocado por Fusión a tu Campo (excepto durante el Damage Step): puedes añadir a tu mano 1 Monstruo de Péndulo \"Artistamigo\", \"Ojos Anómalos\" o \"Mago/a\" en tu Cementerio o boca arriba en tu Deck Extra.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

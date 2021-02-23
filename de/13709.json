@@ -1,0 +1,15 @@
+{
+  "id": 13709,
+  "type": "monster",
+  "name": "F.A. Dunkler Dragster",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du ein „F.A.“-Monster der Stufe 7 oder höher auf dem Spielfeld hast, aber keinen „F.A. Dunkler Dragster“ in deiner Monsterzone. Diese Karte erhält ATK in Höhe ihrer Stufe x 300. Jedes Mal, wenn eine „F.A.“-Zauber-/Fallenkarte oder ein „F.A.“-Zauber-/Falleneffekt aktiviert wird: Du kannst die Stufe dieser Karte um 1 erhöhen. Einmal pro Spielzug: Du kannst 1 Karte auf dem Spielfeld wählen; reduziere die Stufe dieser Karte um 3 und falls du dies tust, zerstöre das gewählte Ziel.",
+  "level": 7,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

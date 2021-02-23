@@ -1,0 +1,18 @@
+{
+  "id": 12148,
+  "type": "monster",
+  "name": "Robô-secretário 008",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Este card ganha 500 de ATK para cada card \"Robô-secretário\" no seu Cemitério. Seu oponente não pode escolher cards \"Robô-secretário\" com a face para cima como alvo de efeitos de card, exceto este. Este card pode realizar até 2 ataques contra monstros durante cada Fase de Batalha.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Robô-secretário\". Este efeito não pode ser negado.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

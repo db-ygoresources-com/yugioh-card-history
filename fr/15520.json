@@ -1,0 +1,16 @@
+{
+  "id": 15520,
+  "type": "monster",
+  "name": "Dragon Xyz de la Rébellion de l'Arc",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres de Niveau 5\nCette carte Invoquée par Xyz ne peut pas être détruite par des effets de carte. Vous pouvez détacher 1 Matériel de cette carte ; cette carte gagne une ATK égale à la somme des ATK d'origine de tous les autres monstres sur le Terrain, puis, si cette carte a un Monstre Xyz TÉNÈBRES comme Matériel, annulez les effets de tous les autres monstres face recto sur le Terrain. Après la résolution de cet effet, vous ne pouvez pas déclarer d'attaques avec les autres monstres le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Dragon Xyz de la Rébellion de l'Arc\" qu'une fois par tour.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

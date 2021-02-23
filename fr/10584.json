@@ -1,0 +1,15 @@
+{
+  "id": 10584,
+  "type": "monster",
+  "name": "Chevalier Vif",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant le tour de chaque joueur (sauf durant la Damage Step), lorsque votre adversaire cible exactement 1 monstre LUMIÈRE de Type Bête-Guerrier que vous contrôlez (et aucune autre carte) avec une attaque ou avec un effet de carte : jusqu'à votre prochaine Standby Phase, bannissez le monstre que vous contrôlez, et si vous le faites, Invoquez Spécialement cette carte depuis votre main.",
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

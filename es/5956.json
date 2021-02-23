@@ -1,0 +1,15 @@
+{
+  "id": 5956,
+  "type": "monster",
+  "name": "Torre de Hueso Absorbe-almas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas otro monstruo de Tipo Zombi, tu adversario no puede seleccionar esta carta para ataques. Cada vez que uno o más monstruos de Tipo Zombi son Invocados de Modo Especial: manda al Cementerio las 2 cartas de la parte superior del Deck de tu adversario.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

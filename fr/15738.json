@@ -1,0 +1,16 @@
+{
+  "id": 15738,
+  "type": "monster",
+  "name": "Bête-Arbre Sacrée, Hyperyton",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 9\nDurant votre tour, lorsque vous activez une carte ou un effet (Effet Rapide) : vous pouvez cibler 1 carte du même type (Monstre, Magie ou Piège) dans votre Cimetière ; attachez-le à cette carte comme Matériel. Durant le tour de votre adversaire, lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez détacher 1 Matériel du même type (Monstre, Magie ou Piège) de cette carte, et si vous le faites, annulez l'activation, et si vous faites ça, détruisez la carte. Vous ne pouvez utiliser chaque effet de \"Bête-Arbre Sacrée, Hyperyton\" qu'une fois par tour.",
+  "rank": 9,
+  "atk": 2600,
+  "def": 1900,
+  "properties": [
+    "Plante",
+    "Xyz",
+    "Effet"
+  ]
+}

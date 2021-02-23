@@ -1,0 +1,15 @@
+{
+  "id": 12671,
+  "type": "monster",
+  "name": "Serpiente Divina Geh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial por su propio efecto. Si uno o más monstruos que controlas son destruidos por el ataque o efecto de carta del adversario: puedes pagar la mitad de tus LP; Invoca esta carta de Modo Especial desde tu mano. No puede ser seleccionada por efectos de cartas. Si esta carta ataca a un monstruo del adversario, sólo durante el Damage Step, niega los efectos de ese monstruo mientras esté boca arriba en el Campo (pero sus efectos aún pueden activarse), y además su ATK se convierte en la mitad de su ATK original. Una vez por batalla, si esta carta batalla, durante el cálculo de daño (Efecto Rápido): puedes hacer que el ATK de esta carta se convierta igual al ATK original más alto en el Campo (si hay empate, eliges tú).",
+  "level": 12,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

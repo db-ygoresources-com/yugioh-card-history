@@ -1,0 +1,18 @@
+{
+  "id": 13395,
+  "type": "monster",
+  "name": "Bestia Mítica Basilisco",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva. Puedes retirar 3 Contadores Mágicos en tu Campo; devuelve a la mano 1 carta \"Bestia Mítica\" en tu Zona del Péndulo, o boca arriba en tu Deck Extra. Sólo puedes usar este efecto de \"Bestia Mítica Basilisco\" una vez por turno.",
+  "pendEffect": "Si no tienes cartas en tu otra Zona del Péndulo: puedes destruir esta carta y, si lo haces, baraja a tu Deck Principal 1 Monstruo de Péndulo Lanzador de Conjuros boca arriba en tu Deck Extra, excepto \"Bestia Mítica Basilisco\", y después roba 1 carta. Sólo puedes usar este efecto de \"Bestia Mítica Basilisco\" una vez por turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

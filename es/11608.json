@@ -1,0 +1,18 @@
+{
+  "id": 11608,
+  "type": "monster",
+  "name": "Guerrero Sinfónico Guitaarra",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo \"Guerrero Sinfónico\" en tu Cementerio; Invócalo de Modo Especial.",
+  "pendEffect": "Puedes descartar 1 carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Guerrero Sinfónico\", excepto \"Guerrero Sinfónico Guitaarra\". Sólo puedes usar este efecto de \"Guerrero Sinfónico Guitaarra\" una vez por turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1500,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

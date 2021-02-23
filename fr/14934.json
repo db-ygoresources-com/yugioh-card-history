@@ -1,0 +1,19 @@
+{
+  "id": 14934,
+  "type": "monster",
+  "name": "Héraut des Lumières du Mirage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres du même Type et Attribut (Jetons exclus)\nLorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez envoyer 1 monstre Elfe depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la. Si cette carte en votre possession est envoyée à votre Cimetière par une carte de l'adversaire : vous pouvez ajouter max. 2 Monstres Rituels et/ou Magies Rituelles de noms différents depuis votre Cimetière à votre main. Vous ne pouvez utiliser chaque effet de \"Héraut des Lumières du Mirage\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 600,
+  "properties": [
+    "Elfe",
+    "Lien",
+    "Effet"
+  ]
+}

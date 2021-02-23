@@ -1,0 +1,16 @@
+{
+  "id": 5782,
+  "type": "monster",
+  "name": "Zorc - Maître des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Contrat avec le Maître des Ténèbres\". Une fois par tour : vous pouvez lancer un dé à six faces, puis détruisez tous les monstres contrôlés par votre adversaire si le résultat est 1 ou 2, détruisez 1 monstre contrôlé par votre adversaire si le résultat est 3, 4 ou 5, ou détruisez tous les monstres que vous contrôlez si le résultat est 6.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Démon",
+    "Rituel",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8947,
+  "type": "monster",
+  "name": "Griffon Delta",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 autre monstre face recto que vous contrôlez et augmenter son Niveau de 1.",
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Dragon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

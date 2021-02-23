@@ -1,0 +1,16 @@
+{
+  "id": 14849,
+  "type": "monster",
+  "name": "Aratron Megalítico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Megalítico/a\". Durante la Main Phase (Efecto Rápido): puedes descartar esta carta; Invoca por Ritual, desde tu mano, 1 Monstruo de Ritual \"Megalítico/a\", Sacrificando monstruos en tu mano o Campo cuyos Niveles totales sean iguales o superen su Nivel. Cuando tu adversario active una carta o efecto que seleccione una carta que controlas (Efecto Rápido): puedes poner 1 Monstruo de Ritual de tu Cementerio en la parte inferior del Deck y, si lo haces, niega esa activación y, si haces eso, destrúyela. Sólo puedes usar cada efecto de \"Aratron Megalítico\" una vez por turno.",
+  "level": 8,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Roca",
+    "Ritual",
+    "Efecto"
+  ]
+}

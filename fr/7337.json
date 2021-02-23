@@ -1,0 +1,15 @@
+{
+  "id": 7337,
+  "type": "monster",
+  "name": "Mormolithe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Sacrifier 1 monstre TERRE face recto pour détruire tous les monstres face recto dont la DEF est inférieure ou égale à l'ATK de la carte Sacrifiée.",
+  "level": 4,
+  "atk": 1000,
+  "def": 900,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

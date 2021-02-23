@@ -1,0 +1,15 @@
+{
+  "id": 12672,
+  "type": "monster",
+  "name": "Schweigsamer Paladin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 „Schweigsamer Schwertkämpfer LV3“ oder „Schweigsamer Magier LV4“ von deinem Deck hinzufügen. Während des Spielzugs eines beliebigen Spielers, wenn eine Zauberkarte aktiviert wird, die genau 1 Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt: Du kannst die Aktivierung annullieren. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt. Falls diese Karte durch Kampf zerstört wird oder falls diese Karte, die ihr Besitzer kontrolliert, durch einen Karteneffekt deines Gegners zerstört wird: Du kannst 1 LICHT „LV“-Monster in deinem Friedhof wählen; füge es deiner Hand hinzu.",
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

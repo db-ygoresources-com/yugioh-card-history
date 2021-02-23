@@ -1,0 +1,16 @@
+{
+  "id": 12145,
+  "type": "monster",
+  "name": "Al-Lumi'raj",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Wyrm",
+    "Tuner",
+    "Effect"
+  ]
+}

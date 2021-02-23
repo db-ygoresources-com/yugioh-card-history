@@ -1,0 +1,15 @@
+{
+  "id": 15692,
+  "type": "monster",
+  "name": "Armed Dragon Thunder LV10",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "If this card was Special Summoned by the effect of an \"Armed Dragon\" monster, it gains the following effects based on its ATK.\n●1+: Its name becomes \"Armed Dragon LV10\".\n●10+: Control of it cannot switch.\n●100+: Cannot be destroyed by battle.\n●1000+: Once per opponent's turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 other card on the field; destroy it, and if you do, this card gains 1000 ATK.\n●10000+: Once per turn: You can destroy all other cards on the field.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11334,
+  "type": "monster",
+  "name": "Artistamigo Trampolince",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 carta en la Zona de Péndulo de cualquier jugador; devuélvela a la mano.",
+  "pendEffect": "Cuando Invocas uno o más monstruos por Péndulo: puedes seleccionar 1 carta en la Zona de Péndulo de cualquier jugador; devuélvela a la mano. Sólo puedes usar este efecto de \"Artistamigo Trampolince\" una vez por turno.",
+  "pendScale": 4,
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

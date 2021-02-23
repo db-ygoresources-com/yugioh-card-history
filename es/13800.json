@@ -1,0 +1,15 @@
+{
+  "id": 13800,
+  "type": "monster",
+  "name": "Orgoth el Despiadado",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, durante tu Main Phase: puedes lanzar un dado de seis caras 3 veces y esta carta gana ATK/DEF iguales al total x 100 (hasta el final del turno de tu adversario), y después, si 2 de los resultados fueron iguales aplica el efecto apropiado. Si los 3 fueron iguales, aplica todos estos efectos.\n●1 ó 2: Esta carta no puede ser destruida en batalla o por efectos de cartas, hasta el final del turno de tu adversario.\n●3 ó 4: Roba 2 cartas.\n●5 ó 6: Esta carta puede atacar directamente este turno.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2450,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15572,
+  "type": "monster",
+  "name": "Arsenal Myutant",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Non Invocable Spécialement, sauf avec l'effet d'une carte \"Myutant\". Votre adversaire ne peut pas cibler cette carte avec des effets de Piège. Vous ne pouvez utiliser chacun des effets suivants de \"Arsenal Myutant\" qu'une fois par tour. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez bannir 1 carte depuis votre main ou Terrain, puis ciblez 1 monstre sur le Terrain ; bannissez-le. Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez cibler 1 de vos Magies \"Myutant\" bannies ; ajoutez-la à votre main.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

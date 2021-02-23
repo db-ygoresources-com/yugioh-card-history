@@ -1,0 +1,16 @@
+{
+  "id": 12784,
+  "type": "monster",
+  "name": "Néo Dragon Cipher aux Yeux Galactiques",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "3 monstres de Niveau 9\nSi cette carte a une carte \"Cipher\" comme Matériel Xyz, elle gagne cet effet.\n●Une fois par tour : vous pouvez détacher max. 3 Matériels Xyz de cette carte ; les monstres que vous contrôlez (cette carte exclue) ne peuvent pas attaquer directement votre adversaire le reste de ce tour, et aussi pour chaque Matériel détaché, prenez le contrôle d'1 monstre face recto de votre adversaire jusqu'à la End Phase, mais tant que cet effet est appliqué, ils ont leurs effets annulés, leur ATK devient 4500, et aussi, leur nom devient \"Néo Dragon Cipher aux Yeux Galactiques\".",
+  "rank": 9,
+  "atk": 4500,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

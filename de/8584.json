@@ -1,0 +1,15 @@
+{
+  "id": 8584,
+  "type": "monster",
+  "name": "Affenkämpfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte ein Monster deines Gegners durch Kampf zerstört: Diese Karte erhält 300 ATK. Falls diese Karte während deines Spielzugs nicht angreift, werden die durch diesen Effekt erhaltenen ATK während der End Phase des Spielzugs auf 0 zurückgesetzt.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

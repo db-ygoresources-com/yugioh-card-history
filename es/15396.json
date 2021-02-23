@@ -1,0 +1,19 @@
+{
+  "id": 15396,
+  "type": "monster",
+  "name": "Electrodomésticor Pulpenchufe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos \"Electrodomésticor\"\nEsta carta enlazada no puede ser seleccionada por los efectos de cartas de tu adversario, o los ataques de sus monstruos. Durante el cálculo de daño, si un Monstruo de Enlace \"Electrodomésticor\" que tú controlas co-enlazado a esta carta batalla con un monstruo del adversario: tu monstruo batallante gana ATK igual a la cantidad de monstruos co-enlazados a esta carta x 1000, sólo durante ese cálculo de daño. Una vez por turno, si uno o más Monstruos de Enlace \"Electrodomésticor\" que tú controlas y que no estén co-enlazados a esta carta son destruidos en batalla o por efecto de una carta: puedes robar 1 carta.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "2"
+  ],
+  "atk": 0,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

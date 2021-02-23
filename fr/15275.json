@@ -1,0 +1,17 @@
+{
+  "id": 15275,
+  "type": "monster",
+  "name": "Capitaine Roland, Chevalier Noble Inferno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez activer cet effet ; durant la End Phase de ce tour, envoyez 1 Magie d'Équipement depuis votre Deck au Cimetière, puis ajoutez 1 monstre Guerrier depuis votre Deck à votre main. Durant la Main Phase, si cette carte est dans votre Cimetière (Effet Rapide) : vous pouvez cibler 1 monstre Guerrier que vous contrôlez ; équipez cette carte au monstre que vous contrôlez comme une Magie d'Équipement qui lui donne 500 ATK. Vous ne pouvez utiliser chaque effet de \"Capitaine Roland, Chevalier Noble Inferno\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 500,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10830,
+  "type": "monster",
+  "name": "Gólem Gogogo - Forma Dorada",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando 1 monstruo \"Gogogo\", y no puede ser Invocado de Modo Especial de otra forma. El ATK de esta carta se convierte en el doble del ATK original del monstruo Sacrificado. Cualquier daño de batalla que tu adversario reciba de ataques que involucren a esta carta se divide a la mitad. Una vez por turno, durante el turno de cualquier jugador, si es activado un efecto de monstruo en el lado del Campo de tu adversario: esta carta pierde exactamente 1500 ATK y, si lo hace, niega ese efecto.",
+  "level": 4,
+  "atk": -1,
+  "def": 1500,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

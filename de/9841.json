@@ -1,0 +1,15 @@
+{
+  "id": 9841,
+  "type": "monster",
+  "name": "Meereslanzenträger",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst eine beliebige Anzahl deiner verbannten Monster vom Typ Fisch, Seeschlange oder Aqua wählen; rüste diese Karte damit aus. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt. Falls diese offene Karte auf dem Spielfeld zerstört würde, kannst du stattdessen 1 der Karten zerstören. Diese Karte erhält 1000 ATK, solange sie durch diesen Effekt mit Monstern ausgerüstet ist.",
+  "level": 5,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

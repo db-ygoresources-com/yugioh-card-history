@@ -1,0 +1,15 @@
+{
+  "id": 9112,
+  "type": "monster",
+  "name": "Cauchemar du Crâne Serviteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Crâne Serviteur\" tant qu'elle est dans le Cimetière. Vous pouvez défausser cette carte, puis activez 1 des effets suivants.\n●Ciblez 1 de vos \"Crâne Serviteur\" ou \"Cauchemar du Crâne Serviteur\" bannis ; renvoyez-le au Cimetière.\n●Ciblez 1 de vos \"Veuve du Crâne Serviteur\" ou \"Roi des Crânes Serviteurs\" bannis ; Invoquez-le Spécialement.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13372,
+  "type": "monster",
+  "name": "Gardna Bloqueo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando un monstruo del adversario declara un ataque directo: puedes Invocar esta carta de Modo Especial desde tu mano en Posición de Ataque y, si lo haces, este turno ésta no puede ser destruida en batalla. Cuando es activado el efecto de un monstruo que controla tu adversario que selecciona 1 monstruo Ciberso que controlas (y a ninguna otra carta) (Efecto Rápido): hasta el final de este turno, puedes negar los efectos tanto de ese monstruo Ciberso que controlas así como los de ese monstruo del adversario.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10686,
+  "type": "monster",
+  "name": "Commandant Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous contrôlez une carte \"Archdémon\", vous pouvez Invoquer Spécialement cette carte (depuis votre main), mais elle ne peut pas attaquer ce tour. Vous ne pouvez Invoquer Spécialement \"Commandant Archdémon\" qu'une fois par tour de cette façon. Lorsqu'elle est Invoquée Spécialement de cette façon : ciblez 1 monstre \"Archdémon\" que vous contrôlez ; détruisez la cible. Lorsque cette carte est Invoquée par Sacrifice : vous pouvez cibler 1 monstre \"Archdémon\" de Niveau 6 dans votre Cimetière ; Invoquez Spécialement la cible en Position de Défense face recto.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

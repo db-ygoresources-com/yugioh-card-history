@@ -1,0 +1,18 @@
+{
+  "id": 12881,
+  "type": "monster",
+  "name": "Artistamico Ballata",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se un tuo mostro \"Artistamico\" ha attaccato, dopo il calcolo dei danni: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; quel bersaglio perde ATK pari all'ATK di quel mostro \"Artistamico\".",
+  "pendEffect": "Una volta per turno, all'inizio del Damage Step, quando un tuo mostro \"Artistamico\" combatte con un mostro scoperto dell'avversario: puoi far perdere 600 ATK a quel mostro dell'avversario (anche se questa carta lascia il Terreno).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Pianta",
+    "Pendulum",
+    "Effetto"
+  ]
+}

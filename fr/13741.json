@@ -1,0 +1,15 @@
+{
+  "id": 13741,
+  "type": "monster",
+  "name": "Centregrenouille",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Non utilisable comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien. Si cette carte est Invoquée Normalement ou par Flip : changez-la en Position de Défense. Une fois par tour : vous pouvez cibler 1 monstre dans la Zone Monstre Main de votre adversaire ; donnez le contrôle de cette carte en Position de Défense à votre adversaire en la déplaçant dans la zone de votre adversaire adjacente à la cible, puis si votre adversaire contrôle exactement 2 \"Centregrenouille\" dans la Zone Monstre Main, gagnez le contrôle de tous les monstres entre ces 2 cartes.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

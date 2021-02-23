@@ -1,0 +1,15 @@
+{
+  "id": 15696,
+  "type": "monster",
+  "name": "Dragon Armé LV10 Blanc",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par son propre effet. Vous pouvez bannir des monstres \"Dragon Armé\" depuis votre Terrain et/ou Cimetière dont le Niveau total est égal à 10 ; Invoquez Spécialement cette carte depuis votre main, puis vous pouvez ajouter 1 \"Voile Blanc\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Dragon Armé LV10 Blanc\" qu'une fois par tour. Vous ne recevez aucun dommage d'effet. Au début de la Damage Step, si cette carte attaque : vous pouvez détruire 1 carte sur le Terrain.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

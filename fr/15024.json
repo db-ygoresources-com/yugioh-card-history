@@ -1,0 +1,15 @@
+{
+  "id": 15024,
+  "type": "monster",
+  "name": "Goldilocks l'Architecte de Combat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement dans une zone qui n'est pas la Zone Monstre Main du centre, détruisez cette carte. Cette carte gagne 3000 ATK tant qu'elle est dans la Zone Monstre Main centrale. Une fois par tour : vous pouvez choisir 1 de vos Zones Monstre Main inutilisées ; déplacez cette carte depuis votre Zone Monstre Main dans cette zone, puis détruisez toutes les autres cartes dans la colonne de la zone où cette carte était, la colonne de la zone où cette carte a été déplacée, et toutes les colonnes entre elles.",
+  "level": 10,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

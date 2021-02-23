@@ -1,0 +1,15 @@
+{
+  "id": 5775,
+  "type": "monster",
+  "name": "Archidemonio Torre Des",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "El controlador de esta carta paga 500 Life Points durante cada una de sus Standby Phases. Cuando esta carta es designada como objetivo del efecto de una carta controlada por tu adversario, al resolver el efecto, lanza un dado de seis caras. Si el resultado es 3, niega el efecto y destruye la carta de tu adversario. Cuando un \"Archidemonio Rey del Terror\" en tu Campo es destruido y mandado al Cementerio, manda esta carta de tu mano al Cementerio para Invocar mediante una Invocación Especial el \"Archidemonio Rey del Terror\".",
+  "level": 3,
+  "atk": 1100,
+  "def": 1800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

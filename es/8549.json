@@ -1,0 +1,16 @@
+{
+  "id": 8549,
+  "type": "monster",
+  "name": "Aliado Genex Remoto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, puedes seleccionar 1 monstruo Cantante boca arriba en el Campo. El nombre del monstruo seleccionado se trata como \"Controlador Genex\" hasta la End Phase.",
+  "level": 3,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

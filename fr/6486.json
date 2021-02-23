@@ -1,0 +1,16 @@
+{
+  "id": 6486,
+  "type": "monster",
+  "name": "Artilleur du Rempart, HÉROS Élémentaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Clayman, HÉROS Élémentaire\" + \"Burstinatrix, HÉROS Élémentaire\"\nCe monstre ne peut pas être Invoqué par Invocation Spéciale excepté par une Invocation Fusion. Tant que cette carte est en Position de Défense face recto, cette carte peut attaquer directement les Life Points de votre adversaire. Dans ce cas, appliquez la moitié de l'ATK de cette carte pour le calcul des dommages.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

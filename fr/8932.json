@@ -1,0 +1,15 @@
+{
+  "id": 8932,
+  "type": "monster",
+  "name": "Géant Sismique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, lorsque la position de combat de cette carte est changée, vous pouvez sélectionner 1 monstre contrôlé par votre adversaire et changer sa position de combat.",
+  "level": 5,
+  "atk": 1600,
+  "def": 2100,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

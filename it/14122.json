@@ -1,0 +1,19 @@
+{
+  "id": 14122,
+  "type": "monster",
+  "name": "Disturbatore di Aggiornamenti",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "2 mostri Cyberso di Livello 2 o superiore\nUna volta per battaglia, durante il calcolo dei danni, se un tuo mostro Cyberso combatte (Effetto Rapido): puoi attivare questo effetto; annulla tutti gli altri effetti delle carte sul Terreno fino alla fine del Damage Step, il calcolo dei danni per questa battaglia utilizza gli ATK/DEF originali di ogni mostro, inoltre se un mostro dell'avversario viene distrutto in questa battaglia e mandato al Cimitero, infliggi 1000 danni al tuo avversario. Se questa carta viene mandata al Cimitero come Materiale Link: quel Mostro Link può effettuare un secondo attacco durante ogni Battle Phase in questo turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "4"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

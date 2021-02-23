@@ -1,0 +1,15 @@
+{
+  "id": 8619,
+  "type": "monster",
+  "name": "Gólem del Agujero Mágico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, puedes seleccionar 1 monstruo boca arriba que controles. Su ATK se reduce a la mitad hasta la End Phase y este turno puede atacar directamente a tu adversario. Durante el turno en el que activaste este efecto, sólo puede atacar el monstruo seleccionado.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

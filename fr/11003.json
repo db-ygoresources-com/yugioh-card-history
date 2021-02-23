@@ -1,0 +1,16 @@
+{
+  "id": 11003,
+  "type": "monster",
+  "name": "Dragon Panzer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre Machine + 1 monstre Dragon\nSi cette carte est détruite et envoyée au Cimetière : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2600,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

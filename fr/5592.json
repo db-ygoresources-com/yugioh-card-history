@@ -1,0 +1,15 @@
+{
+  "id": 5592,
+  "type": "monster",
+  "name": "Chevaucheur de l'Union",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez uniquement prendre le contrôle d'1 Monstre Union qui est actuellement sur le Terrain de votre adversaire et l'équiper à cette carte. Le Monstre Union équipé à cette carte ne peut pas être transformé à nouveau en monstre en utilisant son propre effet.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

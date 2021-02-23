@@ -1,0 +1,19 @@
+{
+  "id": 14626,
+  "type": "monster",
+  "name": "Dragón Quadborre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Dragón, incluyendo un monstruo \"Cohette\"\nPuedes descartar 1 carta, y después seleccionar 1 monstruo boca arriba en el Campo; por el resto del turno, no puedes Invocar de Modo Especial monstruos de Link-2 o menor desde el Deck Extra, y además destruye el monstruo seleccionado, y después, si era un Monstruo de Enlace, puedes Invocar de Modo Especial, desde tu mano o Cementerio, cualquier cantidad de monstruos \"Cohette\" con nombres diferentes, hasta su Rating de Enlace. Sólo puedes usar este efecto de \"Dragón Quadborre\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

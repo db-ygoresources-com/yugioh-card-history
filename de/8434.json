@@ -1,0 +1,16 @@
+{
+  "id": 8434,
+  "type": "monster",
+  "name": "Zwillingssoldat",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte offen auf dem Spielfeld liegt, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Einmal pro Spielzug, falls diese Karte durch Kampf zerstört werden würde, wird sie nicht zerstört. Falls diese Karte kämpft, kannst du nach der Schadensberechnung 1 Zwillingsmonster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck beschwören, außer „Zwillingssoldat“.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Krieger",
+    "Zwilling",
+    "Effekt"
+  ]
+}

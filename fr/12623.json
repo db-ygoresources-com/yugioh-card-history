@@ -1,0 +1,17 @@
+{
+  "id": 12623,
+  "type": "monster",
+  "name": "Moteur à Couple Élevé",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 monstre que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Un monstre équipé avec cette carte est traité comme un Syntoniseur, il gagne 500 ATK/DEF, et aussi, si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Union",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

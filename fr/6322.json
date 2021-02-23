@@ -1,0 +1,15 @@
+{
+  "id": 6322,
+  "type": "monster",
+  "name": "Criosphinx",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que cette carte reste face recto sur votre Terrain, lorsqu'un monstre est renvoyé depuis le Terrain dans la main de son propriétaire, le propriétaire de la carte renvoyée sélectionne 1 carte de sa main et l'envoie au Cimetière.",
+  "level": 6,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

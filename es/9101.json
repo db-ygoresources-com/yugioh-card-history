@@ -1,0 +1,16 @@
+{
+  "id": 9101,
+  "type": "monster",
+  "name": "Soldado de Chatarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta no puede ser utilizada como Monstruo Material de Sincronía, excepto en la Invocación por Sincronía de un monstruo \"Chatarra\". Si esta carta en Posición de Defensa boca arriba es seleccionada como objetivo de un ataque, destruye esta carta al final de la Battle Phase. Si esta carta es destruida por efecto de una carta \"Chatarra\" y mandada al Cementerio, puedes seleccionar 1 monstruo \"Chatarra\" en tu Cementerio, excepto \"Soldado de Chatarra\", y añadirlo a tu mano.",
+  "level": 5,
+  "atk": 2100,
+  "def": 700,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

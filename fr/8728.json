@@ -1,0 +1,16 @@
+{
+  "id": 8728,
+  "type": "monster",
+  "name": "Ancien Seigneur Cloche de Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur FEU + 1 monstre non Syntoniseur de Type Pyro ou plus\nLorsque cette carte est Invoquée par Synchronisation, retirez du jeu un nombre de cartes dans le Cimetière de votre adversaire inférieur ou égal au nombre de cartes dans sa main. Cette carte gagne 200 d'ATK pour chaque carte retirée du jeu par cet effet.",
+  "level": 7,
+  "atk": 2500,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Synchro",
+    "Effet"
+  ]
+}

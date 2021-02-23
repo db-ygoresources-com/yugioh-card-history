@@ -1,0 +1,15 @@
+{
+  "id": 6241,
+  "type": "monster",
+  "name": "Elementarunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dieses Monster bekommt die folgenden Effekte, während sich Monster mit den folgenden Eigenschaften auf dem Spielfeld befinden:\n●ERDE: Die Effekte von Effektmonstern, die diese Karte als Ergebnis eines Kampfes zerstört, werden annulliert.\n●WIND: Falls diese Karte ein Monster deines Gegners als Ergebnis eines Kampfes zerstört, kann es sofort noch einmal angreifen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

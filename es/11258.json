@@ -1,0 +1,16 @@
+{
+  "id": 11258,
+  "type": "monster",
+  "name": "El Sombrañeca Constructo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo \"Sombrañeca\" + 1 monstruo de LUZ\nDebe ser primero Invocado por Fusión. Si esta carta es Invocada de Modo Especial: puedes mandar al Cementerio 1 carta \"Sombrañeca\" en tu Deck. Al comienzo del Damage Step, si esta carta batalla con un monstruo Invocado de Modo Especial: destruye ese monstruo. Si esta carta es mandada al Cementerio: puedes seleccionar 1 Mágica/Trampa \"Sombrañeca\" en tu Cementerio; añádela a tu mano.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Hada",
+    "Fusión",
+    "Efecto"
+  ]
+}

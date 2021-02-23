@@ -1,0 +1,15 @@
+{
+  "id": 14842,
+  "type": "monster",
+  "name": "Service Cupide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non affectée par les effets activés de monstres, sauf ceux d'un Niveau inférieur ou égal à cette carte. Vous pouvez bannir max. 3 cartes depuis votre Cimetière ; jusqu'à la fin de ce tour, augmentez le Niveau de cette carte de ce nombre. Vous ne pouvez utiliser cet effet de \"Service Cupide\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

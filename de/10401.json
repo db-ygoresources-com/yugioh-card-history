@@ -1,0 +1,15 @@
+{
+  "id": 10401,
+  "type": "monster",
+  "name": "Löwotaurus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte gegen ein nicht-Normales Monster kämpft, erhält diese Karte nur während des Damage Steps 500 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1600,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

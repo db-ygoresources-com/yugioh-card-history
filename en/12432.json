@@ -1,0 +1,17 @@
+{
+  "id": 12432,
+  "type": "monster",
+  "name": "Scapeghost",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: You can Special Summon any number of \"Black Sheep Tokens\" (Zombie/DARK/Level 1/ATK 0/DEF 0).",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Flip",
+    "Tuner",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8003,
+  "type": "monster",
+  "name": "Rosententakel",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Am Beginn deiner Battle Phase erhält diese Karte während jeder Battle Phase in diesem Spielzug 1 zusätzlichen Angriff für jedes Pflanze-Monster, das dein Gegner derzeit kontrolliert. Jedes Mal, wenn diese Karte ein Pflanze-Monster durch Kampf zerstört: Füge deinem Gegner 300 Schaden zu.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

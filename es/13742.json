@@ -1,0 +1,16 @@
+{
+  "id": 13742,
+  "type": "monster",
+  "name": "Hechicero Ciberso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Cinet-Ritual\". Cualquier daño que recibes se divide a la mitad. (No puedes dividir a la mitad el mismo daño dos veces de esta forma). Mientras controles un Monstruo de Enlace, los monstruos que controle tu adversario no pueden seleccionar monstruos que controles para ataques, excepto éste, y además tu adversario no puede seleccionar monstruos que controles con efectos de cartas, excepto éste. Si esta carta batalla con un Monstruo de Enlace, ésta gana 1000 ATK, sólo durante ese cálculo de daño. Si esta carta en tu posesión es destruida por el efecto de una carta del adversario: puedes añadir a tu mano 1 monstruo Ciberso en tu Deck.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Ciberso",
+    "Ritual",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13734,
+  "type": "monster",
+  "name": "Drago da Richiamo Metafisico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando un tuo mostro viene scelto come bersaglio per un attacco: puoi scegliere come bersaglio 1 dei tuoi mostri \"Metafisico\" che è bandito o nel tuo Cimitero; bandisci questa carta e, se lo fai, Evoca Specialmente quel mostro in Posizione di Attacco. Durante la Standby Phase del prossimo turno dopo che questa carta è stata bandita: puoi Evocare Specialmente questa carta bandita. Puoi utilizzare ogni effetto di \"Drago da Richiamo Metafisico\" una sola volta per turno.",
+  "pendEffect": "Quando un tuo mostro viene scelto come bersaglio per un attacco: puoi scegliere come bersaglio 1 dei tuoi mostri \"Metafisico\" che è bandito o nel tuo Cimitero; bandisci questa carta e, se lo fai, Evoca Specialmente quel mostro in Posizione di Attacco. Puoi utilizzare questo effetto di \"Drago da Richiamo Metafisico\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Wyrm",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14224,
+  "type": "monster",
+  "name": "Künstlerkumpel Lächelzauberer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Lächel“-Zauber/Falle von deinem Deck hinzufügen. Falls jedes Monster, das du kontrollierst, ein „Künstlerkumpel“- oder „Buntäugig“-Monster oder ein „Magier“-Pendelmonster ist und die derzeitigen ATK dieser Karte höher als ihre Grund-ATK sind: Du kannst Karten in Höhe der Anzahl der Monster ziehen, die du kontrollierst und deren derzeitige ATK höher als ihre Grund-ATK sind, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Künstlerkumpel Lächelzauberer“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls ein oder mehr Monster, die du kontrollierst und deren derzeitige ATK höher als ihre Grund-ATK sind, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören. Du kannst diesen Effekt von „Künstlerkumpel Lächelzauberer“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

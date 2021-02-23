@@ -1,0 +1,15 @@
+{
+  "id": 9079,
+  "type": "monster",
+  "name": "Coccinelle Miroir",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous contrôlez au moins 1 monstre face recto et que vous n'avez aucun monstre dans votre Cimetière, vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsqu'elle est Invoquée Spécialement de cette façon, le Niveau de cette carte devient égal à la somme des Niveaux de tous les autres monstres que vous contrôlez. Si cette carte a un Niveau supérieur à 12, détruisez-la.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

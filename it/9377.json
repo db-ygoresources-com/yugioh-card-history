@@ -1,0 +1,16 @@
+{
+  "id": 9377,
+  "type": "monster",
+  "name": "Vylon Stella",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene mandata dalla Zona Carte Mostro al Cimitero: puoi pagare 500 Life Point, poi scegliere come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a quel bersaglio. Alla fine del Damage Step, se il mostro equipaggiato ha combattuto con un mostro dell'avversario: distruggi quel mostro dell'avversario.",
+  "level": 3,
+  "atk": 1400,
+  "def": 200,
+  "properties": [
+    "Fata",
+    "Tuner",
+    "Effetto"
+  ]
+}

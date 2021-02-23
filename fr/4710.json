@@ -1,0 +1,15 @@
+{
+  "id": 4710,
+  "type": "monster",
+  "name": "Gardien du Crâne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ce monstre ne peut être Invoqué que par Invocation Rituelle avec la Carte Magie Rituelle, \"La Prière de Novox\". Vous devez également sacrifier des monstres dont le total des Niveaux est égal à 7 ou plus du Terrain ou de votre main.",
+  "level": 7,
+  "atk": 2050,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Rituel"
+  ]
+}

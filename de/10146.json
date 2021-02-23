@@ -1,0 +1,15 @@
+{
+  "id": 10146,
+  "type": "monster",
+  "name": "Die Liebenden der Prophezeiung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Magiebuch“-Zauberkarte in deiner Hand vorzeigen; beschwöre 1 Monster vom Typ Hexer der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand.",
+  "level": 3,
+  "atk": 600,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6075,
+  "type": "monster",
+  "name": "Necrocara",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal: baraja todas las cartas desterradas al Deck. Esta carta gana 100 ATK por cada carta barajada al Main Deck por este efecto. Si esta carta es desterrada: cada jugador destierra 5 cartas de la parte superior de su Deck (o todo su Deck, si son menos de 5).",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

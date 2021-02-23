@@ -1,0 +1,16 @@
+{
+  "id": 7950,
+  "type": "monster",
+  "name": "Machine de Secours Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, si vous contrôlez un autre monstre \"Genex\", vous pouvez traiter le nom de cette carte comme \"Contrôleur Genex\" jusqu'à la End Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

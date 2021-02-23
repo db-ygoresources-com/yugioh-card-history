@@ -1,0 +1,15 @@
+{
+  "id": 11063,
+  "type": "monster",
+  "name": "Majestätsunterweltler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Kein Spieler kann Monstereffekte aktivieren.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

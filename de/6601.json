@@ -1,0 +1,15 @@
+{
+  "id": 6601,
+  "type": "monster",
+  "name": "Säbelkäfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu.",
+  "level": 6,
+  "atk": 2400,
+  "def": 600,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

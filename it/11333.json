@@ -1,0 +1,18 @@
+{
+  "id": 11333,
+  "type": "monster",
+  "name": "Artistamico Talpagioia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro il cui ATK attuale è diverso dal suo ATK originale; applica l'effetto appropriato. Puoi utilizzare questo effetto di \"Artistamico Talpagioia\" una sola volta per turno.\n●Se l'ATK attuale di quel mostro è superiore al suo ATK originale, esso guadagna 1000 ATK.\n●Se l'ATK attuale di quel mostro è inferiore al suo ATK originale, esso perde 1000 ATK.",
+  "pendEffect": "Tutti i Mostri Pendulum che controlli guadagnano 300 ATK.",
+  "pendScale": 5,
+  "level": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10360,
+  "type": "monster",
+  "name": "Dododo-Roboter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden (kann aber normal gesetzt werden). Falls diese Karte angreift, bleibt sie bis zum Ende des Damage Steps von anderen Karteneffekten unberührt.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1900,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

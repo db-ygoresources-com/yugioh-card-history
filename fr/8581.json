@@ -1,0 +1,16 @@
+{
+  "id": 8581,
+  "type": "monster",
+  "name": "Robot Archer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Robot Synchronique\" + 1 monstre non-Syntoniseur ou plus\nUne fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le. Durant la End Phase de ce tour, renvoyez-le sur le Terrain de votre adversaire dans la même position de combat.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

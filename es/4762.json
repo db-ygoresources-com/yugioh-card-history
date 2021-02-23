@@ -1,0 +1,15 @@
+{
+  "id": 4762,
+  "type": "monster",
+  "name": "Reflejador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Antes del cálculo de daño, si esta carta está siendo atacada por un monstruo de tu adversario y estaba en Posición de Ataque boca arriba al comienzo del Damage Step: inflige daño a tu adversario igual al ATK del monstruo atacante. Si lo haces, después del cálculo de daño: destruye esta carta.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

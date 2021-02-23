@@ -1,0 +1,15 @@
+{
+  "id": 13217,
+  "type": "monster",
+  "name": "Compilateur Défectueux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, si vous allez recevoir des dommages d'un effet de carte de l'adversaire, placez 1 Compteur Défectueux sur cette carte à la place (max. 1). Une fois par tour (Effet Rapide) : vous pouvez retirer 1 Compteur Défectueux de cette carte, puis ciblez 1 monstre Cyberse que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 800 ATK.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

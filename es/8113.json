@@ -1,0 +1,15 @@
+{
+  "id": 8113,
+  "type": "monster",
+  "name": "Gusano Ópera",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Todos los monstruos boca arriba en el Campo pierden 500 ATK, excepto los monstruos \"Gusano\" de Tipo Reptil.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

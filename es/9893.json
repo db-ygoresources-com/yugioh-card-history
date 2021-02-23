@@ -1,0 +1,15 @@
+{
+  "id": 9893,
+  "type": "monster",
+  "name": "Ciempiés Inzektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes equipar a esta carta 1 monstruo \"Inzektor\" en tu mano o Cementerio. Si una o más Cartas de Equipo son mandadas a tu Cementerio mientras están equipadas a esta carta (excepto durante el Damage Step): puedes añadir a tu mano, desde tu Deck, 1 carta \"Inzektor\". Mientras esta carta está equipada a un monstruo, el Nivel de ese monstruo se incrementa en 3.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

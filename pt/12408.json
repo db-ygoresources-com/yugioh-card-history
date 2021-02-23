@@ -1,0 +1,18 @@
+{
+  "id": 12408,
+  "type": "monster",
+  "name": "Mago Acrobata",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se a ativação de um Card de Magia/Armadilha for negada (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão. Quando este card for destruído em batalha: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Quando um ou mais monstros que você controla forem destruídos por um efeito de card (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo. Você só pode usar este efeito de \"Mago Acrobata\" uma vez por turno.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 800,
+  "def": 2300,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

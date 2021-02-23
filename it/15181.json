@@ -1,0 +1,18 @@
+{
+  "id": 15181,
+  "type": "monster",
+  "name": "D/D Cane",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, se il tuo avversario Evoca Specialmente uno o più Mostri Fusione, Synchro o Xyz (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 di quei mostri; in questo turno, quel mostro scoperto non può attaccare, inoltre i suoi effetti sono annullati.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 Mostro Fusione, Synchro o Xyz controllato dal tuo avversario; annulla i suoi effetti fino alla fine di questo turno, poi distruggi questa carta. Puoi utilizzare questo effetto di \"D/D Cane\" una sola volta per turno.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

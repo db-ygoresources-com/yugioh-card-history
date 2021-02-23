@@ -1,0 +1,18 @@
+{
+  "id": 12592,
+  "type": "monster",
+  "name": "Sorcière Capricieuse Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte peut être traitée comme 2 Sacrifices pour l'Invocation Sacrifice d'un Monstre Pendule.",
+  "pendEffect": "Si votre adversaire contrôle un monstre face recto qui a été Invoqué Spécialement depuis l'Extra Deck, et que vous non : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Sorcière Capricieuse Potartiste\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

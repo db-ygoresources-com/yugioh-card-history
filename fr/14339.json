@@ -1,0 +1,18 @@
+{
+  "id": 14339,
+  "type": "monster",
+  "name": "Machine de Billes Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez activer cet effet ; ajoutez 1 monstre \"Vitesseroid\" depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres VENT exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Machine de Billes Vitesseroid\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour, lorsque votre monstre en Position de Défense est ciblé par une attaque : vous pouvez le changer en Position d'Attaque face recto, et aussi, il ne peut pas être détruit au combat ce tour (même si cette carte quitte le Terrain).",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

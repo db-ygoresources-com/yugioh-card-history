@@ -1,0 +1,18 @@
+{
+  "id": 12275,
+  "type": "monster",
+  "name": "Phénix Lumière aux Yeux Impairs Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "(Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 monstre \"Potartiste\" que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 1000 ATK.",
+  "pendEffect": "Lorsqu'un monstre de votre adversaire déclare une attaque directe tant que vous avez une carte dans votre autre Zone Pendule : vous pouvez détruire la carte dans votre autre Zone Pendule, et si vous le faites, Invoquez Spécialement cette carte.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Bête Ailée",
+    "Pendule",
+    "Effet"
+  ]
+}

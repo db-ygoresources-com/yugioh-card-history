@@ -1,0 +1,16 @@
+{
+  "id": 11565,
+  "type": "monster",
+  "name": "Dragón de Péndulo de Ojos Rúnicos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Dragón de Péndulo de Ojos Anómalos\" + 1 monstruo de Tipo Lanzador de Conjuros\nSi esta carta fue Invocada por Fusión usando como Material de Fusión uno o más monstruos en el Campo que fueron Invocados por Péndulo, este turno ésta no es afectada por los efectos de cartas de tu adversario. Aplica el efecto apropiado, dependiendo del Nivel original del monstruo usado como Material de Fusión que no era \"Dragón de Péndulo de Ojos Anómalos\".\n●Nivel 4 o menor: Esta carta puede hacer hasta 2 ataques a monstruos durante cada Battle Phase.\n●Nivel 5 o mayor: Esta carta puede hacer hasta 3 ataques a monstruos durante cada Battle Phase.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6181,
+  "type": "monster",
+  "name": "Plataforma de Suporte de Mech's Pesados",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, você pode: escolher 1 monstro Máquina que você controla; equipe este card no alvo, OU: desequipe este card e Invoque-o por Invocação-Especial. Um monstro equipado com este card ganha 500 de ATK/DEF e, além disso, se o monstro equipado seria destruído em batalha ou por um efeito de card, em vez disso, destrua este card.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Union",
+    "Efeito"
+  ]
+}

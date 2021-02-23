@@ -1,0 +1,16 @@
+{
+  "id": 12319,
+  "type": "monster",
+  "name": "Pantera Bailarina de la Lunaluz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Gata Bailarina de la Lunaluz\" + 1 monstruo \"Lunaluz\"\nDebe ser primero Invocada por Fusión con los Materiales de Fusión listados arriba. No puede ser destruida por efectos de cartas de tu adversario. Una vez por turno, durante tu Main Phase 1: puedes activar este efecto; por el resto de este turno, la primera vez que un monstruo controlado por tu adversario fuera a ser destruido en batalla, no lo es, y además, este turno, esta carta puede atacar a todos los monstruos que controle tu adversario, dos veces a cada uno. Si esta carta destruye un monstruo del adversario en batalla: hasta el final de la Battle Phase, esta carta gana 200 ATK.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Guerrero-Bestia",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13704,
+  "type": "monster",
+  "name": "Ejecutor Revengamiedo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Vengamiedo\". El nombre de esta carta se convierte en \"Asesino Revengamiedo\" mientras esté en el Campo. Mientras esta carta Invocada por Ritual esté en el Campo, tu adversario no puede seleccionar cartas que tú controles con efectos de cartas, excepto esta carta. Si esta carta Invocada por Ritual es destruida en batalla, o es destruida por el efecto de una carta del adversario mientras está en la Zona de Monstruos de su dueño: puedes añadir a tu mano 1 carta \"Vengamiedo\" en tu Deck. Sólo puedes usar este efecto de \"Ejecutor Revengamiedo\" una vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Ritual",
+    "Efecto"
+  ]
+}

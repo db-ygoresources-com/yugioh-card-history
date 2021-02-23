@@ -1,0 +1,15 @@
+{
+  "id": 7345,
+  "type": "monster",
+  "name": "Blocca Carta",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando questa carta viene Evocata: mettila in Posizione di Difesa. Quando un mostro scoperto che controlli viene scelto come bersaglio per un attacco: puoi cambiare il bersaglio a questa carta. Quando questa carta viene scelta come bersaglio per un attacco: puoi scegliere un numero tra 1 e 3, poi manda quel numero di carte dalla cima del tuo Deck al Cimitero; questa carta guadagna 500 DEF per ogni carta mandata al Cimitero, fino alla End Phase.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

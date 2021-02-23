@@ -1,0 +1,16 @@
+{
+  "id": 13539,
+  "type": "monster",
+  "name": "Transport Autocaravane F.A.",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nGagne une ATK égale à son Niveau x 300. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Cette carte gagne les effets suivants, selon son Niveau actuel.\n●Min. Niveau 11 : Non destructible ni au combat ni par des effets de carte.\n●Min. Niveau 13 : Une fois par tour : vous pouvez cibler 1 monstre \"F.A.\" dans votre Cimetière ; Invoquez-le Spécialement.",
+  "level": 9,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

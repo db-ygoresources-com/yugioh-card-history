@@ -1,0 +1,18 @@
+{
+  "id": 12300,
+  "type": "monster",
+  "name": "Colère Amorphage",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée par Pendulation ou retournée face recto, aucun joueur ne peut Invoquer Spécialement de monstres (monstres \"Amorphage\" exclus) depuis l'Extra Deck tant que cette carte est face recto sur le Terrain.",
+  "pendEffect": "Tant que vous contrôlez un monstre \"Amorphage\", aucun joueur ne peut Sacrifier de monstres (monstres \"Amorphage\" exclus). Une fois par tour, durant votre Standby Phase, Sacrifiez 1 monstre ou détruisez cette carte.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1650,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

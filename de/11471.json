@@ -1,0 +1,18 @@
+{
+  "id": 11471,
+  "type": "monster",
+  "name": "Mayosenju Daibak",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden, außer durch eine Pendelbeschwörung. Die Pendelbeschwörung dieser Karte kann nicht annulliert werden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Karten auf dem Spielfeld wählen; gib sie auf die Hand zurück. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Spezialbeschwörung beschworen wurde: Gib sie auf die Hand zurück.",
+  "pendEffect": "Wenn ein „Yosenju“-Monster, das du kontrollierst, einen Angriff deklariert: Du kannst das angreifende Monster bis zum Ende der Battle Phase 300 ATK erhalten lassen.",
+  "pendScale": 7,
+  "level": 10,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

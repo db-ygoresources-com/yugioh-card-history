@@ -1,0 +1,15 @@
+{
+  "id": 14367,
+  "type": "monster",
+  "name": "Éxodia, le Défenseur Légendaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Spécialement. Vous pouvez Sacrifier 5 monstres pour Invoquer par Sacrifice (mais pas Poser) cette carte. L'ATK/DEF de cette carte deviennent la somme des ATK/DEF d'origine des monstres Sacrifiés. Si cette carte Invoquée de cette façon détruit un monstre TÉNÈBRES Démon dont le propriétaire est votre adversaire, vous gagnez le Duel à la fin de la Damage Step.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

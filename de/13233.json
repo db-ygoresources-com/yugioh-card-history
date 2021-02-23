@@ -1,0 +1,16 @@
+{
+  "id": 13233,
+  "type": "monster",
+  "name": "Krawler Axon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst 1 Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie.\nFalls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt eines Gegners verlässt: Du kannst 2 „Krawler“-Monster mit unterschiedlichen Namen als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören, außer „Krawler Axon“. Du kannst jeden Effekt von „Krawler Axon“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

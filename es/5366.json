@@ -1,0 +1,15 @@
+{
+  "id": 5366,
+  "type": "monster",
+  "name": "Agido",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es destruida como resultado de una batalla y mandada al Cementerio, lanza un dado de seis caras. Puedes Invocar mediante una Invocación Especial 1 monstruo de Tipo Hada de tu Cementerio cuyo Nivel sea igual al resultado. Si el resultado es 6, puedes Invocar mediante una Invocación Especial un monstruo de Nivel 6 o superior.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

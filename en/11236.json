@@ -1,0 +1,16 @@
+{
+  "id": 11236,
+  "type": "monster",
+  "name": "Shaddoll Beast",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: You can draw 2 cards, then discard 1 card.\nIf this card is sent to the GY by a card effect: You can draw 1 card. You can only use 1 \"Shaddoll Beast\" effect per turn, and only once that turn.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1700,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

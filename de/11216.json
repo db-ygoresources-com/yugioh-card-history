@@ -1,0 +1,15 @@
+{
+  "id": 11216,
+  "type": "monster",
+  "name": "Künstlerkumpel Schwertfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Alle Monster, die dein Gegner derzeit kontrolliert, verlieren 600 ATK und DEF. Falls du ein oder mehr Monster als Spezialbeschwörung beschwörst, solange du diese Karte kontrollierst: Alle Monster, die dein Gegner derzeit kontrolliert, verlieren 600 ATK und DEF.",
+  "level": 2,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

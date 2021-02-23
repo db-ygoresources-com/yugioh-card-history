@@ -1,0 +1,15 @@
+{
+  "id": 9111,
+  "type": "monster",
+  "name": "Perro Encadenado",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser usado como Material de Sincronía, excepto en la Invocación por Sincronía de un monstruo de Tipo Bestia. Si esta carta está en el Cementerio: puedes Invocar esta carta de Modo Especial y, si lo haces, destiérrala cuando deje el Campo. Debes controlar exactamente 2 monstruos de Tipo Bestia para activar y resolver este efecto.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1100,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10897,
+  "type": "monster",
+  "name": "Gorgonischer Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Die ATK des Monsters, das sie zerstört hat, werden zu 0. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 gesetzte Zauber-/Fallenkarte wählen, die dein Gegner kontrolliert; das gewählte Ziel kann in diesem Spielzug nicht aktiviert werden. Dein Gegner kann die gewählte Karte nicht als Reaktion auf die Aktivierung dieses Effekts aktivieren.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

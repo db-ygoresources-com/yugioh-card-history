@@ -1,0 +1,15 @@
+{
+  "id": 8254,
+  "type": "monster",
+  "name": "Verme Solido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Questa carta guadagna 100 DEF per ogni mostro \"Verme\" di Tipo Rettile nel tuo Cimitero. Se il tuo avversario subisce danno da combattimento per avere attaccato questa carta, alla fine del Damage Step scegli 1 Carta Magia o Trappola controllata dal tuo avversario e distruggila.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

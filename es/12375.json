@@ -1,0 +1,18 @@
+{
+  "id": 12375,
+  "type": "monster",
+  "name": "Artistamigo Tríoperico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es destruida en batalla: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Artistamigo\", excepto un Monstruo de Péndulo.",
+  "pendEffect": "Una vez por turno, si controlas una carta \"Artistamigo\", \"Mago/a\" u \"Ojos Anómalos\" en tu otra Zona de Péndulo, excepto \"Artistamigo Tríoperico\": puedes hacer que la Escala de Péndulo de esta carta se convierta en 7 hasta el final de este turno.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Bestia Alada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

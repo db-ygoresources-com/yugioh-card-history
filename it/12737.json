@@ -1,0 +1,18 @@
+{
+  "id": 12737,
+  "type": "monster",
+  "name": "Artistamico Verticalprocione",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando questa carta viene distrutta in battaglia: puoi scegliere come bersaglio 1 carta sul Terreno; falla ritornare nella mano.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 carta \"Artistamico\" che controlli; falla ritornare nella mano ma, per il resto di questo turno, non puoi attivare carte, o effetti di carte, con lo stesso nome di quella fatta ritornare nella mano da questo effetto (anche se questa carta lascia il Terreno). Puoi utilizzare questo effetto di \"Artistamico Verticalprocione\" una sola volta per turno.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 400,
+  "def": 600,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

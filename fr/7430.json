@@ -1,0 +1,15 @@
+{
+  "id": 7430,
+  "type": "monster",
+  "name": "Bushi Immortel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que cette carte est face recto sur le Terrain, elle ne peut pas être Sacrifiée, sauf pour l'Invocation Sacrifice d'un monstre de Type Guerrier. Durant votre Standby Phase, si cette carte est dans votre Cimetière et que tous les monstres dans votre Cimetière sont de Type Guerrier : vous pouvez Invoquer Spécialement cette carte. Aussi, vous ne devez contrôler aucun monstre pour activer et résoudre cet effet.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

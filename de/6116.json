@@ -1,0 +1,15 @@
+{
+  "id": 6116,
+  "type": "monster",
+  "name": "Elementarsoldat",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dieses Monster bekommt die folgenden Effekte, während sich Monster mit den folgenden Eigenschaften auf dem Spielfeld befinden:\n●WASSER: Die Kontrolle über diese Karte kann nicht geändert werden.\n●ERDE: Die Effekte von Effektmonstern, die diese Karte als Ergebnis eines Kampfes zerstört, werden annulliert.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

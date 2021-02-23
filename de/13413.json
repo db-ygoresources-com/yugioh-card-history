@@ -1,0 +1,19 @@
+{
+  "id": 13413,
+  "type": "monster",
+  "name": "Wiederherstellungszauberer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Cyberse-Monster\n(Schnelleffekt): Du kannst 1 Cyberse-Linkmonster in deinem Friedhof wählen, das in diesem Spielzug zerstört wurde; beschwöre es als Spezialbeschwörung, aber seine Effekte bleiben annulliert, zusätzlich zerstöre es während der End Phase. Du kannst diesen Effekt von „Wiederherstellungszauberer“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

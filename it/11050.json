@@ -1,0 +1,15 @@
+{
+  "id": 11050,
+  "type": "monster",
+  "name": "Saggiasequoia Silvana",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando un mostro \"Silvan\" viene mandato al Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano. Una volta per turno: puoi dissotterrare la prima carta del tuo Deck e, se è un mostro di Tipo Pianta, mandarla al Cimitero. Altrimenti, mettila in fondo al tuo Deck. Se questa carta viene dissotterrata dal Deck e mandata al Cimitero dall'effetto di una carta: puoi scegliere come bersaglio 1 Carta Magia/Trappola \"Silvan\" nel tuo Cimitero; aggiungi quel bersaglio alla tua mano.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2100,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

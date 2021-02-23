@@ -1,0 +1,16 @@
+{
+  "id": 13381,
+  "type": "monster",
+  "name": "Sabueso Tindángulo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Puedes seleccionar otro monstruo boca arriba en el Campo; esta carta gana ATK igual al ATK original de ese objetivo, y después cambia ese objetivo a Posición de Defensa boca abajo.\nCada monstruo que controle tu adversario pierde 1000 ATK por cada monstruo enlazado a él. Si esta carta es destruida en batalla o por efecto de una carta y mandada al Cementerio: puedes seleccionar 1 monstruo boca abajo en el Campo; cámbialo a Posición de Defensa boca arriba.",
+  "level": 7,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}

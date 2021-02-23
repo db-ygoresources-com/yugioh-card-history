@@ -1,0 +1,16 @@
+{
+  "id": 10111,
+  "type": "monster",
+  "name": "Lance Poissonborg",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Non utilisable comme Matériel Synchro, sauf pour l'Invocation Synchro d'un Monstre Synchro EAU. Si vous avez un ou plusieurs monstres dans votre Cimetière (\"Lance Poissonborg\" exclu), et qu'ils sont tous EAU : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Lance Poissonborg\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Poisson",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

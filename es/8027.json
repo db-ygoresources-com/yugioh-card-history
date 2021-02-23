@@ -1,0 +1,15 @@
+{
+  "id": 8027,
+  "type": "monster",
+  "name": "Escáner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, puedes seleccionar 1 de los monstruos de tu adversario que haya sido retirado del juego. Hasta la End Phase, el nombre de esta carta se trata como el nombre de la carta elegida, y esta carta tiene los mismos Atributo, Nivel, ATK y DEF que el monstruo seleccionado. Si esta carta es retirada del Campo mientras este efecto está activado, retírala del juego.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

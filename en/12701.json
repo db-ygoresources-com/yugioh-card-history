@@ -1,0 +1,18 @@
+{
+  "id": 12701,
+  "type": "monster",
+  "name": "Performapal Gold Fang",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
+  "pendEffect": "Once per turn, if your \"Performapal\" monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

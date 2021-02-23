@@ -1,0 +1,15 @@
+{
+  "id": 11621,
+  "type": "monster",
+  "name": "Guerrero del Apuro",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Durante el cálculo de daño (en el turno de cualquier jugador), si un Monstruo de Sincronía \"Guerrero/a\" que controlas batalla con un monstruo de tu adversario: puedes mandar al Cementerio esta carta en tu mano; el ATK de tu monstruo batallante se convierte en el doble de su ATK en este momento, sólo durante ese cálculo de daño. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo \"Sincrón\" (o \"Sincronizador\") en tu Cementerio; añádela a tu mano. Sólo puedes usar cada efecto de \"Guerrero del Apuro\" una vez por turno.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

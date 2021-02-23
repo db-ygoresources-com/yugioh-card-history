@@ -1,0 +1,16 @@
+{
+  "id": 11908,
+  "type": "monster",
+  "name": "Pétalelfe, Princesse de la Prédiction",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez changer tous les monstres en Position d'Attaque face recto contrôlés par votre adversaire en Position de Défense face recto. Les monstres changés en Position de Défense par cet effet ne peuvent pas changer de position de combat.",
+  "level": 3,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Elfe",
+    "Flip",
+    "Effet"
+  ]
+}

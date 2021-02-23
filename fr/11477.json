@@ -1,0 +1,18 @@
+{
+  "id": 11477,
+  "type": "monster",
+  "name": "Yosenju Shinchu D",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est Invoquée Normalement : changez-la en Position de Défense. Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres \"Yosenju\" face recto (celui-ci exclu) avec une attaque.",
+  "pendEffect": "Une fois par tour, si vous avez une carte \"Yosenju\" dans votre autre Zone Pendule : vous pouvez faire devenir l'Échelle Pendule de cette carte 11 jusqu'à la fin de ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Yosenju\" exclus) le reste de ce tour (même si cette carte quitte le Terrain).",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Rocher",
+    "Pendule",
+    "Effet"
+  ]
+}

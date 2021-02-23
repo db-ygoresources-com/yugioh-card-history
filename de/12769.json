@@ -1,0 +1,18 @@
+{
+  "id": 12769,
+  "type": "monster",
+  "name": "Metrognom",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Solange du 2 Karten mit demselben Pendelbereich in deinen Pendelzonen hast, erhält diese Karte ATK und DEF in Höhe des Pendelbereichs x 100 und kann deinen Gegner direkt angreifen. Falls diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt: Zerstöre alle Karten in den Pendelzonen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 andere Karte in einer Pendelzone wählen; der Pendelbereich dieser Karte wird bis zum Ende dieses Spielzugs gleich dem der Karte.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

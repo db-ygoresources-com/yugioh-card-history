@@ -1,0 +1,15 @@
+{
+  "id": 10906,
+  "type": "monster",
+  "name": "Eremitalbero Silvano",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Una volta per turno: puoi dissotterrare la prima carta del tuo Deck e, se è un mostro di Tipo Pianta, mandarla al Cimitero e, se lo fai, pesca 1 carta. Altrimenti, mettila in fondo al tuo Deck. Se questa carta viene dissotterrata dal Deck e mandata al Cimitero dall'effetto di una carta: guarda fino a 3 carte dalla cima del tuo Deck, poi mettile in cima al Deck in qualsiasi ordine.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

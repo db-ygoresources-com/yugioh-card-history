@@ -1,0 +1,19 @@
+{
+  "id": 13413,
+  "type": "monster",
+  "name": "Sorcier de la Récupération",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Cyberse\n(Effet Rapide) : vous pouvez cibler 1 Monstre Lien Cyberse dans votre Cimetière qui a été détruit ce tour ; Invoquez-le Spécialement, mais il a ses effets annulés, et aussi, détruisez-le durant la End Phase. Vous ne pouvez utiliser cet effet de \"Sorcier de la Récupération\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

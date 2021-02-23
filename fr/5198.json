@@ -1,0 +1,16 @@
+{
+  "id": 5198,
+  "type": "monster",
+  "name": "Assaillante des Flammes",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "FLIP : Bannissez les 3 cartes du dessus de votre Deck ; infligez 800 points de dommages à votre adversaire.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Flip",
+    "Effet"
+  ]
+}

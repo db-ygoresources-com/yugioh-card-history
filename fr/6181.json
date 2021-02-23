@@ -1,0 +1,16 @@
+{
+  "id": 6181,
+  "type": "monster",
+  "name": "Plateforme de Soutien des Engins Lourds",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 monstre Machine que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Un monstre équipé avec cette carte gagne 500 ATK/DEF, et aussi, si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

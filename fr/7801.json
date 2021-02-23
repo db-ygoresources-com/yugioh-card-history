@@ -1,0 +1,15 @@
+{
+  "id": 7801,
+  "type": "monster",
+  "name": "Ignis l'Esprit des Flammes",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Sacrifier 1 monstre FEU face recto pour infliger 100 points de dommages à votre adversaire pour chaque monstre FEU dans votre Cimetière.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

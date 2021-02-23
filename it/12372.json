@@ -1,0 +1,18 @@
+{
+  "id": 12372,
+  "type": "monster",
+  "name": "Artistamico Re Orso",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Non può essere distrutto dalle Magie/Trappole mentre è scoperto in Posizione di Attacco. Questa carta guadagna 100 ATK per ogni carta \"Artistamico\" che controlli, solamente durante la tua Battle Phase.",
+  "pendEffect": "Una volta per turno, durante la End Phase, se questa carta è stata attivata in questo turno: puoi distruggere questa carta e, se lo fai, aggiungi alla tua mano 1 mostro di Livello 7 o superiore che è nel tuo Cimitero o scoperto nel tuo Extra Deck.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Guerriero-Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

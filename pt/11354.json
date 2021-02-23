@@ -1,0 +1,18 @@
+{
+  "id": 11354,
+  "type": "monster",
+  "name": "Portador Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Você pode Invocar este card por Invocação-Normal sem oferecer Tributo. Se este card for Invocado por Invocação-Normal sem oferecer Tributo, ou se for Invocado por Invocação-Especial, o Nível dele se torna 4 e o ATK original dele se torna 1800. Se este card for Invocado por Invocação-Normal/Baixado, ele não é afetado por efeitos ativados de monstros cujo Nível/Classe original seja menor que o Nível atual deste card. Se este card for oferecido como Tributo: você pode escolher 1 monstro no campo; devolva-o para a mão.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Especial, exceto monstros \"Qli\". Este efeito não pode ser negado. Todos os monstros \"Qli\" que você controla ganham 300 de ATK.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

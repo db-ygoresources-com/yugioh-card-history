@@ -1,0 +1,15 @@
+{
+  "id": 6250,
+  "type": "monster",
+  "name": "Taumaturgo del Tormento",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Carta Mágica. Puedes retirar cualquier cantidad de Contadores Mágicos de esta Carta, y después seleccionar 1 monstruo boca arriba en el Campo con ATK menor o igual a la cantidad de contadores que retiraste x 700; destruye ese objetivo.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

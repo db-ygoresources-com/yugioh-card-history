@@ -1,0 +1,15 @@
+{
+  "id": 12672,
+  "type": "monster",
+  "name": "Paladin Silencieux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez ajouter 1 \"Spadassin Silencieux LV3\" ou \"Magicien Silencieux LV4\" depuis votre Deck à votre main. Durant le tour de chaque joueur, lorsqu'une Carte Magie qui cible exactement 1 monstre que vous contrôlez (et aucune autre carte) est activée : vous pouvez annuler l'activation. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain. Si cette carte est détruite au combat, ou si cette carte contrôlée par son propriétaire est détruite par un effet de carte de votre adversaire : vous pouvez cibler 1 monstre LUMIÈRE \"LV\" dans votre Cimetière ; ajoutez-le à votre main.",
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7571,
+  "type": "monster",
+  "name": "Atena",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se um ou mais outros monstros Fada forem Invocados: cause 600 de dano ao seu oponente. Uma vez por turno: você pode enviar 1 monstro Fada com a face para cima que você controla para o Cemitério, exceto \"Atena\" e, depois, escolher 1 monstro Fada no seu Cemitério, exceto \"Atena\"; Invoque o alvo por Invocação-Especial.",
+  "level": 7,
+  "atk": 2600,
+  "def": 800,
+  "properties": [
+    "Fada",
+    "Efeito"
+  ]
+}

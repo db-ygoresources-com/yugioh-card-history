@@ -1,0 +1,15 @@
+{
+  "id": 10032,
+  "type": "monster",
+  "name": "Marteau Bounzer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si votre adversaire contrôle une carte et que vous n'en contrôlez aucune, vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si cette carte attaque un monstre de votre adversaire, tant que vous ne contrôlez aucune Carte Magie/Piège, jusqu'à la fin de la Damage Step, votre adversaire ne peut pas activer de Cartes Magie/Piège.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

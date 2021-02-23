@@ -1,0 +1,15 @@
+{
+  "id": 7363,
+  "type": "monster",
+  "name": "Renard à Neuf Queues",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est dans votre main ou Cimetière : vous pouvez Sacrifier 2 monstres ; Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Renard à Neuf Queues\" qu'une fois par tour. Si cette carte qui a été Invoquée Spécialement depuis le Cimetière attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez Invoquer Spécialement 2 \"Jeton Renard\" (Zombie/FEU/Niveau 2/ATK 500/DEF 500).",
+  "level": 6,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

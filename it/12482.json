@@ -1,0 +1,18 @@
+{
+  "id": 12482,
+  "type": "monster",
+  "name": "Drago Fantasma Occhi Diversi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta Evocata Pendulum infligge danno da combattimento al tuo avversario attaccando: puoi infliggere al tuo avversario danno pari al numero di carte \"Occhi Diversi\" nelle tue Zone Pendulum x 1200. Puoi utilizzare questo effetto di \"Drago Fantasma Occhi Diversi\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno, quando viene dichiarato un attacco che coinvolge un tuo mostro scoperto e un mostro dell'avversario, se hai una carta \"Occhi Diversi\" nella tua altra Zona Pendulum: puoi far guadagnare a quel mostro che controlli 1200 ATK fino alla fine della Battle Phase (anche se questa carta lascia il Terreno).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

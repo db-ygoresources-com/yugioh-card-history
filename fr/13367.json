@@ -1,0 +1,15 @@
+{
+  "id": 13367,
+  "type": "monster",
+  "name": "Chargeur Turbo F.A.",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Gagne une ATK égale à son Niveau x 300. Les monstres de votre adversaire dont le Niveau/Rang d'origine est inférieur au Niveau de cette carte ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Votre adversaire ne peut pas cibler de monstres (celui-ci exclu) avec des effets de monstres dont le Niveau/Rang d'origine est inférieur au Niveau de cette carte. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Si votre monstre \"F.A.\" combat tant que vous contrôlez cette carte de min. Niveau 7, les monstres de votre adversaire ne peuvent pas activer leurs effets jusqu'à la fin de la Damage Step.",
+  "level": 6,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

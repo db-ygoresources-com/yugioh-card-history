@@ -1,0 +1,16 @@
+{
+  "id": 7674,
+  "type": "monster",
+  "name": "Heraldo de la Perfección",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Amanecer del Heraldo\". Durante el turno de cualquier jugador, cuando tu adversario activa una Carta Mágica, de Trampa, o el efecto de un monstruo: puedes mandar al Cementerio 1 monstruo de Tipo Hada en tu mano; niega la activación y, si lo haces, destruye esa carta.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Hada",
+    "Ritual",
+    "Efecto"
+  ]
+}

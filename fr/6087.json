@@ -1,0 +1,15 @@
+{
+  "id": 6087,
+  "type": "monster",
+  "name": "Andro Sphinx",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque \"Pyramide de Lumière\" est face recto sur le Terrain, vous pouvez payer 500 Life Points pour faire L'Invocation Spéciale de cette carte. Cette carte ne peut être attaquée durant le tour où elle a été Invoquée par Invocation Normale ou Spéciale. Cette carte ne peut pas être Invoquée par Invocation Spéciale de votre Cimetière. Si cette carte détruit un monstre en Position de Défense à l'issue d'un combat, infligez des dommages à votre adversaire égaux à la moitié de l'ATK du monstre détruit.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

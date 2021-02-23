@@ -1,0 +1,18 @@
+{
+  "id": 11471,
+  "type": "monster",
+  "name": "Mayosenju Daibak",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non Invocable Spécialement, sauf par Invocation Pendule. L'Invocation Pendule de cette carte ne peut pas être annulée. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler max. 2 cartes sur le Terrain ; renvoyez-les à la main. Une fois par tour, durant la End Phase, si cette carte a été Invoquée Spécialement ce tour : renvoyez-la à la main.",
+  "pendEffect": "Lorsqu'un monstre \"Yosenju\" que vous contrôlez déclare une attaque : jusqu'à la fin de la Battle Phase, vous pouvez faire gagner 300 ATK au monstre attaquant.",
+  "pendScale": 7,
+  "level": 10,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

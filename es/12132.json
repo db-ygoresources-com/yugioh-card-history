@@ -1,0 +1,18 @@
+{
+  "id": 12132,
+  "type": "monster",
+  "name": "Dinoniebla Stegosaur",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si otro Monstruo de Péndulo que controles batalla con un monstruo de tu adversario, después del cálculo de daño: puedes destruir esos monstruos.",
+  "pendEffect": "Si otra u otras cartas \"Dinoniebla\" que controlas fueran a ser destruidas en batalla o por efecto de una carta de tu adversario, puedes destruir esta carta en su lugar.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

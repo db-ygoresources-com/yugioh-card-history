@@ -1,0 +1,18 @@
+{
+  "id": 12882,
+  "type": "monster",
+  "name": "Performapal Barracuda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "During either player's turn: You can target 1 \"Performapal\" monster whose current ATK is different from its original ATK; it gains ATK equal to the difference until the end of this turn. You can only use this effect of \"Performapal Barracuda\" once per turn.",
+  "pendEffect": "Once per turn, if your \"Performapal\" monster battles an opponent's monster, before damage calculation: You can make that opponent's monster lose ATK equal to the difference between its original ATK and current ATK (even if this card leaves the field).",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Plant",
+    "Pendulum",
+    "Effect"
+  ]
+}

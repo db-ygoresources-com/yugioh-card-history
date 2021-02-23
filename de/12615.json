@@ -1,0 +1,16 @@
+{
+  "id": 12615,
+  "type": "monster",
+  "name": "Chemiwesen Oxy Ox",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Während deiner Main Phase: Du kannst 1 Zwillingsmonster als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, werden alle Zwillingsmonster, die du derzeit kontrollierst, bis zum Ende dieses Spielzugs zur Grund-Stufe des Monsters. Du kannst diesen Effekt von „Chemiwesen Oxy Ox“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Ungeheuer",
+    "Zwilling",
+    "Effekt"
+  ]
+}

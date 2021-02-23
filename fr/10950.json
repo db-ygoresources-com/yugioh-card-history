@@ -1,0 +1,10 @@
+{
+  "id": 10950,
+  "type": "spell",
+  "name": "Musée Fantôruse",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Les monstres que vous contrôlez (monstres \"Fantôruse\" exclus) ne peuvent pas attaquer. Les monstres ne peuvent pas attaquer les monstres en Position de Défense face verso, mais ils peuvent attaquer directement si tous les monstres contrôlés par l'adversaire sont en Position de Défense face verso. À la fin de la Damage Step, changez les monstres qui ont infligé des dommages de combat à un joueur durant ce combat en Position de Défense face verso.",
+  "englishProperty": "field",
+  "localizedProperty": "Terrain"
+}

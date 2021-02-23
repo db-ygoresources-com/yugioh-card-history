@@ -1,0 +1,16 @@
+{
+  "id": 6535,
+  "type": "monster",
+  "name": "HÉROE Elemental Steam Healer",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "\"HÉROE Elemental Burstinatrix\" + \"HÉROE Elemental Bubbleman\"\nEste monstruo no puede ser Invocado mediante una Invocación Especial excepto mediante una Invocación de Fusión. Cuando esta carta destruye un monstruo como resultado de una batalla y lo manda al Cementerio, aumenta tus Life Points en la misma cantidad que el ATK del monstruo destruido.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

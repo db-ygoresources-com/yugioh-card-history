@@ -1,0 +1,15 @@
+{
+  "id": 8551,
+  "type": "monster",
+  "name": "Genex-Verbündeter Wandler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, kannst du 1 offenes Monster auf dem Spielfeld wählen und 1 Eigenschaft benennen. Die Eigenschaft des gewählten Monsters wird bis zur End Phase zu der benannten Eigenschaft.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

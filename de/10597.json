@@ -1,0 +1,15 @@
+{
+  "id": 10597,
+  "type": "monster",
+  "name": "Nixenrüstung Abyssbalaen",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 4 andere „Nixenrüstung“-Monster auf den Friedhof abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Wenn du dies tust: Wähle Karten, die dein Gegner kontrolliert, bis zur Anzahl der „Nixenrüstung“-Monster in deinem Friedhof (falls möglich); diese Karte erhält 500 ATK und falls dies geschieht, zerstöre die gewählten Ziele (falls es welche gibt). Du kannst 1 anderes „Nixenrüstung“-Monster in offener Angriffsposition als Tribut anbieten; diese Karte erhält für diesen Spielzug den folgenden Effekt.\n●Am Beginn des Damage Steps, falls diese Karte gegen ein Monster in Verteidigungsposition kämpft: Zerstöre das Monster.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10749,
+  "type": "monster",
+  "name": "Sorcière Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; changez-le en Position de Défense face verso.",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

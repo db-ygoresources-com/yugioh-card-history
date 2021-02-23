@@ -1,0 +1,15 @@
+{
+  "id": 5561,
+  "type": "monster",
+  "name": "Goblin Zombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY. If this card is sent from the field to the GY: Add 1 Zombie monster with 1200 or less DEF from your Deck to your hand.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1050,
+  "properties": [
+    "Zombie",
+    "Effect"
+  ]
+}

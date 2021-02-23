@@ -1,0 +1,16 @@
+{
+  "id": 12434,
+  "type": "monster",
+  "name": "Amaterasu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente o Specialmente. Durante il turno di qualsiasi giocatore, quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio questo mostro coperto: puoi mettere questa carta scoperta in Posizione di Difesa; pesca 1 carta. Se questa carta viene scoperta: bandisci tutte le altre carte sul Terreno. Una volta per turno, durante la End Phase, se questa carta è stata scoperta in questo turno: falla ritornare nella mano.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Fata",
+    "Spirit",
+    "Effetto"
+  ]
+}

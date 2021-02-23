@@ -1,0 +1,18 @@
+{
+  "id": 12769,
+  "type": "monster",
+  "name": "Métrognome",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que vous avez 2 cartes de même Échelle Pendule dans vos Zones Pendule, cette carte gagne une ATK/DEF égales à l'Échelle Pendule x 100, et elle peut attaquer directement votre adversaire. Si cette carte inflige des dommages de combat à votre adversaire par une attaque directe : détruisez toutes les cartes dans les Zones Pendule.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 autre carte dans une Zone Pendule ; jusqu'à la fin de ce tour, l'Échelle Pendule de cette carte devient égale à celle de la carte.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

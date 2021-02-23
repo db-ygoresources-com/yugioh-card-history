@@ -1,0 +1,15 @@
+{
+  "id": 5253,
+  "type": "monster",
+  "name": "Espíritu de Aqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de AGUA en tu Cementerio. Una vez por turno, durante la Standby Phase de tu adversario: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; cambia la posición de batalla de ese objetivo y, si lo haces, por el resto de este turno éste no puede cambiar su posición de batalla.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11030,
+  "type": "monster",
+  "name": "ZS - Weiser des Verschwindens",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du ein „Utopia“-Monster kontrollierst: Du kannst 1 Karte ziehen. Falls Monster, die du kontrollierst, während der Battle Phase verbannt werden (außer während des Damage Steps): Du kannst diese Karte vom Spielfeld verbannen und dann 1 der verbannten Monster wählen; beschwöre das gewählte Ziel als Spezialbeschwörung und falls du dies tust, verbanne 1 Monster, das dein Gegner kontrolliert und das 3000 oder weniger ATK hat. Du kannst nur 1 Effekt von „ZS - Weiser des Verschwindens“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 1,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

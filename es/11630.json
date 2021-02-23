@@ -1,0 +1,18 @@
+{
+  "id": 11630,
+  "type": "monster",
+  "name": "Infantes Montados de Draconia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Armadas con mosquetes y lanzas de hierro, estas tropas terrestres montadas del Imperio Draconia son temidas por el Reino Reptier y otras naciones limítrofes.",
+  "pendEffect": "Una vez por turno, si un Monstruo Normal que controlas destruye un monstruo de tu adversario en batalla, después del cálculo de daño: puedes añadir a tu mano 1 Monstruo Normal de Nivel 4 o mayor en tu Deck.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Guerrero-Bestia",
+    "Péndulo",
+    "Normal"
+  ]
+}

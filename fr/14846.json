@@ -1,0 +1,16 @@
+{
+  "id": 14846,
+  "type": "monster",
+  "name": "Och Mégalithe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Mégalithe\". Si cette carte est Invoquée Rituellement : vous pouvez piocher 1 carte, puis défaussez 1 carte. Durant la Main Phase (Effet Rapide) : vous pouvez activer cet effet ; Invoquez Rituellement 1 Monstre Rituel depuis votre main, en Sacrifiant des monstres depuis votre main ou Terrain (cette carte sur votre Terrain incluse) dont le Niveau total est supérieur ou égal au Niveau du Monstre Rituel. Vous ne pouvez utiliser cet effet de \"Och Mégalithe\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2700,
+  "properties": [
+    "Rocher",
+    "Rituel",
+    "Effet"
+  ]
+}

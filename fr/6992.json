@@ -1,0 +1,16 @@
+{
+  "id": 6992,
+  "type": "monster",
+  "name": "Cú Chulainn, l'Émergent",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte peut uniquement être Invoquée par Invocation Rituelle avec la Carte Magie Rituelle \"Emblème de l'Émergence\". Une fois par tour, vous pouvez retirer du jeu 1 Monstre Normal depuis votre Cimetière. Cette carte gagne un montant d'ATK égal à l'ATK du Monstre Normal jusqu'à la Standby Phase de votre prochain tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Rituel",
+    "Effet"
+  ]
+}

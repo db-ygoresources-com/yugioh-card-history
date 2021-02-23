@@ -1,0 +1,15 @@
+{
+  "id": 6883,
+  "type": "monster",
+  "name": "Statue-Barrière du Torrent",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Aucun joueur ne peut Invoquer Spécialement de monstres (monstres EAU exclus).",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

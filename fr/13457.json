@@ -1,0 +1,19 @@
+{
+  "id": 13457,
+  "type": "monster",
+  "name": "Clochelien",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres\nVous ne pouvez pas Invoquer par Lien cette carte sauf si vous avez min. 3 cartes de plus que votre adversaire dans votre Extra Deck.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Elfe",
+    "Lien",
+    "Effet"
+  ]
+}

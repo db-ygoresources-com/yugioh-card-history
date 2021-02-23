@@ -1,0 +1,15 @@
+{
+  "id": 4999,
+  "type": "monster",
+  "name": "Slifer il Drago del Cielo",
+  "englishAttribute": "divine",
+  "localizedAttribute": "DIVINO",
+  "effectText": "Richiede 3 Tributi per essere Evocato Normalmente (non può essere Posizionato Normalmente). L'Evocazione Normale di questa carta non può essere annullata. Quando viene Evocato Normalmente, non possono essere attivate carte o effetti. Una volta per turno, durante la End Phase, se questa carta è stata Evocata Specialmente: mandala al Cimitero. Guadagna 1000 ATK/DEF per ogni carta nella tua mano. Se uno o più mostri vengono Evocati Normalmente o Specialmente sul Terreno del tuo avversario in Posizione di Attacco: quei mostri perdono 2000 ATK, poi, se come risultato il loro ATK è stato ridotto a 0, distruggili.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Divinità-Bestia",
+    "Effetto"
+  ]
+}

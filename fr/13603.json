@@ -1,0 +1,19 @@
+{
+  "id": 13603,
+  "type": "monster",
+  "name": "Zenmaintenance Automate",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres \"Automate\"\nSi cette carte est détruite et envoyée au Cimetière : vous pouvez cibler 1 Monstre Xyz \"Automate\" que vous contrôlez ; attachez-lui cette carte comme Matériel. Vous ne pouvez utiliser chacun des effets suivants de \"Zenmaintenance Automate\" qu'une fois par tour.\n●Si cette carte est Invoquée par Lien : vous pouvez ajouter 1 carte \"Automate\" depuis votre Deck à votre main.\n●Vous pouvez bannir face verso 1 monstre \"Automate\" face recto que vous contrôlez ; Invoquez Spécialement 1 monstre du même nom que la carte avait sur le Terrain depuis votre Deck.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

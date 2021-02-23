@@ -1,0 +1,15 @@
+{
+  "id": 11657,
+  "type": "monster",
+  "name": "Harpiste Harpie",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Le nom de cette carte devient \"Dame Harpie\" tant qu'elle est sur le Terrain ou dans le Cimetière. Vous ne pouvez utiliser chacun de ces effets de \"Harpiste Harpie\" qu'une fois par tour.\n●Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 autre monstre Bête Ailée que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire ; renvoyez-les à la main.\n●Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter 1 monstre Bête Ailée de Niveau 4 avec max. 1500 ATK depuis votre Deck à votre main.",
+  "level": 4,
+  "atk": 1700,
+  "def": 600,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11815,
+  "type": "monster",
+  "name": "Feueritter Galan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Ein Anführer der schneidigsten Feueritter-Kommandoeinheit. Es ist seine größte Herausforderung, das hitzige Temperament seiner Männer unter Kontrolle zu halten.",
+  "pendEffect": "Falls du eine „Feueritter“-Karte in deiner anderen Pendelzone hast: Du kannst beide Karten in deinen Pendelzonen zerstören und falls du dies tust, füge deiner Hand 1 FEUER Monster vom Typ Krieger von deinem Deck oder Friedhof hinzu.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 2200,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Normal"
+  ]
+}

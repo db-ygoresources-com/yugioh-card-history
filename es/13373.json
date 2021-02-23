@@ -1,0 +1,15 @@
+{
+  "id": 13373,
+  "type": "monster",
+  "name": "Compañero de Striping",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial con el siguiente efecto. Si es negada la activación de un efecto de un monstruo que controlas (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano.\nCuando esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo Ciberso de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Compañero de Striping\" una vez por turno.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

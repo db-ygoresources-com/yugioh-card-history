@@ -1,0 +1,18 @@
+{
+  "id": 11697,
+  "type": "monster",
+  "name": "Zefrainaga Sombrañeca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada por Péndulo o mandada al Cementerio: puedes seleccionar 1 carta en la Zona de Péndulo de cualquier jugador; devuélvela a la mano. Debes tener una carta \"Zefra\" en tu Zona de Péndulo para activar y resolver este efecto. Sólo puedes usar este efecto de \"Zefrainaga Sombrañeca\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Sombrañeca\" y \"Zefra\". Este efecto no puede ser negado.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

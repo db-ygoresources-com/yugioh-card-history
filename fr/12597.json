@@ -1,0 +1,15 @@
+{
+  "id": 12597,
+  "type": "monster",
+  "name": "Murène Népenthès Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte gagne 200 ATK pour chaque Compteur Prédateur sur le Terrain. Lorsque cette carte détruit un monstre de votre adversaire au combat : vous pouvez équiper le monstre à cette carte. Une fois par tour : vous pouvez cibler 1 Carte Monstre équipée à cette carte par l'effet de cette carte ; détruisez-la, et si vous le faites, gagnez des LP égaux à son ATK d'origine.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14255,
+  "type": "monster",
+  "name": "Fifinellag Altergeist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les monstres contrôlés par votre adversaire ne peuvent pas cibler les monstres \"Altergeist\" que vous contrôlez (\"Fifinellag Altergeist\" exclu) avec une attaque, et aussi, votre adversaire ne peut pas cibler de monstres \"Altergeist\" que vous contrôlez (\"Fifinellag Altergeist\" exclu) avec des effets de carte.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

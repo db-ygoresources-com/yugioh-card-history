@@ -1,0 +1,16 @@
+{
+  "id": 11717,
+  "type": "monster",
+  "name": "Mouton Frourreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Chaîne du Lutin Tranchant\" + 1 monstre \"Peluchimal\"\nSi cette carte combat, votre adversaire ne peut ni activer de cartes ni d'effets jusqu'à la fin de la Damage Step. Si cette carte est détruite au combat et envoyée au Cimetière, ou si cette carte en votre possession est détruite par un effet de carte de votre adversaire et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, elle gagne 800 ATK. Vous ne pouvez utiliser cet effet de \"Mouton Frourreur\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

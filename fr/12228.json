@@ -1,0 +1,19 @@
+{
+  "id": 12228,
+  "type": "monster",
+  "name": "D/D Orthros",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque vous recevez des dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement sur votre Terrain, vous ne pouvez pas Invoquer Spécialement de monstres (monstres de Type Démon exclus) le reste de ce tour.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain et 1 autre carte \"D/D\" ou \"Contrat des Ténèbres\" que vous contrôlez ; détruisez-les.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1800,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

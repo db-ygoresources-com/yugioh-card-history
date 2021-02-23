@@ -1,0 +1,15 @@
+{
+  "id": 10990,
+  "type": "monster",
+  "name": "Gwenhwyfar, Rainha das Armas Nobres",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode escolher 1 monstro \"Nobre Cavaleiro\" que você controla; equipe este card da sua mão ou Cemitério no alvo. Você só pode usar este efeito de \"Gwenhwyfar, Rainha das Armas Nobres\" uma vez por turno. O monstro equipado ganha 300 de ATK. Aplique o efeito apropriado, de acordo com o Atributo do monstro equipado.\n●LUZ: Se o monstro equipado seria destruído por um efeito de card, em vez disso, você pode destruir este card.\n●TREVAS: Se o monstro equipado batalhar um monstro do oponente, no começo da Etapa de Dano: você pode destruir esse monstro e, depois, destruir este card.",
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

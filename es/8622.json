@@ -1,0 +1,16 @@
+{
+  "id": 8622,
+  "type": "monster",
+  "name": "Maestro de la Espada",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si un monstruo de Tipo Guerrero que controlas ataca a un monstruo de tu adversario, y el monstruo de tu adversario no es destruido en batalla, al final del Damage Step puedes Invocar esta carta de Modo Especial desde tu mano. Durante una batalla entre esta carta atacante y un monstruo en Posición de Defensa cuya DEF sea menor que el ATK de esta carta, inflige la diferencia como daño de batalla a tu adversario.",
+  "level": 3,
+  "atk": 1200,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

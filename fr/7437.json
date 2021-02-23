@@ -1,0 +1,15 @@
+{
+  "id": 7437,
+  "type": "monster",
+  "name": "Koala des Mers",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; jusqu'à la fin de ce tour, changez son ATK à 0. Vous devez contrôler un monstre de Type Bête (cette carte exclue) pour activer et résoudre cet effet.",
+  "level": 2,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

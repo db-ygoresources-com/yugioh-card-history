@@ -1,0 +1,18 @@
+{
+  "id": 12110,
+  "type": "monster",
+  "name": "Mago Spezzatempo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta viene Evocata Pendulum dalla mano (e nessun'altra carta viene Evocata Pendulum allo stesso tempo): puoi far diventare l'ATK di questa carta il doppio del suo ATK originale. Una volta per turno: puoi scegliere come bersaglio 1 mostro sul Terreno; bandisci sia esso che questa carta dal Terreno fino alla tua prossima Standby Phase.",
+  "pendEffect": "Ogni turno, la prima volta che uno o più Mostri Pendulum che controlli stanno per essere distrutti dall'effetto di una carta dell'avversario, non vengono distrutti.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1400,
+  "def": 0,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

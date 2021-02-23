@@ -1,0 +1,18 @@
+{
+  "id": 12425,
+  "type": "monster",
+  "name": "Dinonévoa Anquilo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Bana qualquer monstro destruído em batalha com um monstro \"Dinonévoa\" que você controla.",
+  "pendEffect": "Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de card ativado que escolhe como alvo outro(s) card(s) \"Dinonévoa\" que você controla e, depois, destrua este card.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

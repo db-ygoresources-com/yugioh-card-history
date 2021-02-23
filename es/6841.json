@@ -1,0 +1,15 @@
+{
+  "id": 6841,
+  "type": "monster",
+  "name": "Ingeniero de Mecanismo Antiguo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Niega el efecto de cualquier Trampa que tenga como objetivo esta carta y, si lo haces, destruye esa Carta de Trampa. Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa. Al final del Damage Step, si esta carta atacó: selecciona 1 Carta Mágica/de Trampa que controle tu adversario; destruye ese objetivo.",
+  "level": 5,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13699,
+  "type": "monster",
+  "name": "Testintrulucane",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 Monstres à Effet\nSi votre monstre lié attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

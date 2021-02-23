@@ -1,0 +1,18 @@
+{
+  "id": 11458,
+  "type": "monster",
+  "name": "D/D Cerbero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada por Péndulo desde la mano, mientras controlas un monstruo \"D/D\" que no sea \"D/D Cerbero\": puedes seleccionar 1 Carta Mágica Continua en tu Cementerio; añádela a tu mano.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo \"D/D\" que controles; cambia su Nivel a 4 y, si lo haces, éste gana 400 ATK y DEF (aún si esta carta deja el Campo).",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

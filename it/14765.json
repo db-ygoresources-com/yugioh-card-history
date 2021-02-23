@@ -1,0 +1,16 @@
+{
+  "id": 14765,
+  "type": "monster",
+  "name": "Dragonzella Governante",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 mostro \"Dragonzella\" + 1 mostro Drago\nUna volta per turno, durante la Standby Phase: puoi scegliere come bersaglio 1 altro mostro \"Dragonzella\" che controlli; Evoca Specialmente dalla tua mano o Cimitero 1 mostro \"Dragonzella\" in Posizione di Difesa, con Livello superiore di 1 o inferiore di 1 a esso. Quando uno o più altri mostri Drago scoperti che controlli ritornano nella tua mano (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Effetto"
+  ]
+}

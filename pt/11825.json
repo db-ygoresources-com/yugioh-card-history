@@ -1,0 +1,18 @@
+{
+  "id": 11825,
+  "type": "monster",
+  "name": "Abdutor Mágico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Ganha 100 de ATK para cada Marcador de Magia sobre ele. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 monstro Mago de Nível 1 do seu Deck à sua mão.",
+  "pendEffect": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 Monstro Pêndulo do seu Deck à sua mão.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

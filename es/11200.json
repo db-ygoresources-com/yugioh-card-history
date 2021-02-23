@@ -1,0 +1,15 @@
+{
+  "id": 11200,
+  "type": "monster",
+  "name": "Mujer Vampira",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, cuando esta carta o un monstruo \"Vampiro/a\" es Invocado de Modo Normal a tu Campo: puedes seleccionar 1 monstruo boca arriba que controle tu adversario y cuyo ATK sea mayor que el de esta carta; equípalo a esta carta. Esta carta gana ATK igual al ATK original combinado de los monstruos equipados a ella por este efecto. Si esta carta es mandada al Cementerio, mientras está equipada con una o más cartas por este efecto: Invoca esta carta de Modo Especial.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

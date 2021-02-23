@@ -1,0 +1,15 @@
+{
+  "id": 12433,
+  "type": "monster",
+  "name": "Blockdrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 3 ERDE Monster von deiner Hand und/oder deinem Friedhof verbannst. Fels-Monster, die du kontrollierst, können nicht zerstört werden, außer durch Kampf. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand bis zu 3 Fels-Monster von deinem Deck hinzufügen, deren gemeinsame Stufe 8 entspricht. Du kannst diesen Effekt von „Blockdrache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

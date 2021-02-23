@@ -1,0 +1,15 @@
+{
+  "id": 6120,
+  "type": "monster",
+  "name": "Bärtiger Anglerfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn du ein WASSER Monster als Tributbeschwörung beschwörst, kannst du dieses Monster als 2 Tributmonster für diese Tributbeschwörung behandeln.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1600,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

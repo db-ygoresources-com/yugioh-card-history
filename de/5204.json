@@ -1,0 +1,15 @@
+{
+  "id": 5204,
+  "type": "monster",
+  "name": "Heilende Nixe",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange diese Karte offen auf deiner Spielfeldseite liegt, erhöhe deine Life Points in jeder deiner Standby Phasen um 800 Punkte.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11140,
+  "type": "monster",
+  "name": "Hydrotortoise, le Guerrier Éveillé",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Ciblez 1 Carte Magie/Piège contrôlée par votre adversaire ; détruisez-la.",
+  "level": 3,
+  "atk": 1400,
+  "def": 900,
+  "properties": [
+    "Guerrier",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12405,
+  "type": "monster",
+  "name": "Artistamico Bulladog",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando questa carta viene Evocata Specialmente dall'Extra Deck: puoi attivare questo effetto; per il resto di questo turno, i Mostri Pendulum che controlli che sono stati Evocati Specialmente dall'Extra Deck non possono essere distrutti dagli effetti delle carte.",
+  "pendEffect": "Se uno o più Mostri non-Pendulum scoperti che controlli che sono stati Evocati Specialmente dall'Extra Deck stanno per essere distrutti in battaglia o dall'effetto di una carta, puoi invece distruggere questa carta.",
+  "pendScale": 5,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

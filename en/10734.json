@@ -1,0 +1,15 @@
+{
+  "id": 10734,
+  "type": "monster",
+  "name": "Malicevorous Spoon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When a \"Malicevorous\" monster with a different name is Normal or Special Summoned to your side of the field (except during the Damage Step): You can target 1 Level 2 Fiend-Type monster in your Graveyard; Special Summon that target. Its effects are negated. You can only use the effect of \"Malicevorous Spoon\" once per turn.",
+  "level": 2,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

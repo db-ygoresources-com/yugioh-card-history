@@ -1,0 +1,15 @@
+{
+  "id": 13463,
+  "type": "monster",
+  "name": "Altergeist Multiengaño",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si activas una Carta de Trampa (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Especial: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Altergeist\" en Posición de Defensa, excepto \"Altergeist Multiengaño\". El turno en que activas este efecto no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Altergeist\". Sólo puedes usar cada efecto de \"Altergeist Multiengaño\" una vez por turno.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

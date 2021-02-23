@@ -1,0 +1,15 @@
+{
+  "id": 10765,
+  "type": "monster",
+  "name": "Cazador de Vampiros",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Al comienzo del Damage Step, si esta carta batalla con un monstruo de OSCURIDAD: destruye ese monstruo.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

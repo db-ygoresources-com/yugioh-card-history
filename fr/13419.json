@@ -1,0 +1,21 @@
+{
+  "id": 13419,
+  "type": "monster",
+  "name": "Saryuja Terreur du Crâne",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres de noms différents\nCette carte gagne des effets selon le nombre de Matériels utilisés pour son Invocation par Lien.\n●2+ : Si un ou plusieurs monstres sont Invoqués Normalement ou Spécialement dans une zone pointée par cette carte : ces monstres gagnent 300 ATK/DEF.\n●3+ : Une fois par tour, durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre depuis votre main.\n●4 : Lorsque cette carte est Invoquée par Lien : vous pouvez piocher 4 cartes, puis placez 3 cartes depuis votre main au-dessous de votre Deck dans l'ordre de votre choix.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Dragon",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5485,
+  "type": "monster",
+  "name": "Lord Veneno",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta es destruida en batalla y mandada al Cementerio: selecciona 1 monstruo de Tipo Planta en tu Cementerio, excepto \"Lord Veneno\"; Invoca ese objetivo de Modo Especial.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

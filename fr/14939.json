@@ -1,0 +1,19 @@
+{
+  "id": 14939,
+  "type": "monster",
+  "name": "Échidné Reptilia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres (un monstre Reptile inclus)\nSi cette carte est Invoquée par Lien : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; changez son ATK à 0. Durant votre Main Phase, si votre adversaire contrôle un ou plusieurs monstres avec 0 ATK : vous pouvez ajouter un nombre de monstres Reptile de noms différents depuis votre Deck à votre main, inférieur ou égal au nombre de monstres contrôlés par votre adversaire avec 0 ATK, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Reptile exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Échidné Reptilia\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 200,
+  "properties": [
+    "Reptile",
+    "Lien",
+    "Effet"
+  ]
+}

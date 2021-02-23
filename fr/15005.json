@@ -1,0 +1,15 @@
+{
+  "id": 15005,
+  "type": "monster",
+  "name": "Requin Scie Circulaire",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez cibler 1 monstre EAU que vous contrôlez ; Invoquez Spécialement 1 monstre Poisson du même Niveau que le monstre mais de nom différent depuis votre Deck en Position de Défense, et si vous le faites, il ne peut pas activer ses effets ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Xyz exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Requin Scie Circulaire\" qu'une fois par tour. Si cette carte est utilisée pour l'Invocation Xyz d'un monstre EAU, elle peut être traitée comme un monstre de Niveau 3 ou 5.",
+  "level": 4,
+  "atk": 1600,
+  "def": 500,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

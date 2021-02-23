@@ -1,0 +1,16 @@
+{
+  "id": 6643,
+  "type": "monster",
+  "name": "Homme-Oiseau Sauvage, HÉROS Élémentaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Cœur Farouche, HÉROS Élémentaire\" + \"Avian, HÉROS Élémentaire\"\nCe monstre ne peut pas être Invoqué par Invocation Spéciale excepté par une Invocation Fusion. En défaussant 1 carte, détruisez 1 Carte Magie ou Piège sur le Terrain.",
+  "level": 8,
+  "atk": 1900,
+  "def": 2300,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

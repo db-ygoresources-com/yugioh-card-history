@@ -1,0 +1,18 @@
+{
+  "id": 11699,
+  "type": "monster",
+  "name": "Zefraxi, Trésor du Yang Zing",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée par Pendulation, ou Invoquée Spécialement depuis le Main Deck : vous pouvez cibler 1 monstre \"Yang Zing\" ou \"Zefra\" que vous contrôlez (\"Zefraxi, Trésor du Yang Zing\" exclu) ; le monstre face recto est traité comme un Syntoniseur ce tour, et aussi, placez cette carte au-dessous du Deck lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Zefraxi, Trésor du Yang Zing\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Yang Zing\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Wyrm",
+    "Pendule",
+    "Effet"
+  ]
+}

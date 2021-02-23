@@ -1,0 +1,16 @@
+{
+  "id": 7897,
+  "type": "monster",
+  "name": "Turbo Guerriero",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "\"Turbo Synchron\" + 1 o più mostri non-Tuner\nQuando questa carta dichiara un attacco su un Mostro Synchro di Livello 6 o superiore: dimezza l'ATK del bersaglio dell'attacco fino alla fine del Damage Step. Questa carta non può essere scelta come bersaglio dagli effetti dei mostri di Livello 6 o inferiore.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Guerriero",
+    "Synchro",
+    "Effetto"
+  ]
+}

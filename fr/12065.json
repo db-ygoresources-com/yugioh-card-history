@@ -1,0 +1,16 @@
+{
+  "id": 12065,
+  "type": "monster",
+  "name": "Vouivre Rouge",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nDurant le tour de chaque joueur, si un monstre avec une ATK supérieure à cette carte Invoquée par Synchronisation est sur le Terrain : vous pouvez détruire le monstre face recto sur le Terrain avec la plus haute ATK (en cas d'égalité, vous choisissez). Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13085,
+  "type": "monster",
+  "name": "Drago Bomba Topologica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2+ Mostri con Effetto\nSe un altro mostro viene Evocato Specialmente in una zona puntata da un Mostro Link, mentre questo mostro è sul Terreno: distruggi tutti i mostri nella Zona Mostri Main, inoltre gli altri tuoi mostri non possono attaccare per il resto di questo turno. Dopo il calcolo dei danni, se questa carta ha attaccato un mostro dell'avversario: infliggi al tuo avversario danno pari all'ATK originale di quel mostro.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

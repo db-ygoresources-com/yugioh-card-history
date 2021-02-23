@@ -1,0 +1,18 @@
+{
+  "id": 11476,
+  "type": "monster",
+  "name": "Yosenju Shinchu G",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est Invoquée Normalement : changez-la en Position de Défense. Votre adversaire ne peut pas cibler de monstres \"Yosenju\" que vous contrôlez (celui-ci exclu) avec des effets de carte.",
+  "pendEffect": "Si un ou plusieurs monstres \"Yosenju\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez détruire cette carte à la place.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Rocher",
+    "Pendule",
+    "Effet"
+  ]
+}

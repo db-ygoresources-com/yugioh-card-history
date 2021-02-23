@@ -1,0 +1,18 @@
+{
+  "id": 12710,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Fiese Ferse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; es verliert bis zum Ende dieses Spielzugs 1000 ATK für jedes „Abgrundschauspieler“-Monster, das du derzeit kontrollierst. Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört: Du kannst 1 „Abgrundskript“-Zauberkarte in deinem Friedhof wählen; setze die Karte.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Abgrundschauspieler“-Monster als Tribut anbieten und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; es verliert bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des als Tribut angebotenen Monsters (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

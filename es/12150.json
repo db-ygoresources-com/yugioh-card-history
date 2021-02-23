@@ -1,0 +1,18 @@
+{
+  "id": 12150,
+  "type": "monster",
+  "name": "Cebra Chiflada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes elegir 1 espacio en la Zona de Monstruos o Zona de Magia y Trampas que no esté siendo usado; mientras esta carta esté boca arriba en la Zona de Monstruos, esa Zona no puede ser usada.",
+  "pendEffect": "Una vez por turno, durante tu Main Phase, si esta carta fue activada este turno: puedes elegir 1 espacio en la Zona de Monstruos o Zona de Magia y Trampas que no esté siendo usado; mientras esta carta esté en la Zona de Péndulo, la Zona elegida no puede ser usada.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

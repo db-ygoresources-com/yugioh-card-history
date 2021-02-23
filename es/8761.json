@@ -1,0 +1,15 @@
+{
+  "id": 8761,
+  "type": "monster",
+  "name": "Sacedortisa del Cuidador de Tumbas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras no haya una Mágica de Campo boca arriba, el Campo se trata como \"Necrovalle\". Todos los monstruos \"Cuidador de Tumbas\" en el Campo ganan 200 ATK/DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

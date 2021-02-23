@@ -1,0 +1,15 @@
+{
+  "id": 5666,
+  "type": "monster",
+  "name": "Obédience du Démon Ultime",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cette carte ne peut attaquer que s'il n'y a pas d'autres cartes sur votre Terrain et si vous n'avez pas de cartes en main. Les effets des Monstres à Effet détruits par cette carte sont annulés.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

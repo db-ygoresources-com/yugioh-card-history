@@ -1,0 +1,18 @@
+{
+  "id": 14441,
+  "type": "monster",
+  "name": "Magíster de Endimión",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Sólo puedes Invocar de Modo Especial uno o más \"Magíster de Endimión\" una vez por turno. Cuando esta carta declara un ataque: puedes poner 1 Contador Mágico en ella. Una vez por turno del adversario (Efecto Rápido): puedes retirar 3 Contadores Mágicos de tu Campo; Invoca de Modo Especial 1 monstruo en tu Deck al que le puedas poner un Contador Mágico. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo, y después ponle la misma cantidad de Contadores Mágicos que tenía como monstruo.",
+  "pendEffect": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Puedes retirar de esta carta 3 Contadores Mágicos; Invoca de Modo Especial tanto esta carta en tu Zona de Péndulo como 1 monstruo boca arriba en tu Deck Extra al que le puedas poner un Contador Mágico y, si lo haces, pon 1 Contador Mágico a cada uno.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

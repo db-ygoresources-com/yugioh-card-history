@@ -1,0 +1,16 @@
+{
+  "id": 7200,
+  "type": "monster",
+  "name": "Punk Golem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ● L'ATK d'origine de cette carte devient 2100.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Rocher",
+    "Gémeau",
+    "Effet"
+  ]
+}

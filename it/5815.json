@@ -1,0 +1,15 @@
+{
+  "id": 5815,
+  "type": "monster",
+  "name": "Kangaroo Mortale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se l'ATK di un mostro che attacca questo mostro è inferiore al DEF di questo mostro, distruggi il mostro attaccante. (Il calcolo dei danni viene applicato normalmente.)",
+  "level": 4,
+  "atk": 1500,
+  "def": 1700,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

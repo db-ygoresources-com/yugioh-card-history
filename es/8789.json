@@ -1,0 +1,15 @@
+{
+  "id": 8789,
+  "type": "monster",
+  "name": "Generador de Azar Inférnico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, mientras no tengas cartas en tu mano, puedes robar 1 carta y mostrarla. Si robas una Carta de Monstruo por este efecto, inflige daño a tu adversario igual al Nivel de ese monstruo x 200. Si robas una Carta Mágica o de Trampa, tú recibes 500 puntos de daño.",
+  "level": 1,
+  "atk": 900,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

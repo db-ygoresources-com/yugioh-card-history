@@ -1,0 +1,15 @@
+{
+  "id": 7886,
+  "type": "monster",
+  "name": "Serpent Chaîne de Fer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant votre Main Phase, vous pouvez équiper cette carte à 1 monstre face recto contrôlé par votre adversaire. Ce monstre perd 800 points d'ATK et de DEF. Lorsqu'il est détruit au combat et envoyé au Cimetière, son contrôleur envoie un nombre de cartes égal à son Niveau du dessus de son Deck au Cimetière.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

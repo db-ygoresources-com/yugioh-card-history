@@ -1,0 +1,21 @@
+{
+  "id": 13258,
+  "type": "monster",
+  "name": "Drago Callibrocarica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "3+ Mostri con Effetto\nNessun giocatore può scegliere come bersaglio questa carta con gli effetti dei mostri. Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; esso perde 500 ATK/DEF. Il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questo effetto. All'inizio del Damage Step, se questa carta attacca un mostro dell'avversario: puoi mettere quel mostro dell'avversario in una zona puntata da questa carta e prenderne il controllo, ma mandalo al Cimitero durante la End Phase del prossimo turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Drago",
+    "Link",
+    "Effetto"
+  ]
+}

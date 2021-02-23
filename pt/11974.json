@@ -1,0 +1,18 @@
+{
+  "id": 11974,
+  "type": "monster",
+  "name": "Cavaleirardor Cavalier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "As ostentosas armas desse Cavaleirardor rosa já causaram tanto dano ao seu inimigo quanto às suas próprias tropas, mas ela alcança resultados, então poucos reclamam.",
+  "pendEffect": "Se você tiver um card \"Cavaleirardor\" na sua outra Zona de Pêndulo: você pode destruir os dois cards nas suas Zonas de Pêndulo e, se isso acontecer, adicione 1 monstro de FOGO do Tipo Guerreiro do seu Deck ou Cemitério à sua mão.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

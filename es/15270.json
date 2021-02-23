@@ -1,0 +1,16 @@
+{
+  "id": 15270,
+  "type": "monster",
+  "name": "Phul Megalítico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Megalítico/a\". Si esta carta es Invocada por Ritual: puedes seleccionar 1 Monstruo de Ritual en tu Cementerio; el Nivel de esta carta se convierte en el Nivel de ese objetivo, y después añade ese objetivo a tu mano. Durante la Main Phase (Efecto Rápido): puedes activar este efecto; Invoca por Ritual, desde tu mano o Deck, 1 Monstruo de Ritual \"Megalítico/a\" Sacrificando monstruos en tu mano o Campo cuyos Niveles totales igualen o superen el Nivel del Monstruo de Ritual. Sólo puedes usar cada efecto de \"Phul Megalítico\" una vez por turno.",
+  "level": 2,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Roca",
+    "Ritual",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6932,
+  "type": "monster",
+  "name": "Antiker Antriebsgadjiltrondrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Diese Karte erhält die entsprechenden Effekte, falls du sie als Normalbeschwörung beschwörst, indem du diese Monster als Tribut anbietest.\n●Grüner Apparat: Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.\n●Roter Apparat: Falls diese Karte deinem Gegner Kampfschaden zufügt: Füge deinem Gegner 400 Schaden zu.\n●Gelber Apparat: Falls diese Karte ein Monster deines Gegners durch Kampf zerstört: Füge deinem Gegner 600 Schaden zu.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

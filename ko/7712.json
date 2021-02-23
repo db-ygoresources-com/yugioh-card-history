@@ -1,0 +1,16 @@
+{
+  "id": 7712,
+  "type": "monster",
+  "name": "몽타주 드래곤",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "이 카드는 일반 소환/세트할 수 없다. 패의 몬스터 카드를 3장 묘지로 보냈을 경우에만 특수 소환할 수 있다. 이 카드의 공격력은, 이 카드의 특수 소환시에 묘지로 보낸 몬스터 레벨의 합계 × 300 이 된다.",
+  "level": 8,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "드래곤족",
+    "특수 소환",
+    "효과"
+  ]
+}

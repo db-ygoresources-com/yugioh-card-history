@@ -1,0 +1,16 @@
+{
+  "id": 7819,
+  "type": "monster",
+  "name": "Arciere Flamvell",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Una volta per turno, puoi offrire come Tributo 1 mostro di Tipo Pyro scoperto che controlli per far guadagnare a tutti i mostri \"Flamvell\" sul Terreno 800 ATK fino alla End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Tuner",
+    "Effetto"
+  ]
+}

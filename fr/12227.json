@@ -1,0 +1,18 @@
+{
+  "id": 12227,
+  "type": "monster",
+  "name": "D/D Savant Copernic",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 carte \"D/D\" ou \"Contrat des Ténèbres\" (\"D/D Savant Copernic\" exclu) depuis votre Deck au Cimetière. Vous ne pouvez utiliser cet effet de \"D/D Savant Copernic\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"D/D\" exclus). Cet effet ne peut pas être annulé. Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de Magie activé qui va vous infliger des dommages, puis détruisez cette carte.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

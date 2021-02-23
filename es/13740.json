@@ -1,0 +1,15 @@
+{
+  "id": 13740,
+  "type": "monster",
+  "name": "Voleo de Cupido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes elegir un número del 1 al 3, y después mandar al Cementerio esa misma cantidad de cartas de la parte superior de tu Deck; hasta el final de este turno, aumenta el Nivel de esta carta por la cantidad de cartas mandadas al Cementerio de esta forma. Si esta carta que controlas es destruida por una carta del adversario y mandada a tu Cementerio: tú ganas 1500 LP. Sólo puedes usar cada efecto de \"Voleo de Cupido\" una vez por turno.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

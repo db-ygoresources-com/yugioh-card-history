@@ -1,0 +1,16 @@
+{
+  "id": 12960,
+  "type": "monster",
+  "name": "Wahrer König aller Katastrophen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Monster der Stufe 9\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und 1 Eigenschaft deklarieren; in diesem Spielzug werden alle offenen Monster auf dem Spielfeld zu der Eigenschaft, zusätzlich können die Effekte aller Monster mit der Eigenschaft, die deinem Gegner gehören, nicht aktiviert werden und sie können nicht angreifen. Monster, die „Wahre Dracho“- und „Wahrer König“-Monster in deiner Hand durch ihre Effekte zerstören würden, können von der Spielfeldseite deines Gegners bestimmt werden.",
+  "rank": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Xyz",
+    "Effekt"
+  ]
+}

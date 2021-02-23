@@ -1,0 +1,15 @@
+{
+  "id": 8898,
+  "type": "monster",
+  "name": "Mercante-Gemma",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Durante il Damage Step, nel turno di qualsiasi giocatore, quando un Mostro Normale TERRA scoperto che controlli attacca o viene attaccato: puoi mandare questa carta dalla tua mano al Cimitero; quel mostro guadagna 1000 ATK e DEF fino alla End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

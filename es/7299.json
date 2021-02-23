@@ -1,0 +1,15 @@
+{
+  "id": 7299,
+  "type": "monster",
+  "name": "Telépata Alienígena",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno puedes retirar 1 \"Contador A\" de un monstruo de tu adversario para destruir 1 Carta Mágica o de Trampa. (Si un monstruo con Contadores \"A\" batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador \"A\", sólo durante el cálculo de daño.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

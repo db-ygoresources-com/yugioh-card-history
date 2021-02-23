@@ -1,0 +1,15 @@
+{
+  "id": 12149,
+  "type": "monster",
+  "name": "Graveur de la Marque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque votre adversaire active une carte ou un effet en déclarant exactement 1 nom de carte (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; déclarez 1 autre nom de carte. Le nom de carte déclaré par votre adversaire devient le nom de carte déclaré par cet effet. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 carte face recto sur le Terrain ; détruisez-la durant la End Phase du prochain tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

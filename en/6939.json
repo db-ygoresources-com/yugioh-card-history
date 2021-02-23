@@ -1,0 +1,15 @@
+{
+  "id": 6939,
+  "type": "monster",
+  "name": "Card Trooper",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

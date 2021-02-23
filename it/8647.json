@@ -1,0 +1,16 @@
+{
+  "id": 8647,
+  "type": "monster",
+  "name": "Oliatore",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, puoi: scegliere come bersaglio 1 mostro di Tipo Macchina che controlli; equipaggia questa carta a quel bersaglio, OPPURE: disequipaggia questa carta ed Evocala Specialmente in Posizione di Attacco. Mentre è equipaggiato da questo effetto, se il mostro equipaggiato distrugge un mostro dell'avversario in battaglia: pesca 1 carta. (Un mostro può essere equipaggiato con 1 solo mostro Unione alla volta. Se il mostro equipaggiato sta per essere distrutto, distruggi invece questa carta.)",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Macchina",
+    "Unione",
+    "Effetto"
+  ]
+}

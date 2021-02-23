@@ -1,0 +1,18 @@
+{
+  "id": 11333,
+  "type": "monster",
+  "name": "Artistamigo Topofeliz",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes seleccionar 1 monstruo cuyo ATK en este momento sea diferente a su ATK original; aplica el efecto apropiado. Sólo puedes usar este efecto de \"Artistamigo Topofeliz\" una vez por turno.\n●Si el ATK en este momento de ese monstruo es mayor que su ATK original, éste gana 1000 ATK.\n●Si el ATK en este momento de ese monstruo es menor que su ATK original, éste pierde 1000 ATK.",
+  "pendEffect": "Todos los Monstruos de Péndulo que controles ganan 300 ATK.",
+  "pendScale": 5,
+  "level": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

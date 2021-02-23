@@ -1,0 +1,15 @@
+{
+  "id": 11066,
+  "type": "monster",
+  "name": "Nopingouin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant le tour de chaque joueur, lorsqu'un effet de monstre \"Pingouin\" est activé : Invoquez Spécialement cette carte depuis votre Cimetière. Vous ne pouvez utiliser cet effet de \"Nopingouin\" qu'une fois par tour. Si cette carte va être retournée depuis le Terrain à la main par l'effet d'une carte \"Pingouin\", bannissez-la à la place.",
+  "level": 3,
+  "atk": 1600,
+  "def": 100,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

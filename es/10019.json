@@ -1,0 +1,15 @@
+{
+  "id": 10019,
+  "type": "monster",
+  "name": "Tiburón de Cuerda",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando un monstruo \"de Cuerda\" es Invocado de Modo Normal o Especial a tu lado del Campo: puedes Invocar esta carta de Modo Especial desde tu mano. Una vez por turno: puedes activar 1 de estos efectos.\n●Incrementa el Nivel de esta carta en 1, hasta la End Phase.\n●Reduce el Nivel de esta carta en 1, hasta la End Phase.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

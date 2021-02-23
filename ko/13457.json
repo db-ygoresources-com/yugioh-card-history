@@ -1,0 +1,19 @@
+{
+  "id": 13457,
+  "type": "monster",
+  "name": "링크르벨",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "몬스터 2장\n이 카드의 링크 소환은 자신의 엑스트라 덱의 매수가 상대보다도 3장 이상 많을 경우밖에 실행할 수 없다.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "천사족",
+    "링크",
+    "효과"
+  ]
+}

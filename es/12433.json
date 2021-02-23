@@ -1,0 +1,15 @@
+{
+  "id": 12433,
+  "type": "monster",
+  "name": "Dragón de Bloques",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano o Cementerio) desterrando 3 monstruos de TIERRA en tu mano y/o Cementerio. Los monstruos Roca que controles no pueden ser destruidos, excepto en batalla. Si esta carta es mandada del Campo al Cementerio: puedes añadir a tu mano hasta 3 monstruos Roca en tu Deck cuyos Niveles totales sean 8. Sólo puedes usar este efecto de \"Dragón de Bloques\" una vez por turno.",
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10734,
+  "type": "monster",
+  "name": "Cuillère Malicevore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un monstre \"Malicevore\" de nom différent est Invoqué Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 monstre de Type Démon de Niveau 2 dans votre Cimetière ; Invoquez Spécialement la cible. Ses effets sont annulés. Vous ne pouvez utiliser l'effet de \"Cuillère Malicevore\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

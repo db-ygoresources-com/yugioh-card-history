@@ -1,0 +1,16 @@
+{
+  "id": 11080,
+  "type": "monster",
+  "name": "Sijoliboss Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 2\nTant que vous contrôlez un autre monstre \"Fantôruse\", votre adversaire ne peut pas cibler cette carte avec une attaque. Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre face recto sur le Terrain avec une ATK inférieure ou égale à la somme des ATK de tous les monstres \"Fantôruse\" sur le Terrain ; détruisez-le, et si vous le faites, cette Zone Carte Monstre ne peut pas être utilisée tant que vous contrôlez un monstre \"Fantôruse\".",
+  "rank": 2,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Xyz",
+    "Effet"
+  ]
+}

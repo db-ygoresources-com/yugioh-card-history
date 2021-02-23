@@ -1,0 +1,15 @@
+{
+  "id": 7727,
+  "type": "monster",
+  "name": "Finsterer Jäger",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Effekt dieser Karte ändert sich in Abhängigkeit von der Anzahl der FINSTERNIS Monster in deinem Friedhof.\n●1 oder weniger: Diese Karte verliert 400 ATK.\n●2 bis 4: Diese Karte erhält 400 ATK.\n●5 oder mehr: Du kannst diese Karte auf den Friedhof legen, um alle verdeckten Monster zu zerstören, die dein Gegner kontrolliert.",
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

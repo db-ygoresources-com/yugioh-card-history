@@ -1,0 +1,15 @@
+{
+  "id": 8238,
+  "type": "monster",
+  "name": "Jurassier-Ptera",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte angegriffen wird, gib das angreifende Monster nach der Schadensberechnung auf die Hand zurück und diese Karte erhält DEF in Höhe der Stufe des auf die Hand zurückgegebenen Monsters x 100.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

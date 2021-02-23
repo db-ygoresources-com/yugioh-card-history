@@ -1,0 +1,18 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "Artistamigo Trompanda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando tu Monstruo de Péndulo es seleccionado para un ataque: puedes negar el ataque. Sólo puedes usar este efecto de \"Artistamigo Trompanda\" una vez por turno.",
+  "pendEffect": "Una vez por turno: puedes aumentar en 1 la Escala de Péndulo de esta carta (max. 12).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

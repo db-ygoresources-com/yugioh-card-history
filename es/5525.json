@@ -1,0 +1,15 @@
+{
+  "id": 5525,
+  "type": "monster",
+  "name": "Jarra de Cobra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Invoca mediante una Invocación Especial 1 \"Ficha de Serpiente Venenosa\"(Tipo Reptil/TIERRA/Nivel 3/ATK 1200/ DEF 1200) en tu Campo. Si la \"Ficha de Serpiente Venenosa\" es destruida como resultado de una batalla, inflige 500 puntos a los Life Points de tu adversario.",
+  "level": 2,
+  "atk": 600,
+  "def": 300,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

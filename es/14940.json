@@ -1,0 +1,20 @@
+{
+  "id": 14940,
+  "type": "monster",
+  "name": "Mecha Bestia Fantasma Auroradon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2+ monstruos Máquina\nSi esta carta es Invocada por Enlace: puedes activar este efecto; Invoca de Modo Especial 3 \"Fichas Mecha Bestia Fantasma\" (Máquina/VIENTO/Nivel 3/ATK 0/DEF 0), y además por el resto de este turno no puedes Invocar por Enlace. Una vez por turno: puedes Sacrificar hasta 3 monstruos, y después aplicar 1 de estos efectos, basados en el número de Sacrificios;\n●1: Destruye 1 carta en el Campo.\n●2: Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Mecha Bestia Fantasma\".\n●3: Añade a tu mano 1 Trampa en tu Cementerio.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "2",
+    "3"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

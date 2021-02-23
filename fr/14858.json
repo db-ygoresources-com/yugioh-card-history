@@ -1,0 +1,18 @@
+{
+  "id": 14858,
+  "type": "monster",
+  "name": "Contrôleur de la Pesanteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Monstre non-Lien dans une Zone Monstre Extra\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Cette carte dans la Zone Monstre Extra ne peut pas être détruite au combat avec un monstre dans la Zone Monstre Main. Au début de la Damage Step, si cette carte combat un monstre de l'adversaire dans la Zone Monstre Extra : vous pouvez renvoyer le monstre de l'adversaire ainsi que cette carte au Deck.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Psychique",
+    "Lien",
+    "Effet"
+  ]
+}

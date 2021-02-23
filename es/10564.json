@@ -1,0 +1,15 @@
+{
+  "id": 10564,
+  "type": "monster",
+  "name": "Niño Gagaga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas un monstruo \"Gagaga\" que no sea \"Niño Gagaga\", puedes Invocar esta carta de Modo Especial (desde tu mano). Cuando lo haces: puedes seleccionar 1 monstruo \"Gagaga\" que controles cuyo Nivel sea diferente al de esta carta; el Nivel de esta carta se convierte en el Nivel de ese monstruo. No puedes realizar tu Battle Phase el turno en el que activas este efecto.",
+  "level": 2,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

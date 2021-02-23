@@ -1,0 +1,16 @@
+{
+  "id": 15386,
+  "type": "monster",
+  "name": "Nummer 3: Zikadenkönig",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 Monster der Stufe 3\nFalls die Kampfposition dieser Karte geändert wird: Du kannst 1 Insekt-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof in die Verteidigungsposition beschwören. Wenn der Effekt eines Monsters auf dem Spielfeld aktiviert wird: Du kannst 1 Material von dieser Karte abhängen und dann das Monster wählen; annulliere seine Effekte, dann lasse entweder 1 Insekt-Monster auf dem Spielfeld 500 DEF erhalten oder ändere seine Kampfposition. Du kannst jeden Effekt von „Nummer 3: Zikadenkönig“ nur einmal pro Spielzug verwenden.",
+  "rank": 3,
+  "atk": 1200,
+  "def": 2500,
+  "properties": [
+    "Insekt",
+    "Xyz",
+    "Effekt"
+  ]
+}

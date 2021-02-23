@@ -1,0 +1,16 @@
+{
+  "id": 13924,
+  "type": "monster",
+  "name": "Titan, Dragon du Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "3 monstres \"Dragon du Tonnerre\"\nUniquement Invocable par Fusion, ou Invocable Spécialement en bannissant 1 monstre Tonnerre depuis votre main et 1 Monstre Fusion Tonnerre que vous contrôlez (\"Titan, Dragon du Tonnerre\" exclu) (auquel cas vous n'utilisez pas \"Polymérisation\"). Lorsqu'un effet de monstre Tonnerre est activé dans la main, même durant la Damage Step (Effet Rapide) : vous pouvez détruire 1 carte sur le Terrain. Si cette carte va être détruite par un effet de carte, vous pouvez bannir 2 cartes depuis votre Cimetière à la place.",
+  "level": 10,
+  "atk": 3200,
+  "def": 3200,
+  "properties": [
+    "Tonnerre",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12830,
+  "type": "monster",
+  "name": "Fourmisarracenia Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un monstre de votre adversaire déclare une attaque directe : vous pouvez Invoquer Spécialement cette carte depuis votre main. Après le calcul des dommages, si cette carte a combattu un monstre de votre adversaire : vous pouvez détruire le monstre de votre adversaire. Si cette carte est détruite au combat, ou si cette carte sur le Terrain est envoyée au Cimetière par un effet de carte : vous pouvez ajouter 1 carte \"Prédap\" (\"Fourmisarracenia Prédaplante\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Fourmisarracenia Prédaplante\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

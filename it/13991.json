@@ -1,0 +1,18 @@
+{
+  "id": 13991,
+  "type": "monster",
+  "name": "Padrone Pellicciaspavento",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro \"Pellicciaspavento\", \"Fluffal\" o \"Imp Filo\" di Livello 4 o inferiore dal tuo Deck, inoltre non puoi Evocare Specialmente mostri dall'Extra Deck per il resto di questo turno, eccetto Mostri Fusione. Puoi offrire come Tributo 2 o più mostri Demone; Evoca Specialmente dal tuo Extra Deck 1 Mostro Fusione \"Pellicciaspavento\" con Livello pari alla somma dei Livelli originali di quei mostri. (Questa viene considerata come un'Evocazione tramite Fusione.) Puoi utilizzare ogni effetto di \"Padrone Pellicciaspavento\" una sola volta per turno.",
+  "pendEffect": "Puoi offrire come Tributo 1 mostro \"Pellicciaspavento\", \"Fluffal\" o \"Imp Filo\" di Livello 4 o inferiore; Evoca Specialmente dal tuo Deck 1 mostro Demone con lo stesso Livello, ma con un nome diverso. Puoi utilizzare questo effetto di \"Padrone Pellicciaspavento\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

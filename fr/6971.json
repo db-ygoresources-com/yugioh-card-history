@@ -1,0 +1,15 @@
+{
+  "id": 6971,
+  "type": "monster",
+  "name": "Sage du Silence",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte détruit un monstre de l'adversaire au combat, votre adversaire ne peut pas activer de Carte Magie durant le prochain tour.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

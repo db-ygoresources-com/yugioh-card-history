@@ -1,0 +1,17 @@
+{
+  "id": 12869,
+  "type": "monster",
+  "name": "Flor Cardian Visión de la Flor de Luna",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 2 monstruos que no sean Cantantes\nUna vez por turno, durante tu Main Phase: puedes robar 1 carta y, si lo haces, muéstrala y después, si es un monstruo \"Flor Cardian\", puedes Invocarlo de Modo Especial, ignorando sus condiciones de Invocación, y este turno éste puede atacar directamente. Si activaste este efecto, sáltate la Draw Phase de tu próximo turno. Cuando esta carta es usada como Material de Sincronía, puedes tratarla y a todos los demás Materiales de Sincronía (que tengan Nivel) como monstruos Nivel 2.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

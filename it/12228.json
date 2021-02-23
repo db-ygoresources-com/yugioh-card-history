@@ -1,0 +1,19 @@
+{
+  "id": 12228,
+  "type": "monster",
+  "name": "D/D Orthros",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando subisci danno da combattimento o da effetto: puoi Evocare Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Specialmente sul tuo Terreno, non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri di Tipo Demone.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 Carta Magia/Trappola sul Terreno e 1 altra carta \"D/D\" o \"Contratto Oscuro\" che controlli; distruggile.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1800,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

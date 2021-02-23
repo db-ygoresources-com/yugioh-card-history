@@ -1,0 +1,15 @@
+{
+  "id": 15315,
+  "type": "monster",
+  "name": "Pispenst der Geisterpirat",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein oder mehr offene WASSER Monster, die du kontrollierst, außer „Pispenst der Geisterpirat“, durch Kampf oder einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören (aber verbanne sie, wenn sie das Spielfeld verlässt) und falls du dies tust, erhält sie bis zum Ende des nächsten Spielzugs für jedes WASSER Monster in deinem Friedhof 100 ATK. Du kannst diesen Effekt von „Pispenst der Geisterpirat“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

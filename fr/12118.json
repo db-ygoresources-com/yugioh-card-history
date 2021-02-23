@@ -1,0 +1,18 @@
+{
+  "id": 12118,
+  "type": "monster",
+  "name": "Général Samouraï Supralourd de Jade",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre \"Samouraï Supralourd\". Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez changer sa position de combat. Cette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez sa DEF pour le calcul des dommages.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Samouraï Supralourd\" exclus). Cet effet ne peut pas être annulé. Une fois par tour : vous pouvez cibler 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; augmentez son Niveau de 1 (même si cette carte quitte le Terrain).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

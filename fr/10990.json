@@ -1,0 +1,15 @@
+{
+  "id": 10990,
+  "type": "monster",
+  "name": "Gwenhwyfar, Reine des Armes Nobles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez cibler 1 monstre \"Chevalier Noble\" que vous contrôlez ; équipez cette carte depuis votre main ou Cimetière à la cible. Vous ne pouvez utiliser cet effet de \"Gwenhwyfar, Reine des Armes Nobles\" qu'une fois par tour. Le monstre équipé gagne 300 ATK. Appliquez l'effet approprié, selon l'Attribut du monstre équipé.\n●LUMIÈRE : Si le monstre équipé va être détruit par un effet de carte, vous pouvez détruire cette carte à la place.\n●TÉNÈBRES : Si le monstre équipé combat un monstre de votre adversaire, au début de la Damage Step : vous pouvez détruire le monstre, puis détruisez cette carte.",
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

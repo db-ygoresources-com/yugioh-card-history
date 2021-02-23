@@ -1,0 +1,15 @@
+{
+  "id": 15726,
+  "type": "monster",
+  "name": "Espectroasador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El nombre de esta carta se convierte en \"Sirviente de la Calavera\" mientras está en el Cementerio. Si uno o más monstruos Zombi de Nivel 3 o menor que controlas fueran a ser destruidos en batalla o por efecto de una carta, puedes descartar esta carta en su lugar. Si esta carta es mandada al Cementerio: puedes añadir a tu mano 2 monstruos con nombres diferentes en tu Deck, excepto \"Espectroasador\", que sean \"Sirviente de la Calavera\" o listen específicamente \"Sirviente de la Calavera\" en su texto, y después descarta 1 carta. Sólo puedes usar este efecto de \"Espectroasador\" una vez por turno.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

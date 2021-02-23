@@ -1,0 +1,15 @@
+{
+  "id": 7666,
+  "type": "monster",
+  "name": "Gigantischer Zwergkrug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte erhält jedes Mal 200 ATK, wenn ein Monster vom Typ Pflanze vom Spielfeld auf den Friedhof gelegt wird.",
+  "level": 4,
+  "atk": 1850,
+  "def": 700,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9378,
+  "type": "monster",
+  "name": "Prisme Vylon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est envoyée depuis la Zone Carte Monstre au Cimetière : vous pouvez payer 500 Life Points, puis ciblez 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible. Si le monstre équipé attaque ou est attaqué : durant la Damage Step uniquement, il gagne 1000 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Tonnerre",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

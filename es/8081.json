@@ -1,0 +1,15 @@
+{
+  "id": 8081,
+  "type": "monster",
+  "name": "Rai-Jin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Todos los monstruos de LUZ que controles ganan 100 ATK por cada monstruo de LUZ en tu Cementerio. Durante tu End Phase, destruye 1 monstruo de LUZ que controles. Sólo puede haber 1 \"Rai-Jin\" boca arriba en el Campo.",
+  "level": 4,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

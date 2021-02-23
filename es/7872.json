@@ -1,0 +1,15 @@
+{
+  "id": 7872,
+  "type": "monster",
+  "name": "Pared de Hiedra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Invoca de Modo Especial 1 \"Ficha Hiedra\" (Tipo Planta/TIERRA/Nivel 1/ATK 0/DEF 0) en Posición de Defensa en el Campo de tu adversario. Cuando esta Ficha es destruida, su controlador recibe 300 puntos de daño.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

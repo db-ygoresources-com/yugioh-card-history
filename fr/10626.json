@@ -1,0 +1,16 @@
+{
+  "id": 10626,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Impula Bleu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non utilisable comme Matériel Synchro, sauf pour l'Invocation Synchro d'un monstre Machine. Les autres Matériels Synchro sont des monstres \"Bête Fantôme Méca\" dans votre main ou sur votre Terrain. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Si uniquement votre adversaire contrôle un monstre : vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Machine/VENT/Niveau 3/ATK 0/DEF 0).",
+  "level": 3,
+  "atk": 1400,
+  "def": 1100,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11698,
+  "type": "monster",
+  "name": "Zefranúcleo Sombraneco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Pêndulo ou enviado para o Cemitério: você pode escolher 1 card \"Zefra\" na sua Zona de Pêndulo, exceto \"Zefranúcleo Sombraneco\"; Invoque-o por Invocação-Especial. Você só pode usar este efeito de \"Zefranúcleo Sombraneco\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Sombraneco\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 450,
+  "def": 1950,
+  "properties": [
+    "Rocha",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

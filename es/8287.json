@@ -1,0 +1,15 @@
+{
+  "id": 8287,
+  "type": "monster",
+  "name": "Señoroscuro Asmodeus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial desde el Deck o Cementerio. Una vez por turno: puedes mandar al Cementerio 1 monstruo de Tipo Hada en tu Deck. Si esta carta que controlas es destruida y mandada a tu Cementerio: Invoca de Modo Especial 1 \"Ficha de Asmo\" (Tipo Hada/OSCURIDAD/Nivel 5/ATK 1800/DEF 1300) y 1 \"Ficha de Deus\" (Tipo Hada/OSCURIDAD/Nivel 3/ATK 1200/DEF 1200). \"Ficha de Asmo\" no puede ser destruida por efectos de cartas. \"Ficha de Deus\" no puede ser destruida en batalla.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

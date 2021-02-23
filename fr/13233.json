@@ -1,0 +1,16 @@
+{
+  "id": 13233,
+  "type": "monster",
+  "name": "Axone Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez cibler 1 Magie/Piège sur le Terrain ; détruisez-le.\nSi cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 2 monstres \"Krawler\" (\"Axone Krawler\" exclu) de noms différents depuis votre Deck en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Axone Krawler\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

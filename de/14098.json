@@ -1,0 +1,15 @@
+{
+  "id": 14098,
+  "type": "monster",
+  "name": "Orcust Albtraumritter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht durch Kampf mit einem Linkmonster zerstört werden. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; du kannst für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer FINSTERNIS Monstern, zusätzlich lege 1 FINSTERNIS Maschine-Monster von deinem Deck auf den Friedhof, außer „Orcust Albtraumritter“, und falls du dies tust, erhält das gewählte Monster bis zum Ende dieses Spielzugs ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 100. Du kannst diesen Effekt von „Orcust Albtraumritter“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

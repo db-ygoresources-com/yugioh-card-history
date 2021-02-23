@@ -1,0 +1,16 @@
+{
+  "id": 13842,
+  "type": "monster",
+  "name": "Dragon du Chaos aux Yeux Bleus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Forme du Chaos\". Uniquement Invocable Rituellement. Votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire. Si cette carte a été Invoquée Rituellement en utilisant \"Dragon Blanc aux Yeux Bleus\", lorsqu'elle déclare une attaque : vous pouvez changer les positions de combat d'autant de monstres contrôlés par votre adversaire que possible, et si vous le faites, l'ATK/DEF de ces monstres changés deviennent 0, et aussi, si cette carte attaque un monstre en Position de Défense ce tour, infligez des dommages de combat perçants.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Rituel",
+    "Effet"
+  ]
+}

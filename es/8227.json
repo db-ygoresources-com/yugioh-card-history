@@ -1,0 +1,10 @@
+{
+  "id": 8227,
+  "type": "trap",
+  "name": "Ataque de la Rata Acorralada",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Si un Monstruo Normal de Nivel 3 o menor que controles batalla, durante el Damage Step puedes pagar Life Points en múltiplos de 100. El ATK del monstruo de tu adversario se reduce en la cantidad de Life Points que pagaste, hasta la End Phase. (No puedes pagar más Life Points que el ATK del monstruo de tu adversario.)",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

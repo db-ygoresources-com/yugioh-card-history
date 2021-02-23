@@ -1,0 +1,18 @@
+{
+  "id": 11522,
+  "type": "monster",
+  "name": "Artistamigo Compañaga",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo que controles; éste gana 300 ATK por cada monstruo \"Artistamigo\" que controles en este momento. Los monstruos de Nivel 5 o menor no pueden atacar.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno, éste gana 300 ATK por cada carta \"Artistamigo\" que controles en este momento.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Reptil",
+    "Péndulo",
+    "Efecto"
+  ]
+}

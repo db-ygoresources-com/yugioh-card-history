@@ -1,0 +1,16 @@
+{
+  "id": 11993,
+  "type": "monster",
+  "name": "Jet Robobureau",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nCette carte gagne 500 ATK/DEF pour chaque carte \"Robobureau\" sur le Terrain. Vous ne pouvez utiliser qu'1 des effets suivants de \"Jet Robobureau\" par tour, et uniquement une fois le tour.\n●Vous pouvez cibler 1 carte \"Robobureau\" que vous contrôlez ; détruisez-la, et si vous le faites, Invoquez Spécialement 1 monstre \"Robobureau\" depuis votre Deck.\n●Vous pouvez cibler 1 carte \"Robobureau\" que vous contrôlez et 1 carte face recto sur le Terrain ; détruisez-les.",
+  "level": 10,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

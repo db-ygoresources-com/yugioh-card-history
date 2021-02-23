@@ -1,0 +1,16 @@
+{
+  "id": 6467,
+  "type": "monster",
+  "name": "Uomo Alato della Fiammata Lucente EROE Elementale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "\"Uomo Alato della Fiamma EROE Elementale\" + \"Sparkman EROE Elementale\"\nDeve essere Evocato tramite Fusione. Guadagna 300 ATK per ogni carta \"EROE Elementale\" nel tuo Cimitero. Se questa carta distrugge un mostro in battaglia e lo manda al Cimitero: infliggi al tuo avversario danno pari all'ATK originale di quel mostro nel Cimitero.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerriero",
+    "Fusione",
+    "Effetto"
+  ]
+}

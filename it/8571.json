@@ -1,0 +1,15 @@
+{
+  "id": 8571,
+  "type": "monster",
+  "name": "Warlock della Barriera di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre controlli un altro mostro \"Barriera di Ghiaccio\", entrambi i giocatori devono Posizionare le Carte Magia prima di attivarle, e non possono attivarle fino al loro prossimo turno.",
+  "level": 3,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

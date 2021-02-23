@@ -1,0 +1,15 @@
+{
+  "id": 14654,
+  "type": "monster",
+  "name": "Luna el Espíritu de la Oscuridad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de OSCURIDAD en tu Cementerio. Una vez por turno, durante tu Standby Phase: inflige 500 puntos de daño a tu adversario.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

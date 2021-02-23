@@ -1,0 +1,15 @@
+{
+  "id": 13031,
+  "type": "monster",
+  "name": "Nuageur RAM",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Sacrifier 1 monstre, puis ciblez 1 monstre Cyberse dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"Nuageur RAM\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

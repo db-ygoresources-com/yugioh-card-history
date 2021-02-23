@@ -1,0 +1,15 @@
+{
+  "id": 13909,
+  "type": "monster",
+  "name": "Donnerdrachen-Duo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT und 1 FINSTERNIS Monster von deinem Friedhof verbannst. Einmal pro Spielzug, falls ein Monstereffekt in der Hand aktiviert wird: Diese Karte erhält bis zum Ende dieses Spielzugs 300 ATK. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst 1 Karte von deinem Friedhof verbannen; füge deiner Hand 1 Donner-Monster von deinem Deck hinzu. Einmal pro Spielzug, während der End Phase deines Gegners: Du kannst 1 deiner verbannten Karten wählen; lege sie auf oder unter dein Deck.",
+  "level": 8,
+  "atk": 2800,
+  "def": 0,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

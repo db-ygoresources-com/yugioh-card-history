@@ -1,0 +1,16 @@
+{
+  "id": 9335,
+  "type": "monster",
+  "name": "Électro-Hydre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur \"Électro-\" + 1 monstre non Syntoniseur de Type Tonnerre ou plus\nCette carte peut attaquer directement votre adversaire. Lorsque cette carte inflige des dommages de combat à votre adversaire avec une attaque directe, choisissez 1 carte dans votre Deck et retirez-la du jeu. Ajoutez cette carte à votre main durant votre 2ème Standby Phase après l'activation de son effet.",
+  "level": 7,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Tonnerre",
+    "Synchro",
+    "Effet"
+  ]
+}

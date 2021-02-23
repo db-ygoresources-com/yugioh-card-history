@@ -1,0 +1,18 @@
+{
+  "id": 14440,
+  "type": "monster",
+  "name": "Reflexo de Endymion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você só pode Invocar um ou mais \"Reflexo de Endymion\" por Invocação-Especial uma vez por turno. Se este card for Invocado por Invocação-Especial: você pode escolher 1 card que seu oponente controla e 1 card que você controla com um Marcador de Magia, exceto este card; devolva esse card do oponente e o seu card para a mão e, depois, coloque sobre este card o mesmo número de Marcadores de Magia que seu card devolvido tinha. Quando este card com um Marcador de Magia for destruído em batalha: você pode adicionar 1 card \"Endymion\" do seu Deck à sua mão.",
+  "pendEffect": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Você pode remover 3 Marcadores de Magia deste card; Invoque por Invocação-Especial tanto este card da sua Zona de Pêndulo quanto 1 monstro da sua mão sobre o qual você possa colocar um Marcador de Magia e, se isso acontecer, coloque 1 Marcador de Magia em cada.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 1850,
+  "def": 2700,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

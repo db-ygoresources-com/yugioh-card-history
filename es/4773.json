@@ -1,0 +1,16 @@
+{
+  "id": 4773,
+  "type": "monster",
+  "name": "Dragón Toon de Ojos Azules",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) Sacrificando 2 monstruos, mientras controles \"Mundo Toon\". No puede atacar en el turno en el que es Invocado de Modo Especial. Debes pagar 500 LP para declarar un ataque con este monstruo. Si \"Mundo Toon\" en el Campo es destruido, destruye esta carta. Puede atacar a tu adversario directamente, a menos que éste controle un monstruo Toon, en cuyo caso esta carta debe seleccionar un monstruo Toon para sus ataques.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Toon",
+    "Efecto"
+  ]
+}

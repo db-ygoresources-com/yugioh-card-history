@@ -1,0 +1,15 @@
+{
+  "id": 5807,
+  "type": "monster",
+  "name": "Torpille Pingouin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Cette carte peut attaquer directement. Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez cibler 1 monstre de max. Niveau 6 contrôlé par votre adversaire ; prenez son contrôle jusqu'à la End Phase, mais ses effets sont annulés, et aussi, il ne peut pas déclarer d'attaque, tant que vous le contrôlez. Vous ne pouvez utiliser cet effet de \"Torpille Pingouin\" qu'une fois par tour. À la fin de la Damage Step, si cette carte a attaqué : détruisez cette carte.",
+  "level": 3,
+  "atk": 550,
+  "def": 300,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

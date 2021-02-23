@@ -1,0 +1,19 @@
+{
+  "id": 13129,
+  "type": "monster",
+  "name": "Artistamigo Sincrón de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta, Invocada de Modo Especial desde el Deck Extra, es utilizada como Material de Sincronía, destiérrala. Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo \"Artistamigo\" u \"Ojos Anómalos\" de Nivel 3 o menor en tu Cementerio; Invócalo de Modo Especial, pero ve sus efectos negados. Una vez por turno: puedes seleccionar 1 carta en tu Zona de Péndulo; Invócala de Modo Especial, pero ve sus efectos negados (si los tienen) y, si lo haces, inmediatamente después de que se resuelva este efecto, Invoca por Sincronía 1 Monstruo de Sincronía usando sólo ese monstruo y esta carta.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo \"Artistamigo\" u \"Ojos Anómalos\" que controles; este turno, ese monstruo boca arriba es tratado como un Cantante, y además su Nivel se convierte en 1 (aún si esta carta deja el Campo).",
+  "pendScale": 6,
+  "level": 2,
+  "atk": 200,
+  "def": 600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4780,
+  "type": "monster",
+  "name": "Canon Satellite",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut pas être détruite au combat avec un monstre de max. Niveau 7. Durant chacune de vos End Phases : cette carte gagne 1000 ATK. Si cette carte attaque, ce gain d'ATK redevient 0 après le calcul des dommages.",
+  "level": 5,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

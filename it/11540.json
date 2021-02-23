@@ -1,0 +1,18 @@
+{
+  "id": 11540,
+  "type": "monster",
+  "name": "Monolito Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Errore imprevisto su 0x1i-666 in qliphort.exe: violazione di accesso durante la scrittura nella locazione 0x00-000\nContinuare, ignorando questo errore? ＜S／N＞...[ ]\nRo xlmgzggl xlm o'Zoyvil Hzxil v' kilryrgl. Ro uoztvool v' hgzgl hxzgvmzgl.",
+  "pendEffect": "Non puoi Evocare Specialmente mostri, eccetto mostri \"Qli\". Questo effetto non può essere annullato. Una volta per turno, durante la End Phase, se hai Evocato tramite Tributo in questo turno: puoi pescare un numero di carte pari al numero di mostri \"Qli\" che hai offerto come Tributo per le Evocazioni tramite Tributo in questo turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Normale"
+  ]
+}

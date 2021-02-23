@@ -1,0 +1,15 @@
+{
+  "id": 5962,
+  "type": "monster",
+  "name": "KA-2 Des Schere",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte ein Monster als Ergebnis eines Kampfes zerstört und dieses auf den Friedhof gelegt wird, füge den Life Points deines Gegners Schaden in Höhe von 500 Punkten x der Stufe des zerstörten Monsters zu.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

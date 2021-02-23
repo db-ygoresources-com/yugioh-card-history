@@ -1,0 +1,15 @@
+{
+  "id": 13859,
+  "type": "monster",
+  "name": "Orbital Photon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant votre Main Phase : vous pouvez cibler 1 monstre \"Photon\" ou \"Galactique\" que vous contrôlez ; équipez ce monstre depuis votre main ou Terrain à la cible. Il gagne 500 ATK, et aussi, il ne peut pas être détruit au combat. Vous pouvez envoyer cette Carte d'Équipement au Cimetière ; ajoutez 1 monstre \"Photon\" (\"Orbital Photon\" exclu) ou \"Galactique\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Orbital Photon\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

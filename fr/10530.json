@@ -1,0 +1,16 @@
+{
+  "id": 10530,
+  "type": "monster",
+  "name": "Zérofyne, Bête des Glaces",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Type Bête Ailée de Niveau 4\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; annulez les effets de toutes les cartes face recto actuellement contrôlées par votre adversaire, et si vous le faites, cette carte gagne 300 ATK pour chaque carte face recto actuellement sur le Terrain (cette carte exclue, et ces effets sont appliqués jusqu'à votre prochaine Standby Phase).",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2200,
+  "properties": [
+    "Bête Ailée",
+    "Xyz",
+    "Effet"
+  ]
+}

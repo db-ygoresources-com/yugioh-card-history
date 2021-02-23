@@ -1,0 +1,15 @@
+{
+  "id": 11709,
+  "type": "monster",
+  "name": "Dragón de Magma",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo de Tipo Wyrm en tu Cementerio, excepto \"Dragón de Magma\"; Invócalo de Modo Especial en Posición de Defensa, pero sus efectos son negados. Sólo puedes usar este efecto de \"Dragón de Magma\" una vez por turno. El turno en el que activas este efecto no puedes Invocar Monstruos de Modo Especial, excepto monstruos de Tipo Wyrm.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Wyrm",
+    "Efecto"
+  ]
+}

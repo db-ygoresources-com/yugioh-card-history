@@ -1,0 +1,18 @@
+{
+  "id": 13037,
+  "type": "monster",
+  "name": "Carte Gardna Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Gagne une DEF égale à la somme des DEF d'origine des autres monstres \"Potartiste\" que vous contrôlez.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre en Position de Défense face recto que vous contrôlez ; sa DEF devient égale à la somme des DEF d'origine de tous les monstres en Position de Défense face recto que vous contrôlez actuellement (même si cette carte quitte le Terrain).",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Rocher",
+    "Pendule",
+    "Effet"
+  ]
+}

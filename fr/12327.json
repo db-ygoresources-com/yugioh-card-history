@@ -1,0 +1,16 @@
+{
+  "id": 12327,
+  "type": "monster",
+  "name": "Papillocœur Insecte Numérique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres LUMIÈRE de Niveau 5 de Type Insecte ou plus\nVous pouvez aussi Invoquer par Xyz cette carte en détachant 2 Matériels Xyz d'un Monstre Xyz de Type Insecte de Rang 3 ou 4 que vous contrôlez, puis utilisez le Monstre Xyz comme le Matériel Xyz. (Les Matériels Xyz attachés au monstre deviennent aussi des Matériels Xyz de cette carte.) Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre en Position de Défense contrôlé par votre adversaire ; mélangez-le dans le Deck. Une fois par tour, si la position de combat d'un ou plusieurs monstres sur le Terrain est changée (sauf durant la Damage Step) : vous pouvez attacher 1 monstre de Type Insecte depuis votre Cimetière à cette carte comme Matériel Xyz.",
+  "rank": 5,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Insecte",
+    "Xyz",
+    "Effet"
+  ]
+}

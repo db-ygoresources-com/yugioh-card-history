@@ -1,0 +1,10 @@
+{
+  "id": 7229,
+  "type": "trap",
+  "name": "Pioche de la Destruction",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Si un des deux joueurs n'a pas de cartes dans sa main au début de sa Draw Phase, il peut piocher 1 carte supplémentaire en complément de sa pioche normale. Le contrôleur de cette carte perd 700 Life Points durant ses End Phase. (Si ses Life Points sont inférieurs à 700, ils sont réduits à 0.) Lorsque cette carte face recto est retirée du Terrain, infligez 3000 points de dommages au joueur qui la contrôlait.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

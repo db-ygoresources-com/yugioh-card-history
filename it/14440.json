@@ -1,0 +1,18 @@
+{
+  "id": 14440,
+  "type": "monster",
+  "name": "Riflesso di Endymion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi Evocare Specialmente una o più \"Riflesso di Endymion\" una sola volta per turno. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 carta controllata dal tuo avversario e 1 carta che controlli con un Segnalino Magia, eccetto questa carta; fai ritornare nella mano quella carta dell'avversario e la tua carta, poi metti su questa carta lo stesso numero di Segnalini Magia che aveva la tua carta fatta ritornare. Quando questa carta con un Segnalino Magia viene distrutta in battaglia: puoi aggiungere 1 carta \"Endymion\" dal tuo Deck alla tua mano.",
+  "pendEffect": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Puoi rimuovere 3 Segnalini Magia da questa carta; Evoca Specialmente sia questa carta dalla tua Zona Pendulum che 1 mostro dalla tua mano su cui puoi mettere un Segnalino Magia e, se lo fai, metti 1 Segnalino Magia su ognuno.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 1850,
+  "def": 2700,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

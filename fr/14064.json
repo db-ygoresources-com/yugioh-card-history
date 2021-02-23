@@ -1,0 +1,16 @@
+{
+  "id": 14064,
+  "type": "monster",
+  "name": "Shinobi Nécro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si un autre monstre Zombie est Invoqué Spécialement depuis votre Cimetière tant que vous contrôlez ce monstre (sauf durant la Damage Step) : vous pouvez piocher 1 carte, puis défaussez 1 carte. Si cette carte dans le Cimetière est bannie face recto pour activer un effet, ou par un effet : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Shinobi Nécro\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

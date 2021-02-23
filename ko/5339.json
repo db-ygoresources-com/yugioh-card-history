@@ -1,0 +1,15 @@
+{
+  "id": 5339,
+  "type": "monster",
+  "name": "그랜드 드래곤",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "이 카드는 자신의 필드 위에 다른 몬스터가 1장이라도 존재하는 한, 일반 소환할 수 없다. 또한, 자신 필드 위에 이 카드 이외의 다른 드래곤족 몬스터가 존재하지 않으면, 이 카드는 공격 선언을 실행할 수 없다.",
+  "level": 4,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "드래곤족",
+    "효과"
+  ]
+}

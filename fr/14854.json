@@ -1,0 +1,20 @@
+{
+  "id": 14854,
+  "type": "monster",
+  "name": "Templier des Ténèbres @Ignister",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres de noms différents\nSi un ou plusieurs monstres sont Invoqués Spécialement dans une ou plusieurs zones pointées par cette carte, même durant la Damage Step : vous pouvez Invoquer Spécialement autant de monstres \"@Ignister\" de max. Niveau 4 depuis votre Cimetière que possible dans vos zones pointées par cette carte, mais leurs effets sont annulés. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez Invoquer Spécialement 1 monstre Cyberse depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Templier des Ténèbres @Ignister\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12300,
+  "type": "monster",
+  "name": "Amorphage Wrath",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+  "pendEffect": "While you control an \"Amorphage\" monster, neither player can Tribute monsters, except \"Amorphage\" monsters. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1650,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}

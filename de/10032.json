@@ -1,0 +1,15 @@
+{
+  "id": 10032,
+  "type": "monster",
+  "name": "Hammer-Rausschmeißer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls dein Gegner Karten kontrolliert und du keine Karten kontrollierst, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Falls diese Karte ein Monster deines Gegners angreift, solange du keine Zauber-/Fallenkarten kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

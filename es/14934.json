@@ -1,0 +1,19 @@
+{
+  "id": 14934,
+  "type": "monster",
+  "name": "Heraldo de las Luces Espejismo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos con el mismo Tipo y Atributo, excepto Fichas\nCuando una Carta Mágica/de Trampa o efecto es activado (Efecto Rápido): puedes mandar al Cementerio 1 monstruo Hada en tu mano; niega la activación y, si lo haces, destrúyela. Si esta carta en tu posesión es mandada a tu Cementerio por una carta del adversario: puedes añadir a tu mano hasta 2 Monstruos de Ritual y/o Mágicas de Ritual con nombres diferentes en tu Cementerio. Sólo puedes usar cada efecto de \"Heraldo de las Luces Espejismo\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 600,
+  "properties": [
+    "Hada",
+    "Enlace",
+    "Efecto"
+  ]
+}

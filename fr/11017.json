@@ -1,0 +1,16 @@
+{
+  "id": 11017,
+  "type": "monster",
+  "name": "Numéro C9 : Sphère Dyson du Chaos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "3 monstres de Niveau 10\nAu début de la Damage Step, si cette carte combat un monstre de votre adversaire : vous pouvez attacher le monstre à cette carte comme un Matériel Xyz face recto. Une fois par tour : vous pouvez infliger 300 points de dommages à votre adversaire pour chaque Matériel Xyz attaché à cette carte. Si cette carte a \"Numéro 9 : Sphère Dyson\" comme Matériel Xyz, elle gagne cet effet.\n●Une fois par tour : vous pouvez détacher un nombre de votre choix de Matériels Xyz de cette carte ; infligez 800 points de dommages à votre adversaire pour chacun d'eux.",
+  "rank": 10,
+  "atk": 3600,
+  "def": 3200,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

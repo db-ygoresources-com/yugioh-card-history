@@ -1,0 +1,18 @@
+{
+  "id": 11522,
+  "type": "monster",
+  "name": "Camarartista Nagarceiro",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro que você controla; ele ganha 300 de ATK para cada monstro \"Camarartista\" que você controla atualmente. Monstros de Nível 5 ou menos não podem atacar.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima que você controla; até o final deste turno, ele ganha 300 de ATK para cada card \"Camarartista\" que você controla atualmente.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Réptil",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

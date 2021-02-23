@@ -1,0 +1,18 @@
+{
+  "id": 11542,
+  "type": "monster",
+  "name": "Qliphort Furtivo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Você pode Invocar este card por Invocação-Normal sem oferecer Tributo. Se este card for Invocado por Invocação-Normal sem oferecer Tributo, ou se for Invocado por Invocação-Especial, o Nível dele se torna 4 e o ATK original dele se torna 1800. Se este card for Invocado por Invocação-Normal/Baixado, ele não é afetado por efeitos ativados de monstros cujo Nível/Classe original seja menor que o Nível atual deste card. Quando este card for Invocado por Invocação-Tributo pelo Tributo de um ou mais monstros \"Qli\": você pode escolher 1 card no campo; devolva-o para a mão. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste efeito.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Especial, exceto monstros \"Qli\". Este efeito não pode ser negado. Todos os monstros \"Qli\" que você controla ganham 300 de ATK.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

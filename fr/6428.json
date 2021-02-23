@@ -1,0 +1,15 @@
+{
+  "id": 6428,
+  "type": "monster",
+  "name": "Homme-Batterie C",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si tous les \"Homme-Batterie C\" sur votre Terrain sont en Position d'Attaque, augmentez l'ATK de tous les monstres de Type Machine sur votre Terrain de 500 points pour chaque \"Homme-Batterie C\" sur votre Terrain. Si tous les \"Homme-Batterie C\" sur votre Terrain sont en Position de Défense, augmentez la DEF de tous les monstres de Type Machine sur votre Terrain de 500 points pour chaque \"Homme-Batterie C\" sur votre Terrain.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14363,
+  "type": "monster",
+  "name": "Dragão Fantasma de Olhos Plenos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou com a face para cima no Deck Adicional) ao oferecer como Tributo todos os monstros que você controla (mín. 2), incluindo um Monstro Pêndulo Dragão. Você só pode Invocar \"Dragão Fantasma de Olhos Plenos\" por Invocação-Especial uma vez por turno desta forma. Uma vez por turno, durante o cálculo de dano, se este card batalhar um monstro do oponente: dobre o ATK atual deste card até o final deste turno. Uma vez por turno, quando seu oponente ativar um Card ou efeito de Magia/Armadilha (Efeito Rápido): você pode enviar 1 Magia/Armadilha que você controla para o Cemitério; negue a ativação.",
+  "pendEffect": "Uma vez por turno, no final da Etapa de Dano, se um Monstro Pêndulo Dragão seu atacou um monstro do oponente: você pode ativar este efeito; ele pode atacar novamente em seguida. Você não pode declarar ataques no turno em que ativar este efeito, exceto com esse monstro.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

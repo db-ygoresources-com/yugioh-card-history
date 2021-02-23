@@ -1,0 +1,15 @@
+{
+  "id": 8003,
+  "type": "monster",
+  "name": "Tentáculos de Rosa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Especial. Al comienzo de tu Battle Phase, esta carta gana 1 ataque adicional durante cada Battle Phase de este turno por cada monstruo Planta que controle tu adversario en este momento. Cada vez que esta carta destruye un monstruo Planta en batalla: inflige 300 puntos de daño a tu adversario.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

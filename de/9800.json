@@ -1,0 +1,16 @@
+{
+  "id": 9800,
+  "type": "monster",
+  "name": "Einflussdrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; es wird bis zur End Phase zum Typ Drache.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

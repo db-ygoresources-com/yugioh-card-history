@@ -1,0 +1,15 @@
+{
+  "id": 10825,
+  "type": "monster",
+  "name": "Gaia, der Mitternachtssonnen-Ritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst jeden Effekt von „Gaia, der Mitternachtssonnen-Ritter“ nur einmal pro Spielzug verwenden.\n●Du kannst 1 anderes LICHT Monster als Tribut anbieten; füge deiner Hand 1 FINSTERNIS Monster vom Typ Krieger der Stufe 4 von deinem Deck hinzu, dann lege 1 Karte von deiner Hand auf den Friedhof.\n●Du kannst 1 FINSTERNIS Monster von deinem Friedhof verbannen und dann 1 Monster auf dem Spielfeld wählen; es verliert bis zum Ende des Spielzugs deines Gegners 500 ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

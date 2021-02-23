@@ -1,0 +1,18 @@
+{
+  "id": 11357,
+  "type": "monster",
+  "name": "Carapace Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si cette carte est Invoquée Normalement sans Sacrifice ou est Invoqué Spécialement, son Niveau devient 4 et son ATK d'origine devient 1800. Si cette carte est Invoquée Normalement ou Posée, elle n'est pas affectée par les effets activés de monstres dont le Niveau/Rang d'origine est inférieur au Niveau actuel de cette carte. Si cette carte est Invoquée Normalement en Sacrifiant un ou plusieurs monstres \"Qli\", durant chaque Battle Phase, elle peut attaquer une seconde fois, et si elle attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "pendEffect": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Qli\" exclus). Cet effet ne peut pas être annulé. Tous les monstres contrôlés par votre adversaire perdent 300 ATK.",
+  "pendScale": 9,
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13394,
+  "type": "monster",
+  "name": "Medusa Mitica Bestia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Una volta per turno, durante la Battle Phase (Effetto Rapido): puoi rimuovere 2 Segnalini Magia dal tuo Terreno, poi scegliere come bersaglio 1 mostro scoperto sul Terreno; i suoi ATK/DEF diventano la metà dei suoi ATK/DEF attuali fino alla fine di questo turno.",
+  "pendEffect": "Se non hai nessuna carta nella tua altra Zona Pendulum: puoi scegliere come bersaglio 1 mostro nel tuo Cimitero su cui puoi mettere un Segnalino Magia; distruggi questa carta e, se lo fai, Evoca Specialmente quel mostro e, se fai quello, metti 1 Segnalino Magia su di esso. Puoi utilizzare questo effetto di \"Medusa Mitica Bestia\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

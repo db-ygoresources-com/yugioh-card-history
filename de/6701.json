@@ -1,0 +1,15 @@
+{
+  "id": 6701,
+  "type": "monster",
+  "name": "Flammende Hiita",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug, indem du 1 FEUER Monster von deiner Spielfeldseite als Tribut anbietest (außer dieser Karte), beschwöre 1 FEUER Monster von deiner Hand als Spezialbeschwörung. Das durch diesen Effekt als Spezialbeschwörung beschworene Monster wird zerstört, falls „Flammende Hiita“ von deiner Spielfeldseite entfernt wird.",
+  "level": 4,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

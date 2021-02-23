@@ -1,0 +1,15 @@
+{
+  "id": 10132,
+  "type": "monster",
+  "name": "Damage Mage",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

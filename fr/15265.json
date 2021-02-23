@@ -1,0 +1,15 @@
+{
+  "id": 15265,
+  "type": "monster",
+  "name": "Main du Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un ou plusieurs monstres face recto que vous contrôlez avec 1600 ATK ou DEF d'origine sont détruits au combat ou par un effet de carte de l'adversaire, et envoyés au Cimetière, tant que cette carte est dans votre main ou Cimetière : vous pouvez Invoquer Spécialement cette carte (mais bannissez-la lorsqu'elle quitte le Terrain), et si vous le faites, détruisez 1 carte contrôlée par votre adversaire. Vous ne pouvez utiliser cet effet de \"Main du Tonnerre\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

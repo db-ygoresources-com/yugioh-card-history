@@ -1,0 +1,15 @@
+{
+  "id": 13243,
+  "type": "monster",
+  "name": "Ejecutor Metafis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano), desterrando 5 cartas \"Metaf\" con nombres diferentes en tu Cementerio y/o boca arriba en tu Campo. No puede ser destruido ni desterrado por efectos de cartas. Una vez por turno, si tu adversario controla más cartas que tú: puedes seleccionar 1 de tus monstruos \"Metaf\" desterrados; Invócalo de Modo Especial, pero destiérralo durante la End Phase del próximo turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Wyrm",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7883,
+  "type": "monster",
+  "name": "Assaltatore a Ricerca",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se questa carta attacca un mostro coperto in Posizione di Difesa, puoi distruggere quel mostro immediatamente per effetto di questa carta, senza scoprirlo né applicare il calcolo dei danni. Se lo fai, questa carta viene messa in Posizione di Difesa alla fine della Battle Phase. La posizione di questa carta non può essere cambiata fino alla fine del tuo prossimo turno, se non per effetto di una carta.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

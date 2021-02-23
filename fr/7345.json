@@ -1,0 +1,15 @@
+{
+  "id": 7345,
+  "type": "monster",
+  "name": "Bloqueur de Cartes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée : changez-la en Position de Défense. Lorsqu'un monstre face recto que vous contrôlez est ciblé par une attaque : vous pouvez changer la cible à cette carte. Lorsque cette carte est ciblée par une attaque : vous pouvez choisir un nombre entre 1 et 3, puis envoyez ce nombre de cartes du dessus de votre Deck au Cimetière ; jusqu'à la End Phase, cette carte gagne 500 DEF pour chaque carte envoyée.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

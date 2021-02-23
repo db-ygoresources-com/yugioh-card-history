@@ -1,0 +1,16 @@
+{
+  "id": 12562,
+  "type": "monster",
+  "name": "Fleur Cardian Légère Pluie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 3 monstres non-Syntoniseur\nVotre adversaire ne peut pas cibler de monstres \"Fleur Cardian\" que vous contrôlez avec des effets de carte, et aussi, ces monstres ne peuvent pas être détruits par des effets de carte. Durant la Draw Phase de votre adversaire, s'il pioche une ou plusieurs cartes pour sa pioche normale : infligez 1500 points de dommages à votre adversaire. Une fois par tour, durant la End Phase de votre adversaire : activez 1 de ces effets ;\n●Sautez la Draw Phase de votre prochain tour.\n●Jusqu'à la prochaine Standby Phase de votre adversaire, annulez les autres effets de cette carte.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

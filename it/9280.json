@@ -1,0 +1,15 @@
+{
+  "id": 9280,
+  "type": "monster",
+  "name": "Karood Stregone della Pietramagia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, quando un altro Mostro con Effetto viene attivato fino a quando non ci sono Segnalini Pietramagia su questa carta, metti 1 Segnalino Pietramagia su questa carta (massimo 1). Questa carta guadagna 300 DEF per ogni Segnalino Pietramagia su di essa. Una volta per turno, puoi rimuovere 1 Segnalino Pietramagia dal tuo Terreno per scegliere 1 carta nel Cimitero del tuo avversario e rimuovere quella carta dal gioco.",
+  "level": 3,
+  "atk": 800,
+  "def": 1900,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14091,
+  "type": "monster",
+  "name": "Guardragón Promineses",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes mandar al Cementerio esta carta en tu mano o Campo, y después selecciona 1 monstruo Dragón que controles; éste gana 500 ATK/DEF hasta el final del turno de tu adversario. Si uno más Monstruos Normales son mandados a tu Cementerio mientras esta carta está en el Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de \"Guardragón Promineses\" una vez por turno.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

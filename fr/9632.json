@@ -1,0 +1,15 @@
+{
+  "id": 9632,
+  "type": "monster",
+  "name": "Jongleur Automate",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Après le calcul des dommages, si cette carte a combattu un monstre de votre adversaire : vous pouvez détruire le monstre de votre adversaire. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

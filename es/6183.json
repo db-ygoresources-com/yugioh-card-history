@@ -1,0 +1,15 @@
+{
+  "id": 6183,
+  "type": "monster",
+  "name": "Sauro Elemental",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Gana el o los siguientes efectos mientras haya monstruos con el o los siguientes Atributos en el Campo.\n●FUEGO: Esta carta gana 500 ATK.\n●TIERRA: Niega los efectos de Monstruos de Efecto destruidos en batalla con esta carta.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

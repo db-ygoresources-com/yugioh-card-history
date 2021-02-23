@@ -1,0 +1,15 @@
+{
+  "id": 13709,
+  "type": "monster",
+  "name": "Dragster des Ténèbres F.A.",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en ayant un monstre \"F.A.\" de min. Niveau 7 sur le Terrain, mais pas \"Dragster des Ténèbres F.A.\" dans votre Zone Monstre. Gagne une ATK égale à son Niveau x 300. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Une fois par tour : vous pouvez cibler 1 carte sur le Terrain ; réduisez le Niveau de cette carte de 3, et si vous le faites, détruisez la cible.",
+  "level": 7,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

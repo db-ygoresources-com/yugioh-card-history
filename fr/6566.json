@@ -1,0 +1,15 @@
+{
+  "id": 6566,
+  "type": "monster",
+  "name": "Néo-Bubbleman, HÉROS Élémentaire",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut pas être Invoquée par Invocation Spéciale, excepté en envoyant \"Bubbleman, HÉROS Élémentaire\" de votre Terrain et \"Métamorphose\" de votre main au Cimetière. Le nom de cette carte est traité comme \"Bubbleman, HÉROS Élémentaire\" tant qu'elle est face recto sur le Terrain. Détruisez un monstre de votre adversaire qui combat cette carte à la fin de la Damage Step.",
+  "level": 4,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11890,
+  "type": "monster",
+  "name": "Arco de la Diosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Debe ser Invocado de Modo Especial con \"La Garra de Hermos\", usando un monstruo Guerrero. Si esta carta es Invocada de Modo Especial: selecciona otro monstruo boca arriba en el Campo; equípale esta carta. Mientras esta carta esté equipada a un monstruo por este efecto, niega el primer efecto activado por tu adversario durante cada Battle Phase y además, después de eso, el monstruo equipado puede hacer un segundo ataque durante esta Battle Phase.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

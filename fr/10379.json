@@ -1,0 +1,15 @@
+{
+  "id": 10379,
+  "type": "monster",
+  "name": "Orbital 7",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est retournée face recto : placez 1 Compteur Entendu Chef ! sur elle. Vous pouvez retirer tous les Compteurs Entendu Chef ! sur cette carte ; son ATK devient 2000. Après que vous changez l'ATK de cette carte avec cet effet, elle ne peut pas attaquer directement votre adversaire le reste de ce tour, et durant la End Phase, elle est envoyée au Cimetière. Vous pouvez Sacrifier cette carte pour cibler 1 monstre \"Photon\" (\"Photon Morphtronique\" exclu) ou \"Galactique\" dans votre Cimetière ; ajoutez la cible à votre main.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

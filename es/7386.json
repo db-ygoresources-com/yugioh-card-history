@@ -1,0 +1,15 @@
+{
+  "id": 7386,
+  "type": "monster",
+  "name": "Gólem Triturador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta sólo puede ser Invocada de Modo Especial desde tu mano al Campo de tu adversario, Invocando también de Modo Especial 2 \"Fichas Trituradoras\" (Tipo Demonio/OSCURIDAD/Nivel 1/ATK 0/DEF 0) en Posición de Ataque boca arriba en tu Campo. Si Invocas de Modo Especial a este monstruo, no puedes Invocar de Modo Normal, ni Colocar, un monstruo durante el mismo turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7171,
+  "type": "monster",
+  "name": "Regenbogendrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "(Diese Karte wird immer als „Ultimativer Kristall“-Karte behandelt.)\nKann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 7 „Kristallungeheuer“-Karten mit unterschiedlichen Namen auf deiner Spielfeldseite und/oder in deinem Friedhof hast. Die folgenden Effekte dieser Karte können nicht in dem Spielzug aktiviert werden, in dem sie als Spezialbeschwörung beschworen wurde. (Schnelleffekt): Du kannst alle „Kristallungeheuer“-Monster, die du kontrollierst, auf den Friedhof legen; diese Karte erhält für jedes auf den Friedhof gelegte Monster 1000 ATK. Du kannst alle „Kristallungeheuer“-Monster von deinem Friedhof verbannen; mische alle Karten auf dem Spielfeld ins Deck.",
+  "level": 10,
+  "atk": 4000,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

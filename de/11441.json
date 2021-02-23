@@ -1,0 +1,18 @@
+{
+  "id": 11441,
+  "type": "monster",
+  "name": "D/D-Gelehrter Galilei",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers: Du kannst diese Karte abwerfen und dann 1 „D/D“- oder „Dunkler Vertrag“-Karte wählen, die du kontrollierst; gib sie auf die Hand zurück. Du kannst diesen Effekt von „D/D-Gelehrter Galilei“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „D/D“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug, während deiner Standby Phase: Erhöhe den Pendelbereich dieser Karte um 2 (max. 10), dann zerstöre alle Monster, die du kontrollierst und deren Stufe kleiner oder gleich dem Pendelbereich dieser Karte ist, außer „D/D“-Monstern.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

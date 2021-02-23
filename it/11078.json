@@ -1,0 +1,16 @@
+{
+  "id": 11078,
+  "type": "monster",
+  "name": "Artefatto Durendal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri di Livello 5\nUna volta per turno, durante il turno di qualsiasi giocatore, puoi attivare 1 di questi effetti.\n●Quando viene attivato l'effetto di un mostro sul Terreno OPPURE viene attivata una Carta Magia/Trappola Normale: puoi staccare 1 Materiale Xyz da questa carta; l'effetto attivato diventa \"Distruggi 1 Carta Magia/Trappola controllata dal tuo avversario\".\n●Puoi staccare 1 Materiale Xyz da questa carta; ogni giocatore con carte in mano mischia tutta la sua mano nel Deck, poi pesca lo stesso numero di carte che ha mischiato nel Deck.",
+  "rank": 5,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Fata",
+    "Xyz",
+    "Effetto"
+  ]
+}

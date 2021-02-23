@@ -1,0 +1,16 @@
+{
+  "id": 9508,
+  "type": "monster",
+  "name": "Berserker de Basura",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "\"Sincronizador de Basura\" + 1 o más monstruos que no sean Cantantes\nPuedes desterrar 1 monstruo \"Basura\" en tu Cementerio, y después seleccionar 1 monstruo boca arriba que controle tu adversario; ese objetivo pierde tanto ATK como el ATK del monstruo desterrado. Al comienzo del Damage Step, si esta carta ataca un monstruo en Posición de Defensa: destruye ese monstruo.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

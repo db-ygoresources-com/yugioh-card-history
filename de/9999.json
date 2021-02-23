@@ -1,0 +1,16 @@
+{
+  "id": 9999,
+  "type": "monster",
+  "name": "Gishki Zielgigas",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte mit einer beliebigen „Gishki“-Ritualzauberkarte als Ritualbeschwörung beschwören. Einmal pro Spielzug: Du kannst 1000 Life Points zahlen; ziehe 1 Karte und falls du dies tust, zeige sie vor, dann, falls es ein „Gishki“-Monster war, mische 1 Karte vom Spielfeld ins Deck.",
+  "level": 10,
+  "atk": 3200,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Ritual",
+    "Effekt"
+  ]
+}

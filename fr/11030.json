@@ -1,0 +1,15 @@
+{
+  "id": 11030,
+  "type": "monster",
+  "name": "ZS - Sage de la Disparition",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous contrôlez un monstre \"Utopie\" : vous pouvez piocher 1 carte. Si un ou plusieurs monstres que vous contrôlez sont bannis durant la Battle Phase (sauf durant la Damage Step) : vous pouvez bannir cette carte depuis le Terrain, puis ciblez 1 de ces monstres bannis ; Invoquez Spécialement la cible, et si vous le faites, bannissez 1 monstre contrôlé par votre adversaire avec max. 3000 ATK. Vous ne pouvez utiliser qu'1 effet de \"ZS - Sage de la Disparition\" par tour, et uniquement une fois le tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

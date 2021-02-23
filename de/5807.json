@@ -1,0 +1,15 @@
+{
+  "id": 5807,
+  "type": "monster",
+  "name": "Pinguintorpedo",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte kann direkt angreifen. Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst 1 Monster der Stufe 6 oder niedriger wählen, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle darüber, aber seine Effekte werden annulliert, zusätzlich kann es keinen Angriff deklarieren, solange du es kontrollierst. Du kannst diesen Effekt von „Pinguintorpedo“ nur einmal pro Spielzug verwenden. Am Ende des Damage Steps, falls diese Karte angegriffen hat: Zerstöre diese Karte.",
+  "level": 3,
+  "atk": 550,
+  "def": 300,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10453,
+  "type": "monster",
+  "name": "Général Zubaba",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 4\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; équipez 1 monstre de Type Guerrier depuis votre main à cette carte. Cette carte gagne une ATK égale à la somme des ATK des monstres qui lui sont équipés par cet effet.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

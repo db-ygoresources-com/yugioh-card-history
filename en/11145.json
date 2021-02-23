@@ -1,0 +1,16 @@
+{
+  "id": 11145,
+  "type": "monster",
+  "name": "Green Turtle Summoner",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "FLIP: Target 1 monster your opponent controls; destroy it.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

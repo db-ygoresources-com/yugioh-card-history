@@ -1,0 +1,15 @@
+{
+  "id": 15721,
+  "type": "monster",
+  "name": "Hada Arquera Ingunar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede atacar en el turno en el que esta carta es Invocada de Modo Especial. Si esta carta es Invocada de Modo Especial por efecto de un monstruo Planta: puedes seleccionar 1 monstruo Planta de Nivel 6 o mayor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa, y además por el resto de este turno no puedes Invocar de Modo Especial, excepto monstruos Planta. Sólo puedes usar este efecto de \"Hada Arquera Ingunar\" una vez por turno.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

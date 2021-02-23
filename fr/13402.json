@@ -1,0 +1,15 @@
+{
+  "id": 13402,
+  "type": "monster",
+  "name": "Oiseau Fantôme de l'Enchantement",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte gagne un effet selon votre Zone Monstre Main dans laquelle elle est.\n●La plus à gauche : Gagne 1000 ATK/DEF.\n●La plus à droite : Durant chaque Battle Phase, elle peut faire max. 2 attaques sur des monstres.\n●Centre : Votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire.\n●Autres : Les monstres dans cette colonne ne peuvent pas activer leurs effets.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1500,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

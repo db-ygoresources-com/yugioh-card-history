@@ -1,0 +1,16 @@
+{
+  "id": 11151,
+  "type": "monster",
+  "name": "Magicienne des Ténèbres le Dragon Chevalier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Magicienne des Ténèbres\" + 1 monstre Dragon\nUniquement Invocable par Fusion avec les Matériels Fusion ci-dessus ou avec \"L'Œil de Timée\". Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 carte depuis votre main au Cimetière, puis ciblez 1 carte face recto sur le Terrain ; détruisez la cible.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1700,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

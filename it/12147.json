@@ -1,0 +1,18 @@
+{
+  "id": 12147,
+  "type": "monster",
+  "name": "Deskbot 007",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Questa carta guadagna 500 ATK per ogni carta \"Deskbot\" nel tuo Cimitero. I mostri controllati dal tuo avversario non possono scegliere come bersaglio mostri \"Deskbot\" scoperti per gli attacchi, eccetto questo. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Deskbot\". Questo effetto non può essere annullato.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

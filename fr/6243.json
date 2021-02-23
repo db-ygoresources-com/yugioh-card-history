@@ -1,0 +1,15 @@
+{
+  "id": 6243,
+  "type": "monster",
+  "name": "Chat-Herbe à Chat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut pas être attaquée s'il y a un autre monstre de Type Bête sur votre Terrain. Rendez égal à 0 la DEF de 1 monstre sur le Terrain de votre adversaire jusqu'à la End Phase. Cet effet ne peut être utilisé qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

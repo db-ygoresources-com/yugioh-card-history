@@ -1,0 +1,16 @@
+{
+  "id": 8651,
+  "type": "monster",
+  "name": "Drago Rosso Maestoso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Drago Maestoso\" + \"Arcidemone Drago Rosso\" + 1 mostro non-Tuner\nNon può essere distrutto dagli effetti delle carte. Dopo il calcolo dei danni, se questa carta attacca: distruggi tutti i mostri in Posizione di Difesa sul Terreno. Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; annulla i suoi effetti e, se lo fai, questa carta guadagna ATK pari all'ATK di quel mostro. Questi cambi durano fino alla fine di questo turno. Durante la End Phase: scegli come bersaglio 1 \"Arcidemone Drago Rosso\" nel tuo Cimitero; fai ritornare questa carta dal Terreno all'Extra Deck, poi Evoca Specialmente quel bersaglio.",
+  "level": 10,
+  "atk": 4000,
+  "def": 3000,
+  "properties": [
+    "Drago",
+    "Synchro",
+    "Effetto"
+  ]
+}

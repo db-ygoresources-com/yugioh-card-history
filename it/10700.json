@@ -1,0 +1,15 @@
+{
+  "id": 10700,
+  "type": "monster",
+  "name": "Zombaubau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta dichiara un attacco, essa guadagna 500 ATK. Se questa carta sul Terreno viene distrutta e mandata al Cimitero: puoi Evocare Specialmente 1 mostro di Livello 1 con 0 ATK e DEF dal tuo Deck. I suoi effetti sono annullati, inoltre esso viene distrutto durante la tua prossima End Phase.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

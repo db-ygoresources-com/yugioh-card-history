@@ -1,0 +1,15 @@
+{
+  "id": 5594,
+  "type": "monster",
+  "name": "Annihilateur de Magie",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Les Cartes Magie, et leurs effets sur le Terrain, ne peuvent pas être activés. Annulez tous les effets de Magie sur le Terrain.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

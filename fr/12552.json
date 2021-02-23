@@ -1,0 +1,16 @@
+{
+  "id": 12552,
+  "type": "monster",
+  "name": "Dragon Cipher aux Yeux Galactiques",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 8\nUne fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; les monstres que vous contrôlez (cette carte exclue) ne peuvent pas attaquer directement votre adversaire le reste de ce tour, et aussi, prenez le contrôle du monstre ciblé jusqu'à la End Phase, mais tant que cet effet est appliqué, il a ses effets annulés, son ATK devient 3000, et aussi, son nom devient \"Dragon Cipher aux Yeux Galactiques\".",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

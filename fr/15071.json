@@ -1,0 +1,15 @@
+{
+  "id": 15071,
+  "type": "monster",
+  "name": "Garde Fantôme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Spécialement depuis le Cimetière : vous pouvez cibler 1 monstre que vous contrôlez ; ce tour, il ne peut être détruit ni au combat ni par des effets de carte. Durant la End Phase, si cette carte est actuellement bannie, et a été bannie ce tour : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Garde Fantôme\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

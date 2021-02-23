@@ -1,0 +1,18 @@
+{
+  "id": 13396,
+  "type": "monster",
+  "name": "Besta Mítica Rei Chacal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 2 Marcadores de Magia neste card quando essa Magia resolver. Uma vez por turno, quando um oponente ativar um efeito de monstro (Efeito Rápido): você pode remover 2 Marcadores de Magia do seu campo; negue a ativação e, se isso acontecer, destrua esse card.",
+  "pendEffect": "Se você não tiver nenhum card na sua outra Zona de Pêndulo: você pode destruir este card e, se isso acontecer, Invoque por Invocação-Especial 1 Monstro Pêndulo \"Besta Mítica\" com a face para cima no seu Deck Adicional, exceto \"Besta Mítica Rei Chacal\". Você só pode usar este efeito de \"Besta Mítica Rei Chacal\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2400,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

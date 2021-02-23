@@ -1,0 +1,15 @@
+{
+  "id": 6591,
+  "type": "monster",
+  "name": "B.E.S. Núcleo Cubierto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando Invocas mediante una Invocación Normal esta carta, ponle 2 contadores. Esta carta no es destruida como resultado de una batalla. Si esta carta lucha con un monstruo, lanza una moneda y elige cara o cruz al final del Damage Step. Si fallas, retira 1 contador. Si esta carta lucha sin contadores, destruye esta carta al final del Damage Step.",
+  "level": 7,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

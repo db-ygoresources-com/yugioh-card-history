@@ -1,0 +1,15 @@
+{
+  "id": 8469,
+  "type": "monster",
+  "name": "Grenouille Démon",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en défaussant 1 autre monstre EAU. Lorsque cette carte est Invoquée : vous pouvez envoyer 1 monstre EAU Aqua de max. Niveau 2 depuis votre Deck ou Terrain face recto au Cimetière. Une fois par tour : vous pouvez renvoyer 1 monstre que vous contrôlez à la main ; durant votre Main Phase ce tour, vous pouvez Invoquer Normalement 1 monstre \"Grenouille\" (\"Grenouille Démon\" exclu) en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.)",
+  "level": 2,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7600,
+  "type": "monster",
+  "name": "Finstere Valkyre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Einmal, solange diese Karte offen auf dem Spielfeld liegt: Du kannst 1 Zauberzählmarke darauf legen. Diese Karte erhält 300 ATK für jede Zauberzählmarke auf dieser Karte. Du kannst 1 Zauberzählmarke von dieser Karte entfernen und dann 1 Monster auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1050,
+  "properties": [
+    "Fee",
+    "Zwilling",
+    "Effekt"
+  ]
+}

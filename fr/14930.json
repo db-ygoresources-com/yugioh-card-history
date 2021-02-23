@@ -1,0 +1,22 @@
+{
+  "id": 14930,
+  "type": "monster",
+  "name": "Dragon Lien à Cinq Têtes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "5 monstres\nUniquement Invocable par Lien. Si cette carte est Invoquée par Lien en utilisant des Attributs TÉNÈBRES, TERRE, EAU, FEU et VENT : vous pouvez détruire toutes les cartes contrôlées par votre adversaire. Non destructible au combat avec un monstre TÉNÈBRES, TERRE, EAU, FEU ou VENT. Non affectée par les effets d'autres cartes. Une fois par tour, durant la End Phase de votre adversaire : vous pouvez bannir face verso 5 cartes depuis votre Cimetière (ceci est obligatoire), ou envoyer cette carte au Cimetière.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Dragon",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13127,
+  "type": "monster",
+  "name": "Artistamigo Minitauro de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el cálculo de daño, si tu Monstruo de Péndulo ataca a un monstruo de tu adversario: puedes hacer que ese monstruo de tu adversario pierda 100 ATK por cada carta \"Artistamigo\" y \"Ojos Anómalos\" que controles, sólo durante el cálculo de daño.",
+  "pendEffect": "Si tu monstruo \"Artistamigo\" u \"Ojos Anómalos\" ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Guerrero-Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

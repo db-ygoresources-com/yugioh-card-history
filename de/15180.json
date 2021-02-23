@@ -1,0 +1,16 @@
+{
+  "id": 15180,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid AuTurbo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls du ein WIND Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Monstereffekte aktivieren, außer denen von WIND Monstern. Du kannst diese Karte und 1 „Geschwindigkeitsroid“-Monster von deinem Friedhof verbannen; alle WIND Monster, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 800 ATK. Du kannst jeden Effekt von „Geschwindigkeitsroid AuTurbo“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

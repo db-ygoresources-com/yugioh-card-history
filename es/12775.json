@@ -1,0 +1,16 @@
+{
+  "id": 12775,
+  "type": "monster",
+  "name": "Vientobruja - Campana de Cristal",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "\"Vientobruja - Campana del Invierno\" + 1 monstruo \"Vientobruja\"\nPuedes seleccionar 1 monstruo en el Cementerio de cualquier jugador; hasta la End Phase, el nombre de esta carta se convierte en el nombre original de ese objetivo, y reemplaza este efecto con los efectos originales de ese objetivo. Si esta carta en tu posesión es destruida por una carta de tu adversario (en batalla o por efecto de una carta) y mandada a tu Cementerio: puedes seleccionar 1 \"Vientobruja - Campana del Invierno\" y 1 monstruo \"Vientobruja\" de Nivel 4 o menor en tu Cementerio; Invócalos de Modo Especial. Sólo puedes usar cada efecto de \"Vientobruja - Campana de Cristal\" una vez por turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

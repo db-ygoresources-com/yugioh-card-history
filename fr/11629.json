@@ -1,0 +1,17 @@
+{
+  "id": 11629,
+  "type": "monster",
+  "name": "Accel Synchronique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nUne fois par tour : vous pouvez envoyer 1 monstre \"Synchronique\" depuis votre Deck au Cimetière, puis activez 1 de ces effets ;\n●Augmentez le Niveau de cette carte du Niveau du monstre envoyé.\n●Réduisez le Niveau de cette carte du Niveau du monstre envoyé.\nDurant la Main Phase de votre adversaire, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Synchronisation en utilisant cette carte que vous contrôlez. Vous ne pouvez Invoquer par Synchronisation \"Accel Synchronique\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7873,
+  "type": "monster",
+  "name": "Copiaplanta",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno: puedes seleccionar otro monstruo de Tipo Planta en el Campo que tenga Nivel; hasta el final de este turno, el Nivel de esta carta se convierte en el Nivel del monstruo seleccionado.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Planta",
+    "Cantante",
+    "Efecto"
+  ]
+}

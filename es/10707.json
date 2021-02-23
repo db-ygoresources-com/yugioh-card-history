@@ -1,0 +1,16 @@
+{
+  "id": 10707,
+  "type": "monster",
+  "name": "Número 85: Caja Loca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos de Nivel 4\nEsta carta no puede atacar. Una vez por turno: puedes desacoplar de esta carta 1 Material Xyz; lanza un dado de seis caras y aplica el resultado.\n1: Divide tus Life Points a la mitad.\n2: Roba 1 carta.\n3: Tu adversario descarta 1 carta.\n4: Niega los efectos de 1 carta boca arriba en el Campo hasta el final de este turno.\n5: Destruye 1 carta en el Campo.\n6: Destruye esta carta.",
+  "rank": 4,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Demonio",
+    "Xyz",
+    "Efecto"
+  ]
+}

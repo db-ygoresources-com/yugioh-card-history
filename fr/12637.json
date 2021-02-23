@@ -1,0 +1,16 @@
+{
+  "id": 12637,
+  "type": "monster",
+  "name": "Romarin Arômaséraphie",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nTant que vos LP sont supérieurs à ceux de votre adversaire, tous les monstres de Type Plante que vous contrôlez gagnent 500 ATK/DEF. Une fois par tour, si vous gagnez des LP : ciblez 1 carte face recto contrôlée par votre adversaire ; jusqu'à la fin de ce tour, la carte face recto a ses effets annulés.",
+  "level": 5,
+  "atk": 2000,
+  "def": 900,
+  "properties": [
+    "Plante",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13127,
+  "type": "monster",
+  "name": "Performapal Odd-Eyes Minitaurus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "During damage calculation, if your Pendulum Monster attacks an opponent's monster: You can make that opponent's monster lose 100 ATK for each \"Performapal\" and \"Odd-Eyes\" card you control, during damage calculation only.",
+  "pendEffect": "If your \"Performapal\" or \"Odd-Eyes\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Beast-Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}

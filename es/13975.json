@@ -1,0 +1,18 @@
+{
+  "id": 13975,
+  "type": "monster",
+  "name": "Emperador del Caos, el Dragón del Armagedón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano o Deck Extra) desterrando 1 monstruo de LUZ y 1 monstruo de OSCURIDAD en tu Cementerio. Sólo puedes Invocar de Modo Especial a \"Emperador del Caos, el Dragón del Armagedón\" una vez por turno de esta forma. Una vez por turno: puedes pagar la mitad de tus LP; manda al Cementerio tantas cartas que controles como sea posible, excepto desde la Zona de Monstruos Extra y, si lo haces, manda al Cementerio hasta tantas cartas que controle tu adversario como la cantidad de tus cartas mandadas al Cementerio, y después inflige 300 puntos de daño a tu adversario por cada carta mandada a su Cementerio por el efecto de esta carta. Si esta carta Invocada de Modo Especial boca arriba deja el Campo, devuélvela al fondo del Deck.",
+  "pendEffect": "Puedes pagar 1000 LP, y después seleccionar 1 de tus monstruos Dragón desterrados; destruye esta carta y, si lo haces, añade ese monstruo a tu mano. Sólo puedes usar este efecto de \"Emperador del Caos, el Dragón del Armagedón\" una vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

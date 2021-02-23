@@ -1,0 +1,15 @@
+{
+  "id": 15265,
+  "type": "monster",
+  "name": "Mano di Tuono",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se uno o più mostri scoperti che controlli con ATK o DEF originali 1600 vengono distrutti in battaglia o dall'effetto di una carta dell'avversario e mandati al Cimitero, mentre questa carta è nella tua mano o Cimitero: puoi Evocare Specialmente questa carta (ma bandiscila quando lascia il Terreno) e, se lo fai, distruggi 1 carta controllata dal tuo avversario. Puoi utilizzare questo effetto di \"Mano di Tuono\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Tuono",
+    "Effetto"
+  ]
+}

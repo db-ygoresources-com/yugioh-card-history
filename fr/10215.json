@@ -1,0 +1,15 @@
+{
+  "id": 10215,
+  "type": "monster",
+  "name": "Hippocampe de Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez défausser cette carte ; ajoutez 2 monstres LUMIÈRE de Type Tonnerre de Niveau 4 de même nom avec max. 1600 ATK depuis votre Deck à votre main. Vous ne pouvez utiliser l'effet de \"Hippocampe de Tonnerre\" qu'une fois par tour. Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cet effet.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

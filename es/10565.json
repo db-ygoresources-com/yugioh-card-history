@@ -1,0 +1,16 @@
+{
+  "id": 10565,
+  "type": "monster",
+  "name": "Enterrador Mágico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Puedes seleccionar 1 monstruo Lanzador de Conjuros de Nivel 4 o menor en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

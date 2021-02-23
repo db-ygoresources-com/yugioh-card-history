@@ -1,0 +1,15 @@
+{
+  "id": 8033,
+  "type": "monster",
+  "name": "Señor Supremo Alienígena",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes retirar 2 Contadores-A de cualquier carta del Campo para invocar esta carta de Modo Especial desde tu mano. Una vez por turno, puedes poner 1 Contador-A en cada monstruo boca arriba que controle tu adversario. (Si un monstruo con Contadores-A batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador-A, sólo durante el cálculo de daño.) Sólo puedes controlar 1 \"Señor Supremo Alienígena\".",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13646,
+  "type": "monster",
+  "name": "Fraulein Vampira",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando um monstro declarar um ataque: você pode Invocar este card por Invocação-Especial da sua mão em Posição de Defesa. Você só pode usar este efeito de \"Fraulein Vampira\" uma vez por turno. Uma vez por batalha, se um monstro Zumbi seu batalhar um monstro do oponente, durante esse cálculo de dano (Efeito Rápido): você pode pagar PV em múltiplos de 100 (máx. 3000); seu monstro que está batalhando ganha esse valor de ATK/DEF apenas durante esse cálculo de dano. No final da Fase de Batalha, se este card destruiu quaisquer monstros em batalha: você pode Invocá-los por Invocação-Especial dos Cemitérios no seu campo.",
+  "level": 5,
+  "atk": 600,
+  "def": 2000,
+  "properties": [
+    "Zumbi",
+    "Efeito"
+  ]
+}

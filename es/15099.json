@@ -1,0 +1,16 @@
+{
+  "id": 15099,
+  "type": "monster",
+  "name": "Analizador Adamancipador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si sólo tu adversario controla un monstruo: puedes Invocar esta carta de Modo Especial desde tu mano. Durante tu Main Phase: puedes excavar las 5 cartas de la parte superior de tu Deck y, si lo haces, puedes Invocar de Modo Especial 1 monstruo Roca excavado de Nivel 4 o menor que no sea Cantante, y además pon el resto en el fondo de tu Deck en cualquier orden. Sólo puedes usar cada efecto de \"Analizador Adamancipador\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 700,
+  "properties": [
+    "Roca",
+    "Cantante",
+    "Efecto"
+  ]
+}

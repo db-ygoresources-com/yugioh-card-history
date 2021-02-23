@@ -1,0 +1,16 @@
+{
+  "id": 5656,
+  "type": "monster",
+  "name": "Magische Mandragola-Pflanze",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Lege 1 Zauberzählmarke auf jede offene Karte auf dem Spielfeld, auf die du eine Zauberzählmarke legen kannst.",
+  "level": 2,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

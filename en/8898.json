@@ -1,0 +1,15 @@
+{
+  "id": 8898,
+  "type": "monster",
+  "name": "Gem-Merchant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "During the Damage Step, in either player's turn, when a face-up EARTH Normal Monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; that monster gains 1000 ATK and DEF until the End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11721,
+  "type": "monster",
+  "name": "Dragón Sincro Ala Transparente",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nUna vez por turno, cuando otro monstruo de Nivel 5 o mayor activa su efecto en el Campo (Efecto Rápido): puedes negar la activación y, si lo haces, destruir la carta. Una vez por turno, cuando es activado un efecto de monstruo que selecciona 1 monstruo de Nivel 5 o mayor en el Campo (y ninguna otra carta) (Efecto Rápido): puedes negar la activación y, si lo haces, destruir la carta. Si el efecto de esta carta destruye un monstruo, hasta el final de este turno esta carta gana ATK igual al ATK original del monstruo destruido.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

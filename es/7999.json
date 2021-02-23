@@ -1,0 +1,15 @@
+{
+  "id": 7999,
+  "type": "monster",
+  "name": "Fortaleza Volante CIELO ÍGNEO",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta no puede ser Invocada de Modo Especial excepto con el efecto de \"Reactor de Invocación ・CIELO\". Una vez por turno puedes mandar 1 carta desde tu mano al Cementerio para destruir 1 carta que controle tu adversario. Una vez durante cada turno de tu adversario puedes activar 1 de los siguientes efectos:\n●Cuando tu adversario Invoca un monstruo de Modo Normal o Especial, destrúyelo e inflige 800 puntos de daño a tu adversario.\n●Cuando tu adversario Coloca una carta, destrúyela e inflige 800 puntos de daño a tu adversario.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

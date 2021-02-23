@@ -1,0 +1,16 @@
+{
+  "id": 7817,
+  "type": "monster",
+  "name": "Mist Valley Windmaster",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Once per turn, if both players have 5 or more cards in their hand, you can activate this effect to make both players send cards from their hand to the Graveyard until they have 4 cards.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Winged Beast",
+    "Tuner",
+    "Effect"
+  ]
+}

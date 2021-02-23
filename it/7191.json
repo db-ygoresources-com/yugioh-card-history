@@ -1,0 +1,15 @@
+{
+  "id": 7191,
+  "type": "monster",
+  "name": "Ratto Vulcanico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Questo topo mutante vive nelle profondità dei vulcani attivi, e ciò gli permette di sopportare temperature elevatissime senza subire alcun danno.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Pyro",
+    "Normale"
+  ]
+}

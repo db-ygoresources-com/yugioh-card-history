@@ -1,0 +1,15 @@
+{
+  "id": 6115,
+  "type": "monster",
+  "name": "Elementardrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Dieses Monster bekommt die folgenden Effekte, während sich Monster mit den folgenden Eigenschaften auf dem Spielfeld befinden:\n●FEUER: Erhöhe die ATK dieser Karte um 500 Punkte.\n●WIND: Wenn diese Karte ein Monster deines Gegners als Ergebnis eines Kampfes zerstört, kann es sofort noch einmal angreifen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

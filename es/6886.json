@@ -1,0 +1,15 @@
+{
+  "id": 6886,
+  "type": "monster",
+  "name": "Estatua-Barrera de la Sequía",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Ningún jugador puede Invocar monstruos de Modo Especial, excepto monstruos de TIERRA.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

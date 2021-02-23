@@ -1,0 +1,16 @@
+{
+  "id": 9217,
+  "type": "monster",
+  "name": "Adivinador Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante de OSCURIDAD + 1 monstruo de Tipo Insecto que no sea Cantante\nEsta carta no puede ser destruida en batalla. Cuando esta carta declara un ataque, si el ATK del objetivo del ataque es mayor que el de esta carta: el ATK del objetivo del ataque se convierte en el ATK en este momento de esta carta boca arriba. Este cambio dura hasta el final de la Battle Phase. Cuando esta carta destruye a un monstruo de tu adversario en batalla y lo manda al Cementerio: manda al Cementerio las 3 cartas de la parte superior del Deck de tu adversario.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Sincronía",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14473,
+  "type": "monster",
+  "name": "Lamia Reptílica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta está en tu mano y todos los monstruos que controlas son monstruos Reptil boca arriba (mín. 1): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; cambia su ATK a 0 y, si lo haces, Invoca esta carta de Modo Especial, y después recibe daño igual al ATK original de ese monstruo. Si esta carta es mandada al Cementerio como Material de Sincronía: puedes seleccionar hasta 2 monstruos boca arriba en el Campo; cambia su ATK a 0. Sólo puedes usar 1 efecto de \"Lamia Reptílica\" por turno, y sólo una vez ese turno.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Reptil",
+    "Cantante",
+    "Efecto"
+  ]
+}

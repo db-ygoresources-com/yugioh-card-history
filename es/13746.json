@@ -1,0 +1,16 @@
+{
+  "id": 13746,
+  "type": "monster",
+  "name": "Demise, Rey Supremo del Armagedón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Ciclo del Mundo\". El nombre de esta carta se convierte en \"Demise, Rey del Armagedón\" mientras esté en la mano o en el Campo. Mientras esta carta Invocada por Ritual esté en el Campo, tus Monstruos de Ritual no pueden ser destruidos en batalla. Si todos los monstruos usados para Invocar esta carta por Ritual fueron Monstruos de Ritual, no pagas LP para activar sus efectos. Una vez por turno: puedes pagar 2000 LP; destruye tantas otras cartas en el Campo como sea posible y, si lo haces, inflige 200 puntos de daño a tu adversario por cada carta destruida que controlaba.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Efecto"
+  ]
+}

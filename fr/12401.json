@@ -1,0 +1,18 @@
+{
+  "id": 12401,
+  "type": "monster",
+  "name": "Gongochat Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, lorsqu'une attaque impliquant un monstre que vous contrôlez et un monstre de votre adversaire est déclarée : vous pouvez activer cet effet ; vous ne recevez aucun dommage de combat de ce combat.",
+  "pendEffect": "Une fois par tour, lorsqu'un monstre de votre adversaire déclare une attaque directe : vous pouvez activer cet effet ; vous ne recevez aucun dommage de combat de ce combat (même si cette carte quitte le Terrain).",
+  "pendScale": 2,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

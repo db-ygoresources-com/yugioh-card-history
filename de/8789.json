@@ -1,0 +1,15 @@
+{
+  "id": 8789,
+  "type": "monster",
+  "name": "Ewig infernaler Zufallskrieger",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, solange du keine Karten in deiner Hand hast, kannst du 1 Karte ziehen und vorzeigen. Für eine Monsterkarte, die durch diesen Effekt gezogen wird, füge deinem Gegner Schaden in Höhe der Stufe des Monsters x 200 zu. Für eine Zauber- oder Fallenkarte erhältst du 500 Schaden.",
+  "level": 1,
+  "atk": 900,
+  "def": 0,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

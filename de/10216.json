@@ -1,0 +1,16 @@
+{
+  "id": 10216,
+  "type": "monster",
+  "name": "Nummer 40: Gimmick-Marionette der Fäden",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 8\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; lege 1 Faden-Zählmarke auf jedes offene Monster auf dem Spielfeld, außer dieser Karte. Einmal pro Spielzug, während der nächsten End Phase des Gegners des Spielers, der durch diesen Effekt eine oder mehr Faden-Zählmarken gelegt hat: Zerstöre die Monster mit Faden-Zählmarken und falls du dies tust, füge deinem Gegner für jedes zerstörte Monster 500 Schaden zu.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

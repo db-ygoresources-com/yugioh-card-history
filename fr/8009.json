@@ -1,0 +1,15 @@
+{
+  "id": 8009,
+  "type": "monster",
+  "name": "Maraudeur aux Deux Épées",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par Battle Phase, si cette carte attaque un monstre en Position de Défense, elle peut attaquer une seconde fois à la suite. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

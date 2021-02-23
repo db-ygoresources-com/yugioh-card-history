@@ -1,0 +1,15 @@
+{
+  "id": 12246,
+  "type": "monster",
+  "name": "Éclipseur des Ténèbres Kozmo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non ciblable par des effets de carte de votre adversaire. Durant le tour de chaque joueur, lorsqu'une Carte Piège est activée : vous pouvez bannir 1 monstre \"Kozmo\" depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre \"Kozmo\" de max. Niveau 8 depuis votre Deck à votre main.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

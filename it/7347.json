@@ -1,0 +1,15 @@
+{
+  "id": 7347,
+  "type": "monster",
+  "name": "Venere Splendida",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Tutti i mostri non-Fata perdono 500 ATK/DEF. L'attivazione e gli effetti delle Carte Magia/Trappola attivate sul tuo Terreno non possono essere annullate.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

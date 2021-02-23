@@ -1,0 +1,15 @@
+{
+  "id": 8371,
+  "type": "monster",
+  "name": "Orage Sanguinaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte gagne 100 ATK pour chaque monstre de Type Bête Ailée que vous contrôlez. Une fois par tour : vous pouvez cibler 1 Carte Magie/Piège contrôlée par votre adversaire ; détruisez la cible. Vous devez contrôler min. 3 monstres de Type Bête Ailée pour activer et résoudre cet effet.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

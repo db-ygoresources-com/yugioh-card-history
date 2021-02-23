@@ -1,0 +1,18 @@
+{
+  "id": 12482,
+  "type": "monster",
+  "name": "Dragon Fantôme aux Yeux Impairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte Invoquée par Pendulation inflige des dommages de combat à votre adversaire en attaquant : vous pouvez infliger des dommages à votre adversaire égaux au nombre de cartes \"Yeux Impairs\" dans vos Zones Pendule x 1200. Vous ne pouvez utiliser cet effet de \"Dragon Fantôme aux Yeux Impairs\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour, lorsqu'une attaque impliquant votre monstre face recto et un monstre de votre adversaire est déclarée, si vous avez une carte \"Yeux Impairs\" dans votre autre Zone Pendule : jusqu'à la fin de la Battle Phase (même si cette carte quitte le Terrain), vous pouvez faire gagner 1200 ATK au monstre que vous contrôlez.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

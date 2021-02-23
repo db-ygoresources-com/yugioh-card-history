@@ -1,0 +1,16 @@
+{
+  "id": 14538,
+  "type": "monster",
+  "name": "Valquiria-Carruaje",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno, puedes: seleccionar 1 monstruo Hada que controles; equipa esta carta a ese objetivo, O: desequipa esta carta e Invócala de Modo Especial. Si el monstruo equipado fuera a ser destruido en batalla o por efecto de una carta, destruye esta carta en su lugar. Cuando el monstruo equipado declara un ataque: puedes hacer que gane 500 ATK. (Este ATK ganado permanece aún si esta carta deja el Campo).",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Hada",
+    "Unión",
+    "Efecto"
+  ]
+}

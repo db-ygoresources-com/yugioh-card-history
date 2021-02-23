@@ -1,0 +1,15 @@
+{
+  "id": 13555,
+  "type": "monster",
+  "name": "Ciguë Farstar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous ne contrôlez aucun monstre, ou si tous les monstres que vous contrôlez sont des monstres \"Farstar\" : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant la Damage Step, lorsque votre monstre \"Farstar\" combat un monstre de l'adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la fin de ce tour, le monstre que vous contrôlez gagne une ATK égale à son ATK d'origine. Vous ne pouvez utiliser qu'1 effet de \"Ciguë Farstar\" par tour, et uniquement une fois le tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

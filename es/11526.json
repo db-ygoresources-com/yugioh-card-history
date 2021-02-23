@@ -1,0 +1,18 @@
+{
+  "id": 11526,
+  "type": "monster",
+  "name": "Artistamigo Cartabruja",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Sacrificar esta carta; añade a tu mano 1 \"Polimerización\" en tu Deck o Cementerio.",
+  "pendEffect": "Una vez por turno: puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos que controles como Materiales de Fusión.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

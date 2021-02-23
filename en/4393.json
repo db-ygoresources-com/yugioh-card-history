@@ -1,0 +1,15 @@
+{
+  "id": 4393,
+  "type": "monster",
+  "name": "Mystic Lamp",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "This monster can attack your opponent's Life Points directly.",
+  "level": 1,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

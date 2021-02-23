@@ -1,0 +1,15 @@
+{
+  "id": 7856,
+  "type": "monster",
+  "name": "Paladin du Dragon Maudit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre Zombie de max. Niveau 4 dans le Cimetière de votre adversaire, qui a été détruit au combat ; Invoquez Spécialement la cible.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

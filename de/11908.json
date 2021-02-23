@@ -1,0 +1,16 @@
+{
+  "id": 11908,
+  "type": "monster",
+  "name": "Wahrsageprinzessin Blütenelfe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst alle Monster in offener Angriffsposition, die dein Gegner kontrolliert, in die offene Verteidigungsposition ändern. Die Kampfposition von Monstern, die durch diesen Effekt in die Verteidigungsposition geändert werden, kann nicht geändert werden.",
+  "level": 3,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Fee",
+    "Flipp",
+    "Effekt"
+  ]
+}

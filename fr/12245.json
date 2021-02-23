@@ -1,0 +1,15 @@
+{
+  "id": 12245,
+  "type": "monster",
+  "name": "Navette Delta Kozmo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : Vous pouvez envoyer 1 monstre \"Kozmo\" depuis votre Deck au Cimetière, puis ciblez 1 monstre face recto sur le Terrain ; il perd une ATK/DEF égales au Niveau du monstre envoyé x 100. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 monstre \"Kozmo\" de max. Niveau 4 depuis votre Deck.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

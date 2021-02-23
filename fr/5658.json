@@ -1,0 +1,15 @@
+{
+  "id": 5658,
+  "type": "monster",
+  "name": "Bibliothèque Magique Royale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte (max. 3) lorsque la Magie est résolue. Vous pouvez retirer 3 Compteurs Magie de cette carte ; piochez 1 carte.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14091,
+  "type": "monster",
+  "name": "Prominèses Dragarde",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre Dragon que vous contrôlez ; jusqu'à la fin du tour de votre adversaire, il gagne 500 ATK/DEF. Si un ou plusieurs Monstres Normaux sont envoyés à votre Cimetière, tant que cette carte est dans le Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Prominèses Dragarde\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

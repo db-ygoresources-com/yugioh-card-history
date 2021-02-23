@@ -1,0 +1,16 @@
+{
+  "id": 10565,
+  "type": "monster",
+  "name": "Croque-Mort Magique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez cibler 1 monstre Magicien de max. Niveau 4 dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9726,
+  "type": "monster",
+  "name": "Kragen-Rabca",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn ein Monster vom Typ Fisch, Seeschlange oder Aqua, das du kontrollierst, als Angriffsziel gewählt wird: Du kannst diese Karte von deinem Friedhof verbannen und dann das angreifende Monster wählen; annulliere den Angriff und falls du dies tust, verliert das gewählte Ziel bis zum Ende des nächsten Spielzugs 500 ATK. Du kannst diesen Effekt von „Kragen-Rabca“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 700,
+  "def": 1500,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

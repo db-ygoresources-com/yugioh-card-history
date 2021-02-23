@@ -1,0 +1,18 @@
+{
+  "id": 11937,
+  "type": "monster",
+  "name": "Tölpeldrachen-Magier",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Magier“-Pendelmonster oder „Buntäugig“-Monster in deinem Friedhof wählen, außer „Tölpeldrachen-Magier“; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Tölpeldrachen-Magier“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du eine „Magier“-Karte in deiner anderen Pendelzone hast: Du kannst deiner Hand 1 offenes „Magier“- oder „Buntäugig“-Pendelmonster von deinem Extra Deck hinzufügen, außer „Tölpeldrachen-Magier“. Du kannst diesen Effekt von „Tölpeldrachen-Magier“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

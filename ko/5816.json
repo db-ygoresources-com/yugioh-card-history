@@ -1,0 +1,16 @@
+{
+  "id": 5816,
+  "type": "monster",
+  "name": "붉은 첩자",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "리버스 : 필드 위의 함정 카드를 1장 파괴한다. 선택한 카드가 세트되어 있을 경우, 그 카드를 넘기고 확인하여, 함정 카드이면 파괴한다. 마법 카드일 경우에는 원래대로 되돌린다.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "전사족",
+    "리버스",
+    "효과"
+  ]
+}

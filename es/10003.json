@@ -1,0 +1,16 @@
+{
+  "id": 10003,
+  "type": "monster",
+  "name": "Constelación Praesepe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos \"Constelación\" de Nivel 4\nUna vez por turno, durante el Damage Step de cualquier jugador, cuando un monstruo \"Constelación\" que controlas está atacando o siendo atacado: puedes desacoplar de esta carta 1 Material Xyz; ese monstruo gana 1000 ATK, hasta la End Phase.",
+  "rank": 4,
+  "atk": 2400,
+  "def": 800,
+  "properties": [
+    "Máquina",
+    "Xyz",
+    "Efecto"
+  ]
+}

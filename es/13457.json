@@ -1,0 +1,19 @@
+{
+  "id": 13457,
+  "type": "monster",
+  "name": "Enlampanita",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos\nNo puedes Invocar esta carta por Enlace a menos que tengas como mínimo 3 cartas más en tu Deck Extra que tu adversario.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Hada",
+    "Enlace",
+    "Efecto"
+  ]
+}

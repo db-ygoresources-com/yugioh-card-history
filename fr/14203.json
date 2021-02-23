@@ -1,0 +1,18 @@
+{
+  "id": 14203,
+  "type": "monster",
+  "name": "Séra Traptrix",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre non-Lien \"Traptrix\"\nCette carte Invoquée par Lien n'est pas affectée par des effets de Piège. Vous ne pouvez utiliser chacun des effets suivants de \"Séra Traptrix\" qu'une fois par tour, et pas durant la Damage Step.\n●Si une Carte Piège Normal est activée : vous pouvez Invoquer Spécialement 1 monstre \"Traptrix\" depuis votre Deck d'un nom différent des cartes que vous contrôlez.\n●Si un effet de votre autre monstre \"Traptrix\" est activé : vous pouvez Poser 1 Piège Normal \"Trappe\" directement depuis le Deck.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Plante",
+    "Lien",
+    "Effet"
+  ]
+}

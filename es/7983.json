@@ -1,0 +1,15 @@
+{
+  "id": 7983,
+  "type": "monster",
+  "name": "Destructor de la Oscuridad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta no puede ser Invocada de Modo Especial. Esta carta puede atacar dos veces durante cada Battle Phase. Durante una batalla entre esta carta atacante y un monstruo en Posición de Defensa cuya DEF sea menor que el ATK de esta carta, inflige la diferencia como Daño de Batalla a tu adversario.",
+  "level": 7,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

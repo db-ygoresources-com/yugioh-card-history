@@ -1,0 +1,18 @@
+{
+  "id": 12737,
+  "type": "monster",
+  "name": "Raton Poirier Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est détruite au combat : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main.",
+  "pendEffect": "Vous pouvez cibler 1 carte \"Potartiste\" que vous contrôlez ; renvoyez-la à la main, mais le reste de ce tour (même si cette carte quitte le Terrain), vous ne pouvez activer ni de cartes ni d'effets de cartes du même nom que celle renvoyée à la main par cet effet. Vous ne pouvez utiliser cet effet de \"Raton Poirier Potartiste\" qu'une fois par tour.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 400,
+  "def": 600,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

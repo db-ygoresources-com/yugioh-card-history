@@ -1,0 +1,15 @@
+{
+  "id": 13646,
+  "type": "monster",
+  "name": "Fräulein Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un monstre déclare une attaque : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense. Vous ne pouvez utiliser cet effet de \"Fräulein Vampire\" qu'une fois par tour. Une fois par combat, si votre monstre Zombie combat un monstre de l'adversaire, durant ce calcul des dommages (Effet Rapide) : vous pouvez payer des LP en multiples de 100 (max. 3000) ; durant ce calcul des dommages uniquement, votre monstre combattant gagne autant d'ATK/DEF. À la fin de la Battle Phase, si cette carte a détruit un ou plusieurs monstres au combat : vous pouvez les Invoquer Spécialement depuis les Cimetières sur votre Terrain.",
+  "level": 5,
+  "atk": 600,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

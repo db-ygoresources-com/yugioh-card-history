@@ -1,0 +1,18 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "Artistamico Trombapanda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando un tuo Mostro Pendulum viene scelto come bersaglio per un attacco: puoi annullare l'attacco. Puoi utilizzare questo effetto di \"Artistamico Trombapanda\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno: puoi aumentare il Valore Pendulum di questa carta di 1 (massimo 12).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

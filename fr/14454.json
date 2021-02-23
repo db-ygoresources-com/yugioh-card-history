@@ -1,0 +1,15 @@
+{
+  "id": 14454,
+  "type": "monster",
+  "name": "Dinolutteur Martial Ankylo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant le calcul des dommages, si un autre monstre \"Dinolutteur\" que vous contrôlez combat un monstre de l'adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière ; le monstre que vous contrôlez ne peut pas être détruit par ce combat, et aussi, l'ATK du monstre combattant de votre adversaire est divisée par deux à la fin de la Damage Step. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée depuis le Terrain ce tour : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Dinolutteur Martial Ankylo\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12481,
+  "type": "monster",
+  "name": "Drago Miraggio Occhi Diversi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Mentre nella tua Zona Pendulum c'è una carta \"Occhi Diversi\" (Effetto Rapido): puoi scegliere come bersaglio 1 mostro \"Occhi Diversi\" che controlli; la prima volta che sta per essere distrutto in battaglia o dall'effetto di una carta in questo turno, non viene distrutto. Puoi utilizzare questo effetto di \"Drago Miraggio Occhi Diversi\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno, se uno o più Mostri Pendulum \"Occhi Diversi\" scoperti che controlli vengono distrutti in battaglia o dall'effetto di una carta: puoi distruggere 1 carta nella tua Zona Pendulum e, se lo fai, metti nella tua Zona Pendulum 1 Mostro Pendulum \"Occhi Diversi\" scoperto nel tuo Extra Deck, eccetto \"Drago Miraggio Occhi Diversi\".",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

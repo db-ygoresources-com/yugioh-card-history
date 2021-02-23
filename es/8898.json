@@ -1,0 +1,15 @@
+{
+  "id": 8898,
+  "type": "monster",
+  "name": "Gema-Mercader",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante el Damage Step, en el turno de cualquier jugador, cuando un Monstruo Normal de TIERRA boca arriba que controlas ataca o es atacado: puedes mandar al Cementerio esta carta en tu mano; ese monstruo gana 1000 ATK y DEF hasta la End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

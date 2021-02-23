@@ -1,0 +1,15 @@
+{
+  "id": 9841,
+  "type": "monster",
+  "name": "Cavalier des Mers",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez cibler un nombre de votre choix de vos monstres de Type Poisson/Serpent de Mer/Aqua bannis ; équipez-les à cette carte. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain. Si cette carte face recto sur le Terrain devait être détruite, vous pouvez détruire 1 de ces cartes à la place. Cette carte gagne 1000 ATK tant qu'elle est équipée avec un ou plusieurs monstres par cet effet.",
+  "level": 5,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

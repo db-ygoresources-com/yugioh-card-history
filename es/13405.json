@@ -1,0 +1,15 @@
+{
+  "id": 13405,
+  "type": "monster",
+  "name": "Inspector Surfista",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal o Especial si controlas un monstruo. Ningún jugador puede activar efectos de monstruos a menos que la cantidad de efectos de monstruo que el jugador activó previamente en ese turno sea menor que la cantidad de tipos de cartas de monstruos en el Campo en este momento (Ritual, Fusión, Sincronía, Xyz, Péndulo y Enlace). (Si es negada la activación de un efecto, cuenta igual para el total de ese turno. Sólo cuentan los efectos que fueron activados mientras este monstruo estaba boca arriba en el Campo).",
+  "level": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

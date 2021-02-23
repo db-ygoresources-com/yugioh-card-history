@@ -1,0 +1,18 @@
+{
+  "id": 11787,
+  "type": "monster",
+  "name": "Magicien Xiangke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 monstre LUMIÈRE sur le Terrain ; jusqu'à la fin de ce tour, le monstre face recto a ses effets annulés.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 Monstre Xyz face recto que vous contrôlez ; ce tour (même si cette carte quitte le Terrain), vous pouvez l'utiliser comme un Matériel Xyz pour une Invocation Xyz en utilisant son Rang comme Niveau.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

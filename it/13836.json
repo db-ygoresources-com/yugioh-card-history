@@ -1,0 +1,21 @@
+{
+  "id": 13836,
+  "type": "monster",
+  "name": "Drago Gumblar Topologico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2+ Mostri con Effetto\nSe un altro mostro viene Evocato Specialmente in una zona puntata da un Mostro Link mentre questo mostro è sul Terreno: scarta 1 o 2 carte a caso, poi il tuo avversario ne scarta lo stesso numero. Durante la tua Main Phase, se questa carta è Extra Linkata e il tuo avversario ha almeno 1 carta nella sua mano: puoi far scartare 1 o 2 carte (il numero più alto) al tuo avversario, poi, se non ha più carte nella sua mano, infliggigli 3000 danni. Puoi utilizzare solo 1 effetto di \"Drago Gumblar Topologico\" per turno, e solo una volta in quel turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

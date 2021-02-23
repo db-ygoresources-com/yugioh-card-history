@@ -1,0 +1,16 @@
+{
+  "id": 8651,
+  "type": "monster",
+  "name": "Dragón Rojo Majestuoso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Dragón Majestuoso\" + \"Dragón Rojo Archidemonio\" + 1 monstruo que no sea Cantante\nNo puede ser destruido por efectos de cartas. Después del cálculo de daño, si esta carta ataca: destruye todos los monstruos en Posición de Defensa en el Campo. Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; niega sus efectos y, si lo haces, esta carta gana ATK igual al ATK de ese monstruo. Estos cambios duran hasta el final de este turno. Durante la End Phase: selecciona 1 \"Dragón Rojo Archidemonio\" en tu Cementerio; devuelve al Deck Extra esta carta en el Campo, y después Invoca ese objetivo de Modo Especial.",
+  "level": 10,
+  "atk": 4000,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12693,
+  "type": "monster",
+  "name": "Artistamigo Botonivel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes declarar un Nivel del 1 al 5, y después selecciona otro monstruo \"Artistamigo\" que controles; hasta el final de este turno, reduce el Nivel de esta carta por el Nivel declarado y, si lo haces, incrementa el Nivel del otro monstruo en la misma cantidad.",
+  "pendEffect": "Una vez por turno: puedes aumentar en 1 los Niveles de todos los monstruos Invocados por Péndulo que controles en este momento (aun si esta carta deja el Campo).",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 2600,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

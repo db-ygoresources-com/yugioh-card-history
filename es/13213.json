@@ -1,0 +1,15 @@
+{
+  "id": 13213,
+  "type": "monster",
+  "name": "F.A. Amo Sónico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Gana ATK igual a su Nivel x 300. No puede ser destruido en batalla con un monstruo de tu adversario cuyo Nivel/Rango original sea más bajo que el Nivel de esta carta. Cada vez que una Carta Mágica/Trampa \"F.A.\" o un efecto de Mágica/de Trampa \"F.A.\" son activados, puedes aumentar el Nivel de esta carta en 1. Si el Nivel de esta carta es 7 o mayor, puede hacer hasta 2 ataques a monstruos durante cada Battle Phase.",
+  "level": 4,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

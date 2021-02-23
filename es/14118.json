@@ -1,0 +1,16 @@
+{
+  "id": 14118,
+  "type": "monster",
+  "name": "Shiranui Sagaescudera",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSólo puedes Invocar de Modo Especial uno o más \"Shiranui Sagaescudera\" una vez por turno. Una vez por turno: puedes desterrar 1 monstruo boca arriba que controles o en tu Cementerio, y después aplica estos efectos, en secuencia, dependiendo del monstruo que desterraste, si fue alguno de éstos.\n●Zombi: Puedes hacer que todos los monstruos que controlas ganen 300 ATK.\n●FUEGO: Puedes destruir 1 Mágica/Trampa en el Campo.\n●Sincronía: Puedes destruir 1 monstruo en el Campo.",
+  "level": 7,
+  "atk": 2100,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Sincronía",
+    "Efecto"
+  ]
+}

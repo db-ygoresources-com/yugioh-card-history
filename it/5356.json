@@ -1,0 +1,15 @@
+{
+  "id": 5356,
+  "type": "monster",
+  "name": "Mudora",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Guadagna 200 ATK per ogni mostro Fata nel tuo Cimitero.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

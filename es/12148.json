@@ -1,0 +1,18 @@
+{
+  "id": 12148,
+  "type": "monster",
+  "name": "Escritoriobot 008",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta gana 500 ATK por cada carta \"Escritoriobot\" en tu Cementerio. Tu adversario no puede seleccionar para efectos de cartas a cartas \"Escritoriobot\" boca arriba, excepto a ésta. Esta carta puede hacer hasta 2 ataques a monstruos durante cada Battle Phase.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Escritoriobot\". Este efecto no puede ser negado.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

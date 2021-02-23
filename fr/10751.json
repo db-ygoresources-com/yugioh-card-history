@@ -1,0 +1,15 @@
+{
+  "id": 10751,
+  "type": "monster",
+  "name": "Jiangshi Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto : vous pouvez ajouter 1 monstre \"Fantôruse\" dont le Niveau est inférieur ou égal au nombre de monstres \"Fantôruse\" que vous contrôlez depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Jiangshi Fantôruse\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

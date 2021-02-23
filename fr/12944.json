@@ -1,0 +1,18 @@
+{
+  "id": 12944,
+  "type": "monster",
+  "name": "Zefraath",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (face recto depuis votre Extra Deck) en Sacrifiant tous les monstres que vous contrôlez (min. 3 monstres \"Zefra\" inclus), et non Invocable Spécialement autrement. Après avoir Invoqué Spécialement cette carte, vous pouvez mener 1 Invocation Pendule d'un ou plusieurs monstres \"Zefra\" durant votre Main Phase ce tour, en plus de votre Invocation Pendule. (Vous ne pouvez gagner cet effet qu'une fois par tour.) Une fois par tour : vous pouvez Sacrifier 1 monstre ; Invoquez Spécialement 1 monstre \"Zefra\" depuis votre Deck.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez ajouter face recto 1 Monstre Pendule \"Zefra\" depuis votre Deck à votre Extra Deck, et si vous le faites, changez l'Échelle Pendule de cette carte pour qu'elle soit la même que celle du Monstre Pendule jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Zefraath\" qu'une fois par tour.",
+  "pendScale": 5,
+  "level": 11,
+  "atk": 3450,
+  "def": 2950,
+  "properties": [
+    "Rocher",
+    "Pendule",
+    "Effet"
+  ]
+}

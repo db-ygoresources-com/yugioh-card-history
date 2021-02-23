@@ -1,0 +1,18 @@
+{
+  "id": 11814,
+  "type": "monster",
+  "name": "Margrave Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Un guerrier Chevaliardent de haut rang. Quand il entre au cœur du combat, ses attaques balayantes ne sont non seulement craintes par ses ennemis, mais également par ses alliés.",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1500,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

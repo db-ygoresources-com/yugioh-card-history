@@ -1,0 +1,16 @@
+{
+  "id": 6414,
+  "type": "monster",
+  "name": "サイバネティック・マジシャン",
+  "nameRuby": "サイバネティック・マジシャン",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "手札を１枚捨てる。このターンのエンドフェイズ時まで、フィールド上に表側表示で存在するモンスター１体の攻撃力は２０００になる。",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "魔法使い族",
+    "効果"
+  ]
+}

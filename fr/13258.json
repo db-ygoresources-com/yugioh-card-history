@@ -1,0 +1,21 @@
+{
+  "id": 13258,
+  "type": "monster",
+  "name": "Dragon Chargeborrelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3+ Monstres à Effet\nAucun joueur ne peut cibler cette carte avec des effets de monstre. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto sur le Terrain ; il perd 500 ATK/DEF. Votre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet. Au début de la Damage Step, si cette carte attaque un monstre de l'adversaire : vous pouvez placer le monstre de l'adversaire dans une zone pointée par cette carte et en prendre le contrôle, mais envoyez-le au Cimetière durant la End Phase du prochain tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Dragon",
+    "Lien",
+    "Effet"
+  ]
+}

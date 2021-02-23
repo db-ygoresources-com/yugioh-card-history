@@ -1,0 +1,16 @@
+{
+  "id": 8431,
+  "type": "monster",
+  "name": "Gearfried Phénix",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec cet effet.\n●Si votre adversaire active une Carte Magie : vous pouvez cibler 1 monstre Gémeau dans votre Cimetière ; Invoquez Spécialement la cible. Durant le tour de chaque joueur, lorsqu'une Carte Magie/Piège qui cible un ou plusieurs monstres sur le Terrain est activée : vous pouvez envoyer 1 Carte d'Équipement face recto que vous contrôlez au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Guerrier",
+    "Gémeau",
+    "Effet"
+  ]
+}

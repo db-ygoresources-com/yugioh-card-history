@@ -1,0 +1,15 @@
+{
+  "id": 14056,
+  "type": "monster",
+  "name": "Roi du Déclin Balerdroch",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant la Standby Phase, si une carte face recto est dans une Zone Terrain et cette carte dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte en Position de Défense. Vous ne pouvez utiliser cet effet de \"Roi du Déclin Balerdroch\" qu'une fois par tour. Une fois par Chaîne, lorsqu'un monstre Zombie (\"Roi du Déclin Balerdroch\" exclu) active son effet (sauf durant la Damage Step) (Effet Rapide) : vous pouvez appliquer 1 de ces effets (mais vous ne pouvez pas appliquer le même effet de \"Roi du Déclin Balerdroch\" de nouveau ce tour).\n●Annulez l'effet.\n●Bannissez 1 monstre depuis le Terrain ou Cimetière.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

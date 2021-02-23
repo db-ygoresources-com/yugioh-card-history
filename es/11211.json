@@ -1,0 +1,18 @@
+{
+  "id": 11211,
+  "type": "monster",
+  "name": "El Cañón de Foucault",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una forma de vida mecanizada, que se desplaza por el espacio-tiempo. Pero lo más misterioso es que su memoria ha cas... desapare... ¿C...al será l... razón? ¿S... nieg... a q...e interfie...con e...a?",
+  "pendEffect": "Una vez por turno, durante la End Phase, si esta carta fue activada este turno: puedes seleccionar 1 Carta Mágica/de Trampa boca arriba en el Campo; destrúyela.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Normal"
+  ]
+}

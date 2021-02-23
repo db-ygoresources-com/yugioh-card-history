@@ -1,0 +1,18 @@
+{
+  "id": 11812,
+  "type": "monster",
+  "name": "Templario Caballerígneo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Un experimentado guerrero Caballerígneo que lucha por la justicia y desprecia a los corruptos. En estos tiempos llega a cuestionar incluso a su propia arma debido a su búsqueda absoluta de la rectitud.",
+  "pendEffect": "Si tienes una carta \"Caballerígneo\" en tu otra Zona del Péndulo: puedes destruir ambas cartas en tus Zonas del Péndulo y, si lo haces, añade a tu mano 1 monstruo de FUEGO de Tipo Guerrero en tu Deck o Cementerio.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1300,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

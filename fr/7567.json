@@ -1,0 +1,15 @@
+{
+  "id": 7567,
+  "type": "monster",
+  "name": "Dragon Materia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Les effets qui vont infliger des dommages à un joueur augmentent ses Life Points de ce montant à la place. Durant le tour de chaque joueur, lorsqu'une carte ou un effet qui va détruire un ou plusieurs monstres sur le Terrain est activé : vous pouvez envoyer 1 carte depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

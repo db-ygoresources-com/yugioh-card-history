@@ -1,0 +1,15 @@
+{
+  "id": 11647,
+  "type": "monster",
+  "name": "Isolda, Bella del Inframundo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas a \"Tristán, Caballero del Inframundo\", puedes Invocar esta carta de Modo Especial (desde tu mano). No puede ser Invocada de Modo Especial de otra forma. Puedes seleccionar hasta 2 monstruos Zombi que controlas y declarar un Nivel entre 5 y 8; hasta el final de este turno, el Nivel de esos monstruos se convierte en ese Nivel, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos Zombi. Sólo puedes usar este efecto de \"Isolda, Bella del Inframundo\" una vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

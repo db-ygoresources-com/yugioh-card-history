@@ -1,0 +1,15 @@
+{
+  "id": 13535,
+  "type": "monster",
+  "name": "Venschrecken Kern",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 anderes Zombie-Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Ein „Venschrecken“-Monster, das mit dieser Karte auf dem Spielfeld als Ritualbeschwörung beschworen wird, erhält den folgenden Effekt. Du kannst jeden der vorherigen Effekte von „Venschrecken Kern“ nur einmal pro Spielzug verwenden.\n●Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen.",
+  "level": 1,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

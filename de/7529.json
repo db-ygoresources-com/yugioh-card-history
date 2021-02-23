@@ -1,0 +1,16 @@
+{
+  "id": 7529,
+  "type": "monster",
+  "name": "Frostmagier der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du ein anderes „Eisbarriere“-Monster kontrollierst, können Monster der Stufe 4 oder höher keinen Angriff deklarieren.",
+  "level": 2,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

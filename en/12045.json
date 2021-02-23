@@ -1,0 +1,18 @@
+{
+  "id": 12045,
+  "type": "monster",
+  "name": "Kuzunoha, the Onmyojin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Special Summoned, except by Pendulum Summon. Requires 3 Spellcaster-Type Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, while you control no other monsters, you win the Match.",
+  "pendEffect": "Once per turn: You can banish 3 Spellcaster-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2300,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

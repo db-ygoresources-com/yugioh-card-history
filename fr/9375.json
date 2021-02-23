@@ -1,0 +1,16 @@
+{
+  "id": 9375,
+  "type": "monster",
+  "name": "Sphère Vylon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est envoyée depuis la Zone Carte Monstre au Cimetière : vous pouvez payer 500 Life Points pour cibler 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible. Vous pouvez envoyer cette Carte d'Équipement au Cimetière pour cibler 1 Carte Magie d'Équipement dans votre Cimetière ; équipez la cible au monstre qui était équipé avec cette carte.",
+  "level": 1,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

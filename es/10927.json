@@ -1,0 +1,15 @@
+{
+  "id": 10927,
+  "type": "monster",
+  "name": "Sirenorca",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si controlas monstruos de Tipo Pez y Bestia Alada, puedes Invocar esta carta de Modo Especial (desde tu mano). Cuando lo haces: puedes declarar un Nivel de 3 a 5; los Niveles de todos los monstruos que controles en este momento se convierten en el Nivel declarado. Si activas este efecto, los monstruos que controles no pueden activar sus efectos por el resto del turno, excepto los monstruos de AGUA.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

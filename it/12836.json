@@ -1,0 +1,16 @@
+{
+  "id": 12836,
+  "type": "monster",
+  "name": "Drago Fusione Veleno Avido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 mostro \"Predapianta\" + 1 mostro OSCURITÀ con Livello originale 8 o superiore\nDeve prima essere Evocata tramite Fusione. Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; fino alla fine di questo turno, cambia l'ATK di quel bersaglio a 0, inoltre gli effetti di quel bersaglio si annullano. Se questa carta viene distrutta e mandata al Cimitero: distruggi tanti mostri sul Terreni quanti possibile, poi puoi bandire 1 mostro OSCURITÀ di Livello 8 o superiore dal tuo Cimitero e Evocare Specialmente questa carta dal Cimitero.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Effetto"
+  ]
+}

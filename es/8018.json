@@ -1,0 +1,15 @@
+{
+  "id": 8018,
+  "type": "monster",
+  "name": "Disparador Hiper Psíquico/Modo de Ataque",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta no puede ser Invocada de Modo Especial excepto con \"Activar Modo de Ataque\". Si esta carta batalla con un monstruo, al final del Damage Step inflige daño a tu adversario igual a la DEF de ese monstruo, y gana Life Points igual a su ATK. Cuando esta carta en el Campo es destruida, puedes Invocar de Modo Especial, desde tu Cementerio, 1 \"Disparador Hiper Psíquico\".",
+  "level": 11,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

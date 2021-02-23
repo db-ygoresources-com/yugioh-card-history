@@ -1,0 +1,15 @@
+{
+  "id": 9289,
+  "type": "monster",
+  "name": "El Agente de los Milagros - Júpiter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, puedes retirar del juego 1 monstruo \"El Agente\" en tu Cementerio para seleccionar 1 monstruo de LUZ de Tipo Hada boca arriba que controles. El monstruo seleccionado gana 800 ATK hasta la End Phase. Mientras \"El Santuario en el Cielo\" esté boca arriba en el Campo, una vez por turno puedes descartar 1 monstruo de Tipo Hada para seleccionar 1 de tus monstruos de LUZ de Tipo Hada retirados del juego, e Invocarlo de Modo Especial.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

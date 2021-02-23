@@ -1,0 +1,16 @@
+{
+  "id": 5664,
+  "type": "monster",
+  "name": "Koitsu",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una volta per turno, durante la tua Main Phase puoi equipaggiare questa carta al tuo \"Aitsu\" come una Carta Magia Equipaggiamento, OPPURE staccare l'equipaggiamento ed Evocare tramite Evocazione Speciale questa carta scoperta in Posizione d'Attacco. Quando questa carta viene equipaggiata per effetto di questa carta, aumenta ATK del mostro equipaggiato di 3000 punti e quando il mostro equipaggiato attacca con un ATK superiore al DEF del mostro in Posizione di Difesa, infliggi la differenza ai Life Points del tuo avversario come danno da combattimento (1 mostro può essere equipaggiato solo con 1 Mostro Unione alla volta. Se il mostro equipaggiato con questa carta viene distrutto in seguito ad una battaglia, distruggi invece questa carta).",
+  "level": 10,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Fata",
+    "Unione",
+    "Effetto"
+  ]
+}

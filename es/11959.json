@@ -1,0 +1,18 @@
+{
+  "id": 11959,
+  "type": "monster",
+  "name": "Artilusionista Director del Espejo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, durante el turno de cualquier jugador: puedes seleccionar 1 monstruo boca arriba en el Campo; intercambia su ATK y DEF en este momento, y después recibe 500 puntos de daño. Este cambio de ATK y DEF dura hasta el final de este turno.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo que haya sido Invocado de Modo Especial; hasta el final de este turno (aún si esta carta deja el Campo), su ATK y DEF se convierten en su ATK o DEF en este momento (lo que sea más bajo).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

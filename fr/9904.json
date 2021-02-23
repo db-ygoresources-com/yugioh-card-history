@@ -1,0 +1,15 @@
+{
+  "id": 9904,
+  "type": "monster",
+  "name": "Ninja Masqué Ebisu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, si vous contrôlez un monstre \"Ninja\" face recto (\"Ninja Masqué Ebisu\" exclu), vous pouvez activer cet effet : renvoyez un nombre de Cartes Magie/Piège de votre adversaire depuis le Terrain à la main égal au nombre de monstres \"Ninja\" que vous contrôlez, et chaque \"Goe Goe, le Ninja Courageux\" face recto que vous contrôlez peut aussi attaquer directement votre adversaire ce tour.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

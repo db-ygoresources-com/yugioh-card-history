@@ -1,0 +1,18 @@
+{
+  "id": 13392,
+  "type": "monster",
+  "name": "Sciacallo Mitica Bestia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Puoi rimuovere 3 Segnalini Magia dal tuo Terreno e offrire come Tributo questa carta; Evoca Specialmente 1 Mostro con Effetto \"Mitica Bestia\" dal tuo Deck, eccetto \"Sciacallo Mitica Bestia\".",
+  "pendEffect": "Se non hai nessuna carta nella tua altra Zona Pendulum: puoi scegliere come bersaglio 1 carta scoperta che controlli su cui puoi mettere un Segnalino Magia; distruggi questa carta e, se lo fai, metti 1 Segnalino Magia su quella carta. Puoi utilizzare questo effetto di \"Sciacallo Mitica Bestia\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 0,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

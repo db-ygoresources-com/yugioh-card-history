@@ -1,0 +1,16 @@
+{
+  "id": 6263,
+  "type": "monster",
+  "name": "브레인 잭커",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "리버스 : 이 카드는 장착 카드로 취급되어, 상대 필드 위 몬스터에 장착한다. 이 카드를 장착한 몬스터의 컨트롤을 얻는다. 상대의 스텐바이 페이즈마다, 상대는 500 라이프 포인트를 회복한다.",
+  "level": 2,
+  "atk": 200,
+  "def": 900,
+  "properties": [
+    "악마족",
+    "리버스",
+    "효과"
+  ]
+}

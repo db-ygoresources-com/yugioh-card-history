@@ -1,0 +1,15 @@
+{
+  "id": 12142,
+  "type": "monster",
+  "name": "Samouraï Shiranui",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "(Effet Rapide) : vous pouvez bannir 1 monstre Zombie depuis votre Cimetière ; cette carte gagne 600 ATK, et si elle le fait, bannissez les monstres qui ont combattu cette carte, après le calcul des dommages. Ces effets durent jusqu'à la fin de ce tour. Si cette carte est bannie : vous pouvez cibler 1 monstre \"Shiranui\" (\"Samouraï Shiranui\" exclu) dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser chaque effet de \"Samouraï Shiranui\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11790,
+  "type": "monster",
+  "name": "Goritambour Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "S'il n'y a aucun monstre sur le Terrain, vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si cette carte est Invoquée Normalement sans Sacrifice, son Niveau devient 4. Une fois par tour, lorsqu'une attaque impliquant un monstre que vous contrôlez et un monstre de votre adversaire est déclarée : vous pouvez cibler le monstre que vous contrôlez ; jusqu'à la fin de la Battle Phase, il gagne 600 ATK.",
+  "pendEffect": "Une fois par tour, lorsqu'une attaque impliquant un monstre que vous contrôlez et un monstre de votre adversaire est déclarée : vous pouvez cibler le monstre que vous contrôlez ; jusqu'à la fin de la Battle Phase (même si cette carte quitte le Terrain), il gagne 600 ATK.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

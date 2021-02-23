@@ -1,0 +1,15 @@
+{
+  "id": 10502,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Mégaraptor",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsqu'un ou plusieurs Jetons sont Invoqués Spécialement sur votre Terrain : Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Type Machine/VENT/Niveau 3/ATK 0/DEF 0). Vous ne pouvez utiliser cet effet de \"Bête Fantôme Méca Mégaraptor\" qu'une fois par tour. Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Une fois par tour : vous pouvez Sacrifier 1 Jeton ; ajoutez 1 monstre \"Bête Fantôme Méca\" depuis votre Deck à votre main.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

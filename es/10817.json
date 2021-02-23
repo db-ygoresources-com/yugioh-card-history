@@ -1,0 +1,16 @@
+{
+  "id": 10817,
+  "type": "monster",
+  "name": "Autobús de Recorrido Turístico de los Reinos Prohibidos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Añade a tu mano, desde tu Deck, 1 monstruo Demonio, excepto un monstruo de OSCURIDAD o LUZ.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}

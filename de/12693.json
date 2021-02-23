@@ -1,0 +1,18 @@
+{
+  "id": 12693,
+  "type": "monster",
+  "name": "Künstlerkumpel Stufenportier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst eine Stufe von 1 bis 5 deklarieren und dann 1 anderes „Künstlerkumpel“-Monster wählen, das du kontrollierst; bis zum Ende dieses Spielzugs, verringere die Stufe dieser Karte um die deklarierte Stufe und falls du dies tust, erhöhe die Stufe des anderen Monsters um dieselbe Stufe.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst die Stufen aller als Pendelbeschwörung beschworenen Monster, die du derzeit kontrollierst, um 1 erhöhen (selbst falls diese Karte das Spielfeld verlässt.)",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 2600,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

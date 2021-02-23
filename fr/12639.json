@@ -1,0 +1,16 @@
+{
+  "id": 12639,
+  "type": "monster",
+  "name": "Dragon Xyz du Requiem des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres de Niveau 5\nSi cette carte a \"Dragon Xyz de la Rébellion des Ténèbres\" comme Matériel, elle gagne ces effets.\n●Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; changez son ATK à 0, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre.\n●Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; annulez l'activation, et si vous le faites, détruisez la carte, puis vous pouvez Invoquer Spécialement 1 Monstre Xyz depuis votre Cimetière.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

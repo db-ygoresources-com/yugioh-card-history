@@ -1,0 +1,16 @@
+{
+  "id": 15020,
+  "type": "monster",
+  "name": "Pilota Unione",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, puoi: scegliere come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a quel bersaglio, OPPURE: disequipaggiare questa carta ed Evocarla Specialmente. Se il mostro equipaggiato sta per essere distrutto in battaglia o dall'effetto di una carta, distruggi invece questa carta. Mentre questa carta è equipaggiata a un mostro: puoi bandire questa Carta Equipaggiamento; equipaggia 1 mostro Unione appropriato di Livello 4 o inferiore dal tuo Deck al mostro a cui questa carta era equipaggiato. Puoi utilizzare questo effetto di \"Pilota Unione\" una sola volta per turno.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Unione",
+    "Effetto"
+  ]
+}

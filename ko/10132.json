@@ -1,0 +1,15 @@
+{
+  "id": 10132,
+  "type": "monster",
+  "name": "데미지 메이지",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "카드의 효과에 의해서 자신이 데미지를 받았을 때 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 받은 데미지의 수치만큼 자신의 라이프 포인트를 회복한다.",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "마법사족",
+    "효과"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7874,
+  "type": "monster",
+  "name": "Celfon Morfotrónico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "●En Posición de Ataque: Una vez por turno puedes lanzar 1 dado de seis caras. Muestra tantas cartas de la parte superior de tu Deck como el número que sacaste e Invoca de Modo Especial 1 monstruo \"Morfotrónico/a\" de Nivel 4 o menor, que esté entre esas cartas ignorando las condiciones de Invocación. Baraja el resto en tu Deck.\n●En Posición de Defensa: Una vez por turno puedes lanzar 1 dado de seis caras. Mira tantas cartas de la parte superior de tu Deck como el número que sacaste y devuélvelas en el mismo orden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

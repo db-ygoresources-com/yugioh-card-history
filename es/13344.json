@@ -1,0 +1,21 @@
+{
+  "id": 13344,
+  "type": "monster",
+  "name": "Gouki el Ogro de la Destrucción",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2+ monstruos \"Gouki\"\nLa primera vez que cada monstruo al que apunte esta carta fuera a ser destruido en batalla cada turno, no es destruido. Durante tu Main Phase: puedes activar este efecto; por el resto de este turno, no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Gouki\", y además, tu adversario Invoca de Modo Especial 1 ó 2 monstruos desde su Cementerio, y después, tú Invocas de Modo Especial hasta esa cantidad de monstruos \"Gouki\" que no sean de Enlace desde tu Cementerio a una o más Zonas a las que apunte esta carta. Sólo puedes usar este efecto de \"Gouki el Ogro de la Destrucción\" una vez por turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

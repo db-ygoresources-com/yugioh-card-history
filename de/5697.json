@@ -1,0 +1,16 @@
+{
+  "id": 5697,
+  "type": "monster",
+  "name": "Shinato, König einer höheren Ebene",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Dieses Monster kann nur als Ritualbeschwörung beschworen werden, indem du die Ritualzauberkarte „Shinatos Arche“ aktivierst. Biete zusätzlich 1 oder mehrere Monster von deiner Hand oder deiner Spielfeldseite als Tribut an, die zusammen 8 oder mehr Stufen haben. Wenn diese Karte ein Monster, das sich in Verteidigungsposition auf der Spielfeldseite deines Gegners befindet, als Ergebnis eines Kampfes zerstört und dieses auf den Friedhof gelegt wird, füge den Life Points deines Gegners Schaden in Höhe der Grund-ATK des zerstörten Monsters zu.",
+  "level": 8,
+  "atk": 3300,
+  "def": 3000,
+  "properties": [
+    "Fee",
+    "Ritual",
+    "Effekt"
+  ]
+}

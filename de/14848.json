@@ -1,0 +1,16 @@
+{
+  "id": 14848,
+  "type": "monster",
+  "name": "Megalith Bethor",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte mit einer „Megalith“-Karte als Ritualbeschwörung beschwören. Du kannst diese Karte abwerfen; beschwöre 1 „Megalith“-Ritualmonster als Ritualbeschwörung von deiner Hand, indem du Monster von deiner Hand oder Spielfeldseite als Tribut anbietest, deren gemeinsame Stufe größer oder gleich seiner Stufe ist. Falls diese Karte als Ritualbeschwörung beschworen wird: Du kannst Karten, die dein Gegner kontrolliert, bis zur Anzahl der Ritualmonster mit unterschiedlichen Namen in deinem Friedhof wählen; zerstöre sie. Du kannst jeden Effekt von „Megalith Bethor“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1500,
+  "def": 2600,
+  "properties": [
+    "Fels",
+    "Ritual",
+    "Effekt"
+  ]
+}

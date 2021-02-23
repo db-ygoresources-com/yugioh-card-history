@@ -1,0 +1,16 @@
+{
+  "id": 8728,
+  "type": "monster",
+  "name": "Uraltes Flamvell-Wesen",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 FEUER Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Pyro\nWenn diese Karte als Synchrobeschwörung beschworen wird, entferne Karten im Friedhof deines Gegners bis zur Anzahl Karten in seiner Hand aus dem Spiel. Diese Karte erhält 200 ATK für jede Karte, die durch diesen Effekt aus dem Spiel entfernt wurde.",
+  "level": 7,
+  "atk": 2500,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Synchro",
+    "Effekt"
+  ]
+}

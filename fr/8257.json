@@ -1,0 +1,15 @@
+{
+  "id": 8257,
+  "type": "monster",
+  "name": "Ver - Victoire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Détruisez tous les monstres face recto sur le Terrain, excepté les monstres \"Ver\" de Type Reptile. Cette carte gagne 500 points d'ATK pour chaque monstre \"Ver\" de Type Reptile dans votre Cimetière.",
+  "level": 7,
+  "atk": 0,
+  "def": 2500,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

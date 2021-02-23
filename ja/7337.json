@@ -1,0 +1,16 @@
+{
+  "id": 7337,
+  "type": "monster",
+  "name": "モーム",
+  "nameRuby": "モーム",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "自分フィールド上に表側表示で存在する地属性モンスター１体をリリースして発動する。フィールド上に表側表示で存在し、リリースしたモンスターの攻撃力以下の守備力を持つモンスターを全て破壊する。",
+  "level": 4,
+  "atk": 1000,
+  "def": 900,
+  "properties": [
+    "岩石族",
+    "効果"
+  ]
+}

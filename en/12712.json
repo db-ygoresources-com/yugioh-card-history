@@ -1,0 +1,18 @@
+{
+  "id": 12712,
+  "type": "monster",
+  "name": "Abyss Actor - Superstar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
+  "pendEffect": "Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

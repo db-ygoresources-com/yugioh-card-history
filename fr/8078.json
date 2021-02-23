@@ -1,0 +1,15 @@
+{
+  "id": 8078,
+  "type": "monster",
+  "name": "Graine de Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Lorsque cette carte que vous contrôlez est détruite par un effet de carte et envoyée à votre Cimetière : vous pouvez cibler 1 monstre de Type Plante de max. Niveau 4 (\"Graine de Feu\" exclu) dans votre Cimetière ; Invoquez Spécialement la cible, et si vous le faites, Invoquez Spécialement 1 \"Jeton Graine\" (Type Plante/TERRE/Niveau 1/ATK 0/DEF 0) sur le Terrain de votre adversaire en Position de Défense. Ce Jeton ne peut pas être Sacrifié pour une Invocation Sacrifice.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

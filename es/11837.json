@@ -1,0 +1,16 @@
+{
+  "id": 11837,
+  "type": "monster",
+  "name": "Artilusionista Ilusionista del Trapecio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos de Tipo Lanzador de Conjuros de Nivel 4\nNunca recibes daño si la cantidad es igual o menor que el ATK de esta carta. Una vez por turno, durante la Main Phase 1 de cualquier jugador: puedes desacoplar de esta carta 1 Material Xyz, y después seleccionar 1 monstruo en Posición de Ataque boca arriba que controle el jugador activo (que no sea esta carta); este turno, éste puede hacer un segundo ataque durante cada Battle Phase, y además destrúyelo al final de la Battle Phase. Si esta carta es destruida en batalla y mandada al Cementerio, o si esta carta en tu posesión es destruida por el efecto de una carta de tu adversario y mandada a tu Cementerio: puedes Invocar de Modo Especial, desde el Deck, 1 monstruo \"Artilusionista\".",
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Xyz",
+    "Efecto"
+  ]
+}

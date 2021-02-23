@@ -1,0 +1,18 @@
+{
+  "id": 12422,
+  "type": "monster",
+  "name": "Metalfosi Cavalcaoro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Quel brillante, dorato quad punisce per bene i malvagi. Che ruote stupende! (Con un goffo buffone...)",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 altra carta scoperta che controlli; distruggila e, se lo fai, Posiziona 1 Carta Magia/Trappola \"Metalfosi\" direttamente dal tuo Deck.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1900,
+  "def": 500,
+  "properties": [
+    "Psichico",
+    "Pendulum",
+    "Normale"
+  ]
+}

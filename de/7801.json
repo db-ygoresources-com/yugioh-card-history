@@ -1,0 +1,15 @@
+{
+  "id": 7801,
+  "type": "monster",
+  "name": "Flammengeist Ignis",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst 1 offenes FEUER Monster als Tribut anbieten, um deinem Gegner 100 Schaden für jedes FEUER Monster in deinem Friedhof zuzufügen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

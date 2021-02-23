@@ -1,0 +1,15 @@
+{
+  "id": 12542,
+  "type": "monster",
+  "name": "Génie d'Accompagnement",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Gagne une DEF égale à la somme des DEF d'origine de tous les autres monstres en Position de Défense face recto que vous contrôlez.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

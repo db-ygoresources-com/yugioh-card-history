@@ -1,0 +1,15 @@
+{
+  "id": 11339,
+  "type": "monster",
+  "name": "Shopina la Maestra Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro LUCE di Tipo Fata nel tuo Cimitero; aggiungilo alla tua mano. Non puoi attivare effetti di mostri non-LUCE durante il turno in cui attivi questo effetto.",
+  "level": 7,
+  "atk": 2300,
+  "def": 1700,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

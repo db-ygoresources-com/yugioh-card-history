@@ -1,0 +1,15 @@
+{
+  "id": 7937,
+  "type": "monster",
+  "name": "Kasha",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) controlando 2 o más monstruos Zombi. Si esta carta es Invocada de Modo Especial: baraja al Deck tantos de los otros monstruos en el Campo como sea posible y, si lo haces, el ATK de esta carta se convierte en el número de monstruos boca arriba que barajaste al Deck de esta forma, cuyo Tipo original era Zombi, x 1000.",
+  "level": 8,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

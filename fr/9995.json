@@ -1,0 +1,15 @@
+{
+  "id": 9995,
+  "type": "monster",
+  "name": "Golem Colonie du Mal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre non-TÉNÈBRES de min. Niveau 5 sur le Terrain ; détruisez la cible.",
+  "level": 5,
+  "atk": 2150,
+  "def": 1250,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

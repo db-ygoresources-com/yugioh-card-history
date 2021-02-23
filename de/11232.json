@@ -1,0 +1,17 @@
+{
+  "id": 11232,
+  "type": "monster",
+  "name": "Schattenpuppe Falco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 „Schattenpuppe“-Monster in deinem Friedhof wählen, außer „Schattenpuppe Falco“; beschwöre es als Spezialbeschwörung in die verdeckte Verteidigungsposition.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst sie als Spezialbeschwörung in die verdeckte Verteidigungsposition beschwören. Du kannst nur 1 Effekt von „Schattenpuppe Falco“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 2,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Empfänger",
+    "Effekt"
+  ]
+}

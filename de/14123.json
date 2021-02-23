@@ -1,0 +1,20 @@
+{
+  "id": 14123,
+  "type": "monster",
+  "name": "Sprengauslöscher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Cyberse-Monster\nEinmal pro Spielzug, am Beginn des Damage Steps, wenn diese Karte gegen ein offenes Monster kämpft, das kein Linkmonster mit Link-3 oder höher ist: Du kannst das Monster zerstören. Einmal pro Spielzug: Du kannst 1 Monster als Tribut anbieten, auf das diese Karte zeigt, und dann 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "1"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

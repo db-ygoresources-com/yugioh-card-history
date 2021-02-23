@@ -1,0 +1,15 @@
+{
+  "id": 5322,
+  "type": "monster",
+  "name": "Le Sage de la Frontière",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Annulez les effets de Magie qui ciblent un monstre de Type Guerrier que vous contrôlez, et si vous le faites, détruisez la carte.",
+  "level": 3,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

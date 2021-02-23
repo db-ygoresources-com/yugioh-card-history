@@ -1,0 +1,15 @@
+{
+  "id": 10985,
+  "type": "monster",
+  "name": "Mikonaranja Silvana",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando esta carta que controlas es destruida por una carta de tu adversario (ya sea en batalla o por efecto de una carta) y mandada a tu Cementerio: puedes excavar la carta de la parte superior de tu Deck y, si es un monstruo de Tipo Planta, mandarlo al Cementerio. De otra forma, ponla en el fondo de tu Deck. Si esta carta es excavada del Deck y mandada al Cementerio por efecto de una carta: todos los monstruos de Tipo Planta que controles en este momento ganan 300 ATK y DEF.",
+  "level": 3,
+  "atk": 400,
+  "def": 1100,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

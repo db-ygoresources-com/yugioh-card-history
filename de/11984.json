@@ -1,0 +1,16 @@
+{
+  "id": 11984,
+  "type": "monster",
+  "name": "Topf Des Verbotenen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst 1 dieser Effekte aktivieren;\n●Ziehe 2 Karten.\n●Gib alle Zauber- und Fallenkarten auf dem Spielfeld auf die Hand zurück.\n●Zerstöre alle Monster, die dein Gegner kontrolliert.\n●Sieh dir die Hand deines Gegners an, zusätzlich mische 1 Karte von seiner Hand ins Deck.\nDu kannst diesen Effekt von „Topf Des Verbotenen“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

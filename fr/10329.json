@@ -1,0 +1,16 @@
+{
+  "id": 10329,
+  "type": "monster",
+  "name": "Confrérie du Poing de Feu - Esprit",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Non utilisable comme Matériel Synchro, sauf pour l'Invocation Synchro d'un monstre Bête-Guerrier. Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre FEU de Niveau 3 avec max. 200 DEF dans votre Cimetière ; Invoquez Spécialement la cible en Position de Défense, et si vous le faites, les monstres que vous contrôlez (monstres Bête-Guerrier exclus) ne peuvent pas attaquer le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Confrérie du Poing de Feu - Esprit\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Bête-Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

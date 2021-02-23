@@ -1,0 +1,17 @@
+{
+  "id": 11629,
+  "type": "monster",
+  "name": "Accel Synchron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nUna volta per turno: puoi mandare 1 mostro \"Synchron\" dal tuo Deck al Cimitero, poi attivare 1 di questi effetti;\n●Aumenta il Livello di questa carta del Livello del mostro mandato.\n●Riduci il Livello di questa carta del Livello del mostro mandato.\nDurante la Main Phase del tuo avversario, puoi (Effetto Rapido): immediatamente dopo che questo effetto si è risolto, Synchro Evoca utilizzando questa carta che controlli. Puoi Synchro Evocare \"Accel Synchron\" una sola volta per turno.",
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Macchina",
+    "Synchro",
+    "Tuner",
+    "Effetto"
+  ]
+}

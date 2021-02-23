@@ -1,0 +1,16 @@
+{
+  "id": 7293,
+  "type": "monster",
+  "name": "Slime Magique",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ● Votre adversaire reçoit tous les dommages de combat que vous auriez reçus à l'issue d'un combat impliquant cette carte.",
+  "level": 3,
+  "atk": 700,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Gémeau",
+    "Effet"
+  ]
+}

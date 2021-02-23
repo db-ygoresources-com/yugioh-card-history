@@ -1,0 +1,21 @@
+{
+  "id": 13085,
+  "type": "monster",
+  "name": "Dragón Bomba Topológico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ Monstruos de Efecto\nSi otro monstruo es Invocado de Modo Especial a una zona a la que apunte un Monstruo de Enlace, mientras este monstruo está en el Campo: destruye todos los monstruos en las Zonas de Monstruos Principales, y además por el resto de este turno tus demás monstruos no pueden atacar. Después del cálculo de daño, si esta carta atacó a un monstruo del adversario: inflige daño a tu adversario igual al ATK original de ese monstruo.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

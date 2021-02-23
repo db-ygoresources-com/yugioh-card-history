@@ -1,0 +1,15 @@
+{
+  "id": 4742,
+  "type": "monster",
+  "name": "Sphère Explosive",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte en Position de Défense face verso a été attaquée par un monstre de l'adversaire, avant le calcul des dommages : équipez cette carte au monstre attaquant. Puis, durant la prochaine Standby Phase de votre adversaire : détruisez le monstre équipé avec cette carte, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK que le monstre détruit avait sur le Terrain.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

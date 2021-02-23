@@ -1,0 +1,15 @@
+{
+  "id": 13231,
+  "type": "monster",
+  "name": "Kuncherche Altergeist",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre de l'adversaire déclare une attaque, si vous contrôlez une carte \"Altergeist\" : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, annulez l'attaque. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; annulez les effets de la carte tant qu'elle et ce monstre sont face recto sur le Terrain.",
+  "level": 5,
+  "atk": 0,
+  "def": 2400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

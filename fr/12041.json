@@ -1,0 +1,15 @@
+{
+  "id": 12041,
+  "type": "monster",
+  "name": "Soldat du Lustre Noir - Soldat Sacré",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 de vos monstres LUMIÈRE ou TÉNÈBRES bannis et 1 carte contrôlée par votre adversaire ; renvoyez la carte bannie au Cimetière, et si vous le faites, bannissez la carte contrôlée par votre adversaire. Vous ne pouvez utiliser cet effet de \"Soldat du Lustre Noir - Soldat Sacré\" qu'une fois par tour. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez cibler 1 monstre Guerrier de max. Niveau 7 dans votre Cimetière ; ajoutez-le à votre main.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

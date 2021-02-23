@@ -1,0 +1,15 @@
+{
+  "id": 8813,
+  "type": "monster",
+  "name": "Destructeur de Noyau, Allié de la Justice",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Au début de la Damage Step, si cette carte combat un monstre LUMIÈRE : détruisez le monstre.",
+  "level": 3,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

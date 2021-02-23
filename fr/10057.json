@@ -1,0 +1,15 @@
+{
+  "id": 10057,
+  "type": "monster",
+  "name": "Gearfried Rayon Lumineux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable. Uniquement Invocable Spécialement (depuis votre main) en ayant min. 5 monstres LUMIÈRE de noms différents dans votre Cimetière et non Invocable Spécialement autrement. Une fois par tour, durant le tour de chaque joueur, lorsqu'une Carte Magie/Piège est activée : vous pouvez bannir 1 monstre de Type Guerrier depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez-la. Tous les monstres face recto que vous contrôlez doivent être de Type Guerrier pour activer et résoudre cet effet.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

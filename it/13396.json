@@ -1,0 +1,18 @@
+{
+  "id": 13396,
+  "type": "monster",
+  "name": "Re Sciacallo Mitica Bestia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Ogni volta che viene attivata una Carta Magia, metti 2 Segnalini Magia su questa carta quando quella Magia si risolve. Una volta per turno, quando un avversario attiva l'effetto di un mostro (Effetto Rapido): puoi rimuovere 2 Segnalini Magia dal tuo Terreno; annulla l'attivazione e, se lo fai, distruggi quella carta.",
+  "pendEffect": "Se non hai nessuna carta nella tua altra Zona Pendulum: puoi distruggere questa carta e, se lo fai, Evoca Specialmente 1 Mostro Pendulum \"Mitica Bestia\" scoperto dal tuo Extra Deck, eccetto \"Re Sciacallo Mitica Bestia\". Puoi utilizzare questo effetto di \"Re Sciacallo Mitica Bestia\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2400,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

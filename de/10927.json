@@ -1,0 +1,15 @@
+{
+  "id": 10927,
+  "type": "monster",
+  "name": "Sirenenorca",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du Monster vom Typ Fisch und Geflügeltes Ungeheuer kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Wenn du dies tust: Du kannst eine Stufe von 3 bis 5 benennen; die Stufe aller Monster, die du derzeit kontrollierst, wird die benannte Stufe. Falls du diesen Effekt aktivierst, können die Effekte von Monstern, die du kontrollierst, für den Rest dieses Spielzugs nicht aktiviert werden, außer denen von WASSER Monstern.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

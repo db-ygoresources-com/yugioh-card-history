@@ -1,0 +1,16 @@
+{
+  "id": 11900,
+  "type": "monster",
+  "name": "Golem Rouages Ancients Toon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ne peut pas attaquer le tour où elle est Invoquée. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Si cette carte attaque, votre adversaire ne peut pas activer de Magies/Pièges jusqu'à la fin de la Damage Step.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Toon",
+    "Effet"
+  ]
+}

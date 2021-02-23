@@ -1,0 +1,16 @@
+{
+  "id": 6833,
+  "type": "monster",
+  "name": "Dragon Cyberténébreux",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Corne Cyberténébreuse\" + \"Tranchant Cyberténébreux\" + \"Queue Cyberténébreuse\"\nUniquement Invocable par Fusion. Si cette carte est Invoquée Spécialement : ciblez 1 monstre Dragon dans votre Cimetière ; équipez la cible à cette carte. Gagne une ATK égale à l'ATK d'origine du monstre qui lui est équipé par cet effet. Gagne 100 ATK pour chaque monstre dans votre Cimetière. Si cette carte va être détruite au combat, détruisez le monstre équipé à la place.",
+  "level": 8,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

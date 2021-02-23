@@ -1,0 +1,21 @@
+{
+  "id": 15039,
+  "type": "monster",
+  "name": "Gouki Le Puissant Ogre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres Guerrier\nGagne une ATK égale à la somme des Classifications Lien de tous les autres Monstres Lien que vous contrôlez x 200. Cette carte Invoquée par Lien n'est pas affectée par les effets d'autres cartes. Vous pouvez Sacrifier 1 Monstre Lien \"Gouki\", puis ciblez un nombre de cartes sur le Terrain, inférieur ou égal à sa Classification Lien ; détruisez-les. Vous ne pouvez utiliser cet effet de \"Gouki Le Puissant Ogre\" qu'une fois par tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

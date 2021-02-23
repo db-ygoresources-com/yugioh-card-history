@@ -1,0 +1,16 @@
+{
+  "id": 14479,
+  "type": "monster",
+  "name": "Escarabajo Reversible",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Baraja a el o los Decks esta carta y cualquier monstruo boca arriba en su columna.\nSi esta carta es Invocada de Modo Normal o Especial: cambia esta carta, y cualquier monstruo en su columna, a Posición de Defensa boca abajo. Sólo puedes usar cada efecto de \"Escarabajo Reversible\" una vez por turno.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1500,
+  "properties": [
+    "Insecto",
+    "Volteo",
+    "Efecto"
+  ]
+}

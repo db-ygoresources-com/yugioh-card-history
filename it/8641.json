@@ -1,0 +1,15 @@
+{
+  "id": 8641,
+  "type": "monster",
+  "name": "Tritatore",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno: puoi mandare 1 mostro di Tipo Macchina dalla tua mano al Cimitero, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario con un Livello pari o inferiore a quello del mostro mandato al Cimitero; distruggi quel bersaglio.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

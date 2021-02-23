@@ -1,0 +1,18 @@
+{
+  "id": 14925,
+  "type": "monster",
+  "name": "Magicien du Ciel Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre Main Phase, si cette carte a été Invoquée Normalement ou Spécialement ce tour : le reste de ce tour, vous pouvez appliquer les effets suivants, selon les autres monstres que vous contrôlez actuellement.\n●Fusion : Cette carte peut attaquer directement.\n●Synchro : Votre adversaire ne peut pas activer d'effets de monstre.\n●Xyz : L'ATK de cette carte devient le double de son ATK d'origine.\n●Pendule : Durant la End Phase, ajoutez 1 Monstre Pendule depuis votre Deck à votre main.\nVous ne pouvez utiliser cet effet de \"Magicien du Ciel Potartiste\" qu'une fois par tour.",
+  "pendEffect": "Lorsqu'exactement 1 Monstre Fusion, Synchro ou Xyz face recto que vous contrôlez qui a été Invoqué Spécialement depuis l'Extra Deck est détruit au combat ou par un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement le monstre détruit, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Magicien du Ciel Potartiste\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

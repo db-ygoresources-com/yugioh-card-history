@@ -1,0 +1,15 @@
+{
+  "id": 11216,
+  "type": "monster",
+  "name": "Poisson Épée Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : tous les monstres actuellement contrôlés par votre adversaire perdent 600 ATK/DEF. Si vous Invoquez Spécialement un ou plusieurs monstres tant que vous contrôlez cette carte : tous les monstres actuellement contrôlés par votre adversaire perdent 600 ATK/DEF.",
+  "level": 2,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

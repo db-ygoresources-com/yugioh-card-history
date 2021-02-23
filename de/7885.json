@@ -1,0 +1,15 @@
+{
+  "id": 7885,
+  "type": "monster",
+  "name": "Eisenketten-Mechaniker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte ein Monster durch Kampf zerstört und auf den Friedhof legt, füge deinem Gegner 300 Schaden zu. Einmal pro Spielzug kannst du 1 „Eisenketten“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Friedhof beschwören, außer „Eisenketten-Mechaniker“. Diese Karte kann in dem Spielzug, in dem du diesen Effekt aktivierst, nicht angreifen.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

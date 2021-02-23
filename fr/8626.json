@@ -1,0 +1,15 @@
+{
+  "id": 8626,
+  "type": "monster",
+  "name": "Servante Reptilia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Détruisez cette carte s'il y a des monstres face recto sur le Terrain autres que cette carte. Détruisez cette carte lorsqu'elle est ciblée par l'effet d'une Carte Magie ou Piège. Aucun joueur ne peut Invoquer Normalement un monstre lorsque cette carte est face recto sur le Terrain.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

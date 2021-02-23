@@ -1,0 +1,16 @@
+{
+  "id": 10329,
+  "type": "monster",
+  "name": "Fratellanza del Pugno di Fuoco - Spirito",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Non può essere utilizzato come Materiale Synchro, eccetto che per la Synchro Evocazione di un mostro Guerriero-Bestia. Quando questa carta viene Evocata Normalmente: puoi scegliere come bersaglio 1 mostro FUOCO di Livello 3 con DEF di 200 o inferiore nel tuo Cimitero; Evoca Specialmente quel bersaglio in Posizione di Difesa e, se lo fai, i mostri che controlli non possono attaccare per il resto di questo turno, eccetto i mostri Guerriero-Bestia. Puoi utilizzare questo effetto di \"Fratellanza del Pugno di Fuoco - Spirito\" una sola volta per turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Guerriero-Bestia",
+    "Tuner",
+    "Effetto"
+  ]
+}

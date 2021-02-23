@@ -1,0 +1,18 @@
+{
+  "id": 11135,
+  "type": "monster",
+  "name": "Magicien Observateur du Temps",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Chaque tour, la ou les premières cartes dans votre Zone Pendule qui vont être détruites par un effet de carte de votre adversaire ne sont pas détruites.",
+  "pendEffect": "Vous ne devez contrôler aucun monstre pour activer cette carte. Si un Monstre Pendule que vous contrôlez combat, votre adversaire ne peut pas activer de Cartes Piège jusqu'à la fin de la Damage Step. L'Échelle Pendule de cette carte devient 4, sauf si vous avez une carte \"Magicien\" ou carte \"Yeux Impairs\" dans votre autre Zone Pendule.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

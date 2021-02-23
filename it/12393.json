@@ -1,0 +1,18 @@
+{
+  "id": 12393,
+  "type": "monster",
+  "name": "Tacchino Mite",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Il sapore della vittoria ti farà cadere come un birillo.",
+  "pendEffect": "Una volta per turno: puoi tirare un dado a sei facce. Fino alla fine di questo turno, riduci il Valore Pendulum di questa carta di quel numero (minimo 1).",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Bestia Alata",
+    "Pendulum",
+    "Normale"
+  ]
+}

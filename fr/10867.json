@@ -1,0 +1,15 @@
+{
+  "id": 10867,
+  "type": "monster",
+  "name": "Cyber Dragon Drei",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Le nom de cette carte devient \"Cyber Dragon\" tant qu'elle est sur le Terrain ou dans le Cimetière. Lorsque cette carte est Invoquée Normalement : vous pouvez faire devenir Niveau 5 tous les \"Cyber Dragon\" que vous contrôlez actuellement. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres Machine exclus) durant le tour où vous activez cet effet. Si cette carte est bannie : vous pouvez cibler 1 \"Cyber Dragon\" que vous contrôlez ; ce tour, il ne peut être détruit ni au combat ni par des effets de carte.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

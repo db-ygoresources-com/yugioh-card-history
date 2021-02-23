@@ -1,0 +1,15 @@
+{
+  "id": 6000,
+  "type": "monster",
+  "name": "Marshmallon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
+  "level": 3,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Fairy",
+    "Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11938,
+  "type": "monster",
+  "name": "Camarartista Coringa Ecranibista",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode adicionar 1 monstro \"Camarartista\", Monstro Pêndulo \"Mago\" ou monstro \"Olhos Anômalos\" do seu Deck à sua mão, exceto \"Camarartista Coringa Ecranibista\".",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Camarartista\", Monstros Pêndulo \"Mago\" e monstros \"Olhos Anômalos\". Este efeito não pode ser negado.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

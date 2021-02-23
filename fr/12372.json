@@ -1,0 +1,18 @@
+{
+  "id": 12372,
+  "type": "monster",
+  "name": "Roi Ours Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non destructible par des effets de Magie/Piège tant qu'elle est en Position d'Attaque face recto. Durant votre Battle Phase uniquement, cette carte gagne 100 ATK pour chaque carte \"Potartiste\" que vous contrôlez.",
+  "pendEffect": "Une fois par tour, durant la End Phase, si cette carte a été activée ce tour : vous pouvez détruire cette carte, et si vous le faites, ajoutez 1 monstre de min. Niveau 7 à votre main, qui est soit dans votre Cimetière soit face recto dans votre Extra Deck.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Bête-Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

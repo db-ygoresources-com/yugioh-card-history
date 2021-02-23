@@ -1,0 +1,18 @@
+{
+  "id": 13137,
+  "type": "monster",
+  "name": "Acteur des Abysses - Prélude",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Gagne 1100 ATK si vous ne contrôlez aucun autre monstre. Une fois par tour : vous pouvez envoyer 1 Magie \"Script des Abysses\" depuis votre Deck au Cimetière ; ajoutez 1 Monstre Pendule \"Acteur des Abysses\" face recto depuis votre Extra Deck à votre main.",
+  "pendEffect": "Si vous ne contrôlez aucun monstre : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Prélude\" qu'une fois par Duel.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1100,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

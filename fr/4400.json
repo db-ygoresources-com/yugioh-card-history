@@ -1,0 +1,15 @@
+{
+  "id": 4400,
+  "type": "monster",
+  "name": "Scorpion d'Acier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Un monstre d'un type autre que Machine attaquant \"Scorpion d'Acier\" sera détruit à la fin de la End Phase du 2nd prochain tour de votre adversaire suivant cette attaque.",
+  "level": 1,
+  "atk": 250,
+  "def": 300,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

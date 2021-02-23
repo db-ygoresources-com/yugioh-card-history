@@ -1,0 +1,15 @@
+{
+  "id": 4998,
+  "type": "monster",
+  "name": "Obelisk der Peiniger",
+  "englishAttribute": "divine",
+  "localizedAttribute": "GÖTTLICH",
+  "effectText": "Erfordert 3 Tribute, um als Normalbeschwörung beschworen zu werden. (Kann nicht Normal gesetzt werden.) Die Normalbeschwörung dieser Karte kann nicht annulliert werden. Wenn diese Karte als Normalbeschwörung beschworen wird, können weder Karten noch Effekte aktiviert werden. Kein Spieler kann diese Karte als Ziel für Karteneffekte wählen. Einmal pro Spielzug, während der End Phase, falls diese Karte als Spezialbeschwörung beschworen wurde: Lege sie auf den Friedhof. Du kannst 2 Monster als Tribut anbieten; zerstöre alle Monster, die dein Gegner kontrolliert. Diese Karte kann in dem Spielzug, in dem dieser Effekt aktiviert wird, keinen Angriff deklarieren.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Göttliches Ungeheuer",
+    "Effekt"
+  ]
+}

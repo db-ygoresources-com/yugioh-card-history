@@ -1,0 +1,18 @@
+{
+  "id": 11616,
+  "type": "monster",
+  "name": "D/D/D Ragnarok Re Abisso dell'Oblio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro \"D/D/D\" nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di \"D/D/D Ragnarok Re Abisso dell'Oblio\" una sola volta per turno. Una volta per turno: puoi offrire come Tributo 1 altro mostro \"D/D\", poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; bandiscilo.",
+  "pendEffect": "Se Evochi Specialmente uno o più mostri \"D/D\", eccetto durante il Damage Step: puoi scegliere come bersaglio 1 mostro \"D/D\" nel tuo Cimitero; qualsiasi danno da combattimento che il tuo avversario subisce diventa la metà per il resto di questo turno, inoltre Evoca Specialmente quel mostro e, se lo fai, subisci 1000 danni. Puoi utilizzare questo effetto di \"D/D/D Ragnarok Re Abisso dell'Oblio\" una sola volta per turno.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2200,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

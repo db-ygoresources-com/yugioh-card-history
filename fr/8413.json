@@ -1,0 +1,16 @@
+{
+  "id": 8413,
+  "type": "monster",
+  "name": "Ver - Zéro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres \"Ver\" de Type Reptile ou plus\nPour chaque Monstre-Matériel de Fusion de nom différent utilisé pour l'Invocation Fusion de cette carte, elle gagne 500 points d'ATK et les effets suivants :\n ● 2+ : Une fois par tour, vous pouvez sélectionner 1 monstre de Type Reptile dans votre Cimetière et l'Invoquer Spécialement en Position de Défense face verso.\n ● 4+ : Vous pouvez retirer du jeu 1 monstre de Type Reptile depuis votre Cimetière pour envoyer 1 monstre sur le Terrain au Cimetière.\n ● 6+ : Une fois par tour, vous pouvez piocher 1 carte.",
+  "level": 10,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Reptile",
+    "Fusion",
+    "Effet"
+  ]
+}

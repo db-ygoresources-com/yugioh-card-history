@@ -1,0 +1,15 @@
+{
+  "id": 8142,
+  "type": "monster",
+  "name": "Alieno Cucciolo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Metti 1 Segnalino-A su tutti i mostri Evocati tramite Evocazione Speciale sul Terreno del tuo avversario. (Se un mostro con un Segnalino-A combatte con un mostro \"Alieno\", perde 300 ATK e DEF per ogni Segnalino-A solo durante il calcolo dei danni.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

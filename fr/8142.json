@@ -1,0 +1,15 @@
+{
+  "id": 8142,
+  "type": "monster",
+  "name": "Enfant Alien",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Placez 1 Compteur-A sur tous les monstres Invoqués Spécialement sur le Terrain de votre adversaire (si un monstre avec un Compteur-A combat un monstre \"Alien\", il perd 300 points d'ATK et de DEF pour chaque Compteur-A durant le calcul des dommages uniquement).",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6101,
+  "type": "monster",
+  "name": "Dunkler Imitator LV1",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Ziehe 1 Karte.\nEinmal pro Spielzug, während deiner Standby Phase: Du kannst diese Karte auf den Friedhof legen; beschwöre 1 „Dunkler Imitator LV3“ als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

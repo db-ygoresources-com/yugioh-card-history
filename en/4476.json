@@ -1,0 +1,15 @@
+{
+  "id": 4476,
+  "type": "monster",
+  "name": "Magical Ghost",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "This creature casts a spell of terror and confusion just before attacking its enemies.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Zombie",
+    "Normal"
+  ]
+}

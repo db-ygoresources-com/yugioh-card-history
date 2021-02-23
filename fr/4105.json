@@ -1,0 +1,15 @@
+{
+  "id": 4105,
+  "type": "monster",
+  "name": "Roi des Fantômes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que \"Château des Illusions\" reste face recto sur le Terrain, augmentez l'ATK et la DEF de cette carte de 100 points. L'ATK et la DEF de cette carte continuent d'augmenter de 100 points supplémentaires durant chacune de vos Standby Phases. Cet effet continuera jusqu'à votre 4ème tour inclu suivant le tour de son activation.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

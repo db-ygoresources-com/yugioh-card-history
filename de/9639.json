@@ -1,0 +1,15 @@
+{
+  "id": 9639,
+  "type": "monster",
+  "name": "Flügelschildkröte",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn offene Monster vom Typ Fisch, Seeschlange oder Aqua, die du kontrollierst, verbannt werden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören. (Die verbannten Monster müssen den Typ Fisch, Seeschlange oder Aqua haben, auch nachdem sie verbannt wurden.)",
+  "level": 3,
+  "atk": 1500,
+  "def": 1400,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

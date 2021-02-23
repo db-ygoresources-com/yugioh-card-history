@@ -1,0 +1,15 @@
+{
+  "id": 6967,
+  "type": "monster",
+  "name": "Die Sechs Samurai - Kamon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 offene Zauber-/Fallenkarte wählen; zerstöre das gewählte Ziel. Du musst ein offenes „Sechs Samurai“-Monster mit einem unterschiedlichen Namen kontrollieren, um diesen Effekt zu aktivieren und aufzulösen. Diese Karte kann in dem Spielzug, in dem dieser Effekt aktiviert wird, keinen Angriff deklarieren. Falls diese Karte zerstört würde, kannst du stattdessen ein anderes offenes „Sechs Samurai“-Monster zerstören, das du kontrollierst.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

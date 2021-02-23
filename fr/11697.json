@@ -1,0 +1,18 @@
+{
+  "id": 11697,
+  "type": "monster",
+  "name": "Zefranaga Marionnette de l'Ombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée par Pendulation ou envoyée au Cimetière : vous pouvez cibler 1 carte dans la Zone Pendule d'un joueur ; renvoyez-la à la main. Vous devez avoir une carte \"Zefra\" dans votre Zone Pendule pour activer et résoudre cet effet. Vous ne pouvez utiliser cet effet de \"Zefranaga Marionnette de l'Ombre\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Marionnette de l'Ombre\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

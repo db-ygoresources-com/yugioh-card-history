@@ -1,0 +1,18 @@
+{
+  "id": 12304,
+  "type": "monster",
+  "name": "Spinos Dinoniebla",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Sacrificar otro monstruo \"Dinoniebla\", y después activar 1 de estos efectos;\n●Este turno, esta carta puede atacar a tu adversario directamente.\n●Este turno, esta carta puede hacer un segundo ataque durante cada Battle Phase.",
+  "pendEffect": "Si otra u otras cartas \"Dinoniebla\" que controlas fueran a ser destruidas en batalla o por efecto de una carta de tu adversario, puedes destruir esta carta en su lugar.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

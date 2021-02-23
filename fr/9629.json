@@ -1,0 +1,15 @@
+{
+  "id": 9629,
+  "type": "monster",
+  "name": "Super Bogue",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable. Doit d'abord être Invoquée Spécialement depuis votre main en Position de Défense face recto, en bannissant \"Bogue X\", \"Bogue Y\" et \"Bogue Z\" depuis votre Cimetière. Permutez l'ATK et la DEF de tous les monstres en Position d'Attaque face recto sur le Terrain. Il ne peut y avoir qu'1 \"Super Bogue\" face recto sur le Terrain.",
+  "level": 4,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

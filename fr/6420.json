@@ -1,0 +1,15 @@
+{
+  "id": 6420,
+  "type": "monster",
+  "name": "Kozaky Géant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "S'il n'y a pas de \"Kozaky\" face recto sur le Terrain, détruisez cette carte. Si cette carte face recto sur le Terrain est détruite, infligez aux Life Points de son contrôleur actuel des dommages égaux à l'ATK originale de cette carte.",
+  "level": 4,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

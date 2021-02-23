@@ -1,0 +1,15 @@
+{
+  "id": 6420,
+  "type": "monster",
+  "name": "Kozaky Gigante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si no hay ningún \"Kozaky\" boca arriba en el Campo, destruye esta carta. Si esta carta boca arriba en el Campo es destruida, inflige daño a los Life Points del controlador actual igual al ATK original de esta carta.",
+  "level": 4,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

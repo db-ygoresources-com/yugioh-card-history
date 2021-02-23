@@ -1,0 +1,15 @@
+{
+  "id": 5956,
+  "type": "monster",
+  "name": "Tour d'Ossements Buveuse d'Ames",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous contrôlez un autre monstre de Type Zombie, votre adversaire ne peut pas cibler cette carte avec une attaque. Chaque fois qu'un ou plusieurs monstres de Type Zombie sont Invoqués Spécialement : envoyez les 2 cartes du dessus du Deck de votre adversaire au Cimetière.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

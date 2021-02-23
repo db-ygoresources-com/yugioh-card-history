@@ -1,0 +1,18 @@
+{
+  "id": 14440,
+  "type": "monster",
+  "name": "Reflection of Endymion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "You can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return that opponent's card and your card to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
+  "pendEffect": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your hand that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 1850,
+  "def": 2700,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

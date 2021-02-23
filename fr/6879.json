@@ -1,0 +1,15 @@
+{
+  "id": 6879,
+  "type": "monster",
+  "name": "Chasseur de Précision",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez défausser 1 carte, puis ciblez 1 carte sur le Terrain ; lancez un dé à six faces, et détruisez la cible sauf si le résultat est 1 ou 6.",
+  "level": 4,
+  "atk": 1500,
+  "def": 600,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

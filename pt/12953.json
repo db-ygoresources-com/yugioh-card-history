@@ -1,0 +1,19 @@
+{
+  "id": 12953,
+  "type": "monster",
+  "name": "Rei Supremo Z-ARC",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "4 monstros Dragão (1 de Fusão, 1 Sincro, 1 Xyz e 1 Pêndulo)\nDeve ser Invocado por Invocação-Fusão. Se este card for Invocado por Invocação-Especial: destrua todos os cards que seu oponente controla. Não pode ser destruído pelos efeitos de card do seu oponente. Seu oponente não pode escolher este card como alvo de efeitos de card. Quando este card destruir um monstro do oponente em batalha: você pode Invocar por Invocação-Especial 1 monstro \"Rei Supremo Dragão\" do seu Deck ou Deck Adicional. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Monstros de Fusão, Sincro e Xyz que seu oponente controla não podem ativar seus efeitos. Uma vez por turno, quando um ou mais cards forem adicionados do Deck Principal à mão do seu oponente (exceto durante a Fase de Compra ou Etapa de Dano): você pode destruir esse(s) card(s).",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12410,
+  "type": "monster",
+  "name": "D/D Nikola il Saggio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta nella Zona Pendulum viene distrutta: puoi scegliere come bersaglio 1 mostro \"D/D/D\" che controlli; fallo ritornare nella mano e, se lo fai, metti fino a 2 Mostri Pendulum \"D/D\" scoperti dal tuo Extra Deck nelle tue Zone Pendulum, ma essi non possono attivare i loro Effetti Pendulum in questo turno. Puoi utilizzare questo effetto di \"D/D Nikola il Saggio\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"D/D\". Questo effetto non può essere annullato. Una volta per turno: puoi scartare 1 mostro \"D/D/D\", poi scegliere come bersaglio 1 mostro \"D/D\" di Livello 6 o inferiore che controlli; esso guadagna 2000 ATK e DEF fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

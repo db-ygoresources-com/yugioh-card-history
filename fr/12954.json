@@ -1,0 +1,16 @@
+{
+  "id": 12954,
+  "type": "monster",
+  "name": "Gatlingoule Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Potartiste\" + 1 monstre TÉNÈBRES de min. Niveau 5\nSi cette carte est Invoquée par Fusion : vous pouvez infliger 200 points de dommages à votre adversaire pour chaque carte sur le Terrain, puis, si cette carte avait été Invoquée par Fusion en utilisant un Monstre Pendule comme Matériel, détruisez 1 monstre contrôlé par votre adversaire, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre. Vous ne pouvez utiliser cet effet de \"Gatlingoule Potartiste\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2900,
+  "def": 900,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

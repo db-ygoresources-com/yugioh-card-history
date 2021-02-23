@@ -1,0 +1,15 @@
+{
+  "id": 4604,
+  "type": "monster",
+  "name": "Kleine Schimäre",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Alle FEUER Monster auf dem Spielfeld erhalten 500 ATK. Alle WASSER Monster auf dem Spielfeld verlieren 400 ATK.",
+  "level": 2,
+  "atk": 600,
+  "def": 550,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7177,
+  "type": "monster",
+  "name": "Neos Magma, o HERÓI do Elemento",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "\"Neos, o HERÓI do Elemento\" + \"Escaravelho de Chamas Neoespacial\" + \"Grande Toupeira Neoespacial\"\nPrimeiro deve ser Invocado por Invocação-Especial (do seu Deck Adicional) ao embaralhar os cards acima que você controla no Deck. (Você não usa \"Polimerização\".) Este card ganha 400 de ATK para cada card no campo. Uma vez por turno, durante a Fase Final: embaralhe este card no Deck Adicional. Se este card for embaralhado no Deck Adicional desta forma: devolva todos os cards no campo para a mão.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Guerreiro",
+    "Fusão",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11151,
+  "type": "monster",
+  "name": "Chica Maga Oscura, la Jinete del Dragón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Chica Maga Oscura\" + 1 monstruo Dragón\nDebe ser Invocado por Fusión con los Materiales de Fusión listados arriba o con \"El Ojo de Timaeus\". Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 carta en tu mano, y después seleccionar 1 carta boca arriba en el Campo; destruye ese objetivo.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1700,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

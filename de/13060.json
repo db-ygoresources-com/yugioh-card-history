@@ -1,0 +1,15 @@
+{
+  "id": 13060,
+  "type": "monster",
+  "name": "Weltkelch-Wachdrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn eine Karte oder ein Effekt aktiviert wird, die oder der dein gelinktes Monster als Ziel wählt (Schnelleffekt): Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Normales Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in deine Zone, auf die ein Linkmonster zeigt, in die Verteidigungsposition. Du kannst diesen Effekt von „Weltkelch-Wachdrache“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

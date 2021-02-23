@@ -1,0 +1,15 @@
+{
+  "id": 12244,
+  "type": "monster",
+  "name": "Tropavoladora Kozmo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el turno de cualquier jugador: puedes desterrar esta carta; Invoca de Modo Especial, desde tu mano, 1 monstruo \"Kozmo\" de Nivel 4 o mayor. Sólo puedes usar este efecto de \"Tropavoladora Kozmo\" una vez por turno. Una vez por turno: puedes pagar 1000 LP, y después seleccionar 1 monstruo \"Kozmo\" de Tipo Psíquico en tu Cementerio; Invócalo de Modo Especial.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

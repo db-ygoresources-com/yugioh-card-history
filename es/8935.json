@@ -1,0 +1,15 @@
+{
+  "id": 8935,
+  "type": "monster",
+  "name": "Comedor de Daño",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el turno de tu adversario, cuando tu adversario activa una carta o efecto que infligiría daño, puedes retirar del juego a esta carta en tu Cementerio para cambiar ese efecto y que éste, en cambio, incremente Life Points en la misma cantidad.",
+  "level": 2,
+  "atk": 100,
+  "def": 800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

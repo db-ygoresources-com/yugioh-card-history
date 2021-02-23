@@ -1,0 +1,18 @@
+{
+  "id": 11810,
+  "type": "monster",
+  "name": "Fuocavaliere Scudiero",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "L'armatura di freddo acciaio di questo giovane scudiero non può nascondere l'acuta, ardente mente che contiene.",
+  "pendEffect": "Se hai una carta \"Fuocavaliere\" nella tua altra Zona Pendulum: puoi distruggere entrambe le carte nelle tue Zone Pendulum e, se lo fai, aggiungi 1 mostro FUOCO di Tipo Guerriero dal tuo Deck o Cimitero alla tua mano.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

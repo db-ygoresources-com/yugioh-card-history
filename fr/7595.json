@@ -1,0 +1,16 @@
+{
+  "id": 7595,
+  "type": "monster",
+  "name": "Ryko le Chasseur, Seigneur Lumière",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Appliquez ces effets (simultanément).\n●Vous pouvez détruire 1 carte sur le Terrain.\n●Envoyez les 3 cartes du dessus de votre Deck au Cimetière.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Flip",
+    "Effet"
+  ]
+}

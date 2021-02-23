@@ -1,0 +1,15 @@
+{
+  "id": 7567,
+  "type": "monster",
+  "name": "Urmaterialdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Effekte, die einem Spieler Schaden zufügen würden, erhöhen stattdessen seine Life Points um dieselbe Menge. Während des Spielzugs eines beliebigen Spielers, wenn eine Karte oder ein Effekt aktiviert wird, die oder der Monster auf dem Spielfeld zerstören würde: Du kannst 1 Karte von deiner Hand auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4090,
+  "type": "monster",
+  "name": "Ceifador de Cards",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "VIRE: Destrói 1 Card de Armadilha no Campo. Se o alvo deste card está com a face para baixo, vire a face para cima. Se for um Card de Armadilha é destruído. Se não, coloque-o novamente com a face para baixo. O card virado não é Activado.",
+  "level": 5,
+  "atk": 1380,
+  "def": 1930,
+  "properties": [
+    "Demônio",
+    "Virar",
+    "Efeito"
+  ]
+}

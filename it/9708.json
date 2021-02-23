@@ -1,0 +1,15 @@
+{
+  "id": 9708,
+  "type": "monster",
+  "name": "Sephylon, il Signore del Tempo Finale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) avendo 10 o più mostri nel tuo Cimitero. Una volta per turno: puoi Evocare Specialmente 1 mostro Fata di Livello 8 o superiore dalla tua mano o Cimitero, ma i suoi effetti si annullano, inoltre il suo ATK diventa 4000.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12625,
+  "type": "monster",
+  "name": "Märchenschweif - Schläfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Du kannst 1 Monster als Spezialbeschwörung von deiner Hand beschwören.\nWenn dein Gegner eine Normale Zauber-/Fallenkarte aktiviert (Schnelleffekt): Du kannst 1 anderes Monster als Tribut anbieten; der aktivierte Effekt wird zu „Ändere 1 offenes Monster, das dein Gegner kontrolliert, in die verdeckte Verteidigungsposition.“ Du kannst diesen Effekt von „Märchenschweif - Schläfer“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

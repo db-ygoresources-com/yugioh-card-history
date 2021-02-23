@@ -1,0 +1,15 @@
+{
+  "id": 8302,
+  "type": "monster",
+  "name": "Furie, Demoiselle de Fortune",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "L'ATK et la DEF de cette carte sont égales à son Niveau x 200. Durant chacune de vos Standby Phases, augmentez le Niveau de cette carte de 1 (max 12). Lorsque cette carte est Invoquée Spécialement en Position d'Attaque face recto par l'effet d'une carte \"Demoiselle de Fortune\", détruisez 1 monstre face recto contrôlé par votre adversaire, et infligez des dommages à votre adversaire égaux à l'ATK du monstre détruit.",
+  "level": 2,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

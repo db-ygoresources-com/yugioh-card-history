@@ -1,0 +1,15 @@
+{
+  "id": 4250,
+  "type": "monster",
+  "name": "Disuelverocas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Un monstruo nacido en los pozos de lava, genera un intenso calor que puede derretir a sus enemigos.",
+  "level": 3,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "Roca",
+    "Normal"
+  ]
+}

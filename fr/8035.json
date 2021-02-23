@@ -1,0 +1,16 @@
+{
+  "id": 8035,
+  "type": "monster",
+  "name": "Bombardier de Choc des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nDurant votre Main Phase 1 : vous pouvez Sacrifier 1 monstre ; infligez des dommages à votre adversaire égaux au Niveau du monstre Sacrifié sur le Terrain x 200. Vous ne pouvez utiliser cet effet de \"Bombardier de Choc des Ténèbres\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9266,
+  "type": "monster",
+  "name": "Skiel, Empereur Meklord",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par son propre effet. Lorsqu'un monstre face recto que vous contrôlez est détruit par un effet de carte et envoyé au Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Les autres monstres que vous contrôlez ne peuvent pas déclarer d'attaque. Une fois par tour : vous pouvez cibler 1 Monstre Synchro contrôlé par votre adversaire ; équipez la cible à cette carte. Cette carte gagne une ATK égale à la somme des ATK des monstres qui lui sont équipés par cet effet. Vous pouvez envoyer 1 monstre que vous contrôlez qui est équipé à cette carte au Cimetière ; ce tour, cette carte peut attaquer directement votre adversaire.",
+  "level": 1,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

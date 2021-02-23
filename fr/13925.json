@@ -1,0 +1,16 @@
+{
+  "id": 13925,
+  "type": "monster",
+  "name": "Chimère Diplexer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Cyberse\nUne fois par tour : vous pouvez Sacrifier 1 monstre Cyberse ; les Cartes Magie/Piège et leurs effets ne peuvent pas être activés durant la Battle Phase de ce tour. Si cette carte Invoquée par Fusion est envoyée à votre Cimetière : vous pouvez cibler 1 \"Cynet Fusion\" et 1 monstre Cyberse (cette carte exclue) dans votre Cimetière ; ajoutez-les à votre main. Vous ne pouvez utiliser cet effet de \"Chimère Diplexer\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Cyberse",
+    "Fusion",
+    "Effet"
+  ]
+}

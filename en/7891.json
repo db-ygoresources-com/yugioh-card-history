@@ -1,0 +1,16 @@
+{
+  "id": 7891,
+  "type": "monster",
+  "name": "Psychic Jumper",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Once per turn: You can pay 1000 LP, then target 1 face-up monster your opponent controls and 1 Psychic-Type monster you control, except \"Psychic Jumper\"; switch control of both those targets, and if you do, their battle positions cannot be changed this turn.",
+  "level": 2,
+  "atk": 100,
+  "def": 1500,
+  "properties": [
+    "Psychic",
+    "Tuner",
+    "Effect"
+  ]
+}

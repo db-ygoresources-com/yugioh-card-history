@@ -1,0 +1,16 @@
+{
+  "id": 15001,
+  "type": "monster",
+  "name": "Trovadora del Océano Profundo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes descartar esta carta y 1 monstruo de AGUA; mira la mano de tu adversario y destierra 1 carta en su mano boca arriba, hasta la End Phase. Si esta carta es Invocada de Modo Especial: puedes mandar al Cementerio las 3 cartas de la parte superior de tu Deck, y después seleccionar 1 monstruo de AGUA de Nivel 4 o menor en tu Cementerio, excepto \"Trovadora del Océano Profundo\"; ponlo en la parte superior o inferior del Deck. Sólo puedes usar cada efecto de \"Trovadora del Océano Profundo\" una vez por turno.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1500,
+  "properties": [
+    "Serpiente Marina",
+    "Cantante",
+    "Efecto"
+  ]
+}

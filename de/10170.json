@@ -1,0 +1,15 @@
+{
+  "id": 10170,
+  "type": "monster",
+  "name": "Goblin Plündertrupp",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte einen Angriff deklariert, kann dein Gegner weder Karten noch Effekte aktivieren. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert und ihre Kampfposition kann bis zur End Phase deines nächsten Spielzugs nicht geändert werden.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

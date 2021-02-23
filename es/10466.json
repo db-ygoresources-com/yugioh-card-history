@@ -1,0 +1,16 @@
+{
+  "id": 10466,
+  "type": "monster",
+  "name": "Kappa Blindado",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 monstruos de Nivel 2\nUna vez por turno: puedes desacoplar de esta carta 1 Material Xyz; esta carta gana 1000 ATK o DEF. Durante el Battle Step de cualquier jugador, mientras esté ocurriendo un ataque que involucre a tu monstruo: puedes descartar 1 carta; el resto de este turno, los monstruos que controles no pueden ser destruido en batalla, y además no recibes daño de batalla. Sólo puedes usar este efecto de \"Kappa Blindado\" una vez por Duelo.",
+  "rank": 2,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Psíquico",
+    "Xyz",
+    "Efecto"
+  ]
+}

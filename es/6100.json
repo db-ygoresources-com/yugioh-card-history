@@ -1,0 +1,15 @@
+{
+  "id": 6100,
+  "type": "monster",
+  "name": "Horus el Dragón de la Llama Negra LV8",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial por \"Horus el Dragón de la Llama Negra LV6\", y no puede ser Invocado de Modo Especial de otra forma. Durante el turno de cualquier jugador, cuando una Carta Mágica es activada: puedes negar la activación y, si lo haces, destruye la carta. Debes controlar esta carta boca arriba para activar y resolver este efecto.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

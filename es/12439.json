@@ -1,0 +1,16 @@
+{
+  "id": 12439,
+  "type": "monster",
+  "name": "Goma de Afinar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes seleccionar 1 monstruo boca arriba que controles; este turno, ese monstruo boca arriba se trata como un monstruo Cantante. Sólo puedes usar este efecto de \"Goma de Afinar\" una vez por turno. Durante el turno en el que activas este efecto, sólo puedes atacar con Monstruos de Sincronía. Durante el turno de cualquier jugador, cuando es activada una carta o efecto que selecciona exactamente 1 Monstruo de Sincronía que controles (y ninguna otra carta): puedes desterrar esta carta en tu Cementerio; niega la activación.",
+  "level": 1,
+  "atk": 400,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Cantante",
+    "Efecto"
+  ]
+}

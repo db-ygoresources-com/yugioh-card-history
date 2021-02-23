@@ -1,0 +1,15 @@
+{
+  "id": 10305,
+  "type": "monster",
+  "name": "Matonerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez Invoquer Normalement 1 monstre LUMIÈRE de Type Tonnerre de Niveau 4 (\"Matonerre\" exclu) depuis votre main comme une autre Invocation Normale.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

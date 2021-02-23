@@ -1,0 +1,15 @@
+{
+  "id": 10986,
+  "type": "monster",
+  "name": "Yeti Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto : vous pouvez cibler 1 monstre \"Fantôruse\" sur le Terrain ; ce tour, elle ne peut être détruite ni au combat ni par des effets de carte.",
+  "level": 3,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

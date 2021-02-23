@@ -1,0 +1,15 @@
+{
+  "id": 8459,
+  "type": "monster",
+  "name": "Inmortal Terrestre Ccarayhua",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Sólo puede haber 1 monstruo \"Inmortal Terrestre\" en el Campo. Si no hay una Carta Mágica de Campo boca arriba en el Campo, destruye esta carta. Tu adversario no puede seleccionar esta carta para ataques. Esta carta puede atacar a tu adversario directamente. Si esta carta es destruida por el efecto de una carta, excepto por su propio efecto: destruye todas las cartas en el Campo.",
+  "level": 10,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

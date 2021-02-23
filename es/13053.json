@@ -1,0 +1,15 @@
+{
+  "id": 13053,
+  "type": "monster",
+  "name": "Dragón Resquebrajado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser destruido en batalla con un monstruo de igual o menor Nivel. Cuando tu adversario Invoca de Modo Normal o Especial a exactamente 1 monstruo (y ningún monstruo más es Invocado) mientras este monstruo está en el Campo: puedes hacer que ese monstruo pierda ATK igual a su Nivel x 200 (hasta el final de este turno) y, si lo haces, inflige daño a tu adversario igual al ATK perdido por este efecto.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

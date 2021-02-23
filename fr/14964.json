@@ -1,0 +1,16 @@
+{
+  "id": 14964,
+  "type": "monster",
+  "name": "Keios Marionnette de l'Ombre Qad",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Vous pouvez Invoquer Spécialement 1 monstre \"Marionnette de l'Ombre\" depuis votre main en Position de Défense face recto ou face verso.\nSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez envoyer 1 monstre \"Marionnette de l'Ombre\" depuis votre main au Cimetière, et si vous le faites, le reste de ce tour, tous les monstres que vous contrôlez gagnent une ATK/DEF égales au Niveau d'origine du monstre envoyé au Cimetière x 100. Vous ne pouvez utiliser qu'1 effet de \"Keios Marionnette de l'Ombre Qad\" par tour, et uniquement une fois le tour.",
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

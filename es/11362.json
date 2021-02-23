@@ -1,0 +1,16 @@
+{
+  "id": 11362,
+  "type": "monster",
+  "name": "Sabueso Sombrañeca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Puedes seleccionar 1 carta \"Sombrañeca\" en tu Cementerio; añádela a tu mano.\nSi esta carta es mandada al Cementerio por efecto de una carta: puedes seleccionar 1 monstruo en el Campo; cambia su posición de batalla. (Los efectos de monstruos de Volteo no se activan en este momento, excepto los de monstruos \"Sombrañeca\"). Sólo puedes usar 1 efecto de \"Sabueso Sombrañeca\" por turno, y sólo una vez ese turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

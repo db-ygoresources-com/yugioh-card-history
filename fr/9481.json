@@ -1,0 +1,16 @@
+{
+  "id": 9481,
+  "type": "monster",
+  "name": "Lampe Morphtronique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "● En Position d'Attaque : Tous les dommages d'effet de carte de votre adversaire que vous recevez lui sont infligés à la place.\n ● En Position de Défense : Lorsque cette carte est détruite au combat et envoyée au Cimetière, vous ne recevez aucun dommage de combat ce tour.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

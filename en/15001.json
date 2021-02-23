@@ -1,0 +1,16 @@
+{
+  "id": 15001,
+  "type": "monster",
+  "name": "Deep Sea Minstrel",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "You can discard this card and 1 WATER monster; look at your opponent's hand and banish 1 card from their hand face-up, until the End Phase. If this card is Special Summoned: You can send the top 3 cards of your Deck to the GY, then target 1 Level 4 or lower WATER monster in your GY, except \"Deep Sea Minstrel\"; place it on the top or bottom of the Deck. You can only use each effect of \"Deep Sea Minstrel\" once per turn.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1500,
+  "properties": [
+    "Sea Serpent",
+    "Tuner",
+    "Effect"
+  ]
+}

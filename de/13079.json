@@ -1,0 +1,16 @@
+{
+  "id": 13079,
+  "type": "monster",
+  "name": "D/D/D-Böenhochkönig Alexander",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls sich 3 oder mehr „D/D/D“-Monster auf dem Spielfeld befinden, erhält diese Karte 3000 ATK. Falls ein oder mehr andere „D/D“-Monster als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich dieses Monster auf dem Spielfeld befindet (außer während des Damage Steps): Du kannst 1 „D/D“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „D/D/D-Böenhochkönig Alexander“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Effekt"
+  ]
+}

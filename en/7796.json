@@ -1,0 +1,15 @@
+{
+  "id": 7796,
+  "type": "monster",
+  "name": "Aurkus, Lightsworn Druid",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Neither player can target \"Lightsworn\" monsters (anywhere) with card effects. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Beast-Warrior",
+    "Effect"
+  ]
+}

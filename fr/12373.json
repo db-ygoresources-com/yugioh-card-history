@@ -1,0 +1,18 @@
+{
+  "id": 12373,
+  "type": "monster",
+  "name": "Acrobra Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte peut attaquer directement votre adversaire. Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase.",
+  "pendEffect": "Une fois par tour, lorsqu'un monstre que vous contrôlez inflige des dommages de combat à votre adversaire : vous pouvez envoyer la carte du dessus du Deck de votre adversaire au Cimetière.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "Reptile",
+    "Pendule",
+    "Effet"
+  ]
+}

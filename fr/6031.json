@@ -1,0 +1,15 @@
+{
+  "id": 6031,
+  "type": "monster",
+  "name": "Parieur des Sables",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lancez une pièce 3 fois. Si le résultat est 3 fois \"face\", détruisez tous les monstres sur le Terrain de votre adversaire. Si le résultat est 3 fois \"pile\", détruisez tous les monstres sur votre Terrain. Cet effet ne peut être utilisé qu'une seule fois par tour, durant votre Main Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 1600,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

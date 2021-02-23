@@ -1,0 +1,15 @@
+{
+  "id": 7347,
+  "type": "monster",
+  "name": "Vénus Splendide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tous les monstres non-Elfe perdent 500 ATK/DEF. L'activation et les effets de Cartes Magie/Piège activés sur votre Terrain ne peuvent pas être annulés.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

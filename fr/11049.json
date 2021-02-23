@@ -1,0 +1,15 @@
+{
+  "id": 11049,
+  "type": "monster",
+  "name": "Chariotus Sylvan",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez dévoiler un nombre de cartes égal au nombre de cartes contrôlées par votre adversaire du dessus de votre Deck, envoyez les monstres de Type Plante dévoilés au Cimetière, et aussi, placez les autres cartes au-dessous de votre Deck dans l'ordre de votre choix. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez cibler max. 5 cartes \"Sylvan\" (\"Chariotus Sylvan\" exclu) dans votre Cimetière ; placez-les au-dessous de votre Deck dans l'ordre de votre choix.",
+  "level": 5,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4758,
+  "type": "monster",
+  "name": "Jinzo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les Cartes Piège, et leurs effets sur le Terrain, ne peuvent pas être activés. Annulez tous les effets de Piège sur le Terrain.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

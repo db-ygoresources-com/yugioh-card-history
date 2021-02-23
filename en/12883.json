@@ -1,0 +1,19 @@
+{
+  "id": 12883,
+  "type": "monster",
+  "name": "Speedroid Dominobutterfly",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Cannot be used as a Synchro Material, except for the Synchro Summon of a WIND Dragon or Machine-Type Synchro Monster. If this card, Special Summoned from the Extra Deck, is used as a Material for a Synchro Summon, banish it.",
+  "pendEffect": "You cannot Pendulum Summon monsters, except WIND monsters. This effect cannot be negated. You can discard 1 WIND monster, then target 1 of your banished WIND monsters; add it to your hand. You can only use this effect of \"Speedroid Dominobutterfly\" once per turn.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 100,
+  "def": 300,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Tuner",
+    "Effect"
+  ]
+}

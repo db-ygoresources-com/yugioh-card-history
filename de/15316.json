@@ -1,0 +1,16 @@
+{
+  "id": 15316,
+  "type": "monster",
+  "name": "Rosenmädchen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein oder mehr offene Pflanze-Monster, die du kontrollierst, auf den Friedhof gelegt werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls sich ein Pflanze-Monster auf dem Spielfeld und diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen. Du kannst nur 1 Effekt von „Rosenmädchen“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 3,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6967,
+  "type": "monster",
+  "name": "Los Seis Samuráis - Kamon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno: puedes seleccionar 1 Carta Mágica/de Trampa boca arriba; destruye ese objetivo. Debes controlar un monstruo \"Seis Samuráis\" boca arriba con nombre diferente para activar y resolver este efecto. Esta carta no puede declarar un ataque en el turno en que este efecto es activado. Si esta carta fuera a ser destruida, puedes destruir otro monstruo \"Seis Samuráis\" boca arriba que controles en su lugar.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12440,
+  "type": "monster",
+  "name": "Panda Carro Attrezzi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, durante la Standby Phase: puoi pagare 500 LP; manda la prima carta del tuo Deck al Cimitero e, se lo fai, questa carta guadagna ATK e DEF pari al Livello di quel mostro x 200 se era un mostro. Se questa carta sotto il tuo comando viene distrutta da una carta del tuo avversario (in battaglia o dall'effetto di una carta) e mandata al tuo Cimitero: puoi aggiungere 1 mostro con il Livello più basso dal tuo Cimitero alla tua mano (in caso di parità, scegli tu).",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

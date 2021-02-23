@@ -1,0 +1,16 @@
+{
+  "id": 11485,
+  "type": "monster",
+  "name": "Nékroz de Trishula",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement, sans utiliser des monstres de Niveau 9. Vous ne pouvez utiliser chacun de ces effets de \"Nékroz de Trishula\" qu'une fois par tour.\n●Lorsqu'une carte ou un effet qui cible un ou plusieurs monstres \"Nékroz\" que vous contrôlez est activé (Effet Rapide) : vous pouvez défausser cette carte ; annulez l'activation.\n●Lorsque cette carte est Invoquée Rituellement, vous pouvez : bannissez exactement 3 des cartes de votre adversaire, 1 depuis sa main, 1 depuis son Terrain et 1 depuis son Cimetière. (La carte dans la main est choisie au hasard.)",
+  "level": 9,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Rituel",
+    "Effet"
+  ]
+}

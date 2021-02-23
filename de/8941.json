@@ -1,0 +1,15 @@
+{
+  "id": 8941,
+  "type": "monster",
+  "name": "Monozeros",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 1 Zauberkarte in deiner Hand aus dem Spiel entfernst. Wenn du eine Synchrobeschwörung mit dieser Karte und einem Empfänger-Monster vom Typ Ungeheuer als Synchromaterialmonster durchführst, kannst du 1 Empfänger-Monster vom Typ Ungeheuer wählen, das du für die Synchrobeschwörung benutzt hast, und es als Spezialbeschwörung vom Friedhof beschwören.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

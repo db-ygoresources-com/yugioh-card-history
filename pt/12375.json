@@ -1,0 +1,18 @@
+{
+  "id": 12375,
+  "type": "monster",
+  "name": "Camarartista Papagaiada",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando este card for destruído em batalha: você pode Invocar por Invocação-Especial 1 monstro \"Camarartista\" do seu Deck, exceto um Monstro Pêndulo.",
+  "pendEffect": "Uma vez por turno, se você controlar um card \"Camarartista\", \"Mago\" ou \"Olhos Anômalos\" na sua outra Zona de Pêndulo, exceto \"Camarartista Papagaiada\": você pode fazer com que a Escala de Pêndulo deste card se torne 7 até o final deste turno.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Besta Alada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

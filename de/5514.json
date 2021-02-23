@@ -1,0 +1,15 @@
+{
+  "id": 5514,
+  "type": "monster",
+  "name": "Grabwächters Beobachter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Zauber-/Fallenkarte oder einen Monstereffekt aktiviert, die oder der ihn bei Auflösung abwerfen lassen könnte: Du kannst diese Karte von deiner Hand auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre sie oder es.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

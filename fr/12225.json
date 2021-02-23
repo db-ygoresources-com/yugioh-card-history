@@ -1,0 +1,18 @@
+{
+  "id": 12225,
+  "type": "monster",
+  "name": "D/D/D Apocalypse, Roi du Chaos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant le tour de votre adversaire, si cette carte est dans votre main ou Cimetière : vous pouvez cibler 2 Cartes Magie/Piège face recto que vous contrôlez ; vous ne pouvez pas Invoquer Spécialement de monstres (monstres de Type Démon exclus) le reste de ce tour, et aussi, détruisez les cartes ciblées, et si vous le faites, Invoquez Spécialement cette carte (ceci est un Effet Rapide). Vous ne pouvez utiliser cet effet de \"D/D/D Apocalypse, Roi du Chaos\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez bannir 2 monstres \"D/D\" depuis votre Cimetière ; Invoquez Spécialement cette carte depuis votre Zone Pendule.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11984,
+  "type": "monster",
+  "name": "Pot de La Restriction",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez activer 1 de ces effets ;\n●Piochez 2 cartes.\n●Renvoyez toutes les Cartes Magie/Piège sur le Terrain à la main.\n●Détruisez tous les monstres contrôlés par votre adversaire.\n●Regardez la main de votre adversaire, et aussi, mélangez 1 carte de sa main dans le Deck.\nVous ne pouvez utiliser cet effet de \"Pot de La Restriction\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Rocher",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6565,
+  "type": "monster",
+  "name": "Raviel, il Signore dei Fantasmi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) offrendo come Tributo 3 mostri Demone. Ogni volta che il tuo avversario Evoca Normalmente un mostro: Evoca Specialmente 1 \"Segna-Fantasma\" (Demone/OSCURITÀ/Livello 1/ATK 1000/DEF 1000), ma esso non può dichiarare un attacco. Una volta per turno: puoi offrire come Tributo 1 mostro; questa carta guadagna ATK pari all'ATK originale del mostro offerto come Tributo, fino alla fine di questo turno.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

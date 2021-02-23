@@ -1,0 +1,15 @@
+{
+  "id": 15570,
+  "type": "monster",
+  "name": "Bête Myutant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non Invocable Spécialement, sauf avec l'effet d'une carte \"Myutant\". Votre adversaire ne peut pas cibler cette carte avec des effets de monstre. Vous ne pouvez utiliser chacun des effets suivants de \"Bête Myutant\" qu'une fois par tour. Lorsque votre adversaire active une Carte Magie ou effet de Magie (Effet Rapide) : vous pouvez bannir 1 carte depuis votre main ou Terrain ; annulez l'activation, et si vous le faites, bannissez la carte. Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez cibler 1 de vos Pièges \"Myutant\" bannis ; ajoutez-le à votre main.",
+  "level": 8,
+  "atk": 2400,
+  "def": 2400,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

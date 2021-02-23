@@ -1,0 +1,18 @@
+{
+  "id": 7737,
+  "type": "monster",
+  "name": "Android Magique",
+  "oldName": "Androïde Magique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "notes": "Nom de carte actualisé de \"Androïde Magique\". (La version imprimée n'est pas encore disponible.)",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\n Durant chacune de vos End Phases : gagnez 600 LP pour chaque monstre de Type Psychique que vous contrôlez actuellement.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1700,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

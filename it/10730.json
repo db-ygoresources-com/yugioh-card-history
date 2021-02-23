@@ -1,0 +1,15 @@
+{
+  "id": 10730,
+  "type": "monster",
+  "name": "Drago Galattico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Questa carta non può attaccare direttamente, e può attaccare solo mostri di Tipo Drago. Se questa carta combatte con un mostro di Tipo Drago, questa carta guadagna 1000 ATK solamente durante il Damage Step, inoltre gli effetti di quel mostro vengono annullati durante questa Battle Phase, fino a quando questa carta rimane scoperta sul Terreno.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Drago",
+    "Effetto"
+  ]
+}

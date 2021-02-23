@@ -1,0 +1,15 @@
+{
+  "id": 11423,
+  "type": "monster",
+  "name": "Stégocyber",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant le calcul des dommages, si un monstre de votre adversaire attaque tant que cette carte est dans votre Cimetière : vous pouvez payer 1000 LP ; Invoquez Spécialement cette carte, et si vous le faites, vous ne recevez aucun dommage de combat de ce combat, mais bannissez cette carte lorsqu'elle quitte le Terrain (ceci est un Effet Rapide). Vous ne pouvez utiliser cet effet de \"Stégocyber\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

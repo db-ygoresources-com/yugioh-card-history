@@ -1,0 +1,15 @@
+{
+  "id": 12832,
+  "type": "monster",
+  "name": "Ptérapenthes Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; placez 1 Compteur Prédateur sur celui-ci, et s'il est de min. Niveau 2, il devient Niveau 1 tant qu'il a un Compteur Prédateur. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire d'un Niveau inférieur ou égal à celui de cette carte ; jusqu'à la End Phase, prenez son contrôle.",
+  "level": 3,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

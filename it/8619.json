@@ -1,0 +1,15 @@
+{
+  "id": 8619,
+  "type": "monster",
+  "name": "Golem Buco Magico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, puoi scegliere 1 mostro scoperto che controlli. Il suo ATK viene dimezzato fino alla End Phase, ed esso può attaccare il tuo avversario direttamente in questo turno. Durante il turno in cui attivi questo effetto, solo il mostro scelto può attaccare.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Roccia",
+    "Effetto"
+  ]
+}

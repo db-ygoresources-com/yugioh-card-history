@@ -1,0 +1,15 @@
+{
+  "id": 14083,
+  "type": "monster",
+  "name": "Dragon Explorapide",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque vous recevez des dommages d'effet (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis infligez des dommages à votre adversaire égaux aux dommages que vous avez reçus, et si vous le faites, vous gagnez des LP égaux à la moitié des dommages que vous avez infligés. Lorsque cette carte est Invoquée par Sacrifice : vous pouvez ajouter 2 monstres \"Rokkette\" de noms différents depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Dragon Explorapide\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2400,
+  "def": 600,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

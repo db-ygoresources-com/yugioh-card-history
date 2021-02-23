@@ -1,0 +1,18 @@
+{
+  "id": 11811,
+  "type": "monster",
+  "name": "Croisé Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ce guerrier Chevaliardent impulsif se bat fanatiquement pour sa cause. C'est pour cette raison que ses camarades essayent autant que possible de se tenir à distance de lui.",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1600,
+  "def": 300,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

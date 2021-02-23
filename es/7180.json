@@ -1,0 +1,15 @@
+{
+  "id": 7180,
+  "type": "monster",
+  "name": "Serpiente Venenosa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno puedes colocar 1 Contador de Veneno en 1 monstruo que controle tu adversario. Si activas este efecto, esta carta no puede atacar este turno.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

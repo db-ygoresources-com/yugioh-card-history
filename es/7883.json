@@ -1,0 +1,15 @@
+{
+  "id": 7883,
+  "type": "monster",
+  "name": "Golpeador de Búsqueda",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta ataca a un monstruo boca abajo en Posición de Defensa, puedes destruirlo inmediatamente con el efecto de esta carta sin voltearlo boca arriba o aplicar el cálculo de daño. Si haces esto, esta carta se cambia a Posición de Defensa al final de la Battle Phase. La posición de batalla de esta carta no puede cambiarse hasta el final de tu próximo turno, excepto mediante el efecto de una carta.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

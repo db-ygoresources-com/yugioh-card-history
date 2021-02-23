@@ -1,0 +1,18 @@
+{
+  "id": 11135,
+  "type": "monster",
+  "name": "Mago Miratempo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Ogni turno, la prima volta che una o più carte nella tua Zona Pendulum stanno per essere distrutte dall'effetto di una carta dell'avversario, non vengono distrutte.",
+  "pendEffect": "Non devi controllare nessun mostro per attivare questa carta. Se un Mostro Pendulum che controlli combatte, il tuo avversario non può attivare Carte Trappola fino alla fine del Damage Step. A meno che tu abbia una carta \"Mago\" o una carta \"Occhi Diversi\" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 4.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13837,
+  "type": "monster",
+  "name": "Dragón Borreguardia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3+ Monstruos de Efecto\nNo puede ser destruido por efectos de cartas. Una vez por turno: puedes mandar al Cementerio 1 carta en tu Zona de Magia y Trampas; Invoca de Modo Especial, de cualquier Cementerio a tu Campo, 1 monstruo que fue destruido y mandado ahí este turno, pero niega sus efectos. Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo en el Campo; cámbialo a Posición de Defensa boca arriba. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "6",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

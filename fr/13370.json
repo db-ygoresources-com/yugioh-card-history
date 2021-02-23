@@ -1,0 +1,19 @@
+{
+  "id": 13370,
+  "type": "monster",
+  "name": "Démone Subterreur Béhémoth",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres Flip\nGagne une ATK égale à la somme des Niveaux d'origine des monstres \"Subterreur\" utilisés pour son Invocation Lien x 100. Durant votre Main Phase : vous pouvez envoyer 1 monstre Flip depuis votre Deck au Cimetière, et si vous le faites, Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso dans votre zone pointée par cette carte. Vous ne pouvez utiliser cet effet de \"Démone Subterreur Béhémoth\" qu'une fois par tour. Une fois par tour, si un monstre pointé par cette carte est retourné face recto : ajoutez 1 monstre Flip depuis votre Deck ou Cimetière à votre main.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Wyrm",
+    "Lien",
+    "Effet"
+  ]
+}

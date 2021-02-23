@@ -1,0 +1,18 @@
+{
+  "id": 14469,
+  "type": "monster",
+  "name": "Mayosenju Hitot",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser Invocada de Modo Especial, excepto con una Invocación por Péndulo. Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 carta que controle tu adversario; devuélvela a la mano. Cada vez que una o más cartas en el Campo sean devueltas a la mano o Deck Principal por el efecto de tu carta, mientras esta carta está en el Campo: todos los monstruos \"Yosenju\" que controles en este momento ganan 500 ATK. Una vez por turno, durante la End Phase, si esta carta fue Invocada de Modo Especial este turno: devuélvela a la mano.",
+  "pendEffect": "Puedes seleccionar 1 carta \"Yosenju\" en tu Zona de Péndulo; por el resto de este turno, su Escala de Péndulo se convierte en 11, y además no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Yosenju\" (aun si esta carta deja el Campo). Durante tu End Phase: devuelve esta carta a la mano. Sólo puedes usar cada Efecto de Péndulo de \"Mayosenju Hitot\" una vez por turno.",
+  "pendScale": 3,
+  "level": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

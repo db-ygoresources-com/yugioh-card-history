@@ -1,0 +1,16 @@
+{
+  "id": 6835,
+  "type": "monster",
+  "name": "Super-Vehicroid - Stealth Union",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "„Truckroid“ + „Expressroid“ + „Drillroid“ + „Stealthroid“\nEinmal pro Spielzug: Du kannst 1 offenes Nicht-Maschine-Monster auf dem Spielfeld wählen; rüste diese Karte mit dem gewählten Ziel aus. Solange diese Karte durch diesen Effekt mit einem Monster ausgerüstet ist, kann sie alle Monster, die dein Gegner kontrolliert, je einmal angreifen. Falls diese Karte angreift, werden ihre Grund-ATK halbiert. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu.",
+  "level": 9,
+  "atk": 3600,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

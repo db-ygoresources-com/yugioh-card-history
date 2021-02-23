@@ -1,0 +1,15 @@
+{
+  "id": 15089,
+  "type": "monster",
+  "name": "Citadelle Méchabot",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par un effet de carte. (Effet Rapide) : vous pouvez cibler 1 monstre Machine que vous contrôlez ; détruisez le monstre Machine et tous les monstres contrôlés par votre adversaire avec une ATK inférieure ou égale à celui-ci. Si un ou plusieurs monstres TERRE Machine face recto que vous contrôlez (\"Citadelle Méchabot\" exclu) sont détruits au combat ou par un effet de carte tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Citadelle Méchabot\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

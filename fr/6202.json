@@ -1,0 +1,15 @@
+{
+  "id": 6202,
+  "type": "monster",
+  "name": "Équipe A : Unité de Désamorçage",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez aussi utiliser cet effet durant le tour de votre adversaire. Lorsque votre adversaire active une Carte Piège, sacrifiez cette carte face recto pour annuler l'activation de la Carte Piège et la détruire.",
+  "level": 2,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

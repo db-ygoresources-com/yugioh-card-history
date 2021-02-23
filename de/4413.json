@@ -1,0 +1,15 @@
+{
+  "id": 4413,
+  "type": "monster",
+  "name": "Maschinenkönig",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte erhält 100 ATK für jedes Monster vom Typ Maschine auf dem Spielfeld.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

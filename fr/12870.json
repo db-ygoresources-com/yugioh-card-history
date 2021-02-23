@@ -1,0 +1,16 @@
+{
+  "id": 12870,
+  "type": "monster",
+  "name": "Dragostapelia Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Monstre Fusion + 1 monstre TÉNÈBRES\nUne fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; placez 1 Compteur Prédateur sur celui-ci, et s'il est de min. Niveau 2, il devient Niveau 1 tant qu'il a un Compteur Prédateur. Annulez les effets activés des monstres de votre adversaire qui ont des Compteurs Prédateur.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1900,
+  "properties": [
+    "Plante",
+    "Fusion",
+    "Effet"
+  ]
+}

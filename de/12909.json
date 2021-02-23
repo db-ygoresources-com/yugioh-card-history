@@ -1,0 +1,18 @@
+{
+  "id": 12909,
+  "type": "monster",
+  "name": "Schwarzzahn-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Xyz-Drache“-Karte behandelt.)\nFalls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 FINSTERNIS Monster vom Typ Hexer in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden (bis zum Ende dieses Spielzugs) gleich der Hälfte seiner derzeitigen ATK, dann zerstöre diese Karte.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

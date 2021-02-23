@@ -1,0 +1,15 @@
+{
+  "id": 7215,
+  "type": "monster",
+  "name": "Amo de Zombis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes mandar al Cementerio 1 monstruo en tu mano, y después selecciona 1 monstruo Zombi de Nivel 4 o menor en cualquier Cementerio; Invoca ese objetivo de Modo Especial. Este monstruo debe estar boca arriba en el Campo para activar y resolver este efecto.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

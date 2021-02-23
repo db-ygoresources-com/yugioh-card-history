@@ -1,0 +1,15 @@
+{
+  "id": 7056,
+  "type": "monster",
+  "name": "Frachtroid",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn ein Gegner den Effekt einer Karte aktiviert, der eine Zauber- oder Fallenkarte(n), die du kontrollierst, als Ziel bestimmt und zerstört, kannst du 1 Karte abwerfen, um seine Aktivierung zu annullieren und die Karte zu zerstören.",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

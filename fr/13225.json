@@ -1,0 +1,15 @@
+{
+  "id": 13225,
+  "type": "monster",
+  "name": "Dragon Anesthrokkette",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'un effet de Monstre Lien qui cible cette carte face recto sur le Terrain est activé (Effet Rapide) : vous pouvez détruire cette carte, puis rendez 1 monstre face recto sur le Terrain incapable d'attaquer, et aussi, il a ses effets annulés. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite sur le Terrain au combat ou par un effet de carte et y a été envoyée ce tour : vous pouvez Invoquer Spécialement 1 monstre \"Rokkette\" (\"Dragon Anesthrokkette\" exclu) depuis votre Deck. Vous ne pouvez utiliser chaque effet de \"Dragon Anesthrokkette\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

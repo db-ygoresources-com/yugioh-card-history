@@ -1,0 +1,15 @@
+{
+  "id": 5877,
+  "type": "monster",
+  "name": "Brennende Algen",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Erhöhe die Life Points deines Gegners um 1000 Punkte, wenn diese Karte auf den Friedhof gelegt wird.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

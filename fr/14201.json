@@ -1,0 +1,19 @@
+{
+  "id": 14201,
+  "type": "monster",
+  "name": "Attelage de la Colère à Double Traction",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres Machine\nNon utilisable comme Matériel Lien. Vous ne pouvez utiliser qu'1 des effets suivants de \"Attelage de la Colère à Double Traction\" par tour, et uniquement une fois le tour.\n●Durant la Main Phase (Effet Rapide) : vous pouvez envoyer 1 monstre depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre Machine de Niveau 10 dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, mais annulez ses effets.\n●Si cette carte est dans votre Cimetière : vous pouvez envoyer 1 carte depuis votre main ou Terrain au Cimetière ; Invoquez Spécialement cette carte.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

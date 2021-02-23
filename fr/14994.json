@@ -1,0 +1,15 @@
+{
+  "id": 14994,
+  "type": "monster",
+  "name": "Protos Archnéméses",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 3 monstres d'Attributs différents depuis votre Cimetière et/ou Terrain face recto. Non destructible par des effets de carte. Vous pouvez déclarer 1 Attribut de monstre sur le Terrain ; détruisez tous les monstres sur le Terrain de cet Attribut, et aussi, jusqu'à la fin du prochain tour, aucun joueur ne peut Invoquer Spécialement de monstres de cet Attribut. Vous ne pouvez utiliser cet effet de \"Protos Archnéméses\" qu'une fois par tour.",
+  "level": 11,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Effet"
+  ]
+}

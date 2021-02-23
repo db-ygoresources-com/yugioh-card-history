@@ -1,0 +1,15 @@
+{
+  "id": 5527,
+  "type": "monster",
+  "name": "Cheval de Cauchemar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte peut attaquer directement les Life Points de votre adversaire, même s'il y a un monstre sur le Terrain de votre adversaire.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

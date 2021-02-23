@@ -1,0 +1,18 @@
+{
+  "id": 12711,
+  "type": "monster",
+  "name": "Actor del Abismo - Comediante Funky",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes hacer que esta carta gane 300 ATK por cada monstruo \"Actor del Abismo\" que controles en ese momento, hasta el final de este turno. Puedes seleccionar otro monstruo \"Actor del Abismo\" que controles; éste gana ATK igual al ATK de esta carta en este momento, hasta el final de este turno. Esta carta no puede atacar el turno en que se activa este efecto. Sólo puedes usar este efecto de \"Actor del Abismo - Comediante Funky\" una vez por turno.",
+  "pendEffect": "Una vez por turno: puedes Sacrificar 1 monstruo \"Actor del Abismo\", y después seleccionar 1 monstruo \"Actor del Abismo\" que controles; éste gana ATK igual al ATK original del monstruo Sacrificado, hasta el final de este turno (aún si esta carta deja el Campo).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

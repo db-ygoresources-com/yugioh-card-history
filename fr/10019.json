@@ -1,0 +1,15 @@
+{
+  "id": 10019,
+  "type": "monster",
+  "name": "Requin Automate",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsqu'un monstre \"Automate\" est Invoqué Normalement ou Spécialement sur votre Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main. Une fois par tour : vous pouvez activer 1 de ces effets.\n ●Jusqu'à la End Phase, augmentez le Niveau de cette carte de 1.\n ●Jusqu'à la End Phase, réduisez le Niveau de cette carte de 1.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

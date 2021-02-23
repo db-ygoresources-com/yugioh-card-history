@@ -1,0 +1,18 @@
+{
+  "id": 15399,
+  "type": "monster",
+  "name": "Apparecchio Lavatrice Drago",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "1 mostro \"Apparecchio\"\nNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Nessun giocatore subisce alcun danno da combattimento da attacchi che coinvolgono questa carta. Una volta per turno, dopo il calcolo dei danni, se questa carta co-linkata combatte con un mostro dell'avversario: puoi bandire quel mostro dell'avversario. Una volta per turno, dopo il calcolo dei danni, se questo mostro non co-linkato combatte con un mostro dell'avversario: puoi distruggere quel mostro dell'avversario e, se lo fai, infliggi al tuo avversario danno pari al suo ATK originale.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Macchina",
+    "Link",
+    "Effetto"
+  ]
+}

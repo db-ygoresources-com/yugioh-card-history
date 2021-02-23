@@ -1,0 +1,16 @@
+{
+  "id": 10460,
+  "type": "monster",
+  "name": "Archer Poissonborg",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est dans votre Cimetière et que vous ne contrôlez aucun monstre durant chacune de vos Main Phases : vous pouvez défausser 1 monstre EAU ; Invoquez Spécialement cette carte depuis votre Cimetière, mais au début de la Battle Phase de ce tour, détruisez tous les monstres que vous contrôlez (monstres EAU exclus). Vous ne pouvez utiliser l'effet de \"Archer Poissonborg\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Poisson",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

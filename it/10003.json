@@ -1,0 +1,16 @@
+{
+  "id": 10003,
+  "type": "monster",
+  "name": "Costellazione Praesepe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri \"Costellazione\" di Livello 4\nUna volta per turno, durante il Damage Step del turno di qualsiasi giocatore, quando un mostro \"Costellazione\" che controlli sta attaccando o venendo attaccato: puoi staccare 1 Materiale Xyz da questa carta; quel mostro guadagna 1000 ATK, fino alla End Phase.",
+  "rank": 4,
+  "atk": 2400,
+  "def": 800,
+  "properties": [
+    "Macchina",
+    "Xyz",
+    "Effetto"
+  ]
+}

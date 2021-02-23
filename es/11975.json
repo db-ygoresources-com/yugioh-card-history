@@ -1,0 +1,18 @@
+{
+  "id": 11975,
+  "type": "monster",
+  "name": "Veterano Caballerígneo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Este entrecano líder de la división de guardaespaldas sirve de acompañante de la Jineta, y es uno de los pocos que se quejan de su temeridad (mayormente con el Cortés, el único que lo entiende).",
+  "pendEffect": "Si tienes una carta \"Caballerígneo\" en tu otra Zona del Péndulo: puedes destruir ambas cartas en tus Zonas del Péndulo y, si lo haces, añade a tu mano 1 monstruo de FUEGO de Tipo Guerrero en tu Deck o Cementerio.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 1300,
+  "def": 2700,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

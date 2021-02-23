@@ -1,0 +1,19 @@
+{
+  "id": 13123,
+  "type": "monster",
+  "name": "D/D/D Armagedón Morado, Rey Súper de las Fatalidades",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos \"D/D/D\"\nPuedes seleccionar 1 monstruo en Posición de Ataque que controle tu adversario; destrúyelo y, si lo haces, inflige daño a tu adversario igual a la mitad de su ATK original. Sólo puedes usar este efecto de \"D/D/D Armagedón Morado, Rey Súper de las Fatalidades\" una vez por turno. Antes del cálculo de daño, si un monstruo del adversario batalla: puedes hacer que su ATK se convierta en igual a su ATK original hasta el final del Damage Step. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona del Péndulo.",
+  "pendEffect": "Una vez por turno, antes del cálculo de daño, si tu Monstruo de Fusión \"D/D/D\" batalla con un monstruo del adversario: puedes hacer que ese monstruo del adversario pierda 1000 ATK hasta el final de este turno (aun si esta carta deja el Campo).",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13378,
+  "type": "monster",
+  "name": "Metallrakketen-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn der Effekt eines Linkmonsters aktiviert wird, der diese offene Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst diese Karte zerstören, dann zerstöre alle Karten deines Gegners in der Spalte, in der diese Karte lag. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört und dorthin gelegt wurde: Du kannst 1 „Rakkete“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Metallrakketen-Drache“. Du kannst jeden Effekt von „Metallrakketen-Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

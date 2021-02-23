@@ -1,0 +1,15 @@
+{
+  "id": 12427,
+  "type": "monster",
+  "name": "Chasseur Triamid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si une Carte Magie de Terrain est face recto sur le Terrain, vous pouvez Invoquer Normalement 1 monstre de Type Rocher en plus de votre Invocation Normale ou Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.) Une fois par tour, durant le tour de votre adversaire : vous pouvez cibler 1 Carte Magie de Terrain \"Triamid\" dans votre Zone Terrain ; envoyez-la au Cimetière, et si vous le faites, activez 1 Carte Magie de Terrain \"Triamid\" de nom différent depuis votre Deck (ceci est un Effet Rapide).",
+  "level": 3,
+  "atk": 1400,
+  "def": 1100,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

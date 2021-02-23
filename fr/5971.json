@@ -1,0 +1,15 @@
+{
+  "id": 5971,
+  "type": "monster",
+  "name": "L'Archer Obscur de la Forêt",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut pas être attaquée s'il y a un monstre de Type Plante face recto sur votre Terrain. Sacrifiez 1 monstre de Type Plante sur votre Terrain pour détruire 1 Carte Magie ou Piège sur le Terrain.",
+  "level": 3,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

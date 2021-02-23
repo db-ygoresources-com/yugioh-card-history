@@ -1,0 +1,16 @@
+{
+  "id": 5371,
+  "type": "monster",
+  "name": "파이버 포드",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "리버스 : 서로 필드 위의 카드와 패와 묘지의 카드를 덱과 합쳐서 셔플한다. 그 후, 덱에서 카드를 5장 드로우한다.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "식물족",
+    "리버스",
+    "효과"
+  ]
+}

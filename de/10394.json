@@ -1,0 +1,15 @@
+{
+  "id": 10394,
+  "type": "monster",
+  "name": "Der Narr der Prophezeiung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Magiebuch“-Zauberkarte von deinem Deck auf den Friedhof legen. Während der End Phase des Spielzugs, in dem diese Karte diesen Effekt aktiviert hat: Du kannst diese Karte als Tribut anbieten; beschwöre 1 FINSTERNIS Monster vom Typ Hexer der Stufe 5 oder höher als Spezialbeschwörung von deinem Deck. Du musst 5 oder mehr „Magiebuch“-Zauberkarten mit unterschiedlichen Namen in deinem Friedhof haben, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 3,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

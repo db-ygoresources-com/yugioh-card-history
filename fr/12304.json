@@ -1,0 +1,18 @@
+{
+  "id": 12304,
+  "type": "monster",
+  "name": "Spinos Dinobrume",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Sacrifier 1 autre monstre \"Dinobrume\", puis activez 1 de ces effets ;\n●Cette carte peut attaquer directement votre adversaire ce tour.\n●Cette carte peut faire une seconde attaque durant chaque Battle Phase ce tour.",
+  "pendEffect": "Si une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez vont être détruites au combat ou par un effet de carte de votre adversaire, vous pouvez détruire cette carte à la place.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

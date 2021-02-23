@@ -1,0 +1,15 @@
+{
+  "id": 7103,
+  "type": "monster",
+  "name": "Vulkanischer Häcksler",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug kannst du deinem Gegner 500 Schaden zufügen. Falls du diesen Effekt aktivierst, kann diese Karte während dieses Spielzugs nicht angreifen.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

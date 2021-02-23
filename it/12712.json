@@ -1,0 +1,18 @@
+{
+  "id": 12712,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Superstar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando viene Evocato Normalmente o Specialmente, le Carte Magia/Trappola del tuo avversario e i loro effetti non possono venire attivati. Una volta per turno: puoi Posizionare 1 Magia \"Sceneggiatura dell'Abisso\" direttamente dal tuo Deck, ma essa viene mandata al Cimitero durante la End Phase.",
+  "pendEffect": "Una volta per turno: puoi offrire come Tributo 1 mostro \"Attore dell'Abisso\", poi scegliere come bersaglio 1 Magia \"Sceneggiatura dell'Abisso\" nel tuo Cimitero; aggiungila alla tua mano.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

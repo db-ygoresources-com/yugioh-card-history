@@ -1,0 +1,15 @@
+{
+  "id": 13472,
+  "type": "monster",
+  "name": "BM-4 Ragno Esplosione",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro OSCURITÀ Macchina che controlli e 1 carta scoperta controllata dal tuo avversario; distruggile. Se un mostro che controlli che era originariamente OSCURITÀ Macchina distrugge uno o più mostri dell'avversario in battaglia o con l'effetto di una carta e li manda al Cimitero: puoi infliggere al tuo avversario danno pari alla metà dell'ATK originale di 1 di quei mostri distrutti e mandati al Cimitero. Puoi utilizzare questo effetto di \"BM-4 Ragno Esplosione\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1400,
+  "def": 2200,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

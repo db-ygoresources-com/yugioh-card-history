@@ -1,0 +1,17 @@
+{
+  "id": 11629,
+  "type": "monster",
+  "name": "Accel Synchron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can send 1 \"Synchron\" monster from your Deck to the GY, then activate 1 of these effects;\n●Increase this card's Level by the Level of the sent monster.\n●Reduce this card's Level by the Level of the sent monster.\nDuring your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only Synchro Summon \"Accel Synchron\" once per turn.",
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Tuner",
+    "Effect"
+  ]
+}

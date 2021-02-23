@@ -1,0 +1,16 @@
+{
+  "id": 12449,
+  "type": "monster",
+  "name": "Tirano Dragón Rojo Archidemonio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Cantantes + 1 o más monstruos que no sean Cantantes\nDebe ser Invocado por Sincronía, y no puede ser Invocado de Modo Especial de otra forma. Sólo puedes usar cada uno de estos efectos de \"Tirano Dragón Rojo Archidemonio\" una vez por turno.\n●Durante tu Main Phase 1: puedes destruir todas las demás cartas en el Campo, y además, por el resto de este turno, los otros monstruos que controles no pueden atacar.\n●Durante la Battle Phase de cualquier jugador, cuando es activada una Carta Mágica/de Trampa: puedes negar la activación y, si lo haces, destruye esa carta y, si haces eso, esta carta gana 500 ATK.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9390,
+  "type": "monster",
+  "name": "Citrine, Chevalier-Gemmes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Chevalier-Gemmes\" + 1 monstre de Type Pyro\nDoit d'abord être Invoquée par Fusion. Si cette carte attaque ou est attaquée, jusqu'à la fin de la Damage Step, votre adversaire ne peut ni activer de cartes ni d'effets.",
+  "level": 7,
+  "atk": 2200,
+  "def": 1950,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effet"
+  ]
+}

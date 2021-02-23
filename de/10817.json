@@ -1,0 +1,16 @@
+{
+  "id": 10817,
+  "type": "monster",
+  "name": "Reisebus in die verbotenen Reiche",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Füge deiner Hand 1 Unterweltler-Monster von deinem Deck hinzu, außer einem FINSTERNIS oder LICHT Monster.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

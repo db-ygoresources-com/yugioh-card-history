@@ -1,0 +1,15 @@
+{
+  "id": 11155,
+  "type": "monster",
+  "name": "Guardián Miedoguadaña",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial por su propio efecto. Si un \"Guardián Eatos\" es destruido en batalla o por efecto de una carta y mandado a tu Cementerio: puedes Invocar esta carta de Modo Especial desde tu mano. Cuando esta carta es Invocada de Modo Especial: puedes equipar a esta carta 1 \"Guadaña de la Parca - Miedoguadaña\" en tu Deck. No puedes Invocar monstruos de Modo Normal o Especial (pero puedes Colocar de Modo Normal). Si esta carta es mandada del Campo al Cementerio: manda al Cementerio 1 carta en tu mano y, si lo haces, Invoca esta carta de Modo Especial desde el Cementerio.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

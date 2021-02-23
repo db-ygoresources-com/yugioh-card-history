@@ -1,0 +1,16 @@
+{
+  "id": 6744,
+  "type": "monster",
+  "name": "Rescueroid Ambulancia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "\"Rescueroid\" + \"Ambulanceroid\"\nEste monstruo no puede ser Invocado mediante una Invocación Especial excepto mediante una Invocación de Fusión. Cuando un monstruo en tu Campo es destruido como resultado de una batalla y mandado al Cementerio, puedes Invocarlo mediante una Invocación Especial en Posición de Defensa. Sólo puedes utilizar este efecto una vez por turno.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Efecto"
+  ]
+}

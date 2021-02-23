@@ -1,0 +1,15 @@
+{
+  "id": 4780,
+  "type": "monster",
+  "name": "Satellitenkanone",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht durch Kampf mit einem Monster der Stufe 7 oder niedriger zerstört werden. Während jeder deiner End Phasen: Diese Karte erhält 1000 ATK. Falls diese Karte angreift, werden diese erhöhten ATK nach der Schadensberechnung auf 0 zurückgesetzt.",
+  "level": 5,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

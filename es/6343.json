@@ -1,0 +1,16 @@
+{
+  "id": 6343,
+  "type": "monster",
+  "name": "Ama Elemental Doriado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Este monstruo sólo puede ser Invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual \"Bendición de Doriado\". El atributo de esta carta también se trata como VIENTO, AGUA, FUEGO y TIERRA.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

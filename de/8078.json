@@ -1,0 +1,15 @@
+{
+  "id": 8078,
+  "type": "monster",
+  "name": "Flammensamen",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte, die du kontrollierst, durch einen Karteneffekt zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 Monster vom Typ Pflanze der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Flammensamen“; beschwöre das gewählte Ziel als Spezialbeschwörung und falls du dies tust, beschwöre 1 „Samen-Spielmarke“ (Typ Pflanze/ERDE/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung in die Verteidigungsposition auf die Spielfeldseite deines Gegners. Diese Spielmarke kann nicht als Tribut für eine Tributbeschwörung angeboten werden.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

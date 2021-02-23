@@ -1,0 +1,18 @@
+{
+  "id": 12299,
+  "type": "monster",
+  "name": "Amorphage Neid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Pendelbeschwörung beschworen oder aufgedeckt wird, kann kein Spieler Monster als Spezialbeschwörung vom Extra Deck beschwören, solange diese Karte offen auf dem Spielfeld liegt, außer „Amorphage“-Monstern.",
+  "pendEffect": "Solange du ein „Amorphage“-Monster kontrollierst, kann kein Spieler Karten oder Effekte als Kettenglied 2 oder höher aktivieren. Einmal pro Spielzug, während deiner Standby Phase, biete 1 Monster als Tribut an oder zerstöre diese Karte.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 0,
+  "def": 2050,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

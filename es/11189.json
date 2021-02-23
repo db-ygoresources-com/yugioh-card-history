@@ -1,0 +1,15 @@
+{
+  "id": 11189,
+  "type": "monster",
+  "name": "Mano Mágica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando tu adversario añade a su mano una o más cartas en su Deck, excepto robándolas (excepto durante el Damage Step): puedes mandar esas cartas al Cementerio y, si lo haces, inflige 800 puntos de daño a tu adversario. Este efecto sólo puede ser usado una vez mientras esta carta está boca arriba en el Campo.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

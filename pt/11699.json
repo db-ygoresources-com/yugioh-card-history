@@ -1,0 +1,18 @@
+{
+  "id": 11699,
+  "type": "monster",
+  "name": "Zefraxi, Tesouro de Yang Zing",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se este card for Invocado por Invocação-Pêndulo ou Invocado por Invocação-Especial do Deck Principal: você pode escolher 1 monstro \"Yang Zing\" ou \"Zefra\" que você controla, exceto \"Zefraxi, Tesouro de Yang Zing\"; esse monstro com a face para cima é considerado como um Regulador neste turno e, além disso, coloque este card no fundo do Deck quando ele deixar o campo. Você só pode usar este efeito de \"Zefraxi, Tesouro de Yang Zing\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Yang Zing\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Wyrm",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

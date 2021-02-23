@@ -1,0 +1,17 @@
+{
+  "id": 7878,
+  "type": "monster",
+  "name": "Caméran Morphtronique",
+  "oldName": "Photon Morphtronique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "notes": "Nom de carte actualisé de \"Photon Morphtronique\". (La version imprimée n'est pas encore disponible.)",
+  "effectText": "●En Position d'Attaque : Lorsque cette carte est détruite au combat, vous pouvez Invoquer Spécialement 1 monstre \"Morphtronique\" de Niveau 4 ou moins depuis votre main ou Cimetière, excepté \"Caméran Morphtronique\". \n ●En Position de Défense : Les monstres \"Morphtronique\" sur le Terrain ne peuvent pas être ciblés par les effets.",
+  "level": 2,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

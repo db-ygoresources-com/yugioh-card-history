@@ -1,0 +1,15 @@
+{
+  "id": 4292,
+  "type": "monster",
+  "name": "Gatekeeper",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "An indestructible mechanoid created for the sole purpose of guarding the gateways.",
+  "level": 5,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Normal"
+  ]
+}

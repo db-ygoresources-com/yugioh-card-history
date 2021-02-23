@@ -1,0 +1,15 @@
+{
+  "id": 10910,
+  "type": "monster",
+  "name": "Squelette Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto : bannissez face verso un nombre de cartes depuis le dessus du Deck de votre adversaire, inférieur ou égal au nombre de monstres \"Fantôruse\" que vous contrôlez. Vous ne pouvez utiliser cet effet de \"Squelette Fantôruse\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1100,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

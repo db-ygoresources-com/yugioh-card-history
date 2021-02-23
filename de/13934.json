@@ -1,0 +1,20 @@
+{
+  "id": 13934,
+  "type": "monster",
+  "name": "Folgo, Gerechtigkeits-Fellsöldner",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 Monster mit unterschiedlichen Typen\nKann nicht als Linkmaterial verwendet werden. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Fellsöldner“-Monster mit einem unterschiedlichen Typ als die 3 für die Linkbeschwörung verwendeten Monster als Spezialbeschwörung von deinem Deck in die Verteidigungsposition beschwören. Falls eine oder mehr Karten, die dein Gegner kontrolliert, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst 1 Karte ziehen, dann, falls du 3 oder mehr „Fellsöldner“-Monster mit unterschiedlichen Namen kontrollierst, ziehe 2 weitere Karten. Du kannst jeden Effekt von „Folgo, Gerechtigkeits-Fellsöldner“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Ungeheuer",
+    "Link",
+    "Effekt"
+  ]
+}

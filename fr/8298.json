@@ -1,0 +1,15 @@
+{
+  "id": 8298,
+  "type": "monster",
+  "name": "Aimant Morphtronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "●En Position d'Attaque : Une fois par tour, si vous contrôlez exactement 2 autres monstres en Position d'Attaque face recto, et aucun autre monstre, cette carte gagne un montant d'ATK égal à la somme de l'ATK des deux autres monstres que vous contrôlez jusqu'à la End Phase. Les deux autres monstres ne peuvent attaquer le tour où vous activez cet effet.\n ●En Position de Défense : Les monstres que vous contrôlez ne peuvent pas attaquer.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

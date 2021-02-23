@@ -1,0 +1,18 @@
+{
+  "id": 12736,
+  "type": "monster",
+  "name": "Magicien Appeldragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : jusqu'à la fin de ce tour, vous pouvez faire devenir cette carte de Type Dragon. Un monstre qui a été Invoqué par Fusion, Synchronisation ou Xyz en utilisant cette carte sur le Terrain comme Matériel gagne cet effet.\n●Si cette carte combat un monstre de Type Dragon, l'ATK de cette carte devient le double de son ATK d'origine durant la Damage Step uniquement.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin du tour de votre adversaire (même si cette carte quitte le Terrain), il devient de Type Dragon.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

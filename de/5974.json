@@ -1,0 +1,15 @@
+{
+  "id": 5974,
+  "type": "monster",
+  "name": "Sonneneruptions-Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange du ein anderes Monster vom Typ Pyro kontrollierst, kann diese Karte nicht angegriffen werden. Während jeder deiner End Phasen: Füge deinem Gegner 500 Schaden zu.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

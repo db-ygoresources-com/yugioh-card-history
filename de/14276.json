@@ -1,0 +1,15 @@
+{
+  "id": 14276,
+  "type": "monster",
+  "name": "Handigalopp",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht direkt angreifen. Erhält ATK in Höhe der Differenz zwischen deinen LP und denen deines Gegners. Falls du mehr LP hast als dein Gegner, erhältst du stattdessen jeglichen Kampfschaden, den dein Gegner aus Kämpfen erhalten hätte, an denen diese angreifende Karte beteiligt ist.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

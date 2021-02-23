@@ -1,0 +1,15 @@
+{
+  "id": 5485,
+  "type": "monster",
+  "name": "Seigneur Poison",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est détruite au combat et envoyée au Cimetière : ciblez 1 monstre de Type Plante (\"Seigneur Poison\" exclu) dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

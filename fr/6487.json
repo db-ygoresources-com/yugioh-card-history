@@ -1,0 +1,16 @@
+{
+  "id": 6487,
+  "type": "monster",
+  "name": "Tempête, HÉROS Élémentaire",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Avian, HÉROS Élémentaire\" + \"Sparkman, HÉROS Élémentaire\" + \"Bubbleman, HÉROS Élémentaire\"\nCe monstre ne peut pas être Invoqué par Invocation Spéciale excepté par une Invocation Fusion. En envoyant 1 carte (exceptée cette carte) de votre Terrain au Cimetière, sélectionnez 1 monstre sur votre Terrain. Tant que cette carte est face recto sur le Terrain, le monstre sélectionné n'est pas détruite à l'issue d'un combat. (Le calcul des dommages est appliqué normalement.)",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

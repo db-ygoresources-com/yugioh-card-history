@@ -1,0 +1,16 @@
+{
+  "id": 12844,
+  "type": "monster",
+  "name": "Caliga Invokato",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Aleister l'Invocatore\" + 1 mostro OSCURITÀ\nOgni giocatore può tentare di attivare solo 1 effetto di mostro per turno. Ogni giocatore può attaccare solo con 1 mostro durante ogni Battle Phase.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Bestia",
+    "Fusione",
+    "Effetto"
+  ]
+}

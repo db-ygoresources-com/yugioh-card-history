@@ -1,0 +1,16 @@
+{
+  "id": 15521,
+  "type": "monster",
+  "name": "Coquille du Monde Virtuel - Jaja",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres de Niveau 3\nUne fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre face recto que vous contrôlez ; jusqu'à la fin du tour de votre adversaire, il ne peut pas être détruit au combat. Une fois par tour, après le calcul des dommages, si cette carte a combattu un monstre de l'adversaire, tant que vous avez min. 2 monstres dans votre Cimetière qui ont chacun les mêmes Type et Attribut d'origine : vous pouvez bannir le monstre de l'adversaire.",
+  "rank": 3,
+  "atk": 1000,
+  "def": 2400,
+  "properties": [
+    "Wyrm",
+    "Xyz",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7113,
+  "type": "monster",
+  "name": "Himmelsplage Nohrellas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer indem du 1 LICHT Monster vom Typ Fee und 3 FINSTERNIS Monster vom Typ Unterweltler in deinem Friedhof aus dem Spiel entfernst. Du kannst 1000 Life Points bezahlen, um alle Karten auf dem Spielfeld und in den Händen beider Spieler auf den Friedhof zu legen, dann ziehst du 1 Karte.",
+  "level": 8,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

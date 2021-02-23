@@ -1,0 +1,18 @@
+{
+  "id": 12285,
+  "type": "monster",
+  "name": "Tigresa de la Lunaluz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta en el Campo es destruida en batalla o por efecto de una carta: puedes seleccionar 1 monstruo \"Lunaluz\" en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Tigresa de la Lunaluz\" una vez por turno.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo \"Lunaluz\" en tu Cementerio; Invócalo de Modo Especial, pero no puede atacar, sus efectos son negados, y además es destruido durante la End Phase.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Guerrero-Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10329,
+  "type": "monster",
+  "name": "Hermandad del Puño de Fuego - Espíritu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser usado como Material de Sincronía, excepto para la Invocación por Sincronía de un monstruo Guerrero-Bestia. Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo de FUEGO de Nivel 3 con 200 DEF o menos en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Defensa y, si lo haces, por el resto de este turno los monstruos que controles no pueden atacar, excepto los monstruos Guerrero-Bestia. Sólo puedes usar este efecto de \"Hermandad del Puño de Fuego - Espíritu\" una vez por turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Guerrero-Bestia",
+    "Cantante",
+    "Efecto"
+  ]
+}

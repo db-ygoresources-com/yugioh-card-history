@@ -1,0 +1,15 @@
+{
+  "id": 12426,
+  "type": "monster",
+  "name": "Triamidentänzer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Triamid“-Karte in deinem Friedhof wählen; mische sie ins Deck und falls du dies tust, erhalten alle Monster vom Typ Fels, die du kontrollierst, 500 ATK und DEF. Einmal pro Spielzug, während des Spielzugs deines Gegners: Du kannst 1 „Triamid“-Spielfeldzauberkarte in deiner Spielfeldzone wählen; lege sie auf den Friedhof und falls du dies tust, aktiviere 1 „Triamid“-Spielfeldzauberkarte mit einem unterschiedlichen Namen von deinem Deck. (Dies ist ein Schnelleffekt.)",
+  "level": 3,
+  "atk": 600,
+  "def": 1900,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

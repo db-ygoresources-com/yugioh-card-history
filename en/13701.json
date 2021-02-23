@@ -1,0 +1,18 @@
+{
+  "id": 13701,
+  "type": "monster",
+  "name": "Fluffal Angel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "You can Tribute this card, then target 1 \"Frightfur\" Fusion Monster in your GY; discard 1 card, and if you do, Special Summon the targeted monster. You can only use this effect of \"Fluffal Angel\" once per turn.",
+  "pendEffect": "You can target 1 \"Fluffal\" or \"Edge Imp\" monster in your GY; Special Summon it, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters (even if this card leaves the field). You can only use this effect of \"Fluffal Angel\" once per turn.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

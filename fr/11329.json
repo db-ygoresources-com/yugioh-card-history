@@ -1,0 +1,18 @@
+{
+  "id": 11329,
+  "type": "monster",
+  "name": "D/D Fier Ogre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 Monstre Pendule TÉNÈBRES face recto depuis votre Extra Deck, mais il a ses effets annulés, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"D/D\" exclus) le reste de ce tour.",
+  "pendEffect": "Une fois par tour : vous pouvez payer 500 LP, puis ciblez 1 monstre \"D/D\" que vous contrôlez ; il gagne 500 ATK (même si cette carte quitte le Terrain). Sauf si vous avez une carte \"D/D\" dans votre autre Zone Pendule, l'Échelle Pendule de cette carte devient 5.",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2300,
+  "def": 1500,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

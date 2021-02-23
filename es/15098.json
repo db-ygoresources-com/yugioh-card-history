@@ -1,0 +1,16 @@
+{
+  "id": 15098,
+  "type": "monster",
+  "name": "Investigadora Adamancipador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si controlas un monstruo Roca, excepto \"Investigadora Adamancipador\": puedes Invocar esta carta de Modo Especial desde tu mano. Durante tu Main Phase: puedes excavar las 5 cartas de la parte superior de tu Deck y, si lo haces, puedes Invocar de Modo Especial 1 monstruo Roca excavado de Nivel 4 o menor que no sea Cantante, y además pon el resto en el fondo de tu Deck en cualquier orden. Sólo puedes usar cada efecto de \"Investigadora Adamancipador\" una vez por turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 2100,
+  "properties": [
+    "Roca",
+    "Cantante",
+    "Efecto"
+  ]
+}

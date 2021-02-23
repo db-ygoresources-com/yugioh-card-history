@@ -1,0 +1,19 @@
+{
+  "id": 13413,
+  "type": "monster",
+  "name": "Stregone Recupero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri Cyberso\n(Effetto Rapido): puoi scegliere come bersaglio 1 Mostro Link Cyberso nel tuo Cimitero che è stato distrutto in questo turno; Evocalo Specialmente, ma i suoi effetti si annullano, inoltre distruggilo durante la End Phase. Puoi utilizzare questo effetto di \"Stregone Recupero\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

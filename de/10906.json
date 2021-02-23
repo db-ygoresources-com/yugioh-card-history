@@ -1,0 +1,15 @@
+{
+  "id": 10906,
+  "type": "monster",
+  "name": "Sylvanischer Einsiedlerbaum",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof und falls du dies tust, ziehe 1 Karte. Lege sie andernfalls unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Sieh dir die bis zu 3 obersten Karten deines Decks an, dann lege sie in beliebiger Reihenfolge auf das Deck.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

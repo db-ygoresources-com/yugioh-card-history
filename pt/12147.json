@@ -1,0 +1,18 @@
+{
+  "id": 12147,
+  "type": "monster",
+  "name": "Robô-secretário 007",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Este card ganha 500 de ATK para cada card \"Robô-secretário\" no seu Cemitério. Os monstros que seu oponente controla não podem escolher monstros \"Robô-secretário\" com a face para cima como alvo de ataques, exceto este. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Robô-secretário\". Este efeito não pode ser negado.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

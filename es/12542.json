@@ -1,0 +1,15 @@
+{
+  "id": 12542,
+  "type": "monster",
+  "name": "Genio Agarrador Manos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Los monstruos que controla tu adversario no pueden seleccionar monstruos para ataques, excepto éste. Gana DEF igual a la suma del DEF original de todos los otros monstruos en Posición de Defensa boca arriba que controles.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

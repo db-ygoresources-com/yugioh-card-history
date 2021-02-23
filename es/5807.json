@@ -1,0 +1,15 @@
+{
+  "id": 5807,
+  "type": "monster",
+  "name": "Pingüino Torpedo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Esta carta puede atacar directamente. Cuando esta carta inflige daño de batalla a tu adversario: puedes seleccionar 1 monstruo de Nivel 6 o menor que controle tu adversario; hasta la End Phase, toma su control, pero sus efectos son negados, y además no puede declarar ataques mientras tú lo controles. Sólo puedes usar este efecto de \"Pingüino Torpedo\" una vez por turno. Al final del Damage Step, si esta carta atacó: destruye esta carta.",
+  "level": 3,
+  "atk": 550,
+  "def": 300,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

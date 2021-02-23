@@ -1,0 +1,18 @@
+{
+  "id": 11873,
+  "type": "monster",
+  "name": "Éther, le Maléfique Dragon Éveilleur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre sur le Terrain ; bannissez-le.",
+  "pendEffect": "Une fois par tour : vous pouvez bannir 1 monstre \"Guerrier Éveillé\" depuis votre Cimetière, puis ciblez 1 carte sur le Terrain ; détruisez-la.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

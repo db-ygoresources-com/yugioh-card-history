@@ -1,0 +1,15 @@
+{
+  "id": 14011,
+  "type": "monster",
+  "name": "Chroniqueuse de Nephtys",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez cibler 1 carte \"Nephtys\" (\"Chroniqueuse de Nephtys\" exclu) dans votre Cimetière ; détruisez 1 carte dans votre main, et si vous le faites, ajoutez la cible à votre main. Durant votre prochaine Standby Phase après que cette carte a été détruite par un effet de carte et envoyée au Cimetière : vous pouvez ajouter 1 carte \"Nephtys\" (\"Chroniqueuse de Nephtys\" exclu) depuis votre Cimetière à votre main. Vous ne pouvez utiliser chaque effet de \"Chroniqueuse de Nephtys\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

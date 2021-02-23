@@ -1,0 +1,15 @@
+{
+  "id": 12619,
+  "type": "monster",
+  "name": "PSI-Hüllen-Multithreader",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Der Name dieser Karte wird zu „PSI-Hüllentreiber“, solange sie sich in der Hand oder im Friedhof befindet. Falls eine oder mehr „PSI-Hülle“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte abwerfen. Falls ein „PSI-Hülle“-Empfänger als Spezialbeschwörung auf deine Spielfeldseite beschworen wird, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „PSI-Hüllen-Multithreader“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 0,
+  "def": 2500,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

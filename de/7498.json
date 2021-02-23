@@ -1,0 +1,15 @@
+{
+  "id": 7498,
+  "type": "monster",
+  "name": "Eiskönigin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Spezialbeschwörung vom Friedhof beschworen werden. Wenn diese offene Karte, die du kontrollierst, zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 Zauber in deinem Friedhof wählen; füge das gewählte Ziel deiner Hand hinzu. Du musst 3 oder mehr Hexer-Monster in deinem Friedhof haben, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

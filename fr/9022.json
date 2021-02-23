@@ -1,0 +1,15 @@
+{
+  "id": 9022,
+  "type": "monster",
+  "name": "Sergent Électrique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 carte Posée dans la Zone Magie & Piège de votre adversaire ; tant que cette carte est face recto sur le Terrain, ses cibles ne peuvent pas être activées.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

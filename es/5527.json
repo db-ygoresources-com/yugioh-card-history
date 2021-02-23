@@ -1,0 +1,15 @@
+{
+  "id": 5527,
+  "type": "monster",
+  "name": "Caballo de Pesadilla",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Este monstruo puede atacar los Life Points de tu adversario directamente incluso si hay otro monstruo en el Campo de tu adversario.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

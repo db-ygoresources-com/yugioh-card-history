@@ -1,0 +1,15 @@
+{
+  "id": 5650,
+  "type": "monster",
+  "name": "Aprendiz de Mago",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada: selecciona 1 carta boca arriba en el Campo a la que le puedas poner un Contador Mágico; pon 1 Contador Mágico en ese objetivo. Si esta carta es destruida en batalla: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Lanzador de Conjuros de Nivel 2 o menor, en Posición de Defensa boca abajo.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

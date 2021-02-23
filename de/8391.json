@@ -1,0 +1,16 @@
+{
+  "id": 8391,
+  "type": "monster",
+  "name": "Dracheneinheit Dunkelspeer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug kannst du 1 „Dracheneinheit“-Monster vom Typ Drache als Tribut anbieten, um 1 Monster vom Typ Geflügeltes Ungeheuer der Stufe 4 oder niedriger in deinem Friedhof zu wählen und als Spezialbeschwörung zu beschwören.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

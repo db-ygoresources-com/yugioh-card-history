@@ -1,0 +1,16 @@
+{
+  "id": 9402,
+  "type": "monster",
+  "name": "Barbaroid, l'Ultime Machine de Guerre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "5 monstres \"roid\" de Type Machine\nDurant chaque Battle Phase, cette carte peut attaquer une seconde fois. Cette carte ne peut pas attaquer directement votre adversaire. Après le calcul des dommages, si cette carte a attaqué un monstre de votre adversaire : annulez les effets du monstre (y compris dans le Cimetière). Si cette carte détruit un monstre de votre adversaire au combat : infligez 1000 points de dommages à votre adversaire.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

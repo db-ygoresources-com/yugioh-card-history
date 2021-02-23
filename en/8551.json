@@ -1,0 +1,15 @@
+{
+  "id": 8551,
+  "type": "monster",
+  "name": "Genex Ally Changer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7484,
+  "type": "monster",
+  "name": "Dragon de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque votre adversaire Invoque Spécialement un monstre (sauf durant la Damage Step) : vous pouvez défausser 1 carte ; Invoquez Spécialement cette carte depuis votre main ou Cimetière. Il ne peut y avoir qu'1 \"Dragon de Glace\" sur le Terrain.",
+  "level": 5,
+  "atk": 1800,
+  "def": 2200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

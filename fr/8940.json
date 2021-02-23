@@ -1,0 +1,16 @@
+{
+  "id": 8940,
+  "type": "monster",
+  "name": "Diablotin Unicorne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte en Position de Défense face recto est sélectionnée comme cible d'une attaque, vous pouvez retirer du jeu 1 monstre que vous contrôlez, excepté cette carte, pour retirer cette carte du jeu. Le monstre attaquant doit attaquer. Durant votre prochaine Standby Phase, si cette carte a été retirée du jeu par cet effet, cette carte retourne sur le Terrain.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Bête",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

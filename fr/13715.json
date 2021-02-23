@@ -1,0 +1,16 @@
+{
+  "id": 13715,
+  "type": "monster",
+  "name": "Réveil de l'Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Contrat avec les Abysses\". Le nom de cette carte devient \"Crâne Invoqué\" sur le Terrain, mais elle est toujours traitée comme une carte \"Archdémon\". Non destructible au combat, sauf au combat avec un Monstre Rituel, et non destructible par des effets de monstre (ceux de Monstre Rituel exclus). Si cette carte Invoquée Rituellement que vous contrôlez est envoyée à votre Cimetière par une carte de l'adversaire : vous pouvez Invoquer Spécialement 1 \"Crâne Invoqué\" depuis votre main, Deck ou Cimetière.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Rituel",
+    "Effet"
+  ]
+}

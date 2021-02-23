@@ -1,0 +1,15 @@
+{
+  "id": 6392,
+  "type": "monster",
+  "name": "Catapulteur des Ténèbres",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant votre Standby Phase, si cette carte est en Position de Défense, mettez 1 compteur sur cette carte. Retirez du jeu un nombre de cartes de votre Cimetière égal au nombre de compteurs sur cette carte pour détruire le même nombre de Cartes Magie ou Piège sur le Terrain. Retirez ensuite tous les compteurs de cette carte.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

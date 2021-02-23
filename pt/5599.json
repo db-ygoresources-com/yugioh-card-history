@@ -1,0 +1,15 @@
+{
+  "id": 5599,
+  "type": "monster",
+  "name": "Tambor da Sorte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno: você pode lançar um dado de 6 faces duas vezes, selecionar 1 resultado e destruir 1 monstro no campo cujo Nível seja igual a esse resultado.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

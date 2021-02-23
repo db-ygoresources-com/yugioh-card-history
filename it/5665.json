@@ -1,0 +1,15 @@
+{
+  "id": 5665,
+  "type": "monster",
+  "name": "Tribù Orecchie da Gatto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Durante la Damage Step del turno del tuo avversario, l'ATK originale dei suoi mostri che combattono con questo mostro diventa 200 punti.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Guerriero-Bestia",
+    "Effetto"
+  ]
+}

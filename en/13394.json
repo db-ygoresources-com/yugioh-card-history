@@ -1,0 +1,18 @@
+{
+  "id": 13394,
+  "type": "monster",
+  "name": "Mythical Beast Medusa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn, during the Battle Phase (Quick Effect): You can remove 2 Spell Counters from your field, then target 1 face-up monster on the field; its ATK/DEF become half its current ATK/DEF until the end of this turn.",
+  "pendEffect": "If you have no card in your other Pendulum Zone: You can target 1 monster in your GY that you can place a Spell Counter on; destroy this card, and if you do, Special Summon that monster, and if you do that, place 1 Spell Counter on it. You can only use this effect of \"Mythical Beast Medusa\" once per turn.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

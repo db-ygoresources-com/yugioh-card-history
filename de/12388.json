@@ -1,0 +1,15 @@
+{
+  "id": 12388,
+  "type": "monster",
+  "name": "Kozmo Dunkelplanet",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du „Kozmo“-Monster von deiner Hand verbannst, deren gemeinsame Stufe 10 oder größer ist, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Kann nicht als Ziel für Karteneffekte deines Gegners gewählt werden. Während des Spielzugs eines beliebigen Spielers, wenn eine Zauberkarte aktiviert wird: Du kannst 1 „Kozmo“-Monster von deinem Friedhof verbannen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Kozmo“-Monster der Stufe 9 oder niedriger von deinem Deck hinzu.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

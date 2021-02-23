@@ -1,0 +1,15 @@
+{
+  "id": 7937,
+  "type": "monster",
+  "name": "Kasha",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 oder mehr Zombie-Monster kontrollierst. Falls diese Karte als Spezialbeschwörung beschworen wird: Mische so viele andere Monster auf dem Spielfeld wie möglich ins Deck und falls du dies tust, werden die ATK dieser Karte gleich 1000 x die Anzahl der offenen Monster, die auf diese Art ins Deck gemischt wurden und deren Grund-Typ Zombie war.",
+  "level": 8,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

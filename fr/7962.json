@@ -1,0 +1,15 @@
+{
+  "id": 7962,
+  "type": "monster",
+  "name": "Patrouilleur, Allié de la Justice",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez défausser 1 carte pour sélectionner 1 monstre en Position de Défense face verso contrôlé par votre adversaire et le changer en Position d'Attaque face recto. Les effets Flip ne sont pas activés à ce moment.",
+  "level": 3,
+  "atk": 1400,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

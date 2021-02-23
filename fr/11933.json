@@ -1,0 +1,18 @@
+{
+  "id": 11933,
+  "type": "monster",
+  "name": "Magicien aux Yeux Dharma",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tant que cette carte Invoquée par Pendulation est sur le Terrain, les Monstres Pendule \"Magicien\" que vous contrôlez ne peuvent pas être détruits par des effets de carte de votre adversaire durant le tour où cette carte a été Invoquée par Pendulation.",
+  "pendEffect": "Une fois par tour : vous pouvez révéler 1 Monstre Pendule dans votre main, puis ciblez 1 carte \"Magicien\" dans votre Zone Pendule ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), l'Échelle Pendule de la cible devient la même que celle du Monstre Pendule révélé.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

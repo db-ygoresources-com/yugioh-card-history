@@ -1,0 +1,15 @@
+{
+  "id": 5303,
+  "type": "monster",
+  "name": "Geringerer Unterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)\nVerbanne alle Monster, die durch Kampf mit dieser Karte zerstört werden.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

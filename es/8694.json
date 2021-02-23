@@ -1,0 +1,16 @@
+{
+  "id": 8694,
+  "type": "monster",
+  "name": "Maquinaria Pacificadora",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta en el Campo es destruida y mandada al Cementerio: puedes añadir a tu mano 1 monstruo de Unión en tu Deck. Una vez por turno, puedes: seleccionar 1 monstruo Máquina que controles; equipa esta carta a ese objetivo, O: desequipar esta carta e Invocarla de Modo Especial. Si el monstruo equipado fuera a ser destruido en batalla o por efecto de una carta, destruye esta carta en su lugar.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Máquina",
+    "Unión",
+    "Efecto"
+  ]
+}

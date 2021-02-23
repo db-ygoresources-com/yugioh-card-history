@@ -1,0 +1,15 @@
+{
+  "id": 4567,
+  "type": "monster",
+  "name": "Geringerer Drache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Ein kleinerer Drache, der kein Feuer speien kann.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Normal"
+  ]
+}

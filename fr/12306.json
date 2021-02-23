@@ -1,0 +1,15 @@
+{
+  "id": 12306,
+  "type": "monster",
+  "name": "Millepabits Insecte Numérique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non utilisable comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre de Type Insecte. Une fois par tour, lorsque cette carte face recto est changée de Position d'Attaque en Position de Défense : vous pouvez Invoquer Spécialement 1 monstre de Type Insecte de Niveau 3 depuis votre Deck en Position de Défense. Un Monstre Xyz qui a été Invoqué en utilisant cette carte sur le Terrain comme Matériel Xyz gagne cet effet.\n●Cette carte peut attaquer une fois tous les monstres en Position de Défense contrôlés par votre adversaire.",
+  "level": 3,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

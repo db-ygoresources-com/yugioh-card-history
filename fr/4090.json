@@ -1,0 +1,15 @@
+{
+  "id": 4090,
+  "type": "monster",
+  "name": "Déchireur de Cartes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Détruit 1 Carte Piège sur le Terrain. Si la cible de cette carte est face verso, retournez-la face recto. S'il s'agit d'une Carte Piège, elle est détruite. Sinon, retournez-la dans sa position face verso. La carte retournée n'est pas Activée.",
+  "level": 5,
+  "atk": 1380,
+  "def": 1930,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

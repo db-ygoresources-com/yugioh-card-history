@@ -1,0 +1,19 @@
+{
+  "id": 13267,
+  "type": "monster",
+  "name": "Maga Akásica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos del mismo Tipo, excepto Fichas\nSólo puedes Invocar por Enlace una o más \"Maga Akásica\" una vez por turno. Si esta carta es Invocada por Enlace: devuelve a la mano todos los monstruos a los que apunte esta carta. Una vez por turno: puedes declarar 1 nombre de carta; excava tantas cartas de la parte superior de tu Deck como el Rating de Enlace total de los Monstruos de Enlace co-enlazados a esta carta y después, si excavaste alguna copia de la carta declarada, añádela a tu mano, y además manda el resto de las cartas al Cementerio.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Enlace",
+    "Efecto"
+  ]
+}

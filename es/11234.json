@@ -1,0 +1,16 @@
+{
+  "id": 11234,
+  "type": "monster",
+  "name": "Lagarto Sombrañeca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Puedes seleccionar 1 monstruo en el Campo; destrúyelo.\nSi esta carta es mandada al Cementerio por efecto de una carta: puedes mandar al Cementerio 1 carta \"Sombrañeca\" en tu Deck, excepto \"Lagarto Sombrañeca\". Sólo puedes usar 1 efecto de \"Lagarto Sombrañeca\" por turno, y sólo una vez ese turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

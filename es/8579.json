@@ -1,0 +1,15 @@
+{
+  "id": 8579,
+  "type": "monster",
+  "name": "Guerrero del Guantelete",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante el turno de cualquier jugador: puedes Sacrificar esta carta; cada monstruo de Tipo Guerrero que controles en este momento gana 500 ATK y DEF, hasta el final del próximo Damage Step en que ese monstruo ataque o sea atacado.",
+  "level": 3,
+  "atk": 400,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

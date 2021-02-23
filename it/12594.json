@@ -1,0 +1,18 @@
+{
+  "id": 12594,
+  "type": "monster",
+  "name": "Artistamico Anguilla Sigillo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Quando questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 Carta Magia/Trappola Posizionata controllata dal tuo avversario; quella carta Posizionata non può essere attivata in questo turno. Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; gli effetti di quel mostro scoperto si annullano fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Pesce",
+    "Pendulum",
+    "Effetto"
+  ]
+}

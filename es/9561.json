@@ -1,0 +1,15 @@
+{
+  "id": 9561,
+  "type": "monster",
+  "name": "El Plutón Represor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes declarar 1 nombre de carta; mira la mano de tu adversario, y después, si tiene la carta declarada en su mano, aplica 1 de estos efectos.\n●Toma el control de 1 monstruo que controle tu adversario.\n●Destruye 1 Mágica/Trampa que controle tu adversario, y después puedes Colocar en tu Campo la Mágica/Trampa destruida.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

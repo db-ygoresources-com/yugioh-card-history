@@ -1,0 +1,16 @@
+{
+  "id": 11320,
+  "type": "monster",
+  "name": "Dante, Viajero del Abismo Ardiente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos de Nivel 3\nUna vez por turno: puedes desacoplar 1 material de esta carta y elegir un número del 1 al 3, y después manda al Cementerio esa cantidad de cartas de la parte superior de tu Deck; hasta el final de este turno, esta carta gana 500 ATK por cada carta mandada al Cementerio de esta forma. Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase. Si esta carta es mandada al Cementerio: puedes seleccionar 1 carta \"Abismo Ardiente\" en tu Cementerio, excepto esta carta; añádela a tu mano.",
+  "rank": 3,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Guerrero",
+    "Xyz",
+    "Efecto"
+  ]
+}

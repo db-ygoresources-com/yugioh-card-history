@@ -1,0 +1,18 @@
+{
+  "id": 13393,
+  "type": "monster",
+  "name": "Garuda Mitica Bestia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Quando il tuo avversario Evoca Normalmente o Specialmente uno o più mostri (eccetto durante il Damage Step): puoi rimuovere 3 Segnalini Magia dal tuo Terreno; Evoca Specialmente questa carta dalla tua mano, poi fai ritornare nella mano quei mostri Evocati dell'avversario. Puoi utilizzare questo effetto di \"Garuda Mitica Bestia\" una sola volta per turno.",
+  "pendEffect": "Se non hai nessuna carta nella tua altra Zona Pendulum: puoi scegliere come bersaglio 1 altra Magia/Trappola sul Terreno; distruggi sia quella carta che questa carta. Puoi utilizzare questo effetto di \"Garuda Mitica Bestia\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

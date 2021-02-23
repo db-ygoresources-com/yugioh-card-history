@@ -1,0 +1,15 @@
+{
+  "id": 7296,
+  "type": "monster",
+  "name": "Jugador de Leyenda",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno puedes lanzar una moneda 3 veces y aplicar el efecto apropiado:\n●3 Caras: Destruye todos los monstruos que controle tu adversario.\n●2 Caras: Descarta 1 carta al azar de la mano de tu adversario.\n●1 Cara: Destruye 1 carta que tú controles.\n●0 Caras: Descarta toda tu mano.",
+  "level": 4,
+  "atk": 500,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

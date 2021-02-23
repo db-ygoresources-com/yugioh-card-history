@@ -1,0 +1,15 @@
+{
+  "id": 8906,
+  "type": "monster",
+  "name": "Señor del Juicio Laval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno: puedes desterrar 1 monstruo \"Laval\" en tu Cementerio; inflige 1000 puntos de daño a tu adversario. \"Señor del Juicio Laval\" no puede declarar un ataque durante el turno en el que este efecto es activado.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

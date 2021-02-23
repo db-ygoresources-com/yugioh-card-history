@@ -1,0 +1,16 @@
+{
+  "id": 7026,
+  "type": "monster",
+  "name": "Brasier, HÉROS Élémentaire",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Chaleur, HÉROS Élémentaire\" + \"Miss Chaleur, HÉROS Élémentaire\"\nCe monstre ne peut pas être Invoqué Spécialement, excepté par Invocation Fusion. Si cette carte combat un monstre EAU, cette carte gagne 1000 points d'ATK durant la Damage Step uniquement.",
+  "level": 8,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9317,
+  "type": "monster",
+  "name": "Shiens Knappe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während der Schadensberechnung im Spielzug eines beliebigen Spielers, falls ein „Sechs Samurai“-Monster kämpft, das du kontrollierst: Du kannst diese Karte von deiner Hand auf den Friedhof legen; das Monster kann in diesem Spielzug nicht durch Kampf zerstört werden.",
+  "level": 1,
+  "atk": 300,
+  "def": 700,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

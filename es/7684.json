@@ -1,0 +1,16 @@
+{
+  "id": 7684,
+  "type": "monster",
+  "name": "Guerrero de la Canción",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Las antenas de este guerrero lo ponen en sintonía con cualquier onda de energía. Puede vigilar transmisiones a kilómetros de distancia pero siempre sufre de mala recepción.",
+  "level": 3,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Normal"
+  ]
+}

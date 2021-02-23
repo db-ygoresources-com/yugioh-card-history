@@ -1,0 +1,15 @@
+{
+  "id": 8573,
+  "type": "monster",
+  "name": "Raiho, Général de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsqu'un effet de monstre de votre adversaire activé sur le Terrain est résolu, il doit défausser 1 carte ou l'effet est annulé (son choix).",
+  "level": 6,
+  "atk": 2100,
+  "def": 2300,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

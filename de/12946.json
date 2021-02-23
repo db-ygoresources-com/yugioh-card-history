@@ -1,0 +1,15 @@
+{
+  "id": 12946,
+  "type": "monster",
+  "name": "B.E.S. Großer Kern MK-3",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls dein Gegner ein Monster kontrolliert und du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Verteidigungsposition beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Lege 3 Zählmarken auf diese Karte. Kann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, falls diese Karte gekämpft hat: Entferne 1 Zählmarke von dieser Karte. Falls du das nicht kannst, zerstöre sie. Du kannst diese Karte von deinem Friedhof verbannen; mische alle „B.E.S.“-Monster von deinem Friedhof ins Deck.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1900,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

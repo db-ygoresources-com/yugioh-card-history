@@ -1,0 +1,15 @@
+{
+  "id": 14583,
+  "type": "monster",
+  "name": "Esprit Noir de la Malice",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre Démon de Niveau 8 dans votre Cimetière ; Invoquez-le Spécialement, mais ses effets sont annulés. Si un ou plusieurs monstres Démon de Niveau 8 sont envoyés à votre Cimetière tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Esprit Noir de la Malice\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1600,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

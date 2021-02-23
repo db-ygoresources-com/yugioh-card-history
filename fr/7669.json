@@ -1,0 +1,15 @@
+{
+  "id": 7669,
+  "type": "monster",
+  "name": "Prêle des Champs",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est détruite au combat et envoyée au Cimetière, Invoquez Spécialement 1 \"Jeton Prêle des Champs\" (Type Plante/VENT/Niveau 1/ATK 0/DEF 0) sur le Terrain de votre adversaire en Position de Défense. Lorsque ce Jeton est détruit au combat par un monstre de Type Plante, son contrôleur envoie 1 carte depuis sa main au Cimetière.",
+  "level": 2,
+  "atk": 400,
+  "def": 500,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

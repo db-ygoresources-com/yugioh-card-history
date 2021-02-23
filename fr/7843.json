@@ -1,0 +1,15 @@
+{
+  "id": 7843,
+  "type": "monster",
+  "name": "Chasseur de Jade",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tant que cette carte est en Position d'Attaque, les monstres Machine que vous contrôlez avec max. 1200 ATK ne peuvent pas être détruits par des effets de Piège. Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez ajouter 1 monstre LUMIÈRE Machine de Niveau 4 depuis votre Deck à votre main.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

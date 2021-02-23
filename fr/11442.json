@@ -1,0 +1,18 @@
+{
+  "id": 11442,
+  "type": "monster",
+  "name": "D/D Savant Keplerée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez activer 1 de ces effets. Vous ne pouvez utiliser cet effet de \"D/D Savant Keplerée\" qu'une fois par tour.\n●Ciblez 1 autre carte \"D/D\" que vous contrôlez ; renvoyez-la à la main.\n●Ajoutez 1 carte \"Contrat des Ténèbres\" depuis votre Deck à votre main.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"D/D\" exclus). Cet effet ne peut pas être annulé. Une fois par tour, durant votre Standby Phase : réduisez l'Échelle Pendule de cette carte de 2 (min. 1), puis détruisez tous les monstres que vous contrôlez d'un Niveau supérieur ou égal à l'Échelle Pendule de cette carte (monstres \"D/D\" exclus).",
+  "pendScale": 10,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

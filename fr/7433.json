@@ -1,0 +1,15 @@
+{
+  "id": 7433,
+  "type": "monster",
+  "name": "Velociraptor Noir",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte attaque un monstre de votre adversaire, durant la Damage Step uniquement, cette carte gagne 400 ATK. Si cette carte est attaquée par un monstre de votre adversaire, durant la Damage Step uniquement, cette carte perd 400 ATK.",
+  "level": 4,
+  "atk": 1800,
+  "def": 300,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11315,
+  "type": "monster",
+  "name": "Chasseuse de Cornes de Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les cornes étaient nécessaires pour un médicament permettant d'enrayer une épidémie dans son village. Elle ne saura jamais que les dragons rasèrent son village, une fois chassés de leur tanière.",
+  "pendEffect": "Tous les Monstres Normaux gagnent 200 ATK. Vous ne recevez aucun dommage de combat de combats impliquant des Monstres Normaux que vous contrôlez.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

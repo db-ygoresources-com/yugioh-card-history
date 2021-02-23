@@ -1,0 +1,15 @@
+{
+  "id": 13659,
+  "type": "monster",
+  "name": "Seal, Estratega Mascota a Sueldo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo \"Mascota a Sueldo\", excepto \"Seal, Estratega Mascota a Sueldo\". Si un monstruo \"Mascota a Sueldo\" es Invocado de Modo Especial a tu Campo mientras controlas este monstruo (excepto durante el Damage Step): puedes seleccionar 1 monstruo \"Mascota a Sueldo\" en tu Cementerio; añádelo a tu mano. Sólo puedes usar cada efecto de \"Seal, Estratega Mascota a Sueldo\" una vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

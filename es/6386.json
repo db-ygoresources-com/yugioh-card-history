@@ -1,0 +1,15 @@
+{
+  "id": 6386,
+  "type": "monster",
+  "name": "Steamroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta ataca a un monstruo de tu adversario, esta carta gana 500 ATK sólo durante el Damage Step. Si esta carta es atacada por un monstruo de tu adversario, esta carta pierde 500 ATK sólo durante el Damage Step.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

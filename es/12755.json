@@ -1,0 +1,16 @@
+{
+  "id": 12755,
+  "type": "monster",
+  "name": "Cristron Rión",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Durante la Main Phase o Battle Phase de tu adversario: puedes seleccionar 1 de tus monstruos que no sean Cantantes desterrados; Invócalo de Modo Especial, pero ve negados sus efectos (si los hay) y, si lo haces, inmediatamente después de que se resuelva este efecto, Invoca por Sincronía 1 Monstruo de Sincronía de Tipo Máquina usando sólo ese monstruo y esta carta (éste es un Efecto Rápido). Estos Materiales de Sincronía se barajan al Deck en lugar de ser mandados al Cementerio. Sólo puedes usar este efecto de \"Cristron Rión\" una vez por turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

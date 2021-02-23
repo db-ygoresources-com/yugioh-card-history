@@ -1,0 +1,18 @@
+{
+  "id": 12408,
+  "type": "monster",
+  "name": "Mago Acrobatico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se l'attivazione di una Carta Magia/Trappola viene annullata (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano. Quando questa carta viene distrutta in battaglia: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Quando uno o più mostri che controlli vengono distrutti dall'effetto di una carta (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua Zona Pendulum. Puoi utilizzare questo effetto di \"Mago Acrobatico\" una sola volta per turno.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 800,
+  "def": 2300,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10179,
+  "type": "monster",
+  "name": "Roi des Fées Albverdich",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres TERRE de Niveau 4\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; tous les monstres non-TERRE actuellement sur le Terrain perdent 500 ATK/DEF.",
+  "rank": 4,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Plante",
+    "Xyz",
+    "Effet"
+  ]
+}

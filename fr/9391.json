@@ -1,0 +1,16 @@
+{
+  "id": 9391,
+  "type": "monster",
+  "name": "Prismaura, Chevalier-Gemmes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Chevalier-Gemmes\" + 1 monstre de Type Tonnerre\nDoit d'abord être Invoquée par Fusion. Une fois par tour : vous pouvez envoyer 1 carte \"Chevalier-Gemmes\" depuis votre main au Cimetière pour cibler 1 carte face recto sur le Terrain ; détruisez la cible.",
+  "level": 7,
+  "atk": 2450,
+  "def": 1400,
+  "properties": [
+    "Tonnerre",
+    "Fusion",
+    "Effet"
+  ]
+}

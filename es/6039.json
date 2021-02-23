@@ -1,0 +1,15 @@
+{
+  "id": 6039,
+  "type": "monster",
+  "name": "Guardia del Cementerio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cualquier monstruo destruido en batalla se baraja al Deck en vez de ir al Cementerio.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

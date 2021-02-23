@@ -1,0 +1,18 @@
+{
+  "id": 11698,
+  "type": "monster",
+  "name": "Shaddoll Zefracore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is Pendulum Summoned or sent to the GY: You can target 1 \"Zefra\" card in your Pendulum Zone, except \"Shaddoll Zefracore\"; Special Summon it. You can only use this effect of \"Shaddoll Zefracore\" once per turn.",
+  "pendEffect": "You cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 450,
+  "def": 1950,
+  "properties": [
+    "Rock",
+    "Pendulum",
+    "Effect"
+  ]
+}

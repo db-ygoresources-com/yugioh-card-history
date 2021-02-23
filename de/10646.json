@@ -1,0 +1,16 @@
+{
+  "id": 10646,
+  "type": "monster",
+  "name": "Nebelvogel Clausolas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden zu 0 und falls sie das werden, werden seine Effekte annulliert. Diese Änderungen dauern bis zum Ende dieses Spielzugs an.",
+  "level": 3,
+  "atk": 0,
+  "def": 2300,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Synchro",
+    "Effekt"
+  ]
+}

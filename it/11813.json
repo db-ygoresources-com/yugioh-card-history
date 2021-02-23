@@ -1,0 +1,18 @@
+{
+  "id": 11813,
+  "type": "monster",
+  "name": "Fuocavaliere Paladino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Questo Fuocavaliere ha la reputazione di un pensatore che sa mantenere il sangue freddo. Ma la verità è che le sue emozioni ci mettono solo più tempo a riscaldarsi.",
+  "pendEffect": "Se hai una carta \"Fuocavaliere\" nella tua altra Zona Pendulum: puoi distruggere entrambe le carte nelle tue Zone Pendulum e, se lo fai, aggiungi 1 mostro FUOCO di Tipo Guerriero dal tuo Deck o Cimitero alla tua mano.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1400,
+  "def": 1900,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

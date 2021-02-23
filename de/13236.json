@@ -1,0 +1,16 @@
+{
+  "id": 13236,
+  "type": "monster",
+  "name": "Krawler Ranvier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst bis zu 2 „Krawler“-Monster in deinem Friedhof wählen; füge sie deiner Hand hinzu.\nFalls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt eines Gegners verlässt: Du kannst 2 „Krawler“-Monster mit unterschiedlichen Namen als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören, außer „Krawler Ranvier“. Du kannst jeden Effekt von „Krawler Ranvier“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1100,
+  "def": 900,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15724,
+  "type": "monster",
+  "name": "Amanokujaki",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous ne pouvez pas activer les effets des autres monstres Invoqués Spécialement du même Attribut que cette carte. Une fois par tour, durant la Main Phase du propriétaire de cette carte (Effet Rapide) : vous pouvez donner le contrôle de cette carte à votre adversaire, puis vous (le joueur activant) peut faire devenir cette carte de n'importe quel Attribut jusqu'à la fin du prochain tour.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

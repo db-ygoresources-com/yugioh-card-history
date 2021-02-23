@@ -1,0 +1,18 @@
+{
+  "id": 11334,
+  "type": "monster",
+  "name": "Trampolynx Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 carte dans la Zone Pendule d'un joueur ; renvoyez-la à la main.",
+  "pendEffect": "Lorsque vous Invoquez par Pendulation un ou plusieurs monstres : vous pouvez cibler 1 carte dans la Zone Pendule d'un joueur ; renvoyez-la à la main. Vous ne pouvez utiliser cet effet de \"Trampolynx Potartiste\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

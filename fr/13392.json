@@ -1,0 +1,18 @@
+{
+  "id": 13392,
+  "type": "monster",
+  "name": "Chacal, Bête Mythique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Vous pouvez retirer 3 Compteurs Magie depuis votre Terrain et Sacrifier cette carte ; Invoquez Spécialement 1 Monstre à Effet \"Bête Mythique\" (\"Chacal, Bête Mythique\" exclu) depuis votre Deck.",
+  "pendEffect": "Si vous n'avez aucune carte dans votre autre Zone Pendule : vous pouvez cibler 1 carte face recto que vous contrôlez sur laquelle vous pouvez placer un Compteur Magie ; détruisez cette carte, et si vous le faites, placez 1 Compteur Magie sur la carte. Vous ne pouvez utiliser cet effet de \"Chacal, Bête Mythique\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 0,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

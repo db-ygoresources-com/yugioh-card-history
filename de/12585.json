@@ -1,0 +1,16 @@
+{
+  "id": 12585,
+  "type": "monster",
+  "name": "Schwerer Unterstützungs-Mech-Panzer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Union-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Einmal pro Spielzug kannst du: 1 Maschine-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Dein Gegner kann ein Monster, das mit dieser Karte ausgerüstet ist, nicht als Ziel für Karteneffekte wählen, zusätzlich, falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

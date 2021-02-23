@@ -1,0 +1,18 @@
+{
+  "id": 11526,
+  "type": "monster",
+  "name": "Sorciècarte Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Sacrifier cette carte ; ajoutez 1 \"Polymérisation\" depuis votre Deck ou Cimetière à votre main.",
+  "pendEffect": "Une fois par tour : vous pouvez Invoquer par Fusion 1 Monstre de Fusion depuis votre Extra Deck, en utilisant des monstres que vous contrôlez comme Matériels de Fusion.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14932,
+  "type": "monster",
+  "name": "Trasportatore Unione",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri con lo stesso Tipo o Attributo\nNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Puoi scegliere come bersaglio 1 mostro scoperto che controlli; equipaggia 1 mostro a esso dalla tua mano o Deck con il suo stesso Tipo o Attributo originale. Il mostro equipaggiato guadagna 1000 ATK. Se l'hai equipaggiato dal Deck, non puoi Evocare Specialmente mostri con il nome di quella Carta Equipaggiamento per il resto di questo turno. Puoi utilizzare questo effetto di \"Trasportatore Unione\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Macchina",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12481,
+  "type": "monster",
+  "name": "Dragón de Espejismo de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras haya una carta \"Ojos Anómalos\" en tu Zona de Péndulo (Efecto Rápido): puedes seleccionar 1 monstruo \"Ojos Anómalos\" que controles; la primera vez que fuera a ser destruido en batalla o por el efecto de una carta en este turno, no es destruido. Sólo puedes usar este efecto de \"Dragón de Espejismo de Ojos Anómalos\" una vez por turno.",
+  "pendEffect": "Una vez por turno, si uno o más Monstruos de Péndulo \"Ojos Anómalos\" boca arriba que controlas son destruidos en batalla o por el efecto de una carta: puedes destruir 1 carta en tu Zona de Péndulo y, si lo haces, pon en tu Zona de Péndulo 1 Monstruo de Péndulo \"Ojos Anómalos\" boca arriba en tu Deck Extra, excepto \"Dragón de Espejismo de Ojos Anómalos\".",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

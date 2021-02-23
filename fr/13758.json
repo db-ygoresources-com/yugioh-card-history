@@ -1,0 +1,19 @@
+{
+  "id": 13758,
+  "type": "monster",
+  "name": "Cyber Dragon Sieger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Machine (\"Cyber Dragon\" inclus)\nLe nom de cette carte devient \"Cyber Dragon\" tant qu'elle est sur le Terrain ou dans le Cimetière. Durant chaque Battle Phase, si cette carte n'a pas déclaré d'attaque (Effet Rapide) : vous pouvez cibler 1 monstre Machine que vous contrôlez avec min. 2100 ATK ; le reste de ce tour, le monstre gagne 2100 ATK/DEF, et aussi, aucun joueur ne reçoit de dommages de combat d'attaques impliquant ce monstre. Vous ne pouvez utiliser cet effet de \"Cyber Dragon Sieger\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

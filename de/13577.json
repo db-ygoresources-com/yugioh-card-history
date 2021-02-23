@@ -1,0 +1,15 @@
+{
+  "id": 13577,
+  "type": "monster",
+  "name": "Elementsäbel Lapauila",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug, wenn eine Zauber-/Fallenkarte aktiviert wird (Schnelleffekt): Du kannst 1 „Elementsäbel“-Monster von deiner Hand auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre sie. Einmal pro Spielzug, falls sich diese Karte im Friedhof befindet: Du kannst 1 Eigenschaft deklarieren; diese Karte im Friedhof wird bis zum Ende dieses Spielzugs zu der Eigenschaft.",
+  "level": 4,
+  "atk": 400,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

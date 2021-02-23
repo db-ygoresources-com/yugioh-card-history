@@ -1,0 +1,16 @@
+{
+  "id": 6744,
+  "type": "monster",
+  "name": "Ambulance Rescueroid",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "„Rescueroid“ + „Ambulanceroid“\nDieses Monster kann nicht als Spezialbeschwörung beschworen werden, außer durch eine Fusionsbeschwörung. Wenn ein Monster auf deiner Spielfeldseite als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, kannst du dieses Monster als Spezialbeschwörung in Verteidigungsposition beschwören. Du kannst diesen Effekt nur einmal pro Spielzug benutzen.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

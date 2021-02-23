@@ -1,0 +1,15 @@
+{
+  "id": 13316,
+  "type": "monster",
+  "name": "Doc, Magie de Mousquetaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant le tour de chaque joueur, vous pouvez activer des Cartes Magie/Piège \"Magie de Mousquet\" depuis votre main. Si une Carte Magie/Piège est activée dans la colonne de cette carte : vous pouvez ajouter 1 carte \"Magie de Mousquet\" depuis votre Cimetière à votre main, mais pas une carte du même nom que la carte activée. Vous ne pouvez utiliser cet effet de \"Doc, Magie de Mousquetaire\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

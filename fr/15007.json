@@ -1,0 +1,15 @@
+{
+  "id": 15007,
+  "type": "monster",
+  "name": "Guerriers Anciens - Terrifiant Zhang Yuan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tous les autres monstres \"Guerriers Anciens\" que vous contrôlez ne peuvent pas être détruits au combat. Vous ne pouvez utiliser chacun des effets suivants de \"Guerriers Anciens - Terrifiant Zhang Yuan\" qu'une fois par tour.\n●Au début de la Damage Step, lorsque votre monstre \"Guerriers Anciens\" combat un monstre face recto de l'adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, le monstre de l'adversaire perd 1000 ATK.\n●Si une ou plusieurs cartes contrôlées par votre adversaire sont détruites au combat ou par un effet de carte : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

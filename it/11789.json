@@ -1,0 +1,18 @@
+{
+  "id": 11789,
+  "type": "monster",
+  "name": "Artistamico Gobbacammello",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta viene distrutta in battaglia: puoi fare perdere 800 ATK al mostro che ha distrutto questa carta.",
+  "pendEffect": "Una volta per turno, durante la tua Main Phase 1: puoi scegliere come bersaglio 1 mostro scoperto che controlli; i mostri attualmente controllati dal tuo avversario perdono 800 DEF fino alla fine di questo turno e, se lo fanno, se il mostro scelto come bersaglio attacca un mostro in Posizione di Difesa in questo turno, infliggi danno da combattimento perforante al tuo avversario. (Questi effetti rimangono anche se questa carta lascia il Terreno.)",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

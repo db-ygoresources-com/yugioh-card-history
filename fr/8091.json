@@ -1,0 +1,15 @@
+{
+  "id": 8091,
+  "type": "monster",
+  "name": "Dragon Poussière d'Étoile/Mode Assaut",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement avec \"Activation Mode Assaut\" et non Invocable Spécialement autrement sauf par son propre effet. Lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez Sacrifier cette carte ; annulez l'activation, et si vous le faites, détruisez-la. Durant la End Phase, si cet effet a été activé ce tour (et n'a pas été annulé) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière. Lorsque cette carte sur le Terrain est détruite : vous pouvez cibler 1 \"Dragon Poussière d'Étoile\" dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

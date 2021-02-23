@@ -1,0 +1,19 @@
+{
+  "id": 13495,
+  "type": "monster",
+  "name": "Insektor Minimotte",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Insekt-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Karte abwerfen und dann 1 anderes Insekt-Monster wählen, das du kontrollierst; rüste es mit 1 Insekt-Monster von deinem Deck als Ausrüstungszauber aus, der diesen Effekt erhält.\n●Das ausgerüstete Monster erhält 500 ATK/DEF.\nDu kannst 3 Insekt-Monster in deinem Friedhof wählen; mische sie ins Deck, dann ziehe 1 Karte. Du kannst jeden Effekt von „Insektor Minimotte“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Insekt",
+    "Link",
+    "Effekt"
+  ]
+}

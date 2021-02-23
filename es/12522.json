@@ -1,0 +1,15 @@
+{
+  "id": 12522,
+  "type": "monster",
+  "name": "Nova Carmesí el Señor Cúbico Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial (desde tu mano) mostrando otras 3 cartas \"Cúbico/a\" en tu mano con nombres diferentes, y no puede ser Invocada de Modo Especial de otra forma. No es afectada por los efectos activados de otros monstruos, cuyo ATK original es 3000 o menos. Cuando esta carta atacante destruye un monstruo en batalla: puedes activar este efecto; esta carta puede hacer un segundo ataque durante esta Battle Phase. Durante tu End Phase: cada jugador recibe 3000 puntos de daño. Sólo puedes usar este efecto de \"Nova Carmesí el Señor Cúbico Oscuro\" una vez por turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

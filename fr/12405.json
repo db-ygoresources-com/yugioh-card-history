@@ -1,0 +1,18 @@
+{
+  "id": 12405,
+  "type": "monster",
+  "name": "Bulledog Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Spécialement depuis l'Extra Deck : vous pouvez activer cet effet ; le reste de ce tour, les Monstres Pendule que vous contrôlez qui ont été Invoqués Spécialement depuis l'Extra Deck ne peuvent pas être détruits par des effets de carte.",
+  "pendEffect": "Si un ou plusieurs Monstres non-Pendule face recto que vous contrôlez qui ont été Invoqués Spécialement depuis l'Extra Deck vont être détruits au combat ou par un effet de carte, vous pouvez détruire cette carte à la place.",
+  "pendScale": 5,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8526,
+  "type": "monster",
+  "name": "Garde des Cartes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : placez 1 Compteur Garde sur elle. Cette carte gagne 300 ATK pour chaque Compteur Garde sur elle. Une fois par tour : vous pouvez cibler 1 autre carte face recto que vous contrôlez ; retirez 1 Compteur Garde de cette carte, et si vous le faites, placez 1 Compteur Garde sur la cible (si jamais la carte va être détruite, retirez-lui 1 Compteur Garde à la place).",
+  "level": 4,
+  "atk": 1600,
+  "def": 500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

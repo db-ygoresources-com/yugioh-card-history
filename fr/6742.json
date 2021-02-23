@@ -1,0 +1,15 @@
+{
+  "id": 6742,
+  "type": "monster",
+  "name": "Leurroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Tant que cette carte est face recto sur votre Terrain, votre adversaire ne peut pas sélectionner de monstre face recto comme cible d'une attaque excepté le \"Leurroid\".",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14108,
+  "type": "monster",
+  "name": "Extracératops",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre dans la Zone Monstre Extra est détruit au combat avec un monstre dans la Zone Monstre Main et envoyé au Cimetière, tant que cette carte est dans le Cimetière : vous pouvez Invoquer Spécialement cette carte, en Position de Défense, sur le Terrain du propriétaire du monstre détruit. Vous ne pouvez utiliser cet effet de \"Extracératops\" qu'une fois par tour. Si cette carte Invoquée de cette façon est détruite et envoyée au Cimetière : piochez 1 carte.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11888,
+  "type": "monster",
+  "name": "Martillo Mago del Tiempo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Debe ser Invocado de Modo Especial con \"La Garra de Hermos\", usando un monstruo Lanzador de Conjuros. Si esta carta es Invocada de Modo Especial: selecciona otro monstruo boca arriba en el Campo; equípale esta carta. Al comienzo del Damage Step, si éste batalla con un monstruo del adversario: puedes lanzar un dado de seis caras, y desterrar el monstruo del adversario hasta la Standby Phase del turno N después de la activación de este efecto (N = el resultado).",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

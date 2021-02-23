@@ -1,0 +1,16 @@
+{
+  "id": 8615,
+  "type": "monster",
+  "name": "Bohrsynchron",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein Monster vom Typ Krieger, das du kontrollierst, ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Einmal pro Spielzug, wenn du deinem Gegner mit diesem Effekt Kampfschaden zufügst: Du kannst 1 Karte ziehen.",
+  "level": 3,
+  "atk": 800,
+  "def": 300,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

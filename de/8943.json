@@ -1,0 +1,15 @@
+{
+  "id": 8943,
+  "type": "monster",
+  "name": "Einhornvogel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst diese offene Karte und 1 offenes Monster, das du kontrollierst, aus dem Spiel entfernen, um 1 Synchromonster in deinem Friedhof zu wählen, dessen Stufe kleiner oder gleich der Summe der Grund-Stufen der anderen 2 Monster ist. Beschwöre das Synchromonster als Spezialbeschwörung.",
+  "level": 2,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

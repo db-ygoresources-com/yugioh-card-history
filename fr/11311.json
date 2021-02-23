@@ -1,0 +1,16 @@
+{
+  "id": 11311,
+  "type": "monster",
+  "name": "Koga, HÉROS Masqué",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Uniquement Invocable Spécialement avec \"Changement de Masque\" et non Invocable Spécialement autrement. Cette carte gagne 500 ATK pour chaque monstre contrôlé par votre adversaire. Une fois par tour, durant le tour de chaque joueur : vous pouvez bannir 1 monstre \"HÉROS\" depuis votre Cimetière, puis ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, la cible perd une ATK égale à l'ATK du monstre banni pour activer cet effet.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9876,
+  "type": "monster",
+  "name": "Darklon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes hacer que todos los monstruos boca arriba que controles en este momento ganen 1 Nivel, y además se conviertan en monstruos de OSCURIDAD (estos efectos duran hasta la End Phase).",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

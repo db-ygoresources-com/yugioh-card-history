@@ -1,0 +1,16 @@
+{
+  "id": 7202,
+  "type": "monster",
+  "name": "Invocateur de Démons",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec cet effet.\n●Une fois par tour : vous pouvez Invoquer Spécialement 1 monstre de Type Démon depuis votre main ou l'un des Cimetières. Lorsque cette carte quitte le Terrain, détruisez tous les monstres de Type Démon Invoqués Spécialement par cet effet.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Gémeau",
+    "Effet"
+  ]
+}

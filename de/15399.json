@@ -1,0 +1,18 @@
+{
+  "id": 15399,
+  "type": "monster",
+  "name": "Gerätewesen Waschdrache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 „Gerätewesen“-Monster\nDiese Karte kann nicht in dem Spielzug als Linkmaterial verwendet werden, in dem sie als Linkbeschwörung beschworen wurde. Kein Spieler erhält Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Einmal pro Spielzug, nach der Schadensberechnung, falls diese kreuzgelinkte Karte gegen ein Monster eines Gegners kämpft: Du kannst das Monster des Gegners verbannen. Einmal pro Spielzug, nach der Schadensberechnung, falls dieses Monster, das nicht kreuzgelinkt ist, gegen ein Monster eines Gegners kämpft: Du kannst das Monster des Gegners zerstören und falls du dies tust, füge deinem Gegner Schaden in Höhe seiner Grund-ATK zu.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

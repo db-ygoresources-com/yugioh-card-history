@@ -1,0 +1,16 @@
+{
+  "id": 15775,
+  "type": "monster",
+  "name": "Ultimus Myutant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres \"Myutant\" de min. Niveau 8\nLorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez bannir 1 carte \"Myutant\" depuis votre main, Cimetière ou Terrain face recto, du même type (Monstre, Magie ou Piège) ; annulez l'activation, et si vous le faites, bannissez la carte. Si cette carte Invoquée par Fusion que vous contrôlez est détruite par une carte de l'adversaire : vous pouvez ajouter max. 3 de vos cartes \"Myutant\" bannies (max. 1 Monstre, max. 1 Magie et max. 1 Piège) à votre main. Vous ne pouvez utiliser chaque effet de \"Ultimus Myutant\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psychique",
+    "Fusion",
+    "Effet"
+  ]
+}

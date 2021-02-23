@@ -1,0 +1,15 @@
+{
+  "id": 5372,
+  "type": "monster",
+  "name": "Opción de Gradius",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta no puede ser Invocada mediante una Invocación Normal o Colocada. Esta carta sólo puede ser Invocada mediante una Invocación Especial seleccionando 1 \"Gradius\" de tu Campo. El ATK y la DEF de este monstruo se convierten en el ATK y la DEF del \"Gradius\" seleccionado. Si el \"Gradius\" seleccionado es retirado del Campo, destruye esta carta.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11135,
+  "type": "monster",
+  "name": "Zeitdeutender Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "In jedem Spielzug werden die ersten ein oder mehr Karten in deiner Pendelzone, die durch einen Karteneffekt eines Gegners zerstört würden, nicht zerstört.",
+  "pendEffect": "Du darfst keine Monster kontrollieren, um diese Karte zu aktivieren. Falls ein Pendelmonster kämpft, das du kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Fallenkarten aktivieren. Der Pendelbereich dieser Karte wird zu 4, es sei denn, du hast eine „Magier“-Karte oder „Buntäugig“-Karte in deiner anderen Pendelzone.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

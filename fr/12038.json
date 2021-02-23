@@ -1,0 +1,15 @@
+{
+  "id": 12038,
+  "type": "monster",
+  "name": "Dogoran, Kaiju des Flammes Enragées",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) sur le Terrain de votre adversaire en Position d'Attaque, en Sacrifiant 1 monstre qu'il contrôle. Si votre adversaire contrôle un monstre \"Kaiju\", vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Position d'Attaque. Vous ne pouvez contrôler qu'1 monstre \"Kaiju\". Une fois par tour : vous pouvez retirer 3 Compteurs Kaiju depuis le Terrain ; détruisez tous les monstres contrôlés par votre adversaire. Cette carte ne peut pas attaquer le tour où cet effet est activé.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1200,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

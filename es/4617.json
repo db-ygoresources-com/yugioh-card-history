@@ -1,0 +1,15 @@
+{
+  "id": 4617,
+  "type": "monster",
+  "name": "Explorador Sombrío de Hiro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Tu adversario roba 3 cartas. Ambos jugadores miran las cartas. Si hay cualquier Carta Mágica entre ellas, descarta todas esas Cartas Mágicas al Cementerio.",
+  "level": 2,
+  "atk": 650,
+  "def": 500,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

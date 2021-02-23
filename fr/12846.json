@@ -1,0 +1,16 @@
+{
+  "id": 12846,
+  "type": "monster",
+  "name": "Cocyte l'Invokhé",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "\"Aleister l'Invokhateur\" + 1 monstre EAU\nNon destructible par des effets de carte de votre adversaire. Votre adversaire ne peut pas cibler cette carte avec des effets de carte. Cette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez son ATK pour le calcul des dommages.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2900,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

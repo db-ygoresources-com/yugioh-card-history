@@ -1,0 +1,16 @@
+{
+  "id": 11515,
+  "type": "monster",
+  "name": "Grand Chevalier de la Flamme",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec cet effet.\n●Au début de la Damage Step, si cette carte a attaqué un monstre Invoqué Spécialement : vous pouvez bannir le monstre.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Gémeau",
+    "Effet"
+  ]
+}

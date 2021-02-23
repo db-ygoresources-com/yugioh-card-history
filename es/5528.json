@@ -1,0 +1,16 @@
+{
+  "id": 5528,
+  "type": "monster",
+  "name": "Segador en la Pesadilla",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Segador del Espíritu\" + \"Caballo de Pesadilla\"\nEste monstruo no es destruido como resultado de una batalla. Cuando esta carta es designada como objetivo del efecto de una Carta Mágica, de Trampa o de Monstruo de Efecto, destruye esta carta. Este monstruo puede atacar los Life Points de tu adversario directamente incluso si hay otro monstruo en el Campo de tu adversario. Cuando esta carta ataca con éxito los Life Points de tu adversario directamente, tu adversario descarta 1 carta de su mano al azar.",
+  "level": 5,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Zombi",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15114,
+  "type": "monster",
+  "name": "Érica la Féé Rikka",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsqu'une attaque impliquant un autre monstre Plante que vous contrôlez est déclarée : vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto ; jusqu'à la fin de ce tour, le monstre que vous contrôlez gagne 1000 ATK/DEF. Si un ou plusieurs monstres Plante que vous contrôlez sont Sacrifiés, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Érica la Féé Rikka\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

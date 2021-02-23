@@ -1,0 +1,19 @@
+{
+  "id": 12953,
+  "type": "monster",
+  "name": "Re Supremo Z-ARC",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "4 mostri Drago (1 Fusione, 1 Synchro, 1 Xyz e 1 Pendulum)\nDeve essere Evocato tramite Fusione. Se questa carta viene Evocata Specialmente: distruggi tutte le carte controllate dal tuo avversario. Non può essere distrutto dagli effetti delle carte del tuo avversario. Il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte. Quando questa carta distrugge un mostro dell'avversario in battaglia: puoi Evocare Specialmente 1 mostro \"Re Supremo Drago\" dal tuo Deck o Extra Deck. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "I Mostri Fusione, Synchro, e Xyz controllati dal tuo avversario non possono attivare i loro effetti. Una volta per turno, quando una o più carte vengono aggiunte dal Main Deck alla mano del tuo avversario (eccetto durante la Draw Phase o il Damage Step): puoi distruggere quelle carte.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}

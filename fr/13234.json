@@ -1,0 +1,16 @@
+{
+  "id": 13234,
+  "type": "monster",
+  "name": "Gliale Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez Invoquer Spécialement 1 monstre \"Krawler\" (\"Gliale Krawler\" exclu) depuis votre main ou Cimetière, en Position d'Attaque face recto ou Position de Défense face verso.\nSi cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 2 monstres \"Krawler\" (\"Gliale Krawler\" exclu) de noms différents depuis votre Deck en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Gliale Krawler\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 700,
+  "def": 1500,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

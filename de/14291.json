@@ -1,0 +1,19 @@
+{
+  "id": 14291,
+  "type": "monster",
+  "name": "Gefahringer-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 FINSTERNIS Drache-Monster\nEinmal pro Spielzug, während der End Phase deines Gegners: Du kannst 1 Monster in Angriffsposition wählen, das dein Gegner kontrolliert und das in diesem Spielzug keinen Angriff deklariert hat; zerstöre es und falls du dies tust, füge deinem Gegner Schaden in Höhe der Grund-ATK des Monsters zu. Falls ein oder mehr „Rakkete“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Gefahringer-Drache“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11233,
+  "type": "monster",
+  "name": "Ouriço Sombraneco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "VIRE: Você pode adicionar 1 Magia/Armadilha \"Sombraneco\" do seu Deck à sua mão.\nSe este card for enviado para o Cemitério por um efeito de card: você pode adicionar 1 monstro \"Sombraneco\" do seu Deck à sua mão, exceto \"Ouriço Sombraneco\". Você só pode usar 1 efeito de \"Ouriço Sombraneco\" por turno e apenas uma vez por turno.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Mago",
+    "Virar",
+    "Efeito"
+  ]
+}

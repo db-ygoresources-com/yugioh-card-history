@@ -1,0 +1,15 @@
+{
+  "id": 10024,
+  "type": "monster",
+  "name": "Wattschwanzdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann fliegen, ohne je landen zu müssen. Greift an, indem er seinen Körper in Elektrizität hüllt und dann seine Gegner rammt.\nWICHTIG: Einen „Wattschwanzdrachen“ einzufangen, verbieten die Antiken Regeln. Dies stellt einen Verstoß der Stufe 6 dar und wird mit einer Inhaftierung von nicht weniger als 2500 Sonnenumkreisungen geahndet.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Normal"
+  ]
+}

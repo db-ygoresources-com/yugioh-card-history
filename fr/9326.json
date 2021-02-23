@@ -1,0 +1,16 @@
+{
+  "id": 9326,
+  "type": "monster",
+  "name": "Pianissimo, Guerrier Symphonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, vous pouvez déclarer 1 Type de Monstre et sélectionner 1 monstre \"Guerrier Symphonique\" face recto sur le Terrain. Ce monstre devient ce Type de monstre. Vous pouvez déclarer 1 Type de monstre et retirer du jeu cette carte depuis votre Cimetière pour sélectionner 1 monstre \"Guerrier Symphonique\" face recto que vous contrôlez, et ce monstre devient ce Type de monstre.",
+  "level": 3,
+  "atk": 900,
+  "def": 1300,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

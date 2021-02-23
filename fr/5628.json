@@ -1,0 +1,16 @@
+{
+  "id": 5628,
+  "type": "monster",
+  "name": "Paladin des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Magicien Sombre\" + \"Buster Blader\"\nUniquement Invocable par Fusion. Lorsqu'une Carte Magie est activée (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'activation, et si vous le faites, détruisez-la. Cette carte doit être face recto sur le Terrain pour activer et résoudre cet effet. Gagne 500 ATK pour chaque monstre Dragon sur le Terrain et dans le Cimetière.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

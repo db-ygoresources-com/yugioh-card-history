@@ -1,0 +1,19 @@
+{
+  "id": 14732,
+  "type": "monster",
+  "name": "Confrérie du Poing de Feu - Paon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres \"Poing de Feu\"\nTant que cette carte pointe un monstre \"Poing de Feu\", les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Lorsque cette carte déclare une attaque : vous pouvez envoyer 1 Magie/Piège \"Formation Feu\" face recto que vous contrôlez au Cimetière, puis ciblez 1 monstre contrôlé par votre adversaire ; placez le monstre de l'adversaire dans une zone pointée par cette carte et prenez-en le contrôle jusqu'à la End Phase, mais il ne peut pas déclarer d'attaque ce tour. Vous ne pouvez utiliser cet effet de \"Confrérie du Poing de Feu - Paon\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Bête-Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

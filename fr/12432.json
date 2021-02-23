@@ -1,0 +1,17 @@
+{
+  "id": 12432,
+  "type": "monster",
+  "name": "Bouc Fantôme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez Invoquer Spécialement un nombre de votre choix de \"Jeton Mouton Noir\" (Zombie/TÉNÈBRES/Niveau 1/ATK 0/DEF 0).",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Flip",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

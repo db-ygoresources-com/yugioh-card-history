@@ -1,0 +1,16 @@
+{
+  "id": 10937,
+  "type": "monster",
+  "name": "Guardián Gorgónico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos de Tipo Roca de Nivel 3\nUna vez por turno, durante el turno de cualquier jugador: puedes desacoplar de esta carta 1 Material Xyz, y después seleccionar 1 monstruo boca arriba que controle tu adversario; su ATK se convierte en 0 y, si lo hace, sus efectos son negados. Estos efectos duran hasta el final de este turno. Una vez por turno: puedes seleccionar 1 monstruo en el Campo que tenga 0 ATK; destrúyelo.",
+  "rank": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Roca",
+    "Xyz",
+    "Efecto"
+  ]
+}

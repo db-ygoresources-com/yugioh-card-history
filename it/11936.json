@@ -1,0 +1,19 @@
+{
+  "id": 11936,
+  "type": "monster",
+  "name": "Maga Nobildrago",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Non può essere utilizzata come Materiale Synchro, eccetto che per la Synchro Evocazione di un Mostro Synchro Drago. Se questa carta viene utilizzata come Materiale Synchro, a meno che tutti gli altri Materiali Synchro fossero mostri \"Occhi Diversi\", metti questa carta in fondo al Deck. Se questa carta è nella tua mano o Cimitero: puoi scegliere come bersaglio 1 mostro \"Occhi Diversi\" di Livello 7 o superiore che controlli; riduci il suo Livello di 3 e, se lo fai, Evoca Specialmente questa carta.",
+  "pendEffect": "A meno che tu abbia una carta \"Mago\" nella tua altra Zona Pendulum, distruggi questa carta.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 700,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

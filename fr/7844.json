@@ -1,0 +1,15 @@
+{
+  "id": 7844,
+  "type": "monster",
+  "name": "Loutre des Arbres",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 1000 ATK. Vous devez contrôler un monstre de Type Bête (cette carte exclue) pour activer et résoudre cet effet.",
+  "level": 2,
+  "atk": 1200,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8954,
+  "type": "monster",
+  "name": "Gólem de Chatarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo \"Chatarra\" de Nivel 4 o menor en tu Cementerio; Invoca ese objetivo de Modo Especial al Campo de cualquier jugador.",
+  "level": 5,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

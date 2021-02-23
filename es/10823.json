@@ -1,0 +1,15 @@
+{
+  "id": 10823,
+  "type": "monster",
+  "name": "Soldado del Brillo Negro - Enviado del Ocaso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando todos los monstruos de LUZ o todos los monstruos de OSCURIDAD en tu Cementerio, mientras tengas la misma cantidad de cada uno en tu Cementerio. Mientras esté boca arriba en el Campo, esta carta también tiene el Atributo de LUZ. Cuando esta carta es Invocada de Modo Especial: puedes activar el efecto apropiado, basado en el Atributo de los monstruos desterrados para la Invocación Especial. El turno en que activas este efecto no puedes realizar tu Battle Phase.\n●LUZ: Selecciona 1 monstruo en el Campo; destiérralo.\n●OSCURIDAD: Hasta la End Phase de tu adversario, destierra 1 carta al azar en la mano de tu adversario, boca abajo.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

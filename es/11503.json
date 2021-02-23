@@ -1,0 +1,18 @@
+{
+  "id": 11503,
+  "type": "monster",
+  "name": "Lanzaphorhynchus",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Esta especie antiquísima sobrevivió a la extinción desarrollando una lanza ofensiva que puede atravesar cualquier cosa, aunque su dieta todavía consiste principalmente de pescado.",
+  "pendEffect": "Si un Monstruo Normal que controlas ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Dinosaurio",
+    "Péndulo",
+    "Normal"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11254,
+  "type": "monster",
+  "name": "Deskbot 001",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Gains 500 ATK/DEF for each Machine monster you control. If 2 or more Machine monsters are Special Summoned at the same time, while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Tuner",
+    "Effect"
+  ]
+}

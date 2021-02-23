@@ -1,0 +1,16 @@
+{
+  "id": 5477,
+  "type": "monster",
+  "name": "Soldado Cañón Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede atacar en el turno en el que es Invocado. Si \"Mundo Toon\" en el Campo es destruido, destruye esta carta. Mientras controles \"Mundo Toon\" y tu adversario no controle monstruos Toon, esta carta puede atacar a tu adversario directamente. Puedes Sacrificar 1 monstruo; inflige 500 puntos de daño a tu adversario.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "Máquina",
+    "Toon",
+    "Efecto"
+  ]
+}

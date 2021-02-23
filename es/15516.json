@@ -1,0 +1,16 @@
+{
+  "id": 15516,
+  "type": "monster",
+  "name": "Archidemonio Inférnico de la Perdición",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nUna vez por turno: puedes seleccionar 1 carta boca arriba en el Campo; niega sus efectos (hasta el final de este turno), y después, si no tienes cartas en tu mano, puedes destruirla. Mientras no tengas cartas en tu mano, si esta carta batalla con un monstruo del adversario, cualquier daño de batalla que esta carta inflija a tu adversario se duplica. Un Monstruo de Sincronía de OSCURIDAD que fue Invocado usando esta carta como material puede hacer hasta 2 ataques a monstruos durante cada Battle Phase.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Demonio",
+    "Sincronía",
+    "Efecto"
+  ]
+}

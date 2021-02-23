@@ -1,0 +1,15 @@
+{
+  "id": 6304,
+  "type": "monster",
+  "name": "Machina Sniper",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Monsters cannot attack \"Machina\" monsters, except \"Machina Sniper\".",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

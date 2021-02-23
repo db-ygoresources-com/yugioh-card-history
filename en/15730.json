@@ -1,0 +1,19 @@
+{
+  "id": 15730,
+  "type": "monster",
+  "name": "Parametalfoes Azortless",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "1 \"Metalfoes\" monster + 1 Fusion Monster\nIf this card is Special Summoned from the Extra Deck: You can target 1 card your opponent controls; shuffle 2 face-up Pendulum Monsters from your Extra Deck into the Deck, and if you do, destroy that card. You can only use this effect of \"Parametalfoes Azortless\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "If a face-up \"Metalfoes\" card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 face-up card on the field; destroy it. You can only use this effect of \"Parametalfoes Azortless\" once per turn.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psychic",
+    "Fusion",
+    "Pendulum",
+    "Effect"
+  ]
+}

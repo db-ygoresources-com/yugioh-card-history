@@ -1,0 +1,16 @@
+{
+  "id": 11145,
+  "type": "monster",
+  "name": "Grüner Schildkrötenbeschwörer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Wähle 1 Monster, das dein Gegner kontrolliert; zerstöre es.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

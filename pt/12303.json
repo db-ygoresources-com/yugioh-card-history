@@ -1,0 +1,18 @@
+{
+  "id": 12303,
+  "type": "monster",
+  "name": "Amórfago Golias",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Nenhum duelista pode Invocar monstros do Deck Adicional por Invocação-Especial, exceto monstros \"Amórfago\".",
+  "pendEffect": "Enquanto você controlar um monstro \"Amórfago\", qualquer card enviado para o Cemitério, em vez disso, é banido, exceto cards \"Amórfago(a)\". Uma vez por turno, durante sua Fase de Apoio, ofereça 1 monstro como Tributo ou destrua este card.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2750,
+  "def": 0,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

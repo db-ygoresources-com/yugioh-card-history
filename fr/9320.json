@@ -1,0 +1,16 @@
+{
+  "id": 9320,
+  "type": "monster",
+  "name": "Ver de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte peut attaquer directement votre adversaire. Si cette carte attaque, elle est détruite à la fin de la Battle Phase. Si cette carte est détruite par l'effet d'une carte \"Ferraille\" et envoyée au Cimetière, vous pouvez sélectionner 1 monstre \"Ferraille\" dans votre Cimetière, excepté \"Ver de Ferraille\", et l'ajouter à votre main.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Insecte",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

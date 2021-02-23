@@ -1,0 +1,15 @@
+{
+  "id": 10906,
+  "type": "monster",
+  "name": "Ermitarbre Sylvan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière, et si vous le faites, piochez 1 carte. Sinon, placez-la au-dessous de votre Deck. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : regardez max. 3 cartes du dessus de votre Deck, puis placez-les au-dessus du Deck dans l'ordre de votre choix.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

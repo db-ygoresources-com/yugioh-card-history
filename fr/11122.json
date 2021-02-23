@@ -1,0 +1,16 @@
+{
+  "id": 11122,
+  "type": "monster",
+  "name": "Numéro 52 : Roi Crabe des Diamants",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 4\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; changez la DEF de cette carte à 0, et si vous le faites, changez son ATK à 3000. Ces changements durent jusqu'à la fin de ce tour. Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase. Si cette carte est attaquée, changez-la en Position d'Attaque à la fin de la Damage Step si elle n'a pas de Matériel Xyz. Vous ne pouvez contrôler qu'1 \"Numéro 52 : Roi Crabe des Diamants\".",
+  "rank": 4,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

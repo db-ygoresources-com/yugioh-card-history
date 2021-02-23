@@ -1,0 +1,18 @@
+{
+  "id": 11815,
+  "type": "monster",
+  "name": "Cavaleirardor Valente",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Um líder da mais arrojada unidade de comando Cavaleirardor. Seu maior desafio é manter sob controle o temperamento esquentado dos seus homens.",
+  "pendEffect": "Se você tiver um card \"Cavaleirardor\" na sua outra Zona de Pêndulo: você pode destruir os dois cards nas suas Zonas de Pêndulo e, se isso acontecer, adicione 1 monstro de FOGO do Tipo Guerreiro do seu Deck ou Cemitério à sua mão.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 2200,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

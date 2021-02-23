@@ -1,0 +1,15 @@
+{
+  "id": 8618,
+  "type": "monster",
+  "name": "Generador de Poder",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, puedes seleccionar 1 monstruo boca arriba que controles, que gana 400 ATK mientras controles esta carta boca arriba. (Un monstruo no puede ganar más de 400 ATK por el efecto de esta carta).",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

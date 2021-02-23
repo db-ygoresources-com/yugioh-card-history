@@ -1,0 +1,15 @@
+{
+  "id": 10054,
+  "type": "monster",
+  "name": "Inzektor Giga-Criquet",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est dans votre Cimetière : vous pouvez bannir 1 monstre de Type Insecte depuis votre Cimetière pour cibler 1 monstre \"Inzektor\" face recto que vous contrôlez ; équipez cette carte depuis le Cimetière à la cible. Cet effet de \"Inzektor Giga-Criquet\" ne peut être utilisé qu'une fois par tour. Tant que cette carte est équipée à un monstre, l'ATK d'origine du monstre devient 2000, et s'il attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1300,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

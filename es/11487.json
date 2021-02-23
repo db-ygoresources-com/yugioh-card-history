@@ -1,0 +1,16 @@
+{
+  "id": 11487,
+  "type": "monster",
+  "name": "Necroz de Valkyrus",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Necroz\". Debe ser Invocada por Ritual sin usar monstruos de Nivel 8. Sólo puedes usar cada uno de estos efectos de \"Necroz de Valkyrus\" una vez por turno.\n●Cuando un monstruo del adversario declara un ataque: puedes desterrar 1 carta \"Necroz\" en tu Cementerio y descartar esta carta; niega el ataque, y después termina la Battle Phase.\n●Durante tu Main Phase: puedes Sacrificar hasta 2 monstruos en tu mano y/o Campo y, si lo haces, roba la misma cantidad de cartas que Sacrificaste.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

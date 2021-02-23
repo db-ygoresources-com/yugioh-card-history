@@ -1,0 +1,18 @@
+{
+  "id": 11679,
+  "type": "monster",
+  "name": "Lézarpioche Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un autre monstre face recto que vous contrôlez est détruit par une attaque ou effet de carte de votre adversaire : vous pouvez piocher un nombre de cartes égal au nombre de monstres \"Potartiste\" que vous contrôlez actuellement. Vous ne pouvez utiliser cet effet de \"Lézarpioche Potartiste\" qu'une fois par tour.",
+  "pendEffect": "Si vous avez une carte \"Potartiste\" (\"Lézarpioche Potartiste\" exclu) dans votre autre Zone Pendule : vous pouvez détruire cette carte, et si vous le faites, piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Lézarpioche Potartiste\" qu'une fois par tour.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Reptile",
+    "Pendule",
+    "Effet"
+  ]
+}

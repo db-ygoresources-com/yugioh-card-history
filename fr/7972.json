@@ -1,0 +1,16 @@
+{
+  "id": 7972,
+  "type": "monster",
+  "name": "Géo Genex",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Contrôleur Genex\" + 1 monstre TERRE non Syntoniseur ou plus\nUne fois par tour, et tant que vous contrôlez un ou plusieurs monstres \"Genex\" face recto de Niveau 4 ou moins, vous pouvez échanger l'ATK et la DEF d'origine de cette carte jusqu'à la End Phase.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

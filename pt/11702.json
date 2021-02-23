@@ -1,0 +1,18 @@
+{
+  "id": 11702,
+  "type": "monster",
+  "name": "Zefraxa, Besta Flamejante de Necroz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Enquanto este card estiver na sua mão ou no Cemitério, se um ou mais cards \"Necroz\" ou \"Zefra\" com a face para cima, exceto \"Zefraxa, Besta Flamejante de Necroz\", forem destruídos em batalha ou por um efeito de card enquanto estiverem nas suas Zonas de Monstros ou Zonas de Pêndulo: você pode Invocar este card por Invocação-Especial. Você só pode usar este efeito de \"Zefraxa, Besta Flamejante de Necroz\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Necroz\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

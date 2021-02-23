@@ -1,0 +1,15 @@
+{
+  "id": 13244,
+  "type": "monster",
+  "name": "Nixenrüstung Abyssnerei",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "(Schnelleffekt): Du kannst diese Karte abwerfen und dann 1 WASSER Monster wählen, das du kontrollierst; zerstöre 1 anderes WASSER Monster in deiner Hand oder auf deiner Spielfeldseite und falls du dies tust, erhält das als Ziel gewählte Monster bis zum Ende dieses Spielzugs ATK/DEF in Höhe der Grund-ATK/-DEF des zerstörten Monsters. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 Karte ziehen, dann wirf 1 Karte ab. Du kannst jeden Effekt von „Nixenrüstung Abyssnerei“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

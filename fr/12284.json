@@ -1,0 +1,18 @@
+{
+  "id": 12284,
+  "type": "monster",
+  "name": "Loup de Clair de Lune",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un monstre \"Clair de Lune\" que vous contrôlez (\"Dragon Clair de Lune Rose Noire\" exclu) attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Clair de Lune\" exclus). Cet effet ne peut pas être annulé. Une fois par tour : vous pouvez Invoquer par Fusion 1 Monstre de Fusion \"Clair de Lune\" depuis votre Extra Deck, en bannissant des Matériels de Fusion listés sur celui-ci depuis votre Terrain ou Cimetière.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Bête-Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

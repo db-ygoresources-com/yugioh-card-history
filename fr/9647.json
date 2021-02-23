@@ -1,0 +1,15 @@
+{
+  "id": 9647,
+  "type": "monster",
+  "name": "Geargiano",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Sacrifier cette carte, puis ciblez 1 monstre de Type Machine de Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement, mais ses effets sont annulés.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

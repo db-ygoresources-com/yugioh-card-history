@@ -1,0 +1,18 @@
+{
+  "id": 12736,
+  "type": "monster",
+  "name": "Mago Dragochiamante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi far diventare questa carta di Tipo Drago fino alla fine di questo turno. Un mostro che è stato Evocato tramite Fusione, Synchro o Xyz utilizzando questa carta sul Terreno come Materiale guadagna questo effetto.\n●Se questa carta combatte con un mostro di Tipo Drago, l'ATK di questa carta diventa il doppio del suo ATK originale solamente durante il Damage Step.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; esso diventa di Tipo Drago fino alla fine del turno del tuo avversario (anche se questa carta lascia il Terreno).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

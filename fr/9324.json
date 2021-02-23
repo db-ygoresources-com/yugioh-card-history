@@ -1,0 +1,16 @@
+{
+  "id": 9324,
+  "type": "monster",
+  "name": "Basso, Guerrier Symphonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre \"Guerrier Symphonique\" face recto sur le Terrain. Augmentez son Niveau par le nombre de cartes dans votre main, jusqu'à la End Phase. Vous pouvez retirer du jeu cette carte depuis votre Cimetière pour sélectionner 1 monstre \"Guerrier Symphonique\" face recto que vous contrôlez et augmenter son Niveau par le nombre de cartes dans votre main. Cette augmentation dure jusqu'à la End Phase.",
+  "level": 1,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

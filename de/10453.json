@@ -1,0 +1,16 @@
+{
+  "id": 10453,
+  "type": "monster",
+  "name": "Zubaba-General",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster der Stufe 4\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; rüste diese Karte mit 1 Monster vom Typ Krieger von deiner Hand aus. Diese Karte erhält ATK in Höhe der Summe der ATK der Monster, mit denen sie durch diesen Effekt ausgerüstet ist.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

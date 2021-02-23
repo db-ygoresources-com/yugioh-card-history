@@ -1,0 +1,15 @@
+{
+  "id": 7604,
+  "type": "monster",
+  "name": "Batteriemann Industrielle Kraft",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer indem du 2 „Batteriemann“-Monster in deinem Friedhof aus dem Spiel entfernst. Einmal pro Spielzug kannst du 1 Monster vom Typ Donner in deinem Friedhof aus dem Spiel entfernen, um 1 Monster und 1 Zauber- oder Fallenkarte auf dem Spielfeld zu zerstören.",
+  "level": 8,
+  "atk": 2600,
+  "def": 0,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

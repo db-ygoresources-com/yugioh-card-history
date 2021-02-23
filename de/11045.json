@@ -1,0 +1,15 @@
+{
+  "id": 11045,
+  "type": "monster",
+  "name": "Artefakt Labrys",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte als Zauberkarte von deiner Hand in deine Zauber- & Fallenzone setzen. Während des Spielzugs deines Gegners, falls diese gesetzte Karte in der Zauber- & Fallenzone zerstört und auf deinen Friedhof gelegt wird: Beschwöre sie als Spezialbeschwörung. Wenn „Artefakt“-Karten zerstört und auf deinen Friedhof gelegt werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.",
+  "level": 5,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

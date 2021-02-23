@@ -1,0 +1,15 @@
+{
+  "id": 10503,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Louplonge",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est Invoquée Normalement : Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Machine/VENT/Niveau 3/ATK 0/DEF 0). Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Une fois par combat, durant la Damage Step, lorsque cette carte combat un monstre de l'adversaire (Effet Rapide) : vous pouvez Sacrifier 1 Jeton ; jusqu'à la fin de ce tour, cette carte gagne 800 ATK.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

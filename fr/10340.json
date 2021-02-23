@@ -1,0 +1,16 @@
+{
+  "id": 10340,
+  "type": "monster",
+  "name": "Paladynamo Seigneur des Étoiles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres LUMIÈRE de Niveau 4\nUne fois par tour : vous pouvez détacher 2 Matériels Xyz de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; changez son ATK à 0, et si vous le faites, il a ses effets annulés. Si cette carte que vous contrôlez est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : piochez 1 carte.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

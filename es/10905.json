@@ -1,0 +1,15 @@
+{
+  "id": 10905,
+  "type": "monster",
+  "name": "Guardirroble Silvano",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes elegir un número de 1 a 3, y después excavar esa cantidad de cartas de la parte superior de tu Deck, mandar al Cementerio todos los monstruos de Tipo Planta excavados, y además poner las demás cartas en el fondo de tu Deck, en cualquier orden. Si esta carta es excavada del Deck y mandada al Cementerio por efecto de una carta: puedes seleccionar otro monstruo de Tipo Planta en tu Cementerio; pon ese objetivo en la parte superior de tu Deck.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

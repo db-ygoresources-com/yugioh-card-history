@@ -1,0 +1,15 @@
+{
+  "id": 13367,
+  "type": "monster",
+  "name": "F.A. Turbo Cargador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Gana ATK igual a su Nivel x 300. Los monstruos de tu adversario cuyo Nivel/Rango original sea más bajo que el Nivel de esta carta no pueden seleccionar monstruos para ataques, excepto a éste. Tu adversario no puede seleccionar monstruos, excepto a éste, con efectos de monstruos cuyo Nivel/Rango original sea más bajo que el Nivel de esta carta. Cada vez que una Carta Mágica/de Trampa \"F.A.\" o un efecto de Mágica/Trampa \"F.A.\" son activados: puedes aumentar el Nivel de esta carta en 1. Si tu monstruo \"F.A.\" batalla mientras controlas esta carta de Nivel 7 o mayor, los monstruos de tu adversario no pueden activar sus efectos hasta el final del Damage Step.",
+  "level": 6,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

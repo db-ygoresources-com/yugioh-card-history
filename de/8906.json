@@ -1,0 +1,15 @@
+{
+  "id": 8906,
+  "type": "monster",
+  "name": "Laval-Urteilsherrscher",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Laval“-Monster von deinem Friedhof verbannen; füge deinem Gegner 1000 Schaden zu. „Laval-Urteilsherrscher“ kann in dem Spielzug, in dem dieser Effekt aktiviert wird, keinen Angriff deklarieren.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

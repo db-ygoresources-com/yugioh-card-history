@@ -1,0 +1,15 @@
+{
+  "id": 5777,
+  "type": "monster",
+  "name": "Archidemonio Rey del Terror",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puedes Invocar mediante una Invocación Normal o una Invocación de Volteo esta carta a menos que tengas una Carta de Monstruo ARCHIDEMONIO en tu Campo. El controlador de esta carta paga 800 Life Points durante cada una de sus Standby Phases. Cuando esta carta es designada como objetivo del efecto de una carta controlada por tu adversario, al resolver el efecto, lanza un dado de seis caras. Si el resultado es 2 o 5, niega el efecto y destruye la carta de tu adversario. El efecto de un Monstruo de Efecto que esta carta destruye como resultado de una batalla es negado.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

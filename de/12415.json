@@ -1,0 +1,15 @@
+{
+  "id": 12415,
+  "type": "monster",
+  "name": "Roter Spiegel",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn ein Monster deines Gegners einen Angriff deklariert: Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 FEUER Monster vom Typ Unterweltler in deinem Friedhof wählen, außer „Roter Spiegel“; füge es deiner Hand hinzu. Falls du ein Monster als Synchrobeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps oder des Spielzugs, in dem diese Karte auf den Friedhof gelegt wurde): Du kannst diese Karte deiner Hand hinzufügen. Du kannst jeden Effekt von „Roter Spiegel“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

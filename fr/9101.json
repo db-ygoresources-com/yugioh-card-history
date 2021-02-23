@@ -1,0 +1,16 @@
+{
+  "id": 9101,
+  "type": "monster",
+  "name": "Soldat de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut pas être utilisée en tant que Monstre-Matériel de Synchro, excepté pour l'Invocation Synchro d'un monstre \"Ferraille\". Si cette carte en Position de Défense face recto est sélectionnée comme cible d'une attaque, détruisez cette carte à la fin de la Battle Phase. Si cette carte est détruite par l'effet d'une carte \"Ferraille\" et envoyée au Cimetière, vous pouvez sélectionner 1 monstre \"Ferraille\" dans votre Cimetière, excepté \"Soldat de Ferraille\", et l'ajouter à votre main.",
+  "level": 5,
+  "atk": 2100,
+  "def": 700,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

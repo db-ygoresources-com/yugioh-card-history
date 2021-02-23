@@ -1,0 +1,15 @@
+{
+  "id": 10165,
+  "type": "monster",
+  "name": "Gólem de Bloques",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si todos los monstruos en tu Cementerio son de TIERRA: puedes Sacrificar esta carta, y después seleccionar 2 monstruos Roca de Nivel 4 o menor en tu Cementerio, excepto \"Gólem de Bloques\"; Invoca esos monstruos Roca de Modo Especial, pero sus efectos que se activen en el Campo no pueden ser activados este turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

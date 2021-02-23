@@ -1,0 +1,16 @@
+{
+  "id": 15026,
+  "type": "monster",
+  "name": "Beschworener Augoeides",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Aleister der Beschwörer“ + 1 Fusionsmonster\nFalls diese Karte als Spezialbeschwörung beschworen wird oder ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst diesen Effekt von „Beschworener Augoeides“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 Fusionsmonster von deinem Friedhof verbannen; diese Karte erhält bis zum Ende des Spielzugs deines Gegners ATK in Höhe der ATK des verbannten Monsters.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

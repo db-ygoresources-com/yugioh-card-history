@@ -1,0 +1,16 @@
+{
+  "id": 14279,
+  "type": "monster",
+  "name": "Schöpfaltar, der Mantrawichtel-Erfinder",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Mantrawichtel-Anfang“ als Ritualbeschwörung beschwören. Während der Main Phase (Schnelleffekt): Du kannst diese Karte in deiner Hand vorzeigen; wirf 1 Karte ab, dann beschwöre „Mantrawichtel“-Monster, deren gemeinsame Stufe 10 entspricht, als Spezialbeschwörung von deinem Friedhof, aber mische sie während der End Phase ins Deck. Du kannst diesen Effekt von „Schöpfaltar, der Mantrawichtel-Erfinder“ nur einmal pro Spielzug verwenden. „Mantrawichtel“-Nichtritual-Monster, die du kontrollierst, erhalten 2000 ATK, aber ihre Effekte werden annulliert.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Effekt"
+  ]
+}

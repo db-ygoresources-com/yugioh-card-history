@@ -1,0 +1,15 @@
+{
+  "id": 6102,
+  "type": "monster",
+  "name": "Mimic Oscuro LV3",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es destruida en batalla y mandada al Cementerio: roba 1 carta, pero si esta carta fue Invocada de Modo Especial por el efecto de \"Mimic Oscuro LV1\", roba 2 cartas en su lugar.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11213,
+  "type": "monster",
+  "name": "Drago Pendulum Occhi Diversi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta combatte con un mostro dell'avversario, qualsiasi danno da combattimento che questa carta infligge al tuo avversario viene raddoppiato.",
+  "pendEffect": "Puoi ridurre a 0 il danno da combattimento che subisci da un attacco che coinvolge un Mostro Pendulum che controlli. Durante la tua End Phase: puoi distruggere questa carta e, se lo fai, aggiungi 1 Mostro Pendulum con ATK 1500 o inferiore dal tuo Deck alla tua mano. Puoi utilizzare ogni Effetto Pendulum di \"Drago Pendulum Occhi Diversi\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

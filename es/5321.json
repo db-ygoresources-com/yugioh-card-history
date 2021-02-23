@@ -1,0 +1,16 @@
+{
+  "id": 5321,
+  "type": "monster",
+  "name": "Guardia Misterioso",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Selecciona 1 monstruo boca arriba en el Campo y, si controlas un monstruo Guerrero boca arriba, puedes seleccionar 1 monstruo adicional boca arriba en el Campo; pon el primer objetivo en la parte superior del Deck, y después devuelve a la mano el segundo objetivo (si lo hay) si todavía controlas un monstruo Guerrero boca arriba.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11724,
+  "type": "monster",
+  "name": "Raidraptor - Faucon Révolutionnaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres de Type Bête Ailée de Niveau 6\nVous pouvez détacher 1 Matériel Xyz de cette carte ; ce tour, cette carte peut attaquer une fois tous les monstres contrôlés par votre adversaire. Au début de la Damage Step, si cette carte combat un monstre face recto Invoqué Spécialement de votre adversaire : l'ATK/DEF du monstre deviennent 0. Si cette carte a un Monstre Xyz \"Raidraptor\" comme Matériel Xyz, elle gagne cet effet.\n●Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et si vous le faites, infligez des dommages à votre adversaire égaux à la moitié de l'ATK que le monstre avait sur le Terrain.",
+  "rank": 6,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Bête Ailée",
+    "Xyz",
+    "Effet"
+  ]
+}

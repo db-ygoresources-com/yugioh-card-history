@@ -1,0 +1,15 @@
+{
+  "id": 6745,
+  "type": "monster",
+  "name": "Sauveteuroid",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que cette carte est face recto sur votre Terrain, lorsqu'un monstre sur votre Terrain qui inclut \"roid\" dans son nom de carte est détruit à l'issue d'un combat et envoyé au Cimetière, vous pouvez renvoyer ce monstre dans la main.",
+  "level": 6,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

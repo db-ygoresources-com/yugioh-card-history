@@ -1,0 +1,15 @@
+{
+  "id": 14409,
+  "type": "monster",
+  "name": "Madame Verre, Artisanesorcière",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant le calcul des dommages, si votre monstre Magicien combat un monstre de l'adversaire (Effet Rapide) : vous pouvez révéler un nombre de votre choix de Magies de noms différents dans votre main, et si vous le faites, votre monstre combattant gagne 1000 ATK/DEF pour chaque carte révélée, jusqu'à la fin de ce tour. (Effet Rapide) : vous pouvez défausser 1 Magie ; jusqu'à la fin de ce tour, annulez les effets de tous les monstres face recto actuellement contrôlés par votre adversaire. Vous ne pouvez utiliser chaque effet de \"Madame Verre, Artisanesorcière\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

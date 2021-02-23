@@ -1,0 +1,15 @@
+{
+  "id": 8796,
+  "type": "monster",
+  "name": "Feenbogenschütze",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während deiner Main Phase kannst du deinem Gegner 400 Schaden für jedes offene LICHT Monster zufügen, das du kontrollierst. Diese Karte kann nicht in dem Spielzug angreifen, in dem du diesen Effekt aktivierst. Pro Spielzug kann nur der Effekt von einem „Feenbogenschütze“ aktiviert werden.",
+  "level": 3,
+  "atk": 1400,
+  "def": 600,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

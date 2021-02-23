@@ -1,0 +1,16 @@
+{
+  "id": 8000,
+  "type": "monster",
+  "name": "トラップ・リアクター・RR",
+  "nameRuby": "トラップ・リアクター・ダブルアール",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "１ターンに１度、相手が罠カードを発動した時に発動できる。その罠カードを破壊し、相手ライフに８００ポイントダメージを与える。",
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "機械族",
+    "効果"
+  ]
+}

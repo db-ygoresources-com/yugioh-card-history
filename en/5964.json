@@ -1,0 +1,15 @@
+{
+  "id": 5964,
+  "type": "monster",
+  "name": "Blowback Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn: You can target 1 card your opponent controls; toss a coin 3 times and destroy that target if at least 2 of the results are heads.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

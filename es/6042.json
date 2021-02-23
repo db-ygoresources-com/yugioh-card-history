@@ -1,0 +1,16 @@
+{
+  "id": 6042,
+  "type": "monster",
+  "name": "Asaltante Nocturno",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Selecciona 1 monstruo que controle tu adversario; destruye ese objetivo.\nCuando esta carta es mandada de la mano al Cementerio: selecciona 1 monstruo de Volteo en tu Cementerio, excepto esta carta; devuelve ese objetivo a la mano.",
+  "level": 3,
+  "atk": 200,
+  "def": 500,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12429,
+  "type": "monster",
+  "name": "Esfinge Trirámide",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial con el efecto de una carta \"Trirámide\" y no puede ser Invocada de Modo Especial de otra forma. Si una o más cartas \"Trirámide\" boca arriba que controlas (excepto \"Esfinge Trirámide\") son destruidas en batalla o por el efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano. Mientras controles otra carta \"Trirámide\", esta carta gana 500 ATK y DEF por cada Carta Mágica de Campo con nombre diferente en tu Cementerio, y además los monstruos que controle tu adversario no pueden atacar, excepto para atacar a \"Esfinge Trirámide\"",
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

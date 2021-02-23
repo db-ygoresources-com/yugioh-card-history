@@ -1,0 +1,16 @@
+{
+  "id": 11313,
+  "type": "monster",
+  "name": "Maskierter HELD Dunkles Gesetz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Muss mit „Maskenwechsel“ als Spezialbeschwörung beschworen werden. Jede Karte, die auf den Friedhof deines Gegners gelegt wird, wird stattdessen verbannt. Einmal pro Spielzug, falls dein Gegner seiner Hand eine oder mehr Karten von seinem Deck hinzufügt (außer während der Draw Phase oder des Damage Steps): Du kannst 1 zufällige Karte von der Hand deines Gegners verbannen.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

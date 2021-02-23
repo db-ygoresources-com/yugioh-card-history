@@ -1,0 +1,16 @@
+{
+  "id": 10479,
+  "type": "monster",
+  "name": "Sternenstaub-Funkendrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 offene Karte wählen, die du kontrollierst; einmal während dieses Spielzugs kann sie weder durch Kampf noch durch Karteneffekte zerstört werden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

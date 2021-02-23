@@ -1,0 +1,15 @@
+{
+  "id": 14264,
+  "type": "monster",
+  "name": "Dame de la Néo Cloche de Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "(Effet Rapide) : vous pouvez envoyer 1 monstre FEU depuis votre main au Cimetière, puis ciblez 1 carte dans le Cimetière de votre adversaire ; bannissez la carte. Si une carte est bannie depuis le Cimetière de votre adversaire, tant que vous contrôlez ce monstre (sauf durant la Damage Step) : vous pouvez envoyer 1 monstre FEU avec max. 200 DEF (\"Dame de la Néo Cloche de Feu\" exclu) depuis votre Deck au Cimetière. Vous ne pouvez utiliser chaque effet de \"Dame de la Néo Cloche de Feu\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

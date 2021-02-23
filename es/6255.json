@@ -1,0 +1,15 @@
+{
+  "id": 6255,
+  "type": "monster",
+  "name": "Abare Ushioni",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Lanza una moneda y elige cara o cruz. Si aciertas, inflige 1000 puntos de daño a los Life Points de tu adversario. Si fallas, recibes 1000 puntos de daño. Sólo puedes usar este efecto una vez por turno, durante tu Main Phase.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

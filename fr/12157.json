@@ -1,0 +1,16 @@
+{
+  "id": 12157,
+  "type": "monster",
+  "name": "Hagoita Grande Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nDurant le tour de chaque joueur : vous pouvez Sacrifier cette carte ; jusqu'à la fin de ce tour, augmentez le Niveau de tous les monstres actuellement sur le Terrain de 1. Si cette carte est dans votre Cimetière et que vous contrôlez un monstre Syntoniseur \"Vitesseroid\" : vous pouvez Invoquer Spécialement cette carte, et aussi, le reste de ce tour, vous ne pouvez pas Invoquer Spécialement de monstres (monstres VENT exclus). Vous ne pouvez utiliser cet effet de \"Hagoita Grande Vitesseroid\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

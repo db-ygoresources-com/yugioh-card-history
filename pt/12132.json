@@ -1,0 +1,18 @@
+{
+  "id": 12132,
+  "type": "monster",
+  "name": "Dinonévoa Estegossaur",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Se outro Monstro Pêndulo que você controla batalhar um monstro do oponente, depois do cálculo de dano: você pode destruir esses monstros.",
+  "pendEffect": "Se outro(s) card(s) \"Dinonévoa\" que você controla seria(m) destruído(s) em batalha ou por um efeito de card do oponente, em vez disso, você pode destruir este card.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

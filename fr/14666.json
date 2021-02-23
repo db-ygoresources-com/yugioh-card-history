@@ -1,0 +1,21 @@
+{
+  "id": 14666,
+  "type": "monster",
+  "name": "Salamangrande Phénix Pyro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2+ Monstres à Effet FEU\nSi cette carte est Invoquée par Lien en utilisant \"Salamangrande Phénix Pyro\" comme Matériel : vous pouvez détruire toutes les cartes contrôlées par votre adversaire. Vous ne pouvez utiliser chacun des effets suivants de \"Salamangrande Phénix Pyro\" qu'une fois par tour.\n●Vous pouvez cibler 1 Monstre Lien dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur le Terrain de votre adversaire.\n●Si un ou plusieurs Monstres Lien sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres ; infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

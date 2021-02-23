@@ -1,0 +1,16 @@
+{
+  "id": 14013,
+  "type": "monster",
+  "name": "Devota de Nephtys",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Renacer de Nephtys\". Sólo puedes usar cada uno de los siguientes efectos de \"Devota de Nephtys\" una vez por turno.\n●Si esta carta es Invocada por Ritual: puedes activar este efecto; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Nephtys\", y además durante la End Phase de este turno, destruye esta carta.\n●Si esta carta está en el Cementerio: puedes destruir 1 carta \"Nephtys\" en tu mano y, si lo haces, Invoca esta carta de Modo Especial.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

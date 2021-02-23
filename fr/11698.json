@@ -1,0 +1,18 @@
+{
+  "id": 11698,
+  "type": "monster",
+  "name": "Zefranoyau Marionnette de l'Ombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée par Pendulation ou envoyée au Cimetière : vous pouvez cibler 1 carte \"Zefra\" (\"Zefranoyau Marionnette de l'Ombre\" exclu) dans votre Zone Pendule ; Invoquez-la Spécialement. Vous ne pouvez utiliser cet effet de \"Zefranoyau Marionnette de l'Ombre\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Marionnette de l'Ombre\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 450,
+  "def": 1950,
+  "properties": [
+    "Rocher",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12916,
+  "type": "monster",
+  "name": "Künstlerkumpel Himmelsschüler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers: Du kannst 1 „Künstlerkumpel“-Monster der Stufe 5 oder höher, das du kontrollierst, auf die Hand zurückgeben; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst diesen Effekt von „Künstlerkumpel Himmelsschüler“ nur einmal pro Spielzug verwenden. Falls diese Karte gegen ein Monster deines Gegners kämpft, bleiben die Effekte des Monsters bis zum Ende des Damage Steps annulliert. Vor der Schadensberechnung, falls diese Karte ein Monster deines Gegners angegriffen hat, solange du ein anderes „Künstlerkumpel“-Monster kontrollierst: Du kannst das Monster deines Gegners zerstören.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

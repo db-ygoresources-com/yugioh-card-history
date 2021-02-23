@@ -1,0 +1,16 @@
+{
+  "id": 6336,
+  "type": "monster",
+  "name": "Eria la Charmeuse d'Eau",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Ciblez 1 monstre EAU contrôlé par votre adversaire ; prenez le contrôle de la cible tant que cette carte est face recto sur le Terrain.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10758,
+  "type": "monster",
+  "name": "Mecha-Phantomungeheuer Reißzahnfalke",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte kann deinen Gegner nicht direkt angreifen. Falls du ein Monster in deinem Friedhof hast, das kein „Mecha-Phantomungeheuer“-Monster ist, kann diese Karte nicht angreifen. Die Stufe dieser Karte wird um die gemeinsame Stufe aller „Mecha-Phantomungeheuer-Spielmarken“ erhöht, die du kontrollierst. Solange du eine Spielmarke kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden. Einmal pro Spielzug: Du kannst 1 Spielmarke als Tribut anbieten und dann 1 Karte im Friedhof eines beliebigen Spielers wählen; verbanne das gewählte Ziel.",
+  "level": 4,
+  "atk": 2100,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

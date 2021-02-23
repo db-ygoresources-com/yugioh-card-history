@@ -1,0 +1,15 @@
+{
+  "id": 9632,
+  "type": "monster",
+  "name": "Aufzieh-Jongleur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Nach der Schadensberechnung, falls diese Karte gegen ein Monster deines Gegners gekämpft hat: Du kannst das Monster deines Gegners zerstören. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

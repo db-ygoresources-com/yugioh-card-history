@@ -1,0 +1,15 @@
+{
+  "id": 11339,
+  "type": "monster",
+  "name": "Shopina la Maestria de la Musique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre LUMIÈRE de Type Elfe dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez pas activer des effets de monstre non-LUMIÈRE durant le tour où vous activez cet effet.",
+  "level": 7,
+  "atk": 2300,
+  "def": 1700,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

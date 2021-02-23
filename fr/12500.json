@@ -1,0 +1,15 @@
+{
+  "id": 12500,
+  "type": "monster",
+  "name": "Gadget Argent",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre Machine de Niveau 4 depuis votre main. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Gadget\" de Niveau 4 (\"Gadget Argent\" exclu) depuis votre Deck. Vous ne pouvez utiliser qu'1 effet de \"Gadget Argent\" par tour, et uniquement une fois le tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

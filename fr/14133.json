@@ -1,0 +1,19 @@
+{
+  "id": 14133,
+  "type": "monster",
+  "name": "Hiita la Charmeuse de Feu en Flammes",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres (un monstre FEU inclus)\n(Cette carte est toujours traitée comme une carte \"Familier Possédé\".)\nVous pouvez cibler 1 monstre FEU dans le Cimetière de votre adversaire ; Invoquez-le Spécialement dans votre zone pointée par cette carte. Si cette carte Invoquée par Lien est détruite au combat, ou détruite par un effet de carte de l'adversaire tant qu'elle est dans la Zone Monstre de son propriétaire : vous pouvez ajouter 1 monstre FEU avec max. 1500 DEF depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Hiita la Charmeuse de Feu en Flammes\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13214,
+  "type": "monster",
+  "name": "Déhanché Mach F.A.",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Gagne une ATK égale à son Niveau x 300. Non affectée par les effets activés d'un monstre de l'adversaire dont le Niveau/Rang d'origine est inférieur au Niveau de cette carte. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Si cette carte est min. Niveau 7, les cartes envoyées au Cimetière de votre adversaire sont bannies à la place.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

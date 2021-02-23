@@ -1,0 +1,16 @@
+{
+  "id": 8113,
+  "type": "monster",
+  "name": "웜 오페라",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "리버스 : \"웜\"이라는 이름이 붙은 파충류족 몬스터 이외의, 필드 위에 앞면 표시로 존재하는 모든 몬스터의 공격력은 500 포인트 내린다.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "파충류족",
+    "리버스",
+    "효과"
+  ]
+}

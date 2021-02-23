@@ -1,0 +1,18 @@
+{
+  "id": 13863,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Intermezzo Comico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non subisci danno da combattimento da attacchi che coinvolgono questa carta. Una volta per turno, durante la tua Standby Phase: dai il controllo di questa carta al tuo avversario. Una volta per turno, se il controllo di questa carta scoperta cambia: attiva questo effetto; il proprietario di questa carta può distruggere 1 Magia \"Sceneggiatura dell'Abisso\" Posizionata nella sua Zona Magie & Trappole.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 Mostro Pendulum \"Attore dell'Abisso\" che controlli e 1 mostro controllato dal tuo avversario; scambia il controllo di quei mostri, poi distruggi questa carta. Puoi utilizzare questo effetto di \"Attore dell'Abisso - Intermezzo Comico\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14586,
+  "type": "monster",
+  "name": "Fléau Malveillant, HÉROS du Mal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"HÉROS du Mal\" + 1 monstre de min. Niveau 5\nUniquement Invocable Spécialement avec \"Fusion des Ténèbres\". Non destructible ni au combat ni par des effets de carte. Durant votre Main Phase : vous pouvez détruire tous les monstres contrôlés par votre adversaire avec une ATK inférieure ou égale à celle de cette carte, et aussi, cette carte gagne 200 ATK pour chaque monstre détruit de cette façon, et aussi, vous ne pouvez pas déclarer d'attaque (sauf avec des monstres \"HÉROS\") le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Fléau Malveillant, HÉROS du Mal\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

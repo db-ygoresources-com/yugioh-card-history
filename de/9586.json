@@ -1,0 +1,16 @@
+{
+  "id": 9586,
+  "type": "monster",
+  "name": "Laval-Coatl",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du 3 oder mehr „Laval“-Monster mit unterschiedlichen Namen in deinem Friedhof hast, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.",
+  "level": 2,
+  "atk": 1300,
+  "def": 700,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

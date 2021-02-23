@@ -1,0 +1,18 @@
+{
+  "id": 12302,
+  "type": "monster",
+  "name": "Amórfago Pereza",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Ningún jugador puede Invocar monstruos de Modo Especial desde el Deck Extra, excepto monstruos \"Amórfago/a\".",
+  "pendEffect": "Mientras controles un monstruo \"Amórfago/a\", ningún jugador puede añadir a su mano cartas en su Deck excepto robándolas. Una vez por turno, durante tu Standby Phase, Sacrifica 1 monstruo o destruye esta carta.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2250,
+  "def": 0,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

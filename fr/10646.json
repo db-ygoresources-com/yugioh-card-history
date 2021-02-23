@@ -1,0 +1,16 @@
+{
+  "id": 10646,
+  "type": "monster",
+  "name": "Claíomh Solais Oiseau de Brume",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nUne fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; son ATK devient 0, et si elle le devient, ses effets sont annulés. Ces changements durent jusqu'à la fin de ce tour.\"",
+  "level": 3,
+  "atk": 0,
+  "def": 2300,
+  "properties": [
+    "Bête Ailée",
+    "Synchro",
+    "Effet"
+  ]
+}

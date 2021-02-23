@@ -1,0 +1,18 @@
+{
+  "id": 13141,
+  "type": "monster",
+  "name": "Twilight Ninja Jogen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You can reveal 1 \"Ninjitsu Art\" card in your hand; Special Summon this card from your hand. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "pendEffect": "If your \"Ninja\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}

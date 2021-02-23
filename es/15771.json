@@ -1,0 +1,8 @@
+{
+  "id": 15771,
+  "type": "trap",
+  "name": "Cañón de Ecuación Lineal",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Durante la Battle Phase: declara un número entero de 1 a 6; elige 1 Monstruo de Efecto que controle tu adversario. Multiplica el Nivel del Monstruo de Efecto x el número declarado, y después suma el número de cartas que controla tu adversario, y comprueba si el resultado es igual al número de cartas en tu Cementerio.\n●Si es así: Manda al Cementerio cartas en la parte superior de tu Deck, hasta el número declarado y, si lo haces, baraja al Deck cartas que tu adversario controle, hasta el número de mandadas al Cementerio.\n●Si no es así: Pierdes LP iguales al número declarado x 500.\nSólo puedes activar 1 \"Cañón de Ecuación Lineal\" por turno."
+}

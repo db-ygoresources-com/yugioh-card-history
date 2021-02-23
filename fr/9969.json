@@ -1,0 +1,16 @@
+{
+  "id": 9969,
+  "type": "monster",
+  "name": "Guerrier Gravité",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nLorsque cette carte est Invoquée par Synchronisation : elle gagne 300 ATK pour chaque monstre face recto contrôlé par votre adversaire. Une fois par tour, durant la Battle Phase de votre adversaire : vous pouvez cibler 1 monstre en Position de Défense contrôlé par votre adversaire ; changez-le en Position d'Attaque face recto, et si possible, il doit aussi attaquer ce tour.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

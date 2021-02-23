@@ -1,0 +1,18 @@
+{
+  "id": 11441,
+  "type": "monster",
+  "name": "D/D Sapiente Galileo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante il turno di qualsiasi giocatore: puoi scartare questa carta, poi scegliere come bersaglio 1 carta \"D/D\" o \"Contratto Oscuro\" che controlli; falla ritornare nella mano. Puoi utilizzare questo effetto di \"D/D Sapiente Galileo\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"D/D\". Questo effetto non può essere annullato. Una volta per turno, durante la tua Standby Phase: aumenta il Valore Pendulum di questa carta di 2 (massimo 10), poi distruggi tutti i mostri che controlli con Livello pari o inferiore al Valore Pendulum di questa carta, eccetto i mostri \"D/D\".",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

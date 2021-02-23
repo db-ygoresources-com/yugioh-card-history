@@ -1,0 +1,18 @@
+{
+  "id": 12919,
+  "type": "monster",
+  "name": "Artistamico Drago Moneta",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Gli altri mostri di Tipo Drago che controlli guadagnano 500 ATK, inoltre non possono essere distrutti dagli effetti delle carte.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro di Tipo Drago che controlli che è stato Evocato Specialmente dall'Extra Deck; in questo turno, se quel mostro che controlli combatte con un mostro dell'avversario, bandisci quel mostro dell'avversario dopo il calcolo dei danni (anche se questa carta lascia il Terreno).",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

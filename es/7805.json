@@ -1,0 +1,15 @@
+{
+  "id": 7805,
+  "type": "monster",
+  "name": "Sabio Neos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta no puede ser Invocada de Modo Especial excepto mandando al Cementerio 1 \"HÉROE Elemental Neos\" boca arriba y 1 \"Yubel\" boca arriba (tienes que controlar a ambos). Esta carta no puede ser destruida por efectos de cartas. Si esta carta batalla con un monstruo de tu adversario, al final del Damage Step inflige daño a tu adversario igual al ATK del monstruo con el que batalló, y gana Life Points iguales a la DEF de ese monstruo.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

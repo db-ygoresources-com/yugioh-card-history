@@ -1,0 +1,16 @@
+{
+  "id": 10216,
+  "type": "monster",
+  "name": "Numéro 40 : Poupée Truquée de Cordes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 8\nUne fois par tour : vous pouvez détacher 1 Matériel de cette carte ; placez 1 Compteur Corde sur chaque monstre face recto sur le Terrain (cette carte exclue). Une fois par tour, durant la prochaine End Phase de l'adversaire du joueur qui a placé un ou plusieurs Compteurs Corde par cet effet : détruisez les monstres avec des Compteurs Corde, et si vous le faites, infligez 500 points de dommages à votre adversaire pour chaque monstre détruit.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

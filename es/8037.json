@@ -1,0 +1,16 @@
+{
+  "id": 8037,
+  "type": "monster",
+  "name": "Disparador Hiper Psíquico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante + 1 o más monstruos de Tipo Psíquico que no sean Cantantes\nSi esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. Al final del Damage Step, si esta carta atacó a un monstruo en Posición de Defensa y la DEF de ese monstruo es menor que el ATK de esta carta (usa los valores originales si el otro monstruo ya no está en el Campo): gana LP iguales al excedente.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Psíquico",
+    "Sincronía",
+    "Efecto"
+  ]
+}

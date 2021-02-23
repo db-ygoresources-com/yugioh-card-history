@@ -1,0 +1,16 @@
+{
+  "id": 10701,
+  "type": "monster",
+  "name": "Numéro 54 : Cœur de Lion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"3 monstres de Niveau 1\nCette carte en Position d'Attaque face recto ne peut pas être détruite au combat. Lorsque vous recevez des dommages de combat de combats impliquant cette carte : infligez des dommages à votre adversaire égaux au montant des dommages de combat que vous avez reçus. Si cette carte combat un monstre de votre adversaire, durant le calcul des dommages (du tour de chaque joueur) : vous pouvez détacher 1 Matériel Xyz de cette carte ; votre adversaire reçoit tous les dommages de combat que vous auriez dû recevoir de ce combat.\"",
+  "rank": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

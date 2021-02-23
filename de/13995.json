@@ -1,0 +1,15 @@
+{
+  "id": 13995,
+  "type": "monster",
+  "name": "Walküre Brunhilde",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Bleibt von den Zaubereffekten deines Gegners unberührt. Erhält 500 ATK für jedes Monster, das dein Gegner kontrolliert. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte genau 1000 DEF verlieren lassen und falls du dies tust, können deine „Walküre“-Monster in diesem Spielzug nicht durch Kampf zerstört werden.",
+  "level": 7,
+  "atk": 1800,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

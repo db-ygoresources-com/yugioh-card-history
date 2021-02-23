@@ -1,0 +1,18 @@
+{
+  "id": 12134,
+  "type": "monster",
+  "name": "Dinonebel Pteran",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört: Du kannst deiner Hand 1 „Dinonebel“-Karte von deinem Deck hinzufügen.",
+  "pendEffect": "Falls eine oder mehr andere „Dinonebel“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5782,
+  "type": "monster",
+  "name": "Amo Oscuro - Zorc",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Contrato con el Señor Oscuro\". Una vez por turno: puedes lanzar un dado de seis caras, y después destruye todos los monstruos de tu adversario si salió 1 ó 2, destruye 1 monstruo que controle tu adversario si salió 3, 4 ó 5, o destruye todos los monstruos que controles si salió 6.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Efecto"
+  ]
+}

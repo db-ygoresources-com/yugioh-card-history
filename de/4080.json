@@ -1,0 +1,15 @@
+{
+  "id": 4080,
+  "type": "monster",
+  "name": "Riesen-Steinsoldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Ein Riesenkrieger aus Stein. Ein Schlag von dieser Kreatur erschüttert die Erde.",
+  "level": 3,
+  "atk": 1300,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Normal"
+  ]
+}

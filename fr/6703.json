@@ -1,0 +1,15 @@
+{
+  "id": 6703,
+  "type": "monster",
+  "name": "Homme-Batterie D",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tant que cette carte est face recto sur votre Terrain, votre adversaire ne peut pas sélectionner de monstre de Type Tonnerre sur votre Terrain comme cible d'une attaque (excepté \"Homme-Batterie D\").",
+  "level": 1,
+  "atk": 0,
+  "def": 1900,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14581,
+  "type": "monster",
+  "name": "Necrofear de Maldición",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por el efecto de una carta. Puedes seleccionar 3 de tus monstruos Demonio desterrados; Invoca esta carta de Modo Especial desde tu mano y, si lo haces, baraja esos monstruos desterrados al Deck. Durante la End Phase, si esta carta está en el Cementerio porque fue destruida en tu Zona de Monstruos por una carta del adversario y mandada ahí este turno: Invoca esta carta de Modo Especial desde tu Cementerio, y después puedes destruir hasta tantas cartas que controle tu adversario como el número de Mágicas/Trampas boca arriba que controles con nombres diferentes. Sólo puedes usar cada efecto de \"Necrofear de Maldición\" una vez por turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

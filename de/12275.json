@@ -1,0 +1,18 @@
+{
+  "id": 12275,
+  "type": "monster",
+  "name": "Künstlerkumpel Buntäugiger Licht-Phönix",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "(Schnelleffekt): Du kannst diese Karte als Tribut anbieten und dann 1 „Künstlerkumpel“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 1000 ATK.",
+  "pendEffect": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert, solange du eine Karte in deiner anderen Pendelzone hast: Du kannst die Karte in deiner anderen Pendelzone zerstören und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

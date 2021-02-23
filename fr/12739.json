@@ -1,0 +1,18 @@
+{
+  "id": 12739,
+  "type": "monster",
+  "name": "Faiseur de Rire Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte déclare une attaque : jusqu'à la fin de la Battle Phase, vous pouvez faire gagner 1000 ATK à cette carte pour chaque monstre sur le Terrain dont l'ATK actuelle est supérieure à son ATK d'origine (autres monstres que vous contrôlez exclus). Si cette carte est détruite au combat ou par un effet de carte tant que son ATK actuelle est supérieure à son ATK d'origine : vous pouvez cibler 1 monstre dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser qu'1 effet de monstre \"Faiseur de Rire Potartiste\" par tour, et uniquement une fois le tour.",
+  "pendEffect": "Une fois par tour, si votre adversaire contrôle un monstre dont l'ATK actuelle est supérieure à son ATK d'origine : vous pouvez gagner 1000 LP.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

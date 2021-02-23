@@ -1,0 +1,16 @@
+{
+  "id": 12582,
+  "type": "monster",
+  "name": "A-Nucleo d'Assalto",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, puoi: scegliere come bersaglio 1 mostro LUCE Macchina che controlli; equipaggia questa carta a quel bersaglio, OPPURE: disequipaggiare questa carta ed Evocarla Specialmente. Un mostro equipaggiato con questa carta è immune agli effetti dei mostri del tuo avversario (eccetto i suoi stessi), inoltre, se il mostro equipaggiato sta per essere distrutto in battaglia o dall'effetto di una carta, distruggi invece questa carta. Se questa carta viene mandata dal Terreno al Cimitero: puoi aggiungere 1 altro mostro Unione dal tuo Cimitero alla tua mano.",
+  "level": 4,
+  "atk": 1900,
+  "def": 200,
+  "properties": [
+    "Macchina",
+    "Unione",
+    "Effetto"
+  ]
+}

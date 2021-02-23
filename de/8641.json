@@ -1,0 +1,15 @@
+{
+  "id": 8641,
+  "type": "monster",
+  "name": "Häcksler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster vom Typ Maschine von deiner Hand auf den Friedhof legen und dann 1 Monster wählen, das dein Gegner kontrolliert und dessen Stufe kleiner oder gleich der des auf den Friedhof gelegten Monsters ist; zerstöre das gewählte Ziel.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

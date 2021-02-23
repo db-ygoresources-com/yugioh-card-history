@@ -1,0 +1,15 @@
+{
+  "id": 13520,
+  "type": "monster",
+  "name": "Archivador de Mar",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si un monstruo es Invocado de Modo Normal o Especial a una zona a la que apunte un Monstruo de Enlace (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Cementerio (si ésta estaba ahí cuando se resolvió la Invocación) o mano (aun si no lo estaba), pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de \"Archivador de Mar\" una vez por turno.",
+  "level": 3,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

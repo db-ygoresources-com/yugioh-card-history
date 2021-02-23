@@ -1,0 +1,19 @@
+{
+  "id": 13132,
+  "type": "monster",
+  "name": "D/D/D Armagedom Brilhante, o Super Rei do Fim",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 Regulador \"D/D\" + 1+ monstros \"D/D/D\" não-Reguladores\nSeu oponente não pode escolher monstros que você controla como alvo de efeitos de card. Se outro monstro for Invocado por Invocação-Normal ou Especial enquanto este monstro estiver no campo (exceto durante a Etapa de Dano): você pode fazer com que seu oponente selecione 1 Monstro Pêndulo que ele controla e todos os outros monstros que ele controla atualmente têm seus efeitos negados. Se este card na sua Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno, quando um monstro do oponente declarar um ataque: você pode escolher 1 Monstro Sincro \"D/D/D\" que você controla; destrua tantos monstros que seu oponente controla quanto possível com DEF menor ou igual ao ATK do monstro alvo e, se isso acontecer, cause 1000 de dano ao seu oponente para cada monstro destruído.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demônio",
+    "Sincro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8182,
+  "type": "monster",
+  "name": "Maestro Rampone",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, puoi pagare 1000 Life Points per distruggere un numero di mostri controllati dal tuo avversario pari al numero di mostri di Tipo Psichico scoperti che controlli.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1400,
+  "properties": [
+    "Psichico",
+    "Effetto"
+  ]
+}

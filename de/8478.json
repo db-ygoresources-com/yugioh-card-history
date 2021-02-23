@@ -1,0 +1,16 @@
+{
+  "id": 8478,
+  "type": "monster",
+  "name": "Schwarzer Brutdrago",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger-Monster + 1 oder mehr Nicht-Empfänger-Zwillingsmonster\nEinmal pro Spielzug kannst du 1 Zwillingsmonster von deiner Hand auf den Friedhof legen, um 1 Zauber- oder Fallenkarte, die dein Gegner kontrolliert, zu wählen und zu zerstören. Wenn diese Karte zerstört und auf den Friedhof gelegt wird, kannst du 1 Zwillingsmonster in deinem Friedhof wählen und als Spezialbeschwörung beschwören. Das als Spezialbeschwörung beschworene Zwillingsmonster wird als Effektmonster behandelt und erhält seinen Effekt.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

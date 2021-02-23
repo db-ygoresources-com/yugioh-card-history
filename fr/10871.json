@@ -1,0 +1,15 @@
+{
+  "id": 10871,
+  "type": "monster",
+  "name": "Goule Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Une fois par tour, durant votre Main Phase 1 : vous pouvez cibler 1 monstre \"Fantôruse\" que vous contrôlez ; jusqu'à la fin du prochain tour de votre adversaire, son ATK devient égale à la somme des ATK d'origine de tous les monstres \"Fantôruse\" actuellement sur le Terrain, mais si elle le devient, seul le monstre peut attaquer ce tour.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

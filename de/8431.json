@@ -1,0 +1,16 @@
+{
+  "id": 8431,
+  "type": "monster",
+  "name": "Phönix-Gerfried",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Falls dein Gegner eine Zauberkarte aktiviert: Du kannst 1 Zwillingsmonster in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Während des Spielzugs eines beliebigen Spielers, wenn eine Zauber-/Fallenkarte aktiviert wird, die ein oder mehr Monster auf dem Spielfeld als Ziel wählt: Du kannst 1 offene Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre sie.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Krieger",
+    "Zwilling",
+    "Effekt"
+  ]
+}

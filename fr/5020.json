@@ -1,0 +1,15 @@
+{
+  "id": 5020,
+  "type": "monster",
+  "name": "Patricien des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous choisissez la cible de l'attaque des attaques de votre adversaire.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1400,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11701,
+  "type": "monster",
+  "name": "Zefrasable, Maestro de la Espada de los Necroz",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Sacrificar esta carta en tu mano o boca arriba en tu lado del Campo; Sacrifica monstruos de tu mano o Campo, y después Invoca por Ritual, desde tu mano, 1 Monstruo de Ritual \"Necroz\" cuyo Nivel sea exactamente igual a los Niveles totales de esos monstruos. Sólo puedes usar este efecto de \"Zefrasable, Maestro de la Espada de los Necroz\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Necroz\" y \"Zefra\". Este efecto no puede ser negado.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

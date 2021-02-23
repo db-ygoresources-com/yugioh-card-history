@@ -1,0 +1,16 @@
+{
+  "id": 8434,
+  "type": "monster",
+  "name": "Soldat Gémeau",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ●Une fois par tour, si cette carte doit être détruite au combat, elle n'est pas détruite. Si cette carte combat, après le calcul des dommages, vous pouvez Invoquer Spécialement 1 monstre Gémeau de Niveau 4 ou moins depuis votre Deck, excepté \"Soldat Gémeau\".",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Guerrier",
+    "Gémeau",
+    "Effet"
+  ]
+}

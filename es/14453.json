@@ -1,0 +1,15 @@
+{
+  "id": 14453,
+  "type": "monster",
+  "name": "Dragón DMZ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo Dragón de Nivel 4 o menor en tu Cementerio y 1 monstruo Dragón que controles; equipa ese monstruo en tu Cementerio a ese monstruo en el Campo como una Mágica de Equipo que le haga ganar 500 ATK. Al final del Damage Step, si tu monstruo equipado con una Carta de Equipo atacó: puedes desterrar esta carta en tu Cementerio; destruye tantas cartas como sea posible equipadas a ese monstruo que controlas y, si lo haces, ese monstruo puede hacer un segundo ataque inmediatamente después.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

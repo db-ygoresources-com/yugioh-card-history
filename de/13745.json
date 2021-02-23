@@ -1,0 +1,16 @@
+{
+  "id": 13745,
+  "type": "monster",
+  "name": "Ruin, Oberste Königin des Vergessens",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Zyklus der Welt“ als Ritualbeschwörung beschwören. Der Name dieser Karte wird zu „Ruin, Königin des Vergessens“, solange sie sich in der Hand oder auf dem Spielfeld befindet. Solange diese als Ritualbeschwörung beschworene Karte auf dem Spielfeld liegt, können Ritualmonster, die du kontrollierst, nicht durch Karteneffekte zerstört werden. Falls alle Monster, die verwendet wurden, um diese Karte als Ritualbeschwörung zu beschwören, Ritualmonster waren, kann sie während jeder Battle Phase einen zweiten Angriff durchführen. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst deinem Gegner Schaden in Höhe der Grund-ATK des zerstörten Monsters zufügen.",
+  "level": 10,
+  "atk": 2900,
+  "def": 3000,
+  "properties": [
+    "Fee",
+    "Ritual",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5962,
+  "type": "monster",
+  "name": "Ciseaux Des KA-2",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte détruit à l'issue d'un combat un monstre et l'envoie au Cimetière, infligez aux Life Points de votre adversaire des dommages égaux au Niveau du monstre détruit x 500 points.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12150,
+  "type": "monster",
+  "name": "Zany Zebra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is Normal or Special Summoned: You can choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is face-up in the Monster Zone, that Zone cannot be used.",
+  "pendEffect": "Once per turn, during your Main Phase, if this card was activated this turn: You can choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is in the Pendulum Zone, that chosen Zone cannot be used.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

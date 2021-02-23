@@ -1,0 +1,16 @@
+{
+  "id": 8581,
+  "type": "monster",
+  "name": "Gerümpelbogenschütze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "„Gerümpelsynchronisierer“ + 1 oder mehr Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; verbanne es. Während der End Phase dieses Spielzugs, lege es in derselben Kampfposition auf die Spielfeldseite deines Gegners zurück.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11433,
+  "type": "monster",
+  "name": "P.E. Ravisseur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte détruit un monstre au combat : vous pouvez cibler 1 Monstre Pendule dans votre Cimetière ; ajoutez-le à votre main.",
+  "pendEffect": "Lorsque vous Invoquez par Pendulation un ou plusieurs monstres de Type Zombie : vous pouvez activer cet effet ; ce tour, il ne peut être détruit ni au combat ni par des effets de carte.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Pendule",
+    "Effet"
+  ]
+}

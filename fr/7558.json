@@ -1,0 +1,15 @@
+{
+  "id": 7558,
+  "type": "monster",
+  "name": "Gaia, Géant de Terre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte en retirant du jeu 2 monstres de Type Rocher depuis votre Cimetière. Durant votre Standby Phase, retirez du jeu 1 monstre de Type Rocher dans votre Cimetière, ou envoyez cette carte au Cimetière. Divisez par deux l'ATK et la DEF de tous les monstres qui combattent cette carte.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

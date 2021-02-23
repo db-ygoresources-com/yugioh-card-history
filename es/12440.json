@@ -1,0 +1,15 @@
+{
+  "id": 12440,
+  "type": "monster",
+  "name": "Grúa Panda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, durante la Standby Phase: puedes pagar 500 LP; manda al Cementerio la carta de la parte superior de tu Deck, y, si lo haces, si era un monstruo, esta carta gana ATK y DEF igual al Nivel de ese monstruo x 200. Si esta carta en tu posesión es destruida por una carta de tu adversario (en batalla o por efecto de una carta) y mandada a tu Cementerio: puedes añadir a tu mano 1 monstruo con el Nivel más bajo en tu Cementerio (si hay empate, eliges tú).",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

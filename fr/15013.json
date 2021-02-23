@@ -1,0 +1,15 @@
+{
+  "id": 15013,
+  "type": "monster",
+  "name": "Harr, Boss Genèraideur des Tempêtes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Harr, Boss Genèraideur des Tempêtes\". Une fois par tour, si votre adversaire ajoute une ou plusieurs cartes depuis le Deck à sa main, sauf durant la Draw Phase (Effet Rapide) : vous pouvez faire envoyer à votre adversaire 1 monstre depuis sa main ou Terrain au Cimetière (son choix). Lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez Sacrifier 2 monstres \"Genèraideur\" et/ou Magicien ; annulez l'activation, et si vous le faites, détruisez la carte. Vous ne pouvez utiliser cet effet de \"Harr, Boss Genèraideur des Tempêtes\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

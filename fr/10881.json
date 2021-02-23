@@ -1,0 +1,16 @@
+{
+  "id": 10881,
+  "type": "monster",
+  "name": "Geargiagrenage Gigant XG",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "3 monstres de Niveau 3\nDurant la Battle Step de chaque joueur, tant qu'une attaque impliquant votre monstre de Type Machine a lieu : vous pouvez détacher 1 Matériel Xyz de cette carte ; annulez les effets de toutes les cartes face recto actuellement contrôlées par votre adversaire, et aussi, votre adversaire ne peut ni activer de cartes ni d'effets. Ces effets durent jusqu'à la fin de la Damage Step. Lorsque cette carte face recto quitte le Terrain : vous pouvez cibler 1 autre carte \"Geargia\" dans votre Cimetière ; ajoutez la cible à votre main.",
+  "rank": 3,
+  "atk": 2500,
+  "def": 1300,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

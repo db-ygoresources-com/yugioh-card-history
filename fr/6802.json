@@ -1,0 +1,15 @@
+{
+  "id": 6802,
+  "type": "monster",
+  "name": "Crâne Alien",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez sacrifier 1 monstre face recto de Niveau 3 ou moins sur le Terrain de votre adversaire pour faire l'Invocation Spéciale de cette carte sur le Terrain de votre adversaire. Si vous faites l'Invocation Spéciale de ce monstre de cette manière, placez 1 Compteur-A sur cette carte, et vous ne pouvez pas faire d'Invocation Normale ni de Pose ce même tour. (Si un monstre avec un Compteur-A combat un monstre qui inclut \"Alien\" dans son nom de carte, diminuez son ATK et sa DEF de 300 points pour chaque Compteur-A, durant le calcul des dommages uniquement.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14453,
+  "type": "monster",
+  "name": "DMZ Dragão",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno: você pode escolher 1 monstro Dragão de Nível 4 ou menos no seu Cemitério e 1 monstro Dragão que você controla; equipe esse monstro no seu Cemitério nesse monstro no campo como uma Magia de Equipamento que faz com que ele ganhe 500 de ATK. No final da Etapa de Dano, se um monstro seu equipado com um Card de Equipamento atacou: você pode banir este card do seu Cemitério; destrua tantos cards quanto possível equipados a esse monstro que você controla e, se isso acontecer, esse monstro pode realizar um segundo ataque em seguida.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

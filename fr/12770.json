@@ -1,0 +1,15 @@
+{
+  "id": 12770,
+  "type": "monster",
+  "name": "Animal Féérique - Rillon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Aucun joueur ne peut cibler de monstres sur le Terrain (celui-ci exclu) avec des Cartes Magie ou effets de Magie. Une fois par tour : vous pouvez défausser 1 Magie ; équipez 1 Magie d'Équipement depuis votre main, Deck ou Cimetière à cette carte, mais renvoyez la Magie d'Équipement à la main durant la End Phase.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

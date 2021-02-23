@@ -1,0 +1,19 @@
+{
+  "id": 13412,
+  "type": "monster",
+  "name": "Amministratore di Fiamme",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "2 mostri Cyberso\nTutti i Mostri Link che controlli guadagnano 800 ATK. Puoi controllare solo 1 \"Amministratore di Fiamme\".",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

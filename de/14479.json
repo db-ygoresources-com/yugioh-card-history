@@ -1,0 +1,16 @@
+{
+  "id": 14479,
+  "type": "monster",
+  "name": "Umdrehbarer Käfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Mische diese Karte und alle offenen Monster in ihrer Spalte in die Decks.\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Ändere diese Karte und alle Monster in ihrer Spalte in die verdeckte Verteidigungsposition. Du kannst jeden Effekt von „Umdrehbarer Käfer“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1500,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

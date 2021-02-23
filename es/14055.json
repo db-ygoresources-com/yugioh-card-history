@@ -1,0 +1,16 @@
+{
+  "id": 14055,
+  "type": "monster",
+  "name": "Tatsunecro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si este monstruo Invocado de Modo Normal/Colocado fuera a ser usado como Material de Sincronía, 1 monstruo en tu mano puede ser usado como 1 de los otros materiales. Si lo haces, todos los materiales para esa Invocación son desterrados en vez de ser mandados al Cementerio. No puedes Invocar monstruos de Modo Especial, excepto monstruos Zombi.",
+  "level": 3,
+  "atk": 500,
+  "def": 1700,
+  "properties": [
+    "Zombi",
+    "Cantante",
+    "Efecto"
+  ]
+}

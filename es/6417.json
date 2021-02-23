@@ -1,0 +1,15 @@
+{
+  "id": 6417,
+  "type": "monster",
+  "name": "Ciber Archidemonio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Al principio de tu Draw Phase, si no tienes cartas en tu mano, roba 1 carta más además de la que robas normalmente. Durante tu End Phase, si tienes 1 o más cartas en tu mano, destruye esta carta.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

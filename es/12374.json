@@ -1,0 +1,19 @@
+{
+  "id": 12374,
+  "type": "monster",
+  "name": "Artistamigo Momonfombra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Puedes seleccionar 1 carta Colocada en el Campo; destrúyela. Si esta carta es Invocada de Modo Especial: puedes cambiarla a Posición de Defensa boca abajo.",
+  "pendEffect": "A menos de que tengas una carta en tu otra Zona de Péndulo, destruye esta carta. Mientras esta carta esté en la Zona de Péndulo, cualquier daño de batalla que recibas se reduce a la mitad.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Volteo",
+    "Efecto"
+  ]
+}

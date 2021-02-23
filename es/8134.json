@@ -1,0 +1,15 @@
+{
+  "id": 8134,
+  "type": "monster",
+  "name": "Defensor, el Caballero Mágico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal: pon 1 Contador Mágico en ella (máx. 1). Una vez por turno, si uno o más monstruos Lanzador de Conjuros en el Campo fueran a ser destruidos, puedes, en su lugar, retirar 1 Contador Mágico de tu Campo por cada uno de esos monstruos.",
+  "level": 4,
+  "atk": 1600,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

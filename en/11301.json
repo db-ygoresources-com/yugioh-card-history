@@ -1,0 +1,18 @@
+{
+  "id": 11301,
+  "type": "monster",
+  "name": "Performapal Silver Claw",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When this card declares an attack: All \"Performapal\" monsters you currently control gain 300 ATK, until the end of the Battle Phase.",
+  "pendEffect": "All \"Performapal\" monsters you control gain 300 ATK.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

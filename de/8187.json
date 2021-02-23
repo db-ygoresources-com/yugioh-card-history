@@ -1,0 +1,16 @@
+{
+  "id": 8187,
+  "type": "monster",
+  "name": "Tiefseetaucher",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Seeschlange-Monster der Stufe 3 oder niedriger als Spezialbeschwörung von deinem Deck beschwören.",
+  "level": 2,
+  "atk": 200,
+  "def": 400,
+  "properties": [
+    "Seeschlange",
+    "Empfänger",
+    "Effekt"
+  ]
+}

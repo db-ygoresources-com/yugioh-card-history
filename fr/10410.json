@@ -1,0 +1,16 @@
+{
+  "id": 10410,
+  "type": "monster",
+  "name": "Loup Sinistre Diamant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 4\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre de Type Bête/Bête-Guerrier/Bête Ailée que vous contrôlez et 1 autre carte sur le Terrain ; détruisez-les.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Bête",
+    "Xyz",
+    "Effet"
+  ]
+}

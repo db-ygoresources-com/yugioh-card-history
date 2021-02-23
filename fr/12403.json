@@ -1,0 +1,15 @@
+{
+  "id": 12403,
+  "type": "monster",
+  "name": "Tapir Gonfleur Potartiste",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Durant le calcul des dommages (du tour de chaque joueur), si un monstre que vous contrôlez combat un monstre de votre adversaire : vous pouvez défausser cette carte ; aucun joueur ne reçoit de dommages de combat de ce combat. Lorsqu'un monstre de votre adversaire déclare une attaque directe tant que cette carte est dans votre Cimetière : vous pouvez défausser 1 monstre \"Potartiste\" ; Invoquez Spécialement cette carte en Position de Défense. Vous ne pouvez utiliser cet effet de \"Tapir Gonfleur Potartiste\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

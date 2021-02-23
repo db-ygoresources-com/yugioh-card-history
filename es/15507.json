@@ -1,0 +1,15 @@
+{
+  "id": 15507,
+  "type": "monster",
+  "name": "Swing de Cupido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si todos los monstruos que controlas son monstruos con 600 DEF (mín. 1): puedes Invocar esta carta de Modo Especial desde tu mano. (Efecto Rápido): puedes descartar 1 carta, y después seleccionar 1 monstruo Hada de LUZ que controles y 1 monstruo boca arriba en el Campo; hasta el final de este turno el Nivel de tu monstruo se convierte en el Nivel del otro monstruo. Sólo puedes usar cada efecto de \"Swing de Cupido\" una vez por turno.",
+  "level": 6,
+  "atk": 2200,
+  "def": 600,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

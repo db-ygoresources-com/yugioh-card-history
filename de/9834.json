@@ -1,0 +1,16 @@
+{
+  "id": 9834,
+  "type": "monster",
+  "name": "Kauknochen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Beschwöre 3 „Kauknochen Jr.-Spielmarken“ (Typ Zombie/ERDE/Stufe 1/ATK 100/DEF 300) als Spezialbeschwörung auf die Spielfeldseite deines Gegners in die Verteidigungsposition.",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Zombie",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5017,
+  "type": "monster",
+  "name": "Caballero Comandante",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Todos los monstruos Guerrero que controles ganan 400 ATK. Si controlas otro monstruo, los monstruos que controla tu adversario no pueden seleccionar esta carta para un ataque.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1900,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

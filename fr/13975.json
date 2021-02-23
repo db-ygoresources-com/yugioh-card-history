@@ -1,0 +1,18 @@
+{
+  "id": 13975,
+  "type": "monster",
+  "name": "Empereur du Chaos, le Dragon de l'Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main ou Extra Deck) en bannissant 1 monstre LUMIÈRE et 1 monstre TÉNÈBRES depuis votre Cimetière. Vous ne pouvez Invoquer Spécialement \"Empereur du Chaos, le Dragon de l'Armageddon\" qu'une fois par tour de cette façon. Une fois par tour : vous pouvez payer la moitié de vos LP ; envoyez autant de cartes que vous contrôlez que possible au Cimetière, sauf depuis la Zone Monstre Extra, et si vous le faites, envoyez un nombre de cartes contrôlées par votre adversaire au Cimetière, inférieur ou égal au nombre de vos cartes envoyées au Cimetière, puis, infligez 300 points de dommages à votre adversaire pour chaque carte envoyée à son Cimetière par l'effet de cette carte. Si cette carte face recto Invoquée Spécialement quitte le Terrain, renvoyez-la au-dessous du Deck.",
+  "pendEffect": "Vous pouvez payer 1000 LP, puis ciblez 1 de vos monstres Dragon bannis ; détruisez cette carte, et si vous le faites, ajoutez le monstre à votre main. Vous ne pouvez utiliser cet effet de \"Empereur du Chaos, le Dragon de l'Armageddon\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

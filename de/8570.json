@@ -1,0 +1,16 @@
+{
+  "id": 8570,
+  "type": "monster",
+  "name": "Verteidiger der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du ein anderes „Eisbarriere“-Monster kontrollierst, können Monster, die dein Gegner kontrolliert, keinen Angriff deklarieren, falls ihre ATK größer oder gleich den DEF dieser Karte sind.",
+  "level": 3,
+  "atk": 200,
+  "def": 1600,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10033,
+  "type": "monster",
+  "name": "Rebotador de la Hoja",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, si esta carta ataca y tu adversario controla un monstruo al final del Damage Step: puedes descartar 1 carta; esta carta puede atacar a un monstruo de tu adversario una vez más durante esta Battle Phase.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15279,
+  "type": "monster",
+  "name": "Melffy-Mami",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Ungeheuer-Monster der Stufe 2\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 Ungeheuer-Monster von deiner Hand oder offen von deiner Spielfeldseite als Material an diese Karte anhängen. Diese Karte erhält Effekte basierend auf der Anzahl des an sie angehängten Materials.\n●3+: Kann nicht durch Kampf zerstört werden.\n●4+: Du erhältst keinen Schaden aus Kämpfen, an denen diese Karte beteiligt ist.\n●5+: Wenn ein Angriff deklariert wird, an dem diese Karte und ein Monster in Angriffsposition beteiligt sind: Du kannst deinem Gegner Schaden in Höhe der ATK des Monsters in Angriffsposition zufügen.",
+  "rank": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Xyz",
+    "Effekt"
+  ]
+}

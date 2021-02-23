@@ -1,0 +1,15 @@
+{
+  "id": 13040,
+  "type": "monster",
+  "name": "Mago Ciberso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo del adversario en Posición de Ataque; cámbialo a Posición de Defensa y, si lo haces, por el resto de este turno tus monstruos no pueden atacar, excepto para atacar a ese monstruo, y si tu monstruo Ciberso ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

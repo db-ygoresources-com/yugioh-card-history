@@ -1,0 +1,15 @@
+{
+  "id": 5048,
+  "type": "monster",
+  "name": "Flame Dancer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "This monster moves while swinging its burning rope.",
+  "level": 2,
+  "atk": 550,
+  "def": 450,
+  "properties": [
+    "Pyro",
+    "Normal"
+  ]
+}

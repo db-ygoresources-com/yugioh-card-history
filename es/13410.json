@@ -1,0 +1,19 @@
+{
+  "id": 13410,
+  "type": "monster",
+  "name": "Tomador del Underclock",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Efecto\nUna vez por turno: puedes seleccionar 1 monstruo boca arriba al que apunte esta carta y 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, el objetivo del adversario pierde ATK igual al ATK del objetivo al que este monstruo apunta.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

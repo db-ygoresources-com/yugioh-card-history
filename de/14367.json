@@ -1,0 +1,15 @@
+{
+  "id": 14367,
+  "type": "monster",
+  "name": "Exodia, die legendäre Verteidigerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Du kannst 5 Monster als Tribut anbieten, um diese Karte als Tributbeschwörung zu beschwören (aber nicht um sie zu setzen). Die ATK/DEF dieser Karte werden gleich der Summe der Grund-ATK/-DEF der als Tribut angebotenen Monster. Falls diese auf diese Art beschworene Karte ein FINSTERNIS Unterweltler-Monster zerstört, das dein Gegner besitzt, gewinnst du am Ende des Damage Steps das Duell.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

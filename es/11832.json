@@ -1,0 +1,16 @@
+{
+  "id": 11832,
+  "type": "monster",
+  "name": "Dragón de Cráneo Negro Archidemonio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Monstruo Normal \"Archidemonio\" de Nivel 6 + 1 Monstruo Normal \"Ojos Rojos\"\nSólo puedes Invocar de Modo Especial uno o más \"Dragón de Cráneo Negro Archidemonio\" una vez por turno. Si esta carta batalla, hasta el final del Damage Step, las cartas y efectos de tu adversario no pueden ser activados. Si se realiza un cálculo de daño que involucre a esta carta Invocada por Fusión, al final de la Battle Phase: puedes seleccionar 1 Monstruo Normal \"Ojos Rojos\" en tu Cementerio; inflige daño a tu adversario igual a su ATK en el Cementerio, y después barájalo al Deck.",
+  "level": 9,
+  "atk": 3200,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

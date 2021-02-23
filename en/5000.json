@@ -1,0 +1,15 @@
+{
+  "id": 5000,
+  "type": "monster",
+  "name": "The Winged Dragon of Ra",
+  "englishAttribute": "divine",
+  "localizedAttribute": "DIVINE",
+  "effectText": "Cannot be Special Summoned. Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, other cards and effects cannot be activated. When this card is Normal Summoned: You can pay LP so that you only have 100 left; this card gains ATK/DEF equal to the amount of LP paid. You can pay 1000 LP, then target 1 monster on the field; destroy that target.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Divine-Beast",
+    "Effect"
+  ]
+}

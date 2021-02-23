@@ -1,0 +1,15 @@
+{
+  "id": 15692,
+  "type": "monster",
+  "name": "Drago Armato Tuono LV10",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se questa carta è stata Evocata Specialmente dall'effetto di un mostro \"Drago Armato\", essa guadagna i seguenti effetti a seconda del suo ATK.\n●1+: Il suo nome diventa \"Drago Armato LV10\".\n●10+: Il suo controllo non può essere cambiato.\n●100+: Non può essere distrutta in battaglia.\n●1000+: Una volta per turno dell'avversario (Effetto Rapido): puoi mandare 1 carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 altra carta sul Terreno; distruggila e, se lo fai, questa carta guadagna 1000 ATK.\n●10000+: Una volta per turno: puoi distruggere tutte le altre carte sul Terreno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8947,
+  "type": "monster",
+  "name": "Volador Delta",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno, puedes seleccionar otro monstruo boca arriba que controles e incrementar su Nivel en 1.",
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Dragón",
+    "Cantante",
+    "Efecto"
+  ]
+}

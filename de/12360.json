@@ -1,0 +1,15 @@
+{
+  "id": 12360,
+  "type": "monster",
+  "name": "Himmlischer Drachenherr Fellgrant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet; verbanne es und falls du dies tust, erhält diese Karte ATK und DEF in Höhe der Grundstufe/des Grundrangs des verbannten Monsters x 100. Falls diese Karte ein Monster deines Gegners durch Kampf zerstört: Du kannst 1 Monster vom Typ Drache der Stufe 7 oder 8 im Friedhof wählen, außer „Himmlischer Drachenherr Fellgrant“; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

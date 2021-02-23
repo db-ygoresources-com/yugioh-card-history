@@ -1,0 +1,15 @@
+{
+  "id": 14082,
+  "type": "monster",
+  "name": "Salamangrande Zorr",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si tienes 3 o más monstruos \"Salamangrande\" en tu Cementerio: puedes mandar al Cementerio esta carta en tu mano, y después selecciona 1 Monstruo de Enlace \"Salamangrande\" en tu Cementerio y 1 carta en la Zona de Magia y Trampas de tu adversario; devuelve al Deck Extra ese monstruo seleccionado en tu Cementerio y, si lo haces, destruye la carta seleccionada en el Campo. Si una o más cartas en la Zona de Magia y Trampas de tu adversario son destruidas y mandadas al Cementerio, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial en Posición de Defensa. Sólo puedes usar 1 efecto de \"Salamangrande Zorr\" por turno, y sólo una vez ese turno.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14363,
+  "type": "monster",
+  "name": "Dragon Fantôme aux Yeux Complets",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main ou Extra Deck face recto) en Sacrifiant tous les monstres que vous contrôlez (min. 2, un Monstre Pendule Dragon inclus). Vous ne pouvez Invoquer Spécialement \"Dragon Fantôme aux Yeux Complets\" qu'une fois par tour de cette façon. Une fois par tour, durant le calcul des dommages, si cette carte combat un monstre de l'adversaire : jusqu'à la fin de ce tour, doublez l'ATK actuelle de cette carte. Une fois par tour, lorsque votre adversaire active une Carte Magie/Piège ou effet de Magie/Piège (Effet Rapide) : vous pouvez envoyer 1 Magie/Piège que vous contrôlez au Cimetière ; annulez l'activation.",
+  "pendEffect": "Une fois par tour, à la fin de la Damage Step, si votre Monstre Pendule Dragon a attaqué un monstre de l'adversaire : vous pouvez activer cet effet ; il peut attaquer une nouvelle fois à la suite. Vous ne pouvez pas déclarer d'attaques le tour où vous activez cet effet, sauf avec le monstre.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

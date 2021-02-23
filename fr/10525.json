@@ -1,0 +1,16 @@
+{
+  "id": 10525,
+  "type": "monster",
+  "name": "Numéro 107 : Dragon Tachyon aux Yeux Galactiques",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 8\nUne fois par Battle Phase, au début de votre Battle Phase : vous pouvez détacher 1 Matériel de cette carte ; annulez les effets de tous les autres monstres face recto actuellement sur le Terrain, et aussi, leur ATK/DEF deviennent leur ATK/DEF d'origine. Durant la Battle Phase, si vous avez activé cet effet ce tour, chaque fois qu'un effet de carte de l'adversaire est résolu, cette carte gagne 1000 ATK jusqu'à la fin de la Battle Phase, et aussi, elle peut faire une seconde attaque durant chaque Battle Phase ce tour.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

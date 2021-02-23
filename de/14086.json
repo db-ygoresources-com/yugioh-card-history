@@ -1,0 +1,16 @@
+{
+  "id": 14086,
+  "type": "monster",
+  "name": "T.G. Schraubschlange",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „T.G.“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „T.G. Schraubschlange“; beschwöre das Monster als Spezialbeschwörung, aber seine Effekte werden annulliert. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „T.G.“-Monster wählen, das du kontrollierst; erhöhe oder verringere seine Stufe bis zum Ende dieses Spielzugs um 1. Du kannst jeden Effekt von „T.G. Schraubschlange“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1300,
+  "def": 500,
+  "properties": [
+    "Seeschlange",
+    "Empfänger",
+    "Effekt"
+  ]
+}

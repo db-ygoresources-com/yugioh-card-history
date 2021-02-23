@@ -1,0 +1,15 @@
+{
+  "id": 13912,
+  "type": "monster",
+  "name": "Dragón de Caos Levionero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 3 monstruos de LUZ y/u OSCURIDAD en tu Cementerio. Cuando es Invocado de esta forma: puedes activar este efecto; aplica el siguiente efecto, basado en el o los Atributos de los monstruos desterrados para la Invocación Especial, y además esta carta no puede atacar por el resto de este turno.\n●Sólo LUZ: Invoca 1 monstruo de Modo Especial desde tu Cementerio en Posición de Defensa.\n●Sólo OSCURIDAD: Baraja al Deck 1 carta al azar en la mano de tu adversario.\n●Tanto LUZ como OSCURIDAD: Destruye hasta 2 cartas en el Campo.\nSólo puedes usar este efecto de \"Dragón de Caos Levionero\" una vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

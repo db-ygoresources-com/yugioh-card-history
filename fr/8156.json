@@ -1,0 +1,15 @@
+{
+  "id": 8156,
+  "type": "monster",
+  "name": "Dragon Tornade",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non destructible au combat avec un monstre qui a la même ATK. Si cette carte est Invoquée par Sacrifice en Sacrifiant un monstre de Type Dragon : elle gagne une ATK égale à la moitié de l'ATK d'origine du monstre Sacrifié. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

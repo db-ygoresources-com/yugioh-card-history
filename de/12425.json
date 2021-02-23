@@ -1,0 +1,18 @@
+{
+  "id": 12425,
+  "type": "monster",
+  "name": "Dinonebel Ankylos",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Verbanne alle Monster, die durch Kampf mit einem „Dinonebel“-Monster, das du kontrollierst, zerstört werden.",
+  "pendEffect": "Einmal, solange diese Karte in deiner Pendelzone liegt, kannst du einen aktivierten Karteneffekt annullieren, der eine oder mehr andere „Dinonebel“-Karten, die du kontrollierst, als Ziel wählt, dann zerstöre diese Karte.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

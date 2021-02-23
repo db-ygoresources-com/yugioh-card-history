@@ -1,0 +1,15 @@
+{
+  "id": 5416,
+  "type": "monster",
+  "name": "Momie Errante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez retourner cette carte en Position de Défense face verso une fois par tour durant votre Main Phase. Après avoir utilisé cet effet, mélangez tous les monstres en Position de Défense face verso de votre Terrain et remettez-les en Position de Défense face verso sur votre Terrain.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

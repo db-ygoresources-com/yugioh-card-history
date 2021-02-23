@@ -1,0 +1,18 @@
+{
+  "id": 14442,
+  "type": "monster",
+  "name": "Servitore di Endymion",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Puoi Evocare Specialmente uno o più \"Servitore di Endymion\" una sola volta per turno. Questa carta con un Segnalino Magia può attaccare direttamente. Una volta per turno dell'avversario (Effetto Rapido): puoi scartare 1 carta; metti 1 Segnalino Magia su ogni carta che controlli su cui puoi mettere un Segnalino Magia. Se questa carta viene distrutta in una Zona Mostri: puoi mettere questa carta nella tua Zona Pendulum, poi mettere su di essa lo stesso numero di Segnalini Magia che aveva come mostro.",
+  "pendEffect": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Puoi rimuovere 3 Segnalini Magia da questa carta; Evoca Specialmente sia questa carta dalla tua Zona Pendulum che 1 mostro dal tuo Deck con ATK 1000 o superiore su cui puoi mettere un Segnalino Magia e, se lo fai, metti 1 Segnalino Magia su ognuno.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 900,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

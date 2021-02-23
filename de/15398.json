@@ -1,0 +1,18 @@
+{
+  "id": 15398,
+  "type": "monster",
+  "name": "Gerätewesen Staubsaugofant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Gerätewesen“-Monster\nDiese Karte kann nicht in dem Spielzug als Linkmaterial verwendet werden, in dem sie als Linkbeschwörung beschworen wurde. Diese Karte kann direkt angreifen, solange sie nicht kreuzgelinkt ist. Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie. Falls diese Karte kreuzgelinkt ist: Du kannst 1 Monster in der Main-Monsterzone deines Gegners wählen; zerstöre es. Du kannst nur 1 Effekt von „Gerätewesen Staubsaugofant“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15386,
+  "type": "monster",
+  "name": "Número 3: Rey Cigarra",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2 monstruos de Nivel 3\nSi la posición de batalla de esta carta es cambiada: puedes Invocar de Modo Especial, desde tu mano o Cementerio, 1 monstruo Insecto, en Posición de Defensa. Cuando un monstruo en el Campo activa su efecto: puedes desacoplar de esta carta 1 material, y después seleccionar ese monstruo; niega sus efectos y después, haz que 1 monstruo Insecto en el Campo ya sea gane 500 DEF, o cambie su posición de batalla. Sólo puedes usar cada efecto de \"Número 3: Rey Cigarra\" una vez por turno.",
+  "rank": 3,
+  "atk": 1200,
+  "def": 2500,
+  "properties": [
+    "Insecto",
+    "Xyz",
+    "Efecto"
+  ]
+}

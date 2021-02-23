@@ -1,0 +1,16 @@
+{
+  "id": 11122,
+  "type": "monster",
+  "name": "Nummer 52: Diamantkrabbenkönig",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster der Stufe 4\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; ändere die DEF dieser Karte zu 0 und falls du dies tust, ändere ihre ATK zu 3000. Diese Änderungen dauern bis zum Ende dieses Spielzugs an. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert. Falls diese Karte angegriffen wird, ändere sie am Ende des Damage Steps in die Angriffsposition, falls sie kein Xyz-Material hat. Du kannst nur 1 „Nummer 52: Diamantkrabbenkönig“ kontrollieren.",
+  "rank": 4,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Fels",
+    "Xyz",
+    "Effekt"
+  ]
+}

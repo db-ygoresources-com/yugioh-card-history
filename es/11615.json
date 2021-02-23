@@ -1,0 +1,18 @@
+{
+  "id": 11615,
+  "type": "monster",
+  "name": "Artistamigo Hechicero del Péndulo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada de Modo Especial: puedes seleccionar hasta 2 cartas que controles; destrúyelas y, si lo haces, añade a tu mano tantos monstruos \"Artistamigo\" con nombres diferentes en tu Deck (excepto \"Artistamigo Hechicero del Péndulo\") como la cantidad de cartas destruidas. Sólo puedes usar este efecto de \"Artistamigo Hechicero del Péndulo\" una vez por turno.",
+  "pendEffect": "Si uno o más monstruos \"Artistamigo\" son Invocados por Péndulo a tu Campo: todos los monstruos \"Artistamigo\" que controles en este momento ganan 1000 ATK hasta el final de este turno (aun si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

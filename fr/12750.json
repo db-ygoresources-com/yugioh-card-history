@@ -1,0 +1,15 @@
+{
+  "id": 12750,
+  "type": "monster",
+  "name": "Exploselapin du Zoodiaque",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 carte \"Zoodiaque\" (\"Exploselapin du Zoodiaque\" exclu) dans votre Cimetière ; ajoutez-la à votre main. Un Monstre Xyz dont le Type d'origine est Bête-Guerrier et qui a cette carte comme Matériel Xyz gagne cet effet.\n●Durant le tour de chaque joueur, lorsque votre adversaire active une Carte Magie ou effet de Magie qui cible cette carte : vous pouvez détacher 1 Matériel Xyz de cette carte ; annulez l'activation.",
+  "level": 4,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12394,
+  "type": "monster",
+  "name": "Bœuf Fantôme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le Fantôme du Dîner de Noël.",
+  "pendEffect": "Une fois par tour : vous pouvez lancer un dé à six faces. Jusqu'à la fin de ce tour, augmentez l'Échelle Pendule de cette carte de ce numéro (max. 10).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Normal"
+  ]
+}

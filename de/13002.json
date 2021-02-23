@@ -1,0 +1,10 @@
+{
+  "id": 13002,
+  "type": "spell",
+  "name": "Aufeinanderprallende Seelen",
+  "englishAttribute": "spell",
+  "localizedAttribute": "ZAUBER",
+  "effectText": "Während der Schadensberechnung, falls dein Monster in Angriffsposition mit einem Monster in Angriffsposition deines Gegners mit höheren ATK kämpft: Der Beherrscher des kämpfenden Monsters mit den niedrigeren ATK kann 500 LP zahlen, um das Monster nur während der Schadensberechnung 500 ATK erhalten zu lassen, dann wiederholt diesen Effekt, bis ein Spieler bestimmt, keine LP zu zahlen. Kein Spieler erhält Kampfschaden aus dem Kampf, zusätzlich, nach der Schadensberechnung, falls ein Monster eines Spielers durch den Kampf zerstört würde, lege stattdessen alle Karten, die der Spieler kontrolliert, auf den Friedhof.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Schnell"
+}

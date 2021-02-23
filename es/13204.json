@@ -1,0 +1,19 @@
+{
+  "id": 13204,
+  "type": "monster",
+  "name": "Hechicera Binaria",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos, excepto Fichas\nEsta carta gana estos efectos basados en el número de monstruos co-enlazados a esta carta.\n●1+: Cuando un monstruo co-enlazado a esta carta batalla con el monstruo de tu adversario y le inflige daño de batalla: puedes ganar esa cantidad de LP.\n●2: Una vez por turno (Efecto Rápido): puedes seleccionar 2 monstruos boca arriba que controles; hasta el final de este turno, divide a la mitad el ATK de 1 monstruo y, si lo haces, añade ese ATK perdido al otro monstruo.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8710,
+  "type": "monster",
+  "name": "Genex-Verbündeter Flammenglocke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Jedes Mal, wenn ein oder mehr Monster, die du kontrollierst, auf den Friedhof gelegt werden, lege 1 Genex-Zählmarke auf diese Karte. Jedes Mal, wenn eine oder mehr Karten vom Friedhof deines Gegners verbannt werden, lege 2 Genex-Zählmarken auf diese Karte. Diese Karte erhält 100 ATK für jede Genex-Zählmarke auf dem Spielfeld. Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Füge deinem Gegner 300 Schaden für jede Genex-Zählmarke zu, die auf dieser Karte lag.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

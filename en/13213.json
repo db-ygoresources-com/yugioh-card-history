@@ -1,0 +1,15 @@
+{
+  "id": 13213,
+  "type": "monster",
+  "name": "F.A. Sonic Meister",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Gains ATK equal to its Level x 300. Cannot be destroyed by battle with an opponent's monster whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, it can make up to 2 attacks on monsters during each Battle Phase.",
+  "level": 4,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

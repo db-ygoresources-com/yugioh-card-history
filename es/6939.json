@@ -1,0 +1,15 @@
+{
+  "id": 6939,
+  "type": "monster",
+  "name": "Soldado de la Carta",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes elegir un número del 1 al 3, y después mandar al Cementerio esa misma cantidad de cartas de la parte superior de tu Deck; hasta el final de este turno, esta carta gana 500 ATK por cada carta mandada al Cementerio de este modo. Si esta carta que controlas es destruida y mandada a tu Cementerio: roba 1 carta.",
+  "level": 3,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12693,
+  "type": "monster",
+  "name": "Artistamico Facchinolivello",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi dichiarare un Livello tra 1 e 5, poi scegliere come bersaglio 1 altro mostro \"Artistamico\" che controlli; fino alla fine di questo turno, riduci il Livello di questa carta del Livello dichiarato e, se lo fai, aumenta il Livello dell'altro mostro dello stesso ammontare.",
+  "pendEffect": "Una volta per turno: puoi aumentare il Livello di tutti i mostri Evocati Pendulum che controlli attualmente di 1 (anche se questa carta lascia il Terreno).",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 2600,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

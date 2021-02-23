@@ -1,0 +1,15 @@
+{
+  "id": 13214,
+  "type": "monster",
+  "name": "F.A. Aguanta la Marcha",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Gana ATK igual a su Nivel x 300. No es afectado por efectos activados de un monstruo del adversario cuyo Nivel/Rango original sea más bajo que el Nivel de esta carta. Cada vez que una Carta Mágica/de Trampa \"F.A.\" o un efecto de Mágica/Trampa \"F.A.\" son activados: puedes aumentar el Nivel de esta carta en 1. Si el Nivel de esta carta es 7 o mayor, cualquier carta mandada al Cementerio de tu adversario se destierra en su lugar.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9700,
+  "type": "monster",
+  "name": "Täuschungsdrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Die Normalbeschwörung dieser Karte kann nicht annulliert werden. Nachdem diese Karte als Normalbeschwörung beschworen wurde, kann dein Gegner für den Rest des Spielzugs keine Konterfallenkarten aktivieren.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

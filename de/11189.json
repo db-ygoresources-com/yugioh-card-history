@@ -1,0 +1,15 @@
+{
+  "id": 11189,
+  "type": "monster",
+  "name": "Magische Hand",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn dein Gegner seiner Hand eine oder mehr Karten von seinem Deck hinzufügt, außer indem er sie zieht (außer während des Damage Steps): Du kannst die Karten auf den Friedhof legen und falls du dies tust, füge deinem Gegner 800 Schaden zu. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

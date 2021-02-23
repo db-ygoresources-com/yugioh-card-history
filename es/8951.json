@@ -1,0 +1,16 @@
+{
+  "id": 8951,
+  "type": "monster",
+  "name": "Goblin de Chatarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta no puede ser destruida en batalla. Si esta carta en Posición de Defensa boca arriba es seleccionada como objetivo de un ataque, destrúyela al final de la Battle Phase. Si esta carta es destruida por el efecto de una carta \"Chatarra\" y mandada al Cementerio, puedes seleccionar 1 monstruo \"Chatarra\" en tu Cementerio (excepto \"Goblin de Chatarra\") y añadirlo a tu mano.",
+  "level": 3,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Guerrero-Bestia",
+    "Cantante",
+    "Efecto"
+  ]
+}

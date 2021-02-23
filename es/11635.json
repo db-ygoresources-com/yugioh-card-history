@@ -1,0 +1,16 @@
+{
+  "id": 11635,
+  "type": "monster",
+  "name": "Malacoda, Bajoseñor del Abismo Ardiente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"El Bien y el Mal en el Abismo Ardiente\". Debe ser Invocado por Ritual, y no puede ser Invocado de Modo Especial de otra forma. Una vez por turno, durante el turno de cualquier jugador: puedes mandar al Cementerio 1 monstruo \"Abismo Ardiente\" en tu mano, y después seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, ese objetivo pierde ATK y DEF iguales al ATK y DEF del monstruo \"Abismo Ardiente\" mandado al Cementerio de esta forma. Si esta carta es mandada del Campo al Cementerio: puedes seleccionar 1 carta en el Campo; mándala al Cementerio.",
+  "level": 6,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15948,
+  "type": "monster",
+  "name": "Skyler du Rocher de Guerre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Gagne 100 ATK pour chaque monstre contrôlé par votre adversaire. Durant une Battle Phase où votre monstre TERRE Guerrier combat (Effet Rapide) : vous pouvez cibler 1 monstre Guerrier de max. Niveau 5 dans votre Cimetière ; Invoquez-le Spécialement, et aussi, tous les monstres \"Rocher de Guerre\" que vous contrôlez actuellement gagnent 200 ATK jusqu'à la fin du tour de votre adversaire, et aussi, vous ne pouvez pas attaquer directement avec des monstres de max. Niveau 5 le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Skyler du Rocher de Guerre\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

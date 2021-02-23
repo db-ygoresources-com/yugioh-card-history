@@ -1,0 +1,15 @@
+{
+  "id": 13473,
+  "type": "monster",
+  "name": "Dragón Cañón Forajido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si uno o más monstruos Máquina de OSCURIDAD boca arriba que controlas son destruidos en batalla o por efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano. Una vez por turno, durante la Battle Phase (Efecto Rápido): puedes lanzar una moneda 3 veces; destruye hasta tantos monstruos boca arriba en el Campo como el número de caras, y después, si el resultado fue 3 caras, roba 1 carta. Esta carta no puede atacar en el turno en el que es activado este efecto. Si esta carta es mandada al Cementerio: puedes añadir a tu mano 1 monstruo de Nivel 7 o menor en tu Deck que tenga un efecto de lanzamiento de moneda.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

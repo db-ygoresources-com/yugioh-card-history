@@ -1,0 +1,16 @@
+{
+  "id": 14025,
+  "type": "monster",
+  "name": "Streichbuben Kampfkobold",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "„Streichbuben Flammis“ + „Streichbuben Tropfis“ + „Streichbuben Luftis“\nMuss als Fusionsbeschwörung beschworen werden. (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; zerstöre alle Monster, die dein Gegner kontrolliert. Falls diese Karte, die dir gehört, durch eine Karte deines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 Nicht-Fusionsmonster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Streichbuben Kampfkobold“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Donner",
+    "Fusion",
+    "Effekt"
+  ]
+}

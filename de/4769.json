@@ -1,0 +1,15 @@
+{
+  "id": 4769,
+  "type": "monster",
+  "name": "Parasiten-Parazid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Lege diese Karte offen ins Deck deines Gegners und mische es. Wenn dein Gegner diese Karte zieht, wird sie als Spezialbeschwörung in offener Verteidigungsposition auf die Spielfeldseite deines Gegners beschworen und fügt ihm 1000 Schaden zu. Solange diese Karte offen auf dem Spielfeld liegt, werden dann alle offenen Monster, die dein Gegner kontrolliert, zu Monstern vom Typ Insekt.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

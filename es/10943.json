@@ -1,0 +1,16 @@
+{
+  "id": 10943,
+  "type": "monster",
+  "name": "Maga Noña",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos de Tipo Lanzador de Conjuros de Nivel 4\nDurante tu Main Phase 2, también puedes Invocar Xyz esta carta usando un Monstruo Xyz de Rango 3 o menor que controles como el Material Xyz. (Los Materiales Xyz acoplados a ese monstruo se convierten en Materiales Xyz en esta carta). Esta carta gana 200 ATK por cada Material Xyz que tenga acoplado. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. Después del cálculo de daño, si esta carta atacó o fue atacada: desacopla de esta carta 1 Material Xyz.",
+  "rank": 4,
+  "atk": 2100,
+  "def": 200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Xyz",
+    "Efecto"
+  ]
+}

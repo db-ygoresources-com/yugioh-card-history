@@ -1,0 +1,17 @@
+{
+  "id": 12450,
+  "type": "monster",
+  "name": "Dragón de Coral",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nUna vez por turno: puedes descartar 1 carta, y después seleccionar 1 carta que controle tu adversario; destrúyela. Si esta carta Invocada por Sincronía es mandada del Campo al Cementerio: puedes robar 1 carta. Sólo puedes usar este efecto de \"Dragón de Coral\" una vez por turno.",
+  "level": 6,
+  "atk": 2400,
+  "def": 500,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

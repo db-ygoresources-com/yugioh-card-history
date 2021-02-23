@@ -1,0 +1,15 @@
+{
+  "id": 12922,
+  "type": "monster",
+  "name": "Avion Élastique Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si un monstre est Invoqué Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres VENT exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Avion Élastique Vitesseroid\" qu'une fois par tour. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, il perd 600 ATK.",
+  "level": 5,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

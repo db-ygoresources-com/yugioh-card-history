@@ -1,0 +1,15 @@
+{
+  "id": 15070,
+  "type": "monster",
+  "name": "Archidemonio Aniquilador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes seleccionar 1 carta que controles y 1 carta que controle tu adversario; destrúyelas, y si has destruido uno o más monstruos Demonio boca arriba por este efecto, hasta el final de este turno esta carta gana ATK igual a la mitad del ATK original de los monstruos Demonio. Sólo puedes usar este efecto de \"Archidemonio Aniquilador\" una vez por turno.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

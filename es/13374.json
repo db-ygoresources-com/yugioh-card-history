@@ -1,0 +1,15 @@
+{
+  "id": 13374,
+  "type": "monster",
+  "name": "Payaso del Capirotazo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas al menos otros 2 monstruos Ciberso y no tienes cartas en tu mano: puedes pagar 1000 LP; roba 1 carta. Sólo puedes usar este efecto de \"Payaso del Capirotazo\" una vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1400,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

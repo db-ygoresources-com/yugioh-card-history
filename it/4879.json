@@ -1,0 +1,16 @@
+{
+  "id": 4879,
+  "type": "monster",
+  "name": "Il Mistico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "SCOPRI: Rivela tutte le carte coperte sul Terreno (gli Effetti Scoperta non si attivano), poi falle ritornare nelle loro posizioni originali.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Incantatore",
+    "Scoperta",
+    "Effetto"
+  ]
+}

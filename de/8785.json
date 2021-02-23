@@ -1,0 +1,16 @@
+{
+  "id": 8785,
+  "type": "monster",
+  "name": "Vertrauenswächter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Synchromaterialmonster benutzt werden, außer für die Synchrobeschwörung eines Synchromonsters der Stufe 7 oder höher. Einmal pro Spielzug kann das Synchromonster nicht durch Kampf zerstört werden. Jedes Mal, wenn dieser Effekt angewendet wird, verliert das Synchromonster am Ende des Damage Steps 400 ATK und DEF.",
+  "level": 3,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

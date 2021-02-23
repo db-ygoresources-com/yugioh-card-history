@@ -1,0 +1,16 @@
+{
+  "id": 6342,
+  "type": "monster",
+  "name": "Reshef el Ente Oscuro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Este monstruo sólo puede ser Invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual \"Ritual Final de los Ancianos\". Descarta 1 Carta Mágica de tu mano. Toma el control de 1 monstruo en el Campo de tu adversario hasta la End Phase. Sólo puedes usar este efecto una vez por turno.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Efecto"
+  ]
+}

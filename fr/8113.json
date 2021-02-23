@@ -1,0 +1,15 @@
+{
+  "id": 8113,
+  "type": "monster",
+  "name": "Ver - Opéra",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Tous les monstres face recto sur le Terrain perdent 500 points d'ATK, excepté les monstres \"Ver\" de Type Reptile.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

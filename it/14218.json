@@ -1,0 +1,16 @@
+{
+  "id": 14218,
+  "type": "monster",
+  "name": "Guerriero Segnale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nUna volta per turno, durante la Standby Phase: metti 1 Segnalino Segnale su ogni carta scoperta nella Zona Terreno, inoltre mettine 1 su questa carta. Questa carta con uno o più Segnalini Segnale non può essere distrutta in battaglia o dagli effetti delle carte del tuo avversario. Una volta per turno: puoi rimuovere 4, 7 o 10 Segnalini Segnale da ovunque sul Terreno; applica questo effetto, a seconda del numero rimossi.\n●4: Infliggi 800 danni al tuo avversario.\n●7: Pesca 1 carta.\n●10: Distruggi 1 carta sul Terreno.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerriero",
+    "Synchro",
+    "Effetto"
+  ]
+}

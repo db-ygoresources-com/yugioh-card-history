@@ -1,0 +1,16 @@
+{
+  "id": 12562,
+  "type": "monster",
+  "name": "Flor Cardian Leve Lluvia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 3 monstruos que no sean Cantantes\nTu adversario no puede seleccionar con efectos de cartas a monstruos \"Flor Cardian\" que controles, y además esos monstruos no pueden ser destruidos por efectos de cartas. Durante la Draw Phase de tu adversario, si roba una o más cartas durante su robo normal: inflige 1500 puntos de daño a tu adversario. Una vez por turno, durante la End Phase de tu adversario: activa 1 de estos efectos;\n●Sáltate la Draw Phase de tu siguiente turno.\n●Niega los demás efectos de esta carta hasta la siguiente Standby Phase de tu adversario.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

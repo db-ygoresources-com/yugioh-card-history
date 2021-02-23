@@ -1,0 +1,15 @@
+{
+  "id": 5253,
+  "type": "monster",
+  "name": "L'Esprit de l'Eau",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre EAU depuis votre Cimetière. Une fois par tour, durant la Standby Phase de votre adversaire : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; changez la position de combat de la cible, et si vous le faites, elle ne peut pas changer sa position de combat le reste de ce tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

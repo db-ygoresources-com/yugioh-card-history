@@ -1,0 +1,16 @@
+{
+  "id": 10707,
+  "type": "monster",
+  "name": "Nummer 85: Verrückte Kiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 4\nDiese Karte kann nicht angreifen. Einmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; wirf einen sechsseitigen Würfel und führe den Effekt basierend auf dem Ergebnis aus.\n1: Halbiere deine Life Points.\n2: Ziehe 1 Karte.\n3: Dein Gegner wirft 1 Karte ab.\n4: Annulliere bis zum Ende dieses Spielzugs die Effekte von 1 offenen Karte auf dem Spielfeld.\n5: Zerstöre 1 Karte auf dem Spielfeld.\n6: Zerstöre diese Karte.",
+  "rank": 4,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Unterweltler",
+    "Xyz",
+    "Effekt"
+  ]
+}

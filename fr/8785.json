@@ -1,0 +1,16 @@
+{
+  "id": 8785,
+  "type": "monster",
+  "name": "Gardien de la Paix",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut pas être utilisée en tant que Monstre-Matériel de Synchro, excepté pour l'Invocation Synchro d'un Monstre Synchro de Niveau 7 ou plus. Une fois par tour, ce Monstre Synchro ne peut pas être détruit au combat. Chaque fois que cet effet est appliqué, ce Monstre Synchro perd 400 points d'ATK et de DEF à la fin de la Damage Step.",
+  "level": 3,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Elfe",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12098,
+  "type": "monster",
+  "name": "Cavalerie Samouraï de Reptier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Au début de la Damage Step, si cette carte attaque un monstre face recto de votre adversaire (Monstres Pendule exclus) : vous pouvez détruire le monstre.",
+  "pendEffect": "",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Dinosaure",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6249,
+  "type": "monster",
+  "name": "Maschinenhund Marron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Ergebnis eines Kampfes zerstört und in den Friedhof gelegt wird, fügen den Life Points beider Spieler 1000 Punkte Schaden zu. Wenn diese Karte, außer als Ergebnis eines Kampfes, zerstört und in den Friedhof gelegt wird, füge den Life Points deines Gegners 1000 Punkte Schaden zu.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

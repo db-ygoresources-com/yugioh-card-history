@@ -1,0 +1,20 @@
+{
+  "id": 14940,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Auroradon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2+ monstres Machine\nSi cette carte est Invoquée par Lien : vous pouvez activer cet effet ; Invoquez Spécialement 3 \"Jeton Bête Fantôme Méca\" (Machine/VENT/Niveau 3/ATK 0/DEF 0), et aussi, vous ne pouvez pas Invoquer par Lien le reste de ce tour. Une fois par tour : vous pouvez Sacrifier max. 3 monstres, puis appliquez 1 de ces effets, selon le nombre Sacrifié ;\n●1 : Détruisez 1 carte sur le Terrain.\n●2 : Invoquez Spécialement 1 monstre \"Bête Fantôme Méca\" depuis votre Deck.\n●3 : Ajoutez 1 Piège depuis votre Cimetière à votre main.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "2",
+    "3"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

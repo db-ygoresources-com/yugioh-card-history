@@ -1,0 +1,15 @@
+{
+  "id": 8018,
+  "type": "monster",
+  "name": "Artilleur Hyper Psychique/Mode Assaut",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut ni être Invoquée Normalement ni être Posée. Cette carte ne peut pas être Invoquée Spécialement, excepté avec \"Activation Mode Assaut\". Si cette carte combat un monstre, à la fin de la Damage Step, infligez des dommages à votre adversaire égaux à la DEF de ce monstre et gagnez un montant de Life Points égal à son ATK. Lorsque cette carte sur le Terrain est détruite, vous pouvez Invoquer Spécialement 1 \"Artilleur Hyper Psychique\" depuis votre Cimetière.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

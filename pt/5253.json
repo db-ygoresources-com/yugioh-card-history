@@ -1,0 +1,15 @@
+{
+  "id": 5253,
+  "type": "monster",
+  "name": "Espírito da Aqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao banir 1 monstro de ÁGUA do seu Cemitério. Uma vez por turno, durante a Fase de Apoio do seu oponente: você pode escolher 1 monstro com a face para cima que seu oponente controla; mude a posição de batalha do alvo e, se isso acontecer, ele não pode mudar sua posição de batalha pelo resto deste turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Efeito"
+  ]
+}

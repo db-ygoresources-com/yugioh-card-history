@@ -1,0 +1,16 @@
+{
+  "id": 12319,
+  "type": "monster",
+  "name": "Panthère Danseuse de Clair de Lune",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Chat Danseur de Clair de Lune\" + 1 monstre \"Clair de Lune\"\nDoit d'abord être Invoquée par Fusion avec les Matériels Fusion ci-dessus. Non destructible par des effets de carte de votre adversaire. Une fois par tour, durant votre Main Phase 1 : vous pouvez activer cet effet ; le reste de ce tour, la première fois que chaque monstre contrôlé par votre adversaire va être détruit au combat, il n'est pas détruit, et aussi, cette carte peut attaquer deux fois tous les monstres contrôlés par votre adversaire ce tour. Si cette carte détruit un monstre de l'adversaire au combat : jusqu'à la fin de la Battle Phase, cette carte gagne 200 ATK.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Bête-Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12747,
+  "type": "monster",
+  "name": "Flor Cardian de Cerezo con la Cortina",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser primero Invocada por su propio efecto. Puedes mostrar esta carta en tu mano; roba 1 carta y, si lo haces, enséñala, y después, si la carta robada es un monstruo \"Flor Cardian\", Invoca esta carta de Modo Especial. De otra forma, manda al Cementerio a esa y esta carta. Durante el Damage Step de cualquier jugador, cuando tu monstruo \"Flor Cardian\" batalla con un monstruo de tu adversario: puedes descartar esta carta; hasta el final de este turno, tu monstruo batallante gana 1000 ATK.",
+  "level": 3,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

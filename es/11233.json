@@ -1,0 +1,16 @@
+{
+  "id": 11233,
+  "type": "monster",
+  "name": "Puercoespín Sombrañeca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Puedes añadir a tu mano 1 Mágica/Trampa \"Sombrañeca\" en tu Deck.\nSi esta carta es mandada al Cementerio por efecto de una carta: puedes añadir a tu mano 1 monstruo \"Sombrañeca\" en tu Deck, excepto \"Puercoespín Sombrañeca\". Sólo puedes usar 1 efecto de \"Puercoespín Sombrañeca\" por turno, y sólo una vez ese turno.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11335,
+  "type": "monster",
+  "name": "Blockspinne",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Dein Gegner kann keine Monster vom Typ Insekt als Angriffsziel wählen, außer diesem. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Blockspinne“ als Spezialbeschwörung von deinem Deck beschwören. Du kannst diesen Effekt von „Blockspinne“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 100,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

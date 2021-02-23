@@ -1,0 +1,18 @@
+{
+  "id": 13392,
+  "type": "monster",
+  "name": "Mythical Beast Jackal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field and Tribute this card; Special Summon 1 \"Mythical Beast\" Effect Monster from your Deck, except \"Mythical Beast Jackal\".",
+  "pendEffect": "If you have no card in your other Pendulum Zone: You can target 1 face-up card you control that you can place a Spell Counter on; destroy this card, and if you do, place 1 Spell Counter on that card. You can only use this effect of \"Mythical Beast Jackal\" once per turn.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 0,
+  "def": 1400,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

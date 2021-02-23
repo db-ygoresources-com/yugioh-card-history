@@ -1,0 +1,15 @@
+{
+  "id": 14106,
+  "type": "monster",
+  "name": "Calamar Aspergé",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, lorsque cette carte est ciblée par une attaque d'un monstre de l'adversaire : vous pouvez déplacer cette carte que vous contrôlez dans une autre de vos Zones Monstre Main, puis Invoquez Spécialement 1 \"Jeton Encre de Calamar\" (Aqua/EAU/Niveau 2/ATK ?/DEF 0). L'ATK de ce Jeton devient l'ATK du monstre de l'adversaire. Tant que cette carte est dans votre Zone Monstre Main la plus à gauche ou la plus à droite, les monstres de votre adversaire avec une ATK inférieure ou égale à la DEF de cette carte ne peuvent pas la cibler avec une attaque.",
+  "level": 2,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

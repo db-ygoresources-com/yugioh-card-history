@@ -1,0 +1,20 @@
+{
+  "id": 14016,
+  "type": "monster",
+  "name": "Nephtys, la Llama Sagrada",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2+ monstruos, incluyendo un Monstruo de Ritual\nMientras esta carta está en la Zona de Monstruos Extra, los monstruos que controla tu adversario no pueden seleccionar para ataques monstruos \"Nephtys\" en las Zonas de Monstruos Principales. Esta carta gana efectos según el número de Monstruos de Ritual usados para su Invocación por Enlace.\n●1+: No puede ser destruida en batalla.\n●2+: No puede ser destruida por efectos de cartas, y además ésta gana 1200 ATK.\n●3: Ningún jugador puede seleccionar esta carta con efectos de cartas, y además ésta gana otros 1200 ATK.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Bestia Alada",
+    "Enlace",
+    "Efecto"
+  ]
+}

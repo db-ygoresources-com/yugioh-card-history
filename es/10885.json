@@ -1,0 +1,16 @@
+{
+  "id": 10885,
+  "type": "monster",
+  "name": "Minerva, Doncella Luminosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano 1 monstruo de LUZ de Tipo Dragón en tu Deck cuyos Nivel sea igual o menor que la cantidad total de monstruos \"Luminoso/a\" con nombres diferentes en tu Cementerio. Si esta carta es mandada de la mano o Deck al Cementerio: manda al Cementerio la carta de la parte superior de tu Deck. Durante cada una de tus End Phases: manda al Cementerio las 2 cartas de la parte superior de tu Deck.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Cantante",
+    "Efecto"
+  ]
+}

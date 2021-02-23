@@ -1,0 +1,15 @@
+{
+  "id": 10333,
+  "type": "monster",
+  "name": "Photonenpirat",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 „Photon“-Monster von deinem Friedhof verbannen; diese Karte erhält bis zur End Phase 1000 ATK. Du kannst den Effekt von „Photonenpirat“ bis zu zweimal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

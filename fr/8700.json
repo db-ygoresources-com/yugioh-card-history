@@ -1,0 +1,15 @@
+{
+  "id": 8700,
+  "type": "monster",
+  "name": "Sphère de Transformation",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre en Position de Défense face recto contrôlé par votre adversaire ; défaussez 1 carte et équipez la cible à cette carte. (Vous ne pouvez équiper qu'1 monstre à cette carte à la fois avec cet effet.) Cette carte gagne l'ATK du monstre équipé. Si cette carte attaque, à la fin de la Battle Phase, elle est changée en Position de Défense. Durant la End Phase : le monstre équipé à cette carte par l'effet de cette carte est Invoqué Spécialement sur le Terrain de votre adversaire en Position de Défense face recto.",
+  "level": 3,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

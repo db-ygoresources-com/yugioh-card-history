@@ -1,0 +1,16 @@
+{
+  "id": 12844,
+  "type": "monster",
+  "name": "Caliga l'Invokhé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Aleister l'Invokhateur\" + 1 monstre TÉNÈBRES\nChaque joueur ne peut tenter d'activer qu'1 effet de monstre par tour. Chaque joueur ne peut attaquer qu'avec 1 monstre durant chaque Battle Phase.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Fusion",
+    "Effet"
+  ]
+}

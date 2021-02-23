@@ -1,0 +1,15 @@
+{
+  "id": 12675,
+  "type": "monster",
+  "name": "Gadget Rouages Ancients",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) ; ce tour, si votre monstre attaque, votre adversaire ne peut activer ni de Cartes Magie/Piège ni d'effets de monstre (en fonction du type déclaré) jusqu'à la fin de la Damage Step. Une fois par tour : vous pouvez déclarer 1 nom de carte de monstre \"Gadget\" ; jusqu'à la End Phase, le nom de cette carte devient ce nom.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

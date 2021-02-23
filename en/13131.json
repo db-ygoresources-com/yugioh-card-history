@@ -1,0 +1,19 @@
+{
+  "id": 13131,
+  "type": "monster",
+  "name": "Odd-Eyes Venom Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 \"Starving Venom\" monster + 1 \"Odd-Eyes\" monster\nMust be Fusion Summoned, and can then be Pendulum Summoned. Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card gains ATK equal to its ATK, and if it does, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this card in the Monster Zone is destroyed: You can Special Summon 1 monster from your Pendulum Zone, and if you do, place this card in your Pendulum Zone.",
+  "pendEffect": "Once per turn: You can target 1 Fusion Monster you control; it gains 1000 ATK for each monster your opponent controls, until the end of this turn.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 12828,
+  "type": "monster",
+  "name": "Drago Veloce Ala Chiara",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Tuner + 1+ mostri VENTO non-Tuner\n(Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario che è stato Evocato Specialmente dall'Extra Deck; fino alla fine di questo turno, cambia il suo ATK a 0, inoltre annulla gli effetti di quel mostro scoperto. Puoi utilizzare questo effetto di \"Drago Veloce Ala Chiara\" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Puoi mandare al Cimitero 1 Tuner \"Velociroid\" scoperto e 1 mostro non-Tuner scoperto che controlli, con somma dei Livelli pari a 7; Evoca Specialmente questa carta dalla tua Zona Pendulum. Puoi utilizzare questo effetto di \"Drago Veloce Ala Chiara\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Synchro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

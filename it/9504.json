@@ -1,0 +1,15 @@
+{
+  "id": 9504,
+  "type": "monster",
+  "name": "Scambiorospetto",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una volta per turno, puoi offrire come Tributo 1 mostro di Tipo Acqua per scegliere 1 mostro \"RANA\" nel tuo Cimitero. Evoca Specialmente quel mostro dal tuo Cimitero.",
+  "level": 1,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

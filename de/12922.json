@@ -1,0 +1,15 @@
+{
+  "id": 12922,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Gummiband-Flugzeug",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls ein Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer WIND Monstern. Du kannst diesen Effekt von „Geschwindigkeitsroid Gummiband-Flugzeug“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster auf dem Spielfeld wählen; es verliert bis zum Ende dieses Spielzugs 600 ATK.",
+  "level": 5,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

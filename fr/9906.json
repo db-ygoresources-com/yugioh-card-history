@@ -1,0 +1,15 @@
+{
+  "id": 9906,
+  "type": "monster",
+  "name": "Chow Len le Prophète",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour : vous pouvez déclarer soit Magie soit Piège, puis ciblez 1 carte Posée dans la Zone Magie & Piège de votre adversaire ; regardez la cible, et si elle est du type de carte déclaré, la carte ne peut pas être activée ce tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14367,
+  "type": "monster",
+  "name": "Exodia, el Defensor Legendario",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial. Puedes Sacrificar 5 monstruos para Invocar esta carta por Sacrificio (pero no para Colocarla). El ATK/DEF de esta carta se convierten en el ATK/DEF originales combinados de los monstruos Sacrificados. Si esta carta Invocada de esta forma destruye un monstruo Demonio de OSCURIDAD que sea propiedad de tu adversario, ganas el Duelo al final del Damage Step.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

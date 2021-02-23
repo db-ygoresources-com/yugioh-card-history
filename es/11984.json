@@ -1,0 +1,16 @@
+{
+  "id": 11984,
+  "type": "monster",
+  "name": "Olla de Lo Prohibido",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Puedes activar 1 de estos efectos;\n●Roba 2 cartas.\n●Devuelve a la mano todas las Cartas Mágicas y de Trampa en el Campo.\n●Destruye todos los monstruos que controle tu adversario.\n●Mira la mano de tu adversario, y además baraja a su Deck 1 carta en su mano.\nSólo puedes usar este efecto de \"Olla de Lo Prohibido\" una vez por turno.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Roca",
+    "Volteo",
+    "Efecto"
+  ]
+}

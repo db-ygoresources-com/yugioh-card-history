@@ -1,0 +1,18 @@
+{
+  "id": 11521,
+  "type": "monster",
+  "name": "Camarartista Mufflion de Fogo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Uma vez por turno, se um Monstro Pêndulo que você controla destruir um monstro do oponente em batalha, depois do cálculo de dano: você pode fazer com que esse monstro que você controla ganhe 200 de ATK até o final da Fase de Batalha e, se isso acontecer, ele pode realizar um segundo ataque em seguida.",
+  "pendEffect": "Quando um Monstro Pêndulo que você controla for destruído em batalha: você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14333,
+  "type": "monster",
+  "name": "Spadassin des Flammes Féroces",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres de noms différents\nTous les monstres Guerrier sur le Terrain gagnent 500 ATK. Si cette carte Invoquée par Lien est détruite au combat, ou par un effet de carte de l'adversaire tant qu'elle est dans la Zone Monstre de son propriétaire : vous pouvez cibler 1 monstre non-Lien Guerrier dans votre Cimetière ; Invoquez-le Spécialement, mais bannissez-le lorsqu'il quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Spadassin des Flammes Féroces\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 1300,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

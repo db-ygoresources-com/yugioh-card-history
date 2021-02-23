@@ -1,0 +1,15 @@
+{
+  "id": 6778,
+  "type": "monster",
+  "name": "Rallis, l'Oiseau-Étoile",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Augmentez l'ATK de cette carte du Niveau du monstre qu'elle combat x 200 points durant la Damage Step uniquement. Si cette carte attaque, elle est retirée du jeu à la fin de la Damage Step et est renvoyée sur votre Terrain en Position d'Attaque face recto au début de la Battle Phase de votre prochain tour.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

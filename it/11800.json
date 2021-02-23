@@ -1,0 +1,15 @@
+{
+  "id": 11800,
+  "type": "monster",
+  "name": "Artistamagus Mangia Fuoco",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Durante il turno di qualsiasi giocatore, quando viene attivata una carta o un effetto che sta per infliggerti danno: puoi attivare questo effetto; non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri \"Artistamagus\", inoltre Evoca Specialmente questa carta dalla tua mano e, se lo fai, fai diventare 0 quell'effetto di danno per te. Se viene Evocato in questo modo, bandiscilo quando lascia il Terreno. Se questa carta viene Evocata Normalmente o Specialmente: ogni giocatore subisce 500 danni.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

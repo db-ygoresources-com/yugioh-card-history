@@ -1,0 +1,15 @@
+{
+  "id": 14828,
+  "type": "monster",
+  "name": "Scheußliche losgekettete Seele",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst nur einmal pro Spielzug eine oder mehr „Scheußliche losgekettete Seele“ als Spezialbeschwörung beschwören. Falls eine oder mehr Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte abwerfen; zerstöre 1 Karte auf dem Spielfeld. Einmal pro Spielzug, während der End Phase, falls diese Karte im Friedhof liegt, weil sie in diesem Spielzug auf dem Spielfeld zerstört und dorthin gelegt wurde: Du kannst diese Karte als Spezialbeschwörung beschwören, aber lege sie unters Deck, wenn sie das Spielfeld verlässt.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

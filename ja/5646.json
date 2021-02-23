@@ -1,0 +1,16 @@
+{
+  "id": 5646,
+  "type": "monster",
+  "name": "アマゾネスの吹き矢兵",
+  "nameRuby": "アマゾネスのふきやへい",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "自分のスタンバイフェイズ毎に相手フィールド上のモンスターを１体選択する。選択したモンスターの攻撃力はターン終了時まで５００ポイントダウンする。",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "戦士族",
+    "効果"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5526,
+  "type": "monster",
+  "name": "Geister-Sensenmann",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht durch Kampf zerstört werden. Nachdem ein Karteneffekt aufgelöst wurde, der diese offene Karte als Ziel wählt, zerstöre diese Karte. Wenn diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt: Wirf 1 zufällige Karte von seiner Hand ab.",
+  "level": 3,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

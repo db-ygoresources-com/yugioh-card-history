@@ -1,0 +1,18 @@
+{
+  "id": 14440,
+  "type": "monster",
+  "name": "Reflet d'Endymion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Reflet d'Endymion\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte contrôlée par votre adversaire et 1 carte que vous contrôlez avec un Compteur Magie (cette carte exclue) ; renvoyez la carte de l'adversaire et votre carte à la main, puis placez le même nombre de Compteurs Magie que votre carte renvoyée avait sur cette carte. Lorsque cette carte avec un Compteur Magie est détruite au combat : vous pouvez ajouter 1 carte \"Endymion\" depuis votre Deck à votre main.",
+  "pendEffect": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Vous pouvez retirer 3 Compteurs Magie de cette carte ; Invoquez Spécialement cette carte depuis votre Zone Pendule ainsi qu'1 monstre depuis votre main sur lequel vous pouvez placer un Compteur Magie, et si vous le faites, placez 1 Compteur Magie sur chacun d'eux.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 1850,
+  "def": 2700,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

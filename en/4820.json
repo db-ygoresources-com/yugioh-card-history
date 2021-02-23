@@ -1,0 +1,10 @@
+{
+  "id": 4820,
+  "type": "spell",
+  "name": "Roulette Spider",
+  "englishAttribute": "spell",
+  "localizedAttribute": "SPELL",
+  "effectText": "When an opponent's monster declares an attack: Roll a six-sided die and apply the result.\n1: Halve your LP.\n2: Make that attack a direct attack.\n3: Choose 1 monster you control, change the attack target to it, and perform damage calculation.\n4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation.\n5: Negate the attack, and if you do, inflict damage to your opponent equal to that monster's ATK.\n6: Destroy that opponent's monster.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Quick-Play"
+}

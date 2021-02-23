@@ -1,0 +1,15 @@
+{
+  "id": 8571,
+  "type": "monster",
+  "name": "Warlock of the Ice Barrier",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "While you control another \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+  "level": 3,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

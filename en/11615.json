@@ -1,0 +1,18 @@
+{
+  "id": 11615,
+  "type": "monster",
+  "name": "Performapal Pendulum Sorcerer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card is Special Summoned: You can target up to 2 cards you control; destroy them, and if you do, add \"Performapal\" monsters with different names from your Deck to your hand, except \"Performapal Pendulum Sorcerer\", equal to the number of cards destroyed. You can only use this effect of \"Performapal Pendulum Sorcerer\" once per turn.",
+  "pendEffect": "If a \"Performapal\" monster(s) is Pendulum Summoned to your field: All \"Performapal\" monsters you currently control gain 1000 ATK until the end of this turn (even if this card leaves the field).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

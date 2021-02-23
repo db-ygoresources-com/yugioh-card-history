@@ -1,0 +1,16 @@
+{
+  "id": 10001,
+  "type": "monster",
+  "name": "Maître Diamant, Chevalier-Gemmes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "3 monstres \"Chevalier-Gemmes\"\nDoit d'abord être Invoquée par Fusion. Cette carte gagne 100 ATK pour chaque monstre \"-Gemmes\" dans votre Cimetière. Une fois par tour : vous pouvez bannir 1 Monstre de Fusion \"Chevalier-Gemmes\" de max. Niveau 7 depuis votre Cimetière ; jusqu'à la End Phase, le nom de cette carte devient le même que celui du monstre, et remplacez cet effet par les effets d'origine du monstre.",
+  "level": 9,
+  "atk": 2900,
+  "def": 2500,
+  "properties": [
+    "Rocher",
+    "Fusion",
+    "Effet"
+  ]
+}

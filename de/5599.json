@@ -1,0 +1,15 @@
+{
+  "id": 5599,
+  "type": "monster",
+  "name": "Kanonen-Roulette",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst zweimal einen sechsseitigen Würfel werfen, 1 Ergebnis bestimmen und 1 Monster auf dem Spielfeld zerstören, dessen Stufe dem bestimmten Ergebnis entspricht.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

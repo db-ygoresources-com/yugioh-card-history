@@ -1,0 +1,15 @@
+{
+  "id": 5886,
+  "type": "monster",
+  "name": "Lézard Ballon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Mettez 1 compteur sur cette carte durant chacune de vos Standby Phases. Lorsque cette carte est détruite, infligez un nombre de dommages égal au nombre de compteurs x 400 points au contrôleur de la carte qui a détruit cette carte.",
+  "level": 4,
+  "atk": 500,
+  "def": 1900,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13884,
+  "type": "monster",
+  "name": "Rain Bozu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Gana ATK sólo durante tu turno, y gana DEF sólo durante el turno de tu adversario, cada uno igual a la diferencia entre el número de cartas en los Decks Extra x 200. Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno, éste gana ATK igual a la diferencia entre el número de cartas en los Decks Extra x 100 (aun si esta carta deja el Campo).",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

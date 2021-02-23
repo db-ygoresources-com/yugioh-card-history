@@ -1,0 +1,15 @@
+{
+  "id": 15018,
+  "type": "monster",
+  "name": "Trias Hierarchia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant la Main Phase, si cette carte est dans votre main ou Cimetière (Effet Rapide) : vous pouvez Sacrifier max. 3 monstres Elfe ; Invoquez Spécialement cette carte (mais bannissez-la lorsqu'elle quitte le Terrain), puis, vous pouvez appliquer les effets suivants dans l'ordre, selon le nombre de monstres Sacrifiés.\n●2+ : Détruisez 1 carte contrôlée par votre adversaire.\n●3 : Piochez 2 cartes.\nVous ne pouvez utiliser cet effet de \"Trias Hierarchia\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 1900,
+  "def": 2900,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

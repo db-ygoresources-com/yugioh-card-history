@@ -1,0 +1,16 @@
+{
+  "id": 8708,
+  "type": "monster",
+  "name": "Chimiste, Allié Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez déclarer 1 Attribut et défausser cette carte pour sélectionner 1 monstre \"Genex\" face recto que vous contrôlez. L'Attribut de ce monstre devient celui déclaré. Cet effet peut être activé durant votre tour ou celui de votre adversaire.",
+  "level": 2,
+  "atk": 200,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

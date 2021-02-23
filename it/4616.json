@@ -1,0 +1,15 @@
+{
+  "id": 4616,
+  "type": "monster",
+  "name": "Lucertola Elettrica",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Un mostro non di Tipo Zombie che attacchi \"Lucertola Elettrica\" non può attaccare nel suo turno successivo.",
+  "level": 3,
+  "atk": 850,
+  "def": 800,
+  "properties": [
+    "Tuono",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9880,
+  "type": "monster",
+  "name": "Choctopus",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est détruite au combat avec un monstre de votre adversaire et envoyée au Cimetière : vous pouvez équiper cette carte au monstre de votre adversaire. L'ATK du monstre devient 0, et aussi, il ne peut pas changer sa position de combat.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

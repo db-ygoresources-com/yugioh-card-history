@@ -1,0 +1,16 @@
+{
+  "id": 5583,
+  "type": "monster",
+  "name": "Kiryu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, kannst du deine „Dunkelklinge“-Karte mit dieser Karte als Ausrüstungszauberkarte ausrüsten ODER sie als Union-Ausrüstung ausklinken und als Spezialbeschwörung in offener Angriffsposition auf deiner Spielfeldseite beschwören. Wenn diese Karte durch ihren Effekt ein Monster ausrüstet, erhöhe die ATK und DEF des ausgerüsteten Monsters um 900 Punkte und wenn du diese Karte als Tribut anbietest, kann das ausgerüstete Monster die Life Points deines Gegners in diesem Spielzug direkt angreifen. (1 Monster kann nur mit 1 Union-Monster zurzeit ausgerüstet sein. Wenn das Monster, das mit dieser Karte ausgerüstet ist, als Ergebnis eines Kampfes zerstört wird, zerstöre stattdessen diese Karte.)",
+  "level": 5,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Drache",
+    "Union",
+    "Effekt"
+  ]
+}

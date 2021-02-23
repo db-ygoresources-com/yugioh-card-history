@@ -1,0 +1,15 @@
+{
+  "id": 13737,
+  "type": "monster",
+  "name": "Zirnitron Dragon de Mana",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si une Magie/Piège que vous contrôlez quitte le Terrain à cause d'un effet de l'adversaire, et est maintenant dans le Cimetière ou banni (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque la Magie/Piège a quitté le Terrain) ou main (même si elle n'y était pas), puis vous pouvez Poser 1 Magie/Piège qui a été banni ou dans votre Cimetière dans votre Zone Magie & Piège. Vous ne pouvez utiliser cet effet de \"Zirnitron Dragon de Mana\" qu'une fois par tour. Si elle est Invoquée de cette façon, bannissez cette carte lorsqu'elle quitte le Terrain.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

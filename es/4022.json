@@ -1,0 +1,15 @@
+{
+  "id": 4022,
+  "type": "monster",
+  "name": "Mago del Tiempo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes lanzar una moneda y elegir Cara o Cruz. Si aciertas, destruye todos los monstruos que controle tu adversario. Si fallas, destruye tantos monstruos que controles como sea posible y, si lo haces, recibes daño igual a la mitad del ATK total que esos monstruos destruidos tenían mientras estaban boca arriba en el Campo.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

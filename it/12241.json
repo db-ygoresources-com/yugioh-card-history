@@ -1,0 +1,18 @@
+{
+  "id": 12241,
+  "type": "monster",
+  "name": "Cavalleria d'Acciaio di Dinon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "All'inizio del Damage Step, se questa carta combatte con un Mostro Pendulum: l'ATK e il DEF di questa carta diventano la metà dei suoi ATK e DEF attuali fino alla fine del Damage Step.",
+  "pendEffect": "",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1600,
+  "def": 2600,
+  "properties": [
+    "Dinosauro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

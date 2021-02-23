@@ -1,0 +1,15 @@
+{
+  "id": 11517,
+  "type": "monster",
+  "name": "Dragon Kabuki",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, avant le calcul des dommages, si votre monstre a attaqué un monstre de votre adversaire : vous pouvez changer la position de combat du monstre contrôlé par votre adversaire. Une fois par tour, avant le calcul des dommages, si un monstre de votre adversaire a attaqué votre monstre : vous pouvez changer la position de combat du monstre que vous contrôlez.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

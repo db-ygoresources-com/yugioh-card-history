@@ -1,0 +1,15 @@
+{
+  "id": 11709,
+  "type": "monster",
+  "name": "Magmadrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster vom Typ Wyrm in deinem Friedhof wählen, außer „Magmadrache“; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, aber seine Effekte werden annulliert. Du kannst diesen Effekt von „Magmadrache“ nur einmal pro Spielzug verwenden. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer Monstern vom Typ Wyrm.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

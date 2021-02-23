@@ -1,0 +1,15 @@
+{
+  "id": 8757,
+  "type": "monster",
+  "name": "Guardia Dracónico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cada vez que un monstruo es Invocado de Modo Normal, o Colocado, pon 1 Contador Dracónico en esta carta. Puedes mandar al Cementerio esta carta boca arriba para Invocar de Modo Especial, desde tu Deck, 1 monstruo de Tipo Dragón cuyo Nivel sea menor o igual a la cantidad de Contadores Dracónicos en esta carta.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

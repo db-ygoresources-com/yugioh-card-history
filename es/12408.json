@@ -1,0 +1,18 @@
+{
+  "id": 12408,
+  "type": "monster",
+  "name": "Mago Acrobático",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si es negada la activación de una Carta Mágica/de Trampa (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Cuando esta carta es destruida en batalla: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Cuando uno o más monstruos que controlas son destruidos por efecto de una carta (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo. Sólo puedes usar este efecto de \"Mago Acrobático\" una vez por turno.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 800,
+  "def": 2300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

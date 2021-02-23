@@ -1,0 +1,20 @@
+{
+  "id": 15318,
+  "type": "monster",
+  "name": "Dragon Taotie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres Invoqués Spécialement depuis l'Extra Deck\nCette carte gagne des effets selon les types de carte (Fusion/Synchro/Xyz) des Matériels utilisés pour son Invocation Lien.\n●Fusion : Durant la Battle Phase, votre adversaire ne peut pas activer d'effets de monstre.\n●Synchro : Durant votre Main Phase, votre adversaire ne peut activer ni de Cartes Magie/Piège ni d'effets de Magie/Piège.\n●Xyz : Durant votre Main Phase ou Battle Phase, votre adversaire ne peut pas activer les effets des cartes dans le Cimetière.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Wyrm",
+    "Lien",
+    "Effet"
+  ]
+}

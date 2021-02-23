@@ -1,0 +1,15 @@
+{
+  "id": 5339,
+  "type": "monster",
+  "name": "Dragon des Cavernes",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non Invocable Normalement tant que vous contrôlez un monstre. Cette carte ne peut pas déclarer d'attaque sauf si vous contrôlez un autre monstre de Type Dragon.",
+  "level": 4,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

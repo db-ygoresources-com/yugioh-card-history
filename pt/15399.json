@@ -1,0 +1,18 @@
+{
+  "id": 15399,
+  "type": "monster",
+  "name": "Utensilhor Lavandragão",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "1 monstro \"Utensilhor\"\nNão pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Nenhum duelista sofre qualquer dano de batalha dos ataques envolvendo este card. Uma vez por turno, depois do cálculo de dano, se este card co-linkado batalhar um monstro do oponente: você pode banir o monstro do oponente. Uma vez por turno, depois do cálculo de dano, se este monstro que não estiver co-linkado batalhar um monstro do oponente: você pode destruir esse monstro do oponente e, se isso acontecer, cause dano ao seu oponente igual ao ATK original dele.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Máquina",
+    "Link",
+    "Efeito"
+  ]
+}

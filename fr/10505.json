@@ -1,0 +1,15 @@
+{
+  "id": 10505,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Raiefurtive",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte inflige des dommages de combat à votre adversaire : Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Type Machine/VENT/Niveau 3/ATK 0/DEF 0). Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Une fois par tour : vous pouvez Sacrifier 1 Jeton, puis ciblez 1 Carte Magie/Piège sur le Terrain ; détruisez la cible.",
+  "level": 3,
+  "atk": 100,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

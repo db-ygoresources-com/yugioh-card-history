@@ -1,0 +1,16 @@
+{
+  "id": 7610,
+  "type": "monster",
+  "name": "Canon Mobile Bipède",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Ciblez 1 monstre de Niveau 4 dans votre Cimetière ; ajoutez la cible à votre main.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8255,
+  "type": "monster",
+  "name": "Verme Tentacolare",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, puoi rimuovere dal gioco 1 mostro \"Verme\" di Tipo Rettile nel tuo Cimitero per permettere a questa carta di attaccare due volte durante la stessa Battle Phase.",
+  "level": 4,
+  "atk": 1700,
+  "def": 700,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12944,
+  "type": "monster",
+  "name": "Zefraath",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deinem offenen Extra Deck) beschworen werden, indem du alle Monster, die du kontrollierst, als Tribut anbietest, darunter mindestens 3 „Zefra“-Monster, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Nachdem du diese Karte als Spezialbeschwörung beschworen hast, kannst du während deiner Main Phase dieses Spielzugs zusätzlich zu deiner Pendelbeschwörung 1 Pendelbeschwörung von einem oder mehr „Zefra“-Monstern durchführen. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Einmal pro Spielzug: Du kannst 1 Monster als Tribut anbieten; beschwöre 1 „Zefra“-Monster als Spezialbeschwörung von deinem Deck.",
+  "pendEffect": "Während deiner Main Phase: Du kannst deinem Extra Deck 1 „Zefra“-Pendelmonster offen von deinem Deck hinzufügen und falls du dies tust, ändere den Pendelbereich dieser Karte bis zum Ende dieses Spielzugs, sodass er der gleiche wie der des Pendelmonsters ist. Du kannst diesen Effekt von „Zefraath“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 5,
+  "level": 11,
+  "atk": 3450,
+  "def": 2950,
+  "properties": [
+    "Fels",
+    "Pendel",
+    "Effekt"
+  ]
+}

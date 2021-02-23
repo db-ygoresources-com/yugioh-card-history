@@ -1,0 +1,18 @@
+{
+  "id": 12401,
+  "type": "monster",
+  "name": "Artistamico Gongatto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, quando viene dichiarato un attacco che coinvolge un mostro che controlli e un mostro dell'avversario: puoi attivare questo effetto; non subisci danno da combattimento da quella battaglia.",
+  "pendEffect": "Una volta per turno, quando un mostro dell'avversario dichiara un attacco diretto: puoi attivare questo effetto; non subisci danno da combattimento da quella battaglia (anche se questa carta lascia il Terreno).",
+  "pendScale": 2,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

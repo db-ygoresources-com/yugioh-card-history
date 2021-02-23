@@ -1,0 +1,15 @@
+{
+  "id": 4241,
+  "type": "monster",
+  "name": "Wotan, Waldbewohner",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Die ATK dieses Monsters erhöht sich um 100 Punkte für jedes Monster vom Typ Pflanze, das offen auf dem Spielfeld liegt.",
+  "level": 3,
+  "atk": 900,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

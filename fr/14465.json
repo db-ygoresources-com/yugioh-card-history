@@ -1,0 +1,15 @@
+{
+  "id": 14465,
+  "type": "monster",
+  "name": "Simorgh, le Seigneur de la Tempête",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Votre adversaire ne peut pas cibler cette carte Invoquée par Sacrifice avec des Cartes Magie/Piège ou effets de Magie/Piège. Vous ne pouvez utiliser chacun des effets suivants de \"Simorgh, le Seigneur de la Tempête\" qu'une fois par tour.\n●Lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez Sacrifier 1 monstre VENT Bête Ailée, puis ciblez 1 carte contrôlée par votre adversaire ; mélangez-la dans le Deck.\n●Lorsqu'un monstre Bête Ailée que vous contrôlez est détruit au combat, tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2000,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

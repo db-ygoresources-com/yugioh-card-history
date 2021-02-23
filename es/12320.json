@@ -1,0 +1,16 @@
+{
+  "id": 12320,
+  "type": "monster",
+  "name": "Leona Bailarina de la Lunaluz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Pantera Bailarina de la Lunaluz\" + 2 monstruos \"Lunaluz\"\nDebe ser Invocada por Fusión con los Materiales de Fusión listados arriba. Tu adversario no puede seleccionar esta carta con efectos de cartas, y además no puede ser destruida por efectos de cartas de tu adversario. Esta carta puede hacer un segundo ataque durante cada Battle Phase. Una vez por turno, al final del Damage Step, si esta carta atacó a un monstruo: puedes destruir todos los monstruos Invocados de Modo Especial que controle tu adversario.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Fusión",
+    "Efecto"
+  ]
+}

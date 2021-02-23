@@ -1,0 +1,15 @@
+{
+  "id": 12671,
+  "type": "monster",
+  "name": "Himmlische Schlange Geh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Falls ein oder mehr Monster, die du kontrollierst, durch einen Angriff oder Karteneffekt eines Gegners zerstört werden: Du kannst die Hälfte deiner LP zahlen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Kann nicht als Ziel für Karteneffekte gewählt werden. Falls diese Karte ein Monster eines Gegners angreift, nur während des Damage Steps, annulliere die Effekte des Monsters, solange es offen auf dem Spielfeld liegt (aber seine Effekte können trotzdem aktiviert werden), zusätzlich werden seine ATK gleich der Hälfte seiner Grund-ATK. Einmal pro Kampf, falls diese Karte kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst die ATK dieser Karte gleich den höchsten Grund-ATK auf dem Spielfeld werden lassen (bei Gleichstand bestimmst du).",
+  "level": 12,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

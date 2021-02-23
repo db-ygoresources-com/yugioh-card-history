@@ -1,0 +1,15 @@
+{
+  "id": 10039,
+  "type": "monster",
+  "name": "Cohete Flecha Exprés",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) mientras no controles cartas, y no puede ser Invocado de Modo Especial de otra forma. No puedes realizar tu Battle Phase en el turno en el que Invocas esta carta de Modo Especial. No puedes activar cartas o efectos, ni Colocar cartas. Durante cada una de tus Standby Phases, destruye esta carta a menos que mandes al Cementerio toda tu mano (mín. 1 carta).",
+  "level": 10,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

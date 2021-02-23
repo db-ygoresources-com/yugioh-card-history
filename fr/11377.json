@@ -1,0 +1,16 @@
+{
+  "id": 11377,
+  "type": "monster",
+  "name": "Héraut de l'Ultime",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Oracle du Héraut\". Uniquement Invocable Rituellement. Lorsque votre adversaire va Invoquer Spécialement un ou plusieurs monstres, OU active une Carte Magie/Piège ou un effet de monstre (Effet Rapide) : vous pouvez envoyer 1 monstre Elfe depuis votre main au Cimetière ; annulez l'Invocation Spéciale ou l'activation, et si vous le faites, détruisez la carte.",
+  "level": 12,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Elfe",
+    "Rituel",
+    "Effet"
+  ]
+}

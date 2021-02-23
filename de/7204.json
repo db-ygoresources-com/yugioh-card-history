@@ -1,0 +1,16 @@
+{
+  "id": 7204,
+  "type": "monster",
+  "name": "Schattengräber",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof ist. Solange diese Karte offen auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Einmal pro Spielzug kannst du 1 offenes FINSTERNIS Monster der Stufe 4 oder niedriger wählen, das du kontrollierst. Es kann deinen Gegner in diesem Spielzug direkt angreifen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Zwilling",
+    "Effekt"
+  ]
+}

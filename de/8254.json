@@ -1,0 +1,15 @@
+{
+  "id": 8254,
+  "type": "monster",
+  "name": "Wurm Solid",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte erhält 100 DEF für jedes „Wurm“-Monster vom Typ Reptil in deinem Friedhof. Falls dein Gegner Kampfschaden durch einen Angriff auf diese Karte erhält, wähle am Ende des Damage Steps 1 Zauber- oder Fallenkarte, die dein Gegner kontrolliert, und zerstöre sie.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

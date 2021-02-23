@@ -1,0 +1,15 @@
+{
+  "id": 15344,
+  "type": "monster",
+  "name": "Jinzo la Menace Machine",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si un Piège est face recto sur le Terrain ou dans l'un des Cimetières : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, elle devient Niveau 6 jusqu'à la fin de ce tour. Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 \"Jinzo\" depuis votre main ou Cimetière, puis vous pouvez détruire tous les Pièges contrôlés par votre adversaire (si une carte est Posée, révélez-la). Vous ne pouvez utiliser chaque effet de \"Jinzo la Menace Machine\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

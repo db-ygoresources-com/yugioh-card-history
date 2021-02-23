@@ -1,0 +1,15 @@
+{
+  "id": 7296,
+  "type": "monster",
+  "name": "Spieler der Legende",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug kannst du dreimal eine Münze werfen und den entsprechenden Effekt ausführen:\n●3mal Kopf: Zerstöre alle Monster, die dein Gegner kontrolliert.\n●2mal Kopf: Wirf 1 zufällige Karte von der Hand deines Gegners ab.\n●1mal Kopf: Zerstöre 1 Karte, die du kontrollierst.\n●3mal Zahl: Wirf deine komplette Hand ab.",
+  "level": 4,
+  "atk": 500,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

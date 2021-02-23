@@ -1,0 +1,16 @@
+{
+  "id": 7298,
+  "type": "monster",
+  "name": "Espíritu de los Seis Samuráis",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, puedes: selecciona 1 monstruo \"Seis Samuráis\" boca arriba que controles; equipa esta carta a ese objetivo, O: desequipa esta carta e Invócala de Modo Especial en Posición de Ataque boca arriba. Mientras esté equipado por este efecto, el monstruo equipado gana 500 ATK y DEF. Si el monstruo equipado destruye a un monstruo de tu adversario en batalla: roba 1 carta. (Un monstruo sólo puede ser equipado con 1 Monstruo de Unión a la vez. Si el monstruo equipado con esta carta fuera a ser destruido, destruye esta carta en su lugar).",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Guerrero",
+    "Unión",
+    "Efecto"
+  ]
+}

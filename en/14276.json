@@ -1,0 +1,15 @@
+{
+  "id": 14276,
+  "type": "monster",
+  "name": "Handigallop",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Cannot attack directly. Gains ATK equal to the difference between your LP and your opponent's. If your LP are higher than your opponent's, you take any battle damage your opponent would have taken from battles involving this attacking card, instead.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Beast",
+    "Effect"
+  ]
+}

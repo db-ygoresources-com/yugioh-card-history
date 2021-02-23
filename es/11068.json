@@ -1,0 +1,15 @@
+{
+  "id": 11068,
+  "type": "monster",
+  "name": "Particulines de Polvo de Estrellas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) mandando al Cementerio a cualquier cantidad de monstruos \"Particulines\" que controles, y no puede ser Invocado de Modo Especial de otra forma. El ATK y la DEF de esta carta se convierten, cada uno, en la cantidad de monstruos enviados al Cementerio para su Invocación x 1000. Tu adversario no puede Invocar monstruos por Volteo o de Modo Especial, ni activar Cartas Mágicas/de Trampa Colocadas en el Campo. Si controlas más monstruos que tu adversario, destruye esta carta.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

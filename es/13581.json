@@ -1,0 +1,15 @@
+{
+  "id": 13581,
+  "type": "monster",
+  "name": "Hombre Pila Solar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 monstruo Trueno en tu Deck. Si uno o más monstruos Trueno son Invocados de Modo Normal o Especial mientras este monstruo esté en el Campo: Invoca de Modo Especial 1 \"Ficha Hombre Pila\" (Trueno/LUZ/Nivel 1/ATK 0/DEF 0). Puedes seleccionar 1 Monstruo de Efecto \"Hombre Pila\" que controles o en tu Cementerio; hasta la End Phase, el nombre de esta carta se convierte en el nombre de ese monstruo. Sólo puedes usar cada efecto de \"Hombre Pila Solar\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

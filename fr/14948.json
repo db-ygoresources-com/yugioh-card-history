@@ -1,0 +1,21 @@
+{
+  "id": 14948,
+  "type": "monster",
+  "name": "Yuki-Onna, Mayakashi du Zéro Absolu",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2+ monstres Zombie\nVous ne pouvez contrôler qu'1 \"Yuki-Onna, Mayakashi du Zéro Absolu\". Annulez les effets activés des monstres bannis de votre adversaire. Si un monstre est Invoqué Spécialement depuis le Cimetière, ou si un effet de monstre est activé dans le Cimetière (sauf durant la Damage Step) : vous pouvez cibler 1 autre monstre face recto sur le Terrain ; changez son ATK à 0, et si vous le faites, annulez ses effets. Vous pouvez utiliser cet effet de \"Yuki-Onna, Mayakashi du Zéro Absolu\" max. deux fois par tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 2900,
+  "properties": [
+    "Zombie",
+    "Lien",
+    "Effet"
+  ]
+}

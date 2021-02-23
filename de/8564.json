@@ -1,0 +1,16 @@
+{
+  "id": 8564,
+  "type": "monster",
+  "name": "Jurassier-Gallim",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Dein Gegner kann 1 Karte abwerfen, um den Effekt dieser Karte zu annullieren, andernfalls zerstöre das Monster, das diese Karte zerstört hat.",
+  "level": 2,
+  "atk": 1200,
+  "def": 0,
+  "properties": [
+    "Dinosaurier",
+    "Empfänger",
+    "Effekt"
+  ]
+}

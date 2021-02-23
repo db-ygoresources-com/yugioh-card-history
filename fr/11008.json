@@ -1,0 +1,15 @@
+{
+  "id": 11008,
+  "type": "monster",
+  "name": "Poupée Truquée Antenne Obscure",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non destructible au combat. Lorsque vous recevez des dommages de combat d'une attaque directe de votre adversaire tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière en Position d'Attaque face recto, et si vous le faites, recevez 1000 points de dommages. Vous ne pouvez utiliser cet effet de \"Poupée Truquée Antenne Obscure\" qu'une fois par tour. Si cette carte est un Matériel Xyz et va être envoyée au Cimetière, bannissez-la à la place.",
+  "level": 8,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

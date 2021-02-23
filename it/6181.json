@@ -1,0 +1,16 @@
+{
+  "id": 6181,
+  "type": "monster",
+  "name": "Piattaforma di Supporto per Mezzi Pesanti",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, puoi: scegliere come bersaglio 1 mostro Macchina che controlli; equipaggia questa carta a quel bersaglio, OPPURE: disequipaggiare questa carta ed Evocarla Specialmente. Un mostro equipaggiato con questa carta guadagna 500 ATK/DEF, inoltre, se il mostro equipaggiato sta per essere distrutto in battaglia o dall'effetto di una carta, distruggi invece questa carta.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Unione",
+    "Effetto"
+  ]
+}

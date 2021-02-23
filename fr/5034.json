@@ -1,0 +1,17 @@
+{
+  "id": 5034,
+  "type": "monster",
+  "name": "Soldat Cipher",
+  "oldName": "Soldat Kinésique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "notes": "Nom de carte actualisé de \"Soldat Kinésique\" le 18-11-2016.",
+  "effectText": "Si cette carte combat un monstre de Type Guerrier, durant le calcul des dommages : durant ce calcul des dommages uniquement, cette carte gagne 2000 ATK/DEF.",
+  "level": 3,
+  "atk": 1350,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

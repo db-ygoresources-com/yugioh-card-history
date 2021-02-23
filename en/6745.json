@@ -1,0 +1,15 @@
+{
+  "id": 6745,
+  "type": "monster",
+  "name": "Rescueroid",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.",
+  "level": 6,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

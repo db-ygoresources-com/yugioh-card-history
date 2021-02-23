@@ -1,0 +1,16 @@
+{
+  "id": 10646,
+  "type": "monster",
+  "name": "Pájaro de la Bruma Clausolas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1 o más monstruos que no sean Cantantes\nUna vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; su ATK se convierte en 0 y, si lo hace, sus efectos son negados. Estos cambios duran hasta el final de este turno.",
+  "level": 3,
+  "atk": 0,
+  "def": 2300,
+  "properties": [
+    "Bestia Alada",
+    "Sincronía",
+    "Efecto"
+  ]
+}

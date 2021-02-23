@@ -1,0 +1,18 @@
+{
+  "id": 12225,
+  "type": "monster",
+  "name": "D/D/D-Chaoskönig Apokalypse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während des Spielzugs deines Gegners, falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 2 offene Zauber-/Fallenkarten wählen, die du kontrollierst; du kannst für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Monstern vom Typ Unterweltler, zusätzlich zerstöre die als Ziel gewählten Karten und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. (Dies ist ein Schnelleffekt.) Du kannst diesen Effekt von „D/D/D-Chaoskönig Apokalypse“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 2 „D/D“-Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Pendelzone.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

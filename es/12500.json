@@ -1,0 +1,15 @@
+{
+  "id": 12500,
+  "type": "monster",
+  "name": "Artilugio Plateado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo Máquina de Nivel 4 en tu mano. Si esta carta es destruida en batalla o por efecto de una carta: puedes Invocar de Modo Especial 1 monstruo \"Artilugio\" de Nivel 4 en tu Deck, excepto \"Artilugio Plateado\". Sólo puedes usar 1 efecto de \"Artilugio Plateado\" por turno, y sólo una vez ese turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

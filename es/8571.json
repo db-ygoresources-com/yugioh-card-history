@@ -1,0 +1,15 @@
+{
+  "id": 8571,
+  "type": "monster",
+  "name": "Brujo de la Barrera de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Mientras controles otro monstruo \"Barrera de Hielo\", ambos jugadores deben Colocar las Cartas Mágicas antes de activarlas, y no pueden activarlas hasta su próximo turno.",
+  "level": 3,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

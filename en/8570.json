@@ -1,0 +1,16 @@
+{
+  "id": 8570,
+  "type": "monster",
+  "name": "Defender of the Ice Barrier",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "While you control another \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
+  "level": 3,
+  "atk": 200,
+  "def": 1600,
+  "properties": [
+    "Aqua",
+    "Tuner",
+    "Effect"
+  ]
+}

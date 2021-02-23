@@ -1,0 +1,15 @@
+{
+  "id": 7844,
+  "type": "monster",
+  "name": "Nutria Arborícola",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno, éste gana 1000 ATK. Debes controlar un monstruo de Tipo Bestia (que no sea esta carta) para activar y resolver este efecto.",
+  "level": 2,
+  "atk": 1200,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

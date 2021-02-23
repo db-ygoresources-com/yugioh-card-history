@@ -1,0 +1,18 @@
+{
+  "id": 11873,
+  "type": "monster",
+  "name": "Aether, el Malvado Dragón Fortalecedor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo en el Campo; destiérralo.",
+  "pendEffect": "Una vez por turno: puedes desterrar 1 \"Guerrero Fortalecido\" en tu Cementerio, y después selecciona 1 carta en el Campo; destrúyela.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

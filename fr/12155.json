@@ -1,0 +1,16 @@
+{
+  "id": 12155,
+  "type": "monster",
+  "name": "Paladin de l'Illumination",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nSi cette carte est Invoquée par Synchronisation en utilisant un Monstre Pendule \"Magicien\" comme Matériel : vous pouvez cibler 1 Carte Magie dans votre Cimetière ; ajoutez-la à votre main. Vous ne pouvez utiliser cet effet de \"Paladin de l'Illumination\" qu'une fois par tour. Lorsque cette carte détruit un monstre de votre adversaire au combat : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK d'origine du monstre.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Synchro",
+    "Effet"
+  ]
+}

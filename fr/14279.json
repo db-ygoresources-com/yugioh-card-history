@@ -1,0 +1,16 @@
+{
+  "id": 14279,
+  "type": "monster",
+  "name": "Créaltar, l'Initiateur de la Lutincantation",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Commencement de Lutincantation\". Durant la Main Phase (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; défaussez 1 carte, puis Invoquez Spécialement un nombre de monstres \"Lutincantation\" depuis votre Cimetière dont le Niveau total est égal à 10, mais mélangez-les dans le Deck durant la End Phase. Vous ne pouvez utiliser cet effet de \"Créaltar, l'Initiateur de la Lutincantation\" qu'une fois par tour. Les monstres non-Rituel \"Lutincantation\" que vous contrôlez gagnent 2000 ATK, mais leurs effets sont annulés.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Rituel",
+    "Effet"
+  ]
+}

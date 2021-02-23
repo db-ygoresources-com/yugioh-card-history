@@ -1,0 +1,15 @@
+{
+  "id": 9089,
+  "type": "monster",
+  "name": "Soldat Synchro",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant votre Main Phase 1, vous pouvez sélectionner 1 Monstre Synchro face recto que vous contrôlez. Retirez-le du jeu et infligez 600 points de dommages à votre adversaire. Si vous utilisez cet effet, le monstre retiré du jeu retourne sur le Terrain durant votre prochaine Standby Phase.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

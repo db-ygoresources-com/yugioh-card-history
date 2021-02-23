@@ -1,0 +1,15 @@
+{
+  "id": 4742,
+  "type": "monster",
+  "name": "Esfera Explosiva",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Antes del cálculo de daño, si esta carta en Posición de Defensa boca abajo fue atacada por un monstruo del adversario: equipa esta carta al monstruo atacante. Después, durante la próxima Standby Phase de tu adversario: destruye el monstruo equipado con esta carta y, si lo haces, inflige daño a tu adversario igual al ATK que el monstruo destruido tenía en el Campo.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

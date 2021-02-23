@@ -1,0 +1,15 @@
+{
+  "id": 9251,
+  "type": "monster",
+  "name": "Tournevis Gaucher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée Spécialement : jusqu'à la fin de ce tour, vous pouvez faire devenir cette carte de Niveau 3. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 \"Tournevis Droitier\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Tournevis Gaucher\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11030,
+  "type": "monster",
+  "name": "ZS - Saggio Evanescente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se controlli un mostro \"Utopia\": puoi pescare 1 carta. Se uno o più mostri che controlli vengono banditi durante la Battle Phase (eccetto durante il Damage Step): puoi bandire questa carta dal Terreno, poi scegliere come bersaglio 1 di quei mostri banditi; Evoca Specialmente quel bersaglio e, se lo fai, bandisci 1 mostro controllato dal tuo avversario con ATK di 3000 o inferiore. Puoi utilizzare solo 1 effetto di \"ZS - Saggio Evanescente\" per turno, e solo una volta in quel turno.",
+  "level": 1,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

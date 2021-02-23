@@ -1,0 +1,15 @@
+{
+  "id": 4742,
+  "type": "monster",
+  "name": "Sprengkugel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte in verdeckter Verteidigungsposition von einem Monster eines Gegners angegriffen wurde, vor der Schadensberechnung: Rüste das angreifende Monster mit dieser Karte aus. Dann, während der nächsten Standby Phase deines Gegners: Zerstöre das Monster, das mit dieser Karte ausgerüstet ist, und falls du dies tust, füge deinem Gegner Schaden in Höhe der ATK zu, die das zerstörte Monster auf dem Spielfeld hatte.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

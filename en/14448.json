@@ -1,0 +1,18 @@
+{
+  "id": 14448,
+  "type": "monster",
+  "name": "D/D Ark",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is destroyed by card effect: You can Special Summon 1 face-up \"D/D\" Pendulum Monster from your Extra Deck, except \"D/D Ark\", but its effects are negated. You can only use this effect of \"D/D Ark\" once per turn.",
+  "pendEffect": "You can target 1 Pendulum Summoned monster your opponent controls; destroy both that monster and this card. You can only use this effect of \"D/D Ark\" once per turn.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

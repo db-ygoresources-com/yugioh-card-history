@@ -1,0 +1,18 @@
+{
+  "id": 12394,
+  "type": "monster",
+  "name": "Res Fantasma",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El Fantasma de la Cena de Navidad.",
+  "pendEffect": "Una vez por turno: puedes lanzar un dado de seis caras. Hasta el final de este turno, aumenta la Escala del Péndulo de esta carta en ese número (máx. 10).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Normal"
+  ]
+}

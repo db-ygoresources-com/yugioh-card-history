@@ -1,0 +1,18 @@
+{
+  "id": 13734,
+  "type": "monster",
+  "name": "Dragon Appât Métaphysique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque votre monstre est ciblé par une attaque : vous pouvez cibler 1 de vos monstres \"Métaphysique\" qui sont bannis ou dans votre Cimetière ; bannissez cette carte, et si vous le faites, Invoquez Spécialement le monstre en Position d'Attaque. Durant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez Invoquer Spécialement cette carte bannie. Vous ne pouvez utiliser chaque effet de \"Dragon Appât Métaphysique\" qu'une fois par tour.",
+  "pendEffect": "Lorsque votre monstre est ciblé par une attaque : vous pouvez cibler 1 de vos monstres \"Métaphysique\" qui sont bannis ou dans votre Cimetière ; bannissez cette carte, et si vous le faites, Invoquez Spécialement le monstre en Position d'Attaque. Vous ne pouvez utiliser cet effet de \"Dragon Appât Métaphysique\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Wyrm",
+    "Pendule",
+    "Effet"
+  ]
+}

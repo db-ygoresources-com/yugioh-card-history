@@ -1,0 +1,18 @@
+{
+  "id": 11810,
+  "type": "monster",
+  "name": "Escudero Caballerígneo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "La armadura de frío acero de este escudero no puede esconder la aguda y fulgurante mente que está contenida dentro.",
+  "pendEffect": "Si tienes una carta \"Caballerígneo\" en tu otra Zona del Péndulo: puedes destruir ambas cartas en tus Zonas del Péndulo y, si lo haces, añade a tu mano 1 monstruo de FUEGO de Tipo Guerrero en tu Deck o Cementerio.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

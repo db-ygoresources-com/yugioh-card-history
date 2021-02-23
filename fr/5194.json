@@ -1,0 +1,15 @@
+{
+  "id": 5194,
+  "type": "monster",
+  "name": "L'Amazone Hostile",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Sacrifiez 1 monstre sur votre Terrain (ce monstre exclu) durant chacune de vos Standby Phases. Si vous ne sacrifiez pas, cette carte est détruite.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

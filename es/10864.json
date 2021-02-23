@@ -1,0 +1,15 @@
+{
+  "id": 10864,
+  "type": "monster",
+  "name": "Espadachín de la Llama Azul",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno, durante la Battle Phase de cualquier jugador: puedes seleccionar otro monstruo de Tipo Guerrero que controles; esta carta pierde exactamente 600 ATK y, si lo haces, ese monstruo gana 600 ATK. Cuando esta carta que controlas es destruida por una carta de tu adversario y mandada a tu Cementerio (en batalla o por efecto de una carta): puedes desterrar esta carta de tu Cementerio, y después seleccionar 1 monstruo de FUEGO de Tipo Guerrero en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

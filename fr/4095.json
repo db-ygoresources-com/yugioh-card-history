@@ -1,0 +1,15 @@
+{
+  "id": 4095,
+  "type": "monster",
+  "name": "Tortue Catapulte",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez Sacrifier 1 monstre ; infligez des dommages à votre adversaire égaux à la moitié de l'ATK du monstre Sacrifié sur le Terrain.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8725,
+  "type": "monster",
+  "name": "Gardes Secrets de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Les monstres \"Barrière de Glace\" face recto que vous contrôlez ne peuvent pas être ciblés par les effets des Monstres à Effet de votre adversaire.",
+  "level": 2,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

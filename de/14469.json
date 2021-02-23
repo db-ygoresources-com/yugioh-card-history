@@ -1,0 +1,18 @@
+{
+  "id": 14469,
+  "type": "monster",
+  "name": "Mayosenju Hitot",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden, außer durch eine Pendelbeschwörung. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück. Jedes Mal, wenn eine oder mehr Karten auf dem Spielfeld durch deinen Karteneffekt auf die Hand oder ins Main Deck zurückgegeben werden, solange diese Karte auf dem Spielfeld liegt: Alle „Yosenju“-Monster, die du derzeit kontrollierst, erhalten 500 ATK. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Spezialbeschwörung beschworen wurde: Gib sie auf die Hand zurück.",
+  "pendEffect": "Du kannst 1 „Yosenju“-Karte in deiner Pendelzone wählen; für den Rest dieses Spielzugs wird ihr Pendelbereich zu 11, zusätzlich kannst du keine Monster als Spezialbeschwörung beschwören, außer „Yosenju“-Monstern (selbst falls diese Karte das Spielfeld verlässt). Während deiner End Phase: Gib diese Karte auf die Hand zurück. Du kannst jeden Pendeleffekt von „Mayosenju Hitot“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 3,
+  "level": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

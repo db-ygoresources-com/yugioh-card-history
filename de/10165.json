@@ -1,0 +1,15 @@
+{
+  "id": 10165,
+  "type": "monster",
+  "name": "Blockgolem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls alle Monster in deinem Friedhof ERDE sind: Du kannst diese Karte als Tribut anbieten und dann 2 Fels-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Blockgolem“; beschwöre die Fels-Monster als Spezialbeschwörung, aber ihre Effekte, die auf dem Spielfeld aktiviert werden, können in diesem Spielzug nicht aktiviert werden.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

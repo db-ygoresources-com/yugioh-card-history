@@ -1,0 +1,15 @@
+{
+  "id": 10741,
+  "type": "monster",
+  "name": "Mythischer Baumdrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 WASSER Monster vom Typ Drache wählen, das du kontrollierst; die Stufe dieser Karte wird dieselbe wie die derzeitige Stufe des Monsters.",
+  "level": 4,
+  "atk": 100,
+  "def": 1400,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

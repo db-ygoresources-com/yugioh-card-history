@@ -1,0 +1,15 @@
+{
+  "id": 6804,
+  "type": "monster",
+  "name": "Guerrier Alien",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est détruite à l'issue d'un combat et envoyée au Cimetière, placez 2 Compteurs-A sur le monstre qui l'a détruite. (Si un monstre avec un Compteur-A combat un monstre qui inclut \"Alien\" dans son nom de carte, diminuez son ATK et sa DEF de 300 points pour chaque Compteur-A, durant le calcul des dommages uniquement.)",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

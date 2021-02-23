@@ -1,0 +1,15 @@
+{
+  "id": 8142,
+  "type": "monster",
+  "name": "Niño Alienígena",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Pon 1 Contador-A en todos los monstruos Invocados de Modo Especial al Campo de tu adversario. (Si un monstruo con Contadores-A batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador-A, sólo durante el cálculo de daño.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

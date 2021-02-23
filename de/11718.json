@@ -1,0 +1,16 @@
+{
+  "id": 11718,
+  "type": "monster",
+  "name": "Schreckenspelz Schimäre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 „Schreckenspelz“-Monster\nMuss als Fusionsbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Falls diese Karte kämpft, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren. Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst das Monster als Spezialbeschwörung auf deine Spielfeldseite beschwören, aber seine ATK werden halbiert. Du kannst diesen Effekt von „Schreckenspelz Schimäre“ nur einmal pro Spielzug verwenden. Diese Karte erhält 300 ATK für jedes Monster, das du kontrollierst und das dein Gegner besitzt.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

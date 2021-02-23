@@ -1,0 +1,15 @@
+{
+  "id": 7337,
+  "type": "monster",
+  "name": "Mormolith",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst 1 offenes ERDE Monster als Tribut anbieten, um alle offenen Monster mit DEF kleiner oder gleich den ATK der als Tribut angebotenen Karte zu zerstören.",
+  "level": 4,
+  "atk": 1000,
+  "def": 900,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7890,
+  "type": "monster",
+  "name": "Sturmrufer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst die Monster deines Gegners, die durch Kampf mit anderen Monstern vom Typ Psi zerstört werden, auf das Deck ihres Besitzers legen, anstatt auf den Friedhof. Wenn diese Karte durch einen Karteneffekt zerstört wird, erhält der Beherrscher dieser Karte Schaden in Höhe ihrer Grund-ATK.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

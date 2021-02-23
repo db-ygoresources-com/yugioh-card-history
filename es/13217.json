@@ -1,0 +1,15 @@
+{
+  "id": 13217,
+  "type": "monster",
+  "name": "Compilador Defectuoso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, si fueras a recibir daño del efecto de una carta de un adversario, pon 1 Contador de Defectos en esta carta en su lugar (max. 1). Una vez por turno (Efecto Rápido): puedes retirar 1 Contador de Defectos de esta carta, y después seleccionar 1 monstruo Ciberso que controles; hasta el final de este turno, éste gana 800 ATK.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14343,
+  "type": "monster",
+  "name": "Dragón Hambriento Venemigo Dosis Letal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 Monstruos de Péndulo de OSCURIDAD\nCada vez que una o más cartas sean mandadas del Campo al Cementerio, pon 1 Contador Venemigo en esta carta por cada carta mandada. Todos los monstruos en el Campo, excepto los monstruos Dragón de OSCURIDAD, pierden 200 ATK por cada Contador Venemigo en el Campo. Una vez por turno, durante tu Main Phase: hasta el final de este turno, puedes negar los efectos de todos los monstruos boca arriba que controle tu adversario en este momento. Si esta carta en la Zona de Monstruos es destruida en batalla o por efecto de una carta: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Una vez por turno, durante tu Main Phase: puedes poner 1 Contador Venemigo en cada monstruo boca arriba que controle tu adversario. Todos los monstruos en el Campo, excepto los monstruos Dragón de OSCURIDAD, pierden 200 ATK por cada Contador Venemigo en el Campo.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

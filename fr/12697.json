@@ -1,0 +1,18 @@
+{
+  "id": 12697,
+  "type": "monster",
+  "name": "Acteur des Abysses - Doublure Branchée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous avez 2 cartes \"Acteur des Abysses\" dans vos Zones Pendule : vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 Monstre Pendule \"Acteur des Abysses\" de Niveau 1 ou 8 depuis votre main ou face recto depuis votre Extra Deck. Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Doublure Branchée\" qu'une fois par tour.",
+  "pendEffect": "Lorsque vous Invoquez par Pendulation un monstre : vous pouvez ajouter 1 Monstre Pendule \"Acteur des Abysses\" de Niveau 1 ou 8 face recto depuis votre Extra Deck à votre main.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

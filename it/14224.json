@@ -1,0 +1,18 @@
+{
+  "id": 14224,
+  "type": "monster",
+  "name": "Artistamico Stregone Sorridente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 Magia/Trappola \"Sorridente\" dal tuo Deck alla tua mano. Se ogni mostro che controlli è un mostro \"Artistamico\" o \"Occhi Diversi\", o un Mostro Pendulum \"Mago\", e l'ATK attuale di questa carta è superiore al suo ATK originale: puoi pescare carte pari al numero di mostri che controlli con ATK attuale superiore al loro ATK originale, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno. Puoi utilizzare ogni effetto di \"Artistamico Stregone Sorridente\" una sola volta per turno.",
+  "pendEffect": "Se uno o più mostri che controlli con ATK attuale superiore al loro ATK originale vengono distrutti in battaglia o dall'effetto di una carta: puoi Evocare Specialmente questa carta dalla tua Zona Pendulum. Puoi utilizzare questo effetto di \"Artistamico Stregone Sorridente\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

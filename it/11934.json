@@ -1,0 +1,18 @@
+{
+  "id": 11934,
+  "type": "monster",
+  "name": "Mago Dragobattito",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Questo ragazzo mago ha il dono di vedere le linee naturali di energia che scorrono nella terra, che la sua gente chiama Battito del Drago. La sua esuberanza e abilità lo fanno stimare molto dal suo tutore, il \"Mago Dragopozzo\".",
+  "pendEffect": "Una volta per turno, se hai una carta \"Mago\" nella tua altra Zona Pendulum: puoi scartare 1 Mostro Pendulum, poi scegliere come bersaglio 1 mostro scoperto sul Terreno; distruggilo.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1800,
+  "def": 900,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Normale"
+  ]
+}

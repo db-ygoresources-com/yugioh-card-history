@@ -1,0 +1,18 @@
+{
+  "id": 12716,
+  "type": "monster",
+  "name": "Acteur des Abysses - Espoir Sauvage",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : jusqu'à la fin de ce tour, vous pouvez faire gagner 100 ATK à cette carte pour chaque monstre \"Acteur des Abysses\" de noms différents que vous contrôlez actuellement. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez ajouter 1 carte \"Acteur des Abysses\" (\"Acteur des Abysses - Espoir Sauvage\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Espoir Sauvage\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 carte \"Acteur des Abysses\" dans votre autre Zone Pendule ; son Échelle Pendule devient 9 jusqu'à la fin de ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Acteur des Abysses\" exclus) le reste de ce tour (même si cette carte quitte le Terrain).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

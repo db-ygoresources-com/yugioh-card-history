@@ -1,0 +1,16 @@
+{
+  "id": 9437,
+  "type": "monster",
+  "name": "Aile Noire - Jin l'Ombre de Pluie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte combat un monstre face recto dont la DEF est inférieure ou égale à l'ATK de cette carte, détruisez ce monstre au début de la Damage Step (sans calcul de dommages).",
+  "level": 1,
+  "atk": 600,
+  "def": 500,
+  "properties": [
+    "Bête Ailée",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

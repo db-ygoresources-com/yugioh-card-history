@@ -1,0 +1,18 @@
+{
+  "id": 11770,
+  "type": "monster",
+  "name": "Dragons des Mers de Draconia",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Surgissant furtivement des profondeurs des mers, ces troupes d'élite des opérations spéciales de l'Empire Draconia livrent une bataille sans fin contre la Principauté de Dinon sur les rives opposées.",
+  "pendEffect": "Lorsqu'un monstre est détruit au combat : vous pouvez Invoquer Spécialement 1 Monstre Normal depuis votre main. Vous ne pouvez utiliser cet effet de \"Dragons des Mers de Draconia\" qu'une fois par tour.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 200,
+  "def": 2100,
+  "properties": [
+    "Serpent de Mer",
+    "Pendule",
+    "Normal"
+  ]
+}

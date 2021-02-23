@@ -1,0 +1,15 @@
+{
+  "id": 8606,
+  "type": "monster",
+  "name": "Collecteur Robot",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "(Effet Rapide) : vous pouvez bannir cette carte sur le Terrain et 1 Piège Normal dans votre Cimetière ; appliquez l'effet du Piège banni. (Les conditions d'activation du Piège doivent toujours être correctes, mais les coûts ne sont pas payés.)",
+  "level": 5,
+  "atk": 1000,
+  "def": 2200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

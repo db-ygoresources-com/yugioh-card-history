@@ -1,0 +1,18 @@
+{
+  "id": 13130,
+  "type": "monster",
+  "name": "Artistamigo Mago de Cinco Arcoiris",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si cualquier jugador Coloca una Mágica/Trampa en tu Campo mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "No puedes Invocar por Péndulo, excepto desde el Deck Extra. Este efecto no puede ser negado. Cada jugador aplica 1 de estos efectos con base en el número de cartas Colocadas en sus Zonas de Magia y Trampas.\n●0: Todos los monstruos que controlan no pueden atacar ni activar sus efectos.\n●4 o más: El ATK de todos los monstruos que controlan se convierten en el doble de su ATK original.",
+  "pendScale": 12,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

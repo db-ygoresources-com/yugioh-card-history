@@ -1,0 +1,19 @@
+{
+  "id": 14485,
+  "type": "monster",
+  "name": "Magibalance",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une balance consciente qui maintient l'équilibre de l'univers, mais place souvent les étoiles du mauvais côté.",
+  "pendEffect": "Vous pouvez déclarer un Niveau de 1 à 6, puis ciblez 2 monstres face recto que vous contrôlez ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), réduisez le Niveau d'1 de ces monstres du montant déclaré, et si vous le faites, augmentez le Niveau de l'autre du même montant. Vous ne pouvez utiliser cet effet de \"Magibalance\" qu'une fois par tour.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Syntoniseur",
+    "Normal"
+  ]
+}

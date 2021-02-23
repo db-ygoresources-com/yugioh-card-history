@@ -1,0 +1,16 @@
+{
+  "id": 6342,
+  "type": "monster",
+  "name": "Reshef, die Finstere Existenz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Dieses Monster kann nur als Ritualbeschwörung beschworen werden, indem du die Ritualzauberkarte „Letztes Ritual der Ahnen“ aktivierst. Wirf 1 Zauberkarte aus deiner Hand ab. Übernimm die Kontrolle über 1 Monster auf der Spielfeldseite deines Gegners bis zur End Phase. Du kannst diesen Effekt nur einmal pro Spielzug benutzen.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Effekt"
+  ]
+}

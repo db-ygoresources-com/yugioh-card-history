@@ -1,0 +1,19 @@
+{
+  "id": 14673,
+  "type": "monster",
+  "name": "Pantera da Laboratorio",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "2 mostri compreso un mostro \"Gladiatore Bestia\"\nSe questa carta viene Evocata Link: puoi aggiungere 1 carta \"Gladiatore Bestia\" dal tuo Deck alla tua mano. Puoi scegliere come bersaglio 1 mostro \"Gladiatore Bestia\" che controlli; mischia quel mostro \"Gladiatore Bestia\" nel Deck e, se lo fai, Evoca Specialmente 1 mostro \"Gladiatore Bestia\" con nome originale diverso dal tuo Deck. (Questa viene considerata come un'Evocazione Speciale dall'effetto di un mostro \"Gladiatore Bestia\".) Puoi utilizzare ogni effetto di \"Pantera da Laboratorio\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Bestia",
+    "Link",
+    "Effetto"
+  ]
+}

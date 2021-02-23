@@ -1,0 +1,15 @@
+{
+  "id": 12531,
+  "type": "monster",
+  "name": "Corne Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, durant votre Main Phase, si cette carte a été Invoquée Normalement ou Spécialement ce tour : vous pouvez cibler 1 autre monstre \"Potartiste\" que vous contrôlez avec max. 1000 ATK ; changez-le ainsi que cette carte que vous contrôlez de Position d'Attaque face recto en Position de Défense, et si vous le faites, ajoutez 1 monstre \"Yeux Impairs\" depuis votre Deck à votre main. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir 1 monstre \"Potartiste\" (\"Corne Potartiste\" exclu) et cette carte depuis votre Cimetière ; gagnez 500 LP.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

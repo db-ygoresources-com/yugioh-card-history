@@ -1,0 +1,16 @@
+{
+  "id": 11082,
+  "type": "monster",
+  "name": "Forteresse Fantôme Enterblathnir",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres de Niveau 9\nUne fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis activez 1 de ces effets ;\n●Bannissez 1 carte contrôlée par votre adversaire.\n●Bannissez 1 carte au hasard depuis la main de votre adversaire.\n●Bannissez 1 carte depuis le Cimetière de votre adversaire.\n●Bannissez face recto la carte du dessus du Deck de votre adversaire.",
+  "rank": 9,
+  "atk": 2900,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

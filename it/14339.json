@@ -1,0 +1,18 @@
+{
+  "id": 14339,
+  "type": "monster",
+  "name": "Velociroid Macchina delle Biglie",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi attivare questo effetto; aggiungi 1 mostro \"Velociroid\" dal tuo Deck alla tua mano, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri VENTO. Puoi utilizzare questo effetto di \"Velociroid Macchina delle Biglie\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno, quando un tuo mostro in Posizione di Difesa viene scelto come bersaglio per un attacco: puoi metterlo scoperto in Posizione di Attacco, inoltre esso non può essere distrutto in battaglia in questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

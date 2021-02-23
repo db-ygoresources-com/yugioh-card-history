@@ -1,0 +1,15 @@
+{
+  "id": 13040,
+  "type": "monster",
+  "name": "Sorcier Cyberse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre de l'adversaire en Position d'Attaque ; changez-le en Position de Défense, et si vous le faites, le reste de ce tour, vos monstres ne peuvent pas attaquer, sauf pour attaquer le monstre, et si votre monstre Cyberse attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

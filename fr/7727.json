@@ -1,0 +1,15 @@
+{
+  "id": 7727,
+  "type": "monster",
+  "name": "Assassin des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "L'effet de cette carte change selon le nombre de monstres TÉNÈBRES dans votre Cimetière.\n ●1 ou moins : Cette carte perd 400 points d'ATK.\n ●2 à 4 : Cette carte gagne 400 points d'ATK.\n ●5 ou plus : Vous pouvez envoyer cette carte au Cimetière pour détruire tous les monstres face verso contrôlés par votre adversaire.",
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

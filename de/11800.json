@@ -1,0 +1,15 @@
+{
+  "id": 11800,
+  "type": "monster",
+  "name": "Künstlerzauberer Feuerschlucker",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn eine Karte oder ein Effekt aktiviert wird, die oder der dir Schaden zufügen würde: Du kannst diesen Effekt aktivieren; du kannst für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Künstlerzauberer“-Monstern, zusätzlich beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, mache den Effektschaden auf dich zu 0. Falls diese Karte auf diese Art beschworen wird, verbanne sie, wenn sie das Spielfeld verlässt. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Jeder Spieler erhält 500 Schaden.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

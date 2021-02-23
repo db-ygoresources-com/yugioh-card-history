@@ -1,0 +1,16 @@
+{
+  "id": 9198,
+  "type": "monster",
+  "name": "Blumensynchronisierer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst 1 Monster der Stufe 2 oder niedriger als Spezialbeschwörung von deiner Hand beschwören.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

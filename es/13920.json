@@ -1,0 +1,16 @@
+{
+  "id": 13920,
+  "type": "monster",
+  "name": "Salamangrande Águila Esmeralda",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Ascenso de la Salamangrande\". Cuando esta carta es Invocada por Ritual usando \"Salamangrande Águila Esmeralda\" que controles: puedes destruir todos los monstruos Invocados de Modo Especial que controle tu adversario. Una vez por turno: puedes Sacrificar 1 Monstruo de Enlace \"Salamangrande\"; este turno, esta carta gana este efecto.\n●Al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario: destruye ese monstruo del adversario y, si lo haces, inflige daño a tu adversario igual al ATK original de ese monstruo.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Ciberso",
+    "Ritual",
+    "Efecto"
+  ]
+}

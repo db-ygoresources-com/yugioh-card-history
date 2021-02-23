@@ -1,0 +1,15 @@
+{
+  "id": 6031,
+  "type": "monster",
+  "name": "Jugador de la Arena",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Lanza una moneda 3 veces. Si los 3 resultados son cara, destruye todos los monstruos en el Campo de tu adversario. Si los 3 resultados son cruz, destruye todos los monstruos en tu Campo. Este efecto sólo se puede usar una vez por turno, durante tu Main Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 1600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

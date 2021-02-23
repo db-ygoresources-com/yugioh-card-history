@@ -1,0 +1,15 @@
+{
+  "id": 10035,
+  "type": "monster",
+  "name": "Espillon Morpho",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, lorsque la position de combat d'un ou plusieurs monstres de votre adversaire est changée (sauf durant la Damage Step) : vous pouvez cibler un de ces monstres ; il perd 1000 ATK/DEF.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

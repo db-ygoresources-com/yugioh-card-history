@@ -1,0 +1,15 @@
+{
+  "id": 11799,
+  "type": "monster",
+  "name": "Artistamagus Giocoliere del Danno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando viene attivata una carta o un effetto che sta per infliggerti danno (Effetto Rapido): puoi scartare questa carta; annulla l'attivazione e, se lo fai, distruggi quella carta. Durante la Battle Phase (Effetto Rapido): puoi scartare questa carta; riduci a 0 il prossimo danno da combattimento che subiresti in questo turno. Puoi bandire questa carta dal tuo Cimitero; aggiungi 1 mostro \"Artistamagus\" dal tuo Deck alla tua mano, eccetto \"Artistamagus Giocoliere del Danno\". Puoi utilizzare questo effetto di \"Artistamagus Giocoliere del Danno\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

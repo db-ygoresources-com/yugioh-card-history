@@ -1,0 +1,16 @@
+{
+  "id": 11822,
+  "type": "monster",
+  "name": "Jarra de Arobru",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es volteada boca arriba, esta carta no puede ser destruida en batalla mientras esté boca arriba en el Campo. Si esta carta es volteada boca arriba, durante la End Phase de cada jugador: Tú ganas 500 LP.",
+  "level": 1,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Roca",
+    "Volteo",
+    "Efecto"
+  ]
+}

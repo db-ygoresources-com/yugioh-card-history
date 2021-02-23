@@ -1,0 +1,16 @@
+{
+  "id": 13641,
+  "type": "monster",
+  "name": "Dragón Destructor",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Debe ser Invocado de Modo Especial con \"El Colmillo de Critias\", usando \"Anillo Destructor\". Una vez por turno: puedes seleccionar 1 carta que controle tu adversario; destrúyela. Después, si era una Carta de Monstruo, inflige daño a tu adversario igual a su ATK original.",
+  "level": 8,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

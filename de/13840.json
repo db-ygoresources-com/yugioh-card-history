@@ -1,0 +1,19 @@
+{
+  "id": 13840,
+  "type": "monster",
+  "name": "Magier der Hoffnung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 4\nFalls du Stufe 4 als Pendelbeschwörung beschwören kannst, kannst du diese offene Karte in deinem Extra Deck als Pendelbeschwörung beschwören. Du kannst 1 Material von dieser Karte abhängen; beschwöre 1 Pendelmonster der Stufe 7 oder niedriger als Spezialbeschwörung von deiner Hand in die Verteidigungsposition, aber annulliere seine Effekte, dann kannst du diese offene Karte in deine Pendelzone legen. Du kannst diesen Effekt von „Magier der Hoffnung“ nur einmal pro Spielzug verwenden. Falls diese Karte als Pendelbeschwörung beschworen wird: Du kannst 1 Pendelmonster in deinem Friedhof wählen; hänge es als Material an diese Karte an.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Monster einen Angriff deklariert: Du kannst den Angriff annullieren, dann zerstöre diese Karte.",
+  "pendScale": 8,
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

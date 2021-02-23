@@ -1,0 +1,20 @@
+{
+  "id": 14016,
+  "type": "monster",
+  "name": "Nephtys, la Flamme Sacrée",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2+ monstres (un Monstre Rituel inclu)\nTant que cette carte est dans la Zone Monstre Extra, les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres \"Nephtys\" dans les Zones Monstre Main avec une attaque. Cette carte gagne des effets selon le nombre de Monstres Rituels utilisés pour son Invocation par Lien.\n●1+ : Non destructible au combat.\n●2+ : Non destructible par des effets de carte, et aussi, elle gagne 1200 ATK.\n●3 : Aucun joueur ne peut cibler cette carte avec des effets de carte, et aussi, elle gagne 1200 ATK supplémentaire.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Bête Ailée",
+    "Lien",
+    "Effet"
+  ]
+}

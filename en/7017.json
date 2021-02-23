@@ -1,0 +1,15 @@
+{
+  "id": 7017,
+  "type": "monster",
+  "name": "Blizzard Dragon",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "Once per turn: You can target 1 monster your opponent controls; it cannot change its battle position or declare an attack until the end of your opponent's next turn.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Effect"
+  ]
+}

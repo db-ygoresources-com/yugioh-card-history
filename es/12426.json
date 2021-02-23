@@ -1,0 +1,15 @@
+{
+  "id": 12426,
+  "type": "monster",
+  "name": "Bailarina Trirámide",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno: puedes seleccionar 1 carta \"Trirámide\" en tu Cementerio; barájala al Deck y, si lo haces, todos los monstruos de Tipo Roca que controles ganan 500 ATK y DEF. Una vez por turno, durante el turno de tu adversario: puedes seleccionar 1 Carta Mágica de Campo \"Trirámide\" en tu Zona del Campo; mándala al Cementerio y, si lo haces, activa desde tu Deck 1 Carta Mágica de Campo \"Trirámide\" con nombre diferente (éste es un Efecto Rápido).",
+  "level": 3,
+  "atk": 600,
+  "def": 1900,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

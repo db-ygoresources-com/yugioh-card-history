@@ -1,0 +1,15 @@
+{
+  "id": 9980,
+  "type": "monster",
+  "name": "Esprit à Ressorts",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable. Doit d'abord être Invoquée Spécialement (depuis votre main) en ayant uniquement des monstres de Type Machine dans votre Cimetière (min. 1). Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la End Phase, son ATK devient 0.",
+  "level": 8,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

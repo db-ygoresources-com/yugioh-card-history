@@ -1,0 +1,16 @@
+{
+  "id": 9325,
+  "type": "monster",
+  "name": "Tambourino, Guerrier Symphonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, vous pouvez déclarer 1 Attribut et sélectionner 1 monstre \"Guerrier Symphonique\" face recto sur le Terrain. Ce monstre devient cet Attribut. Vous pouvez déclarer 1 Attribut et retirer du jeu cette carte depuis votre Cimetière pour sélectionner 1 monstre \"Guerrier Symphonique\" face recto que vous contrôlez, et ce monstre devient cet Attribut.",
+  "level": 2,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

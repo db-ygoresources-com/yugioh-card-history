@@ -1,0 +1,15 @@
+{
+  "id": 6324,
+  "type": "monster",
+  "name": "Dragon Mégarock",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut pas être Invoquée par Invocation Spéciale excepté en retirant du jeu un ou plusieurs monstre(s) de Type Rocher depuis votre Cimetière. L'ATK et la DEF d'origine de cette carte deviennent le nombre de monstres de Type Rocher que vous avez retiré du jeu lorsque vous avez fait l'Invocation Spéciale de cette carte x 700 points.",
+  "level": 7,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

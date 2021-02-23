@@ -1,0 +1,16 @@
+{
+  "id": 14213,
+  "type": "monster",
+  "name": "Mago del Caos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Forma del Caos\". El nombre de esta carta se convierte en \"Mago Oscuro\" mientras está en el Campo o en el Cementerio. Una vez por turno, cuando una Carta Mágica/de Trampa o efecto es activado (Efecto Rápido): puedes seleccionar 1 carta en el Campo; destrúyela. Si esta carta Invocada por Ritual es destruida en batalla o por el efecto de una carta: puedes Invocar de Modo Especial, desde tu mano, 1 Monstruo de Ritual \"Caos\" o \"Soldado del Brillo Negro\", excepto \"Mago del Caos\", ignorando sus condiciones de Invocación.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

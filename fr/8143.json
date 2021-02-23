@@ -1,0 +1,15 @@
+{
+  "id": 8143,
+  "type": "monster",
+  "name": "Dragon Totem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte peut être traitée comme 2 Sacrifices pour faire l'Invocation Sacrifice d'un monstre de Type Dragon. Si cette carte est dans votre Cimetière durant votre Standby Phase et que vous ne contrôlez aucun monstre, vous pouvez Invoquer Spécialement cette carte en Position d'Attaque. Vous ne pouvez pas activer cet effet s'il y a d'autres monstres qui ne sont pas de Type Dragon dans votre Cimetière. Si cette carte est Invoquée Spécialement avec cet effet, retirez-la du jeu lorsqu'elle est retirée du Terrain.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

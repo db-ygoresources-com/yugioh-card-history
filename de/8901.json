@@ -1,0 +1,15 @@
+{
+  "id": 8901,
+  "type": "monster",
+  "name": "Laval-Krieger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört: Füge deinem Gegner Schaden in Höhe der Grund-ATK des zerstörten Monsters zu. Du musst 4 oder mehr „Laval“-Monster mit unterschiedlichen Namen in deinem Friedhof haben, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

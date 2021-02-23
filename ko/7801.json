@@ -1,0 +1,15 @@
+{
+  "id": 7801,
+  "type": "monster",
+  "name": "화염의 마정령 이그니스",
+  "englishAttribute": "fire",
+  "localizedAttribute": "화염",
+  "effectText": "자신 필드 위에 앞면 표시로 존재하는 화염 속성 몬스터 1장을 릴리스하고 발동한다. 자신의 묘지에 존재하는 화염 속성 몬스터의 수 × 100 포인트 데미지를 상대 라이프에 준다.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "화염족",
+    "효과"
+  ]
+}

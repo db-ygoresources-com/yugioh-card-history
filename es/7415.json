@@ -1,0 +1,15 @@
+{
+  "id": 7415,
+  "type": "monster",
+  "name": "Contraataque Volcánico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando recibes daño de batalla mientras esta carta esté en tu Cementerio: destiérrala de tu Cementerio, y después, si hay un monstruo de FUEGO que no sea \"Contraataque Volcánico\" en tu Cementerio, inflige daño a tu adversario igual al daño de batalla que recibiste.",
+  "level": 3,
+  "atk": 300,
+  "def": 1300,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

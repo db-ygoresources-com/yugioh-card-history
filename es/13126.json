@@ -1,0 +1,15 @@
+{
+  "id": 13126,
+  "type": "monster",
+  "name": "Dragón Lancero de Ojos Anómalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si un Monstruo de Péndulo que controlas es destruido en batalla o por efecto de una carta: puedes Sacrificar 1 monstruo; Invoca esta carta de Modo Especial desde tu mano. Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar ninguna Carta Mágica/de Trampa. Si una o más cartas \"Ojos Anómalos\" que controlas fueran a ser destruidas en batalla o por efecto de una carta, puedes destruir 1 carta \"Ojos Anómalos\" en tu mano, Zona de Monstruos o Zona de Péndulo en su lugar.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

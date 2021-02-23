@@ -1,0 +1,15 @@
+{
+  "id": 8446,
+  "type": "monster",
+  "name": "Ténèbra, Demoiselle de Fortune",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "L'ATK et la DEF de cette carte sont égales à son Niveau x 400. Durant chacune de vos Standby Phases, augmentez le Niveau de cette carte de 1 (max 12). Lorsqu'un monstre \"Demoiselle de Fortune\" face recto que vous contrôlez détruit un monstre de l'adversaire au combat et l'envoie au Cimetière, vous pouvez sélectionner et Invoquer Spécialement 1 monstre \"Demoiselle de Fortune\" depuis votre Cimetière.",
+  "level": 5,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

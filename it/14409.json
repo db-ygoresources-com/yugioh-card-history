@@ -1,0 +1,15 @@
+{
+  "id": 14409,
+  "type": "monster",
+  "name": "Stregartigiana Madame Verre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Durante il calcolo dei danni, se un tuo mostro Incantatore combatte con un mostro dell'avversario (Effetto Rapido): puoi rivelare un qualsiasi numero di Magie con nomi diversi nella tua mano e, se lo fai, il tuo mostro che sta combattendo guadagna 1000 ATK/DEF per ogni carta rivelata, fino alla fine di questo turno. (Effetto Rapido): puoi scartare 1 Magia; annulla gli effetti di tutti i mostri scoperti attualmente controllati dal tuo avversario, fino alla fine di questo turno. Puoi utilizzare ogni effetto di \"Stregartigiana Madame Verre\" una sola volta per turno.",
+  "level": 8,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

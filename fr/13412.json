@@ -1,0 +1,19 @@
+{
+  "id": 13412,
+  "type": "monster",
+  "name": "Administrateur de Flamme",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres Cyberse\nTous les Monstres Lien que vous contrôlez gagnent 800 ATK. Vous ne pouvez contrôler qu'1 \"Administrateur de Flamme\".",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12395,
+  "type": "monster",
+  "name": "Vennu, leuchtender Vogel der Göttlichkeit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Urschrei“ als Ritualbeschwörung beschwören. Einmal pro Spielzug: Du kannst 1 Monster in deiner Hand vorzeigen und dann 1 offenes Monster auf dem Spielfeld wählen; die Stufe des gewählten Ziels wird bis zum Ende dieses Spielzugs gleich der Stufe, die das vorgezeigte Monster hatte. Einmal pro Spielzug, falls ein anderes Monster von deiner Hand oder Spielfeldseite als Tribut angeboten wird (außer während des Damage Steps): Du kannst 1 Monster in deinem Friedhof wählen; füge es deiner Hand hinzu.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Ritual",
+    "Effekt"
+  ]
+}

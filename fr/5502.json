@@ -1,0 +1,16 @@
+{
+  "id": 5502,
+  "type": "monster",
+  "name": "Dragon à Cinq Têtes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "5 monstres Dragon\nUniquement Invocable par Fusion. Non destructible au combat avec un monstre TÉNÈBRES, TERRE, EAU, FEU ou VENT.",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

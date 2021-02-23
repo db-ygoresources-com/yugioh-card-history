@@ -1,0 +1,20 @@
+{
+  "id": 14937,
+  "type": "monster",
+  "name": "Selene, Reine des Maîtres Magiciens",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres (un monstre Magicien inclus)\nSi cette carte est Invoquée par Lien : placez un nombre de Compteurs Magie sur cette carte, égal au nombre de Magies sur le Terrain et dans les Cimetières. Tant qu'une ou plusieurs cartes \"Endymion\" sont sur le Terrain, les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Une fois par tour, durant la Main Phase (Effet Rapide) : vous pouvez retirer 3 Compteurs Magie depuis votre Terrain ; Invoquez Spécialement 1 monstre Magicien depuis votre main ou Cimetière en Position de Défense, dans votre zone pointée par cette carte.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

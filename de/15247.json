@@ -1,0 +1,15 @@
+{
+  "id": 15247,
+  "type": "monster",
+  "name": "Flammedler Ritter Ogier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange diese Karte eine Ausrüstungskarte ist, kann das ausgerüstete Monster nicht durch Karteneffekte zerstört werden. Du kannst jeden der folgenden Effekte von „Flammedler Ritter Ogier“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Edle Waffen“-Karte oder 1 FEUER Krieger-Monster, außer „Flammedler Ritter Ogier“, von deinem Deck auf den Friedhof legen. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Krieger-Monster wählen, das du kontrollierst; rüste das Monster, das du kontrollierst, mit dieser Karte aus.",
+  "level": 4,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

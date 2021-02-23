@@ -1,0 +1,15 @@
+{
+  "id": 9087,
+  "type": "monster",
+  "name": "Energiebrecher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte, die dir gehört, durch einen Angriff oder einen Karteneffekt deines Gegners zerstört und auf deinen Friedhof gelegt wird: Wähle 1 offene Zauber-/Fallenkarte, die dein Gegner kontrolliert; zerstöre das gewählte Ziel. Falls diese Karte angreift, wird sie am Ende des Damage Steps in die Verteidigungsposition geändert.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

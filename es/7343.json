@@ -1,0 +1,15 @@
+{
+  "id": 7343,
+  "type": "monster",
+  "name": "Dragón de la Noche Blanca",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Durante el turno de cualquier jugador, cuando se activa una Carta Mágica/de Trampa que selecciona a esta carta: niega la activación y, si lo haces, destrúyela. Cuando otro monstruo boca arriba que controles es seleccionado para un ataque: puedes mandar al Cementerio 1 Carta Mágica/de Trampa que controles; ese ataque ahora selecciona esta carta.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

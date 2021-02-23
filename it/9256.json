@@ -1,0 +1,16 @@
+{
+  "id": 9256,
+  "type": "monster",
+  "name": "Fenice Fiammeggiante, l'Uccello Bombardiere Bruciante",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "1 mostro di Tipo Macchina + 1 mostro di Tipo Pyro\nUna volta per turno, durante la tua Main Phase: puoi infliggere 300 danni al tuo avversario per ogni carta sul Terreno. Questa carta non può attaccare nel turno in cui attivi questo effetto.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Pyro",
+    "Fusione",
+    "Effetto"
+  ]
+}

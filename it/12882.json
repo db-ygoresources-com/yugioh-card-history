@@ -1,0 +1,18 @@
+{
+  "id": 12882,
+  "type": "monster",
+  "name": "Artistamico Barracuda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Durante il turno di qualsiasi giocatore: puoi scegliere come bersaglio 1 mostro \"Artistamico\" il cui ATK attuale è diverso dal suo ATK originale; esso guadagna ATK pari alla differenza fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Artistamico Barracuda\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno, se un tuo mostro \"Artistamico\" combatte con un mostro dell'avversario, prima del calcolo dei danni: puoi far perdere a quel mostro dell'avversario ATK pari alla differenza tra il suo ATK originale e il suo ATK attuale (anche se questa carta lascia il Terreno).",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Pianta",
+    "Pendulum",
+    "Effetto"
+  ]
+}

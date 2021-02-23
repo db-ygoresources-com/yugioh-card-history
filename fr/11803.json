@@ -1,0 +1,15 @@
+{
+  "id": 11803,
+  "type": "monster",
+  "name": "Lanceur à Échasses Mageartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "S'il n'y a aucun monstre sur le Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main), mais vous ne pouvez ni Invoquer Normalement ni Poser Normalement le reste de ce tour. Durant le tour de chaque joueur, lorsqu'une carte ou un effet qui va infliger des dommages à votre adversaire est activé, tant que vous avez un autre monstre \"Mageartiste\" dans votre Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; infligez 2000 points de dommage à votre adversaire. Vous ne pouvez utiliser cet effet de \"Lanceur à Échasses Mageartiste\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2200,
+  "def": 0,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

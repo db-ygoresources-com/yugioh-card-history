@@ -1,0 +1,15 @@
+{
+  "id": 15507,
+  "type": "monster",
+  "name": "Avvertimento Cupido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se tutti i mostri che controlli sono mostri con 600 DEF (minimo 1): puoi Evocare Specialmente questa carta dalla tua mano. (Effetto Rapido): puoi scartare 1 carta, poi scegliere come bersaglio 1 mostro Fata LUCE che controlli e 1 mostro scoperto sul Terreno; il Livello del tuo mostro diventa il Livello dell'altro mostro fino alla fine di questo turno. Puoi utilizzare ogni effetto di \"Avvertimento Cupido\" una sola volta per turno.",
+  "level": 6,
+  "atk": 2200,
+  "def": 600,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

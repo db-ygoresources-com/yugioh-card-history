@@ -1,0 +1,15 @@
+{
+  "id": 15692,
+  "type": "monster",
+  "name": "Dragón Armado Tronador LV10",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta fue Invocada de Modo Especial por efecto de un monstruo \"Dragón Armado\", ésta gana los siguientes efectos basados en su ATK.\n●1+: Su nombre se convierte en \"Dragón Armado LV10\".\n●10+: Su control no puede intercambiarse.\n●100+: No puede ser destruida en batalla.\n●1000+: Una vez por turno del adversario (Efecto Rápido): puedes mandar al Cementerio 1 carta en tu mano, y después seleccionar otra carta en el Campo; destrúyela y, si lo haces, esta carta gana 1000 ATK.\n●10000+: Una vez por turno: puedes destruir todas las demás cartas en el Campo.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7529,
+  "type": "monster",
+  "name": "Cryomancer of the Ice Barrier",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+  "level": 2,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Tuner",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7891,
+  "type": "monster",
+  "name": "Saltatore Psichico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno: puoi pagare 1000 LP, poi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario e 1 mostro di Tipo Psichico che tu controlli, eccetto \"Saltatore Psichico\"; scambia il controllo di entrambi quei bersagli e, se lo fai, la loro posizione non può essere cambiata in questo turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 1500,
+  "properties": [
+    "Psichico",
+    "Tuner",
+    "Effetto"
+  ]
+}

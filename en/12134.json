@@ -1,0 +1,18 @@
+{
+  "id": 12134,
+  "type": "monster",
+  "name": "Dinomist Pteran",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "When this card destroys an opponent's monster by battle: You can add 1 \"Dinomist\" card from your Deck to your hand.",
+  "pendEffect": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

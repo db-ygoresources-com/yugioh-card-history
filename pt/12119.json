@@ -1,0 +1,18 @@
+{
+  "id": 12119,
+  "type": "monster",
+  "name": "General Samurai Superpesado de Coral",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se você não tiver nenhum Card de Magia/Armadilha no seu Cemitério: você pode oferecer como Tributo até 2 monstros \"Samurai Superpesado\"; compre esse número de cards. Você só pode usar este efeito de \"General Samurai Superpesado de Coral\" uma vez por turno.",
+  "pendEffect": "Enquanto você tiver um ou mais Cards de Magia/Armadilha no seu Cemitério, a Escala de Pêndulo deste card se torna 4. Uma vez por turno, quando um monstro \"Samurai Superpesado\" que você controla destruir um monstro do oponente em batalha: você pode ativar este efeito; esse monstro pode realizar um segundo ataque em seguida (mesmo que este card deixe o campo).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

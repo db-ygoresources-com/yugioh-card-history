@@ -1,0 +1,16 @@
+{
+  "id": 8001,
+  "type": "monster",
+  "name": "Bomba Negra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo de OSCURIDAD de Tipo Máquina de Nivel 4 en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Defensa, pero sus efectos son negados.",
+  "level": 3,
+  "atk": 100,
+  "def": 1100,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15030,
+  "type": "monster",
+  "name": "Valiente Tiburón Lancero",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 monstruos de Nivel 5\nPuedes seleccionar 1 monstruo que controle tu adversario; desacopla 1 material de un Monstruo Xyz que controles y, si lo haces, destruye ese monstruo. Esto es un Efecto Rápido si controlas otro Monstruo Xyz de AGUA. Si otro u otros Monstruos Xyz de AGUA que controlas son destruidos en batalla o por el efecto de una carta mientras controlas este monstruo: puedes tomar 1 Mágica en tu Deck y ponerla en la parte superior de tu Deck. Sólo puedes usar cada efecto de \"Valiente Tiburón Lancero\" una vez por turno.",
+  "rank": 5,
+  "atk": 2500,
+  "def": 1600,
+  "properties": [
+    "Guerrero-Bestia",
+    "Xyz",
+    "Efecto"
+  ]
+}

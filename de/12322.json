@@ -1,0 +1,16 @@
+{
+  "id": 12322,
+  "type": "monster",
+  "name": "Hochgeschwindigkeitsroid Puzzle",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster\nAm Beginn des Damage Steps, falls diese Karte gegen ein als Spezialbeschwörung beschworenes Monster kämpft: Du kannst die ATK dieser Karte bis zum Ende des Damage Steps zum Doppelten ihrer derzeitigen ATK werden lassen. Einmal pro Spielzug, während der End Phase, falls sich diese Karte im Friedhof befindet, weil diese als Synchrobeschwörung beschworene Karte in diesem Spielzug vom Spielfeld dorthin gelegt wurde: Du kannst 1 „Geschwindigkeitsroid“-Monster in deinem Friedhof wählen, außer „Hochgeschwindigkeitsroid Puzzle“; füge es deiner Hand hinzu.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

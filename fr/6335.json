@@ -1,0 +1,16 @@
+{
+  "id": 6335,
+  "type": "monster",
+  "name": "Aussa la Charmeuse de Terre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Ciblez 1 monstre TERRE contrôlé par votre adversaire ; prenez le contrôle de la cible tant que cette carte est face recto sur le Terrain.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

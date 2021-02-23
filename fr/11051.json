@@ -1,0 +1,15 @@
+{
+  "id": 11051,
+  "type": "monster",
+  "name": "Poupée Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto : durant la End Phase, changez autant de monstres face recto sur le Terrain que possible en Position de Défense face verso, puis vous pouvez Invoquer Spécialement 1 monstre \"Fantôruse\" depuis votre en Deck Position de Défense face verso, dont le Niveau est inférieur ou égal au nombre de monstres retournés face verso par cet effet.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

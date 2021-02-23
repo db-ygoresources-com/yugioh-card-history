@@ -1,0 +1,18 @@
+{
+  "id": 14224,
+  "type": "monster",
+  "name": "Artistamigo Brujo Sonriente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Mágica/Trampa \"Sonriente\" en tu Deck. Si cada monstruo que controlas es un monstruo \"Artistamigo\" u \"Ojos Anómalos\", o un Monstruo de Péndulo \"Mago/a\", y el ATK de esta carta en este momento es mayor que su ATK original: puedes robar tantas cartas como la cantidad de monstruos que controlas cuyo ATK en este momento sea mayor que su ATK original, y además, por el resto de este turno, no puedes Invocar monstruos de Modo Especial. Sólo puedes usar cada efecto de \"Artistamigo Brujo Sonriente\" una vez por turno.",
+  "pendEffect": "Si uno o más monstruos que controlas, cuyo ATK en este momento es mayor que su ATK original, son destruidos en batalla por el efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo. Sólo puedes usar este efecto de \"Artistamigo Brujo Sonriente\" una vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

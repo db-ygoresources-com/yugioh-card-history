@@ -1,0 +1,16 @@
+{
+  "id": 14185,
+  "type": "monster",
+  "name": "Danzatrice Scimitarre della Lucelunare",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "3 mostri \"Lucelunare\"\nDeve essere Evocata tramite Fusione. Guadagna 200 ATK per ogni mostro Guerriero-Bestia che è bandito o nei Cimiteri. Il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte. Durante la tua Main Phase, eccetto nel turno in cui questa carta è stata mandata al Cimitero: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Fusione che controlli; esso guadagna 3000 ATK, fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Danzatrice Scimitarre della Lucelunare\" una sola volta per turno.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Guerriero-Bestia",
+    "Fusione",
+    "Effetto"
+  ]
+}

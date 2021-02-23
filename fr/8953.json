@@ -1,0 +1,15 @@
+{
+  "id": 8953,
+  "type": "monster",
+  "name": "Chasseur de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre \"Ferraille\" face recto que vous contrôlez, excepté cette carte. Détruisez-la et envoyez 1 monstre Syntoniseur depuis votre Deck au Cimetière.",
+  "level": 3,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

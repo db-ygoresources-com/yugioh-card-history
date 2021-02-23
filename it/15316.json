@@ -1,0 +1,16 @@
+{
+  "id": 15316,
+  "type": "monster",
+  "name": "Ragazza Rosa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se uno o più mostri Pianta scoperti che controlli vengono mandati al Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano. Se sul Terreno c'è un mostro Pianta e questa carta è nel tuo Cimitero: puoi aggiungere questa carta alla tua mano. Puoi utilizzare solo 1 effetto di \"Ragazza Rosa\" per turno, e solo una volta in quel turno.",
+  "level": 3,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Pianta",
+    "Tuner",
+    "Effetto"
+  ]
+}

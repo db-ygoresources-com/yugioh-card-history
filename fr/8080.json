@@ -1,0 +1,15 @@
+{
+  "id": 8080,
+  "type": "monster",
+  "name": "Téléportateur Multiple",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut pas être Invoquée Spécialement. Vous pouvez payer 2000 Life Points pour Invoquer Spécialement 2 monstres de Type Psychique de Niveau 3 depuis votre Deck. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

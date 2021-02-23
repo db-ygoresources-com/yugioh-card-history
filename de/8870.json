@@ -1,0 +1,16 @@
+{
+  "id": 8870,
+  "type": "monster",
+  "name": "Drachonekro-Niederseelendrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Zombie-Monster\nMuss erst als Fusionsbeschwörung beschworen werden. Monster können nicht durch Kampf mit dieser Karte zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster gekämpft hat, das eine Grund-Stufe hat: Die ATK des Monsters werden zu 0, zusätzlich, falls sich das Monster noch offen auf dem Spielfeld befindet, beschwöre 1 „Finsterseele-Spielmarke“ (Zombie/FINSTERNIS/Stufe ?/ATK ?/DEF 0) als Spezialbeschwörung. (Wenn sie beschworen wird, werden ihre Stufe und ihre ATK dieselben wie die Grund-Stufe und -ATK des Monsters.) Du kannst nur 1 „Drachonekro-Niederseelendrache“ kontrollieren.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

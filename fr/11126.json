@@ -1,0 +1,15 @@
+{
+  "id": 11126,
+  "type": "monster",
+  "name": "Lance Shogi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 autre monstre de Type Bête-Guerrier de Niveau 3 que vous contrôlez ; les Niveaux du monstre et de cette carte deviennent la somme des Niveaux de ces monstres.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

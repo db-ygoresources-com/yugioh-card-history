@@ -1,0 +1,15 @@
+{
+  "id": 8447,
+  "type": "monster",
+  "name": "Adivinadora Tierra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "El ATK y la DEF de esta carta son iguales a su Nivel x 400. Durante cada una de tus Standby Phases, incrementa en 1 el Nivel de esta carta (max. 12). Cuando el Nivel de esta carta sube, inflige 400 puntos de daño a tu adversario.",
+  "level": 6,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

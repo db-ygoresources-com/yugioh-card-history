@@ -1,0 +1,18 @@
+{
+  "id": 12031,
+  "type": "monster",
+  "name": "Infantes Montados Aéreos de Draconia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Aunque los rumores dicen que fueron formados para invadir al neutral Estado Aéreo de Cxulub, estas tropas montadas aéreas del Imperio de Draconia han motivado que las naciones limítrofes fortalezcan su seguridad.",
+  "pendEffect": "Una vez por turno, cuando un monstruo que controles que haya sido Invocado de Modo Normal inflige daño de batalla a tu adversario: puedes seleccionar 1 carta en el Campo; destrúyela.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 2200,
+  "def": 200,
+  "properties": [
+    "Bestia Alada",
+    "Péndulo",
+    "Normal"
+  ]
+}

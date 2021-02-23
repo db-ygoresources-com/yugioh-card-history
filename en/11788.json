@@ -1,0 +1,18 @@
+{
+  "id": 11788,
+  "type": "monster",
+  "name": "Xiangsheng Magician",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 other face-up monster you control; this card's ATK becomes equal to that monster's current ATK, until the end of this turn.",
+  "pendEffect": "Once per turn: You can target 1 face-up Xyz Monster you control, and 1 Level 5 or higher monster you control; that Xyz Monster's Rank becomes equal to the Level of that Level 5 or higher monster, until the end of this turn (even if this card leaves the field). While you control more cards than your opponent does, this card's Pendulum Scale becomes 4.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

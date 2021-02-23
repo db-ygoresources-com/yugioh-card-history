@@ -1,0 +1,19 @@
+{
+  "id": 13753,
+  "type": "monster",
+  "name": "Garde du Point de Restauration",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres Cyberse\nUne fois par tour, si un autre Monstre Lien est Invoqué par Lien : le reste de ce tour, cette carte ne peut être détruite ni au combat ni par des effets de carte. Si un Monstre Lien, qui a été Invoqué par Lien en utilisant cette carte comme Matériel, est détruit par un effet de carte de l'adversaire, tant que cette carte est dans le Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Garde du Point de Restauration\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

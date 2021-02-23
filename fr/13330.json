@@ -1,0 +1,15 @@
+{
+  "id": 13330,
+  "type": "monster",
+  "name": "Nuage, Peintre Météorologique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si une autre carte \"Météorologique\" face recto que vous contrôlez est envoyée au Cimetière : vous pouvez cibler max. 2 Magies/Pièges \"Météorologique\" dans votre Cimetière ; placez-les face recto dans votre Zone Magie & Piège. Vous ne pouvez utiliser cet effet de \"Nuage, Peintre Météorologique\" qu'une fois par tour. Une fois par tour, durant la Standby Phase du tour après que cette carte a été bannie depuis le Terrain pour activer un effet de carte \"Météorologique\" : vous pouvez Invoquer Spécialement cette carte bannie.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8563,
+  "type": "monster",
+  "name": "Jurassier-Dino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal während der End Phase jedes Spielers, falls diese Karte in diesem Spielzug ein Monster deines Gegners durch Kampf zerstört hat, kannst du 1 „Jurassier“-Monster als Tribut anbieten, um 2 Karten zu ziehen.",
+  "level": 3,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Dinosaurier",
+    "Empfänger",
+    "Effekt"
+  ]
+}

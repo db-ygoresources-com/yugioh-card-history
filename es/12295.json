@@ -1,0 +1,18 @@
+{
+  "id": 12295,
+  "type": "monster",
+  "name": "Lector Péndulo, el Dracoseñor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Al comienzo del Damage Step, si esta carta batalla con un Monstruo de Péndulo: destruye a ese monstruo así como esta carta.",
+  "pendEffect": "Niega los efectos de los Monstruos de Péndulo boca arriba mientras tu adversario los controle.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1950,
+  "def": 0,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

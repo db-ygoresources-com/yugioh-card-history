@@ -1,0 +1,21 @@
+{
+  "id": 13755,
+  "type": "monster",
+  "name": "Gouki L'Ogre Géant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "3+ monstres \"Gouki\"\nNon destructible au combat, et non affectacle par les effets activés de monstres de votre adversaire avec une ATK inférieure ou égale à cette carte. Lorsque votre adversaire active une carte ou un effet qui cible cette carte et/ou un ou plusieurs monstres pointés par cette carte (Effet Rapide) : vous pouvez faire perdre exactement 500 ATK à cette carte, et si vous le faites, annulez l'activation. Une fois par tour, si l'ATK actuelle de cette carte est différente de son ATK d'origine (Effet Rapide) : jusqu'à la fin de ce tour, vous pouvez faire gagner 1000 ATK à cette carte.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

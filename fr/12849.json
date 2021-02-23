@@ -1,0 +1,16 @@
+{
+  "id": 12849,
+  "type": "monster",
+  "name": "Mechaba l'Invokhé",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Aleister l'Invokhateur\" + 1 monstre LUMIÈRE\nUne fois par tour, lorsqu'une Carte Magie/Piège ou un effet de monstre est activé (Effet Rapide) : vous pouvez envoyer le même type de carte (Monstre, Magie ou Piège) depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, bannissez la carte.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7611,
+  "type": "monster",
+  "name": "La Señora Espectro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Los monstruos Zombi de Nivel 3 o menor boca arriba en el Campo, excepto \"La Señora Espectro\", no pueden ser destruidos en batalla, y además no son afectados por Cartas Mágicas/de Trampa ni sus efectos. El nombre de esta carta se convierte en \"Sirviente de la Calavera\" mientras esté en el Cementerio.",
+  "level": 3,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

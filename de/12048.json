@@ -1,0 +1,16 @@
+{
+  "id": 12048,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Dreiäugiger Würfel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während des Spielzugs deines Gegners: Du kannst diese Karte von deinem Friedhof verbannen; annulliere den nächsten Angriff in diesem Spielzug von einem Monster, das dein Gegner kontrolliert. (Dies ist ein Schnelleffekt.)",
+  "level": 3,
+  "atk": 300,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

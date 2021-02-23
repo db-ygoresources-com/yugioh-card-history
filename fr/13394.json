@@ -1,0 +1,18 @@
+{
+  "id": 13394,
+  "type": "monster",
+  "name": "Méduse, Bête Mythique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Une fois par tour, durant la Battle Phase (Effet Rapide) : vous pouvez retirer 2 Compteurs Magie depuis votre Terrain, puis ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, son ATK/DEF deviennent la moitié de son ATK/DEF actuelles.",
+  "pendEffect": "Si vous n'avez aucune carte dans votre autre Zone Pendule : vous pouvez cibler 1 monstre dans votre Cimetière sur lequel vous pouvez placer un Compteur Magie ; détruisez cette carte, et si vous le faites, Invoquez Spécialement le monstre, et si vous faites ça, placez 1 Compteur Magie sur lui. Vous ne pouvez utiliser cet effet de \"Méduse, Bête Mythique\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

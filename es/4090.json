@@ -1,0 +1,15 @@
+{
+  "id": 4090,
+  "type": "monster",
+  "name": "Segadora de las Cartas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Selecciona 1 Carta de Trampa en el Campo y destruyela. Si la carta seleccionada está Colocada, toma y mira la carta. Si es una Carta de Trampa, es destruida. Si es una Carta Mágica, devuelvela a su posición original.",
+  "level": 5,
+  "atk": 1380,
+  "def": 1930,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

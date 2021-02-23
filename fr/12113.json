@@ -1,0 +1,18 @@
+{
+  "id": 12113,
+  "type": "monster",
+  "name": "Petite Bouchée Tortue Potartiste",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est détruite au combat : vous pouvez détruire le monstre qui l'a détruite.",
+  "pendEffect": "Une fois par tour : vous pouvez révéler 1 monstre \"Potartiste\" ou \"Yeux Impairs\" dans votre main, et si vous le faites, le reste de ce tour, réduisez le Niveau des monstres de ce nom dans votre main de 1 (même après qu'ils ont été Invoqués/Posés et même si cette carte quitte le Terrain).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Reptile",
+    "Pendule",
+    "Effet"
+  ]
+}

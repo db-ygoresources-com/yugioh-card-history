@@ -1,0 +1,15 @@
+{
+  "id": 8778,
+  "type": "monster",
+  "name": "Schwarzflügel - Bö der Gegenwind",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du keine Karten kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Falls ein Monster deines Gegners ein „Schwarzflügel“-Monster angreift, das du kontrollierst: Das angreifende Monster verliert nur während des Damage Steps 300 ATK.",
+  "level": 2,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

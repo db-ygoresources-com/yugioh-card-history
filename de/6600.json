@@ -1,0 +1,15 @@
+{
+  "id": 6600,
+  "type": "monster",
+  "name": "Ameisenfressender Ameisenbär",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werde. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer indem du 2 Zauber- oder Fallenkarten von deiner Spielfeldseite auf den Friedhof legst. Diese Karte kann 1 Zauber- oder Fallenkarte auf der gegnerischen Spielfeldseite zerstören, aber sie kann in diesem Spielzug nicht angreifen, falls du diesen Effekt aktiviert hast.",
+  "level": 5,
+  "atk": 2000,
+  "def": 500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

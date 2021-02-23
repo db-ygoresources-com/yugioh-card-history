@@ -1,0 +1,16 @@
+{
+  "id": 13742,
+  "type": "monster",
+  "name": "Magicien Cyberse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Cynet Rituel\". Les dommages que vous recevez sont divisés par deux. (Vous ne pouvez pas rediviser par deux les mêmes dommages de cette façon.) Tant que vous contrôlez un Monstre Lien, les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres que vous contrôlez (celui-ci exclu) avec une attaque, et aussi, votre adversaire ne peut pas cibler de monstres que vous contrôlez (celui-ci exclu) avec des effets de carte. Si cette carte combat un Monstre Lien, il gagne 1000 ATK durant ce calcul des dommages uniquement. Si cette carte en votre possession est détruite par un effet de carte de l'adversaire : vous pouvez ajouter 1 monstre Cyberse depuis votre Deck à votre main.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Rituel",
+    "Effet"
+  ]
+}

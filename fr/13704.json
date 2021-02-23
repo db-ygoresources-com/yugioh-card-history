@@ -1,0 +1,16 @@
+{
+  "id": 13704,
+  "type": "monster",
+  "name": "Exécuteur Revendetterreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Vendetterreur\". Le nom de cette carte devient \"Assassin Revendetterreur\" tant qu'elle est sur le Terrain. Tant que cette carte Invoquée Rituellement est sur le Terrain, votre adversaire ne peut pas cibler de cartes que vous contrôlez (cette carte exclue) avec des effets de carte. Si cette carte Invoquée Rituellement est détruite au combat, ou détruite par un effet de carte de l'adversaire tant qu'elle est dans la Zone Monstre de son propriétaire : vous pouvez ajouter 1 carte \"Vendetterreur\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Exécuteur Revendetterreur\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Rituel",
+    "Effet"
+  ]
+}

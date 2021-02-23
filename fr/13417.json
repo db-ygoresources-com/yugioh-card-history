@@ -1,0 +1,19 @@
+{
+  "id": 13417,
+  "type": "monster",
+  "name": "Hexstia Altergeist",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres \"Altergeist\"\nGagne une ATK égale à l'ATK d'origine de chaque monstre \"Altergeist\" pointé par cette carte. Lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez Sacrifier 1 monstre \"Altergeist\" pointé par cette carte ; annulez l'activation, et si vous le faites, détruisez la carte. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 carte \"Altergeist\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Hexstia Altergeist\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

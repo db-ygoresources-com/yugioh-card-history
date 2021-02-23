@@ -1,0 +1,18 @@
+{
+  "id": 12595,
+  "type": "monster",
+  "name": "Artistamico Cambiogiraffa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; mentre questa carta è scoperta sul Terreno, quel mostro scoperto non può attaccare, inoltre annulla gli effetti di quel mostro scoperto mentre è sul Terreno.",
+  "pendEffect": "Quando esattamente 1 mostro che controlli (e nessuna altra carta) viene distrutto in battaglia: puoi distruggere questa carta e, se lo fai, Evoca Specialmente quel mostro distrutto in battaglia in Posizione di Attacco e, se fai quello, esso non può essere distrutto in battaglia in questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 5,
+  "level": 1,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

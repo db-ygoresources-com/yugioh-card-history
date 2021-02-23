@@ -1,0 +1,19 @@
+{
+  "id": 13413,
+  "type": "monster",
+  "name": "Hechicero de la Recuperación",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos Ciberso\n(Efecto Rápido): puedes seleccionar 1 Monstruo de Enlace Ciberso en tu Cementerio que fue destruido este turno; Invócalo de Modo Especial, pero ve sus efectos negados, y además destrúyelo durante la End Phase. Sólo puedes usar este efecto de \"Hechicero de la Recuperación\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

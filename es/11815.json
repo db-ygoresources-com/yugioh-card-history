@@ -1,0 +1,18 @@
+{
+  "id": 11815,
+  "type": "monster",
+  "name": "Galante Caballerígneo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Un líder de la unidad de comandos Caballerígneos más arriesgada. Su mayor desafío es mantener bajo control el temperamento ardiente de sus hombres.",
+  "pendEffect": "Si tienes una carta \"Caballerígneo\" en tu otra Zona de Péndulo: puedes destruir ambas cartas en tus Zonas de Péndulo y, si lo haces, añade a tu mano 1 monstruo de FUEGO de Tipo Guerrero en tu Deck o Cementerio.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 2200,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

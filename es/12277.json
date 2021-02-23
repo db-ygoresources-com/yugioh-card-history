@@ -1,0 +1,18 @@
+{
+  "id": 12277,
+  "type": "monster",
+  "name": "Artistamigo Luxciérnaga",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si un monstruo \"Artistamigo\" u \"Ojos Anómalos\" que controles ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa.",
+  "pendEffect": "Una vez por turno, cuando un monstruo de tu adversario declara un ataque: puedes Sacrificar 1 monstruo \"Artistamigo\"; niega el ataque, y después termina la Battle Phase.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Insecto",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8789,
+  "type": "monster",
+  "name": "Infernity Randomizer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster x 200. For a Spell or Trap Card, you take 500 damage.",
+  "level": 1,
+  "atk": 900,
+  "def": 0,
+  "properties": [
+    "Warrior",
+    "Effect"
+  ]
+}

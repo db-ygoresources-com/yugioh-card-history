@@ -1,0 +1,15 @@
+{
+  "id": 8271,
+  "type": "monster",
+  "name": "Commandant des Crânes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est face recto sur le Terrain à la fin de la Battle Phase : détruisez cette carte face recto. Vous pouvez envoyer cette carte depuis votre main au Cimetière ; Invoquez Spécialement max. 2 monstres de Type Zombie depuis votre main dont la somme des ATK est exactement 2000.",
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14835,
+  "type": "monster",
+  "name": "Jack-o-Bóboro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes descartar 1 monstruo Zombi; Invoca esta carta de Modo Especial desde tu mano. Durante la Main Phase de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo Zombi en cualquier Cementerio; Invoca ese monstruo de Modo Especial (pero destiérralo cuando deje el Campo), y después destierra esta carta boca arriba hasta la End Phase. Sólo puedes usar cada efecto de \"Jack-o-Bóboro\" una vez por turno.",
+  "level": 7,
+  "atk": 1500,
+  "def": 2200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

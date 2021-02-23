@@ -1,0 +1,15 @@
+{
+  "id": 6167,
+  "type": "monster",
+  "name": "Mago Silencioso LV4",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cada vez que tu adversario roba una o más cartas, pon 1 Contador Mágico en esta carta (máx. 5). Esta carta gana 500 ATK por cada Contador Mágico en ella. Durante la Standby Phase de tu próximo turno después de que sea puesto el 5º Contador Mágico en esta carta: puedes mandar al Cementerio esta carta boca arriba con 5 Contadores Mágicos; Invoca de Modo Especial, desde tu mano o Deck, 1 \"Mago Silencioso LV8\".",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

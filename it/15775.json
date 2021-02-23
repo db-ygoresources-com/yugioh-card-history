@@ -1,0 +1,16 @@
+{
+  "id": 15775,
+  "type": "monster",
+  "name": "Myutante Ultimus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "3 mostri \"Myutante\" di Livello 8 o superiore\nQuando viene attivata una carta o un effetto (Effetto Rapido): puoi bandire dalla tua mano, Cimitero o Terreno scoperto 1 carta \"Myutante\" dello stesso tipo (Mostro, Magia o Trappola); annulla l'attivazione e, se lo fai, bandisci quella carta. Se questa carta Evocata tramite Fusione che controlli viene distrutta da una carta dell'avversario: puoi aggiungere fino a 3 delle tue carte \"Myutante\" bandite (fino a 1 ciascuno di Mostro, Magia e Trappola) alla tua mano. Puoi utilizzare ogni effetto di \"Myutante Ultimus\" una sola volta per turno.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psichico",
+    "Fusione",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5781,
+  "type": "monster",
+  "name": "Señor de la Llama Legendario",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Este monstruo solo puede ser Invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual \"Suplicio Incandescente\". También debes ofrecer monstruos cuyo Nivel total sea 7 o más de tu Campo o tu mano como Sacrificio. Cada vez que tu o tu adversario activa 1 Carta Mágica, pon 1 Contador Mágico en esta carta. Retira 3 Contadores Mágicos de esta carta para destruir todos los monstruos en el Campo excepto esta carta.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

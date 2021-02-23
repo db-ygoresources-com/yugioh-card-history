@@ -1,0 +1,15 @@
+{
+  "id": 5044,
+  "type": "monster",
+  "name": "Rigorous Reaver",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "FLIP: Each player discards 1 card.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+  "level": 3,
+  "atk": 1600,
+  "def": 100,
+  "properties": [
+    "Plant",
+    "Effect"
+  ]
+}

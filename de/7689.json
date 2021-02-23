@@ -1,0 +1,16 @@
+{
+  "id": 7689,
+  "type": "monster",
+  "name": "Magnadrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte deinem Gegner Kampfschaden zufügt: Sie erhält 200 ATK.",
+  "level": 2,
+  "atk": 1400,
+  "def": 600,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

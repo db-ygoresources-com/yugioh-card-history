@@ -1,0 +1,16 @@
+{
+  "id": 14848,
+  "type": "monster",
+  "name": "Bethor Mégalithe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Mégalithe\". Vous pouvez défausser cette carte ; Invoquez Rituellement 1 Monstre Rituel \"Mégalithe\" depuis votre main, en Sacrifiant des monstres depuis votre main ou Terrain dont le Niveau total est supérieur ou égal à son Niveau. Si cette carte est Invoquée Rituellement : vous pouvez cibler un nombre de cartes contrôlées par votre adversaire, inférieur ou égal au nombre de Monstres Rituels de noms différents dans votre Cimetière ; détruisez-les. Vous ne pouvez utiliser chaque effet de \"Bethor Mégalithe\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1500,
+  "def": 2600,
+  "properties": [
+    "Rocher",
+    "Rituel",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9896,
+  "type": "monster",
+  "name": "Insektor Giga-Rüsselkäfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 offenes „Insektor“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte von deiner Hand aus. Solange diese Karte ein Monster ausrüstet, werden die Grund-DEF des Monsters zu 2600. Falls diese Karte auf den Friedhof gelegt wird, solange sie ein Monster ausrüstet: Du kannst 1 „Insektor“-Monster in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Dieser Effekt von „Insektor Giga-Rüsselkäfer“ kann nur einmal pro Spielzug verwendet werden.",
+  "level": 6,
+  "atk": 0,
+  "def": 2600,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

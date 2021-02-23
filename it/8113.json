@@ -1,0 +1,15 @@
+{
+  "id": 8113,
+  "type": "monster",
+  "name": "Verme Opera",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "SCOPRI: Tutti i mostri scoperti sul Terreno perdono 500 ATK, tranne i mostri \"Verme\" di Tipo Rettile.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

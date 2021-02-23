@@ -1,0 +1,16 @@
+{
+  "id": 5589,
+  "type": "monster",
+  "name": "Des Dendle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, durante tu Main Phase, puedes equipar esta carta a tu \"Orchis Vampírico\" como una Carta Mágica de Equipo O separar el equipamiento e Invocar mediante una Invocación Especial esta carta boca arriba en Posición de Ataque. Cuando esta carta es equipada por el efecto de esta carta, cada vez que el monstruo equipado destruye 1 monstruo como resultado de una batalla, Invoca mediante una Invocación Especial 1 \"Ficha de Planta Malvada\" (Tipo Planta/TIERRA/Nivel 1/ATK 800/DEF 800). (1 monstruo solo puede ser equipado con 1 Monstruo de Unión a la vez. Si el monstruo equipado con esta carta es destruido en batalla, se destruye esta carta en su lugar).",
+  "level": 4,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Planta",
+    "Unión",
+    "Efecto"
+  ]
+}

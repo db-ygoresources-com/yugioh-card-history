@@ -1,0 +1,18 @@
+{
+  "id": 14739,
+  "type": "monster",
+  "name": "D/D Male",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può attaccare a meno che tu controlli un altro mostro \"D/D\". Durante la Main Phase del tuo avversario (Effetto Rapido): puoi scegliere come bersaglio 1 mostro Evocato Pendulum scoperto controllato dal tuo avversario; annulla gli effetti di quel mostro scoperto fino alla fine di questo turno. Puoi utilizzare questo effetto di \"D/D Male\" una sola volta per turno.",
+  "pendEffect": "Una volta, mentre questa carta è nella tua Zona Pendulum, quando il tuo avversario Evoca Pendulum uno o più mostri (eccetto durante il Damage Step): puoi attivare questo effetto; in questo turno, quei mostri Evocati Pendulum non possono attaccare, inoltre i loro effetti sono annullati.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

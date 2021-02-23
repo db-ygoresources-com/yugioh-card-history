@@ -1,0 +1,19 @@
+{
+  "id": 13490,
+  "type": "monster",
+  "name": "Roi de la Maîtrise - Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres Démon\nUne fois par tour, durant votre Standby Phase, payez 500 LP ou détruisez cette carte. Une fois par Chaîne, si vous payez des LP (sauf durant la Damage Step) : vous pouvez envoyer 1 monstre Démon depuis votre Deck au Cimetière avec une ATK ou DEF égale au montant payé. Une fois par Chaîne, si un ou plusieurs monstres Démon sont envoyés à votre Cimetière (sauf durant la Damage Step) : vous pouvez lancer un dé à six faces, puis appliquez cet effet sur 1 de ces monstres selon le résultat.\n●1 : Ajoutez-le à votre main.\n●2, 3, 4, 5 : Mélangez-le dans le Deck.\n●6 : Invoquez-le Spécialement.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

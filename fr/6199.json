@@ -1,0 +1,17 @@
+{
+  "id": 6199,
+  "type": "monster",
+  "name": "B.E.S. Grand Vaisseau",
+  "oldName": "Grand Vaisseau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "notes": "Nom de carte actualisé de \"Grand Vaisseau\" le 07-04-2017.",
+  "effectText": "Si cette carte est Invoquée Normalement : placez 3 Compteurs sur elle. Non destructible au combat. À la fin de la Damage Step, si cette carte a combattu : retirez 1 Compteur de cette carte. Si vous ne pouvez pas, détruisez-la.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

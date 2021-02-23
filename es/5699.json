@@ -1,0 +1,15 @@
+{
+  "id": 5699,
+  "type": "monster",
+  "name": "Caballero del Espejismo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial por \"Caballero de la Llamarada Oscura\" y no puede ser Invocado de Modo Especial de otra forma. Sólo durante el cálculo de daño, esta carta gana ATK igual al ATK original del monstruo de tu adversario con el que está batallando. Durante la End Phase de un turno en el que esta carta atacó o fue atacada: destierra esta carta.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

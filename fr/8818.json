@@ -1,0 +1,16 @@
+{
+  "id": 8818,
+  "type": "monster",
+  "name": "Rose Splendide",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nUne fois par tour : vous pouvez bannir 1 monstre Plante depuis votre Cimetière, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, divisez par deux l'ATK de la cible. Durant la Battle Phase, si cette carte a attaqué : vous pouvez bannir 1 monstre Plante depuis votre Cimetière ; divisez par deux l'ATK de cette carte jusqu'à la fin de ce tour, et si vous le faites, cette carte peut faire une seconde attaque durant cette Battle Phase.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Synchro",
+    "Effet"
+  ]
+}

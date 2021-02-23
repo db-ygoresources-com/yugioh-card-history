@@ -1,0 +1,15 @@
+{
+  "id": 7611,
+  "type": "monster",
+  "name": "La Signora Spettrale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "I mostri Zombie di Livello 3 o inferiore scoperti sul Terreno, eccetto \"La Signora Spettrale\", non possono essere distrutti in battaglia, inoltre sono immuni alle Carte Magia/Trappola e ai loro effetti. Il nome di questa carta diventa \"Servitore del Teschio\" mentre è nel Cimitero.",
+  "level": 3,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

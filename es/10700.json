@@ -1,0 +1,15 @@
+{
+  "id": 10700,
+  "type": "monster",
+  "name": "Zombiguau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta declara un ataque, gana 500 ATK. Si esta carta en el Campo es destruida y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de Nivel 1 con 0 ATK y DEF. Sus efectos son negados, y además es destruido durante tu próxima End Phase.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

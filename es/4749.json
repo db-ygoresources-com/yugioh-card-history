@@ -1,0 +1,15 @@
+{
+  "id": 4749,
+  "type": "monster",
+  "name": "Dragón Cañón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; lanza una moneda 3 veces y destrúyelo si al menos 2 de los resultados son cara.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

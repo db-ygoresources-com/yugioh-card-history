@@ -1,0 +1,15 @@
+{
+  "id": 7114,
+  "type": "monster",
+  "name": "Djinn Céleste Invicil",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte ne peut pas être Invoquée par Invocation Spéciale. Si vous faites l'Invocation Sacrifice de cette carte en Sacrifiant 1 des monstres suivants, cette carte obtient l'effet approprié :\n ● Monstre LUMIÈRE de Type Elfe : Annulez les effets de toutes les Cartes Magie.\n ● Monstre TÉNÈBRES de Type Démon : Annulez les effets de toutes les Cartes Piège.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9040,
+  "type": "monster",
+  "name": "Finsterer Highlander",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger-Monster vom Typ Unterweltler + 1 oder mehr Nicht-Empfänger-Monster vom Typ Unterweltler\nKein Spieler kann Monster als Synchrobeschwörung beschwören. Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert und das mit einer Ausrüstungskarte ausgerüstet ist; zerstöre alle Ausrüstungskarten, mit denen das Monster ausgerüstet ist, und falls du dies tust, füge deinem Gegner 400 Schaden für jede zerstörte Karte zu.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8551,
+  "type": "monster",
+  "name": "Aliado Genex Cambiador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, puedes seleccionar 1 monstruo boca arriba en el Campo y declarar 1 Atributo. El Atributo del monstruo seleccionado se convierte en el Atributo declarado hasta la End Phase.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

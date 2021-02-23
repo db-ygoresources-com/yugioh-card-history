@@ -1,0 +1,15 @@
+{
+  "id": 10897,
+  "type": "monster",
+  "name": "Gólem Gorgónico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es destruida en batalla y mandada al Cementerio: el ATK del monstruo que la destruyó se convierte en 0. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 Carta Mágica/de Trampa Colocada que controle tu adversario; este turno, ese objetivo no puede ser activado. Tu adversario no puede activar la carta seleccionada en respuesta a la activación de este efecto.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

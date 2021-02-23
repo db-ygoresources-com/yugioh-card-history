@@ -1,0 +1,15 @@
+{
+  "id": 10389,
+  "type": "monster",
+  "name": "Sphynx Flamme Chimérique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Votre adversaire ne peut pas cibler cette carte avec des effets de cartes. Vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) ; envoyez la carte du dessus de votre Deck au Cimetière, puis si elle était du type de carte déclaré, vous pouvez Invoquer Spécialement 1 monstre FEU depuis votre main ou Cimetière. Vous ne pouvez utiliser cet effet de \"Sphynx Flamme Chimérique\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 1900,
+  "def": 1900,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

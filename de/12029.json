@@ -1,0 +1,18 @@
+{
+  "id": 12029,
+  "type": "monster",
+  "name": "Symphonischer Krieger Mik-k-ks",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 3 Symphonisch-Zählmarken von deiner Spielfeldseite entfernst. Nachdem du diese Karte als Normal- oder Spezialbeschwörung beschworen hast, kannst du während deiner Main Phase dieses Spielzugs zusätzlich zu deiner Normalbeschwörung/deinem Normalen Setzen 1 Monster als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.)",
+  "pendEffect": "Der Pendelbereich dieser Karte wird zu 4, es sei denn, du hast eine „Symphonischer Krieger“-Karte in deiner anderen Pendelzone. Einmal pro Spielzug, während deiner End Phase: Du kannst 1 deiner verbannten „Symphonischer Krieger“-Monster wählen; füge es deiner Hand hinzu.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

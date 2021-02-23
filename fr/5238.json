@@ -1,0 +1,15 @@
+{
+  "id": 5238,
+  "type": "monster",
+  "name": "Lampe ancienne",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Durant votre Main Phase : vous pouvez Invoquer Spécialement \"La Jinn le Génie Mystique de la Lampe\" depuis votre main. Cette carte doit être face recto sur le Terrain pour activer et résoudre cet effet. Avant le calcul des dommages, si cette carte est attaquée par un monstre de votre adversaire et qu'elle était face verso au début de la Damage Step : vous pouvez cibler 1 monstre contrôlé par votre adversaire (le monstre attaquant exclu) ; le monstre attaquant l'attaque à la place, et vous passez au calcul des dommages.",
+  "level": 3,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

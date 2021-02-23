@@ -1,0 +1,15 @@
+{
+  "id": 8626,
+  "type": "monster",
+  "name": "Sirviente Reptílico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Destruye esta carta si hay monstruos boca arriba en el Campo que no sean esta carta. Destruye esta carta cuando es seleccionada como objetivo del efecto de una Carta Mágica o de Trampa. Mientras esta carta está boca arriba en el Campo, ningún jugador puede Invocar monstruos de Modo Normal.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

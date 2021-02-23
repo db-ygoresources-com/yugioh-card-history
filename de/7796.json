@@ -1,0 +1,15 @@
+{
+  "id": 7796,
+  "type": "monster",
+  "name": "Aurkus, Lichtverpflichteter Druide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kein Spieler kann „Lichtverpflichtet“-Monster (irgendwo) als Ziel für Karteneffekte wählen. Während jeder deiner End Phasen: Lege die obersten 2 Karten deines Decks auf den Friedhof.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

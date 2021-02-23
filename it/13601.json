@@ -1,0 +1,20 @@
+{
+  "id": 13601,
+  "type": "monster",
+  "name": "Cavaliere dell'Incubo Unicorno",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2+ mostri con nomi diversi\nSe questa carta viene Evocata Link: puoi scartare 1 carta, poi scegliere come bersaglio 1 carta sul Terreno; falla ritornare nel Deck, poi, se questa carta era co-linkata quando questo effetto è stato attivato, puoi pescare 1 carta. Puoi utilizzare questo effetto di \"Cavaliere dell'Incubo Unicorno\" una sola volta per turno. Mentre qualsiasi mostro \"Cavaliere dell'Incubo\" co-linkato è sul Terreno, per la tua normale pescata nella tua Draw Phase, pesca 1 carta per ogni carta con nome diverso tra quei mostri \"Cavaliere dell'Incubo\" co-linkati, invece di pescare solo 1 carta.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2200,
+  "properties": [
+    "Demone",
+    "Link",
+    "Effetto"
+  ]
+}

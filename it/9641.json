@@ -1,0 +1,15 @@
+{
+  "id": 9641,
+  "type": "monster",
+  "name": "Fuggitivo del Tempo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Durante il turno di qualsiasi giocatore: puoi scartare questa carta, poi scegliere come bersaglio 1 mostro di Tipo Psichico che controlli; bandiscilo fino alla tua prossima Standby Phase.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Psichico",
+    "Effetto"
+  ]
+}

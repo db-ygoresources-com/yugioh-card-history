@@ -1,0 +1,15 @@
+{
+  "id": 6400,
+  "type": "monster",
+  "name": "Prêtre Invocateur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que cette carte est face recto sur le Terrain, elle ne peut pas être Sacrifiée. Si cette carte est Invoquée Normalement ou par Flip : changez cette carte en Position de Défense. Une fois par tour : vous pouvez défausser 1 Magie ; Invoquez Spécialement 1 monstre de Niveau 4 depuis votre Deck, mais le monstre ne peut pas attaquer ce tour.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

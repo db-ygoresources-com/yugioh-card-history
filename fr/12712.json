@@ -1,0 +1,18 @@
+{
+  "id": 12712,
+  "type": "monster",
+  "name": "Acteur des Abysses - Superstar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsqu'elle est Invoquée Normalement ou Spécialement, les Cartes Magie/Piège et effets Magie/Piège de votre adversaire ne peuvent pas être activés. Une fois par tour : vous pouvez Poser 1 Magie \"Script des Abysses\" directement depuis votre Deck, mais elle est envoyée au Cimetière durant la End Phase.",
+  "pendEffect": "Une fois par tour : vous pouvez Sacrifier 1 monstre \"Acteur des Abysses\", puis ciblez 1 Magie \"Script des Abysses\" dans votre Cimetière ; ajoutez-la à votre main.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10758,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Safaucon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte ne peut pas attaquer directement votre adversaire. Si vous avez un monstre (monstres \"Bête Fantôme Méca\" exclus) dans votre Cimetière, cette carte ne peut pas attaquer. Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte. Une fois par tour : vous pouvez Sacrifier 1 Jeton, puis ciblez 1 carte dans l'un des Cimetières ; bannissez la cible.",
+  "level": 4,
+  "atk": 2100,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

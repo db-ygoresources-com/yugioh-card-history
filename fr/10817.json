@@ -1,0 +1,16 @@
+{
+  "id": 10817,
+  "type": "monster",
+  "name": "Bus des Royaumes Interdits",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Ajoutez 1 monstre Démon (monstres TÉNÈBRES ou LUMIÈRE exclus) depuis votre Deck à votre main.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9310,
+  "type": "monster",
+  "name": "Týr, Champion Nordique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Votre adversaire ne peut pas cibler les monstres \"Nordique\" (\"Týr, Champion Nordique\" exclu) avec une attaque. S'il n'y a aucun autre monstre \"Nordique\" sur le Terrain, détruisez cette carte.",
+  "level": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

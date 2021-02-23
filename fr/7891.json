@@ -1,0 +1,16 @@
+{
+  "id": 7891,
+  "type": "monster",
+  "name": "Permuteur Psychique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez payer 1000 LP, puis ciblez 1 monstre face recto contrôlé par votre adversaire et 1 monstre de Type Psychique que vous contrôlez (\"Permuteur Psychique\" exclu) ; échangez le contrôle des deux cibles, et si vous le faites, leur position de combat ne peut pas être changée ce tour.",
+  "level": 2,
+  "atk": 100,
+  "def": 1500,
+  "properties": [
+    "Psychique",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

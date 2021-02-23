@@ -1,0 +1,15 @@
+{
+  "id": 8320,
+  "type": "monster",
+  "name": "Pateador de Axones Blindado",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si controlas un monstruo boca arriba de Tipo Psíquico, puedes Invocar esta carta de Modo Normal sin realizar Sacrificios. Si esta carta destruye al monstruo de tu adversario en batalla, recibes daño igual a la mitad del ATK del monstruo destruido. Después, puedes Invocar de Modo Especial, desde tu Cementerio, 1 monstruo con ATK igual o menor que el daño que recibiste.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

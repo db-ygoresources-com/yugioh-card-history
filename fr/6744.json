@@ -1,0 +1,16 @@
+{
+  "id": 6744,
+  "type": "monster",
+  "name": "Ambulance Sauveteuroid",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Sauveteuroid\" + \"Ambulanceroid\"\nCe monstre ne peut pas être Invoqué par Invocation Spéciale excepté par une Invocation Fusion. Lorsqu'un monstre sur votre Terrain est détruit à l'issue d'un combat et envoyé au Cimetière, vous pouvez faire l'Invocation Spéciale de ce monstre en Position de Défense. Vous ne pouvez utiliser cet effet qu'une fois par tour.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

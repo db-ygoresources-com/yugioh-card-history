@@ -1,0 +1,16 @@
+{
+  "id": 8654,
+  "type": "monster",
+  "name": "Dragón de la Luna Quilla",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Supay\" + 1+ monstruos que no sean Cantantes\nSi esta carta es seleccionada para un ataque: gana LP iguales a la mitad del ATK del monstruo atacante. Si esta carta en el Campo es destruida: puedes seleccionar 1 \"Dragón del Sol Inti\" en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

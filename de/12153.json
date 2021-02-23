@@ -1,0 +1,16 @@
+{
+  "id": 12153,
+  "type": "monster",
+  "name": "Buster-Klingenkämpfer, der Drachenzerstörer-Schwertkämpfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Buster-Klingenkämpfer“ + 1 Drache-Monster\nMuss als Fusionsbeschwörung beschworen werden. Kann nicht direkt angreifen. Erhält für jedes Drache-Monster, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet, 1000 ATK/DEF. Ändere alle Drache-Monster, die dein Gegner kontrolliert, in die Verteidigungsposition, zusätzlich können die Effekte von Drache-Monstern, die deinem Gegner gehören, nicht aktiviert werden. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

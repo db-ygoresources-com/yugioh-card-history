@@ -1,0 +1,16 @@
+{
+  "id": 8084,
+  "type": "monster",
+  "name": "Zauberer der Dämmerung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Karten im Friedhof deines Gegners wählen; verbanne sie.",
+  "level": 2,
+  "atk": 1300,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

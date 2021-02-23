@@ -1,0 +1,16 @@
+{
+  "id": 5450,
+  "type": "monster",
+  "name": "Chica Maga Oscura Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser primero Invocada de Modo Especial (desde tu mano) Sacrificando 1 monstruo, mientras controles \"Mundo Toon\". Si \"Mundo Toon\" en el Campo es destruido, destruye esta carta. Puede atacar a tu adversario directamente, a menos que éste controle un monstruo Toon, en cuyo caso esta carta debe seleccionar un monstruo Toon para sus ataques. Gana 300 ATK por cada \"Mago Oscuro\" o \"Mago del Caos Negro\" en el Cementerio de cualquier jugador.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Toon",
+    "Efecto"
+  ]
+}

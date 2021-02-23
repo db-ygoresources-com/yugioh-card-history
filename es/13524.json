@@ -1,0 +1,15 @@
+{
+  "id": 13524,
+  "type": "monster",
+  "name": "Tormenta Cifrada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede atacar directamente, ni atacar monstruos en la Zona de Monstruos Extra. No es afectada por los efectos de monstruos activados en la Zona de Monstruos Extra. No puede ser destruida en batalla por monstruos en la Zona de Monstruos Extra.",
+  "level": 4,
+  "atk": 2400,
+  "def": 0,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

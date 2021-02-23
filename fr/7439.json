@@ -1,0 +1,15 @@
+{
+  "id": 7439,
+  "type": "monster",
+  "name": "Moustique Magnétique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Détruisez tous les monstres face recto de Type Machine-Type sur le Terrain.",
+  "level": 3,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

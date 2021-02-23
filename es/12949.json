@@ -1,0 +1,15 @@
+{
+  "id": 12949,
+  "type": "monster",
+  "name": "Petardo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante el turno de cualquier jugador: puedes descartar esta carta; inflige 1000 puntos de daño a tu adversario y, si lo haces, sáltate tu próxima Draw Phase. Sólo puedes usar este efecto de \"Petardo\" una vez por turno. Cada vez que tu adversario recibe daño de efecto, pon 1 Contador en esta carta. Una vez por turno, durante la End Phase: retira de esta carta todos los Contadores que fueron puestos por este efecto y, si lo haces, inflige 300 puntos de daño a tu adversario por cada uno.",
+  "level": 4,
+  "atk": 1700,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

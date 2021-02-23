@@ -1,0 +1,20 @@
+{
+  "id": 14935,
+  "type": "monster",
+  "name": "Simorgh, Oiseau de la Souveraineté",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2+ monstres (un monstre Bête Ailée inclus)\nNon utilisable comme Matériel Lien. Votre adversaire ne peut cibler ni cette carte ni un ou plusieurs monstres Bête Ailée pointés par cette carte avec des effets de carte. Si cette carte va être détruite au combat, vous pouvez détruire 1 autre carte \"Simorgh\" que vous contrôlez à la place. Durant la End Phase : vous pouvez Invoquer Spécialement 1 monstre Bête Ailée depuis votre main ou Deck, de Niveau inférieur ou égal au nombre total de Zones Magie & Piège inutilisées sur le Terrain. Vous ne pouvez utiliser cet effet de \"Simorgh, Oiseau de la Souveraineté\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Bête Ailée",
+    "Lien",
+    "Effet"
+  ]
+}

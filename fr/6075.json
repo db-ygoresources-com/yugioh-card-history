@@ -1,0 +1,15 @@
+{
+  "id": 6075,
+  "type": "monster",
+  "name": "Visage Nécro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement : mélangez toutes les cartes bannies dans le Deck. Cette carte gagne 100 ATK pour chaque carte mélangée dans le Main Deck par cet effet. Si cette carte est bannie : chaque joueur bannit 5 cartes du dessus de son Deck (ou tout son Deck, s'il en a moins de 5).",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

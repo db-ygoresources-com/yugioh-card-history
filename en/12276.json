@@ -1,0 +1,18 @@
+{
+  "id": 12276,
+  "type": "monster",
+  "name": "Performapal Odd-Eyes Unicorn",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When this card is Normal or Special Summoned: You can target 1 \"Performapal\" monster in your GY; gain LP equal to its ATK.",
+  "pendEffect": "Once, while this card is in your Pendulum Zone, when your \"Odd-Eyes\" monster declares an attack: You can target 1 other \"Performapal\" monster you control; that attacking monster gains ATK equal to the original ATK of the targeted monster on the field, until the end of the Battle Phase (even if this card leaves the field).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

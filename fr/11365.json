@@ -1,0 +1,15 @@
+{
+  "id": 11365,
+  "type": "monster",
+  "name": "Lindéclosion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un monstre que vous contrôlez combat un monstre de votre adversaire, durant le calcul des dommages : jusqu'à la fin de la Damage Step, l'ATK de chaque monstre du combat devient égale à sa DEF actuelle.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Wyrm",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15261,
+  "type": "monster",
+  "name": "Appareil Amorceur Non Autorisé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place. Si cette carte est détruite et envoyée au Cimetière tant qu'elle est équipée à un monstre : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Appareil Amorceur Non Autorisé\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

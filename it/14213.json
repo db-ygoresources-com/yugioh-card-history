@@ -1,0 +1,16 @@
+{
+  "id": 14213,
+  "type": "monster",
+  "name": "Mago del Chaos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con \"Forma del Chaos\". Il nome di questa carta diventa \"Mago Nero\" mentre è sul Terreno o nel Cimitero. Una volta per turno, quando viene attivata una Carta Magia/Trappola o un suo effetto (Effetto Rapido): puoi scegliere come bersaglio 1 carta sul Terreno; distruggila. Se questa carta Evocata tramite Rituale viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente 1 Mostro Rituale \"Chaos\" o \"Glorioso Soldato Nero\" dalla tua mano, eccetto \"Mago del Chaos\", ignorando le sue condizioni di Evocazione.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Incantatore",
+    "Rituale",
+    "Effetto"
+  ]
+}

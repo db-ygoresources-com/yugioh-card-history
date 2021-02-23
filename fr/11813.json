@@ -1,0 +1,18 @@
+{
+  "id": 11813,
+  "type": "monster",
+  "name": "Paladin Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ce Chevaliardent est réputé pour réfléchir froidement, mais à vrai dire, ses émotions mettent tout simplement du temps pour prendre le dessus.",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1400,
+  "def": 1900,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

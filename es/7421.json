@@ -1,0 +1,15 @@
+{
+  "id": 7421,
+  "type": "monster",
+  "name": "Dragón Armado Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo exactamente 3 monstruos de OSCURIDAD en tu Cementerio. Puedes desterrar 1 monstruo de OSCURIDAD en tu Cementerio, y después seleccionar 1 carta en el Campo; destruye ese objetivo.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

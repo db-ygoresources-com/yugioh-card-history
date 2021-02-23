@@ -1,0 +1,15 @@
+{
+  "id": 5860,
+  "type": "monster",
+  "name": "Chaos-Imperatordrache - Gesandter des Endes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT und 1 FINSTERNIS Monster von deinem Friedhof verbannst. Einmal pro Spielzug: Du kannst 1000 LP zahlen; lege so viele Karten in den Händen beider Spieler und auf dem Spielfeld wie möglich auf den Friedhof, dann füge deinem Gegner für jede durch diesen Effekt auf den Friedhof des Gegners gelegte Karte 300 Schaden zu. Du kannst während des Spielzugs, in dem du den Effekt dieser Karte aktivierst, weder andere Karten noch Effekte aktivieren.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

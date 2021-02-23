@@ -1,0 +1,15 @@
+{
+  "id": 11339,
+  "type": "monster",
+  "name": "Shopina die musikalische Maestra",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 LICHT Monster vom Typ Fee in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Effekte von Nicht-LICHT Monstern aktivieren.",
+  "level": 7,
+  "atk": 2300,
+  "def": 1700,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

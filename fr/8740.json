@@ -1,0 +1,15 @@
+{
+  "id": 8740,
+  "type": "monster",
+  "name": "Patrouilleur Stygien",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte détruit un monstre au combat et l'envoie au Cimetière : infligez des dommages à votre adversaire égaux au Niveau d'origine du monstre dans le Cimetière x 100. Vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 monstre Démon avec max. 2000 ATK depuis votre main.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

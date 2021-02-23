@@ -1,0 +1,16 @@
+{
+  "id": 14115,
+  "type": "monster",
+  "name": "Dragon Quantique Cyberse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nTant que vous contrôlez un Monstre Lien, les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres que vous contrôlez (celui-ci exclu) avec une attaque, et aussi, votre adversaire ne peut pas cibler de monstres que vous contrôlez (celui-ci exclu) avec des effets de carte. Une fois par tour, au début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez renvoyer le monstre de l'adversaire à la main, et aussi, cette carte peut faire une seconde attaque à la suite.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Synchro",
+    "Effet"
+  ]
+}

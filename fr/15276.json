@@ -1,0 +1,16 @@
+{
+  "id": 15276,
+  "type": "monster",
+  "name": "Empereur Charles, Chevalier Noble Inferno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi une Carte d'Équipement est équipée à un monstre sur le Terrain, même durant la Damage Step : vous pouvez détruire 1 carte sur le Terrain. Durant la End Phase : vous pouvez équiper 1 Magie d'Équipement depuis votre main ou Cimetière à cette carte, puis vous pouvez équiper 1 monstre FEU Guerrier depuis votre Deck à cette carte comme une Magie d'Équipement qui lui donne 500 ATK. Vous ne pouvez utiliser chaque effet de \"Empereur Charles, Chevalier Noble Inferno\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 3000,
+  "def": 200,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4230,
+  "type": "monster",
+  "name": "トラップ・マスター",
+  "nameRuby": "トラップ・マスター",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "リバース：フィールド上の罠カードを１枚破壊する。（対象カードが裏の場合、表にしてそれが罠カードなら破壊する。違う場合は元に戻す。そのカードの効果は発動しない）",
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "戦士族",
+    "リバース",
+    "効果"
+  ]
+}

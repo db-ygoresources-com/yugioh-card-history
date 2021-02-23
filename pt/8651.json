@@ -1,0 +1,16 @@
+{
+  "id": 8651,
+  "type": "monster",
+  "name": "Dragão Vermelho Majestoso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "\"Dragão Majestoso\" + \"Dragão Vermelho Arquidemônio\" + 1 monstro não-Regulador\nNão pode ser destruído por efeitos de card. Depois do cálculo de dano, se este card atacar: destrua todos os monstros em Posição de Defesa no campo. Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla; negue os efeitos dele e, se isso acontecer, este card ganha ATK igual ao ATK desse monstro. Essas mudanças duram até o final deste turno. Durante a Fase Final: escolha 1 \"Dragão Vermelho Arquidemônio\" no seu Cemitério; devolva este card do campo para o Deck Adicional e, depois, Invoque o alvo por Invocação-Especial.",
+  "level": 10,
+  "atk": 4000,
+  "def": 3000,
+  "properties": [
+    "Dragão",
+    "Sincro",
+    "Efeito"
+  ]
+}

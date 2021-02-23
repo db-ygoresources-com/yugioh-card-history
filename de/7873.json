@@ -1,0 +1,16 @@
+{
+  "id": 7873,
+  "type": "monster",
+  "name": "Kopierpflanze",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 anderes Monster vom Typ Pflanze, das eine Stufe hat, auf dem Spielfeld wählen; die Stufe dieser Karte wird bis zum Ende dieses Spielzugs die gleiche wie die derzeitige Stufe des Monsters.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

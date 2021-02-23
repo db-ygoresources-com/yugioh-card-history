@@ -1,0 +1,15 @@
+{
+  "id": 14748,
+  "type": "monster",
+  "name": "Multiplication Mathmech",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez cibler 1 monstre Cyberse de Niveau 4 que vous contrôlez ; jusqu'à la fin de ce tour, son Niveau devient 8. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre Cyberse que vous contrôlez dans la Zone Monstre Extra ; jusqu'à la fin de ce tour, son ATK est doublée. Vous ne pouvez utiliser chaque effet de \"Multiplication Mathmech\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15032,
+  "type": "monster",
+  "name": "Zugangskodier-Sprecher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Effektmonster\nDein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung des Effekts dieser Karte aktivieren. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Linkmonster wählen, das als Material für ihre Linkbeschwörung verwendet wurde; diese Karte erhält ATK in Höhe der Linkzahl des Monsters x 1000. Du kannst 1 Linkmonster von deiner Spielfeldseite oder deinem Friedhof verbannen; zerstöre 1 Karte, die dein Gegner kontrolliert, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster mit derselben Eigenschaft verbannen, um diesen Effekt von „Zugangskodier-Sprecher“ zu aktivieren.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11225,
+  "type": "monster",
+  "name": "Mozarta la Maestra Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi Evocare Specialmente 1 mostro LUCE di Tipo Fata dalla tua mano. Non puoi Evocare Specialmente altri mostri nel turno in cui attivi questo effetto, eccetto mostri LUCE.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

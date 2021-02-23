@@ -1,0 +1,16 @@
+{
+  "id": 11485,
+  "type": "monster",
+  "name": "Necroz de Trishula",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Necroz\". Debe ser Invocada por Ritual sin usar monstruos de Nivel 9. Sólo puedes usar cada uno de estos efectos de \"Necroz de Trishula\" una vez por turno.\n●Cuando es activada una carta o efecto que selecciona a uno o más monstruos \"Necroz\" que controles (Efecto Rápido): puedes descartar esta carta; niega la activación.\n●Cuando esta carta es Invocada por Ritual, puedes: desterrar exactamente 3 cartas de tu adversario, 1 de su mano, 1 de su Campo y 1 de su Cementerio. (La carta en la mano se elige al azar).",
+  "level": 9,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Ritual",
+    "Efecto"
+  ]
+}

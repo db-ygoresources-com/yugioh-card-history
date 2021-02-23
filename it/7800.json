@@ -1,0 +1,15 @@
+{
+  "id": 7800,
+  "type": "monster",
+  "name": "Servitore Maniacale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno durante la Standby Phase del tuo avversario puoi rimuovere dal gioco un qualsiasi numero di mostri OSCURITÀ dal tuo Cimitero. Questo mostro guadagna 500 DEF per ogni mostro che hai rimosso, fino alla End Phase.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

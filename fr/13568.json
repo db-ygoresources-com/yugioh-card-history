@@ -1,0 +1,16 @@
+{
+  "id": 13568,
+  "type": "monster",
+  "name": "Trinité Tindangle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez Invoquer Spécialement 1 \"Base Gardna Tindangle\" depuis votre Deck.\nSi cette carte a été retournée face recto, vos monstres \"Tindangle\" ne peuvent pas être détruits au combat. Si cette carte est envoyée au Cimetière comme Matériel Lien pour l'Invocation Lien d'un monstre \"Tindangle\" : vous pouvez ajouter 1 \"Fin de Gergonne\" depuis votre Deck à votre main, et si vous le faites, envoyez 1 Magie/Piège depuis votre Deck au Cimetière. Vous ne pouvez utiliser cet effet de \"Trinité Tindangle\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Démon",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5710,
+  "type": "monster",
+  "name": "Wächter von Kay'est",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht beschworen werden, es sei denn, du kontrollierst einen offenen „Kay'est, Zepter der Stille“. Diese Karte bleibt von Zaubereffekten unberührt und kann nicht als Ziel für Angriffe gewählt werden, sie hält deinen Gegner aber nicht davon ab, dich direkt anzugreifen.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

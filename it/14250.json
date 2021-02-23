@@ -1,0 +1,19 @@
+{
+  "id": 14250,
+  "type": "monster",
+  "name": "Congegno di Platino",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri Macchina\nNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro Macchina di Livello 4 o inferiore dalla tua mano in una tua zona puntata da questa carta. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente 1 mostro \"Congegno\" di Livello 4 dal tuo Deck. Puoi utilizzare ogni effetto di \"Congegno di Platino\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Macchina",
+    "Link",
+    "Effetto"
+  ]
+}

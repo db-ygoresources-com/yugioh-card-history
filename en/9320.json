@@ -1,0 +1,16 @@
+{
+  "id": 9320,
+  "type": "monster",
+  "name": "Scrap Worm",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "This card can attack your opponent directly. If this card attacks, it is destroyed at the end of the Battle Phase. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can select 1 \"Scrap\" monster in your Graveyard, except \"Scrap Worm\", and add it to your hand.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Insect",
+    "Tuner",
+    "Effect"
+  ]
+}

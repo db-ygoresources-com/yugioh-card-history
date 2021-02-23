@@ -1,0 +1,18 @@
+{
+  "id": 11540,
+  "type": "monster",
+  "name": "Monolito Qlifuerte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Excepción no controlada en 0x1i-666 en qliphort.exe: Violación de acceso en la ubicación de escritura 0x00-000\n¿Continuar, ignorando este error? ＜S／N＞...[ ]\nHv kilsryv vo xlmgzxgl xlm vo Ziylo Hztizwl. Vo Uoztvol sz hrwl oryvizwl.",
+  "pendEffect": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"Qli\". Este efecto no puede ser negado. Una vez por turno, durante la End Phase, si este turno Invocaste por Sacrificio: puedes robar una cantidad de cartas igual a la cantidad de monstruos \"Qli\" que este turno Sacrificaste para Invocaciones por Sacrificio.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Normal"
+  ]
+}

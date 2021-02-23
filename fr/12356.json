@@ -1,0 +1,15 @@
+{
+  "id": 12356,
+  "type": "monster",
+  "name": "Magicienne des Citrons",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez Sacrifier 1 monstre \"Magicienne des\" (\"Magicienne des Citrons\" exclus) ; ajoutez 1 monstre de Type Magicien depuis votre Deck à votre main. Une fois par tour, si cette carte est ciblée par une attaque : vous pouvez Invoquer Spécialement 1 monstre de Type Magicien depuis votre main, mais ses effets (s'il en a) sont annulés, puis transférez la cible de l'attaque sur celui-ci, et si vous le faites, l'ATK du monstre attaquant devient la moitié de son ATK actuelle.",
+  "level": 2,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8785,
+  "type": "monster",
+  "name": "Guardiano della Fiducia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Questa carta non può essere usata come Mostro Materiale Synchro, eccetto che per la Synchro Evocazione di un Mostro Synchro di Livello 7 o superiore. Una volta per turno, quel Mostro Synchro non può essere distrutto in battaglia. Ogni volta a che questo effetto si applica, quel Mostro Synchro perde 400 ATK e DEF alla fine del Damage Step.",
+  "level": 3,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Fata",
+    "Tuner",
+    "Effetto"
+  ]
+}

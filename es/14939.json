@@ -1,0 +1,19 @@
+{
+  "id": 14939,
+  "type": "monster",
+  "name": "Equidna Reptílica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos, incluyendo un monstruo Reptil\nSi esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; cambia su ATK a 0. Durante tu Main Phase, si tu adversario controla uno o más monstruos con ATK 0: puedes añadir a tu mano monstruos Reptil con nombres diferentes en tu Deck, hasta el número de monstruos que controla tu adversario con ATK 0, además, por el resto de este turno no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto monstruos Reptil. Sólo puedes usar cada efecto de \"Equidna Reptílica\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 200,
+  "properties": [
+    "Reptil",
+    "Enlace",
+    "Efecto"
+  ]
+}

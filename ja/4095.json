@@ -1,0 +1,16 @@
+{
+  "id": 4095,
+  "type": "monster",
+  "name": "カタパルト・タートル",
+  "nameRuby": "カタパルト・タートル",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "１ターンに１度、自分フィールド上のモンスター１体をリリースして発動できる。リリースしたモンスターの攻撃力の半分のダメージを相手ライフに与える。",
+  "level": 5,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "水族",
+    "効果"
+  ]
+}

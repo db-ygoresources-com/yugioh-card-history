@@ -1,0 +1,16 @@
+{
+  "id": 10475,
+  "type": "monster",
+  "name": "Renarde de la Flamme Infernale",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres de Type Pyro de Niveau 4\nUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; jusqu'à la End Phase de votre adversaire, cette carte gagne 500 ATK. Lorsque cette carte avec min. 2500 ATK est détruite : ciblez 3 cartes dans le(s) Cimetière(s) ; bannissez les cibles.",
+  "rank": 4,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Pyro",
+    "Xyz",
+    "Effet"
+  ]
+}

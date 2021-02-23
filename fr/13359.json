@@ -1,0 +1,18 @@
+{
+  "id": 13359,
+  "type": "monster",
+  "name": "Dragon Pendule Arc aux Yeux Impairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Issu de miracles, ce magnifique dragon vaillant a des yeux qui brillent à l'image d'un arc dans le ciel.",
+  "pendEffect": "Si une ou plusieurs cartes \"Yeux Impairs\" que vous contrôlez sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Yeux Impairs\" depuis votre main, Deck ou Cimetière. Vous ne pouvez utiliser cet effet de \"Dragon Pendule Arc aux Yeux Impairs\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Normal"
+  ]
+}

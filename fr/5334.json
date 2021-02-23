@@ -1,0 +1,15 @@
+{
+  "id": 5334,
+  "type": "monster",
+  "name": "Lance Dragon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Si cette carte attaque, elle est changée en Position de Défense à la fin de la Damage Step.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13502,
+  "type": "monster",
+  "name": "Qliphort-Genie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Maschine-Monster\nDiese als Linkbeschwörung beschworene Karte bleibt von Zauber-/Falleneffekten und aktivierten Effekten anderer Linkmonster unberührt. Einmal pro Spielzug: Du kannst 1 offene Karte auf der Spielfeldseite jedes Spielers wählen, außer dieser Karte; die Effekte beider Karten bleiben bis zum Ende dieses Spielzugs annulliert. Wenn 2 Monster gleichzeitig als Spezialbeschwörung in die Zonen beschworen werden, auf die diese Karte zeigt: Du kannst deiner Hand 1 Maschine-Monster der Stufe 5 oder höher von deinem Deck hinzufügen.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

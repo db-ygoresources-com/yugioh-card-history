@@ -1,0 +1,16 @@
+{
+  "id": 12765,
+  "type": "monster",
+  "name": "Hebo, Herr des Flusses",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Falls diese Karte als Normalbeschwörung beschworen oder aufgedeckt wird: Du kannst 1 offenes Monster auf dem Spielfeld wählen; das gewählte Ziel wird als Spirit-Monster behandelt, zusätzlich gib das gewählte Ziel während der End Phase auf die Hand zurück. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib sie auf die Hand zurück.",
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Spirit",
+    "Effekt"
+  ]
+}

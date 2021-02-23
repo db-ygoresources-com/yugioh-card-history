@@ -1,0 +1,16 @@
+{
+  "id": 14473,
+  "type": "monster",
+  "name": "Lamia Rettiliana",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta è nella tua mano e tutti i mostri che controlli sono mostri Rettile scoperti (minimo 1): puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; cambia il suo ATK a 0 e, se lo fai, Evoca Specialmente questa carta, poi subisci danno pari all'ATK originale di quel mostro. Se questa carta viene mandata al Cimitero come Materiale Synchro: puoi scegliere come bersaglio fino a 2 mostri scoperti sul Terreno; cambia il loro ATK a 0. Puoi utilizzare solo 1 effetto di \"Lamia Rettiliana\" per turno, e solo una volta in quel turno.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Rettile",
+    "Tuner",
+    "Effetto"
+  ]
+}

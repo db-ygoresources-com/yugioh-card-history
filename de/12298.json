@@ -1,0 +1,18 @@
+{
+  "id": 12298,
+  "type": "monster",
+  "name": "Amorphage Habsucht",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Pendelbeschwörung beschworen oder aufgedeckt wird, kann kein Spieler Monster als Spezialbeschwörung vom Extra Deck beschwören, solange diese Karte offen auf dem Spielfeld liegt, außer „Amorphage“-Monstern.",
+  "pendEffect": "Solange du ein „Amorphage“-Monster kontrollierst, kann kein Spieler Fallenkarten oder ihre Effekte aktivieren, außer für „Amorphage“-Karten. Einmal pro Spielzug, während deiner Standby Phase, biete 1 Monster als Tribut an oder zerstöre diese Karte.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 0,
+  "def": 1950,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

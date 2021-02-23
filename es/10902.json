@@ -1,0 +1,15 @@
+{
+  "id": 10902,
+  "type": "monster",
+  "name": "Komushongo Silvano",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando esta carta es volteada boca arriba: puedes elegir un número de 1 a 5, y después excavar esa cantidad de cartas de la parte superior de tu Deck, mandar al Cementerio todos los monstruos de Tipo Planta excavados, y además poner las demás cartas en el fondo de tu Deck, en cualquier orden. Si esta carta es excavada del Deck y mandada al Cementerio por efecto de una carta: puedes seleccionar 1 Carta Mágica/de Trampa en el Campo; destruye ese objetivo.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

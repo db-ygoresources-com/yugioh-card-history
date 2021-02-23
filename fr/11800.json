@@ -1,0 +1,15 @@
+{
+  "id": 11800,
+  "type": "monster",
+  "name": "Mangeur de Flammes Mageartiste",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant le tour de chaque joueur, lorsqu'une carte ou un effet qui va vous infliger des dommages est activé : vous pouvez activer cet effet ; le reste de ce tour, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Mageartiste\" exclus), et aussi, Invoquez Spécialement cette carte depuis votre main, et si vous le faites, faites devenir ces dommages d'effet sur vous 0. Si elle est Invoquée de cette façon, bannissez-la lorsqu'elle quitte le Terrain. Si cette carte est Invoquée Normalement ou Spécialement : chaque joueur reçoit 500 points de dommages.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

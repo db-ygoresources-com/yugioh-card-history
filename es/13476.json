@@ -1,0 +1,16 @@
+{
+  "id": 13476,
+  "type": "monster",
+  "name": "Dragón Armado Catapulta Cañón",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"VWXYZ-Dragón Catapulta Cañón\" + \"Dragón Armado LV7\"\nDebe ser primero Invocada de Modo Especial (desde tu Deck Extra) durante un Duelo en el que hayas Invocado de Modo Especial las dos cartas mencionadas arriba, desterrando de tu Campo y/o Cementerio las cartas mencionadas arriba. (No usas \"Polimerización\"). Tu adversario no puede activar cartas o efectos con el mismo nombre de cualquiera de las cartas desterradas. Una vez por turno, durante el turno de tu adversario (Efecto Rápido): puedes desterrar 1 carta en tu Deck o Deck Extra, boca arriba; destierra todas las cartas que tu adversario controla y en su Cementerio.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Efecto"
+  ]
+}

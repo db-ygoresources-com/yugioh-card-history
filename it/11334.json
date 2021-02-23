@@ -1,0 +1,18 @@
+{
+  "id": 11334,
+  "type": "monster",
+  "name": "Artistamico Trampolince",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi scegliere come bersaglio 1 carta nella Zona Pendulum di qualsiasi giocatore; falla ritornare nella mano.",
+  "pendEffect": "Quando Evochi Pendulum uno o più mostri: puoi scegliere come bersaglio 1 carta nella Zona Pendulum di qualsiasi giocatore; falla ritornare nella mano. Puoi utilizzare questo effetto di \"Artistamico Trampolince\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8705,
+  "type": "monster",
+  "name": "Neo-Flamvell-Schamane",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte ein Monster deines Gegners durch Kampf zerstört, solange du 3 oder mehr „Flamvell“-Monster in deinem Friedhof hast, wähle 1 Karte im Friedhof deines Gegners und entferne sie aus dem Spiel. Falls dein Gegner keine Zauberkarten in seinem Friedhof hat, wenn dieser Effekt aktiviert wird, füge deinem Gegner 500 Schaden zu.",
+  "level": 3,
+  "atk": 1700,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

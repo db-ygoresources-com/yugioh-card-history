@@ -1,0 +1,18 @@
+{
+  "id": 12225,
+  "type": "monster",
+  "name": "D/D/D Apocalipse, o Rei do Caos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Durante o turno do seu oponente, se este card estiver na sua mão ou no Cemitério: você pode escolher 2 Cards de Magia/Armadilha com a face para cima que você controla; você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros do Tipo Demônio e, além disso, destrua os cards escolhidos e, se isso acontecer, Invoque este card por Invocação-Especial (este é um Efeito Rápido). Você só pode usar este efeito de \"D/D/D Apocalipse, o Rei do Caos\" uma vez por turno.",
+  "pendEffect": "Você pode banir 2 monstros \"D/D\" do seu Cemitério; Invoque este card por Invocação-Especial da sua Zona de Pêndulo.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

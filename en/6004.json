@@ -1,0 +1,15 @@
+{
+  "id": 6004,
+  "type": "monster",
+  "name": "Gemini Imps",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect that could make you discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it. Then draw 1 card.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

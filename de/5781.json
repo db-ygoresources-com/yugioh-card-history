@@ -1,0 +1,16 @@
+{
+  "id": 5781,
+  "type": "monster",
+  "name": "Legendärer Lord der Flammen",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Dieses Monster kann nur als Ritualbeschwörung beschworen werden, indem du die Ritualzauberkarte „Glühende Feuerprobe“ aktivierst. Biete zusätzlich 1 oder mehrere Monster von deiner Hand oder deiner Spielfeldseite als Tribut an, die zusammen 7 oder mehr Stufen haben. Jedesmal, wenn du oder dein Gegner 1 Zauberkarte aktiviert, lege 1 Zauberzählmarke auf diese Karte. Entferne 3 Zauberzählmarken von dieser Karte, um alle Monster auf dem Spielfeld zu zerstören, außer dieser Karte.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Ritual",
+    "Effekt"
+  ]
+}

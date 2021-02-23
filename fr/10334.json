@@ -1,0 +1,15 @@
+{
+  "id": 10334,
+  "type": "monster",
+  "name": "Satellite Photon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 autre monstre \"Photon\" (\"Photon Morphtronique\" exclu) que vous contrôlez ; les Niveaux du monstre et de cette carte deviennent la somme des Niveaux actuels de ces 2 monstres.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

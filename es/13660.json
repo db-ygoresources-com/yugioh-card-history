@@ -1,0 +1,15 @@
+{
+  "id": 13660,
+  "type": "monster",
+  "name": "Bravo, Luchador Mascota a Sueldo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo \"Mascota a Sueldo\", excepto \"Bravo, Luchador Mascota a Sueldo\". Si un monstruo \"Mascota a Sueldo\" es Invocado de Modo Especial a tu Campo mientras controlas a este monstruo (excepto durante el Damage Step): puedes hacer que todos los monstruos \"Mascota a Sueldo\" en este momento en el Campo ganen 500 ATK/DEF hasta el final de este turno. Sólo puedes usar cada efecto de \"Bravo, Luchador Mascota a Sueldo\" una vez por turno.",
+  "level": 4,
+  "atk": 1900,
+  "def": 200,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

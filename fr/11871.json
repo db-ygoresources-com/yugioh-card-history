@@ -1,0 +1,18 @@
+{
+  "id": 11871,
+  "type": "monster",
+  "name": "Dragodies, le Guerrier Éveillé",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte dans la Zone Monstre de son propriétaire est détruite par une attaque ou effet de carte de votre adversaire : durant la End Phase de ce tour, vous pouvez ajouter 1 monstre de Type Guerrier ou Magicien avec max. 2000 ATK (\"Dragodies, le Guerrier Éveillé\" exclu) depuis votre Deck à votre main.",
+  "pendEffect": "Au début de la Damage Step, si un monstre que vous contrôlez combat un monstre face recto de votre adversaire : vous pouvez défausser 1 carte ; l'ATK/DEF du monstre combattant de votre adversaire deviennent la moitié de son ATK/DEF actuelles (même si cette carte quitte le Terrain).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

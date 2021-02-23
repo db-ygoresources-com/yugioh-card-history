@@ -1,0 +1,18 @@
+{
+  "id": 15181,
+  "type": "monster",
+  "name": "D/D Chien",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, si votre adversaire Invoque Spécialement un ou plusieurs Monstres Fusion, Synchro ou Xyz (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres ; ce tour, le monstre face recto ne peut pas attaquer, et aussi, ses effets sont annulés.",
+  "pendEffect": "Vous pouvez cibler 1 Monstre Fusion, Synchro ou Xyz contrôlé par votre adversaire ; annulez ses effets jusqu'à la fin de ce tour, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"D/D Chien\" qu'une fois par tour.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5582,
+  "type": "monster",
+  "name": "Dragón Negro Absoluto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, durante tu Main Phase, puedes equipar esta carta a tu \"Hoja Oscura\" como una Carta Mágica de Equipo O separar el equipamiento e Invocar mediante una Invocación Especial esta carta boca arriba en Posición de Ataque. Cuando esta carta es equipada por el efecto de esta carta, aumenta el ATK y la DEF de ese monstruo equipado en 400 puntos, y cuando ataca con un ATK superior a la DEF de un monstruo en Posición de Defensa, inflige la diferencia como daño de batalla a los Life Points de tu adversario. (1 monstruo solo puede ser equipado con 1 Monstruo de Unión a la vez. Si el monstruo equipado con esta carta es destruido como resultado de una batalla, destruye esta carta en su lugar).",
+  "level": 3,
+  "atk": 900,
+  "def": 600,
+  "properties": [
+    "Dragón",
+    "Unión",
+    "Efecto"
+  ]
+}

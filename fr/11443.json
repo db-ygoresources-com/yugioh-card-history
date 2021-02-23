@@ -1,0 +1,18 @@
+{
+  "id": 11443,
+  "type": "monster",
+  "name": "D/D/D Roi du Déclin Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, si un ou plusieurs monstres que vous contrôlez sont détruits au combat ou par un effet de carte : vous pouvez cibler 1 de ces monstres ; jusqu'à la fin de ce tour, cette carte gagne une ATK égale à l'ATK d'origine du monstre. Cette carte ne peut pas attaquer directement votre adversaire le tour où cet effet est activé. Non destructible par des effets de Magie/Piège qui ne ciblent pas cette carte.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre \"D/D\" que vous contrôlez ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), il gagne 800 ATK.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

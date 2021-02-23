@@ -1,0 +1,18 @@
+{
+  "id": 15712,
+  "type": "monster",
+  "name": "Metalfoes Vanisher",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "While this card is in your hand: You can target 2 face-up cards you control, including a \"Metalfoes\" card; destroy them, and if you do, Special Summon this card from your hand. If this card is Special Summoned by the effect of a \"Metalfoes\" card: You can target 1 monster your opponent controls or in their GY; banish it. You can only use each monster effect of \"Metalfoes Vanisher\" once per turn.",
+  "pendEffect": "If a monster(s) you control is destroyed by card effect (except during the Damage Step): You can add 1 \"Metalfoes\" card from your GY to your hand, except \"Metalfoes Vanisher\". You can only use this effect of \"Metalfoes Vanisher\" once per turn.",
+  "pendScale": 1,
+  "level": 9,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Psychic",
+    "Pendulum",
+    "Effect"
+  ]
+}

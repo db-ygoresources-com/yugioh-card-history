@@ -1,0 +1,15 @@
+{
+  "id": 14098,
+  "type": "monster",
+  "name": "Caballero de Pesadilla Orcust",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser destruida en batalla con un Monstruo de Enlace. Puedes desterrar esta carta en tu Cementerio, y después selecciona 1 monstruo boca arriba en el Campo; por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos de OSCURIDAD, y además, manda al Cementerio 1 monstruo Máquina de OSCURIDAD en tu Deck, excepto \"Caballero de Pesadilla Orcust\" y, si lo haces, hasta el final de este turno el monstruo seleccionado gana ATK igual al Nivel del monstruo mandado al Cementerio x 100. Sólo puedes usar este efecto de \"Caballero de Pesadilla Orcust\" una vez por turno.",
+  "level": 7,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

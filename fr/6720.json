@@ -1,0 +1,15 @@
+{
+  "id": 6720,
+  "type": "monster",
+  "name": "Simorgh, Oiseau de la Divinité",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte ne peut pas être Invoquée par Invocation Spéciale. Si vous faites l'Invocation Sacrifice de cette carte, le Sacrifice doit être de monstre VENT. Tant que cette carte est face recto sur le Terrain, les deux joueurs reçoivent 1000 points de dommages durant la End Phase de chaque joueur. Diminuez les dommages que chaque joueur reçoit quand cela arrive de 500 points pour chaque Carte Magie et Piège que ce joueur contrôle.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1000,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

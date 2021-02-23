@@ -1,0 +1,15 @@
+{
+  "id": 10597,
+  "type": "monster",
+  "name": "Sirenarmado Abisbalaen",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes descartar al Cementerio otros 4 monstruos \"Sirenarmado/a\"; Invoca esta carta de Modo Especial desde tu mano. Cuando lo haces: selecciona cartas que controle tu adversario hasta la cantidad de monstruos \"Sirenarmado/a\" en tu Cementerio (si es posible); esta carta gana 500 ATK y, si lo hace, destruye esos objetivos (si los hay). Puedes Sacrificar otro monstruo \"Sirenarmado/a\" en Posición de Ataque boca arriba; este turno, esta carta gana el siguiente efecto.\n●Al comienzo del Damage Step, si esta carta batalla con un monstruo en Posición de Defensa: destruye ese monstruo.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

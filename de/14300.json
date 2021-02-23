@@ -1,0 +1,21 @@
+{
+  "id": 14300,
+  "type": "monster",
+  "name": "Amphibisches Schwarmschiff Amblowal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2+ Effektmonster\nErhält für jedes Linkmonster in den Friedhöfen 200 ATK. Du kannst jeden der folgenden Effekte von „Amphibisches Schwarmschiff Amblowal“ nur einmal pro Spielzug verwenden.\n●Falls diese Karte zerstört wird: Du kannst 1 Monster mit Link-3 oder niedriger in einem beliebigen Friedhof wählen; beschwöre es als Spezialbeschwörung.\n●Falls ein oder mehr Monster mit Link-3 oder niedriger auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte von deinem Friedhof verbannen; zerstöre 1 Karte auf dem Spielfeld.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "2",
+    "3"
+  ],
+  "atk": 2600,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

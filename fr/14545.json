@@ -1,0 +1,15 @@
+{
+  "id": 14545,
+  "type": "monster",
+  "name": "Brigand d'Endymion",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : placez 1 Compteur Magie sur elle. Vous pouvez retirer 1 Compteur Magie de cette carte et défausser 1 monstre Magicien ; Posez 1 Magie Continue directement depuis votre Deck, mais le reste de ce tour vous ne pouvez ni l'activer ni activer de cartes ou d'effets de cartes du même nom. Vous ne pouvez utiliser chaque effet de \"Brigand d'Endymion\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

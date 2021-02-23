@@ -1,0 +1,16 @@
+{
+  "id": 5651,
+  "type": "monster",
+  "name": "Old Vindictive Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+  "level": 2,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

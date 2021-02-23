@@ -1,0 +1,15 @@
+{
+  "id": 7882,
+  "type": "monster",
+  "name": "Conducteur Gadget",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez envoyer cette carte depuis votre main au Cimetière et sélectionner un nombre de votre choix de monstres \"Morphtronique\" face recto que vous contrôlez. Changez la position de combat du ou des monstres sélectionnés. Vous pouvez activer cet effet durant votre tour ou celui de votre adversaire.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

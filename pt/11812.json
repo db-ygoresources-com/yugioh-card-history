@@ -1,0 +1,18 @@
+{
+  "id": 11812,
+  "type": "monster",
+  "name": "Cavaleirardor Templário",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Um guerreiro Cavaleirardor experiente que luta pela justiça e despreza a corrupção. Atualmente, ele questiona até mesmo sua própria lâmina, devido à sua busca absoluta pela integridade.",
+  "pendEffect": "Se você tiver um card \"Cavaleirardor\" na sua outra Zona de Pêndulo: você pode destruir os dois cards nas suas Zonas de Pêndulo e, se isso acontecer, adicione 1 monstro de FOGO do Tipo Guerreiro do seu Deck ou Cemitério à sua mão.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1300,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

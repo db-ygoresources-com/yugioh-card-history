@@ -1,0 +1,18 @@
+{
+  "id": 12406,
+  "type": "monster",
+  "name": "Artistamigo Cabanito",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si tu adversario controla un monstruo Invocado de Modo Especial, y controla por lo menos tantos monstruos como tú, puedes Invocar esta carta de Modo Especial (desde tu mano). Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo de cada jugador; hasta el final de este turno, ese monstruo de tu adversario pierde ATK igual al ATK de esta carta y, si lo hace, ese monstruo que controlas gana ATK igual al ATK de esta carta.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario, y 1 monstruo \"Artistamigo\" que controles; ese monstruo de tu adversario pierde ATK igual al ATK de ese monstruo \"Artistamigo\" que tú controlas (aún si esta carta deja el Campo).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Planta",
+    "Péndulo",
+    "Efecto"
+  ]
+}

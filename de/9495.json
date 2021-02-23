@@ -1,0 +1,16 @@
+{
+  "id": 9495,
+  "type": "monster",
+  "name": "Mentaler Sucher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese aus dem Spiel entfernte Karte als Spezialbeschwörung beschworen wird, zeige die obersten 3 Karten des Decks deines Gegners vor. Bestimme 1 der Karten und entferne sie aus dem Spiel. Mische dann die restlichen Karten ins Deck zurück.",
+  "level": 3,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

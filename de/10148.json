@@ -1,0 +1,15 @@
+{
+  "id": 10148,
+  "type": "monster",
+  "name": "Die Kraft der Prophezeiung",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Magiebuch“-Zauberkarte von deinem Friedhof in dein Deck mischen, um 1 offenes Monster vom Typ Hexer auf dem Spielfeld zu wählen; erhöhe seine Stufe um 1 und seine ATK um 500.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

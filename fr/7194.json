@@ -1,0 +1,15 @@
+{
+  "id": 7194,
+  "type": "monster",
+  "name": "Cobra Venin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ce gigantesque cobra recouvert d'épaisses écailles chasse à l'aide d'un venin mortel. Cependant, il est facile d'esquiver ses attaques maladroites dues à sa taille imposante.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Reptile",
+    "Normal"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13734,
+  "type": "monster",
+  "name": "Metaphysischer Köderdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn dein Monster als Ziel für einen Angriff gewählt wird: Du kannst 1 deiner „Metaphys“-Monster wählen, das verbannt ist oder in deinem Friedhof liegt; verbanne diese Karte und falls du dies tust, beschwöre das Monster als Spezialbeschwörung in die Angriffsposition. Während der Standby Phase des nächsten Spielzugs, nachdem diese Karte verbannt wurde: Du kannst diese verbannte Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Metaphysischer Köderdrache“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Wenn dein Monster als Ziel für einen Angriff gewählt wird: Du kannst 1 deiner „Metaphys“-Monster wählen, das verbannt ist oder in deinem Friedhof liegt; verbanne diese Karte und falls du dies tust, beschwöre das Monster als Spezialbeschwörung in die Angriffsposition. Du kannst diesen Effekt von „Metaphysischer Köderdrache“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Wyrm",
+    "Pendel",
+    "Effekt"
+  ]
+}

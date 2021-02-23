@@ -1,0 +1,16 @@
+{
+  "id": 8417,
+  "type": "monster",
+  "name": "Armadura Decisiva Aliada de la Justicia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 2 o más monstruos que no sean Cantantes\nUna vez por turno, si tu adversario controla uno o más monstruos de LUZ boca arriba, puedes activar 1 de estos efectos:\n●Selecciona 1 carta Colocada que controle tu adversario y destrúyela.\n●Manda al Cementerio, desde tu mano, 1 carta para destruir todas las Cartas Mágicas y de Trampa que controle tu adversario.\n●Manda al Cementerio todas las cartas en tu mano para mirar la mano de tu adversario y mandar al cementerio todos los monstruos de LUZ que tenga en su mano. Después, inflige daño a tu adversario igual al total de la suma de los ATK de los monstruos de tu adversario mandados al Cementerio.",
+  "level": 10,
+  "atk": 3300,
+  "def": 3300,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

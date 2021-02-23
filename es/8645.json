@@ -1,0 +1,16 @@
+{
+  "id": 8645,
+  "type": "monster",
+  "name": "Gundari",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Esta carta no puede ser Invocada de Modo Especial. Esta carta vuelve a la mano de su dueño durante la End Phase del turno en el que es Invocada de Modo Normal o volteada boca arriba. Si esta carta batalla con un Monstruo de Sincronía, al comienzo del Damage Step (sin cálculo de daño) devuelve ambos monstruos a las manos de sus dueños.",
+  "level": 4,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Piro",
+    "Spirit",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7430,
+  "type": "monster",
+  "name": "Der unsterbliche Bushi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange diese Karte offen auf dem Spielfeld liegt, kann sie nicht als Tribut angeboten werden, außer für die Tributbeschwörung eines Monsters vom Typ Krieger. Während deiner Standby Phase, falls sich diese Karte in deinem Friedhof befindet und alle Monster in deinem Friedhof vom Typ Krieger sind: Du kannst diese Karte als Spezialbeschwörung beschwören. Du darfst außerdem keine Monster kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

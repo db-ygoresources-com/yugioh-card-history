@@ -1,0 +1,15 @@
+{
+  "id": 14009,
+  "type": "monster",
+  "name": "Matriarca de Nephtys",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes seleccionar 1 monstruo \"Nephtys\" de Nivel 4 o menor en tu Cementerio, excepto \"Matriarca de Nephtys\"; destruye 1 carta en tu mano y, si lo haces, Invoca de Modo Especial el monstruo seleccionado, en Posición de Defensa, pero niega sus efectos. Durante tu próxima Standby Phase después de que esta carta fue destruida por efecto de una carta y mandada al Cementerio: puedes Invocar esta carta de Modo Especial desde el Cementerio. Sólo puedes usar cada efecto de \"Matriarca de Nephtys\" una vez por turno.",
+  "level": 2,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6045,
+  "type": "monster",
+  "name": "Emissaire de l'Oasis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tant qu'un Monstre Normal de Niveau 3 ou moins reste face recto sur votre Terrain, votre adversaire ne peut pas sélectionner cette carte comme cible d'une attaque. Tant que cette carte reste face recto sur votre Terrain, tous les dommages de combat infligés au contrôleur de cette carte à l'issue d'un combat impliquant un Monstre Normal de Niveau 3 ou moins deviennent égaux à 0.",
+  "level": 3,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7412,
+  "type": "monster",
+  "name": "Ciber Armado",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno, puedes: seleccionar 1 \"Ciber Dragón\" que controles, o 1 Monstruo de Fusión que controles que liste a \"Ciber Dragón\" como Material de Fusión; equipa esta carta a ese objetivo, O: desequipa esta carta e Invócala de Modo Especial. Una vez por turno, mientras esté equipada a un monstruo por este efecto: puedes seleccionar 1 monstruo boca arriba en el Campo; el monstruo equipado pierde exactamente 1000 ATK (aún si esta carta deja el Campo) y, si lo hace, destruye ese objetivo. Si el monstruo equipado fuera a ser destruido en batalla o por efecto de una carta, destruye esta carta en su lugar.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Unión",
+    "Efecto"
+  ]
+}

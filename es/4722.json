@@ -1,0 +1,15 @@
+{
+  "id": 4722,
+  "type": "monster",
+  "name": "Espada Garma",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Este monstruo solo puede ser invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual \"Juramento de la Espada Garma\". También debes ofrecer monstruos cuyo Nivel total sea 7 o más de tu Campo o tu mano como Sacrificio.",
+  "level": 7,
+  "atk": 2550,
+  "def": 2150,
+  "properties": [
+    "Guerrero",
+    "Ritual"
+  ]
+}

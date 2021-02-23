@@ -1,0 +1,15 @@
+{
+  "id": 8113,
+  "type": "monster",
+  "name": "Worm Opera",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: All face-up monsters on the field loses 500 ATK, except Reptile-Type \"Worm\" monsters.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13584,
+  "type": "monster",
+  "name": "Drei trollende Trolle",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Ungeheuer-Krieger-Monster in deinem Friedhof wählen; die Eigenschaft und Stufe dieser Karte werden bis zum Ende dieses Spielzugs dieselben wie die des Monsters. Während deiner Main Phase: Du kannst 1 Ungeheuer-Krieger-Monster mit derselben Eigenschaft und Stufe wie diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst jeden Effekt von „Drei trollende Trolle“ nur einmal pro Spielzug verwenden. Du kannst in dem Spielzug, in dem du einen der Effekte dieser Karte aktivierst, keine Monster als Spezialbeschwörung beschwören, außer Ungeheuer-Krieger-Monstern.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1300,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14079,
+  "type": "monster",
+  "name": "Sincrón Ciberso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo de Nivel 4 o menor que controles; hasta el final de este turno, incrementa su Nivel por su Nivel original. Si tu o tus monstruos en la Zona de Monstruos Extra fueran a ser destruidos en batalla o por efecto de una carta, puedes desterrar esta carta en tu Cementerio en su lugar. Sólo puedes usar este efecto de \"Sincrón Ciberso\" una vez por turno.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Ciberso",
+    "Cantante",
+    "Efecto"
+  ]
+}

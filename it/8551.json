@@ -1,0 +1,15 @@
+{
+  "id": 8551,
+  "type": "monster",
+  "name": "Genex Alleato Cambiatore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, puoi scegliere 1 mostro scoperto sul Terreno e dichiarare 1 Attributo. L'Attributo del mostro scelto diventa uguale all'Attributo dichiarato fino alla End Phase.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

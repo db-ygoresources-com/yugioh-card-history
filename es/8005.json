@@ -1,0 +1,16 @@
+{
+  "id": 8005,
+  "type": "monster",
+  "name": "Dragón de Desechos",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo con 500 ATK o menos en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Ataque, pero niega sus efectos. No puede ser usado como Material de Sincronía, excepto para la Invocación por Sincronía de un monstruo Dragón. Los otros Materiales de Sincronía no pueden ser de Nivel 4.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Cantante",
+    "Efecto"
+  ]
+}

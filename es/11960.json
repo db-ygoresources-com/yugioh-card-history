@@ -1,0 +1,18 @@
+{
+  "id": 11960,
+  "type": "monster",
+  "name": "Artilusionista Fuegofelpa",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta en el Campo es destruida en batalla o por efecto de una carta: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo \"Artilusionista\", excepto \"Artilusionista Fuegofelpa\".",
+  "pendEffect": "Si uno o más monstruos \"Artilusionista\" que controlas son destruidos en batalla o por efecto de una carta: puedes Invocar esta carta de Modo Especial, desde tu Zona del Péndulo, y después recibir 500 puntos de daño. Sólo puedes usar este efecto de \"Artilusionista Fuegofelpa\" una vez por turno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

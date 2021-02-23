@@ -1,0 +1,18 @@
+{
+  "id": 11938,
+  "type": "monster",
+  "name": "Künstlerkumpel Schädelkrobat-Clown",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 „Künstlerkumpel“-Monster, „Magier“-Pendelmonster oder „Buntäugig“-Monster von deinem Deck hinzufügen, außer „Künstlerkumpel Schädelkrobat-Clown“.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Künstlerkumpel“-Monstern, „Magier“-Pendelmonstern und „Buntäugig“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

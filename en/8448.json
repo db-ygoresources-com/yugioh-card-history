@@ -1,0 +1,15 @@
+{
+  "id": 8448,
+  "type": "monster",
+  "name": "Solitaire Magician",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn, you can select 1 face-up \"Fortune Lady\" monster you control and 1 other face-up monster on the field. Reduce the Level of the selected \"Fortune Lady\" monster by 3, and destroy the other selected monster.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

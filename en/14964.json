@@ -1,0 +1,16 @@
+{
+  "id": 14964,
+  "type": "monster",
+  "name": "Qadshaddoll Keios",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: You can Special Summon 1 \"Shaddoll\" monster from your hand in face-up or face-down Defense Position.\nIf this card is sent to the GY by a card effect: You can send 1 \"Shaddoll\" monster from your hand to the GY, and if you do, for the rest of this turn, all monsters you control gain ATK/DEF equal to the original Level of that monster sent to the GY x 100. You can only use 1 \"Qadshaddoll Keios\" effect per turn, and only once that turn.",
+  "level": 2,
+  "atk": 900,
+  "def": 100,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

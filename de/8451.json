@@ -1,0 +1,15 @@
+{
+  "id": 8451,
+  "type": "monster",
+  "name": "Erdspinne",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, falls du dieses Monster in offener Verteidigungsposition kontrollierst, wenn dein Gegner Monster als Normal- oder Spezialbeschwörung beschwört, kannst du die Monster in die Verteidigungsposition ändern.",
+  "level": 4,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9892,
+  "type": "monster",
+  "name": "Formica Inzektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi equipaggiare 1 mostro \"Inzektor\" dalla tua mano o Cimitero a questa carta. Mentre questa carta è equipaggiata ad un mostro, il Livello di quel mostro aumenta di 3, e inoltre esso guadagna ATK e DEF pari all'ATK e DEF di questa carta. Se il mostro equipaggiato sta per essere distrutto, puoi invece distruggere questa Carta Equipaggiamento.",
+  "level": 3,
+  "atk": 200,
+  "def": 600,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

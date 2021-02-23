@@ -1,0 +1,15 @@
+{
+  "id": 5335,
+  "type": "monster",
+  "name": "스피릿 드래곤",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "이 카드가 자신의 턴에 전투를 실행할 경우, 그 배틀 스텝시에 발동할 수 있다. 패의 드래곤족 몬스터 1장을 묘지에 버릴 때마다, 엔드 스텝까지 이 카드의 공격력과 수비력은 1000 포인트 올린다.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "드래곤족",
+    "효과"
+  ]
+}

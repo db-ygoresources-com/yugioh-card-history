@@ -1,0 +1,15 @@
+{
+  "id": 14261,
+  "type": "monster",
+  "name": "Centinela de Ataque",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Sacrificar esta carta; Invoca 1 monstruo de Modo Especial, desde tu mano o Deck, que liste específicamente \"Activar Modo de Ataque\" en su texto, excepto \"Centinela de Ataque\", y además por el resto de este turno no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. Puedes seleccionar 1 monstruo boca arriba que controles; muestra 1 Monstruo de Sincronía en tu Deck Extra y, si lo haces, hasta el final de este turno el Tipo y Atributo del monstruo seleccionado se convierten en los mismos que los del monstruo mostrado. Sólo puedes usar cada efecto de \"Centinela de Ataque\" una vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

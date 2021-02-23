@@ -1,0 +1,15 @@
+{
+  "id": 12091,
+  "type": "monster",
+  "name": "Érébus, le Monarque Souterrain",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre Invoqué par Sacrifice. Si cette carte est Invoquée par Sacrifice : vous pouvez envoyer au Cimetière 2 Cartes Magie/Piège \"Monarque\" de noms différents depuis votre main et/ou Deck, et si vous le faites, mélangez 1 carte depuis la main (au hasard), le Cimetière, ou le Terrain de votre adversaire dans le Deck. Une fois par tour, durant la Main Phase de chaque joueur, si cette carte est dans votre Cimetière : vous pouvez défausser 1 Carte Magie/Piège \"Monarque\", puis ciblez 1 monstre dans votre Cimetière avec min. 2400 ATK et 1000 DEF ; ajoutez-le à votre main.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

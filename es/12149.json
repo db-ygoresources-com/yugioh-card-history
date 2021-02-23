@@ -1,0 +1,15 @@
+{
+  "id": 12149,
+  "type": "monster",
+  "name": "Grabador de la Marca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando tu adversario activa una carta o efecto declarando exactamente 1 nombre de carta (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano; declara otro nombre de carta. El nombre de carta que declaró tu adversario se convierte en el nombre de la carta declarado por este efecto. Una vez por turno (Efecto Rápido): puedes seleccionar 1 carta boca arriba en el Campo; destrúyela durante la End Phase del próximo turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

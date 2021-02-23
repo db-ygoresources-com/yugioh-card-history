@@ -1,0 +1,20 @@
+{
+  "id": 13698,
+  "type": "monster",
+  "name": "Transcodeur Bavard",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ Monstres à Effet\nTant que cette carte est co-liée, elle et ses monstres co-liés gagnent 500 ATK, et aussi, votre adversaire ne peut pas les cibler avec des effets de carte. Vous pouvez cibler 1 Monstre Lien Cyberse de max. Link-3 (\"Transcodeur Bavard\" exclu) dans votre Cimetière ; Invoquez-le Spécialement dans votre zone pointée par cette carte. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres Cyberse exclus) le tour où vous activez cet effet. Vous ne pouvez utiliser cet effet de \"Transcodeur Bavard\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "6",
+    "2"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

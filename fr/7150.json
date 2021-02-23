@@ -1,0 +1,15 @@
+{
+  "id": 7150,
+  "type": "monster",
+  "name": "Loup de la Peste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : jusqu'à la fin de ce tour, vous pouvez faire devenir l'ATK de cette carte le double de son ATK d'origine. Une fois par tour, durant la End Phase, si cet effet a été activé : détruisez cette carte.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4294,
+  "type": "monster",
+  "name": "Artista oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta está siendo atacada por un monstruo de LUZ, su DEF se divide a la mitad, sólo durante el cálculo de daño.",
+  "level": 3,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

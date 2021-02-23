@@ -1,0 +1,15 @@
+{
+  "id": 6304,
+  "type": "monster",
+  "name": "Maquinaria Francotiradora",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Los monstruos no pueden atacar monstruos \"Maquinaria\", excepto \"Maquinaria Francotiradora\".",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

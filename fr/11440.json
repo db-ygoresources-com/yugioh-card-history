@@ -1,0 +1,16 @@
+{
+  "id": 11440,
+  "type": "monster",
+  "name": "D/D Hurlement de Nuit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre \"D/D\" dans votre Cimetière ; Invoquez-le Spécialement, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres de Type Démon exclus) le reste de ce tour. L'ATK/DEF du monstre deviennent 0. S'il est détruit, vous recevez 1000 points de dommages.",
+  "level": 3,
+  "atk": 300,
+  "def": 600,
+  "properties": [
+    "Démon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7191,
+  "type": "monster",
+  "name": "Rat Volcanique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cette souris mutante vit au cœur des volcans actifs. Aucune chaleur n'est trop forte pour elle.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Pyro",
+    "Normal"
+  ]
+}

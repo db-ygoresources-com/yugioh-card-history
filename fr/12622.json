@@ -1,0 +1,15 @@
+{
+  "id": 12622,
+  "type": "monster",
+  "name": "Doki Doki",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez défausser 1 monstre Rocher ; Invoquez Spécialement 1 monstre Rocher qui a les mêmes Attribut et Niveau d'origine que le monstre depuis votre Deck en Position d'Attaque face recto ou en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Doki Doki\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

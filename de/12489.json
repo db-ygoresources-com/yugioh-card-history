@@ -1,0 +1,15 @@
+{
+  "id": 12489,
+  "type": "monster",
+  "name": "Pandemischer Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst LP in Mehrfachen von 100 zahlen; andere offene Monster auf dem Spielfeld verlieren so viele ATK. Einmal pro Spielzug: Du kannst 1 Monster auf dem Spielfeld wählen, dessen ATK kleiner oder gleich denen dieser Karte sind; zerstöre es. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Alle offenen Monster auf dem Spielfeld verlieren 1000 ATK.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5599,
+  "type": "monster",
+  "name": "Roulette Russe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez lancer un dé à six faces deux fois, choisissez 1 résultat et détruisez 1 monstre sur le Terrain dont le Niveau est égal au résultat.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12373,
+  "type": "monster",
+  "name": "Artistamico Cobraltalena",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Questa carta può attaccare il tuo avversario direttamente. Se questa carta attacca, viene messa in Posizione di Difesa alla fine della Battle Phase.",
+  "pendEffect": "Una volta per turno, quando un mostro che controlli infligge danno da combattimento al tuo avversario: puoi mandare al Cimitero la prima carta del Deck del tuo avversario.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "Rettile",
+    "Pendulum",
+    "Effetto"
+  ]
+}

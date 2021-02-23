@@ -1,0 +1,15 @@
+{
+  "id": 9553,
+  "type": "monster",
+  "name": "Meklord-Astromaschine",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 „Meklord“-Monster von deiner Hand auf den Friedhof legst. Einmal pro Spielzug: Du kannst 1 Synchromonster wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem gewählten Ziel aus. Diese Karte erhält ATK in Höhe der Summe der ATK der Monster, mit denen sie durch diesen Effekt ausgerüstet ist. Einmal pro Spielzug, während deiner Standby Phase: Du kannst 1 dieser ausrüstenden Monster, die du kontrollierst, auf den Friedhof legen; füge deinem Gegner Schaden in Höhe der Grund-ATK des Monsters zu. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Battle Phase durchführen.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

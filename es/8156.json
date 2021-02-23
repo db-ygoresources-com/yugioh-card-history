@@ -1,0 +1,15 @@
+{
+  "id": 8156,
+  "type": "monster",
+  "name": "Dragón del Viento Fuerte",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser destruido en batalla por un monstruo que tenga su mismo ATK. Si esta carta es Invocada por Sacrificio Sacrificando un monstruo de Tipo Dragón: ésta gana ATK igual a la mitad del ATK original del monstruo Sacrificado. Si esta carta ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

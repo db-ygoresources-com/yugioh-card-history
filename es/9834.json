@@ -1,0 +1,16 @@
+{
+  "id": 9834,
+  "type": "monster",
+  "name": "Mascahueso",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Invoca de Modo Especial 3 \"Fichas Mascahueso Jr.\" (Tipo Zombi/TIERRA/Nivel 1/ATK 100/DEF 300) en Posición de Defensa en el Campo de tu adversario.",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Zombi",
+    "Volteo",
+    "Efecto"
+  ]
+}

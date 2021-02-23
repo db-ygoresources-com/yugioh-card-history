@@ -1,0 +1,15 @@
+{
+  "id": 11052,
+  "type": "monster",
+  "name": "Loup de Guerre Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Lorsque cette carte est retournée face recto : infligez 100 points de dommages à votre adversaire pour chaque carte Posée sur le Terrain. Vous ne pouvez utiliser cet effet de \"Loup de Guerre Fantôruse\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

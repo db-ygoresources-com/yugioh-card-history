@@ -1,0 +1,15 @@
+{
+  "id": 5289,
+  "type": "monster",
+  "name": "Elefante Volador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno del adversario, si esta carta fuera a ser destruida por el efecto de su carta, no es destruida. Una vez por turno, durante su End Phase, si ese efecto fue aplicado este turno: aplica el siguiente efecto.\n●Durante tu siguiente turno, si esta carta inflige daño de batalla a tu adversario con un ataque directo, ganas el Duelo.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1300,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

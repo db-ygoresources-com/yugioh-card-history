@@ -1,0 +1,18 @@
+{
+  "id": 13137,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Apri Sipario",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Guadagna 1100 ATK se non controlli nessun altro mostro. Una volta per turno: puoi mandare 1 Magia \"Sceneggiatura dell'Abisso\" dal tuo Deck al Cimitero; aggiungi 1 Mostro Pendulum \"Attore dell'Abisso\" scoperto dal tuo Extra Deck alla tua mano.",
+  "pendEffect": "Se non controlli nessun mostro: puoi Evocare Specialmente questa carta dalla tua Zona Pendulum. Puoi utilizzare questo effetto di \"Attore dell'Abisso - Apri Sipario\" una sola volta per Duello.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1100,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

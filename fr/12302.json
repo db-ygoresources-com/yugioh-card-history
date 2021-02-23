@@ -1,0 +1,18 @@
+{
+  "id": 12302,
+  "type": "monster",
+  "name": "Paresse Amorphage",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Aucun joueur ne peut Invoquer Spécialement de monstres (monstres \"Amorphage\" exclus) depuis l'Extra Deck.",
+  "pendEffect": "Tant que vous contrôlez un monstre \"Amorphage\", aucun joueur ne peut ajouter de cartes depuis son Deck à sa main, sauf en les piochant. Une fois par tour, durant votre Standby Phase, Sacrifiez 1 monstre ou détruisez cette carte.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2250,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

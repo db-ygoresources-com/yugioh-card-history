@@ -1,0 +1,19 @@
+{
+  "id": 14932,
+  "type": "monster",
+  "name": "Transporteur Union",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres du même Type ou Attribut\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Vous pouvez cibler 1 monstre face recto que vous contrôlez ; équipez-lui 1 monstre du même Type ou Attribut d'origine depuis votre main ou Deck. Le monstre équipé gagne 1000 ATK. Si vous l'avez équipé depuis le Deck, vous ne pouvez pas Invoquer Spécialement de monstres du nom de la Carte d'Équipement le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Transporteur Union\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

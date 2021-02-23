@@ -1,0 +1,15 @@
+{
+  "id": 15070,
+  "type": "monster",
+  "name": "Arquidemônio Aniquilador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode escolher 1 card que você controla e 1 card que seu oponente controla; destrua-os e, se você destruiu um ou mais monstros Demônio com a face para cima por este efeito, até o final deste turno, este card ganha ATK igual à metade do ATK original desse(s) monstro(s) Demônio. Você só pode usar este efeito de \"Arquidemônio Aniquilador\" uma vez por turno.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

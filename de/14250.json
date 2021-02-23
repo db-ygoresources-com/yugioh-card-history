@@ -1,0 +1,19 @@
+{
+  "id": 14250,
+  "type": "monster",
+  "name": "Platinfarbener Apparat",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Maschine-Monster\nDiese Karte kann nicht in dem Spielzug als Linkmaterial verwendet werden, in dem sie als Linkbeschwörung beschworen wurde. Während deiner Main Phase: Du kannst 1 Maschine-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand in deine Zone beschwören, auf die diese Karte zeigt. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Apparat“-Monster der Stufe 4 als Spezialbeschwörung von deinem Deck beschwören. Du kannst jeden Effekt von „Platinfarbener Apparat“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

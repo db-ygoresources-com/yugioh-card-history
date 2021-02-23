@@ -1,0 +1,15 @@
+{
+  "id": 5371,
+  "type": "monster",
+  "name": "Fiberjarre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Chaque joueur mélange toutes les cartes depuis leur main, Terrain et Cimetière dans le Deck, puis pioche 5 cartes.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

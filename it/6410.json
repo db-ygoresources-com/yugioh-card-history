@@ -1,0 +1,15 @@
+{
+  "id": 6410,
+  "type": "monster",
+  "name": "Van'Dalgyon, il Signore dei Draghi Oscuri",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se annulli l'attivazione di una o più Carte Magia/Trappola dell'avversario, o uno o più effetti di un mostro dell'avversario, con una Carta Contro-Trappola (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano. Se viene Evocato in questo modo, attiva questi effetti e risolvili in ordine, a seconda del tipo di carte annullate da quella Contro-Trappola:\n●Magia: Infliggi 1500 danni al tuo avversario.\n●Trappola: Scegli come bersaglio 1 carta controllata dal tuo avversario; distruggi quel bersaglio.\n●Mostro: Scegli come bersaglio 1 mostro nel tuo Cimitero; Evocalo Specialmente.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Effetto"
+  ]
+}

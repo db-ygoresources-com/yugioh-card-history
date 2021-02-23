@@ -1,0 +1,15 @@
+{
+  "id": 8316,
+  "type": "monster",
+  "name": "Bewaffneter Meeresjäger",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Nach der Schadensberechnung, falls diese Karte gegen ein Effektmonster kämpft: Annulliere die Effekte des Monsters (einschließlich im Friedhof). Du musst ein anderes offenes WASSER Monster kontrollieren, um diesen Effekt zu aktivieren und aufzulösen. Falls diese Karte zerstört würde, kannst du stattdessen 1 offenes WASSER Monster der Stufe 3 oder niedriger zerstören, das du kontrollierst.",
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

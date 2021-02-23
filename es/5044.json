@@ -1,0 +1,15 @@
+{
+  "id": 5044,
+  "type": "monster",
+  "name": "Rigras Leever",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "VOLTEO: Cada jugador descarta 1 carta.\nSi esta carta es destruida en batalla: el monstruo que la destruyó pierde 500 ATK y DEF.",
+  "level": 3,
+  "atk": 1600,
+  "def": 100,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

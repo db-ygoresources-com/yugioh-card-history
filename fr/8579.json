@@ -1,0 +1,15 @@
+{
+  "id": 8579,
+  "type": "monster",
+  "name": "Guerrier au Gant de Force",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant le tour de chaque joueur : vous pouvez Sacrifier cette carte ; jusqu'à la fin de la prochaine Damage Step où le monstre attaque ou est attaqué, chaque monstre de Type Guerrier que vous contrôlez actuellement gagne 500 ATK/DEF.",
+  "level": 3,
+  "atk": 400,
+  "def": 1600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

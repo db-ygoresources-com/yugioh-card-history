@@ -1,0 +1,15 @@
+{
+  "id": 13244,
+  "type": "monster",
+  "name": "Sirènemure Néréidabysses",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "(Effet Rapide) : vous pouvez défausser cette carte, puis ciblez 1 monstre EAU que vous contrôlez ; détruisez 1 autre monstre EAU dans votre main ou sur votre Terrain, et si vous le faites, le monstre ciblé gagne une ATK/DEF égales à l'ATK/DEF d'origine du monstre détruit jusqu'à la fin de ce tour. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez piocher 1 carte, puis défaussez 1 carte. Vous ne pouvez utiliser chaque effet de \"Sirènemure Néréidabysses\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

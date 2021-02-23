@@ -1,0 +1,15 @@
+{
+  "id": 8781,
+  "type": "monster",
+  "name": "Briseur de Carte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut ni être Invoquée Normalement ni être Posée. Cette carte ne peut être Invoquée Spécialement, en Position d'Attaque face recto, qu'en envoyant 1 carte depuis votre Zone Carte Magie & Piège au Cimetière.",
+  "level": 2,
+  "atk": 100,
+  "def": 900,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

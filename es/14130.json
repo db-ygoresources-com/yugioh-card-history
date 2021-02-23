@@ -1,0 +1,19 @@
+{
+  "id": 14130,
+  "type": "monster",
+  "name": "Guardragón Agarpain",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Dragón\nNo puedes Invocar monstruos de Modo Especial, excepto monstruos Dragón. Durante tu Main Phase: puedes Invocar de Modo Especial 1 monstruo Dragón en tu Deck Extra, a una Zona de Monstruos Extra o Zona de Monstruos Principal a la que puedas Invocar, a la que apunten 2 o más Monstruos de Enlace. Sólo puedes usar este efecto de \"Guardragón Agarpain\" una vez por turno. Sólo puedes Invocar de Modo Especial uno o más \"Guardragón Agarpain\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

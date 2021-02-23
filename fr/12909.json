@@ -1,0 +1,18 @@
+{
+  "id": 12909,
+  "type": "monster",
+  "name": "Magicien Croc Noir",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Dragon Xyz\".)\nSi cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre TÉNÈBRES de Type Magicien dans votre Cimetière ; Invoquez-le Spécialement.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; son ATK devient la moitié de son ATK actuelle (jusqu'à la fin de ce tour), puis détruisez cette carte.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 12855,
+  "type": "monster",
+  "name": "Maga Armonizzante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocata Specialmente dall'Extra Deck. Non può essere utilizzata come materiale per un'Evocazione tramite Fusione, Synchro o Xyz, a meno che tutti gli altri materiali siano Mostri Pendulum \"Mago\". Quando questa carta viene Evocata Pendulum dalla mano: puoi Evocare Specialmente 1 Mostro Pendulum \"Mago\" dal tuo Deck in Posizione di Difesa, eccetto \"Maga Armonizzante\", ma annulla i suoi effetti, inoltre bandiscilo quando lascia il Terreno. Puoi utilizzare questo effetto di \"Maga Armonizzante\" una sola volta per turno.",
+  "pendEffect": "Tutti i mostri che controlli guadagnano 100 ATK e DEF per ogni Mostro Pendulum \"Mago\" scoperto con nomi diversi nel tuo Extra Deck.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

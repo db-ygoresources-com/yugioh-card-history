@@ -1,0 +1,15 @@
+{
+  "id": 14803,
+  "type": "monster",
+  "name": "Roland, Chevalier Noble Inferno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "(Effet Rapide) : vous pouvez cibler 1 monstre face recto que vous contrôlez ; équipez cette carte depuis votre main à la cible comme une Magie d'Équipement qui donne 500 ATK à la carte. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter 1 monstre FEU Guerrier (\"Roland, Chevalier Noble Inferno\" exclu) ou 1 Magie d'Équipement depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Roland, Chevalier Noble Inferno\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

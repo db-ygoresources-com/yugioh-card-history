@@ -1,0 +1,18 @@
+{
+  "id": 11933,
+  "type": "monster",
+  "name": "Dharma-Eye Magician",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "While this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.",
+  "pendEffect": "Once per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

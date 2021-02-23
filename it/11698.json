@@ -1,0 +1,18 @@
+{
+  "id": 11698,
+  "type": "monster",
+  "name": "Bambolaombra Zefranucleo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Pendulum o mandata al Cimitero: puoi scegliere come bersaglio 1 carta \"Zefra\" nella tua Zona Pendulum, eccetto \"Bambolaombra Zefranucleo\"; Evocala Specialmente. Puoi utilizzare questo effetto di \"Bambolaombra Zefranucleo\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Bambolaombra\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 450,
+  "def": 1950,
+  "properties": [
+    "Roccia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

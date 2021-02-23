@@ -1,0 +1,16 @@
+{
+  "id": 5249,
+  "type": "monster",
+  "name": "Invocador de Ilusiones",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Sacrifica otro monstruo y, si lo haces, Invoca de Modo Especial 1 Monstruo de Fusión desde tu Deck Extra, pero destrúyelo durante la End Phase de este turno.",
+  "level": 3,
+  "atk": 800,
+  "def": 900,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

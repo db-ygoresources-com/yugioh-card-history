@@ -1,0 +1,16 @@
+{
+  "id": 4434,
+  "type": "monster",
+  "name": "Magicien de la Foi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Ciblez 1 Magie dans votre Cimetière ; ajoutez la cible à votre main.",
+  "level": 1,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10765,
+  "type": "monster",
+  "name": "Chasseur Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Au début de la Damage Step, si cette carte combat un monstre TÉNÈBRES : détruisez le monstre.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

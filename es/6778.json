@@ -1,0 +1,15 @@
+{
+  "id": 6778,
+  "type": "monster",
+  "name": "Rallis el Pájaro Estelar",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Aumenta el ATK de esta carta en la cantidad de Niveles del monstruo contra el que esté luchando x 200 puntos, sólo durante el Damage Step. Si esta carta ataca se retira del juego al final del Damage Step y devuelve a tu Campo en Posición de Ataque boca arriba al principio de la Battle Phase de tu próximo turno.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

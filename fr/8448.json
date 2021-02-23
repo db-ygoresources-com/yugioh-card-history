@@ -1,0 +1,15 @@
+{
+  "id": 8448,
+  "type": "monster",
+  "name": "Magicienne Solitaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre \"Demoiselle de Fortune\" que vous contrôlez et 1 autre monstre face recto sur le Terrain. Réduisez le Niveau du monstre \"Demoiselle de Fortune\" sélectionné de 3, et détruisez l'autre monstre sélectionné.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

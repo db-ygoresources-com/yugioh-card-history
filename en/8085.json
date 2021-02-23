@@ -1,0 +1,16 @@
+{
+  "id": 8085,
+  "type": "monster",
+  "name": "Tempest Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 Tuner + 1 or more non-Tuner Spellcaster-Type monsters\nWhen this card is Synchro Summoned, place 1 Spell Counter on it. Once per turn, you can discard any number of cards to place 1 Spell Counter on a monster(s) you control for each card you discarded. You can remove all Spell Counters on the field to inflict 500 damage to your opponent for each removed Spell Counter.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1400,
+  "properties": [
+    "Spellcaster",
+    "Synchro",
+    "Effect"
+  ]
+}

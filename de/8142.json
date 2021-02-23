@@ -1,0 +1,15 @@
+{
+  "id": 8142,
+  "type": "monster",
+  "name": "Außerirdisches Kind",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Lege 1 A-Zählmarke auf alle Monster, die als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden. (Falls ein Monster mit einer A-Zählmarke gegen ein „Außerirdisch“-Monster kämpft, verliert es nur während der Schadensberechnung 300 ATK und DEF für jede A-Zählmarke.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

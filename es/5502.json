@@ -1,0 +1,16 @@
+{
+  "id": 5502,
+  "type": "monster",
+  "name": "Dragón de Cinco Cabezas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "5 monstruos Dragón\nDebe ser Invocada por Fusión. No puede ser destruida en batalla con un monstruo de OSCURIDAD, TIERRA, AGUA, FUEGO o VIENTO.",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

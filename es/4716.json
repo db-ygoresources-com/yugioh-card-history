@@ -1,0 +1,15 @@
+{
+  "id": 4716,
+  "type": "monster",
+  "name": "Tortuga Cangrejo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Este monstruo solo puede ser invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual \"Juramento de Tortuga\". También debes ofrecer monstruos cuyo Nivel total sea 8 o más de tu Campo o tu mano como Sacrificio.",
+  "level": 8,
+  "atk": 2550,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Ritual"
+  ]
+}

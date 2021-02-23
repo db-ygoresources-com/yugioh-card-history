@@ -1,0 +1,18 @@
+{
+  "id": 11825,
+  "type": "monster",
+  "name": "Rapitrice Magica",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Guadagna 100 ATK per ogni Segnalino Magia su di essa. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 mostro Incantatore di Livello 1 dal tuo Deck alla tua mano.",
+  "pendEffect": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 Mostro Pendulum dal tuo Deck alla tua mano.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

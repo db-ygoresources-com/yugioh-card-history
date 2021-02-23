@@ -1,0 +1,16 @@
+{
+  "id": 5520,
+  "type": "monster",
+  "name": "A Cat of Ill Omen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Choose 1 Trap from your Deck and place it on top of your Deck, or, if \"Necrovalley\" is on the field, you can add that Trap to your hand instead.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Beast",
+    "Flip",
+    "Effect"
+  ]
+}

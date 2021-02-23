@@ -1,0 +1,15 @@
+{
+  "id": 4530,
+  "type": "monster",
+  "name": "Sternenboy",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange diese Karte offen auf dem Spielfeld liegt, erhöht sich die ATK aller WASSER Monster um 500 Punkte und verringert sich die ATK aller FEUER Monster um 400 Punkte.",
+  "level": 2,
+  "atk": 550,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8195,
+  "type": "monster",
+  "name": "Dragón Tridente",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 Cantante de Tipo Dragón + 1 o más monstruos de Tipo Dragón que no sean Cantantes\nDebe ser Invocado por Sincronía, y no puede ser Invocado de Modo Especial de otra forma. Cuando esta carta es Invocada por Sincronía: puedes seleccionar hasta otras 2 cartas que controles; destruye esos objetivos y, si lo haces, esta carta gana 1 ataque adicional por cada carta destruida durante cada Battle Phase de este turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2800,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

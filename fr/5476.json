@@ -1,0 +1,16 @@
+{
+  "id": 5476,
+  "type": "monster",
+  "name": "Elfe Gemini Toon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ne peut pas attaquer le tour où elle est Invoquée. Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Si cette carte inflige des dommages de combat à votre adversaire : défaussez 1 carte au hasard à votre adversaire.",
+  "level": 4,
+  "atk": 1900,
+  "def": 900,
+  "properties": [
+    "Magicien",
+    "Toon",
+    "Effet"
+  ]
+}

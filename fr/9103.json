@@ -1,0 +1,16 @@
+{
+  "id": 9103,
+  "type": "monster",
+  "name": "Électro-Kiwi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Les monstres \"Électro-\" que vous contrôlez ne peuvent pas être détruits au combat lorsqu'ils attaquent.",
+  "level": 3,
+  "atk": 600,
+  "def": 100,
+  "properties": [
+    "Tonnerre",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

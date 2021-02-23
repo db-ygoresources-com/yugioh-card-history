@@ -1,0 +1,16 @@
+{
+  "id": 8037,
+  "type": "monster",
+  "name": "Artilleur Hyper Psychique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur de Type Psychique ou plus\nSi cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. À la fin de la Damage Step, si cette carte attaque un monstre en Position de Défense et que la DEF du monstre est inférieure à l'ATK de cette carte (utilisez ses valeurs d'origine si l'autre monstre n'est plus sur le Terrain) : gagnez des LP égaux au surplus.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

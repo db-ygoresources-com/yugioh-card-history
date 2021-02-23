@@ -1,0 +1,18 @@
+{
+  "id": 14441,
+  "type": "monster",
+  "name": "Magister d'Endymion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Magister d'Endymion\" qu'une fois par tour. Lorsque cette carte déclare une attaque : vous pouvez placer 1 Compteur Magie sur elle. Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez retirer 3 Compteurs Magie depuis votre Terrain ; Invoquez Spécialement 1 monstre depuis votre Deck sur lequel vous pouvez placer un Compteur Magie. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule, puis placez le même nombre de Compteurs Magie qu'elle avait en tant que monstre sur elle.",
+  "pendEffect": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Vous pouvez retirer 3 Compteurs Magie de cette carte ; Invoquez Spécialement cette carte depuis votre Zone Pendule ainsi qu'1 monstre face recto depuis votre Extra Deck sur lequel vous pouvez placer un Compteur Magie, et si vous le faites, placez 1 Compteur Magie sur chacun d'eux.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

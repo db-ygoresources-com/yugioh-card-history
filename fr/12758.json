@@ -1,0 +1,16 @@
+{
+  "id": 12758,
+  "type": "monster",
+  "name": "Grue Shinobiseau",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non Invocable Spécialement. Une fois par tour, si un autre monstre Spirit est Invoqué Normalement ou Spécialement tant que ce monstre est sur le Terrain : vous pouvez piocher 1 carte. Une fois par tour, durant la End Phase, si cette carte a été Invoquée Normalement ou retournée face recto ce tour : renvoyez-la à la main.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Bête Ailée",
+    "Spirit",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12906,
+  "type": "monster",
+  "name": "Stregone Astrografo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se una o più carte che controlli vengono distrutte in battaglia o dall'effetto di una carta: puoi Evocare Specialmente questa carta dalla tua mano, poi puoi selezionare 1 mostro nel Cimitero, Extra Deck o che è bandito e che è stato distrutto in questo turno, e aggiungere 1 mostro con lo stesso nome dal tuo Deck alla tua mano. Puoi bandire questa carta che controlli, più 4 mostri dalla tua mano, Terreno e/o Cimitero (1 ciascuno con \"Drago Pendulum\", \"Drago Xyz\", \"Drago Synchro\" e \"Drago Fusione\" nei loro nomi); Evoca Specialmente 1 \"Re Supremo Z-ARC\" dal tuo Extra Deck. (Questa viene considerata come un'Evocazione tramite Fusione.)",
+  "pendEffect": "Durante la tua Main Phase: puoi distruggere questa carta e, se lo fai, prendi 1 \"Mago Mirastelle\" dalla tua mano o Deck e mettilo nella tua Zona Pendulum oppure Evocalo Specialmente. Puoi utilizzare questo effetto di \"Stregone Astrografo\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

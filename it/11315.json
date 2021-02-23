@@ -1,0 +1,18 @@
+{
+  "id": 11315,
+  "type": "monster",
+  "name": "Cacciatore di Corna di Drago",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Le corna erano necessarie per preparare una medicina per il suo villaggio, colpito da un'epidemia. A sua insaputa, i draghi bruciarono e distrussero il suo villaggio, una volta cacciati dalla loro tana.",
+  "pendEffect": "Tutti i Mostri Normali guadagnano 200 ATK. Non subisci danno da combattimento da battaglie che coinvolgono Mostri Normali che controlli.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

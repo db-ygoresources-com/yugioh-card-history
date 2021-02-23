@@ -1,0 +1,16 @@
+{
+  "id": 5585,
+  "type": "monster",
+  "name": "Zombietiger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du entweder: 1 „Zerfallener Anführer“ wählen, den du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus ODER: Diese Karte ausklinken und als Spezialbeschwörung in die Angriffsposition beschwören. Solange ein Monster durch diesen Effekt ausgerüstet ist, erhält es 500 ATK/DEF. Falls das ausgerüstete Monster ein Monster eines Gegners durch Kampf zerstört: Wirf 1 zufällige Karte von seiner Hand ab. (Ein Monster kann nur mit 1 Union-Monster gleichzeitig ausgerüstet sein. Falls das ausgerüstete Monster durch Kampf zerstört würde, zerstöre stattdessen diese Karte.)",
+  "level": 3,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Union",
+    "Effekt"
+  ]
+}

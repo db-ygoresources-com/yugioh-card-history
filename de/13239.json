@@ -1,0 +1,16 @@
+{
+  "id": 13239,
+  "type": "monster",
+  "name": "Metaphysischer Ragnarok",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst die obersten 3 Karten deines Decks verbannen und falls du dies tust, erhält diese Karte für jede durch diesen Effekt verbannte „Metaphys“-Karte 300 ATK. Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst 1 „Metaphys“-Monster der Stufe 5 oder höher als Spezialbeschwörung von deinem Deck beschwören, aber verbanne es während der End Phase des nächsten Spielzugs. Du kannst jeden Effekt von „Metaphysischer Ragnarok“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Wyrm",
+    "Empfänger",
+    "Effekt"
+  ]
+}

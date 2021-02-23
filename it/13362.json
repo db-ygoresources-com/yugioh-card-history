@@ -1,0 +1,16 @@
+{
+  "id": 13362,
+  "type": "monster",
+  "name": "Venterrore Chimera",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con qualsiasi Magia Rituale \"Venterrore\". Quando viene attivata una carta o un effetto che sta per distruggere una carta sul Terreno (Effetto Rapido): puoi bandire 1 mostro Zombie dal tuo Cimitero; annulla l'attivazione e, se lo fai, distruggi quella carta. Se questa carta viene offerta come Tributo, o bandita, per un'Evocazione tramite Rituale: tutti i mostri controllati dal tuo avversario perdono 500 ATK/DEF. Puoi utilizzare ogni effetto di \"Venterrore Chimera\" una sola volta per turno.",
+  "level": 5,
+  "atk": 2300,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Rituale",
+    "Effetto"
+  ]
+}

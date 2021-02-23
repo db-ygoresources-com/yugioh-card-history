@@ -1,0 +1,10 @@
+{
+  "id": 6449,
+  "type": "trap",
+  "name": "Vorbereiten zum Zurückschlagen",
+  "englishAttribute": "trap",
+  "localizedAttribute": "FALLE",
+  "effectText": "Jedes Mal wenn dein Gegner einen Angriff gegen ein offenes Monster in Verteidigungsposition deklariert, wirf eine Münze und wähle Kopf oder Zahl. Falls du richtig vorausgesagt hast, ändere das offene Monster in Verteidigungsposition in die Angriffsposition. Falls du falsch vorausgesagt hast, erhält der Beherrscher dieser Karte Schaden in Höhe der Differenz zwischen der ATK des angreifenden Monsters und der DEF des angegriffenen Monsters.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Permanent"
+}

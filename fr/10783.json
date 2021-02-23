@@ -1,0 +1,16 @@
+{
+  "id": 10783,
+  "type": "monster",
+  "name": "Alucard Fantôruse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 3\nLes monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres \"Fantôruse\" face recto ou monstres en Position de Défense face verso (celui-ci exclu) avec une attaque. Vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 carte Posée contrôlée par votre adversaire ; détruisez la cible. Vous ne pouvez utiliser cet effet de \"Alucard Fantôruse\" qu'une fois par tour. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 autre carte \"Fantôruse\" dans votre Cimetière ; ajoutez la cible à votre main.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Effet"
+  ]
+}

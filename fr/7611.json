@@ -1,0 +1,15 @@
+{
+  "id": 7611,
+  "type": "monster",
+  "name": "Veuve du Crâne Serviteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les monstres Zombie de max. Niveau 3 face recto sur le Terrain (\"Veuve du Crâne Serviteur\" exclu) ne peuvent pas être détruits au combat, et aussi, ils ne sont pas affectés par des Cartes Magie/Piège et effets Magie/Piège. Le nom de cette carte devient \"Crâne Serviteur\" tant qu'elle est dans le Cimetière.",
+  "level": 3,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

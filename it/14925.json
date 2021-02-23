@@ -1,0 +1,18 @@
+{
+  "id": 14925,
+  "type": "monster",
+  "name": "Artistamico Mago Celestiale",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante la tua Main Phase, se questa carta è stata Evocata Normalmente o Specialmente in questo turno: puoi applicare uno o più dei seguenti effetti per il resto di questo turno, a seconda degli altri mostri che controlli attualmente.\n●Fusione: Questa carta può attaccare direttamente.\n●Synchro: Il tuo avversario non può attivare gli effetti dei mostri.\n●Xyz: L'ATK di questa carta diventa il doppio del suo ATK originale.\n●Pendulum: Durante la End Phase, aggiungi 1 Mostro Pendulum dal tuo Deck alla tua mano.\nPuoi utilizzare questo effetto di \"Artistamico Mago Celestiale\" una sola volta per turno.",
+  "pendEffect": "Quando esattamente 1 Mostro Fusione, Synchro o Xyz scoperto che controlli che è stato Evocato Specialmente dall'Extra Deck viene distrutto in battaglia o dall'effetto di una carta dell'avversario: puoi Evocare Specialmente quel mostro distrutto, poi distruggere questa carta. Puoi utilizzare questo effetto di \"Artistamico Mago Celestiale\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

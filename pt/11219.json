@@ -1,0 +1,18 @@
+{
+  "id": 11219,
+  "type": "monster",
+  "name": "Rãmbalhota Camarartista",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Uma vez por turno, durante sua Fase de Batalha (exceto durante a Etapa de Dano): você pode escolher 1 monstro que você controla; mude a posição de batalha dele e, se isso acontecer, troque o ATK e DEF atuais dele até o final deste turno.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo; troque o ATK e DEF atuais dele até o final deste turno.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Aqua",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

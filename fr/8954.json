@@ -1,0 +1,15 @@
+{
+  "id": 8954,
+  "type": "monster",
+  "name": "Golem de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre \"Ferraille\" de max. Niveau 4 dans votre Cimetière ; Invoquez Spécialement la cible sur le Terrain d'un joueur.",
+  "level": 5,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

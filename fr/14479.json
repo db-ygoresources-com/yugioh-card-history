@@ -1,0 +1,16 @@
+{
+  "id": 14479,
+  "type": "monster",
+  "name": "Scarabée Réversible",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Mélangez cette carte et les monstres face recto dans sa colonne dans les Decks.\nSi cette carte est Invoquée Normalement ou Spécialement : changez cette carte et les monstres dans sa colonne en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Scarabée Réversible\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1500,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

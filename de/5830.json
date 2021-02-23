@@ -1,0 +1,15 @@
+{
+  "id": 5830,
+  "type": "monster",
+  "name": "Fenrir",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem 2 WASSER Monster aus deinem Friedhof aus dem Spiel entfernt wird. Falls diese Karte ein Monster deines Gegners als Ergebnis eines Kampfes zerstört, überspringe die Draw Phase des nächsten Spielzug deines Gegners.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

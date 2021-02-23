@@ -1,0 +1,15 @@
+{
+  "id": 12315,
+  "type": "monster",
+  "name": "Délops",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour : vous pouvez lancer un dé à six faces, puis appliquez le résultat.\n●1 : Regardez la main de votre adversaire, et aussi, défaussez-lui 1 carte.\n●2, 3, 4, 5 : Défaussez 1 carte.\n●6 : Défaussez toute votre main.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

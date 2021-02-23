@@ -1,0 +1,15 @@
+{
+  "id": 5020,
+  "type": "monster",
+  "name": "Patrician of Darkness",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You choose the attack targets for your opponent's attacks.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1400,
+  "properties": [
+    "Zombie",
+    "Effect"
+  ]
+}

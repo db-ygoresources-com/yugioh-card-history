@@ -1,0 +1,15 @@
+{
+  "id": 6104,
+  "type": "monster",
+  "name": "Espadachín Místico LV4",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocada de Modo Normal (pero puede ser Colocada de Modo Normal). Al comienzo del Damage Step, si esta carta atacó a un monstruo en Posición de Defensa boca abajo: destruye ese monstruo. Durante la End Phase, si este turno esta carta destruyó un monstruo en batalla: puedes mandar al Cementerio esta carta boca arriba; Invoca de Modo Especial, desde tu mano o Deck, 1 \"Espadachín Místico LV6\".",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13454,
+  "type": "monster",
+  "name": "Boudragon des Marais",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres du même Attribut mais de Types différents\nVotre adversaire ne peut cibler ni cette carte ni des monstres sur le Terrain du même Attribut que cette carte, avec des effets de carte. Une fois par tour (Effet Rapide) : vous pouvez déclarer 1 Attribut ; jusqu'à la fin de ce tour, cette carte devient de cet Attribut.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Wyrm",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11678,
+  "type": "monster",
+  "name": "Artistamigo Saltarco",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Sacrificar 1 monstruo \"Artistamigo\"; inflige daño a tu adversario igual al Nivel que éste tenía en el Campo x 100 (el Nivel original, si está boca abajo). Puedes Sacrificar 1 monstruo \"Artistamigo\", y después seleccionar 1 monstruo \"Artistamigo\" en tu Cementerio que no sea el monstruo Sacrificado; añádelo a tu mano. Sólo puedes usar cada efecto de \"Artistamigo Saltarco\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

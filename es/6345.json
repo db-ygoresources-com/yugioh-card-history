@@ -1,0 +1,16 @@
+{
+  "id": 6345,
+  "type": "monster",
+  "name": "HÉROE Elemental del Trueno Gigante",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"HÉROE Elemental Sparkman\" + \"HÉROE Elemental Clayman\"\nEste monstruo no puede ser Invocado mediante una Invocación Especial excepto mediante una Invocación de Fusión. Descarta 1 carta de tu mano para seleccionar y destruir 1 monstruo boca arriba en el Campo con un ATK original inferior al ATK de esta carta. Sólo puedes usar este efecto una vez por turno, durante tu Main Phase.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

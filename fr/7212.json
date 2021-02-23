@@ -1,0 +1,15 @@
+{
+  "id": 7212,
+  "type": "monster",
+  "name": "Lézard Rasoir",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si vous contrôlez un autre monstre de Type Reptile, et si cette carte attaque un monstre en Position de Défense face verso, détruisez-le immédiatement de par l'effet de cette carte sans le retourner face recto ni effectuer le calcul des dommages.",
+  "level": 3,
+  "atk": 1500,
+  "def": 300,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

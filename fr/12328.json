@@ -1,0 +1,16 @@
+{
+  "id": 12328,
+  "type": "monster",
+  "name": "Dynastibus Insecte Numérique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres LUMIÈRE de Niveau 7 de Type Insecte ou plus\nVous pouvez aussi Invoquer par Xyz cette carte en détachant 2 Matériels Xyz d'un Monstre Xyz de Type Insecte de Rang 5 ou 6 que vous contrôlez, puis utilisez le Monstre Xyz comme le Matériel Xyz. (Les Matériels Xyz attachés au monstre deviennent aussi des Matériels Xyz de cette carte.) Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Une fois par tour, durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte ; détruisez le monstre face recto contrôlé par votre adversaire avec la plus haute DEF (en cas d'égalité, tous).",
+  "rank": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Insecte",
+    "Xyz",
+    "Effet"
+  ]
+}

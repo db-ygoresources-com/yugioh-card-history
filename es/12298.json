@@ -1,0 +1,18 @@
+{
+  "id": 12298,
+  "type": "monster",
+  "name": "Amórfago Avaricia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada por Péndulo o volteada boca arriba, ningún jugador puede Invocar monstruos de Modo Especial desde el Deck Extra mientras esta carta esté boca arriba en el Campo, excepto monstruos \"Amórfago/a\".",
+  "pendEffect": "Mientras controles un monstruo \"Amórfago/a\", ningún jugador puede activar Cartas de Trampa o sus efectos, excepto las cartas \"Amórfago/a\". Una vez por turno, durante tu Standby Phase, Sacrifica 1 monstruo o destruye esta carta.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 0,
+  "def": 1950,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

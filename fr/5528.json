@@ -1,0 +1,16 @@
+{
+  "id": 5528,
+  "type": "monster",
+  "name": "Moissonneur Cauchemardesque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Moissonneur d'Esprit\" + \"Cheval de Cauchemar\"\nCette carte n'est pas détruite à l'issue d'un combat. Détruisez cette carte lorsqu'elle est désignée comme cible d'un effet d'une Carte Magie, Piège ou Monstre à Effet. Cette carte peut attaquer directement les Life Points de votre adversaire, même s'il y a un monstre sur le Terrain de votre adversaire. Si cette carte attaque directement avec succès les Life Points de votre adversaire, il se défausse d'1 carte au hasard de sa main.",
+  "level": 5,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Zombie",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12582,
+  "type": "monster",
+  "name": "Attaque du Noyau A",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez SOIT : ciblez 1 monstre LUMIÈRE Machine que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Un monstre équipé avec cette carte n'est pas affecté par les effets de monstre de votre adversaire (leurs propres effets exclus), et aussi, si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 autre monstre Union depuis votre Cimetière à votre main.",
+  "level": 4,
+  "atk": 1900,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

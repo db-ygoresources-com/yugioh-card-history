@@ -1,0 +1,15 @@
+{
+  "id": 10024,
+  "type": "monster",
+  "name": "Wattaildragon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Capable of indefinite flight. Attacks by wrapping its body with electricity and ramming into opponents.\nIMPORTANT: Capturing the \"Wattaildragon\" is forbidden by the Ancient Rules and is a Level 6 offense, the minimum sentence for which is imprisonment for no less than 2500 heliocycles.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Normal"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5833,
+  "type": "monster",
+  "name": "Hechicero del Caos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de LUZ y 1 monstruo de OSCURIDAD en tu Cementerio. Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo; destierra ese objetivo. El turno en el que activas este efecto, esta carta no puede atacar.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

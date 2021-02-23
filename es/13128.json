@@ -1,0 +1,18 @@
+{
+  "id": 13128,
+  "type": "monster",
+  "name": "Artistamigo Disolvedor de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Al comienzo del Damage Step, si tu Monstruo de Péndulo batalla con un monstruo de tu adversario: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, tu monstruo no puede ser destruido en esa batalla. Sólo puedes usar este efecto de \"Artistamigo Disolvedor de Ojos Anómalos\" una vez por turno. Durante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión en tu Deck Extra, usando esta carta que controlas como Material de Fusión, así como otros monstruos que controles o cartas en tus Zonas de Péndulo.",
+  "pendEffect": "Una vez por turno: puedes Invocar por Fusión 1 Monstruo de Fusión Dragón en tu Deck Extra, usando monstruos en tu mano o Campo como Materiales de Fusión.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2000,
+  "def": 2600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

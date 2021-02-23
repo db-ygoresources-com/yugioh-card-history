@@ -1,0 +1,16 @@
+{
+  "id": 11233,
+  "type": "monster",
+  "name": "Schattenpuppe Igel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst deiner Hand 1 „Schattenpuppe“-Zauber/Falle von deinem Deck hinzufügen.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Schattenpuppe“-Monster von deinem Deck hinzufügen, außer „Schattenpuppe Igel“. Du kannst nur 1 Effekt von „Schattenpuppe Igel“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

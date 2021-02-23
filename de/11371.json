@@ -1,0 +1,18 @@
+{
+  "id": 11371,
+  "type": "monster",
+  "name": "Rettungshamster",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen wurde und du eine offene Pendelmonsterkarte der Stufe 5 oder niedriger in deinem Extra Deck hast: Du kannst diese Karte als Tribut anbieten; bestimme 1 offene Pendelmonsterkarte der Stufe 5 oder niedriger in deinem Extra Deck und beschwöre 2 Monster mit demselben Namen wie die Karte als Spezialbeschwörung von deinem Deck, aber ihre Effekte bleiben annulliert, zusätzlich werden sie während der End Phase zerstört.",
+  "pendEffect": "Du kannst diese Karte von deiner Pendelzone verbannen; füge deiner Hand 2 offene Pendelmonsterkarten mit demselben Namen von deinem Extra Deck hinzu. Du kannst diesen Effekt von „Rettungshamster“ nur einmal pro Duell verwenden.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

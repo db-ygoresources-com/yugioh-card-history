@@ -1,0 +1,16 @@
+{
+  "id": 12582,
+  "type": "monster",
+  "name": "A-Angriffskern",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du: 1 LICHT Maschine-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Ein Monster, das mit dieser Karte ausgerüstet ist, bleibt von den Monstereffekten deines Gegners unberührt (außer von seinen eigenen), zusätzlich, falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 anderes Union-Monster von deinem Friedhof hinzufügen.",
+  "level": 4,
+  "atk": 1900,
+  "def": 200,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

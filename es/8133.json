@@ -1,0 +1,15 @@
+{
+  "id": 8133,
+  "type": "monster",
+  "name": "Desencantador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes seleccionar 1 Mágica boca arriba en el Campo; retira 1 Contador Mágico de cualquier lugar del Campo y, si lo haces, devuelve a la mano ese objetivo.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

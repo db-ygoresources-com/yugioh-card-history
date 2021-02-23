@@ -1,0 +1,16 @@
+{
+  "id": 8717,
+  "type": "monster",
+  "name": "Dracheneinheit Partisan",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird, kannst du 1 „Dracheneinheit“-Monster vom Typ Geflügeltes Ungeheuer als Spezialbeschwörung von deiner Hand beschwören und dann mit dieser Karte ausrüsten. Solange diese Karte ein Monster ausrüstet, wird das Monster als Empfänger-Monster behandelt.",
+  "level": 2,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

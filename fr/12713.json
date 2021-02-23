@@ -1,0 +1,18 @@
+{
+  "id": 12713,
+  "type": "monster",
+  "name": "Acteur des Abysses - Recrue Insolente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "La première fois que cette carte va être détruite au combat ou par un effet de carte chaque tour, elle n'est pas détruite. Si cette carte est détruite au combat, ou si cette carte dans la Zone Monstre de son propriétaire est détruite par un effet de carte de votre adversaire : vous pouvez Invoquer Spécialement 1 monstre \"Acteur des Abysses\" de max. Niveau 4 (\"Acteur des Abysses - Recrue Insolente\" exclu) depuis votre Deck. Si cette carte dans la Zone Pendule est détruite : vous pouvez cibler 1 monstre de max. Niveau 4 contrôlé par votre adversaire ; détruisez-le.",
+  "pendEffect": "Si un ou plusieurs monstres \"Acteur des Abysses\" que vous contrôlez vont être détruits au combat ou par un effet de carte de votre adversaire, vous pouvez détruire cette carte à la place.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

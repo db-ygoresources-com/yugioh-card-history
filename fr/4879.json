@@ -1,0 +1,16 @@
+{
+  "id": 4879,
+  "type": "monster",
+  "name": "Le Verso Mystique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Révélez toutes les cartes face verso sur le Terrain (les Effets Flip ne sont pas activés), puis renvoyez-les dans leur position d'origine.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

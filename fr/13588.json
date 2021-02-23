@@ -1,0 +1,15 @@
+{
+  "id": 13588,
+  "type": "monster",
+  "name": "Cheval Lièvre Rouge Hâtif",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "S'il y a une colonne sans aucune carte, vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Position d'Attaque dans votre zone de cette colonne. Vous ne pouvez Invoquer Spécialement \"Cheval Lièvre Rouge Hâtif\" qu'une fois par tour de cette façon. Si une autre carte est placée dans la colonne de cette carte : détruisez cette carte. Une fois par tour : vous pouvez diviser par deux l'ATK d'origine de cette carte le reste de ce tour, et si vous le faites, elle peut attaquer directement ce tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

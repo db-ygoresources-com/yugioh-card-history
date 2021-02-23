@@ -1,0 +1,18 @@
+{
+  "id": 12425,
+  "type": "monster",
+  "name": "Ankylos Dinobrume",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Bannissez les monstres détruits au combat avec un monstre \"Dinobrume\" que vous contrôlez.",
+  "pendEffect": "Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de carte activé qui cible une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez, puis détruisez cette carte.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

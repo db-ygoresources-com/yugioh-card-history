@@ -1,0 +1,15 @@
+{
+  "id": 10634,
+  "type": "monster",
+  "name": "Emperador de Archidemonios, el Primer Señor del Horror",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta de Modo Normal sin Sacrificar, pero su ATK/DEF originales se dividen a la mitad. Si es Invocada de esta forma, esta carta es destruida durante la End Phase. No puedes Invocar otros monstruos de Modo Especial, excepto monstruos Demonio. Una vez por turno: puedes desterrar 1 carta \"Archidemonio\" en tu mano o Cementerio, y después seleccionar 1 carta en el Campo; destrúyela.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

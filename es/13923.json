@@ -1,0 +1,16 @@
+{
+  "id": 13923,
+  "type": "monster",
+  "name": "Coloso Dragón de Trueno",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Dragón de Trueno\" + 1 monstruo Trueno\nDebe ser ya sea Invocado por Fusión, o Invocado de Modo Especial durante el turno que fue activado en la mano un efecto de monstruo Trueno, Sacrificando 1 Monstruo de Efecto Trueno que no sea de Fusión (en cuyo caso no usas \"Polimerización\"). No se pueden añadir cartas a la mano de tu adversario desde el Deck Principal, excepto robándolas. Si esta carta fuera a ser destruida en batalla o por efecto de una carta, puedes desterrar 1 monstruo Trueno en tu Cementerio en su lugar.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2400,
+  "properties": [
+    "Trueno",
+    "Fusión",
+    "Efecto"
+  ]
+}

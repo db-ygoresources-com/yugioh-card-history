@@ -1,0 +1,16 @@
+{
+  "id": 13922,
+  "type": "monster",
+  "name": "Supernaturaliste des Protecteurs du Tombeau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres \"Protecteurs du Tombeau\"\nGagne une ATK/DEF égales à la somme des Niveaux d'origine des Matériels utilisés pour son Invocation Fusion x 100. Tant que \"Vallée Mortuaire\" est sur le Terrain, cette carte et les cartes dans votre Zone Terrain ne peuvent pas être détruites par des effets de carte. Durant votre Main Phase : vous pouvez activer cet effet ; durant la End Phase de ce tour, ajoutez 1 monstre \"Protecteurs du Tombeau\" ou 1 carte \"Vallée Mortuaire\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Supernaturaliste des Protecteurs du Tombeau\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

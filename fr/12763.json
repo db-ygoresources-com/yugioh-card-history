@@ -1,0 +1,15 @@
+{
+  "id": 12763,
+  "type": "monster",
+  "name": "Divernosaure",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant la Main Phase (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; durant cette Main Phase, les monstres Dinosaure que vous contrôlez ne sont pas affectés par les effets activés de votre adversaire. Vous pouvez bannir un nombre de votre choix de monstres Dinosaure (cette carte incluse) depuis votre Cimetière ; Invoquez Spécialement 1 monstre Dinosaure depuis votre Deck de Niveau égal au nombre total de monstres bannis pour activer cet effet, mais détruisez-le durant la End Phase. Vous ne pouvez utiliser cet effet de \"Divernosaure\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12393,
+  "type": "monster",
+  "name": "Pavo Suave",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "El sabor de la victoria te derribará.",
+  "pendEffect": "Una vez por turno: puedes lanzar un dado de seis caras. Hasta el final de este turno, reduce la Escala del Péndulo de esta carta en ese número (mín. 1).",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Bestia Alada",
+    "Péndulo",
+    "Normal"
+  ]
+}

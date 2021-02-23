@@ -1,0 +1,20 @@
+{
+  "id": 14401,
+  "type": "monster",
+  "name": "Forteresse-Mégaclops Chenillinfini",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "3 Monstres Xyz\nNon affectée par les effets d'autres monstres (effets de Monstre Xyz exclus). Non destructible au combat, sauf avec un Monstre Xyz. Vous pouvez cibler 1 Monstre Xyz dans votre Cimetière et 1 carte contrôlée par votre adversaire ; Invoquez Spécialement le monstre depuis votre Cimetière, et si vous le faites, attachez-lui la carte de l'adversaire comme Matériel, et aussi, les dommages reçus par votre adversaire sont divisés par deux le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Forteresse-Mégaclops Chenillinfini\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 4000,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

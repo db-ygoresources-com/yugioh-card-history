@@ -1,0 +1,15 @@
+{
+  "id": 7424,
+  "type": "monster",
+  "name": "Horror del Día del Juicio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El ATK y la DEF de esta carta son iguales a la cantidad de monstruos de OSCURIDAD desterrados x 300. Si esta carta es destruida y mandada al Cementerio: devuelve a los Cementerios todos los monstruos de OSCURIDAD desterrados.",
+  "level": 4,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

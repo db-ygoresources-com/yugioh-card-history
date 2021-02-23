@@ -1,0 +1,15 @@
+{
+  "id": 12489,
+  "type": "monster",
+  "name": "Dragon Pandémique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez payer des LP en multiples de 100 ; les autres monstres face recto sur le Terrain perdent autant d'ATK. Une fois par tour : vous pouvez cibler 1 monstre sur le Terrain dont l'ATK est inférieure ou égale à celle de cette carte ; détruisez-le. Si cette carte est détruite au combat ou par un effet de carte : tous les monstres face recto sur le Terrain perdent 1000 ATK.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

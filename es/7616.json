@@ -1,0 +1,16 @@
+{
+  "id": 7616,
+  "type": "monster",
+  "name": "Golem de Mecanismo Antiguo Definitivo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "\"Golem de Mecanismo Antiguo\" + 2 monstruos \"Mecanismo Antiguo\"\nDebe ser Invocado por Fusión. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa. Si esta carta es destruida: puedes seleccionar 1 \"Golem de Mecanismo Antiguo\" en tu Cementerio; Invócalo de Modo Especial, ignorando sus condiciones de Invocación.",
+  "level": 10,
+  "atk": 4400,
+  "def": 3400,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Efecto"
+  ]
+}

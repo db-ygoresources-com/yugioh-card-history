@@ -1,0 +1,18 @@
+{
+  "id": 12031,
+  "type": "monster",
+  "name": "Dragons Célestes de Draconia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "On dit qu'ils ont été formés pour envahir l'État Célèste flotant et neutre de Cxulub. Ces troupes aériennes de l'Empire Draconia ont incité les nations voisines à renforcer leur sécurité.",
+  "pendEffect": "Une fois par tour, lorsqu'un Monstre Normal que vous contrôlez inflige des dommages de combat à votre adversaire : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 2200,
+  "def": 200,
+  "properties": [
+    "Bête Ailée",
+    "Pendule",
+    "Normal"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13836,
+  "type": "monster",
+  "name": "Dragão Gumblar Topológico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2+ Monstros de Efeito\nSe outro monstro for Invocado por Invocação-Especial em uma zona para a qual um Monstro Link apontar, enquanto este monstro estiver no campo: descarte 1 ou 2 cards aleatórios e, depois, seu oponente descarta o mesmo número. Durante sua Fase Principal, se este card estiver Extra Linkado e seu oponente tiver pelo menos 1 card na mão dele: você pode fazer com que seu oponente descarte 1 ou 2 cards (o que for maior) e, depois, se ele não tiver mais cards na mão dele, cause 3000 de dano a ele. Você só pode usar 1 efeito de \"Dragão Gumblar Topológico\" por turno e apenas uma vez por turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Ciberso",
+    "Link",
+    "Efeito"
+  ]
+}

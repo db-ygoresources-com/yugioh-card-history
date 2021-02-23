@@ -1,0 +1,16 @@
+{
+  "id": 7841,
+  "type": "monster",
+  "name": "Straßensynchron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Synchromaterial für die Synchrobeschwörung eines anderen Monsters als „Straßenkrieger“ verwendet wird, reduziere die Stufe dieser Karte um 2. Falls diese Karte angreift, am Ende des Damage Steps: Erhöhe ihre Stufe bis zum Ende dieses Spielzugs um 1.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

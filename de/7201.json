@@ -1,0 +1,16 @@
+{
+  "id": 7201,
+  "type": "monster",
+  "name": "Wache der Morgenröte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof ist. Solange diese Karte offen auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Die Grund-DEF dieser Karte werden zu 2300.",
+  "level": 3,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Zwilling",
+    "Effekt"
+  ]
+}

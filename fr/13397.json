@@ -1,0 +1,18 @@
+{
+  "id": 13397,
+  "type": "monster",
+  "name": "Maître Cerbère, Bête Mythique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 2 Compteurs Magie sur cette carte lorsque la Magie est résolue. Non destructible par des effets de carte tant que min. 4 Compteurs Magie sont sur votre Terrain. Une fois par tour : vous pouvez retirer 4 Compteurs Magie depuis votre Terrain, puis ciblez 1 monstre contrôlé par votre adversaire ; bannissez-le face recto, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre banni jusqu'à la fin du tour de l'adversaire.",
+  "pendEffect": "Si vous n'avez aucune carte dans votre autre Zone Pendule : vous pouvez détruire cette carte, et si vous le faites, ajoutez 1 Monstre à Effet \"Bête Mythique\" de max. Niveau 7 depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Maître Cerbère, Bête Mythique\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

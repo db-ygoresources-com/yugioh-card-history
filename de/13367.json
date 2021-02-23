@@ -1,0 +1,15 @@
+{
+  "id": 13367,
+  "type": "monster",
+  "name": "F.A. Turbolader",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte erhält ATK in Höhe ihrer Stufe x 300. Monster deines Gegners, deren Grund-Stufe/-Rang niedriger ist als die Stufe dieser Karte, können keine Monster als Angriffsziel wählen, außer diesem. Dein Gegner kann keine Monster als Ziel für die Effekte von Monstern wählen, deren Grund-Stufe/-Rang niedriger ist als die Stufe dieser Karte, außer diesem. Jedes Mal, wenn eine „F.A.“-Zauber-/Fallenkarte oder ein „F.A.“-Zauber-/Falleneffekt aktiviert wird: Du kannst die Stufe dieser Karte um 1 erhöhen. Falls dein „F.A.“-Monster kämpft, solange du diese Karte der Stufe 7 oder höher kontrollierst, können die Effekte von Monstern deines Gegners bis zum Ende des Damage Steps nicht aktiviert werden.",
+  "level": 6,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

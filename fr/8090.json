@@ -1,0 +1,16 @@
+{
+  "id": 8090,
+  "type": "monster",
+  "name": "Ancien Dragon Féerique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nUne fois par tour : vous pouvez Invoquer Spécialement 1 monstre de max. Niveau 4 depuis votre main. Vous ne pouvez pas mener votre Battle Phase le tour où vous activez cet effet. Une fois par tour : vous pouvez détruire autant de Magies de Terrain sur le Terrain que possible, et si vous le faites, gagnez 1000 LP, puis vous pouvez ajouter 1 Magie de Terrain depuis votre Deck à votre main.",
+  "level": 7,
+  "atk": 2100,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

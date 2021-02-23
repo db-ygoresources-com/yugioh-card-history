@@ -1,0 +1,15 @@
+{
+  "id": 12149,
+  "type": "monster",
+  "name": "Graveur des Mals",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn dein Gegner eine Karte oder einen Effekt aktiviert, indem er genau 1 Kartennamen deklariert (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; deklariere 1 anderen Kartennamen. Der Kartenname, den dein Gegner deklariert hat, wird der gleiche wie der Kartenname, der durch diesen Effekt deklariert wurde. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offene Karte auf dem Spielfeld wählen; zerstöre sie während der End Phase des nächsten Spielzugs.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

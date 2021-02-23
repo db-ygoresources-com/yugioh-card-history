@@ -1,0 +1,18 @@
+{
+  "id": 12918,
+  "type": "monster",
+  "name": "Golem U Go Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, durant votre Main Phase, si cette carte a été Invoquée par Pendulation ce tour : vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant cette carte que vous contrôlez et des monstres Dragon que vous contrôlez comme Matériels Fusion.",
+  "pendEffect": "Une fois par tour, si un monstre est Invoqué par Fusion sur votre Terrain (sauf durant la Damage Step) : vous pouvez ajouter 1 Monstre Pendule \"Potartiste\", \"Yeux Impairs\" ou \"Magicien\" depuis votre Cimetière ou face recto dans votre Extra Deck à votre main.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

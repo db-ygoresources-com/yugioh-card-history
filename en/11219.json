@@ -1,0 +1,18 @@
+{
+  "id": 11219,
+  "type": "monster",
+  "name": "Performapal Turn Toad",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "Once per turn, during your Battle Phase (except during the Damage Step): You can target 1 monster you control; change its battle position, and if you do, switch its current ATK and DEF until the end of this turn.",
+  "pendEffect": "Once per turn: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Aqua",
+    "Pendulum",
+    "Effect"
+  ]
+}

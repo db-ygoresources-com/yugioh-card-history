@@ -1,0 +1,16 @@
+{
+  "id": 14055,
+  "type": "monster",
+  "name": "Tatsunecro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questo mostro Evocato Normalmente/Posizionato sta per essere utilizzato come Materiale Synchro, 1 mostro nella tua mano può essere utilizzato come 1 degli altri materiali. Se fai questo, tutti i materiali per quella Evocazione vengono banditi invece di essere mandati al Cimitero. Non puoi Evocare Specialmente mostri, eccetto mostri Zombie.",
+  "level": 3,
+  "atk": 500,
+  "def": 1700,
+  "properties": [
+    "Zombie",
+    "Tuner",
+    "Effetto"
+  ]
+}

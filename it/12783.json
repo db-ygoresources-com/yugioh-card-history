@@ -1,0 +1,19 @@
+{
+  "id": 12783,
+  "type": "monster",
+  "name": "Drago Furioso Occhi Diversi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri di Tipo Drago di Livello 7\nSe puoi Evocare Pendulum di Livello 7, puoi Evocare Pendulum questa carta scoperta nel tuo Extra Deck. Se questa carta nella Zona Mostri viene distrutta: puoi metterla nella tua Zona Pendulum. Se questa carta viene Evocata Xyz utilizzando un Mostro Xyz come Materiale, essa guadagna questi effetti.\n●Essa può effettuare un secondo attacco durante ogni Battle Phase.\n●Una volta per turno: puoi staccare 1 Materiale Xyz da essa; distruggi tante carte controllate dal tuo avversario quante possibile e, se lo fai, questa carta guadagna 200 ATK per ognuna, fino alla fine di questo turno.",
+  "pendEffect": "Una volta per turno, se non hai carte nella tua altra Zona Pendulum: puoi mettere 1 Mostro Pendulum dal tuo Deck nella tua Zona Pendulum.",
+  "pendScale": 1,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Xyz",
+    "Pendulum",
+    "Effetto"
+  ]
+}

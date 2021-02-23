@@ -1,0 +1,15 @@
+{
+  "id": 6815,
+  "type": "monster",
+  "name": "Magicien Jouet",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Poser cette carte face verso dans votre Zone Carte Magie & Piège en tant que Carte Magie. Si cette carte face verso dans votre Zone Carte Magie & Piège est détruite par l'effet d'une carte de l'adversaire et envoyée au Cimetière, Invoquez-la Spécialement durant la End Phase. Lorsque cette carte est Invoquée par Flip, détruisez un nombre de Cartes Magie ou Piège sur le Terrain égal au nombre de \"Magicien Jouet\" sur le Terrain.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

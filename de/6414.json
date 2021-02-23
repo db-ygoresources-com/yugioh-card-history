@@ -1,0 +1,15 @@
+{
+  "id": 6414,
+  "type": "monster",
+  "name": "Kybernetischer Magier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 Karte abwerfen, um 1 offenes Monster auf dem Spielfeld zu wählen; die ATK des gewählten Ziels werden bis zur End Phase zu 2000.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

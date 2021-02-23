@@ -1,0 +1,21 @@
+{
+  "id": 13258,
+  "type": "monster",
+  "name": "Dragón Borrecarga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3+ Monstruos de Efecto\nNingún jugador puede seleccionar esta carta con efectos de monstruo. Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba en el Campo; éste pierde 500 ATK/DEF. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto. Al comienzo del Damage Step, si esta carta ataca a un monstruo del adversario: puedes poner ese monstruo del adversario en una zona a la que apunte esta carta y tomar su control, pero mándalo al Cementerio durante la End Phase del próximo turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

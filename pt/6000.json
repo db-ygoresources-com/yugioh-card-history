@@ -1,0 +1,15 @@
+{
+  "id": 6000,
+  "type": "monster",
+  "name": "Marshmallon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser destruído em batalha. Depois do cálculo de dano, se este card foi atacado e estava com a face para baixo no começo da Etapa de Dano: o duelista atacante sofre 1000 de dano.",
+  "level": 3,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Fada",
+    "Efeito"
+  ]
+}

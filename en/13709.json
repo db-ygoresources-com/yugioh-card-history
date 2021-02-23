@@ -1,0 +1,15 @@
+{
+  "id": 13709,
+  "type": "monster",
+  "name": "F.A. Dark Dragster",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having a Level 7 or higher \"F.A.\" monster on the field, but no \"F.A. Dark Dragster\" in your Monster Zone. Gains ATK equal to its Level x 300. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. Once per turn: You can target 1 card on the field; reduce this card's Level by 3, and if you do, destroy that target.",
+  "level": 7,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4272,
+  "type": "monster",
+  "name": "검의 여왕",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "리버스 : 상대 필드 위의 마법/함정 카드 1장당, 상대 라이프에 500 포인트의 데미지를 준다.",
+  "level": 3,
+  "atk": 900,
+  "def": 700,
+  "properties": [
+    "전사족",
+    "리버스",
+    "효과"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11489,
+  "type": "monster",
+  "name": "Nékroz d'Armure Invincible",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Carte Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement sans utiliser de monstres de Niveau 10, et non Invocable Spécialement autrement. Vous ne pouvez utiliser chacun de ces effets de \"Nékroz d'Armure Invincible\" qu'une fois par tour.\n●Durant le tour de chaque joueur : vous pouvez défausser cette carte, puis ciblez 1 monstre \"Nékroz\" que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 1000 ATK/DEF.\n●Vous pouvez cibler 1 carte Posée contrôlée par votre adversaire ; détruisez-la, et si vous le faites, bannissez-la.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2300,
+  "properties": [
+    "Dragon",
+    "Rituel",
+    "Effet"
+  ]
+}

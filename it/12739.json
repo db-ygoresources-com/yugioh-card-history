@@ -1,0 +1,18 @@
+{
+  "id": 12739,
+  "type": "monster",
+  "name": "Artistamico Creatore di Risate",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando questa carta dichiara un attacco: puoi far guadagnare a questa carta 1000 ATK per ogni mostro sul Terreno il cui ATK attuale è superiore al suo ATK originale, eccetto gli altri mostri che controlli, fino alla fine della Battle Phase. Se questa carta viene distrutta in battaglia o dall'effetto di una carta mentre il suo ATK attuale è superiore al suo ATK originale: puoi scegliere come bersaglio 1 mostro nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare solo 1 effetto di mostro di \"Artistamico Creatore di Risate\" per turno, e solo una volta in quel turno.",
+  "pendEffect": "Una volta per turno, se il tuo avversario controlla un mostro il cui ATK attuale è superiore al suo ATK originale: puoi guadagnare 1000 LP.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

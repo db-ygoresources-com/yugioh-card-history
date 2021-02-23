@@ -1,0 +1,15 @@
+{
+  "id": 8301,
+  "type": "monster",
+  "name": "Luce, Signora della Fortuna",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "L'ATK e il DEF di questa carta sono pari al suo Livello x 200. Durante ogni tua Standby Phase, aumenta il Livello di questa carta di 1 (massimo 12). Quando questa carta viene rimossa dal Terreno dall'effetto di una carta, puoi Evocare Specialmente 1 mostro \"Signora della Fortuna\" dal tuo Deck.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

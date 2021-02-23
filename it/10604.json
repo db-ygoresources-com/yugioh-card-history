@@ -1,0 +1,15 @@
+{
+  "id": 10604,
+  "type": "monster",
+  "name": "DZW - Chimera Placcata",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro \"Numero C39\" che controlli; equipaggia questo mostro dalla tua mano o dal tuo Terreno a quel bersaglio. Il mostro equipaggiato non può essere distrutto in battaglia. Alla fine del Damage Step, quando il mostro equipaggiato attacca un mostro dell'avversario, ma il mostro dell'avversario non è stato distrutto dalla battaglia: puoi far diventare 0 l'ATK del mostro dell'avversario (anche dopo che questa carta ha lasciato il Terreno o il mostro diventa immune agli effetti delle carte) e, se lo fai, il mostro equipaggiato può effettuare un secondo attacco sullo stesso mostro di seguito.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

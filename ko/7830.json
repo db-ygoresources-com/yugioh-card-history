@@ -1,0 +1,16 @@
+{
+  "id": 7830,
+  "type": "monster",
+  "name": "웜 호프",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "리버스 : 상대 몬스터의 공격에 의해서 리버스했을 경우, 자신은 덱에서 카드를 1장 드로우한다. 또한, 이 카드가 필드 위에서 묘지로 보내졌을 때, 자신은 패를 1장 묘지로 보낸다.",
+  "level": 1,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "파충류족",
+    "리버스",
+    "효과"
+  ]
+}

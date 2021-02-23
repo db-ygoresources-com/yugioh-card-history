@@ -1,0 +1,18 @@
+{
+  "id": 12693,
+  "type": "monster",
+  "name": "Niveauportier Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez déclarer un Niveau de 1 à 5, puis ciblez 1 autre monstre \"Potartiste\" que vous contrôlez ; jusqu'à la fin de ce tour, réduisez le Niveau de cette carte du Niveau déclaré, et si vous le faites, augmentez le Niveau de l'autre monstre du même montant.",
+  "pendEffect": "Une fois par tour : vous pouvez augmenter le Niveau de tous les monstres Invoqués par Pendule que vous contrôlez actuellement de 1 (même si cette carte quitte le Terrain).",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 2600,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12585,
+  "type": "monster",
+  "name": "Armure de Soutien des Engins Lourds",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre Union dans votre Cimetière ; Invoquez-le Spécialement. Une fois par tour, vous pouvez SOIT : ciblez 1 monstre Machine que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Votre adversaire ne peut pas cibler un monstre équipé avec cette carte avec des effets de carte, et aussi, si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Union",
+    "Effet"
+  ]
+}

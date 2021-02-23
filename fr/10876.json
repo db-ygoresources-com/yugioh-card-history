@@ -1,0 +1,15 @@
+{
+  "id": 10876,
+  "type": "monster",
+  "name": "Borz le Chevalier Noble",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain. Tant qu'elle est équipée avec une Carte Magie d'Équipement \"Armes Nobles\", cette carte devient un Monstre à Effet avec ces effets.\n●Cette carte devient TÉNÈBRES et son Niveau est augmenté de 1. Durant votre Main Phase : vous pouvez révéler 3 cartes \"Armes Nobles\" depuis votre Deck, votre adversaire en ajoute 1 au hasard à votre main, et envoyez les cartes restantes au Cimetière. Vous ne pouvez utiliser cet effet de \"Borz le Chevalier Noble\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1700,
+  "def": 900,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

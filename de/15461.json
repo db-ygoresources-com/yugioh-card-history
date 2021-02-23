@@ -1,0 +1,15 @@
+{
+  "id": 15461,
+  "type": "monster",
+  "name": "Hundertdrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte Stufen in Höhe der Anzahl der Karten, die du kontrollierst, erhalten lassen und falls du dies tust, erhält sie für jede erhaltene Stufe 100 ATK. Diese Änderungen dauern bis zum Ende dieses Spielzugs an. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 offenes Monster wählen, das du kontrollierst und das als Spezialbeschwörung vom Extra Deck beschworen wurde; das erste Mal, dass das offene Monster durch Kampf oder einen Karteneffekt zerstört würde, wird es nicht zerstört. Du kannst diesen Effekt von „Hundertdrache“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

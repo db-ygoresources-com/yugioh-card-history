@@ -1,0 +1,15 @@
+{
+  "id": 10990,
+  "type": "monster",
+  "name": "Gwenhwyfar, edle Waffen-Königin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 „Edler Ritter“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte von deiner Hand oder deinem Friedhof aus. Du kannst diesen Effekt von „Gwenhwyfar, edle Waffen-Königin“ nur einmal pro Spielzug verwenden. Das ausgerüstete Monster erhält 300 ATK. Führe den entsprechenden Effekt aus, abhängig von der Eigenschaft des ausgerüsteten Monsters.\n●LICHT: Falls das ausgerüstete Monster durch einen Karteneffekt zerstört würde, kannst du stattdessen diese Karte zerstören.\n●FINSTERNIS: Falls das ausgerüstete Monster gegen ein Monster deines Gegners kämpft, am Beginn des Damage Steps: Du kannst das Monster zerstören, dann zerstöre diese Karte.",
+  "level": 2,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

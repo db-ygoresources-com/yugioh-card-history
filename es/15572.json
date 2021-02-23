@@ -1,0 +1,15 @@
+{
+  "id": 15572,
+  "type": "monster",
+  "name": "Arsenal Myutante",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Especial, excepto con el efecto de una carta \"Myutante\". Tu adversario no puede seleccionar esta carta con efectos de Trampas. Sólo puedes usar cada uno de los siguientes efectos de \"Arsenal Myutante\" una vez por turno. Cuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes desterrar 1 carta en tu mano o Campo, y después seleccionar 1 monstruo en el Campo; destiérralo. Si esta carta en posesión de su dueño es destruida por una carta del adversario: puedes seleccionar 1 de tus Mágicas \"Myutante\" desterradas; añádela a tu mano.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

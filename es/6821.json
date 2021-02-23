@@ -1,0 +1,15 @@
+{
+  "id": 6821,
+  "type": "monster",
+  "name": "Dragón de la Luz y la Oscuridad",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Especial. Mientras esta carta está boca arriba en el Campo su Atributo se trata también como OSCURIDAD. Una vez por Cadena, durante el turno de cualquier jugador, cuando es activada una Carta Mágica/de Trampa, o el efecto de un monstruo: esta carta pierde exactamente 500 ATK y DEF y esa activación es negada. Cuando esta carta es destruida y mandada al Cementerio: selecciona 1 monstruo en tu Cementerio (si es posible); destruye todas las cartas que controles, y también Invoca ese monstruo (si existe) de Modo Especial.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

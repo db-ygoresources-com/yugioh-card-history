@@ -1,0 +1,15 @@
+{
+  "id": 6240,
+  "type": "monster",
+  "name": "Valkiria Elemental",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Este monstruo consigue los siguientes efectos mientras hay monstruos con el siguiente Atributo en el Campo.\n●FUEGO: Aumenta el ATK de esta carta en 500 puntos.\n●AGUA: El control de esta carta no puede cambiar.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

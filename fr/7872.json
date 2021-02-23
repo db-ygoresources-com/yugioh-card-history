@@ -1,0 +1,15 @@
+{
+  "id": 7872,
+  "type": "monster",
+  "name": "Mur de Lierre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Invoquez Spécialement 1 \"Jeton Lierre\" (Type Plante/TERRE/Niveau 1/ATK 0/DEF 0) en Position de Défense sur le Terrain de votre adversaire. Lorsque ce Jeton est détruit, son contrôleur reçoit 300 points de dommage.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

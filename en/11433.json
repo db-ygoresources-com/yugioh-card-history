@@ -1,0 +1,18 @@
+{
+  "id": 11433,
+  "type": "monster",
+  "name": "P.M. Captor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card destroys a monster by battle: You can target 1 Pendulum Monster in your Graveyard; add it to your hand.",
+  "pendEffect": "When you Pendulum Summon a Zombie-Type monster(s): You can activate this effect; it cannot be destroyed by battle or card effects this turn.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Pendulum",
+    "Effect"
+  ]
+}

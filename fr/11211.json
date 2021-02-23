@@ -1,0 +1,18 @@
+{
+  "id": 11211,
+  "type": "monster",
+  "name": "Canon de Foucault",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une forme de vie mécanisée, errant à travers l'espace-temps. Étrangement, elle semble avoir presque perdu tou... sa mémoi... P...ur que...lle raison ? Refu... elle d'interf... avec ?",
+  "pendEffect": "Une fois par tour, durant la End Phase, si cette carte a été activée ce tour : vous pouvez cibler 1 Carte Magie/Piège face recto sur le Terrain ; détruisez-la.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Normal"
+  ]
+}

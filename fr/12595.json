@@ -1,0 +1,18 @@
+{
+  "id": 12595,
+  "type": "monster",
+  "name": "Changeraffe Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; tant que cette carte est face recto sur le Terrain, le monstre face recto ne peut pas attaquer, et aussi, annulez les effets du monstre face recto tant qu'il est sur le Terrain.",
+  "pendEffect": "Lorsqu'exactement 1 monstre que vous contrôlez (et aucune autre carte) est détruit au combat : vous pouvez détruire cette carte, et si vous le faites, Invoquez Spécialement le monstre détruit au combat en Position d'Attaque, et si vous le faites, il ne peut pas être détruit au combat ce tour (même si cette carte quitte le Terrain).",
+  "pendScale": 5,
+  "level": 1,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

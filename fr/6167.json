@@ -1,0 +1,15 @@
+{
+  "id": 6167,
+  "type": "monster",
+  "name": "Magicien Silencieux LV4",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Chaque fois que votre adversaire pioche une ou plusieurs cartes, placez 1 Compteur Magie sur cette carte (max. 5). Cette carte gagne 500 ATK pour chaque Compteur Magie sur elle. Durant la Standby Phase de votre prochain tour après que le 5e Compteur Magie a été placé sur cette carte : vous pouvez envoyer cette carte face recto avec 5 Compteurs Magie sur elle au Cimetière ; Invoquez Spécialement 1 \"Magicien Silencieux LV8\" depuis votre main ou Deck.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11959,
+  "type": "monster",
+  "name": "Miroir Conducteur Mageartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 monstre face recto sur le Terrain ; échangez son ATK et sa DEF actuelles, puis recevez 500 points de dommages. Ce changement d'ATK/DEF dure jusqu'à la fin de ce tour.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto Invoqué Spécialement sur le Terrain ; son ATK/DEF deviennent égales à son ATK ou DEF actuelles (la plus faible valeur) jusqu'à la fin de ce tour (même si cette carte quitte le Terrain).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

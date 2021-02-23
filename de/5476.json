@@ -1,0 +1,16 @@
+{
+  "id": 5476,
+  "type": "monster",
+  "name": "Toon-Elfenzwillinge",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht in dem Spielzug angreifen, in dem sie beschworen wurde. Falls „Toon-Welt“ auf dem Spielfeld zerstört wird, zerstöre diese Karte. Solange du „Toon-Welt“ kontrollierst und dein Gegner keine Toon-Monster kontrolliert, kann diese Karte deinen Gegner direkt angreifen. Falls diese Karte deinem Gegner Kampfschaden zufügt: Wirf 1 zufällige Karte von der Hand deines Gegners ab.",
+  "level": 4,
+  "atk": 1900,
+  "def": 900,
+  "properties": [
+    "Hexer",
+    "Toon",
+    "Effekt"
+  ]
+}

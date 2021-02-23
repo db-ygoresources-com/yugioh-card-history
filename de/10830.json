@@ -1,0 +1,15 @@
+{
+  "id": 10830,
+  "type": "monster",
+  "name": "Gogogo-Golem - Goldene Form",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Gogogo“-Monster als Tribut anbietest, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Die ATK dieser Karte werden gleich dem Doppelten der Grund-ATK des als Tribut angebotenen Monsters. Kampfschaden, den dein Gegner aus Angriffen erhält, an denen diese Karte beteiligt ist, wird halbiert. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers, falls ein Monstereffekt auf der Spielfeldseite deines Gegners aktiviert wird: Diese Karte verliert genau 1500 ATK und falls sie dies tut, annulliere den Effekt.",
+  "level": 4,
+  "atk": -1,
+  "def": 1500,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

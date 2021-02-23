@@ -1,0 +1,16 @@
+{
+  "id": 7380,
+  "type": "monster",
+  "name": "Démon Malveillant, HÉROS du Mal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Lame Malveillante, HÉROS du Mal\" + 1 monstre Démon de min. Niveau 6\nUniquement Invocable Spécialement avec \"Fusion des Ténèbres\". Durant la Battle Phase de votre adversaire, tous les monstres qu'il contrôle sont changés en Position d'Attaque face recto, et chaque monstre qu'il contrôle doit attaquer cette carte, si possible.",
+  "level": 8,
+  "atk": 3500,
+  "def": 2100,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

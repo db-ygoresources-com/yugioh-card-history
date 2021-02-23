@@ -1,0 +1,18 @@
+{
+  "id": 12406,
+  "type": "monster",
+  "name": "Artistamico Cavallorafano",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se il tuo avversario controlla un mostro Evocato Specialmente e controlla almeno tanti mostri quanto te, puoi Evocare Specialmente questa carta (dalla tua mano). Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno di ogni giocatore; fino alla fine di questo turno, quel mostro dell'avversario perde ATK pari all'ATK di questa carta e, se lo fa, quel mostro che controlli guadagna ATK pari all'ATK di questa carta.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario e 1 mostro \"Artistamico\" che controlli; quel mostro dell'avversario perde ATK pari all'ATK di quel mostro \"Artistamico\" che controlli (anche se questa carta lascia il Terreno).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Pianta",
+    "Pendulum",
+    "Effetto"
+  ]
+}

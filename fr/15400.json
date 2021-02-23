@@ -1,0 +1,18 @@
+{
+  "id": 15400,
+  "type": "monster",
+  "name": "Canard Séchoir Électroménageur",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 monstre \"Électroménageur\"\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Cette carte liée gagne 1000 ATK. Une fois par tour, durant votre Battle Phase, si cette carte est co-liée (sauf durant la Damage Step) : vous pouvez échanger la position de 2 monstres \"Électroménageur\" dans vos Zones Monstre Main (cette carte incluse), et si vous le faites, l'autre monstre peut faire une seconde attaque durant chaque Battle Phase ce tour. Une fois par tour, lorsque cette carte qui n'est pas co-liée est ciblée avec une attaque : vous pouvez annuler l'attaque.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 0,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

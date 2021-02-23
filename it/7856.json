@@ -1,0 +1,15 @@
+{
+  "id": 7856,
+  "type": "monster",
+  "name": "Paladino del Drago Maledetto",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro Zombie di Livello 4 o inferiore nel Cimitero del tuo avversario, che è stato distrutto in battaglia; Evoca Specialmente quel bersaglio.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

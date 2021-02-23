@@ -1,0 +1,16 @@
+{
+  "id": 11877,
+  "type": "monster",
+  "name": "Mare Mare",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser Invocado de Modo Especial, excepto por el efecto de un monstruo de Tipo Wyrm. Durante tu Main Phase: puedes reducir en 1 el Nivel de esta carta y, si lo haces, Invoca de Modo Especial 1 \"Ficha Mini Mare Mare\" (Tipo Wyrm/AGUA/Nivel 1/ATK 300/DEF 200). Sólo puedes usar el efecto de \"Mare Mare\" hasta tres veces por turno.",
+  "level": 7,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Wyrm",
+    "Cantante",
+    "Efecto"
+  ]
+}

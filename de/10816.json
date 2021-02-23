@@ -1,0 +1,16 @@
+{
+  "id": 10816,
+  "type": "monster",
+  "name": "Kikeriki-kikeriki",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls keine Monster auf dem Spielfeld liegen, kannst du diese Karte als Monster der Stufe 3 als Spezialbeschwörung (von deiner Hand) beschwören. Falls dein Gegner ein Monster kontrolliert und du keine Karten kontrollierst, kannst du diese Karte als Monster der Stufe 4 als Spezialbeschwörung (von deiner Hand) beschwören. Falls diese offene Karte das Spielfeld verlassen würde, verbanne sie stattdessen.",
+  "level": 5,
+  "atk": 1600,
+  "def": 2000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

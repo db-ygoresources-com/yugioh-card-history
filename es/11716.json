@@ -1,0 +1,16 @@
+{
+  "id": 11716,
+  "type": "monster",
+  "name": "León Atemorizante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Diablillo de las Sierras\" + 1 monstruo \"Peluchanimal\"\nDebe ser Invocado por Fusión. Puedes seleccionar 1 monstruo boca arriba que controle tu adversario; destrúyelo y, si lo haces, inflige daño a tu adversario igual al ATK original del monstruo destruido. Sólo puedes usar este efecto de \"León Atemorizante\" una vez por turno. Durante el turno en el que activas este efecto, esta carta no puede atacar directamente.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7717,
+  "type": "monster",
+  "name": "Défenseur Mental",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Le contrôleur de cette carte doit payer 500 Life Points durant chacune de ses Standby Phases. S'il ne peut pas, détruisez cette carte. Les monstres avec 2000 ATK ou moins ne peuvent pas déclarer une attaque, excepté les monstres de Type Psychique.",
+  "level": 3,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

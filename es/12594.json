@@ -1,0 +1,18 @@
+{
+  "id": 12594,
+  "type": "monster",
+  "name": "Artistamigo Focanguila",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Carta Mágica/de Trampa Colocada que controle tu adversario; esa carta Colocada no puede ser activada este turno. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, ese monstruo boca arriba ve sus efectos negados (aún si esta carta deja el Campo).",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Pez",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11181,
+  "type": "monster",
+  "name": "Wagemutige Lokomotive",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte einen Angriff deklariert: Ihre ATK werden bis zum Ende des Damage Steps gleich der Hälfte ihrer Grund-ATK.",
+  "level": 4,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

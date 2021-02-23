@@ -1,0 +1,16 @@
+{
+  "id": 8192,
+  "type": "monster",
+  "name": "Dragon Ailé, Seigneur des Explosions",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur de Type Dragon ou plus\nAu début de la Damage Step, si cette carte combat un monstre : vous pouvez détruire le monstre, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK que le monstre détruit avait sur le Terrain. L'ATK de cette carte doit être supérieure ou égale à l'ATK du monstre pour activer et résoudre cet effet.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

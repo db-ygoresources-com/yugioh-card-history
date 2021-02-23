@@ -1,0 +1,15 @@
+{
+  "id": 6304,
+  "type": "monster",
+  "name": "Sniper Méchabot",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Les monstres ne peuvent pas attaquer de monstres \"Méchabot\" (\"Sniper Méchabot\" exclu).",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

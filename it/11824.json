@@ -1,0 +1,16 @@
+{
+  "id": 11824,
+  "type": "monster",
+  "name": "Uccello del Paradiso Perduto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Questa carta guadagna 100 ATK e DEF per ogni mostro Tuner nel tuo Cimitero. Una volta per turno: puoi mandare 1 mostro Tuner dalla tua mano al Cimitero, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; prendine il controllo fino alla End Phase.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Tuner",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "Trompanda Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque votre Monstre Pendule est ciblé par une attaque : vous pouvez annuler l'attaque. Vous ne pouvez utiliser cet effet de \"Trompanda Potartiste\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour : vous pouvez augmenter l'Échelle Pendule de cette carte de 1 (max. 12).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bête",
+    "Pendule",
+    "Effet"
+  ]
+}

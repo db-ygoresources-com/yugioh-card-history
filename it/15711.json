@@ -1,0 +1,18 @@
+{
+  "id": 15711,
+  "type": "monster",
+  "name": "Parametalfosi Melcaster",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi aggiungere 1 Mostro Pendulum \"Metalfosi\" scoperto dal tuo Extra Deck alla tua mano, eccetto \"Parametalfosi Melcaster\", ma non puoi attivare lui, o carte con il suo nome, per metterlo nelle Zone Pendulum, per il resto di questo turno, eccetto con l'effetto di una carta. Puoi utilizzare questo effetto di \"Parametalfosi Melcaster\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 altra carta scoperta che controlli; distruggila e, se lo fai, Posiziona 1 Magia/Trappola \"Metalfosi\" direttamente dal tuo Deck.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psichico",
+    "Pendulum",
+    "Effetto"
+  ]
+}

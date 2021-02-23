@@ -1,0 +1,15 @@
+{
+  "id": 14568,
+  "type": "monster",
+  "name": "Avispabatalla - Dardo el Cazador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando tu monstruo \"Avispabatalla\" destruye un monstruo en batalla que es propiedad de tu adversario: puedes descartar esta carta; inflige daño a tu adversario igual al ATK original de ese monstruo destruido. Puedes seleccionar otro monstruo Insecto que controles; este turno, éste se trata como un Cantante, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Insecto. Sólo puedes usar cada efecto de \"Avispabatalla - Dardo el Cazador\" una vez por turno.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

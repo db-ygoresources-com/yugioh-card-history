@@ -1,0 +1,16 @@
+{
+  "id": 14966,
+  "type": "monster",
+  "name": "Ariel Marionnette de l'Ombre Nael",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Vous pouvez cibler 1 de vos monstres \"Marionnette de l'Ombre\" bannis ; Invoquez-le Spécialement en Position de Défense face recto ou face verso.\nSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler max. 3 cartes dans les Cimetières ; bannissez-les. Vous ne pouvez utiliser qu'1 effet de \"Ariel Marionnette de l'Ombre Nael\" par tour, et uniquement une fois le tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Psychique",
+    "Flip",
+    "Effet"
+  ]
+}

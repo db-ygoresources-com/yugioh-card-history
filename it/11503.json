@@ -1,0 +1,18 @@
+{
+  "id": 11503,
+  "type": "monster",
+  "name": "Lanciaforinco",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Questa specie primordiale è sopravvissuta all'estinzione evolvendosi in una lancia d'attacco che può penetrare qualsiasi cosa, anche se la sua dieta consiste soprattutto di pesce.",
+  "pendEffect": "Se un Mostro Normale che controlli attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Dinosauro",
+    "Pendulum",
+    "Normale"
+  ]
+}

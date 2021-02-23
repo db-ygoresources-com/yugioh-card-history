@@ -1,0 +1,15 @@
+{
+  "id": 7296,
+  "type": "monster",
+  "name": "Giocatore d'Azzardo Leggendario",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, puoi lanciare una moneta 3 volte ed applicare l'effetto relativo al risultato:\n●3 Teste: Distruggi tutti i mostri controllati dall'avversario.\n●2 Teste: Scarta una carta dalla mano del tuo avversario.\n●1 Testa: Distruggi 1 carta sotto il tuo controllo.\n●3 Croci: Scarta tutte le carte che hai in mano.",
+  "level": 4,
+  "atk": 500,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

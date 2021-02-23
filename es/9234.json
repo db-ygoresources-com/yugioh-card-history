@@ -1,0 +1,15 @@
+{
+  "id": 9234,
+  "type": "monster",
+  "name": "Guerrero del Aumento",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si controlas un Cantante, puedes Invocar esta carta de Modo Especial (desde tu mano) en Posición de Defensa. Todos los monstruos Guerrero que controles ganan 300 ATK.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

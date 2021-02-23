@@ -1,0 +1,18 @@
+{
+  "id": 11702,
+  "type": "monster",
+  "name": "Zefraxa, Bête des Flammes des Nékroz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que cette carte est dans votre main ou Cimetière, si une ou plusieurs cartes \"Nékroz\" ou \"Zefra\" face recto (\"Zefraxa, Bête des Flammes des Nékroz\" exclu) sont détruites au combat ou par un effet de carte tant qu'elles sont dans votre Zone Monstre ou Zone Pendule : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Zefraxa, Bête des Flammes des Nékroz\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Nékroz\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

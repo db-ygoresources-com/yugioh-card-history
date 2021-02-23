@@ -1,0 +1,15 @@
+{
+  "id": 13472,
+  "type": "monster",
+  "name": "Araña Explosiva BM-4",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo Máquina de OSCURIDAD que controles y 1 carta boca arriba que controle tu adversario; destrúyelos. Si un monstruo que controlas que originalmente era una Máquina de OSCURIDAD destruye uno o más monstruos del adversario en batalla o por efecto de una carta y los manda al Cementerio: puedes infligir daño a tu adversario igual a la mitad del ATK original de 1 de esos monstruos destruidos y mandados al Cementerio. Sólo puedes usar este efecto de \"Araña Explosiva BM-4\" una vez por turno.",
+  "level": 4,
+  "atk": 1400,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

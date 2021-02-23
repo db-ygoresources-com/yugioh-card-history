@@ -1,0 +1,18 @@
+{
+  "id": 11789,
+  "type": "monster",
+  "name": "Performapal Camelump",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card is destroyed by battle: You can make the monster that destroyed this card lose 800 ATK.",
+  "pendEffect": "Once per turn, during your Main Phase 1: You can target 1 face-up monster you control; the monsters your opponent currently controls lose 800 DEF until the end of this turn, and if they do, if the targeted monster attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. (These effects remain even if this card leaves the field.)",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}

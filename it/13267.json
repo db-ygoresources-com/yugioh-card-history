@@ -1,0 +1,19 @@
+{
+  "id": 13267,
+  "type": "monster",
+  "name": "Maga Akashic",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri con lo stesso Tipo, eccetto i Segna-Mostro\nPuoi Evocare Link uno o più \"Maga Akashic\" una sola volta per turno. Se questa carta viene Evocata Link: fai ritornare nella mano tutti i mostri puntati da questa carta. Una volta per turno: puoi dichiarare il nome di 1 carta; dissotterra dalla cima del tuo Deck carte pari alla somma delle Classificazioni Link dei Mostri Link co-linkati a questa carta, poi se hai dissotterrato qualsiasi copia della carta dichiarata, aggiungila alla tua mano, inoltre manda le carte rimanenti al Cimitero.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Incantatore",
+    "Link",
+    "Effetto"
+  ]
+}

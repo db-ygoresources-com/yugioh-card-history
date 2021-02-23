@@ -1,0 +1,16 @@
+{
+  "id": 14905,
+  "type": "monster",
+  "name": "I Maghi Neri",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Mago Nero\" o \"Ragazza Maga Nera\" + 1 mostro Incantatore\nUna volta per turno, se viene attivata una Carta Magia/Trappola o un suo effetto (eccetto durante il Damage Step): puoi pescare 1 carta, poi, se era una Magia/Trappola, puoi Posizionarla e, se era una Trappola o una Magia Rapida, puoi attivarla in questo turno. Se questa carta viene distrutta: puoi Evocare Specialmente sia 1 \"Mago Nero\" che 1 \"Ragazza Maga Nera\" dalla tua mano, Deck e/o Cimitero.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Incantatore",
+    "Fusione",
+    "Effetto"
+  ]
+}

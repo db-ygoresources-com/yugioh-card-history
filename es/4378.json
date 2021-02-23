@@ -1,0 +1,15 @@
+{
+  "id": 4378,
+  "type": "monster",
+  "name": "Kazejin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Durante el cálculo de daño en el turno de tu adversario, si esta carta está siendo atacada: puedes seleccionar al monstruo atacante; haz que el ATK de ese objetivo sea 0, sólo durante el cálculo de daño (éste es un Efecto Rápido). Este efecto sólo puede ser usado una vez mientras esta carta esté boca arriba en el Campo.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

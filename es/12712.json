@@ -1,0 +1,18 @@
+{
+  "id": 12712,
+  "type": "monster",
+  "name": "Actor del Abismo - Superestrella",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando es Invocado de Modo Normal o Especial, las Cartas o efectos de Magia/Trampa de tu adversario no pueden ser activadas. Una vez por turno: puedes Colocar 1 Mágica \"Guión de Abismo\" directamente desde tu Deck, pero es mandada al Cementerio durante la End Phase.",
+  "pendEffect": "Una vez por turno: puedes Sacrificar 1 monstruo \"Actor del Abismo\", y después seleccionar 1 Mágica \"Guión de Abismo\" en tu Cementerio; añádela a tu mano.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

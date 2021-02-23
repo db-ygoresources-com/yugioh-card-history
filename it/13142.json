@@ -1,0 +1,18 @@
+{
+  "id": 13142,
+  "type": "monster",
+  "name": "Kagen Ninja del Crepuscolo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi offrire come Tributo questa carta, poi scegliere come bersaglio 1 mostro \"Ninja\" che controlli; esso guadagna 800 ATK, fino alla fine di questo turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Ninja\". Questo effetto non può essere annullato. Una volta per turno, quando un tuo mostro \"Ninja\" dichiara un attacco: puoi far guadagnare a quel mostro 1000 ATK fino alla fine del Damage Step (anche se questa carta lascia il Terreno).",
+  "pendScale": 10,
+  "level": 1,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

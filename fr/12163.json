@@ -1,0 +1,16 @@
+{
+  "id": 12163,
+  "type": "monster",
+  "name": "Égéon, Castrum des Mers",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 8\nDurant le tour de chaque joueur : vous pouvez bannir face recto 1 monstre face verso depuis l'Extra Deck de votre adversaire au hasard, et si vous le faites, l'ATK de cette carte devient égale à celle du monstre banni. Durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 des Monstres de Fusion, Synchro ou Xyz bannis de votre adversaire ; renvoyez-le à l'Extra Deck, et si vous le faites, détruisez 1 monstre contrôlé par votre adversaire du même type de carte de monstre (Fusion, Synchro ou Xyz). Vous ne pouvez utiliser chaque effet de \"Égéon, Castrum des Mers\" qu'une fois par tour.",
+  "rank": 8,
+  "atk": -1,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

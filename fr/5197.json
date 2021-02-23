@@ -1,0 +1,15 @@
+{
+  "id": 5197,
+  "type": "monster",
+  "name": "Princesse du Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Chaque fois que vous gagnez des Life Points, infligez 500 points de dommages à votre adversaire.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1500,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

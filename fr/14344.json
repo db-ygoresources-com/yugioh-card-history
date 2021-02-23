@@ -1,0 +1,16 @@
+{
+  "id": 14344,
+  "type": "monster",
+  "name": "Dangereuse Cauchemarie Frourreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Lutin Tranchant\" + 2 monstres \"Peluchimal\"\nGagne 300 ATK pour chaque monstre Elfe et Démon dans votre Cimetière durant votre tour uniquement. Lorsque cette carte Invoquée par Fusion détruit un monstre au combat : vous pouvez envoyer un nombre de monstres \"Frourreur\", \"Peluchimal\" et/ou \"Lutin Tranchant\" depuis votre Deck au Cimetière, égal au Niveau d'origine du monstre détruit. Lorsque votre adversaire active une carte ou un effet qui cible cette carte sur le Terrain (Effet Rapide) : vous pouvez bannir 1 monstre \"Frourreur\" depuis votre Extra Deck ; annulez l'effet.",
+  "level": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

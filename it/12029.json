@@ -1,0 +1,18 @@
+{
+  "id": 12029,
+  "type": "monster",
+  "name": "Miccs Guerriero Sinfonico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Puoi Evocare Specialmente questa carta (dalla tua mano) rimuovendo 3 Segnalini Sinfonico dal tuo Terreno. Dopo che hai Evocato Normalmente o Specialmente questa carta, puoi Evocare Normalmente 1 mostro durante la tua Main Phase in questo turno, in aggiunta alla tua Evocazione Normale/Posizionamento. (Puoi guadagnare questo effetto una sola volta per turno.)",
+  "pendEffect": "A meno che tu abbia una carta \"Guerriero Sinfonico\" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 4. Una volta per turno, durante la tua End Phase: puoi scegliere come bersaglio 1 dei tuoi mostri \"Guerriero Sinfonico\" banditi; aggiungilo alla tua mano.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15731,
+  "type": "monster",
+  "name": "Eldlich der verrückte goldene Lord",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Eldlich“-Monster + 1 Zombie-Monster der Stufe 5 oder höher\nDer Name dieser Karte wird zu „Eldlich der goldene Lord“, solange sie auf dem Spielfeld liegt. Kann weder durch Kampf noch durch Karteneffekte zerstört werden. Du kannst 1 Zombie-Monster als Tribut anbieten und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; übernimm die Kontrolle darüber, aber in diesem Spielzug kann es weder angreifen noch können seine Effekte aktiviert werden. Du kannst diesen Effekt von „Eldlich der verrückte goldene Lord“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3800,
+  "def": 3500,
+  "properties": [
+    "Zombie",
+    "Fusion",
+    "Effekt"
+  ]
+}

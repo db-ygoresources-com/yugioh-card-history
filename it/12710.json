@@ -1,0 +1,18 @@
+{
+  "id": 12710,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Tallone Malvagio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; esso perde 1000 ATK per ogni mostro \"Attore dell'Abisso\" che controlli attualmente, fino alla fine di questo turno. Quando questa carta distrugge un mostro dell'avversario in battaglia: puoi scegliere come bersaglio 1 Carta Magia \"Sceneggiatura dell'Abisso\" nel tuo Cimitero; Posiziona quella carta.",
+  "pendEffect": "Una volta per turno: puoi offrire come Tributo 1 mostro \"Attore dell'Abisso\", poi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; esso perde ATK pari all'ATK originale del mostro offerto come Tributo, fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

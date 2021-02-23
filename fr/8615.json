@@ -1,0 +1,16 @@
+{
+  "id": 8615,
+  "type": "monster",
+  "name": "Perceuse Synchronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un monstre de Type Guerrier que vous contrôlez attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Une fois par tour, lorsque vous infligez des dommages de combat à votre adversaire avec cet effet : vous pouvez piocher 1 carte.",
+  "level": 3,
+  "atk": 800,
+  "def": 300,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12715,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Hauptdarstellerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, wenn Kampfschaden zugefügt wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; es verliert ATK in Höhe des Kampfschadens. Wenn diese Karte durch Kampf zerstört wird oder falls diese Karte in der Monsterzone ihres Besitzers durch einen Karteneffekt eines Gegners zerstört wird: Du kannst 1 „Abgrundskript“-Zauber direkt von deinem Deck setzen.",
+  "pendEffect": "Einmal pro Spielzug, wenn du Kampfschaden von einem angreifenden Monster eines Gegners erhältst: Du kannst 1 dieser Effekte aktivieren;\n●Das Monster des Gegners verliert ATK in Höhe des Schadens, den du erhalten hast (selbst falls diese Karte das Spielfeld verlässt).\n●Füge deiner Hand 1 offenes „Abgrundschauspieler“-Pendelmonster, dessen ATK kleiner oder gleich dem Schaden sind, den du erhalten hast, von deinem Extra Deck hinzu.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

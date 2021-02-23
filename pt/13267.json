@@ -1,0 +1,19 @@
+{
+  "id": 13267,
+  "type": "monster",
+  "name": "Mago Akáshico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros com o mesmo Tipo, exceto Fichas\nVocê só pode Invocar um ou mais \"Mago Akáshico\" por Invocação-Link uma vez por turno. Se este card for Invocado por Invocação-Link: devolva para a mão todos os monstros para os quais este card apontar. Uma vez por turno: você pode declarar o nome de 1 card; escave cards do topo do seu Deck igual à soma das Valores Link de todos os Monstros Link co-linkados a este card e, depois, se você escavou qualquer cópia do card declarado, adicione-os à sua mão e, além disso, envie os cards restantes para o Cemitério.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Mago",
+    "Link",
+    "Efeito"
+  ]
+}

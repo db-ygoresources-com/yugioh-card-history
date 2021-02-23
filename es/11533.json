@@ -1,0 +1,15 @@
+{
+  "id": 11533,
+  "type": "monster",
+  "name": "Infiernoid Antra",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo \"Infiernoid\" en tu mano o Cementerio mientras la suma de los Niveles y Rangos de todos los Monstruos de Efecto que controlas sea 8 o menos, y no puede ser Invocado de Modo Especial de otra forma. Una vez por turno: puedes seleccionar 1 carta boca arriba que controle tu adversario; devuélvela a la mano. Una vez por turno, durante el turno de tu adversario: puedes Sacrificar 1 monstruo, y después seleccionar 1 carta en el Cementerio de tu adversario; destiérrala (éste es un Efecto Rápido).",
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

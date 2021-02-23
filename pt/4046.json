@@ -1,0 +1,16 @@
+{
+  "id": 4046,
+  "type": "monster",
+  "name": "Flautista de Dragões",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "VIRE: Destrói \"Jarro de Captura de Dragões\", e todos os monstros do Tipo Dragão com a face para cima mudam para a Posição de Ataque.",
+  "level": 3,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Piro",
+    "Virar",
+    "Efeito"
+  ]
+}

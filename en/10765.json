@@ -1,0 +1,15 @@
+{
+  "id": 10765,
+  "type": "monster",
+  "name": "Vampire Hunter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "At the start of the Damage Step, if this card battles a DARK monster: Destroy that monster.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Warrior",
+    "Effect"
+  ]
+}

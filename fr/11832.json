@@ -1,0 +1,16 @@
+{
+  "id": 11832,
+  "type": "monster",
+  "name": "Dragon Crâne Noir Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Monstre Normal \"Archdémon\" de Niveau 6 + 1 Monstre Normal \"Yeux Rouges\"\nVous ne pouvez Invoquer Spécialement un ou plusieurs \"Dragon Crâne Noir Archdémon\" qu'une fois par tour. Si cette carte combat, les cartes et effets de votre adversaire ne peuvent pas être activés jusqu'à la fin de la Damage Step. Si un calcul des dommages impliquant cette carte Invoquée par Fusion est effectué, à la fin de la Battle Phase : vous pouvez cibler 1 Monstre Normal \"Yeux Rouges\" dans votre Cimetière ; infligez des dommages à votre adversaire égaux à son ATK dans le Cimetière, puis mélangez-le dans le Deck.",
+  "level": 9,
+  "atk": 3200,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

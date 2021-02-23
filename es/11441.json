@@ -1,0 +1,18 @@
+{
+  "id": 11441,
+  "type": "monster",
+  "name": "D/D Sabio Galilei",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el turno de cualquier jugador: puedes descartar esta carta, y después seleccionar 1 carta \"D/D\" o \"Contrato Oscuro\" que controles; devuélvela a la mano. Sólo puedes usar este efecto de \"D/D Sabio Galilei\" una vez por turno.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"D/D\". Este efecto no puede ser negado. Una vez por turno, durante tu Standby Phase: aumenta en 2 la Escala de Péndulo de esta carta (máx. 10), y después destruye todos los monstruos que controles que tengan Nivel menor o igual a la Escala de Péndulo de esta carta, excepto a monstruos \"D/D\".",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

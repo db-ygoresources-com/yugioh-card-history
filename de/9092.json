@@ -1,0 +1,15 @@
+{
+  "id": 9092,
+  "type": "monster",
+  "name": "Schwarzflügel - Meltemi mit zwei Schwertern",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein „Schwarzflügel“-Monster, das du kontrollierst, gegen ein Monster deines Gegners kämpft, und dein Gegner am Ende des Damage Steps das Monster immer noch kontrolliert: Du kannst diese Karte von deiner Hand auf den Friedhof legen; füge deinem Gegner 1000 Schaden zu.",
+  "level": 3,
+  "atk": 400,
+  "def": 1600,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

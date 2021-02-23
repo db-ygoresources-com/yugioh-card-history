@@ -1,0 +1,15 @@
+{
+  "id": 6261,
+  "type": "monster",
+  "name": "Feuervogel",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange diese Karte offen auf dem Spielfeld liegt, erhöhe die ATK dieser Karte um 500 Punkte, jedes Mal, wenn ein Monster vom Typ Geflügeltes Ungeheuer auf deiner Spielfeldseite zerstört wird.",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

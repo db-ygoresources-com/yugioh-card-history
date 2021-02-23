@@ -1,0 +1,15 @@
+{
+  "id": 9109,
+  "type": "monster",
+  "name": "Naturia-Hirschkäfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, wenn dein Gegner während des Battle oder Damage Steps des Angriffs dieser Karte eine Karte oder einen Effekt aktiviert, kannst du 1 „Naturia“-Monster in deinem Friedhof wählen. Beschwöre das gewählte Monster als Spezialbeschwörung vom Friedhof.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

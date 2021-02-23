@@ -1,0 +1,15 @@
+{
+  "id": 8018,
+  "type": "monster",
+  "name": "Hyper Distruttore Psichico/Assalto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Questa carta non può essere Evocata tramite Evocazione Normale o Posizionata. Questa carta non può essere Evocata tramite Evocazione Speciale se non con \"Attivazione Modalità Assalto\". Se questa carta combatte con un mostro, alla fine del Damage Step infliggi danni all'avversario pari al DEF di quel mostro e guadagna Life Points pari al suo ATK. Quando questa carta sul Terreno viene distrutta, puoi Evocare tramite Evocazione Speciale 1 \"Hyper Distruttore Psichico\" dal tuo Cimitero.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psichico",
+    "Effetto"
+  ]
+}

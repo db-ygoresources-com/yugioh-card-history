@@ -1,0 +1,15 @@
+{
+  "id": 12149,
+  "type": "monster",
+  "name": "Engraver of the Mark",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When your opponent activates a card or effect by declaring exactly 1 card name (Quick Effect): You can send this card from your hand to the GY; declare 1 other card name. The card name your opponent declared becomes the card name declared by this effect. Once per turn (Quick Effect): You can target 1 face-up card on the field; destroy it during the End Phase of the next turn.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

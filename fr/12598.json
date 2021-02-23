@@ -1,0 +1,15 @@
+{
+  "id": 12598,
+  "type": "monster",
+  "name": "Calamar Drosera Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 monstre face recto que vous contrôlez ; ce tour, il peut attaquer une fois tous les monstres contrôlés par votre adversaire avec un Compteur Prédateur. Si cette carte face recto quitte le Terrain : placez 1 Compteur Prédateur sur chaque monstre Invoqué Spécialement contrôlé par votre adversaire, et si vous le faites, chacun de ces monstres de min. Niveau 2 deviennent Niveau 1 tant qu'ils ont un Compteur Prédateur.",
+  "level": 2,
+  "atk": 800,
+  "def": 400,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

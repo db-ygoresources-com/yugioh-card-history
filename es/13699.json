@@ -1,0 +1,19 @@
+{
+  "id": 13699,
+  "type": "monster",
+  "name": "Penteciervo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Efecto\nSi tu monstruo enlazado ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

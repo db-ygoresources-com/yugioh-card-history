@@ -1,0 +1,19 @@
+{
+  "id": 13497,
+  "type": "monster",
+  "name": "Crowley, le Premier Prophèvoyant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres Magicien\nSi cette carte est Invoquée par Lien : vous pouvez révéler 3 cartes \"Livre de Magie\" de noms différents depuis votre Deck, et votre adversaire en prend 1 au hasard pour vous à ajouter à votre main, et aussi, mélangez les cartes restantes dans votre Deck. Vous ne pouvez utiliser cet effet de \"Crowley, le Premier Prophèvoyant\" qu'une fois par tour. Chaque tour, 1 monstre Magicien de min. Niveau 5 que vous Invoquez Normalement peut être Invoqué sans Sacrifice.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

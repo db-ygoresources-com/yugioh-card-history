@@ -1,0 +1,18 @@
+{
+  "id": 11695,
+  "type": "monster",
+  "name": "Satellchevalier Zefrathuban",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement, par Flip ou par Pendulation : vous pouvez cibler 1 autre carte \"tellchevalier\" ou \"Zefra\" dans votre Zone Monstre ou Zone Pendule, et 1 carte face recto contrôlée par votre adversaire ; détruisez-les. Vous ne pouvez utiliser cet effet de \"Satellchevalier Zefrathuban\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"tellchevalier\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

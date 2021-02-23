@@ -1,0 +1,15 @@
+{
+  "id": 7884,
+  "type": "monster",
+  "name": "Missile Chasseur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre en Position de Défense est détruit au combat et envoyé au Cimetière, infligez 500 points de dommage à votre adversaire.",
+  "level": 3,
+  "atk": 1400,
+  "def": 600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

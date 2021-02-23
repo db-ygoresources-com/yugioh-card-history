@@ -1,0 +1,19 @@
+{
+  "id": 13410,
+  "type": "monster",
+  "name": "Untertaktungs-Übernehmer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Effektmonster\nEinmal pro Spielzug: Du kannst 1 offenes Monster, auf das diese Karte zeigt, und 1 offenes Monster, das dein Gegner kontrolliert, wählen; bis zum Ende dieses Spielzugs verliert das gewählte Ziel des Gegners ATK in Höhe der ATK des gewählten Ziels, auf das dieses Monster zeigt.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

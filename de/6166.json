@@ -1,0 +1,15 @@
+{
+  "id": 6166,
+  "type": "monster",
+  "name": "Schweigsamer Schwertkämpfer LV7",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch „Schweigsamer Schwertkämpfer LV5“ als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Annulliere alle Zaubereffekte auf dem Spielfeld.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

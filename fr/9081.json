@@ -1,0 +1,15 @@
+{
+  "id": 9081,
+  "type": "monster",
+  "name": "Mitrailleur d'Aiguilles",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est utilisée en tant que Monstre-Matériel de Synchro pour un Monstre Synchro, durant un combat entre ce Monstre Synchro et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de ce Monstre Synchro, infligez la différence en tant que dommages de combat à votre adversaire.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

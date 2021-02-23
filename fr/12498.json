@@ -1,0 +1,15 @@
+{
+  "id": 12498,
+  "type": "monster",
+  "name": "Magicienne des Pommes",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, si cette carte est ciblée par une attaque : vous pouvez Invoquer Spécialement 1 monstre de Type Magicien de max. Niveau 5 depuis votre main, puis transférez la cible de l'attaque sur celui-ci, et si vous le faites, l'ATK du monstre attaquant devient la moitié de son ATK actuelle. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler max. 3 autres monstres \"Magicienne des\" de noms différents dans votre Cimetière ; ajoutez-les à votre main.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15091,
+  "type": "monster",
+  "name": "Irradiateur Méchabot",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez défausser 1 autre monstre \"Méchabot\" ; Invoquez Spécialement cette carte depuis votre main. Vous pouvez cibler 1 monstre Machine que vous contrôlez ; Invoquez Spécialement 1 monstre \"Méchabot\" de nom différent et d'un Niveau inférieur ou égal au monstre depuis votre Cimetière, et si vous le faites, détruisez le monstre ciblé. Vous ne pouvez utiliser chaque effet de \"Irradiateur Méchabot\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1700,
+  "def": 2400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

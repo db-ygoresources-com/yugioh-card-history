@@ -1,0 +1,16 @@
+{
+  "id": 4734,
+  "type": "monster",
+  "name": "Toon-Jungfrau",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, solange du „Toon-Welt“ kontrollierst. Diese Karte kann nicht in dem Spielzug angreifen, in dem sie als Spezialbeschwörung beschworen wurde. Du musst 500 LP zahlen, um einen Angriff mit diesem Monster zu deklarieren. Falls „Toon-Welt“ auf dem Spielfeld zerstört wird, zerstöre diese Karte. Kann deinen Gegner direkt angreifen, es sei denn, er kontrolliert ein Toon-Monster, in welchem Fall diese Karte ein Toon-Monster als Ziel für ihre Angriffe wählen muss.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Toon",
+    "Effekt"
+  ]
+}

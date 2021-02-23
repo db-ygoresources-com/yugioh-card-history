@@ -1,0 +1,18 @@
+{
+  "id": 11937,
+  "type": "monster",
+  "name": "Mago Goffodrago",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 Mostro Pendulum \"Mago\" o mostro \"Occhi Diversi\" nel tuo Cimitero, eccetto \"Mago Goffodrago\"; aggiungilo alla tua mano. Puoi utilizzare questo effetto di \"Mago Goffodrago\" una sola volta per turno.",
+  "pendEffect": "Se hai una carta \"Mago\" nella tua altra Zona Pendulum: puoi aggiungere 1 Mostro Pendulum \"Mago\" o \"Occhi Diversi\" scoperto dal tuo Extra Deck alla tua mano, eccetto \"Mago Goffodrago\". Puoi utilizzare questo effetto di \"Mago Goffodrago\" una sola volta per turno.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

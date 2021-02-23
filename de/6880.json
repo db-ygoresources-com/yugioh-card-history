@@ -1,0 +1,15 @@
+{
+  "id": 6880,
+  "type": "monster",
+  "name": "Explosions-Asmodian",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls eine Zauber- oder Fallenkarte der Kette hinzugefügt wird, füge deinem Gegner 500 Schaden zu.",
+  "level": 3,
+  "atk": 1000,
+  "def": 300,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

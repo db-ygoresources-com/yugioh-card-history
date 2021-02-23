@@ -1,0 +1,16 @@
+{
+  "id": 12321,
+  "type": "monster",
+  "name": "Dragon Synchro de l'Aile de Cristal",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ Monstre Synchro non-Syntoniseur\nUne fois par tour, lorsque l'effet d'un autre monstre est activé (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez le monstre, et si vous faites ça, cette carte gagne une ATK égale à l'ATK d'origine du monstre détruit jusqu'à la fin de ce tour. Si cette carte combat un monstre de l'adversaire de min. Niveau 5, durant le calcul des dommages : durant ce calcul des dommages uniquement, cette carte gagne une ATK égale à l'ATK actuelle du monstre de l'adversaire qu'elle combat.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

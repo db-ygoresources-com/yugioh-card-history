@@ -1,0 +1,18 @@
+{
+  "id": 11616,
+  "type": "monster",
+  "name": "D/D/D Abismo Ragnarok, Rey del Olvido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo \"D/D/D\" en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"D/D/D Abismo Ragnarok, Rey del Olvido\" una vez por turno. Una vez por turno: puedes Sacrificar otro monstruo \"D/D\", y después seleccionar 1 monstruo que controle tu adversario; destiérralo.",
+  "pendEffect": "Si Invocas de Modo Especial uno o más monstruos \"D/D\", excepto durante el Damage Step: puedes seleccionar 1 monstruo \"D/D\" en tu Cementerio; por el resto de este turno, cualquier daño de batalla que tu adversario recibe se reduce a la mitad, y además Invoca ese monstruo de Modo Especial y, si lo haces, recibe 1000 puntos de daño. Sólo puedes usar este efecto de \"D/D/D Abismo Ragnarok, Rey del Olvido\" una vez por turno.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2200,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11699,
+  "type": "monster",
+  "name": "Zefraxi, Tesoro dello Yang Zing",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta viene Evocata Pendulum o Evocata Specialmente dal Main Deck: puoi scegliere come bersaglio 1 mostro \"Yang Zing\" o \"Zefra\" che controlli, eccetto \"Zefraxi, Tesoro dello Yang Zing\"; quel mostro scoperto viene considerato come un Tuner in questo turno, inoltre metti questa carta in fondo al Deck quando lascia il Terreno. Puoi utilizzare questo effetto di \"Zefraxi, Tesoro dello Yang Zing\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Yang Zing\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Wyrm",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8029,
+  "type": "monster",
+  "name": "Protecteur du Désert",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte gagne 300 points de DEF pour chaque Carte Magie et Piège sur le Terrain. Si un monstre de Type Insecte que vous contrôlez doit être détruit, vous pouvez détruire cette carte à la place.",
+  "level": 4,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

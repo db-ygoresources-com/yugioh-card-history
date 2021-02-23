@@ -1,0 +1,17 @@
+{
+  "id": 6698,
+  "type": "monster",
+  "name": "真空イタチ",
+  "nameRuby": "しんくうイタチ",
+  "englishAttribute": "wind",
+  "localizedAttribute": "風属性",
+  "effectText": "リバース：このターン相手プレイヤーは魔法・罠カードを発動できない。",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "獣族",
+    "リバース",
+    "効果"
+  ]
+}

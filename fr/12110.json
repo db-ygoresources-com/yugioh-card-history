@@ -1,0 +1,18 @@
+{
+  "id": 12110,
+  "type": "monster",
+  "name": "Magicien Briseur du Temps",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée par Pendulation depuis la main (et qu'aucune autre carte n'est Invoquée par Pendulation en même temps) : vous pouvez faire devenir l'ATK de cette carte le double de son ATK d'origine. Une fois par tour : vous pouvez cibler 1 monstre sur le Terrain ; jusqu'à votre prochaine Standby Phase, bannissez-le ainsi que cette carte depuis le Terrain.",
+  "pendEffect": "Chaque tour, le ou les premiers Monstres Pendule que vous contrôlez qui vont être détruits par un effet de carte de votre adversaire ne sont pas détruits.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1400,
+  "def": 0,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

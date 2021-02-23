@@ -1,0 +1,16 @@
+{
+  "id": 11931,
+  "type": "monster",
+  "name": "Sternenstaub-Sifr-Götterdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger-Synchromonster + 2 oder mehr Nicht-Empfänger-Synchromonster\nMuss als Synchrobeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Das erste Mal, dass jede Karte, die du kontrollierst, in jedem Spielzug durch Kampf oder einen Karteneffekt zerstört würde, wird sie nicht zerstört. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers, wenn dein Gegner einen Monstereffekt aktiviert: Du kannst den Effekt annullieren und falls du dies tust, zerstöre 1 Karte auf dem Spielfeld. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Sternenstaub“-Monster der Stufe 8 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6343,
+  "type": "monster",
+  "name": "Doriado, Maîtresse Élémentaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte ne peut être Invoquée que par Invocation Rituelle avec la Carte Magie Rituelle, \"Bénédiction de Doriado\". L'Attribut de cette carte est également traité comme étant VENT, EAU, FEU et TERRE.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

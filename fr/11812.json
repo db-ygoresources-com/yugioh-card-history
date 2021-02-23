@@ -1,0 +1,18 @@
+{
+  "id": 11812,
+  "type": "monster",
+  "name": "Templier Chevaliardent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Un guerrier Chevaliardent expérimenté qui se bat pour la justice et méprise les corrompus. Ces derniers temps, il remet également en cause sa propre arme en raison de sa quête absolue de justice.",
+  "pendEffect": "Si vous avez une carte \"Chevaliardent\" dans votre autre Zone Pendule : vous pouvez détruire les deux cartes dans vos Zones Pendule, et si vous le faites, ajoutez 1 monstre FEU de Type Guerrier depuis votre Deck ou Cimetière à votre main.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1300,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

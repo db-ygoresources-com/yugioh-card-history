@@ -1,0 +1,15 @@
+{
+  "id": 7182,
+  "type": "monster",
+  "name": "Culebra Venenosa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno puedes colocar 1 Contador de Veneno en 1 monstruo que controle tu adversario.",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12401,
+  "type": "monster",
+  "name": "Artistamigo Gongato",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, cuando es declarado un ataque que involucre a un monstruo que controlas y un monstruo de tu adversario: puedes activar este efecto; no recibes daño de batalla de esa batalla.",
+  "pendEffect": "Una vez por turno, cuando un monstruo de tu adversario declara un ataque directo: puedes activar este efecto; no recibes daño de batalla de esa batalla (aún si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

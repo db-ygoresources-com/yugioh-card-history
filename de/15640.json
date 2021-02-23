@@ -1,0 +1,16 @@
+{
+  "id": 15640,
+  "type": "monster",
+  "name": "Drytron-Meteonis Draconiden",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Meteonis-Drytron“ als Ritualbeschwörung beschwören. Dein Gegner kann diese Karte nicht als Ziel für Monstereffekte wählen. Falls die Summe der Stufen der Monster, die für die Ritualbeschwörung dieser Karte verwendet wurden, 2 oder weniger ist, kann sie alle als Spezialbeschwörung beschworenen Monster, die dein Gegner kontrolliert, je einmal angreifen. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst Monster von deinem Friedhof verbannen, deren gemeinsame ATK genau 2000 oder 4000 entsprechen, und dann für je 2000 ATK der Summe 1 offene Karte wählen, die dein Gegner kontrolliert; lege die Karten auf den Friedhof. Du kannst diesen Effekt von „Drytron-Meteonis Draconiden“ nur einmal pro Spielzug verwenden.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Maschine",
+    "Ritual",
+    "Effekt"
+  ]
+}

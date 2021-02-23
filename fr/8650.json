@@ -1,0 +1,16 @@
+{
+  "id": 8650,
+  "type": "monster",
+  "name": "Garlandolf, Roi de la Destruction",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte ne peut être Invoquée Rituellement qu'avec la Carte Magie Rituelle \"Rituel de Destruction\". Lorsque cette carte est Invoquée Rituellement, détruisez tous les autres monstres face recto sur le Terrain avec une DEF inférieure ou égale à l'ATK de cette carte. Cette carte gagne 100 points d'ATK pour chaque monstre détruit par cet effet.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1400,
+  "properties": [
+    "Démon",
+    "Rituel",
+    "Effet"
+  ]
+}

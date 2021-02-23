@@ -1,0 +1,16 @@
+{
+  "id": 12844,
+  "type": "monster",
+  "name": "Beschworener Caliga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Aleister der Beschwörer“ + 1 FINSTERNIS Monster\nJeder Spieler kann nur versuchen, 1 Monstereffekt pro Spielzug zu aktivieren. Jeder Spieler kann während jeder Battle Phase nur mit 1 Monster angreifen.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer",
+    "Fusion",
+    "Effekt"
+  ]
+}

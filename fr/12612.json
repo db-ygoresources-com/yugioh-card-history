@@ -1,0 +1,18 @@
+{
+  "id": 12612,
+  "type": "monster",
+  "name": "Bismupièce Métalphose Rare",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez ajouter 1 monstre \"Métalphose\" depuis votre Deck à votre main durant la End Phase de ce tour. Vous ne pouvez utiliser cet effet de \"Bismupièce Métalphose Rare\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 autre carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, Posez 1 Carte Magie/Piège \"Métalphose\" directement depuis votre Deck.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Psychique",
+    "Pendule",
+    "Effet"
+  ]
+}

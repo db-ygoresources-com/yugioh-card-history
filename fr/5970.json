@@ -1,0 +1,15 @@
+{
+  "id": 5970,
+  "type": "monster",
+  "name": "Guerrier du Disque",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte attaque un monstre en Position de Défense avec une DEF de 2000 ou plus, détruisez ce monstre par l'effet de cette carte sans calcul des dommages.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11784,
+  "type": "monster",
+  "name": "Mago Occhio-Saggio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi scartare questa carta, poi scegliere come bersaglio nella tua Zona Pendulum 1 carta il cui Valore Pendulum attuale è diverso dal suo Valore Pendulum originale; il suo Valore Pendulum diventa il suo Valore Pendulum originale fino alla fine di questo turno.",
+  "pendEffect": "Se hai una carta \"Mago\" o \"Artistamico\" nella tua altra Zona Pendulum: puoi distruggere questa carta e, se lo fai, metti 1 Mostro Pendulum \"Mago\" dal tuo Deck nella tua Zona Pendulum, eccetto \"Mago Occhio-Saggio\".",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

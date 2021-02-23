@@ -1,0 +1,16 @@
+{
+  "id": 7198,
+  "type": "monster",
+  "name": "Joueur de Flûte Porte-Bonheur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ● Lorsque cette carte détruit un monstre adverse au combat et l'envoie au Cimetière, piochez 1 carte.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Elfe",
+    "Gémeau",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8479,
+  "type": "monster",
+  "name": "Mago Esplosivo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner Incantatore\nPuoi rimuovere 2 Segnalini Magia dal tuo Terreno, poi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; distruggi quel bersaglio.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Incantatore",
+    "Synchro",
+    "Effetto"
+  ]
+}

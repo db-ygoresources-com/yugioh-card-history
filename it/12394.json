@@ -1,0 +1,18 @@
+{
+  "id": 12394,
+  "type": "monster",
+  "name": "Manzo Fantasma",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Il Fantasma della Cena di Natale.",
+  "pendEffect": "Una volta per turno: puoi tirare un dado a sei facce. Fino alla fine di questo turno, aumenta il Valore Pendulum di questa carta di quel numero (massimo 10).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Normale"
+  ]
+}

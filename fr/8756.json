@@ -1,0 +1,15 @@
+{
+  "id": 8756,
+  "type": "monster",
+  "name": "Videur Cactus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non Invocable Spécialement. Tant qu'un autre monstre Plante est sur le Terrain, aucun joueur ne peut Invoquer Spécialement de monstres.",
+  "level": 4,
+  "atk": 1800,
+  "def": 300,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

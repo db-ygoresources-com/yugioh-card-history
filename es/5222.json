@@ -1,0 +1,15 @@
+{
+  "id": 5222,
+  "type": "monster",
+  "name": "Necrofear Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 3 monstruos Demonio en tu Cementerio. Durante la End Phase, si esta carta está en tu Cementerio porque este turno fue destruida en tu Zona de Monstruos por una carta del adversario y mandada allí: selecciona 1 monstruo boca arriba que controle tu adversario; equipa esta carta a ese objetivo. Mientras esta carta está equipada a un monstruo por este efecto, toma el control de ese monstruo.",
+  "level": 8,
+  "atk": 2200,
+  "def": 2800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

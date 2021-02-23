@@ -1,0 +1,18 @@
+{
+  "id": 11210,
+  "type": "monster",
+  "name": "Caballero del Destello",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "El poder del péndulo es un destello que sale de este caballero brillante.",
+  "pendEffect": "",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6045,
+  "type": "monster",
+  "name": "Emisario del Oasis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Mientras un Monstruo Normal boca arriba de Nivel 3 o inferior permanezca en tu Campo, tu adversario no puede seleccionar esta carta como objetivo de un ataque. Mientras esta carta permanezca boca arriba en tu Campo, cualquier daño de batalla al controlador de esta carta de una batalla en la que participe un Monstruo Normal de Nivel 3 o inferior se convierte en 0.",
+  "level": 3,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

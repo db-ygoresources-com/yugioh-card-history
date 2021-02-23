@@ -1,0 +1,16 @@
+{
+  "id": 8168,
+  "type": "monster",
+  "name": "Microscope Morphtronique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "●En Position d'Attaque : Une fois par tour, vous pouvez Invoquer Spécialement 1 monstre \"Morphtronique\" de Niveau 4 depuis votre main. Détruisez-le durant la End Phase.\n ●En Position de Défense : Lorsque cette carte est en Positon de Défense face recto, son Niveau est de 4.",
+  "level": 3,
+  "atk": 800,
+  "def": 1400,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

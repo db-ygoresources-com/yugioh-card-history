@@ -1,0 +1,15 @@
+{
+  "id": 8695,
+  "type": "monster",
+  "name": "Recycleur de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 monstre Machine depuis votre Deck au Cimetière. Une fois par tour : vous pouvez mélanger 2 monstres TERRE Machine de Niveau 4 depuis votre Cimetière dans le Deck ; piochez 1 carte.",
+  "level": 3,
+  "atk": 900,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

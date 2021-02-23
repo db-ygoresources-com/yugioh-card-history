@@ -1,0 +1,15 @@
+{
+  "id": 12672,
+  "type": "monster",
+  "name": "Paladín Silencioso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano, desde tu Deck, 1 \"Espadachín Silencioso LV3\" o \"Mago Silencioso LV4\". Durante el turno de cualquier jugador, cuando una Carta Mágica es activada que seleccione exactamente 1 monstruo que controles (y ninguna otra carta): puedes negar la activación. Este efecto sólo puede ser usado una vez mientras esta carta está boca arriba en el Campo. Si esta carta es destruida en batalla, o si esta carta controlada por su dueño es destruida por el efecto de una carta de tu adversario: puedes seleccionar 1 monstruo \"LV\" de LUZ en tu Cementerio; añádelo a tu mano.",
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

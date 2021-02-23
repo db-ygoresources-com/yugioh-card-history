@@ -1,0 +1,15 @@
+{
+  "id": 9652,
+  "type": "monster",
+  "name": "Barco Fantasma",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal, ni Colocado. Primero debe ser Invocado de Modo Especial, desde tu mano, desterrando 1 monstruo de LUZ en tu Cementerio.",
+  "level": 5,
+  "atk": 1900,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8129,
+  "type": "monster",
+  "name": "Zéro Absolu, HÉROS Élémentaire",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 monstre \"HÉROS\" + 1 monstre EAU\nUniquement Invocable par Fusion. Gagne 500 ATK pour chaque monstre EAU (\"Zéro Absolu, HÉROS Élémentaire\" exclu) sur le Terrain. Si cette carte quitte le Terrain : détruisez tous les monstres contrôlés par votre adversaire.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

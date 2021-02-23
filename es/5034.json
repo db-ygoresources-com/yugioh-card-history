@@ -1,0 +1,17 @@
+{
+  "id": 5034,
+  "type": "monster",
+  "name": "Soldado Cifrado",
+  "oldName": "Soldado Cinético",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "notes": "Nombre de Carta actualizado de \"Soldado Cinético\" en 18-11-2016.",
+  "effectText": "Durante el cálculo de daño, si esta carta batalla con un monstruo de Tipo Guerrero: esta carta gana 2000 ATK y DEF, sólo durante ese cálculo de daño.",
+  "level": 3,
+  "atk": 1350,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

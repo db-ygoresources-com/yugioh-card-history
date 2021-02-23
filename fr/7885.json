@@ -1,0 +1,15 @@
+{
+  "id": 7885,
+  "type": "monster",
+  "name": "Forgeron Chaîne de Fer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte détruit un monstre au combat et l'envoie au Cimetière, infligez 300 points de dommage à votre adversaire. Une fois par tour, vous pouvez Invoquer Spécialement 1 monstre \"Chaîne de Fer\" de Niveau 4 ou moins depuis votre Cimetière, excepté \"Forgeron Chaîne de Fer\". Cette carte ne peut pas attaquer le tour où vous activez cet effet.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

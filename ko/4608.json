@@ -1,0 +1,16 @@
+{
+  "id": 4608,
+  "type": "monster",
+  "name": "펭귄 솔저",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "리버스 : 필드 위의 몬스터를 2장까지 선택하고 주인의 패로 되돌릴 수 있다.",
+  "level": 2,
+  "atk": 750,
+  "def": 500,
+  "properties": [
+    "물족",
+    "리버스",
+    "효과"
+  ]
+}

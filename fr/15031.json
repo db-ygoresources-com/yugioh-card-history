@@ -1,0 +1,16 @@
+{
+  "id": 15031,
+  "type": "monster",
+  "name": "Allomérus Traptrix",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres de Niveau 4\nCette carte n'est pas affectée par des effets de Piège tant qu'elle a du Matériel Xyz. Vous ne pouvez utiliser chacun des effets suivants de \"Allomérus Traptrix\" qu'une fois par tour.\n●Vous pouvez détacher 2 Matériels de cette carte ; Invoquez Spécialement 1 monstre Insecte ou Plante de Niveau 4 depuis votre Cimetière.\n●Si un ou plusieurs monstres de l'adversaire quittent le Terrain à cause de votre effet de carte, et sont maintenant dans le Cimetière ou bannis (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez-en 1 ; Invoquez-le Spécialement sur votre Terrain.",
+  "rank": 4,
+  "atk": 2200,
+  "def": 600,
+  "properties": [
+    "Insecte",
+    "Xyz",
+    "Effet"
+  ]
+}

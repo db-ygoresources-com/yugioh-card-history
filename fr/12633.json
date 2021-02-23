@@ -1,0 +1,16 @@
+{
+  "id": 12633,
+  "type": "monster",
+  "name": "Fleur Cardian Sanglicerpillon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 2 monstres non-Syntoniseur\nSi un monstre \"Fleur Cardian\" que vous contrôlez attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Une fois par tour : vous pouvez bannir 1 monstre \"Fleur Cardian\" depuis votre Cimetière ; jusqu'à la fin du prochain tour de votre adversaire, votre adversaire ne peut pas activer d'effets de carte dans le Cimetière, et aussi, il ne peut pas Invoquer Spécialement de monstres depuis le Cimetière.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

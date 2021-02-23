@@ -1,0 +1,15 @@
+{
+  "id": 8420,
+  "type": "monster",
+  "name": "Dragón Golem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Tu adversario no puede seleccionar monstruos de Tipo Dragón boca arriba para ataques, excepto a éste.",
+  "level": 4,
+  "atk": 200,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

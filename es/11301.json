@@ -1,0 +1,18 @@
+{
+  "id": 11301,
+  "type": "monster",
+  "name": "Artistamigo Garra Plateada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta declara un ataque: hasta el final de la Battle Phase, todos los monstruos \"Artistamigo\" que controles en este momento ganan 300 ATK.",
+  "pendEffect": "Todos los monstruos \"Artistamigo\" que controles ganan 300 ATK.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

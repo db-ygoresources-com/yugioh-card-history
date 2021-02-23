@@ -1,0 +1,16 @@
+{
+  "id": 13459,
+  "type": "monster",
+  "name": "Gourou Subterreur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez ajouter 1 carte \"Subterreur\" (\"Gourou Subterreur\" exclu) depuis votre Deck à votre main. Vous pouvez cibler 1 autre monstre face recto sur le Terrain ; changez le monstre, et aussi cette carte, en Position de Défense face verso. Ceci est un Effet Rapide si vous contrôlez une autre carte \"Subterreur\". Vous ne pouvez utiliser chaque effet de \"Gourou Subterreur\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Dragon",
+    "Flip",
+    "Effet"
+  ]
+}

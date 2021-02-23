@@ -1,0 +1,15 @@
+{
+  "id": 6113,
+  "type": "monster",
+  "name": "Gosse Suprême du Base-ball",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cette carte gagne 1000 ATK pour chaque monstre FEU face recto sur le Terrain (cette carte exclue). Vous pouvez envoyer 1 autre monstre FEU face recto que vous contrôlez au Cimetière ; infligez 500 points de dommages à votre adversaire.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9892,
+  "type": "monster",
+  "name": "Inzektor Fourmi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez équiper 1 monstre \"Inzektor\" depuis votre main ou Cimetière à cette carte. Tant que cette carte est équipée à un monstre, le Niveau du monstre est augmenté de 3, et il gagne aussi une ATK/DEF égales à l'ATK/DEF de cette carte. Si le monstre équipé va être détruit, vous pouvez détruire cette Carte d'Équipement à la place.",
+  "level": 3,
+  "atk": 200,
+  "def": 600,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

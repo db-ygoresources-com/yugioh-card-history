@@ -1,0 +1,21 @@
+{
+  "id": 14300,
+  "type": "monster",
+  "name": "Véhicolonne Amphibie Ambuleine",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2+ Monstres à Effet\nGagne 200 ATK pour chaque Monstre Lien dans les Cimetières. Vous ne pouvez utiliser chacun des effets suivants de \"Véhicolonne Amphibie Ambuleine\" qu'une fois par tour.\n●Si cette carte est détruite : vous pouvez cibler 1 monstre de min. Link-3 dans l'un des Cimetières ; Invoquez-le Spécialement.\n●Si un ou plusieurs monstres de min. Link-3 sur le Terrain sont détruits au combat ou par un effet de carte tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; détruisez 1 carte sur le Terrain.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "2",
+    "3"
+  ],
+  "atk": 2600,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

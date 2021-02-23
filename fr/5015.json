@@ -1,0 +1,15 @@
+{
+  "id": 5015,
+  "type": "monster",
+  "name": "Soldat Lumineux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte combat contre un monstre TÉNÈBRES, augmentez l'ATK de cette carte de 500 points durant la Damage Step.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11810,
+  "type": "monster",
+  "name": "Cavaleirardor Escudeiro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "A fria armadura de aço deste jovem escudeiro não pode esconder a mente aguçada e sagaz contida dentro dela.",
+  "pendEffect": "Se você tiver um card \"Cavaleirardor\" na sua outra Zona de Pêndulo: você pode destruir os dois cards nas suas Zonas de Pêndulo e, se isso acontecer, adicione 1 monstro de FOGO do Tipo Guerreiro do seu Deck ou Cemitério à sua mão.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

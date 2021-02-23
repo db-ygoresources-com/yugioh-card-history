@@ -1,0 +1,15 @@
+{
+  "id": 13217,
+  "type": "monster",
+  "name": "Compilatore di Difetti",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, se stai per subire danno dall'effetto di una carta dell'avversario, metti invece 1 Segnalino Difetto su questa carta (massimo 1). Una volta per turno (Effetto Rapido): puoi rimuovere 1 Segnalino Difetto da questa carta, poi scegliere come bersaglio 1 mostro Cyberso che controlli; esso guadagna 800 ATK, fino alla fine di questo turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effetto"
+  ]
+}

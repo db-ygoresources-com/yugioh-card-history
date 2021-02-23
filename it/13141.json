@@ -1,0 +1,18 @@
+{
+  "id": 13141,
+  "type": "monster",
+  "name": "Jogen Ninja del Crepuscolo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi rivelare 1 carta \"Ninjitsu\" nella tua mano; Evoca Specialmente questa carta dalla tua mano. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante.",
+  "pendEffect": "Se un tuo mostro \"Ninja\" attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7103,
+  "type": "monster",
+  "name": "Trancheur Volcanique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, vous pouvez infliger 500 points de dommages à votre adversaire. Si vous activez cet effet, cette carte ne peut pas attaquer durant ce tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

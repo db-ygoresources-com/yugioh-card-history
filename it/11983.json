@@ -1,0 +1,18 @@
+{
+  "id": 11983,
+  "type": "monster",
+  "name": "Deskbot 006",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro sul Terreno; cambia la sua posizione. Questa carta guadagna 500 ATK per ogni mostro \"Deskbot\" scoperto nel tuo Extra Deck. Se questa carta nella Zona Pendulum viene distrutta: puoi scegliere come bersaglio 1 carta \"Deskbot\" nel tuo Cimitero; aggiungi quel bersaglio alla tua mano. Puoi utilizzare questo effetto di \"Deskbot 006\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Deskbot\". Questo effetto non può essere annullato.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12701,
+  "type": "monster",
+  "name": "Artistamigo Colmillo de Oro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: hasta el final de este turno todos los monstruos \"Artistamigo\" que controles en este momento ganan 200 ATK.",
+  "pendEffect": "Una vez por turno, si tu monstruo \"Artistamigo\" destruye un monstruo del adversario en batalla: inflige 1000 puntos de daño a tu adversario.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

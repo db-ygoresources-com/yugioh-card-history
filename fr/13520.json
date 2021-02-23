@@ -1,0 +1,15 @@
+{
+  "id": 13520,
+  "type": "monster",
+  "name": "Archiveur des Mers",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un monstre est Invoqué Normalement ou Spécialement dans une zone pointée par un Monstre Lien (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque l'Invocation est résolue) ou main (même si elle n'y était pas), mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Archiveur des Mers\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 300,
+  "def": 2100,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

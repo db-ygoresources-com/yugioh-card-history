@@ -1,0 +1,16 @@
+{
+  "id": 7529,
+  "type": "monster",
+  "name": "Criomante della Barriera di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre controlli un altro mostro \"Barriera di Ghiaccio\", i mostri di Livello 4 o superiore non possono dichiarare un attacco.",
+  "level": 2,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Acqua",
+    "Tuner",
+    "Effetto"
+  ]
+}

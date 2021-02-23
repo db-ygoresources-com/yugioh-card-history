@@ -1,0 +1,16 @@
+{
+  "id": 12068,
+  "type": "monster",
+  "name": "PSI-Hüllenpanzer Alpha",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Wenn dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört, solange du keine Monster kontrollierst (außer während des Damage Steps): Du kannst sowohl diese Karte als Spezialbeschwörung von deiner Hand als auch 1 „PSI-Hüllentreiber“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören und falls du dies tust, füge deiner Hand 1 „PSI-Hülle“-Karte von deinem Deck hinzu, außer „PSI-Hüllenpanzer Alpha“. Während der End Phase, verbanne die durch diesen Effekt als Spezialbeschwörung beschworenen offenen Monster.",
+  "level": 1,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

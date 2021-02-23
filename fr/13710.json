@@ -1,0 +1,16 @@
+{
+  "id": 13710,
+  "type": "monster",
+  "name": "Dragster de l'Aube F.A.",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nGagne une ATK égale à son Niveau x 300. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Une fois par tour, lorsque votre adversaire active une Carte Magie/Piège ou effet de Magie/Piège (Effet Rapide) : vous pouvez réduire le Niveau de cette carte de 2, et si vous le faites, annulez l'activation, et si vous faites ça, détruisez la carte.",
+  "level": 7,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}

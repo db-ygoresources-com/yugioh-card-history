@@ -1,0 +1,16 @@
+{
+  "id": 8006,
+  "type": "monster",
+  "name": "Hypersynchron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte für die Synchrobeschwörung eines Monsters vom Typ Drache auf den Friedhof gelegt wird: Das Monster erhält 800 ATK, zusätzlich verbanne das offene Monster während der End Phase.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7853,
+  "type": "monster",
+  "name": "Mano dei Sei Samurai",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Se controlli un altro mostro \"Sei Samurai\": puoi offrire come Tributo 1 mostro \"Sei Samurai\", poi scegliere come bersaglio 1 mostro sul Terreno; distruggi quel bersaglio.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

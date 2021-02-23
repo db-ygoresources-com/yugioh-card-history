@@ -1,0 +1,18 @@
+{
+  "id": 13990,
+  "type": "monster",
+  "name": "Predaplanta Orquídea Araña",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante la End Phase, si esta carta fue Invocada de Modo Normal o Especial en este turno: puedes descartar 1 monstruo Planta; añade a tu mano 1 monstruo Planta de Nivel 4 o menor en tu Deck. Sólo puedes usar este efecto de \"Predaplanta Orquídea Araña\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase, si esta carta fue activada este turno: puedes seleccionar otra carta boca arriba en la Zona de Magia y Trampas; destrúyela. Sólo puedes usar este efecto de \"Predaplanta Orquídea Araña\" una vez por turno.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Planta",
+    "Péndulo",
+    "Efecto"
+  ]
+}

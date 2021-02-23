@@ -1,0 +1,15 @@
+{
+  "id": 15089,
+  "type": "monster",
+  "name": "Mek Cittadella",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di una carta. (Effetto Rapido): puoi scegliere come bersaglio 1 mostro Macchina che controlli; distruggi quel mostro Macchina e tutti i mostri controllati dal tuo avversario con ATK pari o inferiore a esso. Se uno o più mostri TERRA Macchina scoperti che controlli, eccetto \"Mek Cittadella\", vengono distrutti in battaglia o dall'effetto di una carta mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta. Puoi utilizzare ogni effetto di \"Mek Cittadella\" una sola volta per turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14195,
+  "type": "monster",
+  "name": "Donnerdrache Gewittersturmech",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Donner-Monster\nWährend deiner Main Phase, falls du diese als Linkbeschwörung beschworene Karte kontrollierst: Du kannst 1 deiner „Donnerdrache“-Monster wählen, das verbannt ist oder sich in deinem Friedhof befindet; führe den Effekt des Monsters aus, der das Monster abwirft, um aktiviert zu werden, dann lege das Monster auf oder unter dein Deck. Du kannst diesen Effekt von „Donnerdrache Gewittersturmech“ nur einmal pro Spielzug verwenden. Falls ein oder mehr Donner-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 3 Karten von deinem Friedhof verbannen.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "2",
+    "3"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Donner",
+    "Link",
+    "Effekt"
+  ]
+}

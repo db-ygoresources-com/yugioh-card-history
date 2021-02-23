@@ -1,0 +1,15 @@
+{
+  "id": 7869,
+  "type": "monster",
+  "name": "Generatore di Onde Guaritrici",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, puoi scegliere un altro mostro scoperto che controlli per guadagnare Life Points pari al Livello di quel mostro x 100.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

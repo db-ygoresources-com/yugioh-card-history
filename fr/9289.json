@@ -1,0 +1,15 @@
+{
+  "id": 9289,
+  "type": "monster",
+  "name": "Jupiter, Agent des Miracles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez retirer du jeu 1 monstre \"Agent\" dans votre Cimetière pour sélectionner 1 monstre LUMIÈRE de Type Elfe face recto que vous contrôlez. Le monstre sélectionné gagne 800 ATK jusqu'à la End Phase. Tant que \"Le Sanctuaire Céleste\" est face recto sur le Terrain, une fois par tour, vous pouvez défausser 1 monstre de Type Elfe pour sélectionner 1 de vos monstres LUMIÈRE de Type Elfe retirés du jeu et l'Invoquer Spécialement.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7571,
+  "type": "monster",
+  "name": "Athena",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se uno o più altri mostri Fata vengono Evocati: infliggi 600 danni al tuo avversario. Una volta per turno: puoi mandare al Cimitero 1 mostro Fata scoperto che controlli, eccetto \"Athena\", poi scegliere come bersaglio 1 mostro Fata nel tuo Cimitero, eccetto \"Athena\"; Evoca Specialmente quel bersaglio.",
+  "level": 7,
+  "atk": 2600,
+  "def": 800,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

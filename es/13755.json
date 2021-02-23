@@ -1,0 +1,21 @@
+{
+  "id": 13755,
+  "type": "monster",
+  "name": "Gouki El Ogro Gigante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "3+ monstruos \"Gouki\"\nNo puede ser destruida en batalla, y no es afectada por los efectos activados de los monstruos de tu adversario con ATK menor o igual al de esta carta. Cuando tu adversario activa una carta o efecto que selecciona esta carta, y/o uno o más monstruos a los que esta carta apunte (Efecto Rápido): puedes hacer que esta carta pierda exactamente 500 ATK y, si lo haces, niega la activación. Una vez por turno, si el ATK de esta carta en este momento es diferente a su ATK original (Efecto Rápido): puedes hacer que esta carta gane 1000 ATK hasta el final de este turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

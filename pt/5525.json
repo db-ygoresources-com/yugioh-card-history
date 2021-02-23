@@ -1,0 +1,16 @@
+{
+  "id": 5525,
+  "type": "monster",
+  "name": "Jarro de Cobras",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "VIRE: Invoque, por Invocação-Especial, 1 \"Token de Serpente Venenosa\" (Tipo Réptil/TERRA/Nível 3/ATK 1200/DEF 1200) no seu Campo. Se o \"Token de Serpente Venenosa\" for destruído como resultado de um combate, inflija 500 pontos de dano aos Life Points do seu adversário.",
+  "level": 2,
+  "atk": 600,
+  "def": 300,
+  "properties": [
+    "Réptil",
+    "Virar",
+    "Efeito"
+  ]
+}

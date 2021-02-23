@@ -1,0 +1,16 @@
+{
+  "id": 5781,
+  "type": "monster",
+  "name": "Leggendario Signore delle Fiamme",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Questo mostro può essere Evocato solo tramite Evocazione Rituale utilizzando la Carta Magia Rituale \"Prova del Fuoco\". Devi anche offrire come Tributo, dal Terreno o dalla tua Mano, mostri il cui Livello totale sia 7 o superiore. Ogni volta che tu o un tuo avversario attivate 1 Carta Magia, metti 1 Segnalino Magia su questa carta. Rimuovi 3 Segnalini Magia da questa carta per distruggere tutti i mostri sul Terreno eccetto questa carta.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Rituale",
+    "Effetto"
+  ]
+}

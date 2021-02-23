@@ -1,0 +1,15 @@
+{
+  "id": 15461,
+  "type": "monster",
+  "name": "Dragon Centenaire",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez faire gagner à cette carte un nombre de Niveaux égal au nombre de cartes que vous contrôlez, et si vous le faites, elle gagne 100 ATK pour chaque Niveau gagné. Ces changements durent jusqu'à la fin de ce tour. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre face recto que vous contrôlez qui a été Invoqué Spécialement depuis l'Extra Deck ; la première fois que le monstre face recto va être détruit au combat ou par un effet de carte, il n'est pas détruit. Vous ne pouvez utiliser cet effet de \"Dragon Centenaire\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

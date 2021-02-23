@@ -1,0 +1,15 @@
+{
+  "id": 5488,
+  "type": "monster",
+  "name": "Klingenritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Erhält 400 ATK, solange du 1 oder weniger Karten in deiner Hand hast. Falls du keine anderen Monster kontrollierst, werden die Effekte von Flippmonstern, die durch Kampf mit dieser Karte zerstört werden, annulliert.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

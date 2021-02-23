@@ -1,0 +1,15 @@
+{
+  "id": 6801,
+  "type": "monster",
+  "name": "Alien Mars",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "The effects of Effect Monsters with A-Counters are negated, except for \"Alien Mars\".",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Reptile",
+    "Effect"
+  ]
+}

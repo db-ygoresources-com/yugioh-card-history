@@ -1,0 +1,15 @@
+{
+  "id": 5317,
+  "type": "monster",
+  "name": "Steinwerfer-Einheit",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Biete 1 Monster vom Typ Krieger auf deiner Spielfeldseite als Tribut an, um 1 offenes Monster auf dem Spielfeld zu zerstören, dessen DEF kleiner oder gleich der ATK dieser Karte ist.",
+  "level": 4,
+  "atk": 900,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

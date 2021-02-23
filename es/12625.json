@@ -1,0 +1,16 @@
+{
+  "id": 12625,
+  "type": "monster",
+  "name": "Colacuento - Durmiente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Puedes Invocar 1 monstruo de Modo Especial desde tu mano.\nCuando tu adversario active una Carta Mágica/de Trampa Normal (Efecto Rápido): puedes Sacrificar otro monstruo; el efecto activado se convierte en \"Cambia 1 monstruo boca arriba que controle tu adversario a Posición de Defensa boca abajo\". Sólo puedes usar este efecto de \"Colacuento - Durmiente\" una vez por turno.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}

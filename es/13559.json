@@ -1,0 +1,15 @@
+{
+  "id": 13559,
+  "type": "monster",
+  "name": "Enlace de Unidad de Cinta",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando uno o más monstruos Ciberso son Invocados de Modo Normal o Especial a tu Campo mientras este monstruo esté en el Campo (excepto durante el Damage Step): puedes Invocar de Modo Especial 1 \"Ficha Datos\" (Ciberso/LUZ/Nivel 1/ATK 0/DEF 0). Sólo puedes usar este efecto de \"Enlace de Unidad de Cinta\" una vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

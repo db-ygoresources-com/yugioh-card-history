@@ -1,0 +1,16 @@
+{
+  "id": 9870,
+  "type": "monster",
+  "name": "Zenmaines Automate",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres de Niveau 3\nSi cette carte face recto sur le Terrain va être détruite, vous pouvez détacher 1 Matériel Xyz de cette carte à la place. Une fois par tour, durant la End Phase, si cet effet a été utilisé ce tour : ciblez 1 carte sur le Terrain ; détruisez-la.",
+  "rank": 3,
+  "atk": 1500,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

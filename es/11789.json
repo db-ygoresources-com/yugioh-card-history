@@ -1,0 +1,18 @@
+{
+  "id": 11789,
+  "type": "monster",
+  "name": "Artistamigo Camellulto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es destruida en batalla: puedes hacer que el monstruo que destruyó a esta carta pierda 800 ATK.",
+  "pendEffect": "Una vez por turno, durante tu Main Phase 1: puedes seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno, los monstruos que controle tu adversario en este momento pierden 800 DEF y, si lo hacen, si este turno el monstruo seleccionado ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. (Estos efectos permanecen aún si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

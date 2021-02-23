@@ -1,0 +1,15 @@
+{
+  "id": 6890,
+  "type": "monster",
+  "name": "Blitzrächer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Nachdem eine Kette mit 3 oder mehr Gliedern aufgelöst wurde, zerstöre 1 Karte auf der Spielfeldseite deines Gegners. Dieser Effekt kann nicht aktiviert werden, falls mehrere Karten/Effekte mit demselben Namen in dieser Kette aktiviert wurden.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1600,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

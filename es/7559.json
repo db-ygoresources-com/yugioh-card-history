@@ -1,0 +1,15 @@
+{
+  "id": 7559,
+  "type": "monster",
+  "name": "Braquión Saurópodo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Especial desde el Deck. Puedes Invocar boca arriba por Sacrificio esta carta, Sacrificando 1 monstruo de Tipo Dinosaurio. Una vez por turno: puedes cambiar esta carta a Posición de Defensa boca abajo. Si esta carta es Invocada por Volteo: cambia todos los demás monstruos en el Campo a Posición de Defensa boca abajo. Si esta carta es atacada, cualquier daño de batalla que tu adversario reciba de esa batalla es duplicado.",
+  "level": 8,
+  "atk": 1500,
+  "def": 3000,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

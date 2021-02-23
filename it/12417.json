@@ -1,0 +1,15 @@
+{
+  "id": 12417,
+  "type": "monster",
+  "name": "Tunica del Mago",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante il turno del tuo avversario (Effetto Rapido): puoi scartare 1 Magia/Trappola; Evoca Specialmente 1 \"Mago Nero\" dal tuo Deck. Durante il turno del tuo avversario, se attivi una Carta Magia/Trappola o un loro effetto mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare ogni effetto di \"Tunica del Mago\" una sola volta per turno.",
+  "level": 2,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

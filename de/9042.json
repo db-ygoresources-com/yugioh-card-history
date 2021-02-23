@@ -1,0 +1,15 @@
+{
+  "id": 9042,
+  "type": "monster",
+  "name": "Niederträchtiger Wahrheitsdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch seinen eigenen Effekt als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Falls ein „Niederträchtig“-Monster, das du kontrollierst, außer „Niederträchtiger Wahrheitsdrache“, durch Kampf oder einen Karteneffekt zerstört wird: Du kannst die Hälfte deiner Life Points zahlen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand oder deinem Friedhof. Es kann nur 1 „Niederträchtig“-Monster auf dem Spielfeld liegen. Falls keine offene Spielfeldzauberkarte auf dem Spielfeld liegt, zerstöre diese Karte. Falls diese Karte ein Monster deines Gegners durch Kampf zerstört: Zerstöre alle offenen Monster, die dein Gegner kontrolliert.",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

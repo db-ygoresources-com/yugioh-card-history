@@ -1,0 +1,16 @@
+{
+  "id": 10650,
+  "type": "monster",
+  "name": "Mangeur d'Étoiles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\nUniquement Invocable par Synchronisation et non Invocable Spécialement autrement. L'Invocation Synchro de cette carte ne peut pas être annulée. Lorsqu'elle Invoquée par Synchronisation, les cartes et les effets ne peuvent pas être activés. Si cette carte attaque, jusqu'à la fin de la Damage Step, elle n'est pas affectée par d'autres effets de carte.",
+  "level": 11,
+  "atk": 3200,
+  "def": 2800,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6971,
+  "type": "monster",
+  "name": "Weiser des Schweigens",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte ein Monster deines Gegners durch Kampf zerstört, kann dein Gegner während des nächsten Spielzugs keine Zauberkarten aktivieren.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9079,
+  "type": "monster",
+  "name": "Spiegelnder Marienkäfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du mindestens 1 offenes Monster kontrollierst und keine Monster in deinem Friedhof hast, kannst du diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn diese Karte auf diese Weise als Spezialbeschwörung beschworen wird, wird ihre Stufe gleich der Summe der Stufen aller anderen Monster, die du kontrollierst. Falls die Stufe diese Karte höher als 12 ist, zerstöre diese Karte.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

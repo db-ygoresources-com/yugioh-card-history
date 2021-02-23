@@ -1,0 +1,16 @@
+{
+  "id": 5587,
+  "type": "monster",
+  "name": "Adjoint Gobelin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, durant votre Main Phase, si vous contrôlez ce monstre sur le Terrain, vous pouvez équiper cette carte à votre \"Orc Gigantesque\" comme une Carte Magie d'Équipement, OU libérer cet équipement Union et faire l'Invocation Spéciale de cette carte en Position d'Attaque face recto. Uniquement lorsque cette carte est équipée par l'effet de cette carte, vous pouvez changer la position de combat du monstre équipé une fois par tour. (1 monstre ne peut être équipé que par 1 monstre Union à la fois. Si le monstre que cette carte équipe est détruit à l'issue d'un combat, détruisez cette carte à la place.)",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Démon",
+    "Union",
+    "Effet"
+  ]
+}

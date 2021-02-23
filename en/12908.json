@@ -1,0 +1,18 @@
+{
+  "id": 12908,
+  "type": "monster",
+  "name": "Double Iris Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "(This card is always treated as a \"Pendulum Dragon\" card.)\nIf this card is destroyed by battle or card effect: You can add 1 \"Pendulumgraph\" card from your Deck to your hand.",
+  "pendEffect": "Once per turn: You can target 1 DARK Spellcaster-Type monster you control; apply this effect to it, then destroy this card. Once applied, double any battle damage that monster inflicts to your opponent this turn if it battles an opponent's monster.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

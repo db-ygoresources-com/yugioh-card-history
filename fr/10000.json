@@ -1,0 +1,16 @@
+{
+  "id": 10000,
+  "type": "monster",
+  "name": "Séraphinite, Chevalier-Gemmes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Chevalier-Gemmes\" + 1 monstre LUMIÈRE\nDoit d'abord être Invoquée par Fusion avec les Matériels Fusion ci-dessus. Durant votre Main Phase, vous pouvez Invoquer/Poser Normalement 1 monstre en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.)",
+  "level": 5,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Effet"
+  ]
+}

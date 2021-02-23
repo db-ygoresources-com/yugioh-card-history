@@ -1,0 +1,17 @@
+{
+  "id": 12450,
+  "type": "monster",
+  "name": "Dragon Corail",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nUne fois par tour : vous pouvez défausser 1 carte, puis ciblez 1 carte contrôlée par votre adversaire ; détruisez-la. Si cette carte Invoquée par Synchronisation est envoyée depuis le Terrain au Cimetière : vous pouvez piocher 1 carte. Vous ne pouvez utiliser cet effet de \"Dragon Corail\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2400,
+  "def": 500,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

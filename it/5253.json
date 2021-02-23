@@ -1,0 +1,15 @@
+{
+  "id": 5253,
+  "type": "monster",
+  "name": "Spirito Aqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) bandendo 1 mostro ACQUA dal tuo Cimitero. Una volta per turno, durante la Standby Phase del tuo avversario: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; cambia la posizione di quel bersaglio e, se lo fai, esso non può cambiare la sua posizione per il resto di questo turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

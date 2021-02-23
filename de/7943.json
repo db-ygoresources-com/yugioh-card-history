@@ -1,0 +1,15 @@
+{
+  "id": 7943,
+  "type": "monster",
+  "name": "Flipp-Flopp-Frosch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug kannst du diese Karte in die verdeckte Verteidigungsposition ändern. Wenn diese Karte aufgedeckt wird, kannst du bis zu so viele Monster, die dein Gegner kontrolliert, auf die Hände ihrer Besitzer zurückbringen, wie du offene „Frosch“-Monster kontrollierst, außer „Schleimfrosch“.",
+  "level": 2,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12372,
+  "type": "monster",
+  "name": "Künstlerkumpel König Bär",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht durch Zauber-/Falleneffekte zerstört werden, solange sie sich in offener Angriffsposition befindet. Diese Karte erhält nur während deiner Battle Phase 100 ATK für jede „Künstlerkumpel“-Karte, die du kontrollierst.",
+  "pendEffect": "Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst diese Karte zerstören und falls du dies tust, füge deiner Hand 1 Monster der Stufe 7 oder höher hinzu, das sich entweder in deinem Friedhof oder offen in deinem Extra Deck befindet.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

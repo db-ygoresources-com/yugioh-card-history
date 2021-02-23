@@ -1,0 +1,16 @@
+{
+  "id": 15180,
+  "type": "monster",
+  "name": "VoiTurbo Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si vous contrôlez un monstre VENT : vous pouvez Invoquer Spécialement cette carte depuis votre main, et aussi, vous ne pouvez pas activer d'effets de monstre (monstres VENT exclus) le reste de ce tour. Vous pouvez bannir cette carte et 1 monstre \"Vitesseroid\" depuis votre Cimetière ; jusqu'à la fin de ce tour, tous les monstres VENT que vous contrôlez actuellement gagnent 800 ATK. Vous ne pouvez utiliser chaque effet de \"VoiTurbo Vitesseroid\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

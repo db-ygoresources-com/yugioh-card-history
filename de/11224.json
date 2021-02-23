@@ -1,0 +1,15 @@
+{
+  "id": 11224,
+  "type": "monster",
+  "name": "Sonata die musikalische Diva",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du ein „Musikalisch“-Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Solange diese als Spezialbeschwörung beschworene Karte auf dem Spielfeld liegt, erhalten alle Monster vom Typ Fee, die du kontrollierst, 500 ATK und DEF.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

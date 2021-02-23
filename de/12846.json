@@ -1,0 +1,16 @@
+{
+  "id": 12846,
+  "type": "monster",
+  "name": "Beschworener Cocytus",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "„Aleister der Beschwörer“ + 1 WASSER Monster\nKann nicht durch Karteneffekte deines Gegners zerstört werden. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Diese Karte kann angreifen, solange sie in offener Verteidigungsposition liegt. Falls sie dies tut, verwende ihre ATK für die Schadensberechnung.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2900,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

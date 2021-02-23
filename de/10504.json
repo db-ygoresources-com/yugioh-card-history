@@ -1,0 +1,15 @@
+{
+  "id": 10504,
+  "type": "monster",
+  "name": "Mecha-Phantomungeheuer Schwarzfalke",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte einen Angriff deklariert: Beschwöre 1 „Mecha-Phantomungeheuer-Spielmarke“ (Typ Maschine/WIND/Stufe 3/ATK 0/DEF 0) als Spezialbeschwörung. Die Stufe dieser Karte wird um die gemeinsame Stufe aller „Mecha-Phantomungeheuer-Spielmarken“ erhöht, die du kontrollierst. Solange du eine Spielmarke kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 Spielmarke als Tribut anbieten und dann 1 Monster wählen, das dein Gegner kontrolliert; ändere das gewählte Ziel in die offene Verteidigungsposition.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1700,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

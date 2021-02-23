@@ -1,0 +1,16 @@
+{
+  "id": 14260,
+  "type": "monster",
+  "name": "Reflector Psíquico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Activar Modo de Ataque\", o 1 carta en tu Deck que liste específicamente a \"Activar Modo de Ataque\" en su texto, excepto \"Reflector Psíquico\". Puedes mostrar 1 \"Activar Modo de Ataque\" en tu mano, y después selecciona 1 monstruo en tu Cementerio que liste específicamente a \"Activar Modo de Ataque\" en su texto, excepto \"Reflector Psíquico\"; Invócalo de Modo Especial y, si lo haces, aumenta su Nivel de 1 a 4. Sólo puedes usar cada efecto de \"Reflector Psíquico\" una vez por turno.",
+  "level": 1,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Psíquico",
+    "Cantante",
+    "Efecto"
+  ]
+}

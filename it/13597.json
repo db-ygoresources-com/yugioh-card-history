@@ -1,0 +1,18 @@
+{
+  "id": 13597,
+  "type": "monster",
+  "name": "Cavaliere dell'Incubo Sirena",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "1 mostro \"Cavaliere dell'Incubo\", eccetto \"Cavaliere dell'Incubo Sirena\"\nSe questa carta viene Evocata Link: puoi scartare 1 carta; Evoca Specialmente 1 mostro \"Cavaliere dell'Incubo\" dal tuo Deck, poi, se questa carta era co-linkata quando questo effetto è stato attivato, puoi pescare 1 carta. Puoi utilizzare questo effetto di \"Cavaliere dell'Incubo Sirena\" una sola volta per turno. I mostri sul Terreno perdono 1000 ATK/DEF, a meno che siano co-linkati.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Demone",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14218,
+  "type": "monster",
+  "name": "Signal Warrior",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, during the Standby Phase: Place 1 Signal Counter on each face-up card in the Field Zone, also place 1 on this card. This card with a Signal Counter(s) cannot be destroyed by battle or your opponent's card effects. Once per turn: You can remove 4, 7, or 10 Signal Counters from anywhere on the field; apply this effect, depending on the number removed.\n●4: Inflict 800 damage to your opponent.\n●7: Draw 1 card.\n●10: Destroy 1 card on the field.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Warrior",
+    "Synchro",
+    "Effect"
+  ]
+}

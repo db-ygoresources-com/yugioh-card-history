@@ -1,0 +1,15 @@
+{
+  "id": 13834,
+  "type": "monster",
+  "name": "Dragon d'Hibernation",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre Dragon de max. Niveau 4 dans votre Cimetière ; ajoutez-le à votre main. Tant que vous ne contrôlez aucun Monstre Lien, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Lien TÉNÈBRES Dragon dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Dragon d'Hibernation\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 600,
+  "def": 1500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

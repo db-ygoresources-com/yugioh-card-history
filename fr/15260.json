@@ -1,0 +1,15 @@
+{
+  "id": 15260,
+  "type": "monster",
+  "name": "Réservengeur Méchabot",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre \"Méchabot\" que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 1200 ATK. Lorsque votre monstre \"Méchabot\" détruit un monstre de l'adversaire au combat, tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Réservengeur Méchabot\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

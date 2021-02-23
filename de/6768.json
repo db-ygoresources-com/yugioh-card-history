@@ -1,0 +1,15 @@
+{
+  "id": 6768,
+  "type": "monster",
+  "name": "Neo-Weltraum Aqua Dolphin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Karte abwerfen; sieh dir die Hand deines Gegners an und bestimme 1 Monster. Falls du ein Monster kontrollierst, dessen ATK größer oder gleich den ATK der bestimmten Karte sind, zerstöre die bestimmte Karte und falls du dies tust, füge deinem Gegner 500 Schaden zu. Andernfalls erhältst du 500 Schaden.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

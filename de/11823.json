@@ -1,0 +1,16 @@
+{
+  "id": 11823,
+  "type": "monster",
+  "name": "Infernoid Dekatron",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Infernoid“-Monster von deinem Deck auf den Friedhof legen, außer „Infernoid Dekatron“, und falls du dies tust, erhöhe die Stufe dieser Karte um die Stufe des auf den Friedhof gelegten Monsters und falls du dies tust, wird der Name dieser Karte derselbe wie der des Monsters und ersetze diesen Effekt durch die Grundeffekte des Monsters.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11616,
+  "type": "monster",
+  "name": "D/D/D-Vergessenskönig Abyss Ragnarok",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „D/D/D“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „D/D/D-Vergessenskönig Abyss Ragnarok“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 anderes „D/D“-Monster als Tribut anbieten und dann 1 Monster wählen, das dein Gegner kontrolliert; verbanne es.",
+  "pendEffect": "Falls du ein oder mehr „D/D“-Monster als Spezialbeschwörung beschwörst, außer während des Damage Steps: Du kannst 1 „D/D“-Monster in deinem Friedhof wählen; Kampfschaden, den dein Gegner erhält, wird für den Rest dieses Spielzugs halbiert, zusätzlich beschwöre das Monster als Spezialbeschwörung und falls du dies tust, erhältst du 1000 Schaden. Du kannst diesen Effekt von „D/D/D-Vergessenskönig Abyss Ragnarok“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2200,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

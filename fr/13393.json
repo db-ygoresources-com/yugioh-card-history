@@ -1,0 +1,18 @@
+{
+  "id": 13393,
+  "type": "monster",
+  "name": "Garuda, Bête Mythique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Lorsque votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez retirer 3 Compteurs Magie depuis votre Terrain ; Invoquez Spécialement cette carte depuis votre main, puis renvoyez ces monstres Invoqués de l'adversaire à la main. Vous ne pouvez utiliser cet effet de \"Garuda, Bête Mythique\" qu'une fois par tour.",
+  "pendEffect": "Si vous n'avez aucune carte dans votre autre Zone Pendule : vous pouvez cibler 1 autre Magie/Piège sur le Terrain ; détruisez-le ainsi que cette carte. Vous ne pouvez utiliser cet effet de \"Garuda, Bête Mythique\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

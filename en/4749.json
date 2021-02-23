@@ -1,0 +1,15 @@
+{
+  "id": 4749,
+  "type": "monster",
+  "name": "Barrel Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

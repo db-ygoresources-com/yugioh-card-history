@@ -1,0 +1,16 @@
+{
+  "id": 9195,
+  "type": "monster",
+  "name": "Volcanon la Bête d'Ignition",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre de Type Machine + 1 monstre de Type Pyro\nLorsque cette carte est Invoquée par Fusion : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez la cible, et aussi, détruisez cette carte, puis si les deux monstres ont été détruits, infligez des dommages à votre adversaire égaux à l'ATK du monstre de votre adversaire dans le Cimetière qui avait été ciblé par cet effet.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

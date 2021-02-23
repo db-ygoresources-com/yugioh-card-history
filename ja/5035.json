@@ -1,0 +1,17 @@
+{
+  "id": 5035,
+  "type": "monster",
+  "name": "X・E・N・O",
+  "nameRuby": "ゼノ",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "リバース：相手フィールド上に存在するモンスター１体を選択し、エンドフェイズ時までコントロールを得る。この効果でコントロールを得たモンスターは、このターン相手プレイヤーに直接攻撃する事ができる。",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "悪魔族",
+    "リバース",
+    "効果"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10215,
+  "type": "monster",
+  "name": "Hipocampo del Trueno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes descartar esta carta; añade a tu mano, desde tu Deck, 2 monstruos de LUZ de Tipo Trueno de Nivel 4 con 1600 ATK o menos que tengan el mismo nombre. Sólo puedes usar el efecto de \"Hipocampo del Trueno\" una vez por turno. No puedes realizar Invocaciones Especiales durante el turno en el que activas este efecto.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

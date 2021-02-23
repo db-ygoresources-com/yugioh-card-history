@@ -1,0 +1,15 @@
+{
+  "id": 8619,
+  "type": "monster",
+  "name": "Anneau Magique de Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez sélectionner 1 monstre face recto que vous contrôlez. Son ATK est divisée par deux jusqu'à la End Phase, et il peut attaquer votre adversaire directement ce tour. Durant le tour où vous activez cet effet, seul le monstre sélectionné peut attaquer.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 14123,
+  "type": "monster",
+  "name": "Détonateur Destructeur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres Cyberse\nUne fois par tour, au début de la Damage Step, lorsque cette carte combat un monstre face recto (Monstres Lien de min. Link-3 exclus) : vous pouvez détruire le monstre. Une fois par tour : vous pouvez Sacrifier 1 monstre pointé par cette carte, puis ciblez 1 monstre contrôlé par votre adversaire ; détruisez-le.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "1"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

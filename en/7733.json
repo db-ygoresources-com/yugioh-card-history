@@ -1,0 +1,16 @@
+{
+  "id": 7733,
+  "type": "monster",
+  "name": "Nitro Warrior",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "\"Nitro Synchron\" + 1 or more non-Tuner monsters\nOnce during each of your turns, if you activate a Spell Card, this card gains 1000 ATK during the next attack this turn involving this card, during damage calculation only. If this attacking card destroys an opponent's monster by battle, after damage calculation: You can target 1 face-up Defense Position monster your opponent controls; change that target to Attack Position, then this card can make a second attack in a row, on that monster.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Warrior",
+    "Synchro",
+    "Effect"
+  ]
+}

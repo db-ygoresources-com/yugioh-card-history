@@ -1,0 +1,15 @@
+{
+  "id": 14454,
+  "type": "monster",
+  "name": "Dinoluchador Ankylo Marcial",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Durante el cálculo de daño, si otro monstruo \"Dinoluchador\" que controlas batalla con un monstruo del adversario (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano o Campo; ese monstruo que controlas no puede ser destruido en esa batalla, y además el ATK del monstruo batallante de tu adversario se divide a la mitad al final del Damage Step. Durante la End Phase, si esta carta está en el Cementerio porque fue mandada allí desde el Campo este turno: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de \"Dinoluchador Ankylo Marcial\" una vez por turno.",
+  "level": 2,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

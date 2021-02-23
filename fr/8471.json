@@ -1,0 +1,15 @@
+{
+  "id": 8471,
+  "type": "monster",
+  "name": "Camélégant",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque vous contrôlez cette carte en Position d'Attaque face recto, votre adversaire ne peut sélectionner un autre monstre que \"Camélégant\" en tant que cible d'attaque. Lorsque cette carte est détruite au combat et envoyée au Cimetière, vous pouvez ajouter 1 monstre de Type Reptile avec 500 points d'ATK ou moins depuis votre Deck à votre main.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

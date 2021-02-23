@@ -1,0 +1,15 @@
+{
+  "id": 11048,
+  "type": "monster",
+  "name": "Snapdrassinagon Sylvan",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est envoyée depuis le Terrain ou la main au Cimetière : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessous de votre Deck. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessous de votre Deck.",
+  "level": 1,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

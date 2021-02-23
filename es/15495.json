@@ -1,0 +1,15 @@
+{
+  "id": 15495,
+  "type": "monster",
+  "name": "Conjurador Inférnico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras no tengas cartas en tu mano, los monstruos que controla tu adversario pierden 800 ATK. Mientras no tengas cartas en tu mano y esta carta esté en tu Cementerio: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de \"Conjurador Inférnico\" una vez por turno.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

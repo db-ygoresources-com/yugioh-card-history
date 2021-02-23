@@ -1,0 +1,15 @@
+{
+  "id": 5205,
+  "type": "monster",
+  "name": "Hysterischer Elf",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Biete 2 Monster auf deiner Spielfeldseite als Tribut an, um deine Life Points um 1000 Punkte zu erhöhen.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

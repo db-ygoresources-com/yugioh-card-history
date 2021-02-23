@@ -1,0 +1,15 @@
+{
+  "id": 7143,
+  "type": "monster",
+  "name": "Lion Botanique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte gagne 300 ATK pour chaque monstre de Type Plante que vous contrôlez. Le contrôle de cette carte face recto sur le Terrain ne peut pas être échangé.",
+  "level": 4,
+  "atk": 1600,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

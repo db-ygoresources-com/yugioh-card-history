@@ -1,0 +1,18 @@
+{
+  "id": 12907,
+  "type": "monster",
+  "name": "Stregone Cronografo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se una o più carte che controlli vengono distrutte in battaglia o dall'effetto di una carta: puoi Evocare Specialmente questa carta dalla tua mano, poi puoi Evocare Specialmente 1 mostro dalla tua mano. Puoi bandire questa carta che controlli, più 4 mostri dalla tua mano, Terreno e/o Cimitero (1 ciascuno con \"Drago Pendulum\", \"Drago Xyz\", \"Drago Synchro\" e \"Drago Fusione\" nei loro nomi); Evoca Specialmente 1 \"Re Supremo Z-ARC\" dal tuo Extra Deck. (Questa viene considerata come un'Evocazione tramite Fusione.)",
+  "pendEffect": "Durante la tua Main Phase: puoi distruggere questa carta e, se lo fai, prendi 1 \"Mago Miratempo\" dalla tua mano o Deck e mettilo nella tua Zona Pendulum oppure Evocalo Specialmente. Puoi utilizzare questo effetto di \"Stregone Cronografo\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

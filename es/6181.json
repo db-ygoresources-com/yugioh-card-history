@@ -1,0 +1,16 @@
+{
+  "id": 6181,
+  "type": "monster",
+  "name": "Plataforma de Apoyo de Mechs Pesados",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, puedes: seleccionar 1 monstruo Máquina que controles; equipa esta carta a ese objetivo, O: desequipar esta carta e Invocarla de Modo Especial. Un monstruo equipado con esta carta gana 500 ATK/DEF y además, si el monstruo equipado fuera a ser destruido en batalla o por el efecto de una carta, destruye esta carta en su lugar.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Unión",
+    "Efecto"
+  ]
+}

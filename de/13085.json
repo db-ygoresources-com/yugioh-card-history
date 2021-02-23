@@ -1,0 +1,21 @@
+{
+  "id": 13085,
+  "type": "monster",
+  "name": "Topologik-Bomberdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Effektmonster\nFalls ein anderes Monster als Spezialbeschwörung in eine Zone, auf die ein Linkmonster zeigt, beschworen wird, solange sich dieses Monster auf dem Spielfeld befindet: Zerstöre alle Monster in den Main-Monsterzonen, zusätzlich können deine anderen Monster für den Rest dieses Spielzugs nicht angreifen. Nach der Schadensberechnung, falls diese Karte ein Monster eines Gegners angegriffen hat: Füge deinem Gegner Schaden in Höhe der Grund-ATK des Monsters zu.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

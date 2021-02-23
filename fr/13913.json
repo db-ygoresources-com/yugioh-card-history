@@ -1,0 +1,15 @@
+{
+  "id": 13913,
+  "type": "monster",
+  "name": "Huldre Mystruc",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez défausser 1 carte ; appliquez l'effet suivant, selon le type de carte défaussée.\n●Monstre : Ajoutez 1 Piège depuis votre Cimetière à votre main.\n●Magie : Ajoutez 1 monstre depuis votre Cimetière à votre main.\n●Piège : Ajoutez 1 Magie depuis votre Cimetière à votre main.\nVous ne pouvez utiliser cet effet de \"Huldre Mystruc\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1500,
+  "def": 2400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

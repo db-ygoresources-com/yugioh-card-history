@@ -1,0 +1,15 @@
+{
+  "id": 15236,
+  "type": "monster",
+  "name": "Malédiction du Dragon, le Dragon Maudit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège depuis votre Deck à votre main, qui liste spécifiquement la carte \"Gaïa le Dragon Champion\" dans son texte. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 \"Gaïa le Dragon Champion\" dans votre Zone Monstre ; jusqu'à la fin de ce tour, annulez les effets des monstres face recto actuellement contrôlés par votre adversaire avec une ATK inférieure ou égale à celui-ci. Vous ne pouvez utiliser chaque effet de \"Malédiction du Dragon, le Dragon Maudit\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

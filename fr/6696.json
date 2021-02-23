@@ -1,0 +1,15 @@
+{
+  "id": 6696,
+  "type": "monster",
+  "name": "Voltanis, le Juge",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Après avoir activé et résolu 1 de vos Cartes Contre-Piège, en sacrifiant tous les monstres sur votre Terrain, vous pouvez faire l'Invocation Spéciale de cette carte. Si cette carte est Invoquée par Invocation Spéciale de cette manière, vous pouvez détruire des cartes sur le Terrain de votre adversaire jusqu'au nombre de monstres de Type Elfe que vous avez sacrifiés.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1400,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

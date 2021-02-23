@@ -1,0 +1,15 @@
+{
+  "id": 12198,
+  "type": "monster",
+  "name": "Les Chevaliers Fantômes de l'Ancienne Cape",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est en Position d'Attaque : vous pouvez cibler 1 monstre TÉNÈBRES sur le Terrain ; changez cette carte en Position de Défense, et si vous le faites, le monstre gagne 800 ATK/DEF jusqu'à la fin du tour de votre adversaire. Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 carte \"Les Chevaliers Fantômes\" (\"Les Chevaliers Fantômes de l'Ancienne Cape\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Les Chevaliers Fantômes de l'Ancienne Cape\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

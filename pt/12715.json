@@ -1,0 +1,18 @@
+{
+  "id": 12715,
+  "type": "monster",
+  "name": "Ator do Abismo - Atriz Principal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, quando o dano de batalha for causado: você pode escolher 1 monstro com a face para cima que seu oponente controla; ele perde ATK igual a esse dano de batalha. Quando este card for destruído em batalha, ou se este card na Zona de Monstros do seu dono for destruído por um efeito de card do oponente: você pode Baixar 1 Magia \"Script do Abismo\" diretamente do seu Deck.",
+  "pendEffect": "Uma vez por turno, quando você sofrer dano de batalha de um monstro atacante do oponente: você pode ativar 1 desses efeitos;\n●Esse monstro do oponente perde ATK igual ao dano que você sofreu (mesmo que este card deixe o campo).\n●Adicione 1 Monstro Pêndulo \"Ator do Abismo\" com a face para cima do seu Deck Adicional à sua mão com ATK menor ou igual ao dano que você sofreu.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

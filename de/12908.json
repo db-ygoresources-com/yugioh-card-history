@@ -1,0 +1,18 @@
+{
+  "id": 12908,
+  "type": "monster",
+  "name": "Doppeliris-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Pendeldrache“-Karte behandelt.)\nFalls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst deiner Hand 1 „Pendelgraf“-Karte von deinem Deck hinzufügen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 FINSTERNIS Monster vom Typ Hexer wählen, das du kontrollierst; wende diesen Effekt darauf an, dann zerstöre diese Karte. Verdopple nach Anwendung dieses Effekts den Kampfschaden, den das Monster in diesem Spielzug deinem Gegner zufügt, falls es gegen ein Monster deines Gegners kämpft.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

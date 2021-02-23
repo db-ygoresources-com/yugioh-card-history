@@ -1,0 +1,15 @@
+{
+  "id": 13480,
+  "type": "monster",
+  "name": "Marco de Mecanismo Antiguo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes descartar 1 carta; añade a tu mano, desde tu Deck, 1 \"Golem de Mecanismo Antiguo\", o 1 Mágica/Trampa que liste específicamente la carta \"Golem de Mecanismo Antiguo\" en su texto. Sólo puedes usar este efecto de \"Marco de Mecanismo Antiguo\" una vez por turno. Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa. Si esta carta boca arriba controlada por su propietario deja el Campo por el efecto de una carta del adversario: puedes Invocar de Modo Especial, desde tu mano, hasta 3 \"Golem de Mecanismo Antiguo\" y/o \"Golem de Mecanismo Antiguo - Golpe Definitivo\", ignorado sus condiciones de Invocación.",
+  "level": 4,
+  "atk": 1600,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

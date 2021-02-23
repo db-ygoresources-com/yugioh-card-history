@@ -1,0 +1,18 @@
+{
+  "id": 12147,
+  "type": "monster",
+  "name": "Robobureau 007",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte gagne 500 ATK pour chaque carte \"Robobureau\" dans votre Cimetière. Les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres \"Robobureau\" face recto (celui-ci exclu) avec une attaque. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Robobureau\" exclus). Cet effet ne peut pas être annulé.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

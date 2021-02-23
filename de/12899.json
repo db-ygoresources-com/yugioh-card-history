@@ -1,0 +1,15 @@
+{
+  "id": 12899,
+  "type": "monster",
+  "name": "Diabound Kernel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte einen Angriff deklariert: Sie erhält 600 ATK. (Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; es verliert bis zum Ende dieses Spielzugs ATK in Höhe der derzeitigen ATK dieser Karte, dann verbanne diese Karte bis zur Standby Phase des nächsten Spielzugs. Du kannst diesen Effekt von „Diabound Kernel“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

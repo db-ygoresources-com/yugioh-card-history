@@ -1,0 +1,16 @@
+{
+  "id": 9103,
+  "type": "monster",
+  "name": "Wattkiwi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "\"Watt\" monsters you control cannot be destroyed by battle while they are attacking.",
+  "level": 3,
+  "atk": 600,
+  "def": 100,
+  "properties": [
+    "Thunder",
+    "Tuner",
+    "Effect"
+  ]
+}

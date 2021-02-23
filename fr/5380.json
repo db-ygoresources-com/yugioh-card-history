@@ -1,0 +1,16 @@
+{
+  "id": 5380,
+  "type": "monster",
+  "name": "Hino-Kagu-Tsuchi",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Cette carte ne peut pas être Invoquée Spécialement. Cette carte revient dans la main de son propriétaire durant la End Phase du tour où elle a été Invoquée Normalement ou retournée face recto. Si cette carte inflige des dommages de combat aux Life Points de votre adversaire, celui-ci se défausse de toutes les cartes de sa main durant sa prochaine Draw Phase, avant de piocher.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2900,
+  "properties": [
+    "Pyro",
+    "Spirit",
+    "Effet"
+  ]
+}

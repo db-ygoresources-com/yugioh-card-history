@@ -1,0 +1,15 @@
+{
+  "id": 8321,
+  "type": "monster",
+  "name": "Guerrière Génétique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, vous pouvez payer 1000 Life Points et sélectionner 1 de vos monstres de Type Psychique retiré du jeu. Ajoutez-le à votre main.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1200,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9088,
+  "type": "monster",
+  "name": "Extraverschleierer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört, außer während des Damage Steps: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhält stattdessen dein Gegner den Effektschaden, den du in diesem Spielzug von seinen Karteneffekten erhalten hättest.",
+  "level": 2,
+  "atk": 600,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

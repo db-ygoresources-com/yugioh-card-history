@@ -1,0 +1,15 @@
+{
+  "id": 5832,
+  "type": "monster",
+  "name": "Silpheed",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Dieses Monster kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 1 WIND Monster in deinem Friedhof aus dem Spiel entfernst. Wenn diese Karte als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, muss dein Gegner 1 zufällige Karte von seiner Hand abwerfen.",
+  "level": 4,
+  "atk": 1700,
+  "def": 700,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

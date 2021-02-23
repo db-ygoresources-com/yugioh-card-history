@@ -1,0 +1,16 @@
+{
+  "id": 8651,
+  "type": "monster",
+  "name": "Majestätischer roter Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Majestätischer Drache“ + „Rotdrachen-Erzunterweltler“ + 1 Nicht-Empfänger-Monster\nKann nicht durch Karteneffekte zerstört werden. Nach der Schadensberechnung, falls diese Karte angreift: Zerstöre alle Monster in Verteidigungsposition auf dem Spielfeld. Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; annulliere seine Effekte und falls du dies tust, erhält diese Karte ATK in Höhe der ATK des Monsters. Diese Änderungen dauern bis zum Ende dieses Spielzugs an. Während der End Phase: Wähle 1 „Rotdrachen-Erzunterweltler“ in deinem Friedhof; lege diese Karte vom Spielfeld ins Extra Deck zurück, dann beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 10,
+  "atk": 4000,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8000,
+  "type": "monster",
+  "name": "Reactor de Trampas ・ÍG",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, cuando tu adversario activa una Carta de Trampa, puedes destruir esa Carta de Trampa e infligir 800 puntos de daño a tu adversario.",
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

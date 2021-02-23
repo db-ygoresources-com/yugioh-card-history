@@ -1,0 +1,15 @@
+{
+  "id": 13709,
+  "type": "monster",
+  "name": "F.A. Coche Trucado Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) teniendo un monstruo \"F.A.\" de Nivel 7 o mayor en el Campo, pero ningún \"F.A. Coche Trucado Oscuro\" en tu Zona de Monstruos. Gana ATK igual a su Nivel x 300. Cada vez que es activada una Carta Mágica/de Trampa \"F.A.\" o un efecto de Carta Mágica/de Trampa \"F.A.\": puedes aumentar el Nivel de esta carta en 1. Una vez por turno: puedes seleccionar 1 carta en el Campo; reduce en 3 el Nivel de esta carta y, si lo haces, destruye ese objetivo.",
+  "level": 7,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

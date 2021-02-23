@@ -1,0 +1,18 @@
+{
+  "id": 12299,
+  "type": "monster",
+  "name": "Jalousie Amorphage",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée par Pendulation ou retournée face recto, aucun joueur ne peut Invoquer Spécialement de monstres (monstres \"Amorphage\" exclus) depuis l'Extra Deck tant que cette carte est face recto sur le Terrain.",
+  "pendEffect": "Tant que vous contrôlez un monstre \"Amorphage\", aucun joueur ne peut ni activer de cartes ni d'effets en min. Chaîne 2. Une fois par tour, durant votre Standby Phase, Sacrifiez 1 monstre ou détruisez cette carte.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 0,
+  "def": 2050,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11517,
+  "type": "monster",
+  "name": "Dragón Kabuki",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, antes del cálculo de daño, si tu monstruo atacó a un monstruo de tu adversario: puedes cambiar la posición de batalla de ese monstruo que controla tu adversario. Una vez por turno, antes del cálculo de daño, si un monstruo de tu adversario atacó a tu monstruo: puedes cambiar la posición de batalla de ese monstruo que controlas.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

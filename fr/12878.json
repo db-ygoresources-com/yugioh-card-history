@@ -1,0 +1,15 @@
+{
+  "id": 12878,
+  "type": "monster",
+  "name": "Solidité ESPIRALE",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Le nom de cette carte devient \"Super Espion ESPIRALE\" tant qu'elle est sur le Terrain ou dans le Cimetière. Une fois par tour : vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) et cibler 1 carte contrôlée par votre adversaire ; révélez la carte du dessus du Deck de votre adversaire, et si vous le faites, détruisez la carte ciblée si la carte révélée est du type déclaré.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

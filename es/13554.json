@@ -1,0 +1,20 @@
+{
+  "id": 13554,
+  "type": "monster",
+  "name": "Hechicera de Invocación",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ monstruos del mismo Tipo, excepto Fichas\nSi esta carta es Invocada por Enlace: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo en Posición de Defensa, a la zona de tu adversario a la que apunte esta carta. Puedes seleccionar 1 monstruo boca arriba al que apunte esta carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo en Posición de Defensa, con el mismo Tipo que ese monstruo, a una zona a la que apunte esta carta, pero niega sus efectos. Sólo puedes usar este efecto de \"Hechicera de Invocación\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Enlace",
+    "Efecto"
+  ]
+}

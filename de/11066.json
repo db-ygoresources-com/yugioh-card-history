@@ -1,0 +1,15 @@
+{
+  "id": 11066,
+  "type": "monster",
+  "name": "Neinpinguin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn ein Effekt eines „Pinguin“-Monsters aktiviert wird: Beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof. Du kannst diesen Effekt von „Neinpinguin“ nur einmal pro Spielzug verwenden. Falls eine Karte durch den Effekt einer „Pinguin“-Karte vom Spielfeld auf die Hand zurückgegeben würde, verbanne sie stattdessen.",
+  "level": 3,
+  "atk": 1600,
+  "def": 100,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

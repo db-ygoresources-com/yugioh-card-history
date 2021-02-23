@@ -1,0 +1,15 @@
+{
+  "id": 5720,
+  "type": "monster",
+  "name": "Mil Agujas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta en Posición de Defensa es atacada y el ATK del monstruo atacante es menor que la DEF de esta carta, destruye el monstruo atacante después del cálculo de daño.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11219,
+  "type": "monster",
+  "name": "Artistamigo Sapo Traidor",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno, durante tu Battle Phase (excepto durante el Damage Step): puedes seleccionar 1 monstruo que controles; cambia su posición de batalla y, si lo haces, hasta el final de este turno intercambia su ATK y DEF en este momento.",
+  "pendEffect": "Una vez por turno: puede seleccionar 1 monstruo boca arriba en el Campo; hasta el final de este turno intercambia su ATK y DEF en este momento.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Aqua",
+    "Péndulo",
+    "Efecto"
+  ]
+}

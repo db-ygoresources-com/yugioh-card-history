@@ -1,0 +1,19 @@
+{
+  "id": 14947,
+  "type": "monster",
+  "name": "Assaut de l'Air - As - Zeke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres (un monstre \"Assaut de l'Air - As\" inclus)\nUniquement Invocable par Lien. Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Assaut de l'Air - As - Zeke\" qu'une fois par tour. Si cette carte est Invoquée par Lien : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la prochaine End Phase de votre adversaire, bannissez-le. Une fois par tour : vous pouvez cibler 1 autre carte que vous contrôlez ; cette carte gagne 1000 ATK, puis, envoyez la carte ciblée au Cimetière.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11871,
+  "type": "monster",
+  "name": "Dragodies, el Guerrero Fortalecido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta en la Zona de Monstruos de su dueño es destruida por un ataque o efecto de carta de tu adversario: puedes añadir a tu mano 1 monstruo de Tipo Guerrero o Lanzador de Conjuros con 2000 ATK o menos en tu Deck, excepto \"Dragodies, el Guerrero Fortalecido\", durante la End Phase de este turno.",
+  "pendEffect": "Al comienzo del Damage Step, si un monstruo que controlas batalla con un monstruo boca arriba de tu adversario: puedes descartar 1 carta; el ATK y la DEF del monstruo batallante de tu adversario se convierten en la mitad de su ATK y DEF en este momento (aún si esta carta deja el Campo).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Efecto"
+  ]
+}

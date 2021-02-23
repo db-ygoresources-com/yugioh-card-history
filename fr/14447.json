@@ -1,0 +1,15 @@
+{
+  "id": 14447,
+  "type": "monster",
+  "name": "Membre du Tour Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Au début de votre Battle Phase : vous pouvez placer 1 Compteur sur cette carte (max. 2). Cette carte gagne l'effet suivant, selon le nombre de Compteurs sur elle.\n●1 : Une fois par tour, lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez annuler l'attaque.\n●2 : Vous pouvez Sacrifier cette carte ; jusqu'à la 2e End Phase de votre adversaire, bannissez tous les monstres sur le Terrain.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

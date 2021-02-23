@@ -1,0 +1,16 @@
+{
+  "id": 13379,
+  "type": "monster",
+  "name": "Tinwinkel-Engel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 Flippmonster als Spezialbeschwörung von deiner Hand oder deinem Friedhof in die verdeckte Verteidigungsposition beschwören, außer „Tinwinkel-Engel“, dann, falls es die Battle Phase deines Gegners ist, beende die Battle Phase. Du kannst diesen Effekt von „Tinwinkel-Engel“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

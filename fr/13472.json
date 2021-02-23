@@ -1,0 +1,15 @@
+{
+  "id": 13472,
+  "type": "monster",
+  "name": "Araignée Explosion BM-4",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre Machine TÉNÈBRES que vous contrôlez et 1 carte face recto contrôlée par votre adversaire ; détruisez-les. Si un monstre que vous contrôlez qui était TÉNÈBRES Machine à l'origine détruit un ou plusieurs monstres de l'adversaire au combat ou par un effet de carte et les envoie au Cimetière : vous pouvez infliger des dommages à votre adversaire égaux à la moitié de l'ATK d'origine d'1 de ces monstres détruits et envoyés au Cimetière. Vous ne pouvez utiliser cet effet de \"Araignée Explosion BM-4\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1400,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

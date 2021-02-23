@@ -1,0 +1,19 @@
+{
+  "id": 13533,
+  "type": "monster",
+  "name": "Esprit Karaté Kuro-Obi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez envoyer tous les Magies/Pièges contrôlés par votre adversaire dans la même colonne que les cartes dans vos Zones Pendule au Cimetière. Une fois par tour, durant la End Phase, si cette carte a été Invoquée Normalement ou retournée face recto ce tour : renvoyez cette carte à la main.",
+  "pendEffect": "Si un ou plusieurs monstres sont Invoqués par Pendulation : renvoyez cette carte depuis la Zone Pendule à la main.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Spirit",
+    "Effet"
+  ]
+}

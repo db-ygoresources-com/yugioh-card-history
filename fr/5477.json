@@ -1,0 +1,16 @@
+{
+  "id": 5477,
+  "type": "monster",
+  "name": "Soldat Canon Toon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ne peut pas attaquer le tour où elle est Invoquée. Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Vous pouvez Sacrifier 1 monstre ; infligez 500 points de dommages à votre adversaire.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "Machine",
+    "Toon",
+    "Effet"
+  ]
+}

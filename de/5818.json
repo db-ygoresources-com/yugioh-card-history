@@ -1,0 +1,16 @@
+{
+  "id": 5818,
+  "type": "monster",
+  "name": "Sturmechse",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Wähle 1 Monster, das dein Gegner kontrolliert; gib das gewählte Ziel auf die Hand zurück.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

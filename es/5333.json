@@ -1,0 +1,15 @@
+{
+  "id": 5333,
+  "type": "monster",
+  "name": "Dragón Tirano",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante tu Battle Phase, si tu adversario controla un monstruo después del primer ataque de esta carta, esta carta puede hacer un segundo ataque. Niega cualquier efecto de Trampa que seleccione a esta carta en el Campo y, si lo haces, destruye esa Trampa. Esta carta no puede ser Invocada de Modo Especial desde el Cementerio, a menos que Sacrifiques 1 monstruo Dragón.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

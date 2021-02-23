@@ -1,0 +1,15 @@
+{
+  "id": 9908,
+  "type": "monster",
+  "name": "Lame Sombre le Capitaine du Monde Maléfique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez bannir 1 monstre TÉNÈBRES depuis votre Cimetière pour cibler 1 monstre LUMIÈRE de max. Niveau 4 contrôlé par votre adversaire ; équipez-le à cette carte. (Vous ne pouvez équiper qu'1 monstre à cette carte à la fois avec cet effet.) Si cette carte sur le Terrain va être détruite, le monstre qui lui est équipé avec cet effet est détruit à la place.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

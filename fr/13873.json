@@ -1,0 +1,15 @@
+{
+  "id": 13873,
+  "type": "monster",
+  "name": "Serpent Prohibitif",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Au début de la Damage Step, si votre Monstre Lien Cyberse combat un monstre de l'adversaire : vous pouvez envoyer cette carte depuis votre main au Cimetière ; renvoyez le monstre de l'adversaire à la main. Lorsque votre monstre Cyberse détruit un monstre de l'adversaire au combat et l'envoie au Cimetière, tant que cette carte est dans votre Cimetière : vous pouvez bannir 1 carte depuis votre Cimetière, puis ciblez 1 monstre Cyberse de max. Niveau 4 dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser chaque effet de \"Serpent Prohibitif\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

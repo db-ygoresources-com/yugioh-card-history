@@ -1,0 +1,16 @@
+{
+  "id": 15001,
+  "type": "monster",
+  "name": "Ménestrel des Profondeurs",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez défausser cette carte et 1 monstre EAU ; jusqu'à la End Phase, regardez la main de votre adversaire et bannissez face recto 1 carte depuis sa main. Si cette carte est Invoquée Spécialement : vous pouvez envoyer les 3 cartes du dessus de votre Deck au Cimetière, puis ciblez 1 monstre EAU de max. Niveau 4 (\"Ménestrel des Profondeurs\" exclu) dans votre Cimetière ; placez-le au-dessus ou au-dessous du Deck. Vous ne pouvez utiliser chaque effet de \"Ménestrel des Profondeurs\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1500,
+  "properties": [
+    "Serpent de Mer",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

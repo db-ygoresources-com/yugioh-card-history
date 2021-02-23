@@ -1,0 +1,15 @@
+{
+  "id": 7599,
+  "type": "monster",
+  "name": "Dragón del Juicio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo 4 o más monstruos \"Luminoso/a\" de nombre diferente en tu Cementerio. Puedes pagar 1000 LP; destruye todas las demás cartas en el Campo. Una vez por turno, durante tu End Phase: manda al Cementerio las 4 cartas de la parte superior de tu Deck.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

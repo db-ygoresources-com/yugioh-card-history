@@ -1,0 +1,15 @@
+{
+  "id": 7212,
+  "type": "monster",
+  "name": "Lagarto Navaja",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Mientras controles otro monstruo de Tipo Reptil, si esta carta ataca a un monstruo boca abajo en Posición de Defensa, destruye al monstruo inmediatamente por el efecto de esta carta sin voltearlo boca arriba o aplicar cálculo de daño.",
+  "level": 3,
+  "atk": 1500,
+  "def": 300,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

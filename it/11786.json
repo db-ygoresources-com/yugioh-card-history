@@ -1,0 +1,18 @@
+{
+  "id": 11786,
+  "type": "monster",
+  "name": "Risebell l'Evocatore",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Benevolo fratello maggiore, Risebell si prende cura della sua sorellina Saambell. Legge un Libro Magico con sua sorella ogni primo pomeriggio, una routine armoniosa che porta un sorriso sulle labbra di tutti.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; aumenta il suo Livello di 1 (anche se questa carta lascia il Terreno).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Psichico",
+    "Pendulum",
+    "Normale"
+  ]
+}

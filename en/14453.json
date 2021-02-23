@@ -1,0 +1,15 @@
+{
+  "id": 14453,
+  "type": "monster",
+  "name": "DMZ Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn: You can target 1 Level 4 or lower Dragon monster in your GY and 1 Dragon monster you control; equip that monster in your GY to that monster on the field as an Equip Spell that makes it gain 500 ATK. At the end of the Damage Step, if your monster equipped with an Equip Card attacked: You can banish this card from your GY; destroy as many cards as possible equipped to that monster you control, and if you do, that monster can make a second attack in a row.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effect"
+  ]
+}

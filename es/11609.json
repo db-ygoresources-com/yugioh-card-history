@@ -1,0 +1,16 @@
+{
+  "id": 11609,
+  "type": "monster",
+  "name": "Guerrero Sinfónico Sintetizaador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "VOLTEO: puedes añadir a tu mano 1 monstruo \"Guerrero Sinfónico\" en tu Deck, excepto \"Guerrero Sinfónico Sintetizaador\".\nUna vez por turno: puedes seleccionar 1 monstruo que controles o en tu Cementerio cuyo nombre original incluya \"Guerrero Sinfónico\", excepto \"Guerrero Sinfónico Sintetizaador\"; hasta la End Phase,el nombre de esta carta se convierte en el nombre original de ese monstruo, y reemplaza este efecto con los efectos originales de ese monstruo. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 de tus monstruos \"Guerrero Sinfónico\" desterrados, excepto \"Guerrero Sinfónico Sintetizaador\"; Invócalo de Modo Especial.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1900,
+  "properties": [
+    "Máquina",
+    "Volteo",
+    "Efecto"
+  ]
+}

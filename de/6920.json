@@ -1,0 +1,15 @@
+{
+  "id": 6920,
+  "type": "monster",
+  "name": "Goka, Scheiterhaufen der Bosheit",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du ein FEUER Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Wenn du dies tust: Wähle 1 FEUER Monster, das du kontrollierst; zerstöre das gewählte Ziel. Während jeder deiner Standby Phasen: Beschwöre 1 „Feuerball-Spielmarke“ (Typ Pyro/FEUER/Stufe 1/ATK 100/DEF 100) als Spezialbeschwörung in die Verteidigungsposition. Du kannst 1 anderes FEUER Monster als Tribut anbieten; diese Karte erhält bis zur End Phase 500 ATK.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1900,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

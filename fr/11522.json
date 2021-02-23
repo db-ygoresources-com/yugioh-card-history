@@ -1,0 +1,18 @@
+{
+  "id": 11522,
+  "type": "monster",
+  "name": "Partenaga Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre que vous contrôlez ; il gagne 300 ATK pour chaque monstre \"Potartiste\" que vous contrôlez actuellement. Les monstres de max. Niveau 5 ne peuvent pas attaquer.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 300 ATK pour chaque carte \"Potartiste\" que vous contrôlez actuellement.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Reptile",
+    "Pendule",
+    "Effet"
+  ]
+}

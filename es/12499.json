@@ -1,0 +1,15 @@
+{
+  "id": 12499,
+  "type": "monster",
+  "name": "Chica Maga Kiwi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Durante el turno de cualquier jugador: puedes descartar esta carta; los monstruos \"Chica Maga\" que controlas en este momento ganan 300 ATK y DEF por cada monstruo \"Chica Maga\" con nombre diferente en el Campo y en los Cementerios, hasta el final de este turno. Los monstruos de Tipo Lanzador de Conjuros que controlas no pueden ser destruidos por efectos de cartas, y tu adversario no puede seleccionarlos con efectos de cartas.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

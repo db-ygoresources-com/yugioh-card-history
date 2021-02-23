@@ -1,0 +1,15 @@
+{
+  "id": 7017,
+  "type": "monster",
+  "name": "Dragon Blizzard",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; jusqu'à la fin du prochain tour de votre adversaire, il ne peut ni changer sa position de combat ni déclarer d'attaque.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

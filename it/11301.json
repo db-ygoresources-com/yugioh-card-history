@@ -1,0 +1,18 @@
+{
+  "id": 11301,
+  "type": "monster",
+  "name": "Artistamico Grinfiargento",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando questa carta dichiara un attacco: tutti i mostri \"Artistamico\" che controlli attualmente guadagnano 300 ATK, fino alla fine della Battle Phase.",
+  "pendEffect": "Tutti i mostri \"Artistamico\" che controlli guadagnano 300 ATK.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

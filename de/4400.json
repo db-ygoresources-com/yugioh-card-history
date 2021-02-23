@@ -1,0 +1,15 @@
+{
+  "id": 4400,
+  "type": "monster",
+  "name": "Stahlskorpion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Ein Monster, das nicht vom Typ Maschine ist, und den „Stahlskorpion“ angreift, wird in der End Phase des zweiten gegnerischen Zugs nach diesem Angriff zerstört.",
+  "level": 1,
+  "atk": 250,
+  "def": 300,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

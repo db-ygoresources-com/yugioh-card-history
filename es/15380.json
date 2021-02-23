@@ -1,0 +1,16 @@
+{
+  "id": 15380,
+  "type": "monster",
+  "name": "Número 1: Puerta Númeron Ekam",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "3 monstruos de Nivel 1\nNo puede ser destruido en batalla. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: puedes desacoplar 1 material de esta carta; hasta el final de este turno, duplica el ATK de todos los monstruos \"Númeron\" que controles en este momento.",
+  "rank": 1,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Xyz",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8078,
+  "type": "monster",
+  "name": "Semilla de Llama",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando esta carta que controlas es destruida por efecto de una carta y mandada a tu Cementerio: puedes seleccionar 1 monstruo de Tipo Planta de Nivel 4 o menor, excepto \"Semilla de Llama\", en tu Cementerio; Invoca ese objetivo de Modo Especial y, si lo haces, Invoca de Modo Especial 1 \"Ficha Semilla\" (Tipo Planta/TIERRA/Nivel 1/ATK 0/DEF 0) en Posición de Defensa en el Campo de tu adversario. Esta Ficha no puede ser Sacrificada para una Invocación por Sacrificio.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

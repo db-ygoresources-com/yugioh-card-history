@@ -1,0 +1,16 @@
+{
+  "id": 9037,
+  "type": "monster",
+  "name": "Snyffus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, puoi offrire come Tributo 1 mostro di Tipo Pianta per scegliere e distruggere 1 carta scoperta controllata dal tuo avversario. Quando uno o più mostri di Tipo Pianta sul Terreno vengono distrutti fino a quando questa carta è nel Cimitero, puoi Evocare Specialmente questa carta dal Cimitero. Se lo fai, rimuovi questa carta dal gioco quando viene rimossa dal Terreno.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Tuner",
+    "Effetto"
+  ]
+}

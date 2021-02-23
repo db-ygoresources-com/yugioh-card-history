@@ -1,0 +1,15 @@
+{
+  "id": 9968,
+  "type": "monster",
+  "name": "Ma'at",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) mandando 1 mostro LUCE di Tipo Drago e 1 mostro LUCE di Tipo Fata che controlli al Cimitero, e non può essere Evocato Specialmente in altri modi. Una volta per turno: puoi dichiarare i nomi di 3 carte; dissotterra le prime 3 carte del tuo Deck, tra di esse aggiungi alla tua mano tutte quelle che hai nominato, inoltre manda le carte rimanenti al Cimitero. L'ATK e il DEF di questa carta diventano ognuno pari al numero di carte aggiunte alla tua mano da questo effetto x 1000.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

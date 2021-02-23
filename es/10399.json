@@ -1,0 +1,15 @@
+{
+  "id": 10399,
+  "type": "monster",
+  "name": "Pirorex el Señor Elemental",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo exactamente 5 monstruos de FUEGO en tu Cementerio. Cuando esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo que controle tu adversario; destrúyelo y, si lo haces, ambos jugadores reciben daño igual a la mitad del ATK original del monstruo destruido. Sólo puedes usar este efecto de \"Pirorex el Señor Elemental\" una vez por turno. Si esta carta boca arriba deja el Campo, sáltate la Battle Phase de tu próximo turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7869,
+  "type": "monster",
+  "name": "Générateur d'Onde de Guérison",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, vous pouvez sélectionner un autre monstre face recto que vous contrôlez pour gagner des Life Points égaux au Niveau de ce monstre x 100.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

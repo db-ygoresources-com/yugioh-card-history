@@ -1,0 +1,18 @@
+{
+  "id": 12111,
+  "type": "monster",
+  "name": "Artistamico Scimmiatastiera",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi scartare questa carta; rivela 1 mostro \"Artistamico\" o \"Occhi Diversi\" nella tua mano e, se lo fai, riduci di 1 il Livello dei mostri nella tua mano con quel nome per il resto di questo turno (anche dopo che sono stati Evocati/Posizionati).",
+  "pendEffect": "A meno che tu abbia una carta \"Artistamico\" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 4. Durante la tua Main Phase, se questa carta è stata attivata in questo turno: puoi aggiungere 1 mostro \"Artistamico\" di Livello 4 o inferiore dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Artistamico Scimmiatastiera\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1000,
+  "def": 2400,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

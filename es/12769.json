@@ -1,0 +1,18 @@
+{
+  "id": 12769,
+  "type": "monster",
+  "name": "Metrognomo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Mientras tengas 2 cartas en tus Zonas del Péndulo con la misma Escala de Péndulo, esta carta gana ATK y DEF iguales a la Escala de Péndulo x 100, y puede atacar a tu adversario directamente. Si esta carta inflige daño de batalla a tu adversario con un ataque directo: destruye todas las cartas en las Zonas del Péndulo.",
+  "pendEffect": "Una vez por turno: puedes seleccionar otra carta en una Zona del Péndulo; hasta el final de este turno, la Escala de Péndulo de esta carta se convierte en la de esa carta.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

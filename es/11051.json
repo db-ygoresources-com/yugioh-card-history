@@ -1,0 +1,15 @@
+{
+  "id": 11051,
+  "type": "monster",
+  "name": "Muñeca Fantastruco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal, a menos que controles un monstruo \"Fantastruco\". Una vez por turno: puedes cambiar esta carta a Posición de Defensa boca abajo. Cuando esta carta es volteada boca arriba: durante la End Phase, cambia tantos monstruos boca arriba en el Campo como sea posible a Posición de Defensa boca abajo, y después puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Fantastruco\" cuyo Nivel sea menor o igual a la cantidad de monstruos volteados boca abajo por este efecto, en Posición de Defensa boca abajo.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

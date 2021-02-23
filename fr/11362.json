@@ -1,0 +1,16 @@
+{
+  "id": 11362,
+  "type": "monster",
+  "name": "Chien de Chasse Marionnette de l'Ombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez cibler 1 carte \"Marionnette de l'Ombre\" dans votre Cimetière ; ajoutez-la à votre main.\nSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 monstre sur le Terrain ; changez sa position de combat. (Les effets de monstres Flip, monstres \"Marionnette de l'Ombre\" exclus, ne sont pas activés à ce moment.) Vous ne pouvez utiliser qu'1 effet de \"Chien de Chasse Marionnette de l'Ombre\" par tour, et uniquement une fois le tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

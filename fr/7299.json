@@ -1,0 +1,15 @@
+{
+  "id": 7299,
+  "type": "monster",
+  "name": "Alien Télékinésique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Une fois par tour, vous pouvez retirer 1 Compteur-A d'un monstre adverse pour détruire 1 Carte Magie ou Piège. (Si un monstre avec un Compteur-A combat un monstre qui inclut \"Alien\" dans son nom de carte, diminuez son ATK et sa DEF de 300 points pour chaque Compteur-A, durant le calcul des dommages uniquement.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

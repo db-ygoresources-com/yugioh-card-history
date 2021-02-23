@@ -1,0 +1,16 @@
+{
+  "id": 5478,
+  "type": "monster",
+  "name": "Troupe d'Assaut Gobline Toon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ne peut pas attaquer le tour où elle est Invoquée. Si \"Monde des Toons\" sur le Terrain est détruit, détruisez cette carte. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase, et sa position de combat ne peut pas être changée jusqu'à la End Phase de votre prochain tour.",
+  "level": 4,
+  "atk": 2300,
+  "def": 0,
+  "properties": [
+    "Guerrier",
+    "Toon",
+    "Effet"
+  ]
+}

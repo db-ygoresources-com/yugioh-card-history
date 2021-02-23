@@ -1,0 +1,15 @@
+{
+  "id": 15716,
+  "type": "monster",
+  "name": "Antiguos Guerreros - Rebelde Lu Feng",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) controlando el monstruo \"Antiguos Guerreros\" con el ATK más alto en el Campo (aún si hay empate). Sólo puedes Invocar de Modo Especial \"Antiguos Guerreros - Rebelde Lu Feng\" una vez por turno de esta forma. Una vez por turno, durante la Main Phase (Efecto Rápido): puedes destruir el monstruo boca arriba que controle tu adversario con el ATK más alto (si hay empate, eliges tú), y además no puedes activar efectos de monstruos el turno en el que activas este efecto, excepto de monstruos \"Antiguos Guerreros\". Una vez por turno, durante la End Phase, si tu adversario controla el monstruo con el ATK más alto en el Campo (incluso si hay empate): da el control de esta carta a tu adversario.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

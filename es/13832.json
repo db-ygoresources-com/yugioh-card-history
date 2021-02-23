@@ -1,0 +1,16 @@
+{
+  "id": 13832,
+  "type": "monster",
+  "name": "Idaten, la Estrella del Conquistador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos Guerrero de Nivel 5 o mayor\nSi esta carta es Invocada por Fusión: puedes añadir a tu mano 1 monstruo Guerrero de Nivel 5 en tu Deck. Sólo puedes usar este efecto de \"Idaten, la Estrella del Conquistador\" una vez por turno. Una vez por turno: puedes descartar cualquier cantidad de cartas; esta carta gana 200 ATK por cada carta descartada. Una vez por batalla, durante el cálculo de daño, si esta carta batalla con un monstruo del adversario con un Nivel igual o menor (Efecto Rápido): puedes convertir en 0 el ATK de ese monstruo del adversario sólo durante ese cálculo de daño.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

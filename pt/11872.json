@@ -1,0 +1,18 @@
+{
+  "id": 11872,
+  "type": "monster",
+  "name": "Dragonox, o Guerreiro Edificado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno: você pode descartar 1 card e, depois, escolher 1 monstro do Tipo Guerreiro ou Mago com ATK 2000 ou menos no seu Cemitério; Invoque-o por Invocação-Especial com a face para baixo em Posição de Defesa.",
+  "pendEffect": "Quando um monstro do oponente declarar um ataque: você pode destruir este card e, depois, encerrar a Fase de Batalha.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

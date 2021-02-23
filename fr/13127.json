@@ -1,0 +1,18 @@
+{
+  "id": 13127,
+  "type": "monster",
+  "name": "Minitaurus aux Yeux Impairs Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant le calcul des dommages, si votre Monstre Pendule attaque un monstre de votre adversaire : durant le calcul des dommages uniquement, vous pouvez faire perdre 100 ATK au monstre de votre adversaire pour chaque carte \"Potartiste\" et \"Yeux Impairs\" que vous contrôlez.",
+  "pendEffect": "Si votre monstre \"Potartiste\" ou \"Yeux Impairs\" attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Bête-Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

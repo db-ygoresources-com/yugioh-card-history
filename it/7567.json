@@ -1,0 +1,15 @@
+{
+  "id": 7567,
+  "type": "monster",
+  "name": "Drago di Alta Qualità",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Ogni effetto che sta per infliggere danno ad un giocatore, incrementa invece i suoi Life Point dello stesso ammontare. Durante il turno di qualsiasi giocatore, quando viene attivata una carta o un effetto che sta per distruggere uno o più mostri sul Terreno: puoi mandare 1 carta dalla tua mano al Cimitero; annulla l'attivazione e, se lo fai, distruggila.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Effetto"
+  ]
+}

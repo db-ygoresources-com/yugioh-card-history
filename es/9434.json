@@ -1,0 +1,15 @@
+{
+  "id": 9434,
+  "type": "monster",
+  "name": "Cañón Maquinaria",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) mandando al Cementerio 1 o más monstruos Máquina en tu mano que no sean éste. Gana 800 ATK por cada monstruo mandado al Cementerio para esta Invocación Especial.",
+  "level": 8,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

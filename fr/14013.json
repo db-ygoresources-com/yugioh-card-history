@@ -1,0 +1,16 @@
+{
+  "id": 14013,
+  "type": "monster",
+  "name": "Adepte de Nephtys",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Réincarnation de Nephtys\". Vous ne pouvez utiliser chacun des effets suivants de \"Adepte de Nephtys\" qu'une fois par tour.\n●Si cette carte est Invoquée Rituellement : vous pouvez activer cet effet ; Invoquez Spécialement 1 monstre \"Nephtys\" depuis votre Deck, et aussi, détruisez cette carte durant la End Phase de ce tour.\n●Si cette carte est dans le Cimetière : vous pouvez détruire 1 carte \"Nephtys\" dans votre main, et si vous le faites, Invoquez Spécialement cette carte.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

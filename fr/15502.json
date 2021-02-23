@@ -1,0 +1,15 @@
+{
+  "id": 15502,
+  "type": "monster",
+  "name": "Alpha le Maître des Bêtes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) tant que la somme des ATK de tous les monstres contrôlés par votre adversaire est supérieure à celle de tous les monstres que vous contrôlez. Vous pouvez cibler un nombre de votre choix de monstres Bête, Bête-Guerrier et/ou Bête Ailée que vous contrôlez ; renvoyez-les à la main, puis, renvoyez un nombre de monstres face recto contrôlés par votre adversaire à la main, égal au nombre de cartes que vous avez renvoyées à la main, et aussi, \"Alpha le Maître des Bêtes\" que vous contrôlez ne peut pas attaquer directement le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Alpha le Maître des Bêtes\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

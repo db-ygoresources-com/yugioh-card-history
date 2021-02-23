@@ -1,0 +1,19 @@
+{
+  "id": 13510,
+  "type": "monster",
+  "name": "Dragão Duplo Byte",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 Monstros Link\nGanha ATK igual ao Valor Link combinado dos monstros usados para sua Invocação-Link x 300. Não é afetado por efeitos de monstro, exceto os efeitos de Monstros Link, e não pode ser destruído em batalha, exceto em batalha com um Monstro Link.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Ciberso",
+    "Link",
+    "Efeito"
+  ]
+}

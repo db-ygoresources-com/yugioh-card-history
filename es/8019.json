@@ -1,0 +1,15 @@
+{
+  "id": 8019,
+  "type": "monster",
+  "name": "Mago Arcanista/Modo de Ataque",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta no puede ser Invocada de Modo Especial excepto con \"Activar Modo de Ataque\". Cuando Invocas esta carta de Modo Especial, pon 2 Contadores Mágicos en ella. Esta carta gana 1000 ATK por cada Contador Mágico que tenga. Puedes retirar 2 Contadores Mágicos para destruir todas las cartas que controle tu adversario. Cuando esta carta en el Campo es destruida, puedes Invocar de Modo Especial, desde tu Cementerio, 1 \"Mago Arcanista\".",
+  "level": 9,
+  "atk": 900,
+  "def": 2300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

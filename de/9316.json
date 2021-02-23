@@ -1,0 +1,16 @@
+{
+  "id": 9316,
+  "type": "monster",
+  "name": "Kagemusha der Sechs Samurai",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn genau 1 offenes „Sechs Samurai“-Monster, das du kontrollierst, als Ziel für eine Zauberkarte, Fallenkarte oder einen Karteneffekt gewählt wird, die oder der diese Karte als Ziel gewählt haben könnte: Du kannst diesen Effekt aktivieren; die Zauber-/Fallenkarte/der Effekt wählt jetzt stattdessen diese offene Karte auf dem Spielfeld als Ziel.",
+  "level": 2,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9585,
+  "type": "monster",
+  "name": "Laval-Seeufer-Dame",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet und du 3 oder mehr „Laval“-Monster mit unterschiedlichen Namen in deinem Friedhof hast: Du kannst diese Karte und 1 anderes „Laval“-Monster von deinem Friedhof verbannen, um 1 gesetzte Karte zu wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 3,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

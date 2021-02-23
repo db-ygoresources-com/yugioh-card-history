@@ -1,0 +1,16 @@
+{
+  "id": 10355,
+  "type": "monster",
+  "name": "Soldat Géant d'Acier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Type Rocher de Niveau 3\nCette carte n'est pas affectée par les effets d'autres monstres. Une fois par tour, durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte ; jusqu'à la fin de ce tour, elle gagne 1000 DEF, et si elle le fait, vous ne recevez aucun dommage d'effet des effets de carte de votre adversaire ce tour.",
+  "rank": 3,
+  "atk": 1300,
+  "def": 2000,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

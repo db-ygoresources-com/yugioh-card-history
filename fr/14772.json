@@ -1,0 +1,15 @@
+{
+  "id": 14772,
+  "type": "monster",
+  "name": "Dovelgus, Boss Genèraideur du Fer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Dovelgus, Boss Genèraideur du Fer\". (Effet Rapide) : vous pouvez Sacrifier un nombre de votre choix de monstres \"Genèraideur\" et/ou monstres Machine ; Invoquez Spécialement depuis votre main en Position de Défense, exactement autant de monstres \"Genèraideur\" et/ou monstres Machine, tous de noms différents les uns des autres et des monstres Sacrifiés. Vous ne pouvez utiliser cet effet de \"Dovelgus, Boss Genèraideur du Fer\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 1500,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

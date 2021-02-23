@@ -1,0 +1,15 @@
+{
+  "id": 15269,
+  "type": "monster",
+  "name": "Draxinim Lâmpada",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Uma vez por turno (Efeito Rápido): você pode descartar 1 monstro Wyrm; este card ganha 1000 de DEF até o final deste turno. Uma vez por batalha, durante o cálculo de dano, se este card em Posição de Ataque batalhar um monstro em Posição de Ataque (Efeito Rápido): você pode usar a DEF de cada card no cálculo de dano.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Wyrm",
+    "Efeito"
+  ]
+}

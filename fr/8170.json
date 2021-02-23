@@ -1,0 +1,16 @@
+{
+  "id": 8170,
+  "type": "monster",
+  "name": "Polichinelle Malicieux",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte ne peut être utilisée comme Monstre-Matériel de Synchro, excepté pour l'Invocation Synchro d'un Monstre Synchro de Type Guerrier. Si le Monstre Synchro qui utilise cette carte comme Monstre-Matériel de Synchro attaque, votre adversaire ne peut pas activer de Carte Piège jusqu'à la fin de la Damage Step.",
+  "level": 2,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

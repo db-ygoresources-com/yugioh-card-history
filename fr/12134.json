@@ -1,0 +1,18 @@
+{
+  "id": 12134,
+  "type": "monster",
+  "name": "Ptéran Dinobrume",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte détruit un monstre de votre adversaire au combat : vous pouvez ajouter 1 carte \"Dinobrume\" depuis votre Deck à votre main.",
+  "pendEffect": "Si une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez vont être détruites au combat ou par un effet de carte de votre adversaire, vous pouvez détruire cette carte à la place.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

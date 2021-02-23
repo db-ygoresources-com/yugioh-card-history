@@ -1,0 +1,16 @@
+{
+  "id": 8815,
+  "type": "monster",
+  "name": "Dragon Ailes Sombres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi vous allez recevoir des dommages d'un effet de carte, placez 1 Compteur Plumes Noires sur cette carte à la place. Cette carte perd 700 ATK pour chaque Compteur Plumes Noires sur elle. Une fois par tour : vous pouvez retirer tous les Compteurs Plumes Noires sur cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; la cible perd 700 ATK pour chaque Compteur Plumes Noires que vous avez retiré, et si elle le fait, infligez des dommages à votre adversaire égaux à l'ATK perdue par cet effet.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1600,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

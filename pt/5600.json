@@ -1,0 +1,16 @@
+{
+  "id": 5600,
+  "type": "monster",
+  "name": "Paladino do Dragão Branco",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Este monstro não poder ser Invocado a não ser por Invocação-Ritual com o Card de Magia de Ritual \"Ritual do Dragão Branco\". Também deve oferecer como Tributo monstros cuja soma dos Níveis seja igual ou maior que 4, do Campo ou da sua mão. Quando este monstro ataca um monstro em Posição de Defesa com a face para baixo, destrúa o monstro com o efeito deste card, sem aplicar o cálculo de dano. Você pode Invocar por Invocação Especial 1 \"Dragão Branco de Olho Azuis\" da sua mão ou do seu Deck oferecendo este card como Tributo durante a sua Main Phase. (\"Dragão Branco de Olhos Azuis\" não pode atacar durante esse turno.)",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Dragão",
+    "Ritual",
+    "Efeito"
+  ]
+}

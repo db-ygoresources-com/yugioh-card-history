@@ -1,0 +1,15 @@
+{
+  "id": 7056,
+  "type": "monster",
+  "name": "Transportroid",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsqu'un adversaire active un effet de carte qui cible et détruit une (ou plusieurs) Carte(s) Magie ou Piège que vous contrôlez, vous pouvez défausser 1 carte pour annuler cette activation et détruire la carte.",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

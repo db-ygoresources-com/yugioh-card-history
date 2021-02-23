@@ -1,0 +1,16 @@
+{
+  "id": 13924,
+  "type": "monster",
+  "name": "Titán Dragón de Trueno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "3 monstruos \"Dragón de Trueno\"\nDebe ser ya sea Invocado por Fusión o Invocado de Modo Especial desterrando 1 monstruo Trueno en tu mano y 1 Monstruo de Fusión Trueno que controles, excepto \"Titán Dragón de Trueno\" (en cuyo caso no usas \"Polimerización\"). Cuando el efecto de un monstruo Trueno es activado en la mano, aún durante el Damage Step (Efecto Rápido): puedes destruir 1 carta en el Campo. Si esta carta fuera a ser destruida por el efecto de una carta, puedes desterrar 2 cartas en tu Cementerio en su lugar.",
+  "level": 10,
+  "atk": 3200,
+  "def": 3200,
+  "properties": [
+    "Trueno",
+    "Fusión",
+    "Efecto"
+  ]
+}

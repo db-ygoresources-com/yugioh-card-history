@@ -1,0 +1,16 @@
+{
+  "id": 15731,
+  "type": "monster",
+  "name": "Surnaliche le Furieux Seigneur d'Or",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre \"Surnaliche\" + 1 monstre Zombie de min. Niveau 5\nLe nom de cette carte devient \"Surnaliche le Seigneur d'Or\" tant qu'elle est sur le Terrain. Non destructible ni au combat ni par des effets de carte. Vous pouvez Sacrifier 1 monstre Zombie, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; prenez-en le contrôle, mais il ne peut ni attaquer ni activer ses effets ce tour. Vous ne pouvez utiliser cet effet de \"Surnaliche le Furieux Seigneur d'Or\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 3800,
+  "def": 3500,
+  "properties": [
+    "Zombie",
+    "Fusion",
+    "Effet"
+  ]
+}

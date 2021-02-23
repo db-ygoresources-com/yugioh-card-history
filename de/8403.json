@@ -1,0 +1,16 @@
+{
+  "id": 8403,
+  "type": "monster",
+  "name": "R-Genex-Orakel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte durch den Effekt eines „Genex“-Monsters von deinem Deck deiner Hand hinzugefügt wird, kannst du diese Karte als Spezialbeschwörung beschwören. Diese Karte kann nicht als Synchromaterialmonster benutzt werden, außer für die Synchrobeschwörung eines „Genex“-Monsters.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

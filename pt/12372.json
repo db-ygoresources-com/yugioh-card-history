@@ -1,0 +1,18 @@
+{
+  "id": 12372,
+  "type": "monster",
+  "name": "Camarartista Rei Urso",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser destruído por efeitos de Magia/Armadilha enquanto estiver com a face para cima em Posição de Ataque. Este card ganha 100 de ATK para cada card \"Camarartista\" que você controla, apenas durante sua Fase de Batalha.",
+  "pendEffect": "Uma vez por turno, durante a Fase Final, se este card foi ativado neste turno: você pode destruir este card e, se isso acontecer, adicione 1 monstro de Nível 7 ou mais à sua mão, que esteja ou no seu Cemitério ou com a face para cima no seu Deck Adicional.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Besta-Guerreira",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

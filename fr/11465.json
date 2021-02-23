@@ -1,0 +1,15 @@
+{
+  "id": 11465,
+  "type": "monster",
+  "name": "Jörmungandr, Serpent Nordique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable. Si un monstre \"Ases\" est sur le Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main) sur le Terrain de votre adversaire en Position de Défense. S'il n'y a pas de monstre \"Ases\" sur le Terrain, détruisez cette carte. Si cette carte en Position de Défense face recto que vous contrôlez est changée en Position d'Attaque face recto : recevez 3000 points de dommages. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

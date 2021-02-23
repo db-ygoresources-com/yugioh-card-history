@@ -1,0 +1,18 @@
+{
+  "id": 13597,
+  "type": "monster",
+  "name": "Sirène, Chevalier du Cauchemar",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 monstre \"Chevalier du Cauchemar\" (\"Sirène, Chevalier du Cauchemar\" exclu)\nSi cette carte est Invoquée par Lien : vous pouvez défausser 1 carte ; Invoquez Spécialement 1 monstre \"Chevalier du Cauchemar\" depuis votre Deck, puis, si cette carte était co-liée lorsque cet effet a été activé, vous pouvez piocher 1 carte. Vous ne pouvez utiliser cet effet de \"Sirène, Chevalier du Cauchemar\" qu'une fois par tour. Les monstres sur le Terrain perdent 1000 ATK/DEF, sauf s'ils sont co-liés.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

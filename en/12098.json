@@ -1,0 +1,18 @@
+{
+  "id": 12098,
+  "type": "monster",
+  "name": "Samurai Cavalry of Reptier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "At the start of the Damage Step, if this card attacks an opponent's face-up monster that is not a Pendulum Monster: You can destroy that monster.",
+  "pendEffect": "",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Dinosaur",
+    "Pendulum",
+    "Effect"
+  ]
+}

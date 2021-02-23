@@ -1,0 +1,18 @@
+{
+  "id": 14858,
+  "type": "monster",
+  "name": "Controllore della Gravità",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Mostro non-Link in una Zona Mostri Extra\nNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Questa carta nella Zona Mostri Extra non può essere distrutta in battaglia con un mostro nella Zona Mostri Main. All'inizio del Damage Step, se questa carta combatte con un mostro dell'avversario nella Zona Mostri Extra: puoi far ritornare nel Deck sia quel mostro dell'avversario che questa carta.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Psichico",
+    "Link",
+    "Effetto"
+  ]
+}

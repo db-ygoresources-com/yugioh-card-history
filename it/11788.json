@@ -1,0 +1,18 @@
+{
+  "id": 11788,
+  "type": "monster",
+  "name": "Maga Xiangsheng",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Il tuo avversario non subisce danno da combattimento da attacchi che coinvolgono questa carta. Una volta per turno: puoi scegliere come bersaglio 1 altro mostro scoperto che controlli; l'ATK di questa carta diventa pari all'ATK attuale di quel mostro, fino alla fine di questo turno.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 Mostro Xyz scoperto che controlli e 1 mostro di Livello 5 o superiore che controlli; il Rango di quel Mostro Xyz diventa pari al Livello di quel mostro di Livello 5 o superiore, fino alla fine di questo turno (anche se questa carta lascia il Terreno). Mentre controlli più carte del tuo avversario, il Valore Pendulum di questa carta diventa 4.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

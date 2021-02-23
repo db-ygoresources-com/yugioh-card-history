@@ -1,0 +1,18 @@
+{
+  "id": 11210,
+  "type": "monster",
+  "name": "Chevalier Flash",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "La puissance du pendule se dégage de ce chevalier éclatant.",
+  "pendEffect": "",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Normal"
+  ]
+}

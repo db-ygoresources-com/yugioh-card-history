@@ -1,0 +1,19 @@
+{
+  "id": 13510,
+  "type": "monster",
+  "name": "Dragón Doblebit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Enlace\nGana ATK igual al Rating de Enlace combinado de los monstruos usados para su Invocación por Enlace x 300. No es afectado por efectos de monstruos, excepto los efectos de Monstruos de Enlace, y no puede ser destruido en batalla, excepto en batalla con un Monstruo de Enlace.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

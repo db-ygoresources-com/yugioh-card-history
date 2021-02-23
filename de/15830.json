@@ -1,0 +1,15 @@
+{
+  "id": 15830,
+  "type": "monster",
+  "name": "Sprecherin für die Eisbarrieren",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du ein anderes „Eisbarriere“-Monster kontrollierst, können die Kampfpositionen von Monstern in Verteidigungsposition, die dein Gegner kontrolliert, nicht geändert werden. Du kannst jeden der folgenden Effekte von „Sprecherin für die Eisbarrieren“ nur einmal pro Spielzug verwenden. Falls du ein „Eisbarriere“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls du ein „Eisbarriere“-Monster kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 „Eisbarriere-Spielmarke“ (Aqua/WASSER/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

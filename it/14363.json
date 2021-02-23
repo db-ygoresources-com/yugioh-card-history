@@ -1,0 +1,18 @@
+{
+  "id": 14363,
+  "type": "monster",
+  "name": "Drago Fantasma Occhi Multipli",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano o Extra Deck scoperto) offrendo come Tributo tutti i mostri che controlli (minimo 2), compreso un Mostro Pendulum Drago. Puoi Evocare Specialmente \"Drago Fantasma Occhi Multipli\" una sola volta per turno in questo modo. Una volta per turno, durante il calcolo dei danni, se questa carta combatte con un mostro dell'avversario: raddoppia l'ATK attuale di questa carta fino alla fine di questo turno. Una volta per turno, quando il tuo avversario attiva una Carta Magia/Trappola o un loro effetto (Effetto Rapido): puoi mandare 1 Magia/Trappola che controlli al Cimitero; annulla l'attivazione.",
+  "pendEffect": "Una volta per turno, alla fine del Damage Step, se un tuo Mostro Pendulum Drago ha attaccato un mostro dell'avversario: puoi attivare questo effetto; esso può attaccare ancora di seguito. Non puoi dichiarare attacchi nel turno in cui attivi questo effetto, eccetto con quel mostro.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

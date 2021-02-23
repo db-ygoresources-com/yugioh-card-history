@@ -1,0 +1,18 @@
+{
+  "id": 12769,
+  "type": "monster",
+  "name": "Metrognome",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "While you have 2 cards in your Pendulum Zones with the same Pendulum Scale, this card gains ATK and DEF equal to the Pendulum Scale x 100, and can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Destroy all cards in the Pendulum Zones.",
+  "pendEffect": "Once per turn: You can target 1 other card in a Pendulum Zone; this card's Pendulum Scale becomes equal to that card's, until the end of this turn.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

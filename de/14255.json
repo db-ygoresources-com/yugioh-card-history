@@ -1,0 +1,16 @@
+{
+  "id": 14255,
+  "type": "monster",
+  "name": "Altergeist Fifinellag",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Monster, die dein Gegner kontrolliert, können keine „Altergeist“-Monster, die du kontrollierst, als Angriffsziel wählen, außer „Altergeist Fifinellag“, zusätzlich kann dein Gegner keine „Altergeist“-Monster, die du kontrollierst, als Ziel für Karteneffekte wählen, außer „Altergeist Fifinellag“.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

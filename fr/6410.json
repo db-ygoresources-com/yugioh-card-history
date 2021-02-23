@@ -1,0 +1,15 @@
+{
+  "id": 6410,
+  "type": "monster",
+  "name": "Van'Dalgyon le Seigneur du Dragon des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous annulez l'activation d'une ou plusieurs Cartes Magie/Piège de votre adversaire ou un ou plusieurs effets de monstre de votre adversaire, avec une Carte Contre-Piège (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si elle est Invoquée de cette façon, activez ces effets et résolvez dans l'ordre, selon le type des cartes annulées par le Contre-Piège :\n●Magie : Infligez 1500 points de dommages à votre adversaire.\n●Piège : Ciblez 1 carte contrôlée par votre adversaire ; détruisez la cible.\n●Monstre : Ciblez 1 monstre dans votre Cimetière ; Invoquez-le Spécialement.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

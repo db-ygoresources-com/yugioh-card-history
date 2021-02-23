@@ -1,0 +1,18 @@
+{
+  "id": 11828,
+  "type": "monster",
+  "name": "Deskbot 005",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 Carta Magia/Trappola sul Terreno; distruggila. Questa carta guadagna 500 ATK per ogni mostro \"Deskbot\" scoperto nel tuo Extra Deck. Se questa carta nella Zona Pendulum viene distrutta: puoi scegliere come bersaglio 1 mostro Deskbot nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di \"Deskbot 005\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Deskbot\". Questo effetto non può essere annullato.",
+  "pendScale": 10,
+  "level": 5,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

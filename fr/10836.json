@@ -1,0 +1,15 @@
+{
+  "id": 10836,
+  "type": "monster",
+  "name": "Chien Plongeur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si votre adversaire contrôle un monstre et que tous les monstres face recto que vous contrôlez (min. 1) sont Niveau 4, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Chien Plongeur\" qu'une fois par tour de cette façon. Cette carte ne peut pas être utilisée comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre de Type Guerrier.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

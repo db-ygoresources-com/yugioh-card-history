@@ -1,0 +1,16 @@
+{
+  "id": 7300,
+  "type": "monster",
+  "name": "Alieno Ipnotico",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Questa carta è considerata come un Mostro Normale fino a quando è scoperta sul Terreno o nel Cimitero. Fino a quando questa carta è scoperta sul Terreno, puoi Evocarla tramite Evocazione Normale per considerarla come un Mostro con Effetto con questo effetto:\n● Durante la tua Main Phase, puoi scegliere 1 mostro controllato dall'avversario con uno o più Segnalini-A e prenderne il controllo finché questa carta si trova sul Terreno. Durante ogni tua End Phase, rimuovi 1 Segnalino-A da ogni mostro che controlli. Se tutti i Segnalini-A sono rimossi da uno di questi mostri, distruggilo.",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Rettile",
+    "Gemello",
+    "Effetto"
+  ]
+}

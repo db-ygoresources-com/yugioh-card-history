@@ -1,0 +1,16 @@
+{
+  "id": 12617,
+  "type": "monster",
+  "name": "Poly-Chemiwesen Hydragon",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesen Effekten wird.\n●Wenn ein anderes Zwillingsmonster als Normalbeschwörung beschworen wird: Du kannst das Monster 500 ATK und DEF erhalten lassen.\n●Falls ein oder mehr Zwillingsmonster, die du kontrollierst, durch einen Karteneffekt zerstört würden, kannst du stattdessen 1 andere Karte zerstören, die du kontrollierst.",
+  "level": 8,
+  "atk": 200,
+  "def": 2800,
+  "properties": [
+    "Drache",
+    "Zwilling",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10369,
+  "type": "monster",
+  "name": "Tiburón Doble",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes reducir en 1 los Niveles de todos los monstruos de Tipo Pez de Nivel 4 que controles en este momento. Esta carta puede hacer un segundo ataque durante cada Battle Phase.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

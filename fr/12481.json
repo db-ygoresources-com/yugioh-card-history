@@ -1,0 +1,18 @@
+{
+  "id": 12481,
+  "type": "monster",
+  "name": "Dragon Mirage aux Yeux Impairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant qu'une carte \"Yeux Impairs\" est dans votre Zone Pendule (Effet Rapide) : vous pouvez cibler 1 monstre \"Yeux Impairs\" que vous contrôlez ; la première fois qu'il va être détruit au combat ou par un effet de carte ce tour, il n'est pas détruit. Vous ne pouvez utiliser cet effet de \"Dragon Mirage aux Yeux Impairs\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour, si un ou plusieurs Monstres Pendule \"Yeux Impairs\" face recto que vous contrôlez sont détruits au combat ou par un effet de carte : vous pouvez détruire 1 carte dans votre Zone Pendule, et si vous le faites, placez 1 Monstre Pendule \"Yeux Impairs\" face recto dans votre Extra Deck (\"Dragon Mirage aux Yeux Impairs\" exclu) dans votre Zone Pendule.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

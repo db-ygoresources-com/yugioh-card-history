@@ -1,0 +1,16 @@
+{
+  "id": 6202,
+  "type": "monster",
+  "name": "トラップ処理班 Aチーム",
+  "nameRuby": "トラップしょりはん　Ａチーム",
+  "englishAttribute": "fire",
+  "localizedAttribute": "炎属性",
+  "effectText": "この効果は相手ターンでも使用する事ができる。相手が罠カードを発動した時、表側表示のこのカードを生け贄に捧げる事で罠カードの発動を無効にし、それを破壊する。",
+  "level": 2,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "機械族",
+    "効果"
+  ]
+}

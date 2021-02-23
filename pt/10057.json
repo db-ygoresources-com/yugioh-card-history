@@ -1,0 +1,15 @@
+{
+  "id": 10057,
+  "type": "monster",
+  "name": "Gearfried Raio-de-Luz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Você deve Invocá-lo por Invocação-Especial (da sua mão) ao ter 5 ou mais monstros de LUZ com nomes diferentes no seu Cemitério e não pode Invocá-lo por Invocação-Especial de nenhuma outra forma. Uma vez por turno, durante o turno de qualquer duelista, quando um Card de Magia/Armadilha for ativado: você pode banir 1 monstro do Tipo Guerreiro do seu Cemitério; negue a ativação e, se isso acontecer, destrua-o. Todos os monstros com a face para cima que você controla devem ser do Tipo Guerreiro para que você possa ativar e resolver este efeito.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

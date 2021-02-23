@@ -1,0 +1,16 @@
+{
+  "id": 11078,
+  "type": "monster",
+  "name": "Durandal - Artéfact",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 5\nUne fois par tour, durant le tour de chaque joueur, vous pouvez activer 1 de ces effets.\n●Lorsqu'un effet de monstre est activé sur le Terrain OU lorsqu'une Carte Magie Normale/Piège Normal est activée : vous pouvez détacher 1 Matériel Xyz de cette carte ; l'effet activé devient \"Détruisez 1 Carte Magie/Piège contrôlée par votre adversaire\".\n●Vous pouvez détacher 1 Matériel Xyz de cette carte ; chaque joueur avec une main mélange toute sa main dans le Deck, puis pioche le même nombre de cartes que mélangées dans le Deck.",
+  "rank": 5,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Elfe",
+    "Xyz",
+    "Effet"
+  ]
+}

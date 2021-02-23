@@ -1,0 +1,21 @@
+{
+  "id": 14666,
+  "type": "monster",
+  "name": "Grosalamander Pyro-Phönix",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2+ FEUER Effektmonster\nFalls diese Karte mit „Grosalamander Pyro-Phönix“ als Material als Linkbeschwörung beschworen wird: Du kannst alle Karten zerstören, die dein Gegner kontrolliert. Du kannst jeden der folgenden Effekte von „Grosalamander Pyro-Phönix“ nur einmal pro Spielzug verwenden.\n●Du kannst 1 Linkmonster im Friedhof deines Gegners wählen; beschwöre es als Spezialbeschwörung auf die Spielfeldseite deines Gegners.\n●Falls ein oder mehr Linkmonster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden (außer während des Damage Steps): Du kannst 1 der Monster wählen; füge deinem Gegner Schaden in Höhe der Grund-ATK des Monsters zu.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

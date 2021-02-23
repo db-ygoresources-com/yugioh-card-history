@@ -1,0 +1,18 @@
+{
+  "id": 13397,
+  "type": "monster",
+  "name": "Mythisches Ungeheuer Meister-Cerberus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 2 Zauberzählmarken auf diese Karte, wenn der Zauber aufgelöst wird. Kann nicht durch Karteneffekte zerstört werden, solange 4 oder mehr Zauberzählmarken auf deiner Spielfeldseite liegen. Einmal pro Spielzug: Du kannst 4 Zauberzählmarken von deiner Spielfeldseite entfernen und dann 1 Monster wählen, das dein Gegner kontrolliert; verbanne es offen und falls du dies tust, erhält diese Karte bis zum Ende des Spielzugs des Gegners ATK in Höhe der Grund-ATK des verbannten Monsters.",
+  "pendEffect": "Falls du keine Karte in deiner anderen Pendelzone hast: Du kannst diese Karte zerstören und falls du dies tust, füge deiner Hand 1 „Mythisches Ungeheuer“-Effektmonster der Stufe 7 oder niedriger von deinem Deck hinzu. Du kannst diesen Effekt von „Mythisches Ungeheuer Meister-Cerberus“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

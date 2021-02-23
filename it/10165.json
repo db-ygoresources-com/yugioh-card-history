@@ -1,0 +1,15 @@
+{
+  "id": 10165,
+  "type": "monster",
+  "name": "Golem Blocco",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se tutti i mostri nel tuo Cimitero sono TERRA: puoi offrire come Tributo questa carta, poi scegliere come bersaglio 2 mostri Roccia di Livello 4 o inferiore nel tuo Cimitero, eccetto \"Golem Blocco\"; Evoca Specialmente quei mostri Roccia, ma i loro effetti che si attivano sul Terreno non possono essere attivati in questo turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Roccia",
+    "Effetto"
+  ]
+}

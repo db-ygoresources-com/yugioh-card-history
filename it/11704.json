@@ -1,0 +1,18 @@
+{
+  "id": 11704,
+  "type": "monster",
+  "name": "Domatore Bestia Spirito Zefrawendi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando questa carta viene Evocata Normalmente o Pendulum: puoi aggiungere 1 mostro \"Zefra\" scoperto dal tuo Extra Deck alla tua mano, eccetto \"Domatore Bestia Spirito Zefrawendi\". Puoi Evocare Specialmente uno o più \"Domatore Bestia Spirito Zefrawendi\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Bestia Spirito\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Psichico",
+    "Pendulum",
+    "Effetto"
+  ]
+}

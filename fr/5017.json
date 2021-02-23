@@ -1,0 +1,15 @@
+{
+  "id": 5017,
+  "type": "monster",
+  "name": "Chevalier Commandeur",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tous les monstres Guerrier que vous contrôlez gagnent 400 ATK. Si vous contrôlez un autre monstre, les monstres contrôlés par votre adversaire ne peuvent pas cibler cette carte avec une attaque.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1900,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

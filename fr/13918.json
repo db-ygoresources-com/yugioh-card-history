@@ -1,0 +1,15 @@
+{
+  "id": 13918,
+  "type": "monster",
+  "name": "Collectionneur de Jetons",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un Jeton est Invoqué Spécialement (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque le Jeton a été Invoqué Spécialement) ou la main (même si elle n'y était pas). Vous ne pouvez utiliser cet effet de \"Collectionneur de Jetons\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : détruisez autant de Jetons sur le Terrain que possible, et si vous le faites, cette carte gagne 400 ATK pour chaque Jeton détruit. Aucun joueur ne peut Invoquer Spécialement de Jetons.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

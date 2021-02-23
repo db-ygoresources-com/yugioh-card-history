@@ -1,0 +1,19 @@
+{
+  "id": 13267,
+  "type": "monster",
+  "name": "Akasha-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster mit demselben Typ, außer Spielmarken\nDu kannst nur einmal pro Spielzug ein oder mehr „Akasha-Magier“ als Linkbeschwörung beschwören. Falls diese Karte als Linkbeschwörung beschworen wird: Gib alle Monster, auf die diese Karte zeigt, auf die Hand zurück. Einmal pro Spielzug: Du kannst 1 Kartennamen deklarieren; grabe die obersten Karten deines Decks in Höhe der kombinierten Linkzahl der Linkmonster aus, die mit dieser Karte kreuzgelinkt sind, dann, falls du Kopien der deklarierten Karte ausgegraben hast, füge sie deiner Hand hinzu, zusätzlich lege die übrigen Karten auf den Friedhof.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

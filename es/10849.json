@@ -1,0 +1,15 @@
+{
+  "id": 10849,
+  "type": "monster",
+  "name": "Tiburón de Doble Aleta",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo de AGUA de Tipo Pez de Nivel 3 ó 4 en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Defensa boca arriba, peros éste ve sus efectos negados. Durante el turno en el que activaste este efecto, no puedes Invocar monstruos de Modo Especial, excepto a monstruos de AGUA.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10905,
+  "type": "monster",
+  "name": "Gardichêne Sylvan",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour : vous pouvez choisir un nombre entre 1 et 3, puis dévoilez ce nombre de du dessus de votre Deck, envoyez les monstres de Type Plante dévoilés au Cimetière, et aussi, placez les autres cartes au-dessous de votre Deck dans l'ordre de votre choix. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 autre monstre de Type Plante dans votre Cimetière ; placez la cible au-dessus de votre Deck.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

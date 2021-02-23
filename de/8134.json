@@ -1,0 +1,15 @@
+{
+  "id": 8134,
+  "type": "monster",
+  "name": "Verteidiger, der magische Ritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Lege 1 Zauberzählmarke darauf (max. 1). Einmal pro Spielzug, falls ein oder mehr Hexer-Monster auf dem Spielfeld zerstört würden, kannst du stattdessen für jedes der Monster 1 Zauberzählmarke von deiner Spielfeldseite entfernen.",
+  "level": 4,
+  "atk": 1600,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

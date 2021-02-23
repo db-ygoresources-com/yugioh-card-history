@@ -1,0 +1,16 @@
+{
+  "id": 8577,
+  "type": "monster",
+  "name": "Météore Préhistorique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur \"Préhistorique\" + 2 monstres non Syntoniseur de Type Dinosaure ou plus\nLorsque cette carte est Invoquée par Synchronisation, détruisez toutes les cartes sur le Terrain. Ensuite, vous pouvez Invoquer Spécialement 1 monstre Syntoniseur depuis votre Cimetière.",
+  "level": 10,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dinosaure",
+    "Synchro",
+    "Effet"
+  ]
+}

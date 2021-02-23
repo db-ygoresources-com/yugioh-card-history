@@ -1,0 +1,15 @@
+{
+  "id": 7017,
+  "type": "monster",
+  "name": "Blizzarddrache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; es kann bis zum Ende des nächsten Spielzugs deines Gegners weder seine Kampfposition ändern noch einen Angriff deklarieren.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

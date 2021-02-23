@@ -1,0 +1,15 @@
+{
+  "id": 6498,
+  "type": "monster",
+  "name": "Tetran B.E.S.",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Mettez 3 compteurs sur cette carte lorsque vous en faites l'Invocation Normale. Cette carte n'est pas détruite à l'issue d'un combat. Si cette carte combat un monstre, retirez 1 compteur de cette carte à la fin de la Damage Step. Si cette carte combat sans compteur, détruisez cette carte à la fin de la Damage Step. De plus, en retirant 1 compteur de cette carte, détruisez 1 Carte Magie ou Piège sur le Terrain. Vous ne pouvez utiliser cet effet qu'une fois par tour.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2300,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

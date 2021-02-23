@@ -1,0 +1,18 @@
+{
+  "id": 13462,
+  "type": "monster",
+  "name": "Dragon de la Révolution aux Yeux Impairs",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable par Pendulation (depuis votre main), ou Spécialement (depuis votre main) en Sacrifiant 3 monstres Dragon (1 Fusion, 1 Synchro et 1 Xyz). Vous pouvez défausser cette carte et payer 500 LP : ajoutez 1 Monstre Pendule Dragon de max. Niveau 8 depuis votre Deck à votre main. Gagne une ATK/DEF égales à la moitié des LP de votre adversaire. Une fois par tour : vous pouvez payer la moitié de vos LP ; mélangez toutes les autres cartes depuis le Terrain et les Cimetières dans le Deck.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres Dragon exclus). Cet effet ne peut pas être annulé. Vous pouvez cibler 1 Monstre Fusion, Synchro ou Xyz Dragon dans votre Cimetière ; détruisez cette carte, et si vous le faites, Invoquez Spécialement la cible.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

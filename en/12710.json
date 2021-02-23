@@ -1,0 +1,18 @@
+{
+  "id": 12710,
+  "type": "monster",
+  "name": "Abyss Actor - Evil Heel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. When this card destroys an opponent's monster by battle: You can target 1 \"Abyss Script\" Spell Card in your Graveyard; Set that card.",
+  "pendEffect": "Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 face-up monster your opponent controls; it loses ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

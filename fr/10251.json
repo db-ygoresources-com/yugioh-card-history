@@ -1,0 +1,15 @@
+{
+  "id": 10251,
+  "type": "monster",
+  "name": "Créateur de Bonhommes de Neige",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est Invoquée : vous pouvez créer un nombre de Compteurs Glace égal aux nombres de monstres EAU que vous contrôlez, placez-les sur un ou plusieurs monstres face recto contrôlés par votre adversaire, puis, si vous avez placé min. 3 Compteurs Glace par cet effet, vous pouvez détruire 1 carte contrôlée par votre adversaire.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

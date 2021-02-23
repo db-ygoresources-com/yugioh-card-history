@@ -1,0 +1,16 @@
+{
+  "id": 8903,
+  "type": "monster",
+  "name": "Folletto della Foresta Laval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Quando questa carta viene mandata dal Terreno al Cimitero: tutti i mostri \"Laval\" scoperti che controlli attualmente guadagnano 200 ATK per ogni mostro \"Laval\" nel tuo Cimitero, fino alla End Phase.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Tuner",
+    "Effetto"
+  ]
+}

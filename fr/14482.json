@@ -1,0 +1,15 @@
+{
+  "id": 14482,
+  "type": "monster",
+  "name": "Ranryu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Ranryu\". Si vous contrôlez un monstre Magicien, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez cibler 1 monstre avec 1500 ATK/200 DEF (\"Ranryu\" exclu) dans votre Cimetière ; Invoquez-le Spécialement.",
+  "level": 4,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

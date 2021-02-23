@@ -1,0 +1,18 @@
+{
+  "id": 11213,
+  "type": "monster",
+  "name": "Dragón de Péndulo de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta batalla con un monstruo del adversario, cualquier daño de batalla que esta carta inflija a tu adversario se duplica.",
+  "pendEffect": "Puedes reducir a 0 el daño de batalla que recibas de un ataque que involucre a un Monstruo de Péndulo que controles. Durante tu End Phase: puedes destruir esta carta y, si lo haces, añade a tu mano 1 Monstruo de Péndulo con 1500 ATK o menos en tu Deck. Sólo puedes usar cada Efecto de Péndulo de \"Dragón de Péndulo de Ojos Anómalos\" una vez por turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

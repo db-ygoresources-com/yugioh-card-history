@@ -1,0 +1,15 @@
+{
+  "id": 10169,
+  "type": "monster",
+  "name": "Tres Mil Agujas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Al final del Damage Step, si esta carta en Posición de Defensa fue atacada por un monstruo cuyo ATK es menor que la DEF de esta carta: destruye al monstruo atacante.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

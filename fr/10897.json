@@ -1,0 +1,15 @@
+{
+  "id": 10897,
+  "type": "monster",
+  "name": "Golem Gorgonique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est détruite au combat et envoyée au Cimetière : l'ATK du monstre qui l'a détruite devient 0. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Carte Magie/Piège Posée contrôlée par votre adversaire ; la cible ne peut pas être activée ce tour. Votre adversaire ne peut pas activer la carte ciblée en réponse à l'activation de cet effet.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

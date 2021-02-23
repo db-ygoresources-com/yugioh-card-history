@@ -1,0 +1,15 @@
+{
+  "id": 5599,
+  "type": "monster",
+  "name": "Ruleta Rusa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes lanzar un dado de seis caras dos veces, elegir 1 resultado, y destruir 1 monstruo en el Campo cuyo Nivel sea igual al resultado.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

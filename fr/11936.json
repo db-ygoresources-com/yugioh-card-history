@@ -1,0 +1,19 @@
+{
+  "id": 11936,
+  "type": "monster",
+  "name": "Magicien Nobledragon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Non utilisable comme Matériel Synchro, sauf pour l'Invocation Synchro d'un Monstre Synchro Dragon. Si cette carte est utilisée comme Matériel Synchro, sauf si tous les autres Matériels Synchro sont des monstres \"Yeux Impairs\", placez cette carte au-dessous du Deck. Si cette carte est dans votre main ou Cimetière : vous pouvez cibler 1 monstre \"Yeux Impairs\" de min. Niveau 7 que vous contrôlez ; réduisez son Niveau de 3, et si vous le faites, Invoquez Spécialement cette carte.",
+  "pendEffect": "Détruisez cette carte, sauf si vous avez une carte \"Magicien\" dans votre autre Zone Pendule.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 700,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

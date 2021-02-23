@@ -1,0 +1,18 @@
+{
+  "id": 12882,
+  "type": "monster",
+  "name": "Barracuda Potartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant le tour de chaque joueur : vous pouvez cibler 1 monstre \"Potartiste\" dont l'ATK actuelle est différente de son ATK d'origine ; jusqu'à la fin de ce tour, il gagne une ATK égale à la différence. Vous ne pouvez utiliser cet effet de \"Barracuda Potartiste\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour, si votre monstre \"Potartiste\" combat un monstre de votre adversaire, avant le calcul des dommages : vous pouvez faire perdre au monstre de votre adversaire une ATK égale à la différence entre son ATK d'origine et son ATK actuelle (même si cette carte quitte le Terrain).",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Plante",
+    "Pendule",
+    "Effet"
+  ]
+}

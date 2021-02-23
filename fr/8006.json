@@ -1,0 +1,16 @@
+{
+  "id": 8006,
+  "type": "monster",
+  "name": "Robot Hyper Synchronique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est envoyée au Cimetière pour l'Invocation Synchro d'un monstre de Type Dragon : le monstre gagne 800 ATK, et aussi, bannissez le monstre face recto durant la End Phase.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

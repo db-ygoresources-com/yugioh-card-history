@@ -1,0 +1,16 @@
+{
+  "id": 7674,
+  "type": "monster",
+  "name": "Héraut de la Perfection",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Aube du Héraut\". Durant le tour de chaque joueur, lorsque votre adversaire active une Carte Magie/Piège ou un effet de monstre : vous pouvez envoyer 1 monstre de Type Elfe depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la/le.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2800,
+  "properties": [
+    "Elfe",
+    "Rituel",
+    "Effet"
+  ]
+}

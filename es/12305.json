@@ -1,0 +1,15 @@
+{
+  "id": 12305,
+  "type": "monster",
+  "name": "Bicho Digital Capondensador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser usado como Material Xyz para una Invocación Xyz, excepto para la Invocación Xyz de un monstruo de Tipo Insecto. Una vez por turno, si esta carta está en Posición de Ataque: puedes seleccionar 1 monstruo de Tipo Insecto de Nivel 3 en tu Cementerio; cambia esta carta a Posición de Defensa y, si lo haces, Invoca ese monstruo de Modo Especial en Posición de Defensa. Un Monstruo Xyz que fue Invocado usando esta carta en el Campo como Material Xyz gana este efecto.\n●Si esta carta ataca a un monstruo en Posición de Defensa, las cartas y efectos de tu adversario no pueden ser activados hasta el final del Damage Step.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12908,
+  "type": "monster",
+  "name": "Magicien Double Iris",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Dragon Pendule\".)\nSi cette carte est détruite au combat ou par un effet de carte : vous pouvez ajouter 1 carte \"Pendulegraphe\" depuis votre Deck à votre main.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre TÉNÈBRES de Type Magicien que vous contrôlez ; appliquez-lui cet effet, puis détruisez cette carte. Une fois appliqué, doublez les dommages de combat infligés par le monstre à votre adversaire ce tour s'il combat un monstre de votre adversaire.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11788,
+  "type": "monster",
+  "name": "Magicien Xiangsheng",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Votre adversaire ne reçoit aucun dommage de combat des attaques impliquant cette carte. Une fois par tour : vous pouvez cibler 1 autre monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, l'ATK de cette carte devient égale à l'ATK actuelle du monstre.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 Monstre Xyz face recto que vous contrôlez et 1 monstre de min. Niveau 5 que vous contrôlez ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), le Rang du Monstre Xyz devient égal au Niveau du monstre de min. Niveau 5. Tant que vous contrôlez plus de cartes que votre adversaire, l'Échelle Pendule de cette carte devient 4.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

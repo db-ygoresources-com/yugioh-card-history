@@ -1,0 +1,20 @@
+{
+  "id": 14677,
+  "type": "monster",
+  "name": "Mariposa Serafín",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2+ monstruos con nombres diferentes\nGana 200 ATK por cada contador en ella. Sólo puedes usar 1 de los siguientes efectos de \"Mariposa Serafín\" por turno, y sólo una vez ese turno.\n●Si esta carta es Invocada por Enlace: pon 1 contador en esta carta por cada monstruo Insecto usado como Material de Enlace.\n●(Efecto Rápido): puedes retirar 1 contador de esta carta; Invoca de Modo Especial 1 monstruo Insecto de Nivel 4 o menor desde tu Cementerio en Posición de Defensa.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Insecto",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11344,
+  "type": "monster",
+  "name": "Samurai Superpesado Alma Rompearmaduras",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes seleccionar 1 monstruo \"Samurai Superpesado\" que controles; equipa este monstruo en tu mano o tu lado del Campo a ese objetivo. Éste pierde 1000 DEF, y además no puede ser destruido en batalla. Si esta carta está en tu Cementerio: puedes desterrar todos los \"Samurai Superpesado Alma Rompearmaduras\" en tu Cementerio, y después seleccionar 1 monstruo \"Samurai Superpesado\" en el Campo cuya DEF en este momento sea menor que su DEF original; inflige daño a tu adversario igual a la diferencia entre su DEF actual y la original.",
+  "level": 1,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12255,
+  "type": "monster",
+  "name": "Robot Changeur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous ne pouvez utiliser l'effet suivant de \"Robot Changeur\" qu'une fois par tour. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre \"Robot\" (\"Robot Patrouilleur\", \"Chevalier Robotisé\", \"Robot d'Assistance au Combat\", \"Robot Hyper Synchronique\" et \"Robot Vrille Koa'ki Meiru\" exclus) sur le Terrain, puis activez 1 de ces effets ;\n●Augmentez son Niveau de 1.\n●Réduisez son Niveau de 1.",
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15000,
+  "type": "monster",
+  "name": "Centinela del Océano Profundo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta es mandada al Cementerio para activar el efecto de un monstruo de AGUA: puedes hacer que tu adversario destierre 1 carta en su mano boca arriba, hasta la End Phase. Si esta carta es Invocada de Modo Especial: puedes mandar al Cementerio las 2 cartas de la parte superior de tu Deck, y después seleccionar 1 monstruo de AGUA de Nivel 4 o menor en tu Cementerio, excepto \"Centinela del Océano Profundo\"; añádelo a tu mano. Sólo puedes usar cada efecto de \"Centinela del Océano Profundo\" una vez por turno.",
+  "level": 2,
+  "atk": 400,
+  "def": 2000,
+  "properties": [
+    "Serpiente Marina",
+    "Efecto"
+  ]
+}

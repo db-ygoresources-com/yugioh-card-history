@@ -1,0 +1,18 @@
+{
+  "id": 11787,
+  "type": "monster",
+  "name": "Mago Xiangke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, durante o turno de qualquer duelista: você pode escolher 1 monstro de LUZ no campo; esse monstro com a face para cima tem seus efeitos negados até o final deste turno.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 Monstro Xyz com a face para cima que você controla; neste tuno, você pode usá-lo como uma Matéria Xyz para uma Invocação-Xyz usando a Classe dele como se fosse o Nível (mesmo que este card deixe o campo).",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 500,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12596,
+  "type": "monster",
+  "name": "Predaplanta Atrapamoscas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; pon 1 Contador de Predador en él, y si su Nivel es 2 o mayor, éste se convierte en Nivel 1 mientras tenga un Contador de Predador. Al comienzo del Damage Step, cuando esta carta batalla con un monstruo de igual Nivel o menor: puedes destruir ese monstruo, y después aumentar el Nivel de esta carta tanto como el Nivel original del monstruo destruido.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

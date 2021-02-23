@@ -1,0 +1,15 @@
+{
+  "id": 8758,
+  "type": "monster",
+  "name": "Dragon des Profondeurs",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Placez 1 Compteur Océan sur cette carte durant la Standby Phase de chaque joueur. Lorsque cette carte est retirée du Terrain, tous les monstres de Type Poisson et Serpent de Mer que vous contrôlez gagnent 200 points d'ATK pour chaque Compteur Océan sur cette carte, jusqu'à la End Phase.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Serpent de Mer",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6991,
+  "type": "monster",
+  "name": "Lykanthrop",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nur mit der Ritualzauberkarte „Synthesezauber“ als Ritualbeschwörung beschworen werden. Wenn diese Karte deinem Gegner Kampfschaden zufügt, füge deinem Gegner 200 Schaden für jedes Normale Monster in deinem Friedhof zu.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Ritual",
+    "Effekt"
+  ]
+}

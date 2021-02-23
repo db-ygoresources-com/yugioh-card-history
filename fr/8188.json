@@ -1,0 +1,15 @@
+{
+  "id": 8188,
+  "type": "monster",
+  "name": "Sirène Archère",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre de max. Niveau 3 face recto que vous contrôlez ; équipez la cible à cette carte. (Vous ne pouvez équiper qu'1 monstre à cette carte à la fois avec cet effet.) Tant qu'elle est équipée avec un monstre par cet effet, cette carte gagne 800 ATK. Si cette carte va être détruite, vous pouvez détruire le monstre qui lui est équipé avec cet effet à la place.",
+  "level": 3,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Serpent de Mer",
+    "Effet"
+  ]
+}

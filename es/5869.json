@@ -1,0 +1,15 @@
+{
+  "id": 5869,
+  "type": "monster",
+  "name": "Valquiria del Mago",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Los monstruos que controla tu adversario no pueden seleccionar para ataques a monstruos de Tipo Lanzador de Conjuros boca arriba, excepto a éste.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

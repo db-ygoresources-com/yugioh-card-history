@@ -1,0 +1,16 @@
+{
+  "id": 10848,
+  "type": "monster",
+  "name": "Dragon Céleste Ascention",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : elle gagne 800 ATK pour chaque carte actuellement dans votre main. Lorsque cette carte que vous contrôlez est détruite par une carte de votre adversaire et envoyée à votre Cimetière, si tous les monstres qui ont été utilisés pour l'Invocation Synchro de cette carte sont dans votre Cimetière : vous pouvez tous les Invoquer Spécialement, mais leurs effets sont annulés. Vous ne pouvez utiliser cet effet de \"Dragon Céleste Ascention\" qu'une fois par tour.",
+  "level": 10,
+  "atk": -1,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

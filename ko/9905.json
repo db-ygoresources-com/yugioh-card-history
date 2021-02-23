@@ -1,0 +1,15 @@
+{
+  "id": 9905,
+  "type": "monster",
+  "name": "갑부 첩자",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "1턴에 1번, 패에서 함정 카드 1장을 묘지로 보내고 발동할 수 있다. 덱에서 레벨 4 이하의 \"첩자\"라는 이름이 붙은 몬스터 1장을 앞면 수비 표시, 또는 뒷면 수비 표시로 특수 소환한다.",
+  "level": 4,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "전사족",
+    "효과"
+  ]
+}

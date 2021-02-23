@@ -1,0 +1,15 @@
+{
+  "id": 9995,
+  "type": "monster",
+  "name": "Evilswarm Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn: You can target 1 Level 5 or higher non-DARK monster on the field; destroy that target.",
+  "level": 5,
+  "atk": 2150,
+  "def": 1250,
+  "properties": [
+    "Rock",
+    "Effect"
+  ]
+}

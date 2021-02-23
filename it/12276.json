@@ -1,0 +1,18 @@
+{
+  "id": 12276,
+  "type": "monster",
+  "name": "Artistamico Occhi Diversi Unicorno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro \"Artistamico\" nel tuo Cimitero; guadagni LP pari al suo ATK.",
+  "pendEffect": "Una volta, mentre questa carta è nella tua Zona Pendulum, quando un tuo mostro \"Occhi Diversi\" dichiara un attacco: puoi scegliere come bersaglio 1 altro mostro \"Artistamico\" che controlli; quel mostro attaccante guadagna ATK pari all'ATK originale del mostro sul Terreno scelto come bersaglio, fino alla fine della Battle Phase (anche se questa carta lascia il Terreno).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

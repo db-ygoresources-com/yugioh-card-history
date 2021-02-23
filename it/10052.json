@@ -1,0 +1,15 @@
+{
+  "id": 10052,
+  "type": "monster",
+  "name": "Donnacimice Inzektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi equipaggiare 1 mostro \"Inzektor\" dalla tua mano o Cimitero a questa carta. Mentre questa carta è equipaggiata ad un mostro, il Livello di quel mostro viene aumentato di 2, e inoltre esso guadagna ATK e DEF pari all'ATK e DEF di questa carta. Mentre questa carta è equipaggiata ad un mostro: puoi mandare al Cimitero questa Carta Equipaggiamento per scegliere come bersaglio 1 mostro scoperto che controlli; aumenta il Livello di quel bersaglio fino a un massimo di 2.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

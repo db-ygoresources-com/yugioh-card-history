@@ -1,0 +1,15 @@
+{
+  "id": 10815,
+  "type": "monster",
+  "name": "Bête Fantôme Méca Aérosguin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez bannir 1 monstre \"Bête Fantôme Méca\" (\"Bête Fantôme Méca Aérosguin\" exclu) depuis votre Cimetière ; Invoquez Spécialement 1 \"Jeton Bête Fantôme Méca\" (Type Machine/VENT/Niveau 3/ATK 0/DEF 0). Le Niveau de cette carte est augmenté de la somme des Niveaux de tous les \"Jeton Bête Fantôme Méca\" que vous contrôlez. Tant que vous contrôlez un Jeton, cette carte ne peut être détruite ni au combat ni par des effets de carte.",
+  "level": 3,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13037,
+  "type": "monster",
+  "name": "Artistamigo Carta Gardna",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Gana DEF igual a la DEF original combinada de todos los otros monstruos \"Artistamigo\" que controles.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 monstruo en Posición de Defensa boca arriba que controles; su DEF se convierte igual a la DEF original combinada de todos los monstruos en Posición de Defensa boca arriba que controlas en este momento (aun si esta carta deja el Campo).",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Roca",
+    "Péndulo",
+    "Efecto"
+  ]
+}

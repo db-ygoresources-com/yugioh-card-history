@@ -1,0 +1,15 @@
+{
+  "id": 12313,
+  "type": "monster",
+  "name": "Gendo le Moine Ascète",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tous les monstres en Position d'Attaque face recto sur le Terrain ne peuvent pas activer leurs effets. Cette carte en Position de Défense ne peut être ni ciblée ni détruite par des effets de carte.",
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

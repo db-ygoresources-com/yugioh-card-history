@@ -1,0 +1,15 @@
+{
+  "id": 9504,
+  "type": "monster",
+  "name": "Cambiosapo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno, puedes Sacrificar 1 monstruo de Tipo Aqua para seleccionar 1 monstruo \"RANA\" en tu Cementerio. Invoca a ese monstruo de Modo Especial, desde tu Cementerio.",
+  "level": 1,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

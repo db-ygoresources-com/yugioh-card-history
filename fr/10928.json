@@ -1,0 +1,15 @@
+{
+  "id": 10928,
+  "type": "monster",
+  "name": "Vengeur Xyz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte n'est pas affectée par les effets de Monstre Xyz. Lorsque cette carte est détruite au combat avec un Monstre Xyz et envoyée au Cimetière : activez 1 de ces effets, selon le Rang du Monstre Xyz qui a détruit cette carte ;\n●Max. Rang 3 : Votre adversaire envoie 1 carte depuis son Extra Deck au Cimetière.\n●Rang 4 : Choisissez 1 carte dans l'Extra Deck de votre adversaire et envoyez-la au Cimetière.\n●Min. Rang 5 : Votre adversaire envoie autant de cartes depuis son Extra Deck au Cimetière que possible, mais pas plus que le Rang du Monstre Xyz.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

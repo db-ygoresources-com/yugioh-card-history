@@ -1,0 +1,16 @@
+{
+  "id": 7733,
+  "type": "monster",
+  "name": "Guerreiro Nitro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "\"Nitro Sincron\" + 1 ou mais monstros não-Reguladores\nUma vez durante cada um dos seus turnos, se você ativar um Card de Magia, apenas durante o cálculo de dano, este card ganha 1000 de ATK durante o próximo ataque neste turno envolvendo este card. Se este card atacante destruir um monstro do oponente em batalha, depois do cálculo de dano: você pode escolher 1 monstro com a face para cima em Posição de Defesa que seu oponente controla; coloque o alvo em Posição de Ataque e, depois, este card pode realizar um segundo ataque, em seguida, contra esse monstro.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Guerreiro",
+    "Sincro",
+    "Efeito"
+  ]
+}

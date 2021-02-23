@@ -1,0 +1,15 @@
+{
+  "id": 6882,
+  "type": "monster",
+  "name": "Barrierenstatue des Abgrunds",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kein Spieler kann Monster als Spezialbeschwörung beschwören, außer FINSTERNIS Monstern.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

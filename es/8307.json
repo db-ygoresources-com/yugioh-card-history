@@ -1,0 +1,15 @@
+{
+  "id": 8307,
+  "type": "monster",
+  "name": "Cusillu, Inmortal Terrestre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Sólo puede haber 1 monstruo \"Inmortal Terrestre\" en el Campo. Si no hay una Carta Mágica de Campo boca arriba en el Campo, destruye esta carta. Tu adversario no puede seleccionar esta carta para ataques. Esta carta puede atacar a tu adversario directamente. Si esta carta fuera a ser destruida en batalla, puedes Sacrificar otro monstruo en su lugar y, si lo haces, reduce a la mitad los LP de tu adversario.",
+  "level": 10,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

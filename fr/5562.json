@@ -1,0 +1,15 @@
+{
+  "id": 5562,
+  "type": "monster",
+  "name": "Drillago",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si les seules cartes contrôlées par votre adversaire sont des monstres face recto avec min. 1600 ATK, cette carte peut attaquer directement votre adversaire.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

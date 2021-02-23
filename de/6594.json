@@ -1,0 +1,15 @@
+{
+  "id": 6594,
+  "type": "monster",
+  "name": "Schüler des verbotenen Zaubers",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normal-, Flipp- oder Spezialbeschwörung beschworen wird, deklariere eine Anzahl von Monsterkarteneigenschaften gleich der Anzahl von „Schüler des verbotenen Zaubers“-Karten in deinem Friedhof. Falls diese Karte ein Monster mit einer der deklarierten Eigenschaften angreift, zerstöre das Monster ohne Schadensberechnung.",
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

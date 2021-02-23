@@ -1,0 +1,15 @@
+{
+  "id": 7717,
+  "type": "monster",
+  "name": "Protettore della Mente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Il controllore di questa carta deve pagare 500 Life Points durante ogni sua Standby Phase. Se non può, distruggi questa carta. I mostri con ATK di 2000 o inferiore non possono dichiarare attacchi, eccetto i mostri di Tipo Psichico.",
+  "level": 3,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Psichico",
+    "Effetto"
+  ]
+}

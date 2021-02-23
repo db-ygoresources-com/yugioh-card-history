@@ -1,0 +1,18 @@
+{
+  "id": 14339,
+  "type": "monster",
+  "name": "Speedroid Marble Machine",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "When this card is Normal Summoned: You can activate this effect; add 1 \"Speedroid\" monster from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Marble Machine\" once per turn.",
+  "pendEffect": "Once per turn, when your Defense Position monster is targeted for an attack: You can change it to face-up Attack Position, also it cannot be destroyed by battle this turn (even if this card leaves the field).",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

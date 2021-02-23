@@ -1,0 +1,15 @@
+{
+  "id": 12564,
+  "type": "monster",
+  "name": "Espadachín Silencioso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando 1 monstruo de Tipo Guerrero, y no puede ser Invocado de Modo Especial de otra forma. Una vez por turno, durante la Standby Phase: esta carta gana 500 ATK. Una vez por turno, durante el turno de cualquier jugador, cuando una Carta Mágica es activada: puedes negar la activación. Si esta carta es destruida en batalla, o si esta carta controlada por su dueño es destruida por el efecto de una carta de tu adversario: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo \"Espadachín Silencioso\", excepto \"Espadachín Silencioso\", ignorando sus condiciones de Invocación.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

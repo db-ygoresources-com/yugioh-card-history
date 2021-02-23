@@ -1,0 +1,15 @@
+{
+  "id": 13559,
+  "type": "monster",
+  "name": "Transféreur Lien",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsqu'un ou plusieurs monstres Cyberse sont Invoqués Normalement ou Spécialement sur votre Terrain tant que ce monstre est sur le Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 \"Jeton Données\" (Cyberse/ LUMIÈRE/Niveau 1/ATK 0/DEF 0). Vous ne pouvez utiliser cet effet de \"Transféreur Lien\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

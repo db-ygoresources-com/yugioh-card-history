@@ -1,0 +1,15 @@
+{
+  "id": 8000,
+  "type": "monster",
+  "name": "Fallenreaktor ・Y FI",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, wenn dein Gegner eine Fallenkarte aktiviert, kannst du die Fallenkarte zerstören und deinem Gegner 800 Schaden zufügen.",
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

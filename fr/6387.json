@@ -1,0 +1,15 @@
+{
+  "id": 6387,
+  "type": "monster",
+  "name": "Drillroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Avant le calcul des dommages, si cette carte attaque un monstre en Position de Défense : détruisez le monstre.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

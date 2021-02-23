@@ -1,0 +1,15 @@
+{
+  "id": 6253,
+  "type": "monster",
+  "name": "Schattentöter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls die einzigen Karten in der Monsterkartenzone deines Gegners Monster in Verteidigungsposition sind, kann diese Karte die Life Points deines Gegners direkt angreifen.",
+  "level": 4,
+  "atk": 1400,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

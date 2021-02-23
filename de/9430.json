@@ -1,0 +1,15 @@
+{
+  "id": 9430,
+  "type": "monster",
+  "name": "Der reisende Merkur",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Tributbeschwörung beschworen wird: Du kannst alle Monster auf dem Spielfeld in die offene Angriffsposition ändern. Du kannst 3 Monster als Tribut anbieten, um diese Karte als Tributbeschwörung zu beschwören (aber nicht um sie zu setzen). Falls diese Karte auf diese Art beschworen wurde, solange sie auf dem Spielfeld liegt, verlieren alle Monster, die dein Gegner kontrolliert, ATK in Höhe ihrer Grund-ATK. Diese Karte kann während jeder Battle Phase einen zweiten Angriff durchführen.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

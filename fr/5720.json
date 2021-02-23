@@ -1,0 +1,15 @@
+{
+  "id": 5720,
+  "type": "monster",
+  "name": "Mille Aiguilles",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte en Position de Défense est attaquée et que l'ATK du monstre attaquant est inférieure à la DEF de cette carte, détruisez le monstre attaquant à la fin de la Damage Step.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8332,
+  "type": "monster",
+  "name": "Arcidemone Teschio-Zombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Zombie Untore\" + 2+ mostri non-Tuner Zombie\nI mostri Zombie che controlli non possono essere distrutti dagli effetti delle carte.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effetto"
+  ]
+}

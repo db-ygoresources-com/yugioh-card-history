@@ -1,0 +1,15 @@
+{
+  "id": 10024,
+  "type": "monster",
+  "name": "Électro-Dragonqueue",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Capable de voler indéfiniment, il attaque en enveloppant son corps d'électricité et en déversant celle-ci sur ses adversaires.\nATTENTION : capturer \"Électro-Dragonqueue\" est interdit par les Anciens Règlements et constitue une infraction de Niveau 6 encourant une sentence d'emprisonnement minimum de 2500 héliocycles.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Normal"
+  ]
+}

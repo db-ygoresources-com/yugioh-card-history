@@ -1,0 +1,16 @@
+{
+  "id": 7865,
+  "type": "monster",
+  "name": "Beraterin Lily",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte für eine Synchrobeschwörung auf den Friedhof gelegt wird, kannst du 500 Life Points bezahlen, um das Synchromonster bis zur End Phase 1000 ATK erhalten zu lassen.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

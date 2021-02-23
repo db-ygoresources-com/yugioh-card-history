@@ -1,0 +1,16 @@
+{
+  "id": 14486,
+  "type": "monster",
+  "name": "Adivinadora Todo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante + 1+ monstruos Lanzador de Conjuros que no sean Cantantes\nEl ATK/DEF de esta carta se convierte en su Nivel x 400. Una vez por turno, durante tu Standby Phase: aumenta el Nivel de esta carta en 1 (máx. 12), y después puedes desterrar 1 monstruo boca arriba que controle tu adversario. Durante la End Phase de tu adversario, si esta carta está en tu Cementerio: puedes desterrar otro monstruo Lanzador de Conjuros en tu Cementerio; Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de \"Adivinadora Todo\" una vez por turno.",
+  "level": 7,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Sincronía",
+    "Efecto"
+  ]
+}

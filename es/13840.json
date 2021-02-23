@@ -1,0 +1,19 @@
+{
+  "id": 13840,
+  "type": "monster",
+  "name": "Mago de la Esperanza",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos de Nivel 4\nSi puedes hacer una Invocación por Péndulo de Nivel 4, puedes Invocar por Péndulo esta carta boca arriba en tu Deck Extra. Puedes desacoplar 1 material de esta carta; Invoca de Modo Especial, desde tu mano, 1 Monstruo de Péndulo de Nivel 7 o menor en Posición de Defensa, pero niega sus efectos, y después puedes poner esta carta boca arriba en tu Zona de Péndulo. Sólo puedes usar este efecto de \"Mago de la Esperanza\" una vez por turno. Si esta carta es Invocada por Péndulo: puedes seleccionar 1 Monstruo de Péndulo en tu Cementerio; acóplalo a esta carta como material.",
+  "pendEffect": "Una vez por turno, cuando un monstruo declara un ataque: puedes negar ese ataque, y después destruir esta carta.",
+  "pendScale": 8,
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Xyz",
+    "Péndulo",
+    "Efecto"
+  ]
+}

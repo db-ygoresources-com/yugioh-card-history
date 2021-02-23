@@ -1,0 +1,18 @@
+{
+  "id": 11871,
+  "type": "monster",
+  "name": "Dragodies, il Guerriero Potenziato",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta nella Zona Mostri del suo proprietario viene distrutta da un attacco o dall'effetto di una carta del tuo avversario: puoi aggiungere 1 mostro di Tipo Guerriero o Incantatore con ATK di 2000 o inferiore dal tuo Deck alla tua mano, eccetto \"Dragodies, il Guerriero Potenziato\", durante la End Phase di questo turno.",
+  "pendEffect": "All'inizio del Damage Step, se un mostro che controlli combatte con un mostro scoperto dell'avversario: puoi scartare 1 carta; l'ATK e il DEF del mostro dell'avversario che sta combattendo diventano la metà dei suoi ATK e DEF attuali (anche se questa carta lascia il Terreno).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

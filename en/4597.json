@@ -1,0 +1,16 @@
+{
+  "id": 4597,
+  "type": "monster",
+  "name": "Morphing Jar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+  "level": 2,
+  "atk": 700,
+  "def": 600,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}

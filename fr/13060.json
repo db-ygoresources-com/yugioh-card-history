@@ -1,0 +1,15 @@
+{
+  "id": 13060,
+  "type": "monster",
+  "name": "Dragarde du Calice du Monde",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsqu'une carte ou un effet qui cible votre monstre lié est activé (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Normal dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense dans votre zone pointée par un Monstre Lien. Vous ne pouvez utiliser cet effet de \"Dragarde du Calice du Monde\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

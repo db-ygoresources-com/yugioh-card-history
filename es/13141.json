@@ -1,0 +1,18 @@
+{
+  "id": 13141,
+  "type": "monster",
+  "name": "Ninja del Ocaso Jo-gen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes mostrar 1 carta \"Ninjitsu Arte\" en tu mano; Invoca esta carta de Modo Especial desde tu mano. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración.",
+  "pendEffect": "Si tu monstruo \"Ninja\" ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Efecto"
+  ]
+}

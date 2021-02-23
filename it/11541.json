@@ -1,0 +1,18 @@
+{
+  "id": 11541,
+  "type": "monster",
+  "name": "Cefalopode Qliphort",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi Evocare Normalmente questa carta senza offrire Tributi. Se questa carta viene Evocata Normalmente senza offrire Tributi, o se viene Evocata Specialmente, il suo Livello diventa 4 e il suo ATK originale diventa 1800. Se questa carta viene Evocata Normalmente/Posizionata, essa è immune agli effetti attivati di qualsiasi mostro il cui Livello/Rango originale è inferiore al Livello attuale di questa carta. Quando questa carta viene Evocata tramite Tributo offrendo come Tributo uno o più mostri \"Qli\": puoi attivare questo effetto; se il tuo avversario hai più mostri nel suo Cimitero di te, guadagni LP pari alla differenza x 300 e, se lo fai, infliggi lo stesso ammontare di danni al tuo avversario.",
+  "pendEffect": "Non puoi Evocare Specialmente mostri, eccetto mostri \"Qli\". Questo effetto non può essere annullato. Tutti i mostri controllati dal tuo avversario perdono 300 ATK.",
+  "pendScale": 9,
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

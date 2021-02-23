@@ -1,0 +1,16 @@
+{
+  "id": 10490,
+  "type": "monster",
+  "name": "スターフィッシュ",
+  "nameRuby": "スターフィッシュ",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "１ターンに１度、自分のメインフェイズ時に発動できる。自分フィールド上の全ての「スターフィッシュ」のレベルを１つ上げる。",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "水族",
+    "効果"
+  ]
+}

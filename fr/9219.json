@@ -1,0 +1,16 @@
+{
+  "id": 9219,
+  "type": "monster",
+  "name": "Casse-Cou Déterminé",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur de Type Guerrier + 1 monstre non-Syntoniseur de Type Guerrier ou plus\nCette carte ne peut pas être détruite au combat lorsqu'elle est attaquée par un monstre avec une ATK supérieure. Après le calcul des dommages, si cette carte a été attaquée par un monstre avec une ATK supérieure : détruisez le monstre de votre adversaire qu'elle a combattu.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

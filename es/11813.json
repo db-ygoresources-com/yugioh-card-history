@@ -1,0 +1,18 @@
+{
+  "id": 11813,
+  "type": "monster",
+  "name": "Paladín Caballerígneo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Este Caballerígneo tiene reputación de ser un pensador que mantiene la cabeza fría. Pero la verdad es que sus emociones sólo necesitan un poco más de tiempo para encenderse.",
+  "pendEffect": "Si tienes una carta \"Caballerígneo\" en tu otra Zona del Péndulo: puedes destruir ambas cartas en tus Zonas del Péndulo y, si lo haces, añade a tu mano 1 monstruo de FUEGO de Tipo Guerrero en tu Deck o Cementerio.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1400,
+  "def": 1900,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Normal"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12322,
+  "type": "monster",
+  "name": "Rompecabezas de Alta Velociroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1 o más monstruos que no sean Cantantes\nAl comienzo del Damage Step, si esta carta batalla con un monstruo que fue Invocado de Modo Especial: hasta el final del Damage Step, puedes hacer que el ATK de esta carta se convierta en el doble de su ATK en este momento. Una vez por turno, durante la End Phase, si esta carta está en el Cementerio porque esta carta Invocada por Sincronía fue mandada allí desde el Campo este turno: puedes seleccionar 1 monstruo \"Velociroid\" en tu Cementerio, excepto \"Rompecabezas de Alta Velociroid\"; añádelo a tu mano.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1600,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

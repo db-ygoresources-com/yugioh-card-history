@@ -1,0 +1,15 @@
+{
+  "id": 9741,
+  "type": "monster",
+  "name": "Chevalier Automate",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsqu'un monstre \"Automate\" face recto que vous contrôlez est ciblé par une attaque : vous pouvez annuler l'attaque. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

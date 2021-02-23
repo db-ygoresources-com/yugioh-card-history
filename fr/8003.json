@@ -1,0 +1,15 @@
+{
+  "id": 8003,
+  "type": "monster",
+  "name": "Rose Tentaculaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non Invocable Spécialement. Au début de votre Battle Phase, pour chaque monstre Plante actuellement contrôlé par votre adversaire, cette carte gagne 1 attaque supplémentaire durant chaque Battle Phase ce tour. Chaque fois que cette carte détruit un monstre Plante au combat : infligez 300 points de dommages à votre adversaire.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

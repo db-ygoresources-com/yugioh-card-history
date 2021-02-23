@@ -1,0 +1,16 @@
+{
+  "id": 13996,
+  "type": "monster",
+  "name": "Attelage du Destin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "(Cette carte est toujours aussi traitée comme une carte \"Valkyrie-\".)\nUne fois par tour, vous pouvez SOIT : ciblez 1 monstre Elfe que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement. Si le monstre équipé va être détruit au combat ou par un effet de carte, détruisez cette carte à la place. Le monstre équipé peut attaquer directement, mais lorsqu'il le fait en utilisant cet effet, les dommages de combat infligés à votre adversaire sont divisés par deux.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Elfe",
+    "Union",
+    "Effet"
+  ]
+}

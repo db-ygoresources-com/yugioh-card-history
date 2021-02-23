@@ -1,0 +1,16 @@
+{
+  "id": 6744,
+  "type": "monster",
+  "name": "Rescueroid Ambulanza",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "\"Rescueroid\" + \"Ambulanceroid\"\nQuesto mostro non può essere Evocato tramite Evocazione Speciale se non tramite Evocazione per Fusione. Quando un mostro sul tuo Terreno viene distrutto in seguito ad una battaglia e mandato al Cimitero, puoi Evocare tramite Evocazione Speciale quel mostro in Posizione di Difesa. Puoi usare questo effetto solo una volta per turno.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Macchina",
+    "Fusione",
+    "Effetto"
+  ]
+}

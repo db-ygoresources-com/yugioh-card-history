@@ -1,0 +1,16 @@
+{
+  "id": 7710,
+  "type": "monster",
+  "name": "Combattente Jutte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, puoi mettere 1 mostro scoperto in Posizione di Attacco controllato dal tuo avversario scoperto in Posizione di Difesa.",
+  "level": 2,
+  "atk": 700,
+  "def": 900,
+  "properties": [
+    "Guerriero",
+    "Tuner",
+    "Effetto"
+  ]
+}

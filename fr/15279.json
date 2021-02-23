@@ -1,0 +1,16 @@
+{
+  "id": 15279,
+  "type": "monster",
+  "name": "Mommy Melffy",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres Bête de Niveau 2\nUne fois par tour (Effet Rapide) : vous pouvez attacher 1 monstre Bête depuis votre main ou Terrain face recto à cette carte comme Matériel. Cette carte gagne des effets selon le nombre de Matériels qui lui sont attachés.\n●3+ : Non destructible au combat.\n●4+ : Vous ne recevez aucun dommage de combats impliquant cette carte.\n●5+ : Lorsqu'une attaque impliquant cette carte et un monstre en Position d'Attaque est déclarée : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK du monstre en Position d'Attaque.",
+  "rank": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Bête",
+    "Xyz",
+    "Effet"
+  ]
+}

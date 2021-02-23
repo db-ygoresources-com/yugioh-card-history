@@ -1,0 +1,19 @@
+{
+  "id": 13131,
+  "type": "monster",
+  "name": "Dragão Peçonha de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 monstro \"Peçonha Insaciável\" + 1 monstro \"Olhos Anômalos\"\nDeve ser Invocado por Invocação-Fusão e pode, depois, ser Invocado por Invocação-Pêndulo. Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla; até a Fase Final, este card ganha ATK igual ao ATK desse monstro e, se isso acontecer, o nome deste card se torna o nome original desse monstro e troque este efeito pelo efeito original desse monstro. Se este card na Zona de Monstros for destruído: você pode Invocar 1 monstro por Invocação-Especial da sua Zona de Pêndulo e, se isso acontecer, coloque este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 Monstro de Fusão que você controla; até o final deste turno, ele ganha 1000 de ATK para cada monstro que seu oponente controla.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13760,
+  "type": "monster",
+  "name": "Régulex Croisédia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 Monstres à Effet (un monstre \"Croisédia\" inclus)\nGagne une ATK égale à la somme des ATK d'origine de tous les monstres pointés par cette carte. Les monstres pointés par cette carte ne peuvent pas attaquer. Si un ou plusieurs Monstres à Effet sont Invoqués Spécialement dans une ou plusieurs zones pointées par cette carte (sauf durant la Damage Step) : vous pouvez ajouter 1 Magie/Piège \"Croisédia\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Régulex Croisédia\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Bête",
+    "Lien",
+    "Effet"
+  ]
+}

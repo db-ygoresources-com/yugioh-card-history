@@ -1,0 +1,15 @@
+{
+  "id": 8273,
+  "type": "monster",
+  "name": "Enano Inférnico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras no tengas cartas en tu mano, si un monstruo que controlas ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "level": 2,
+  "atk": 800,
+  "def": 500,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10920,
+  "type": "monster",
+  "name": "Oracolo - Custode di Tombe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi offrire come Tributo 3 mostri o 1 mostro \"Custode di Tombe\" per Evocare tramite Tributo (ma non Posizionare) questa carta. Quando questa carta viene Evocata tramite Tributo: puoi attivare qualsiasi di questi effetti, e risolverli in ordine, fino al massimo al numero di mostri \"Custode di Tombe\" offerti come Tributo per la sua Evocazione;\n●Questa carta guadagna ATK pari alla somma dei Livelli che tutti i mostri offerti come Tributo per la sua Evocazione tramite Tributo avevano sul Terreno x 100.\n●Distruggi tutti i mostri Posizionati controllati dal tuo avversario.\n●Tutti i mostri attualmente controllati dal tuo avversario perdono 2000 ATK/DEF.",
+  "level": 10,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

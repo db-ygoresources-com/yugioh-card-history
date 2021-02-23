@@ -1,0 +1,15 @@
+{
+  "id": 11622,
+  "type": "monster",
+  "name": "Transporteur Synchronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre \"Synchronique\" en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.) Si un autre monstre \"Synchronique\" est envoyé à votre Cimetière comme Matériel pour l'Invocation Synchro d'un Monstre Synchro Guerrier ou Machine, tant que vous contrôlez cette carte : vous pouvez Invoquer Spécialement 1 \"Jeton Synchronique\" (Machine/TERRE/Niveau 2/ATK 1000/DEF 0). Vous ne pouvez utiliser cet effet de \"Transporteur Synchronique\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

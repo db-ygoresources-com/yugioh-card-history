@@ -1,0 +1,16 @@
+{
+  "id": 8039,
+  "type": "monster",
+  "name": "Gol'gar la Forteresse Cosmique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Ammonite Alien\" + 1 monstre non Syntoniseur \"Alien\" ou plus\nUne fois par tour, vous pouvez sélectionner un nombre de votre choix de Cartes Magie ou Piège face recto. Renvoyez ces cartes dans la main de leur propriétaire et distribuez de nouveaux Compteurs-A parmi les monstres sur le Terrain équivalents au nombre de cartes renvoyées. Une fois par tour, vous pouvez retirer 2 Compteurs-A du Terrain pour détruire 1 carte contrôlée par votre adversaire.",
+  "level": 5,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Reptile",
+    "Synchro",
+    "Effet"
+  ]
+}

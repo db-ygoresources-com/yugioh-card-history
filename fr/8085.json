@@ -1,0 +1,16 @@
+{
+  "id": 8085,
+  "type": "monster",
+  "name": "Sorcière de la Calamité",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1 monstre non Syntoniseur de Type Magicien ou plus\nLorsque cette carte est Invoquée par Synchronisation, placez 1 Compteur Magie sur elle. Une fois par tour, vous pouvez défausser un nombre de votre choix de cartes pour placer 1 Compteur Magie sur un ou plusieurs monstres que vous contrôlez pour chaque carte défaussée. Vous pouvez retirer tous les Compteurs Magie sur le Terrain pour infliger 500 points de dommage à votre adversaire pour chaque Compteur Magie retiré.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Synchro",
+    "Effet"
+  ]
+}

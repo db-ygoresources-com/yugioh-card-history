@@ -1,0 +1,15 @@
+{
+  "id": 14264,
+  "type": "monster",
+  "name": "Dama Neo Flamvell",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "(Efecto Rápido): puedes mandar al Cementerio 1 monstruo de FUEGO en tu mano, y después selecciona 1 carta en el Cementerio de tu adversario; destierra esa carta. Si una carta es desterrada del Cementerio de tu adversario, mientras tú controlas este monstruo (excepto durante el Damage Step): puedes mandar al Cementerio 1 monstruo de FUEGO con 200 DEF o menos en tu Deck, excepto \"Dama Neo Flamvell\". Sólo puedes usar cada efecto de \"Dama Neo Flamvell\" una vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

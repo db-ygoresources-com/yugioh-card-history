@@ -1,0 +1,16 @@
+{
+  "id": 7199,
+  "type": "monster",
+  "name": "Sauterelle Faucheuse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Tant que cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :\n ● Cette carte peut attaquer une fois chaque monstre contrôlé par votre adversaire.",
+  "level": 5,
+  "atk": 2350,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Gémeau",
+    "Effet"
+  ]
+}

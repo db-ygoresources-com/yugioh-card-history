@@ -1,0 +1,15 @@
+{
+  "id": 13557,
+  "type": "monster",
+  "name": "Cuernocomando",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Sacrificar 1 monstruo Ciberso de Nivel 4 o menor; Invoca de Modo Especial, desde tu Deck y/o Cementerio cualquier cantidad de Monstruos Normales Ciberso cuyos Niveles totales sean iguales al Nivel del monstruo Sacrificado en el Campo, pero destiérralos durante la End Phase. Sólo puedes usar este efecto de \"Cuernocomando\" una vez por turno.",
+  "level": 1,
+  "atk": 200,
+  "def": 400,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

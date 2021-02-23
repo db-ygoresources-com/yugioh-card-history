@@ -1,0 +1,16 @@
+{
+  "id": 14040,
+  "type": "monster",
+  "name": "Tsuchigumo, il Mayakashi Avvelenato",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nPuoi controllare solo 1 \"Tsuchigumo, il Mayakashi Avvelenato\". Puoi utilizzare ognuno di questi effetti di \"Tsuchigumo, il Mayakashi Avvelenato\" una sola volta per turno.\n●Se un Mostro Synchro sotto il tuo comando, il cui Livello originale è 7, viene distrutto in battaglia o dall'effetto di una carta dell'avversario mentre questa carta è nel Cimitero: puoi bandire 1 altro mostro Zombie dal tuo Cimitero e, se lo fai, Evoca Specialmente questa carta.\n●Se questa carta viene Evocata Specialmente dal Cimitero: puoi far mandare a ogni giocatore le prime 3 carte dal suo Deck al Cimitero.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effetto"
+  ]
+}

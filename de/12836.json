@@ -1,0 +1,16 @@
+{
+  "id": 12836,
+  "type": "monster",
+  "name": "Giergift-Fusionsdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Raubpflanze“-Monster + 1 FINSTERNIS Monster, dessen Grund-Stufe 8 oder höher ist\nMuss erst als Fusionsbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; bis zum Ende dieses Spielzugs ändere die ATK des gewählten Ziels zu 0, zusätzlich bleiben die Effekte des gewählten Ziels annulliert. Falls diese Karte zerstört und auf den Friedhof gelegt wird: Zerstöre so viele Monster auf dem Spielfeld wie möglich, dann kannst du 1 FINSTERNIS Monster der Stufe 8 oder höher von deinem Friedhof verbannen und diese Karte als Spezialbeschwörung vom Friedhof beschwören.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

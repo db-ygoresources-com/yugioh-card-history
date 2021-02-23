@@ -1,0 +1,15 @@
+{
+  "id": 6037,
+  "type": "monster",
+  "name": "Hurleur d'Esprit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Vous pouvez faire l'Invocation Spéciale d'1 Monstre Normal de Niveau 3 ou moins depuis votre Cimetière sur votre Terrain.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

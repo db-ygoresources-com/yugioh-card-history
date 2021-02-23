@@ -1,0 +1,15 @@
+{
+  "id": 15505,
+  "type": "monster",
+  "name": "Courtier Ésotérique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que vous contrôlez une Magie Continue/Piège Continu, cette carte ne peut être détruite ni au combat ni par des effets de carte. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez envoyer 1 Magie Continue/Piège Continu face recto que vous contrôlez au Cimetière ; piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Courtier Ésotérique\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

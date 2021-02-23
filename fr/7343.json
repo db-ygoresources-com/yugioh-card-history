@@ -1,0 +1,15 @@
+{
+  "id": 7343,
+  "type": "monster",
+  "name": "Dragon de la Nuit Blanche",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant le tour de chaque joueur, lorsqu'une Carte Magie/Piège qui cible cette carte est activée : annulez l'activation, et si vous le faites, détruisez-la. Lorsqu'un autre monstre face recto que vous contrôlez est ciblé par une attaque : vous pouvez envoyer 1 Carte Magie/Piège que vous contrôlez au Cimetière ; l'attaque cible désormais cette carte.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

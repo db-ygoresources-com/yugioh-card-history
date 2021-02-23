@@ -1,0 +1,18 @@
+{
+  "id": 12911,
+  "type": "monster",
+  "name": "Magicien Poison Violet",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Dragon Fusion\".)\nSi cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 carte face recto sur le Terrain ; détruisez-la.",
+  "pendEffect": "Une fois par tour, si votre monstre TÉNÈBRES de Type Magicien combat, avant le calcul des dommages : vous pouvez activer cet effet ; le monstre gagne 1200 ATK (jusqu'à la fin de la Damage Step), puis détruisez cette carte.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

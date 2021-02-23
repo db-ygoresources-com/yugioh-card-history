@@ -1,0 +1,15 @@
+{
+  "id": 10114,
+  "type": "monster",
+  "name": "Dragard",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 Monstre Normal avec max. 1000 ATK dans votre Cimetière ; Invoquez Spécialement la cible en Position de Défense face recto. Une fois par tour : vous pouvez Sacrifier 1 monstre de Type Dragon, puis ciblez 1 monstre face recto que vous contrôlez ; jusqu'à la End Phase, son Niveau devient 8, et s'il le fait, il gagne 800 ATK.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1900,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

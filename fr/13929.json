@@ -1,0 +1,19 @@
+{
+  "id": 13929,
+  "type": "monster",
+  "name": "Dragon Fusolaire aux Yeux Galactiques",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres LUMIÈRE (un monstre avec min. 2000 ATK inclus)\nSi cette carte est Invoquée par Lien : vous pouvez cibler 1 monstre \"Photon\" ou \"Galactique\" dans votre Cimetière ; ajoutez-le à votre main. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez défausser 1 carte \"Photon\" et 1 carte \"Galactique\", OU défaussez 1 \"Dragon Photon aux Yeux Galactiques\", puis ciblez 1 monstre Invoqué Spécialement contrôlé par votre adversaire ; détruisez-le. Vous ne pouvez utiliser chaque effet de \"Dragon Fusolaire aux Yeux Galactiques\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Dragon",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11320,
+  "type": "monster",
+  "name": "Dante, Viaggiatore dell'Abisso Bruciante",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri di Livello 3\nUna volta per turno: puoi staccare 1 materiale da questa carta e selezionare un numero tra 1 e 3, poi mandare quel numero di carte dalla cima del tuo Deck al Cimitero; fino alla fine di questo turno, questa carta guadagna 500 ATK per ogni carta mandata al Cimitero in questo modo. Se questa carta attacca, essa viene messa in Posizione di Difesa alla fine della Battle Phase. Se questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 carta \"Abisso Bruciante\" nel tuo Cimitero, eccetto questa carta; aggiungila alla tua mano.",
+  "rank": 3,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Guerriero",
+    "Xyz",
+    "Effetto"
+  ]
+}

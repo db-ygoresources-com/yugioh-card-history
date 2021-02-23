@@ -1,0 +1,16 @@
+{
+  "id": 13920,
+  "type": "monster",
+  "name": "Salamangrande Aigle Émeraude",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Ascension de la Salamangrande\". Lorsque cette carte est Invoquée Rituellement en utilisant \"Salamangrande Aigle Émeraude\" que vous contrôlez : vous pouvez détruire tous les monstres Invoqués Spécialement contrôlés par votre adversaire. Une fois par tour : vous pouvez Sacrifier 1 Monstre Lien \"Salamangrande\" ; ce tour, cette carte gagne cet effet.\n●Au début de la Damage Step, si cette carte combat un monstre de l'adversaire : détruisez le monstre de l'adversaire, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Rituel",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15830,
+  "type": "monster",
+  "name": "Oratore per la Barriera di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre controlli un altro mostro \"Barriera di Ghiaccio\", i mostri in Posizione di Difesa controllati dal tuo avversario non possono cambiare la loro posizione. Puoi utilizzare ognuno dei seguenti effetti di \"Oratore per la Barriera di Ghiaccio\" una sola volta per turno. Se controlli un mostro \"Barriera di Ghiaccio\": puoi Evocare Specialmente questa carta dalla tua mano. Se controlli un mostro \"Barriera di Ghiaccio\": puoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 1 \"Segna-Barriera di Ghiaccio\" (Acqua/ACQUA/Livello 1/ATK 0/DEF 0).",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

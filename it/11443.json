@@ -1,0 +1,18 @@
+{
+  "id": 11443,
+  "type": "monster",
+  "name": "D/D/D Armageddon Re del Giudizio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, se uno o più mostri che controlli vengono distrutti in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 di quei mostri; questa carta guadagna ATK pari all'ATK originale di quel mostro fino alla fine di questo turno. Questa carta non può attaccare il tuo avversario direttamente durante il turno in cui viene attivato questo effetto. Non può essere distrutto dagli effetti delle Magie/Trappole che non scelgono questa carta come bersaglio.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro \"D/D\" che controlli; esso guadagna 800 ATK, fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

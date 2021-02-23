@@ -1,0 +1,19 @@
+{
+  "id": 14208,
+  "type": "monster",
+  "name": "Signore Oscuro Condannato",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri Fata\nPuoi Evocare tramite Tributo i mostri Fata che richiedono 2 Tributi bandendo 2 mostri dal tuo Cimitero invece di offrire Tributi (viene sempre considerata come un'Evocazione tramite Tributo). Puoi scartare 1 carta; prendi 1 mostro \"Signore Oscuro\" dal tuo Deck e aggiungilo alla tua mano oppure mandalo al Cimitero. Puoi utilizzare questo effetto di \"Signore Oscuro Condannato\" una sola volta per turno. Una volta per turno, durante la tua End Phase: guadagni 500 LP per ogni mostro Fata sul Terreno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Fata",
+    "Link",
+    "Effetto"
+  ]
+}

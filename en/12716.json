@@ -1,0 +1,18 @@
+{
+  "id": 12716,
+  "type": "monster",
+  "name": "Abyss Actor - Wild Hope",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn: You can make this card gain 100 ATK for each \"Abyss Actor\" monster you currently control with different names, until the end of this turn. If this card is destroyed by battle or card effect: You can add 1 \"Abyss Actor\" card from your Deck to your hand, except \"Abyss Actor - Wild Hope\". You can only use this effect of \"Abyss Actor - Wild Hope\" once per turn.",
+  "pendEffect": "Once per turn: You can target 1 \"Abyss Actor\" card in your other Pendulum Zone; its Pendulum Scale becomes 9 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters (even if this card leaves the field).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

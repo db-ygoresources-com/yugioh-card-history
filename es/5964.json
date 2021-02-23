@@ -1,0 +1,15 @@
+{
+  "id": 5964,
+  "type": "monster",
+  "name": "Dragón Escupefuego",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 carta que controle tu adversario; lanza una moneda 3 veces y destruye ese objetivo si al menos 2 de los resultados son caras.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

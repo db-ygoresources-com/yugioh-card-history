@@ -1,0 +1,16 @@
+{
+  "id": 15380,
+  "type": "monster",
+  "name": "Numero 1: Cancello Numeron Ekam",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "3 mostri di Livello 1\nNon può essere distrutto in battaglia. Alla fine del Damage Step, se questa carta ha combattuto con un mostro dell'avversario: puoi staccare 1 materiale da questa carta; raddoppia l'ATK di tutti i mostri \"Numeron\" che controlli attualmente, fino alla fine di questo turno.",
+  "rank": 1,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Macchina",
+    "Xyz",
+    "Effetto"
+  ]
+}

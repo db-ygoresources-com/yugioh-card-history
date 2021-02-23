@@ -1,0 +1,15 @@
+{
+  "id": 7937,
+  "type": "monster",
+  "name": "Kasha",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao controlar 2 ou mais monstros Zumbi. Se este card for Invocado por Invocação-Especial: embaralhe no Deck tantos monstros no campo quanto possível e, se isso acontecer, o ATK deste card se torna 1000 x o número de monstros com a face para cima embaralhados no Deck desta forma, cujo Tipo original era Zumbi.",
+  "level": 8,
+  "atk": -1,
+  "def": 1000,
+  "properties": [
+    "Zumbi",
+    "Efeito"
+  ]
+}

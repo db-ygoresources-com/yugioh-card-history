@@ -1,0 +1,16 @@
+{
+  "id": 12849,
+  "type": "monster",
+  "name": "Beschworener Mechaba",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Aleister der Beschwörer“ + 1 LICHT Monster\nEinmal pro Spielzug, wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird (Schnelleffekt): Du kannst denselben Typ Karte (Monster, Zauber oder Falle) von deiner Hand auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, verbanne die Karte.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

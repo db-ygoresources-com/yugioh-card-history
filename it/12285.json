@@ -1,0 +1,18 @@
+{
+  "id": 12285,
+  "type": "monster",
+  "name": "Tigre della Lucelunare",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro \"Lucelunare\" nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di \"Tigre della Lucelunare\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro \"Lucelunare\" nel tuo Cimitero; Evocalo Specialmente, ma esso non può attaccare, i suoi effetti sono annullati, inoltre viene distrutto durante la End Phase.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Guerriero-Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6176,
+  "type": "monster",
+  "name": "El Creador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Especial desde el Cementerio. Una vez por turno: puedes seleccionar 1 monstruo en tu Cementerio; manda al Cementerio 1 carta en tu mano y, si lo haces, Invoca ese objetivo de Modo Especial.",
+  "level": 8,
+  "atk": 2300,
+  "def": 3000,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

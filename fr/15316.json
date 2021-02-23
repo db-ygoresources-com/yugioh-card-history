@@ -1,0 +1,16 @@
+{
+  "id": 15316,
+  "type": "monster",
+  "name": "Fille de la Rose",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un ou plusieurs monstres Plante face recto que vous contrôlez sont envoyés au Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si un monstre Plante est sur le Terrain et cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser qu'1 effet de \"Fille de la Rose\" par tour, et uniquement une fois le tour.",
+  "level": 3,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

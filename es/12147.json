@@ -1,0 +1,18 @@
+{
+  "id": 12147,
+  "type": "monster",
+  "name": "Escritoriobot 007",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta gana 500 ATK por cada carta \"Escritoriobot\" en tu Cementerio. Los monstruos que controle tu adversario no pueden seleccionar para ataques a monstruos \"Escritoriobot\" boca arriba, excepto a éste. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "pendEffect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Escritoriobot\". Este efecto no puede ser negado.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

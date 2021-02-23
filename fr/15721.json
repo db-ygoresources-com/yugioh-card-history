@@ -1,0 +1,15 @@
+{
+  "id": 15721,
+  "type": "monster",
+  "name": "Sagittaire Féerique Ingunar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ne peut pas attaquer le tour où cette carte est Invoquée Spécialement. Si cette carte est Invoquée Spécialement par l'effet d'un monstre Plante : vous pouvez cibler 1 monstre Plante de min. Niveau 6 dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Plante exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Sagittaire Féerique Ingunar\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

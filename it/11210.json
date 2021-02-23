@@ -1,0 +1,18 @@
+{
+  "id": 11210,
+  "type": "monster",
+  "name": "Cavaliere Lampo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Il potere del pendolo si irradia da questo luminoso cavaliere.",
+  "pendEffect": "",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Normale"
+  ]
+}

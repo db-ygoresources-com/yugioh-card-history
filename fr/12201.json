@@ -1,0 +1,15 @@
+{
+  "id": 12201,
+  "type": "monster",
+  "name": "Les Chevaliers Fantômes du Casque Fendu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si une ou plusieurs cartes \"Chevaliers Fantômes\" sont envoyées à votre Cimetière : cette carte gagne 500 ATK. Vous pouvez bannir cette carte depuis votre Cimetière ; durant la End Phase de ce tour, ajoutez 1 carte \"Chevaliers Fantômes\" depuis votre Cimetière à votre main. Vous ne pouvez utiliser chaque effet de \"Les Chevaliers Fantômes du Casque Fendu\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

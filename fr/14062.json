@@ -1,0 +1,16 @@
+{
+  "id": 14062,
+  "type": "monster",
+  "name": "Dragon Nécro Zombie aux Yeux Rouges",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nGagne 100 ATK/DEF pour chaque monstre Zombie sur le Terrain et dans les Cimetières. Lorsqu'un autre monstre Zombie est détruit au combat : vous pouvez Invoquer Spécialement 1 monstre Zombie depuis l'un des Cimetières sur votre Terrain. Vous ne pouvez utiliser cet effet de \"Dragon Nécro Zombie aux Yeux Rouges\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effet"
+  ]
+}

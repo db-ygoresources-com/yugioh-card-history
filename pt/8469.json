@@ -1,0 +1,15 @@
+{
+  "id": 8469,
+  "type": "monster",
+  "name": "Sapo de Troca",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Você pode Invocar este card por Invocação-Especial (da sua mão) ao descartar 1 outro monstro de ÁGUA. Quando este card for Invocado: você pode enviar 1 monstro Aqua de ÁGUA de Nível 2 ou menos do seu Deck ou campo com a face para cima para o Cemitério. Uma vez por turno: você pode devolver 1 monstro que você controla para a mão; você pode Invocar por Invocação-Normal 1 monstro \"Sapo\" durante sua Fase Principal neste turno, exceto \"Sapo de Troca\", em adição à sua Invocação-Normal/Baixar (padrão). (Você só pode se aproveitar deste efeito uma vez por turno.)",
+  "level": 2,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Efeito"
+  ]
+}

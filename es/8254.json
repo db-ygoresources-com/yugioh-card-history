@@ -1,0 +1,15 @@
+{
+  "id": 8254,
+  "type": "monster",
+  "name": "Gusano Sólido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta gana 100 DEF por cada monstruo \"Gusano/a\" de Tipo Reptil en tu Cementerio. Si tu adversario recibe daño de batalla por atacar a esta carta, al final del Damage Step selecciona 1 Carta Mágica o de Trampa que controle tu adversario, y destrúyela.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

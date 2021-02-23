@@ -1,0 +1,19 @@
+{
+  "id": 13265,
+  "type": "monster",
+  "name": "Neurogos X-Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres Insecte\nLes monstres \"Krawler\" pointés par cette carte ne peuvent pas être détruits au combat, gagnent 300 ATK/DEF, et s'ils combattent un monstre de votre adversaire, les dommages de combat qu'ils infligent à votre adversaire sont doublés. Si cette carte face recto est détruite au combat, ou quitte le Terrain à cause d'un effet de carte de l'adversaire tant que son propriétaire la contrôle : vous pouvez cibler 2 monstres \"Krawler\" de noms différents dans votre Cimetière ; Invoquez-les Spécialement en Position de Défense face verso.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Insecte",
+    "Lien",
+    "Effet"
+  ]
+}

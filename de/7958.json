@@ -1,0 +1,15 @@
+{
+  "id": 7958,
+  "type": "monster",
+  "name": "Flamvell-Grunika",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte ein Monster durch Kampf zerstört und auf den Friedhof legt, füge deinem Gegner Schaden in Höhe der Stufe des zerstörten Monsters x 200 zu.",
+  "level": 4,
+  "atk": 1700,
+  "def": 200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

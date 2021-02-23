@@ -1,0 +1,21 @@
+{
+  "id": 13602,
+  "type": "monster",
+  "name": "Griffon, Chevalier du Cauchemar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres de noms différents\nSi cette carte est Invoquée par Lien : vous pouvez défausser 1 carte, puis ciblez 1 Magie/Piège dans votre Cimetière ; Posez-le sur votre Terrain, mais il ne peut pas être activé ce tour, puis, si cette carte était co-liée lorsque cet effet a été activé, vous pouvez piocher 1 carte. Vous ne pouvez utiliser cet effet de \"Griffon, Chevalier du Cauchemar\" qu'une fois par tour. Les monstres Invoqués Spécialement sur le Terrain ne peuvent pas activer leurs effets, sauf s'ils sont liés.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

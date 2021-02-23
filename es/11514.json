@@ -1,0 +1,16 @@
+{
+  "id": 11514,
+  "type": "monster",
+  "name": "Beelzeus de los Dragones Diabólicos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante de OSCURIDAD + 2+ monstruos que no sean Cantantes\nNo puede ser destruido en batalla o por efectos de cartas. Los otros monstruos que controles no pueden atacar. Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; este turno, cualquier daño de batalla que recibe tu adversario de ataques que involucren esta carta se divide a la mitad, y además, cambia el ATK de ese monstruo a 0, y, si lo haces, gana LP iguales a su ATK original.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

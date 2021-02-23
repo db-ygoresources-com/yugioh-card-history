@@ -1,0 +1,19 @@
+{
+  "id": 13762,
+  "type": "monster",
+  "name": "Mekk-Chevalier de l'Étoile du Matin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres (un monstre \"Mekk-Chevalier\" inclus)\nSi cette carte est Invoquée par Lien : vous pouvez défausser 1 monstre \"Mekk-Chevalier\" ou 1 carte \"Héritage du Monde\" ; ajoutez 1 carte \"Héritage du Monde\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Mekk-Chevalier de l'Étoile du Matin\" qu'une fois par tour. Si votre monstre \"Mekk-Chevalier\" combat un monstre qui est dans une colonne différente, votre monstre ne peut pas être détruit au combat, et aussi, vous ne recevez aucun dommage de combat de ce combat.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

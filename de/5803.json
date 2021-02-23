@@ -1,0 +1,15 @@
+{
+  "id": 5803,
+  "type": "monster",
+  "name": "Alptraum-Pinguin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Alle offenen WASSER Monster, die du kontrollierst, erhalten 200 ATK. Wenn diese Karte aufgedeckt wird: Wähle 1 Karte, die dein Gegner kontrolliert; gib das gewählte Ziel auf die Hand zurück.",
+  "level": 4,
+  "atk": 900,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

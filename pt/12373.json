@@ -1,0 +1,18 @@
+{
+  "id": 12373,
+  "type": "monster",
+  "name": "Camarartista Cobralanço",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Este card pode atacar diretamente seu oponente. Se este card atacar, ele é colocado em Posição de Defesa no final da Fase de Batalha.",
+  "pendEffect": "Uma vez por turno, quando um monstro que você controla causar dano de batalha ao seu oponente: você pode enviar o card do topo do Deck do seu oponente para o Cemitério.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "Réptil",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

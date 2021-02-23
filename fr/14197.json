@@ -1,0 +1,19 @@
+{
+  "id": 14197,
+  "type": "monster",
+  "name": "Soldat d'Élite Alien Structure M",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Reptile\n(Effet Rapide) : vous pouvez défausser 1 monstre ; placez un nombre de Compteurs-A, distribués à votre guise, égal à son Niveau d'origine sur un ou plusieurs monstres face recto sur le Terrain. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez Invoquer Spécialement un nombre de monstres non-Lien Reptile de noms différents depuis votre Cimetière, inférieur ou égal au nombre de monstres contrôlés par votre adversaire avec des Compteurs-A. Vous ne pouvez utiliser chaque effet de \"Soldat d'Élite Alien Structure M\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Reptile",
+    "Lien",
+    "Effet"
+  ]
+}

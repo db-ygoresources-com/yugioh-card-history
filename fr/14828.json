@@ -1,0 +1,15 @@
+{
+  "id": 14828,
+  "type": "monster",
+  "name": "Âme Désenchaînée Abominable",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Âme Désenchaînée Abominable\" qu'une fois par tour. Si une ou plusieurs cartes que vous contrôlez sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement : vous pouvez défausser 1 carte ; détruisez 1 carte sur le Terrain. Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite sur le Terrain et y a été envoyée ce tour : vous pouvez Invoquer Spécialement cette carte, mais placez-la au-dessous du Deck lorsqu'elle quitte le Terrain.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

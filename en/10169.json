@@ -1,0 +1,15 @@
+{
+  "id": 10169,
+  "type": "monster",
+  "name": "Three Thousand Needles",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "At the end of the Damage Step, if this Defense Position card was attacked by a monster whose ATK is lower than this card's DEF: Destroy the attacking monster.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Beast",
+    "Effect"
+  ]
+}

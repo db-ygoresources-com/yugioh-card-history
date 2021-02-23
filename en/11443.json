@@ -1,0 +1,18 @@
+{
+  "id": 11443,
+  "type": "monster",
+  "name": "D/D/D Doom King Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: You can target 1 of those monsters; this card gains ATK equal to that monster's original ATK until the end of this turn. This card cannot attack your opponent directly during the turn this effect is activated. Cannot be destroyed by Spell/Trap effects that do not target this card.",
+  "pendEffect": "Once per turn: You can target 1 \"D/D\" monster you control; it gains 800 ATK until the end of this turn (even if this card leaves the field).",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5955,
+  "type": "monster",
+  "name": "La Jeune Fille Malheureuse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Tant que cette carte reste en Position d'Attaque face recto sur le Terrain, elle n' est pas détruite à l'issue d'un combat, bien que le calcul des dommages s'applique normalement. Un monstre qui a combattu cette carte ne peut plus changer sa position de combat ni attaquer tant que cette carte reste en Position d'Attaque face recto sur le Terrain.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

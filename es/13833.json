@@ -1,0 +1,16 @@
+{
+  "id": 13833,
+  "type": "monster",
+  "name": "Shura, la Estrella del Combate",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Idaten, la Estrella del Conquistador\" + 1 monstruo Guerrero de Nivel 5 o mayor\nUna vez por turno, durante la Battle Phase (Efecto Rápido): puedes convertir en 0 el ATK de todos los monstruos boca arriba que controle tu adversario en este momento. Una vez por batalla, si un monstruo batalla con otro monstruo, durante el cálculo de daño (Efecto Rápido): puedes hacer que cada monstruo batallante gane ATK igual a su propio Nivel x 200, sólo durante ese cálculo de daño. Si esta carta Invocada por Fusión que controlas es destruida por una carta del adversario y mandada a tu Cementerio: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 \"Idaten, la Estrella del Conquistador\". (Ésta es tratada como una Invocación por Fusión).",
+  "level": 12,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

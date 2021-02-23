@@ -1,0 +1,19 @@
+{
+  "id": 14342,
+  "type": "monster",
+  "name": "Drago Anthelion Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri di Livello 7\nSe puoi Evocare Pendulum di Livello 7, puoi Evocare Pendulum questa carta scoperta nel tuo Extra Deck. Una volta per turno (Effetto Rapido): puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; fino alla fine di questo turno, il suo ATK diventa la metà del suo ATK attuale e, se lo fa, questa carta guadagna quell'ATK perso. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; dimezza il suo ATK originale fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "pendScale": 10,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Xyz",
+    "Pendulum",
+    "Effetto"
+  ]
+}

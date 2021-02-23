@@ -1,0 +1,16 @@
+{
+  "id": 6264,
+  "type": "monster",
+  "name": "Drago Mitraglia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Drago Revolver\" + \"Drago Sputafuoco\"\nUna volta per turno: puoi lanciare una moneta 3 volte e distruggere tanti mostri sul Terreno quanti possibile, ma non più del numero di Testa.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Fusione",
+    "Effetto"
+  ]
+}

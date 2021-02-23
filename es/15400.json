@@ -1,0 +1,18 @@
+{
+  "id": 15400,
+  "type": "monster",
+  "name": "Electrodomésticor Secadraco",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 monstruo \"Electrodomésticor\"\nNo puede ser usado como Material de Enlace en el turno en el que fue Invocado por Enlace. Esta carta enlazada gana 1000 ATK. Una vez por turno, durante tu Battle Phase, si esta carta está co-enlazada (excepto durante el Damage Step): puedes intercambiar la ubicación de 2 monstruos \"Electrodomésticor\" en tus Zonas de Monstruos Principales, incluyendo esta carta y, si lo haces, este turno el otro monstruo puede hacer un segundo ataque durante cada Battle Phase. Una vez por turno, cuando esta carta que no está co-enlazada es seleccionada para un ataque: puedes negar ese ataque.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 0,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

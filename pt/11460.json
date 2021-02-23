@@ -1,0 +1,18 @@
+{
+  "id": 11460,
+  "type": "monster",
+  "name": "D/D/D Rei Rebelde Leonidas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando você sofrer dano de efeito (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão e, se isso acontecer, você ganha PV igual ao dano que sofreu. Você não sofre dano de efeito.",
+  "pendEffect": "Quando você sofrer dano de efeito (exceto durante a Etapa de Dano): você pode destruir este card e, se isso acontecer, qualquer efeito que causaria dano a um duelista neste turno, em vez disso, aumente os PV dele no mesmo valor.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14847,
+  "type": "monster",
+  "name": "Megalith Phaleg",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte mit einer „Megalith“-Karte als Ritualbeschwörung beschwören. Du kannst diese Karte abwerfen; beschwöre 1 „Megalith“-Ritualmonster als Ritualbeschwörung von deiner Hand, indem du Monster von deiner Hand oder Spielfeldseite als Tribut anbietest, deren gemeinsame Stufe größer oder gleich seiner Stufe ist. Du kannst diesen Effekt von „Megalith Phaleg“ nur einmal pro Spielzug verwenden. Monster, die du kontrollierst, erhalten für jedes Ritualmonster in deinem Friedhof 300 ATK/DEF.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Fels",
+    "Ritual",
+    "Effekt"
+  ]
+}

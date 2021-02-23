@@ -1,0 +1,15 @@
+{
+  "id": 14105,
+  "type": "monster",
+  "name": "Katastrophal sengender Sonnenbrenner",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls ein oder mehr offene FEUER Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt eines Gegners zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du deinem Gegner Schaden in Höhe der Hälfte der ATK von 1 der zerstörten FEUER Monster in deinem Friedhof zufügen. Du kannst diesen Effekt von „Katastrophal sengender Sonnenbrenner“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2600,
+  "def": 200,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10600,
+  "type": "monster",
+  "name": "Pájaro Totémico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2 monstruos de VIENTO de Nivel 3\nDurante el turno de cualquier jugador, cuando es activada una Carta Mágica/de Trampa: puedes desacoplar de esta carta 2 Materiales Xyz; niega la activación y, si lo haces, destruye la carta. Esta carta pierde 300 ATK mientras no tiene Materiales Xyz.",
+  "rank": 3,
+  "atk": 1900,
+  "def": 1400,
+  "properties": [
+    "Bestia Alada",
+    "Xyz",
+    "Efecto"
+  ]
+}

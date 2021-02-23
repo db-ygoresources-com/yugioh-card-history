@@ -1,0 +1,18 @@
+{
+  "id": 13137,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Vorspieler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Erhält 1100 ATK, falls du keine anderen Monster kontrollierst. Einmal pro Spielzug: Du kannst 1 „Abgrundskript“-Zauber von deinem Deck auf den Friedhof legen; füge deiner Hand 1 offenes „Abgrundschauspieler“-Pendelmonster von deinem Extra Deck hinzu.",
+  "pendEffect": "Falls du keine Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören. Du kannst diesen Effekt von „Abgrundschauspieler - Vorspieler“ nur einmal pro Duell verwenden.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1100,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

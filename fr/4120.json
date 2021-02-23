@@ -1,0 +1,15 @@
+{
+  "id": 4120,
+  "type": "monster",
+  "name": "Chapeau Magique Blanc",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte inflige des dommages de combat aux Life Points de votre adversaire, votre adversaire défausse 1 carte au hasard de sa main.",
+  "level": 3,
+  "atk": 1000,
+  "def": 700,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

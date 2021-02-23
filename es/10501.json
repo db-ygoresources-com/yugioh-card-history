@@ -1,0 +1,15 @@
+{
+  "id": 10501,
+  "type": "monster",
+  "name": "Boxeador Indómito Contragolpe",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante el Damage Step del turno de cada jugador, cuando un monstruo \"Boxeador Indómito\" que controlas está atacando o siendo atacado: puedes desterrar esta carta en tu mano o Cementerio; hasta el final de este turno, ese monstruo gana 1000 ATK. Sólo puedes usar el efecto de \"Boxeador Indómito Contragolpe\" una vez por turno.",
+  "level": 3,
+  "atk": 0,
+  "def": 1100,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

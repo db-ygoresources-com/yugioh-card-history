@@ -1,0 +1,16 @@
+{
+  "id": 5628,
+  "type": "monster",
+  "name": "Paladín Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Mago Oscuro\" + \"Buster Blader\"\nDebe ser Invocado por Fusión. Cuando una Carta Mágica es activada (Efecto Rápido): puedes descartar 1 carta; niega la activación y, si lo haces, destrúyela. Esta carta debe estar boca arriba en el Campo para activar y resolver este efecto. Gana 500 ATK por cada monstruo Dragón en el Campo y en el Cementerio.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

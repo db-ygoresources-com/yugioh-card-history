@@ -1,0 +1,15 @@
+{
+  "id": 14106,
+  "type": "monster",
+  "name": "Calamar Rociador",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno, cuando esta carta es seleccionada para un ataque por un monstruo del adversario: puedes mover esta carta que controlas a otra de tus Zonas de Monstruos Principales, y después, Invoca de Modo Especial 1 \"Ficha Tinta de Calamar\" (Aqua/AGUA/Nivel 2/ATK ?/DEF 0). El ATK de esta Ficha se convierte en el ATK de ese monstruo del adversario. Mientras esta carta esté al extremo izquierdo o el extremo derecho de tu Zona de Monstruos Principal, los monstruos de tu adversario con ATK menor o igual a la DEF de esta carta no pueden seleccionarla para ataques.",
+  "level": 2,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

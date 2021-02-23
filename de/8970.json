@@ -1,0 +1,16 @@
+{
+  "id": 8970,
+  "type": "monster",
+  "name": "Ultimativer Axonkicker",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Synchromonster vom Typ Psi + 1 Monster vom Typ Psi\nDieses Monster kann nur durch eine Fusionsbeschwörung vom Extra Deck als Spezialbeschwörung beschworen werden. Diese Karte kann nicht durch Karteneffekte zerstört werden. Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu. Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt, erhältst du Life Points in der Höhe der ATK des zerstörten Monsters.",
+  "level": 10,
+  "atk": 2900,
+  "def": 1700,
+  "properties": [
+    "Psi",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8652,
+  "type": "monster",
+  "name": "Guerrier Foreur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Perceuse Synchronique\" + 1 monstre non-Syntoniseur ou plus\nUne fois par tour, durant votre Main Phase 1 : vous pouvez diviser par deux l'ATK de cette carte, et si vous le faites, elle peut attaquer directement votre adversaire ce tour. Une fois par tour : vous pouvez défausser 1 carte, et si vous le faites, bannissez cette carte. Durant votre prochaine Standby Phase : Invoquez Spécialement cette carte bannie par cet effet, puis ajoutez 1 monstre depuis votre Cimetière à votre main.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

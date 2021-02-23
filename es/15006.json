@@ -1,0 +1,15 @@
+{
+  "id": 15006,
+  "type": "monster",
+  "name": "Antiguos Guerreros - Ambicioso Cao De",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Mientras controles otro monstruo \"Antiguos Guerreros\", tu adversario no puede seleccionar esta carta con efectos de cartas, y además no puede ser destruida por los efectos de cartas de tu adversario. Sólo puedes usar cada uno de los siguientes efectos de \"Antiguos Guerreros - Ambicioso Cao De\" una vez por turno.\n●Si una o más cartas que controla tu adversario son destruidas en batalla o por el efecto de una carta: puedes mandar al Cementerio otra carta en tu mano o Campo; Invoca esta carta de Modo Especial desde tu mano.\n●Cuando esta carta destruye un monstruo del adversario en batalla y lo manda al Cementerio: puedes Invocar ese monstruo de Modo Especial a tu Campo en Posición de Defensa.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

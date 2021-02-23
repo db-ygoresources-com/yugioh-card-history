@@ -1,0 +1,15 @@
+{
+  "id": 15011,
+  "type": "monster",
+  "name": "Seigneur Dragon du Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre Tonnerre de max. Niveau 8 depuis votre main ou Terrain face recto, durant le tour où un effet de monstre Tonnerre a été activé dans la main. Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez bannir 2 cartes (un monstre Tonnerre inclus) depuis votre Cimetière, puis ciblez 1 monstre Tonnerre que vous contrôlez ; ce tour, votre adversaire ne peut pas le cibler avec des effets de carte. Une fois par tour, durant votre End Phase : vous pouvez envoyer 1 carte \"Dragon du Tonnerre\" depuis votre Deck au Cimetière.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

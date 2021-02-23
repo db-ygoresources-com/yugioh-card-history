@@ -1,0 +1,16 @@
+{
+  "id": 14601,
+  "type": "monster",
+  "name": "Triphyovérutum Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres TÉNÈBRES sur le Terrain\nGagne une ATK égale à la somme des ATK d'origine de tous les autres monstres sur le Terrain avec un Compteur Prédateur. Vous ne pouvez utiliser chacun des effets suivants de \"Triphyovérutum Prédaplante\" qu'une fois par tour.\n●Lorsque votre adversaire Invoque Spécialement un ou plusieurs monstres depuis son Extra Deck tant que vous contrôlez cette carte Invoquée par Fusion (Effet Rapide) : vous pouvez annuler l'Invocation, et si vous le faites, détruisez ces monstres.\n●Si votre adversaire contrôle un monstre avec un ou plusieurs Compteurs Prédateur : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière en Position de Défense.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Plante",
+    "Fusion",
+    "Effet"
+  ]
+}

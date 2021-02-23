@@ -1,0 +1,17 @@
+{
+  "id": 6199,
+  "type": "monster",
+  "name": "B.E.S. Núcleo Grande",
+  "oldName": "Gran Núcleo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "notes": "Nombre de Carta actualizado de \"Gran Núcleo\" en 07-04-2017.",
+  "effectText": "Si esta carta es Invocada de Modo Normal: ponle 3 contadores. No puede ser destruida en batalla. Al final del Damage Step, si esta carta batalló: retira 1 contador de esta carta. Si no puedes, destrúyela.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

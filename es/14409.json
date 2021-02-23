@@ -1,0 +1,15 @@
+{
+  "id": 14409,
+  "type": "monster",
+  "name": "Madame Vidria Artibruja",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante el cálculo de daño, si tu monstruo Lanzador de Conjuros batalla con un monstruo del adversario (Efecto Rápido): puedes mostrar cualquier cantidad de Mágicas con nombres diferentes en tu mano y, si lo haces, hasta el final de este turno, tu monstruo batallante gana 1000 ATK/DEF por cada carta mostrada. (Efecto Rápido): puedes descartar 1 Mágica; hasta el final de este turno, niega los efectos de todos los monstruos boca arriba que tu adversario controle en este momento. Sólo puedes usar cada efecto de \"Madame Vidria Artibruja\" una vez por turno.",
+  "level": 8,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

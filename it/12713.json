@@ -1,0 +1,18 @@
+{
+  "id": 12713,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Esordiente Insolente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "La prima volta che questa carta sta per essere distrutta in battaglia o dall'effetto di una carta ogni turno, non viene distrutta. Se questa carta viene distrutta in battaglia, o se questa carta nella Zona Mostri del suo proprietario viene distrutta dall'effetto di una carta dell'avversario: puoi Evocare Specialmente 1 mostro \"Attore dell'Abisso\" di Livello 4 o inferiore dal tuo Deck, eccetto \"Attore dell'Abisso - Esordiente Insolente\". Se questa carta nella Zona Pendulum viene distrutta: puoi scegliere come bersaglio 1 mostro di Livello 4 o inferiore controllato dal tuo avversario; distruggilo.",
+  "pendEffect": "Se uno o più mostri \"Attore dell'Abisso\" che controlli stanno per essere distrutti in battaglia o dall'effetto di una carta dell'avversario, puoi invece distruggere questa carta.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

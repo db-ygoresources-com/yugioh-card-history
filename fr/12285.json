@@ -1,0 +1,18 @@
+{
+  "id": 12285,
+  "type": "monster",
+  "name": "Tigre de Clair de Lune",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre \"Clair de Lune\" (\"Dragon Clair de Lune Rose Noire\" exclu) dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"Tigre de Clair de Lune\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 monstre \"Clair de Lune\" (\"Dragon Clair de Lune Rose Noire\" exclu) dans votre Cimetière ; Invoquez-le Spécialement, mais il ne peut pas attaquer, ses effets sont annulés, et aussi, il est détruit durant la End Phase.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Bête-Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

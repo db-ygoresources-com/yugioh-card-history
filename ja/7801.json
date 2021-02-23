@@ -1,0 +1,16 @@
+{
+  "id": 7801,
+  "type": "monster",
+  "name": "炎の魔精イグニス",
+  "nameRuby": "ほのおのませいイグニス",
+  "englishAttribute": "fire",
+  "localizedAttribute": "炎属性",
+  "effectText": "自分フィールド上に表側表示で存在する炎属性モンスター１体をリリースして発動する。自分の墓地に存在する炎属性モンスターの数×１００ポイントダメージを相手ライフに与える。",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "炎族",
+    "効果"
+  ]
+}

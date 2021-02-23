@@ -1,0 +1,16 @@
+{
+  "id": 13538,
+  "type": "monster",
+  "name": "Navigateur Auto F.A.",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est dans votre main ou Cimetière : vous pouvez cibler 1 monstre \"F.A.\" que vous contrôlez dont le Niveau actuel est supérieur à son Niveau d'origine ; Invoquez Spécialement cette carte, et si vous le faites, réduisez le Niveau de la cible de la différence entre son Niveau actuel et d'origine, et si vous faites ça, le Niveau de cette carte devient égal au montant réduit. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie de Terrain \"F.A.\" depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Navigateur Auto F.A.\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

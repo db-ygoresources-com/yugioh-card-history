@@ -1,0 +1,15 @@
+{
+  "id": 6428,
+  "type": "monster",
+  "name": "Batteriemann C",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls alle „Batteriemann C“ auf deiner Spielfeldseite in Angriffsposition sind, erhöhe die ATK von allen Monstern vom Typ Maschine auf deiner Spielfeldseite um 500 Punkte für jeden „Batteriemann C“ auf deiner Spielfeldseite. Falls alle „Batteriemann C“ auf deiner Spielfeldseite in Verteidigungsposition sind, erhöhe die DEF von allen Monstern vom Typ Maschine auf deiner Spielfeldseite um 500 Punkte für jeden „Batteriemann C“ auf deiner Spielfeldseite.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

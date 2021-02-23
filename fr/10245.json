@@ -1,0 +1,15 @@
+{
+  "id": 10245,
+  "type": "monster",
+  "name": "Justice de la Prophétie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant votre End Phase, si vous avez activé auparavant une Carte Magie \"Livre de Magie\" ce tour : vous pouvez bannir cette carte depuis le Terrain ; ajoutez 1 monstre LUMIÈRE ou TÉNÈBRES de Type Magicien de min. Niveau 5 et 1 Carte Magie \"Livre de Magie\" depuis votre Deck à votre main. Vous ne pouvez utiliser l'effet de \"Justice de la Prophétie\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

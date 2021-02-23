@@ -1,0 +1,16 @@
+{
+  "id": 13251,
+  "type": "monster",
+  "name": "Fourmi Autodestructrice",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Chaque joueur reçoit 1000 points de dommages.\nSi cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : infligez 1000 points de dommages à votre adversaire. Vous ne pouvez utiliser chaque effet de \"Fourmi Autodestructrice\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

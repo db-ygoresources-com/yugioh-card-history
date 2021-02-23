@@ -1,0 +1,16 @@
+{
+  "id": 8166,
+  "type": "monster",
+  "name": "Télécommande Morphtronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "●En Position d'Attaque : Une fois par tour, vous pouvez retirer du jeu 1 monstre \"Morphtronique\" depuis votre Cimetière et ajouter 1 monstre \"Morphtronique\" avec le même Niveau que ce monstre depuis votre Deck à votre main.\n ●En Position de Défense : Une fois par tour, vous pouvez envoyer 1 monstre \"Morphtronique\" depuis votre main au Cimetière et ajouter 1 monstre \"Morphtronique\" avec le même Niveau que ce monstre depuis votre Cimetière à votre main.",
+  "level": 3,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

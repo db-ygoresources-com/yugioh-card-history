@@ -1,0 +1,16 @@
+{
+  "id": 11650,
+  "type": "monster",
+  "name": "Dragón Infralma Corrupta Dragocytos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante de OSCURIDAD + 1 monstruo de Tipo Dragón que no sea Cantante\nNo puede ser destruido en batalla. Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes activar este efecto; esta carta puede hacer un segundo ataque a un monstruo de tu adversario inmediatamente después. Durante tu Standby Phase: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; su ATK se convierte en la mitad de su ATK en este momento y, si lo hace, inflige daño a tu adversario igual a ese ATK perdido.",
+  "level": 10,
+  "atk": 4000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

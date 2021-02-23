@@ -1,0 +1,15 @@
+{
+  "id": 12314,
+  "type": "monster",
+  "name": "Robobureau 009",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant votre Main Phase 1 : jusqu'à la fin du tour de votre adversaire, vous pouvez faire gagner à cette carte une ATK égale à la somme des ATK de tous les monstres \"Robobureau\" que vous contrôlez actuellement (\"Robobureau 009\" exclu). Uniquement cette carte peut attaquer le tour où cet effet est activé. Si cette carte combat, les cartes et effets de votre adversaire ne peuvent pas être activés jusqu'à la fin de la Damage Step. Si cette carte va être détruite au combat ou par un effet de carte, vous pouvez détruire 1 carte \"Robobureau\" que vous contrôlez à la place.",
+  "level": 9,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

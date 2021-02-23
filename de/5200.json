@@ -1,0 +1,15 @@
+{
+  "id": 5200,
+  "type": "monster",
+  "name": "Geist der Brise",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange diese Karte offen in Angriffsposition auf deiner Spielfeldseite liegt, erhöhe deine Life Points in jeder deiner Standby Phasen um 1000 Punkte.",
+  "level": 3,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

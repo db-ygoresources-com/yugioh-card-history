@@ -1,0 +1,15 @@
+{
+  "id": 9909,
+  "type": "monster",
+  "name": "Trance-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster vom Typ Unterweltler abwerfen und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs 500 ATK. Wenn diese Karte, die du kontrollierst, zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 deiner verbannten FINSTERNIS Monster wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

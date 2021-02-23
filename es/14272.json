@@ -1,0 +1,15 @@
+{
+  "id": 14272,
+  "type": "monster",
+  "name": "Nube Estruendosa la Serpiente de la Tormenta",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser Invocada de Modo Normal/Colocada. Debe ser primero Invocada de Modo Especial (desde tu mano) desterrando 1 monstruo de FUEGO y 1 monstruo de VIENTO en tu Cementerio. Sólo puedes usar cada uno de los siguientes efectos de \"Nube Estruendosa la Serpiente de la Tormenta\" una vez por turno.\n●Puedes desterrar 1 monstruo de FUEGO en tu Cementerio, y después selecciona 1 monstruo que controle tu adversario; destruye ese monstruo y, si lo haces, esta carta gana ATK igual al ATK original del monstruo destruido.\n●Puedes desterrar 1 monstruo de VIENTO en tu Cementerio, y después selecciona 1 carta en la Zona de Magia y Trampas de tu adversario; destrúyela.",
+  "level": 5,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6833,
+  "type": "monster",
+  "name": "Dragón Ciberoscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Cuerno Ciberoscuro\" + \"Filo Ciberoscuro\" + \"Quilla Ciberoscura\"\nDebe ser Invocado por Fusión. Si esta carta es Invocada de Modo Especial: selecciona 1 monstruo Dragón en tu Cementerio; equipa ese objetivo a esta carta. Gana ATK igual al ATK original del monstruo equipado a ella por este efecto. Gana 100 ATK por cada monstruo en tu Cementerio. Si esta carta fuera a ser destruida en batalla, destruye ese monstruo equipado en su lugar.",
+  "level": 8,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12481,
+  "type": "monster",
+  "name": "Dragão Miragem de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Enquanto um card \"Olhos Anômalos\" estiver na sua Zona de Pêndulo (Efeito Rápido): você pode escolher 1 monstro \"Olhos Anômalos\" que você controla; na primeira vez que ele seria destruído em batalha ou por um efeito de card neste turno, ele não é destruído. Você só pode usar este efeito de \"Dragão Miragem de Olhos Anômalos\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno, se um ou mais Monstros Pêndulo \"Olhos Anômalos\" com a face para cima que você controla forem destruídos em batalha ou por um efeito de card: você pode destruir 1 card na sua Zona de Pêndulo e, se isso acontecer, coloque 1 Monstro Pêndulo \"Olhos Anômalos\" que estiver com a face para cima no seu Deck Adicional, na sua Zona de Pêndulo, exceto \"Dragão Miragem de Olhos Anômalos\".",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

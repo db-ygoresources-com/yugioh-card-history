@@ -1,0 +1,15 @@
+{
+  "id": 15612,
+  "type": "monster",
+  "name": "Crowley, Magistus der Zauberbücher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 Hexer-Monster von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst 1 Eigenschaft deklarieren; diese Karte wird bis zum Ende dieses Spielzugs zu der Eigenschaft. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Magistus“-Monster wählen, das du kontrollierst; rüste es mit 1 „Magistus“-Monster von deinem Friedhof aus, außer einem Monster der Stufe 4. Du kannst jeden Effekt von „Crowley, Magistus der Zauberbücher“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

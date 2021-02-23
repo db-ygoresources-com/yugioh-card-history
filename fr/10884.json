@@ -1,0 +1,16 @@
+{
+  "id": 10884,
+  "type": "monster",
+  "name": "Michael le Grand, Seigneur Lumière",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + min. 1 monstre non-Syntoniseur LUMIÈRE\nUne fois par tour : vous pouvez payer 1000 LP, puis ciblez 1 carte sur le Terrain ; bannissez la cible. Lorsque cette carte est détruite : vous pouvez cibler un nombre de votre choix de monstres \"Seigneur Lumière\" dans votre Cimetière (cette carte exclue) ; mélangez-les dans le Deck, et si vous le faites, vous gagnez 300 LP pour chaque carte renvoyée. Une fois par tour, durant votre End Phase : envoyez les 3 cartes du dessus de votre Deck au Cimetière.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

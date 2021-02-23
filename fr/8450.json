@@ -1,0 +1,15 @@
+{
+  "id": 8450,
+  "type": "monster",
+  "name": "Araignée des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, vous pouvez augmenter le Niveau d'1 monstre de Type Insecte face recto que vous contrôlez de 2, jusqu'à la End Phase.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

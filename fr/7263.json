@@ -1,0 +1,16 @@
+{
+  "id": 7263,
+  "type": "monster",
+  "name": "Dragon Fossile Tyrannosquelette",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre Rocher + 1 monstre de min. Niveau 7 dans le Cimetière de votre adversaire\nDoit d'abord être Invoquée Spécialement avec \"Fusion Fossile\". Avant le calcul des dommages, si cette carte combat un monstre de l'adversaire : jusqu'à la fin de cette Damage Step, vous pouvez échanger l'ATK et la DEF actuelles du monstre de l'adversaire. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Si cette carte Invoquée par Fusion combat un monstre de l'adversaire, les dommages de combat qu'elle inflige à votre adversaire sont doublés.",
+  "level": 8,
+  "atk": 3500,
+  "def": 0,
+  "properties": [
+    "Rocher",
+    "Fusion",
+    "Effet"
+  ]
+}

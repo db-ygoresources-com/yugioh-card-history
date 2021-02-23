@@ -1,0 +1,15 @@
+{
+  "id": 6176,
+  "type": "monster",
+  "name": "Der Schöpfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Spezialbeschwörung vom Friedhof beschworen werden. Einmal pro Spielzug: Du kannst 1 Monster in deinem Friedhof wählen; lege 1 Karte von deiner Hand auf den Friedhof und falls du dies tust, beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 8,
+  "atk": 2300,
+  "def": 3000,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

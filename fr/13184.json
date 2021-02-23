@@ -1,0 +1,15 @@
+{
+  "id": 13184,
+  "type": "monster",
+  "name": "Mixeroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Sacrifier 1 monstre Machine ; Invoquez Spécialement 1 monstre non-VENT \"roid\" depuis votre Deck. Vous pouvez payer la moitié de vos LP et bannir un nombre de votre choix de monstres Machine (cette carte incluse) depuis votre Cimetière ; Invoquez Spécialement 1 Monstre Fusion \"roid\" du même Niveau que le nombre de ces monstres bannis depuis votre Extra Deck, en ignorant ses conditions d'Invocation, mais détruisez-le durant la End Phase. Vous ne pouvez utiliser chaque effet de \"Mixeroid\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

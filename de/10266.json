@@ -1,0 +1,16 @@
+{
+  "id": 10266,
+  "type": "monster",
+  "name": "Nummer 9: Dyson-Sphäre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 9\nEinmal pro Battle Step, während des Spielzugs deines Gegners, falls diese Karte mit Xyz-Material angegriffen wird: Annulliere den Angriff (dies ist ein Schnelleffekt). Wenn diese Karte als Ziel für einen Angriff gewählt wird, solange sie kein Xyz-Material hat: Du kannst 2 Monster in deinem Friedhof wählen; lege die gewählten Ziele als Xyz-Material an diese Karte an. Während deiner Main Phase 1: Du kannst 1 Xyz-Material von dieser Karte abhängen; diese Karte kann deinen Gegner in diesem Spielzug direkt angreifen. Dein Gegner muss ein Monster mit höheren ATK als diese Karte kontrollieren, damit du diesen Effekt aktivieren und auflösen kannst.",
+  "rank": 9,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

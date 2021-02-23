@@ -1,0 +1,15 @@
+{
+  "id": 4413,
+  "type": "monster",
+  "name": "Roi Machine",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte gagne 100 ATK pour chaque monstre de Type Machine sur le Terrain.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

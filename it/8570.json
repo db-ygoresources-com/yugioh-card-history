@@ -1,0 +1,16 @@
+{
+  "id": 8570,
+  "type": "monster",
+  "name": "Difensore della Barriera di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre controlli un altro mostro \"Barriera di Ghiaccio\", i mostri controllati dal tuo avversario non possono dichiarare un attacco se il loro ATK è pari o superiore al DEF di questa carta.",
+  "level": 3,
+  "atk": 200,
+  "def": 1600,
+  "properties": [
+    "Acqua",
+    "Tuner",
+    "Effetto"
+  ]
+}

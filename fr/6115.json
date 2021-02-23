@@ -1,0 +1,15 @@
+{
+  "id": 6115,
+  "type": "monster",
+  "name": "Dragon Elémentaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ce monstre acquiert le (ou les) effet(s) suivant(s) tant qu'il y a un monstre ou plus avec l'Attribut suivant sur le Terrain :\n ●FEU : Augmentez l'ATK de cette carte de 500 points.\n ●VENT : Si cette carte détruit un monstre de votre adversaire à l'issue d'un combat, cette carte peut attaquer à nouveau immédiatement après.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}
