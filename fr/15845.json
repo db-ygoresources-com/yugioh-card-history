@@ -1,0 +1,15 @@
+{
+  "id": 15845,
+  "type": "monster",
+  "name": "Archer Laval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est Invoquée Normalement : durant votre Main Phase ce tour, vous pouvez Invoquer Normalement 1 monstre \"Laval\", en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour). Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre FEU que vous contrôlez ; détruisez-le, et si vous le faites, Invoquez Spécialement cette carte en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres FEU exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Archer Laval\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15870,
+  "type": "monster",
+  "name": "Nuit Étoilée, Dragon Étoilé",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement depuis la main : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Non destructible ni au combat avec un monstre TÉNÈBRES ni par des effets de monstre TÉNÈBRES. Une fois par tour, au début de la Damage Step, si cette carte attaque un monstre de l'adversaire : vous pouvez bannir le monstre de l'adversaire jusqu'à la End Phase, et aussi, cette carte peut faire une seconde attaque à la suite.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2300,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15867,
+  "type": "monster",
+  "name": "Solarvite Distruttrice",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Mostro Normale Pianta\nSe un Mostro Link \"Solaravalon\" che controlli lascia il Terreno per l'effetto di una carta: distruggi questa carta. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 Mostro Link \"Solaravalon\" sul Terreno; questa carta guadagna ATK pari alla Classificazione Link di quel mostro x 800. Quando questa carta distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero: puoi Evocare Specialmente quel mostro in una tua zona puntata da un Mostro Link, ma annulla i suoi effetti.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Pianta",
+    "Link",
+    "Effetto"
+  ]
+}

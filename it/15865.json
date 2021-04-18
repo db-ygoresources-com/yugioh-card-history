@@ -1,0 +1,18 @@
+{
+  "id": 15865,
+  "type": "monster",
+  "name": "Solarvite Gardna",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Mostro Normale Pianta\nSe un Mostro Link \"Solaravalon\" che controlli lascia il Terreno per l'effetto di una carta: distruggi questa carta. Quando viene dichiarato un attacco che coinvolge questa carta, linkata a un Mostro Link \"Solaravalon\", e un mostro dell'avversario: puoi attivare questo effetto; il danno che subisci da quella battaglia viene dimezzato. Quando questa carta viene distrutta in battaglia: termina la Battle Phase dopo il Damage Step.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Pianta",
+    "Link",
+    "Effetto"
+  ]
+}

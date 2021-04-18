@@ -1,0 +1,16 @@
+{
+  "id": 15856,
+  "type": "monster",
+  "name": "Ladro del Tempo Doppio Cilindro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri di Livello 4\nQuando il tuo avversario attiva una carta o un effetto: puoi staccare fino a 3 diversi tipi di materiali da questa carta (Mostro, Magia e Trappola), poi applicare i seguenti effetti a seconda di cosa è stato staccato, in ordine.\n●Mostro: Questa carta guadagna 400 ATK.\n●Magia: Prendi il controllo di 1 mostro scoperto controllato dal tuo avversario fino alla End Phase, ma esso non può dichiarare un attacco né attivare i suoi effetti in questo turno.\n●Trappola: Annulla gli effetti di 1 Mostro con Effetto sul Terreno fino alla fine di questo turno.\nPuoi utilizzare questo effetto di \"Ladro del Tempo Doppio Cilindro\" una sola volta per turno.",
+  "rank": 4,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Psichico",
+    "Xyz",
+    "Effetto"
+  ]
+}

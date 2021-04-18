@@ -1,0 +1,16 @@
+{
+  "id": 15847,
+  "type": "monster",
+  "name": "Dragon Céleste Hiératique du Seigneur d'Héliopolis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 8\nUne fois par tour, lorsque votre adversaire active une carte ou un effet qui cible une ou plusieurs cartes sur votre Terrain, dans votre Cimetière et/ou une ou plusieurs de vos cartes bannies (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; annulez l'activation, et si vous le faites, détruisez la carte.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

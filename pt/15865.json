@@ -1,0 +1,18 @@
+{
+  "id": 15865,
+  "type": "monster",
+  "name": "Gardna de Solarvinhas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Monstro Normal Planta\nSe um Monstro Link \"Solaravalon\" que você controla deixar o campo devido a um efeito de card: destrua este card. Quando um ataque for declarado envolvendo este card linkado a um Monstro Link \"Solaravalon\" e um monstro do oponente: você pode ativar este efeito; o dano que você sofrer dessa batalha é diminuído pela metade. Quando este card for destruído em batalha: encerre a Fase de Batalha depois da Etapa de Dano.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Planta",
+    "Link",
+    "Efeito"
+  ]
+}

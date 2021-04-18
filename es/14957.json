@@ -1,0 +1,16 @@
+{
+  "id": 14957,
+  "type": "monster",
+  "name": "Dragón Supernova Rojo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 Cantantes + 1+ Monstruos de Sincronía que no sean Cantantes\nDebe ser primero Invocado por Sincronía. Gana 500 ATK por cada Cantante en tu Cementerio. No puede ser destruido por los efectos de cartas de tu adversario. Una vez por turno, cuando el efecto de un monstruo de tu adversario es activado, o cuando un monstruo del adversario declara un ataque (Efecto Rápido): puedes activar este efecto; destierra esta carta, y además destierra todas las cartas que controle tu adversario. Una vez por turno, durante tu próxima End Phase después de que esta carta fuera desterrada por su propio efecto: Invoca esta carta desterrada de Modo Especial.",
+  "level": 12,
+  "atk": 4000,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

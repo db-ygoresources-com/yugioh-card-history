@@ -1,0 +1,16 @@
+{
+  "id": 15593,
+  "type": "monster",
+  "name": "Caballero Dracounidad- Areadbhair",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante \"Dracounidad\" + 1+ monstruos que no sean Cantantes\nCuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes desterrar 1 monstruo \"Dracounidad\" en tu Cementerio; niega la activación y, si lo haces, destierra esa carta. Si esta carta destruye un monstruo del adversario en batalla, después del cálculo de daño: puedes desterrar ese monstruo del adversario. Si esta carta Invocada por Sincronía controlada por su dueño es destruida por una carta del adversario: puedes destruir todas las Mágicas y Trampas que controle tu adversario. Sólo puedes usar cada efecto de \"Caballero Dracounidad- Areadbhair\" una vez por turno.",
+  "level": 10,
+  "atk": 3300,
+  "def": 3200,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Efecto"
+  ]
+}

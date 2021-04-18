@@ -1,0 +1,15 @@
+{
+  "id": 15845,
+  "type": "monster",
+  "name": "Laval-Bogenschütze",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Während deiner Main Phase dieses Spielzugs kannst du zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 „Laval“-Monster als Normalbeschwörung beschwören (du kannst diesen Effekt nur einmal pro Spielzug erhalten). Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 FEUER Monster wählen, das du kontrollierst; zerstöre es und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung in die Verteidigungsposition, aber verbanne sie, wenn sie das Spielfeld verlässt, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer FEUER Monstern. Du kannst diesen Effekt von „Laval-Bogenschütze“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

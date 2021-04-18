@@ -1,0 +1,18 @@
+{
+  "id": 15866,
+  "type": "monster",
+  "name": "Solarvid Sanadora",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Monstruo Normal Planta\nSi un Monstruo de Enlace \"Solaravalon\" que controlas deja el Campo por efecto de una carta: destruye esta carta. Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 Monstruo de Enlace \"Solaravalon\" en el Campo; gana LP igual a su Rating de Enlace x 300. Cuando tu Monstruo de Enlace Planta inflige daño de batalla a tu adversario: puedes ganar 600 LP.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Planta",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15867,
+  "type": "monster",
+  "name": "Sunvine Thrasher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; this card gains ATK equal to that monster's Link Rating x 800. When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon that monster to your zone a Link Monster points to, but negate its effects.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Plant",
+    "Link",
+    "Effect"
+  ]
+}

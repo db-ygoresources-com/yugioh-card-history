@@ -1,0 +1,16 @@
+{
+  "id": 15856,
+  "type": "monster",
+  "name": "Zeitdieb Doppel-Federhaus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 4\nWenn dein Gegner eine Karte oder einen Effekt aktiviert: Du kannst bis zu 3 unterschiedliche Typen Material von dieser Karte abhängen (Monster, Zauber und Falle), dann führe nacheinander die folgenden Effekte aus, abhängig davon, was abgehängt wurde.\n●Monster: Diese Karte erhält 400 ATK.\n●Zauber: Übernimm bis zur End Phase die Kontrolle über 1 offenes Monster, das dein Gegner kontrolliert, aber in diesem Spielzug kann es weder einen Angriff deklarieren noch können seine Effekte aktiviert werden.\n●Falle: Annulliere bis zum Ende dieses Spielzugs die Effekte von 1 Effektmonster auf dem Spielfeld.\nDu kannst diesen Effekt von „Zeitdieb Doppel-Federhaus“ nur einmal pro Spielzug verwenden.",
+  "rank": 4,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Psi",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15849,
+  "type": "monster",
+  "name": "Don Marionnette de l'Ombre Neh",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez cibler 1 monstre \"Marionnette de l'Ombre\" que vous contrôlez ; ce tour, le monstre face recto n'est pas affecté par des effets de monstre (ses propres effets exclus).\nSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 Monstre à Effet sur le Terrain ; ce tour, aucun joueur ne peut activer les effets de la cible sur le Terrain. Vous ne pouvez utiliser qu'1 effet de \"Don Marionnette de l'Ombre Neh\" par tour, et uniquement une fois le tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15867,
+  "type": "monster",
+  "name": "Solarvid Apaleador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Monstruo Normal Planta\nSi un Monstruo de Enlace \"Solaravalon\" que controlas deja el Campo por efecto de una carta: destruye esta carta. Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 Monstruo de Enlace \"Solaravalon\" en el Campo; esta carta gana ATK igual al Rating de Enlace de ese monstruo x 800. Cuando esta carta destruye un monstruo del adversario en batalla y lo manda al Cementerio: puedes Invocar ese monstruo de Modo Especial a tu zona a la que apunte un Monstruo de Enlace, pero niega sus efectos.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Planta",
+    "Enlace",
+    "Efecto"
+  ]
+}

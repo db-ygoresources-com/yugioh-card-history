@@ -1,0 +1,16 @@
+{
+  "id": 15849,
+  "type": "monster",
+  "name": "Nehschattenpuppe Genie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst 1 „Schattenpuppe“-Monster wählen, das du kontrollierst; das offene Monster bleibt in diesem Spielzug von Monstereffekten unberührt, außer von seinen eigenen.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 Effektmonster auf dem Spielfeld wählen; kein Spieler kann die Effekte des gewählten Ziels auf dem Spielfeld in diesem Spielzug aktivieren. Du kannst nur 1 Effekt von „Nehschattenpuppe Genie“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15844,
+  "type": "monster",
+  "name": "Vampire Voivode",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement : vous pouvez cibler max. 2 monstres dans le Cimetière de votre adversaire ; Invoquez Spécialement ces monstres sur votre Terrain en Position de Défense, mais leurs effets sont annulés. Lorsqu'un effet de monstre est activé, tant qu'un ou plusieurs monstres du même nom que celui-ci sont dans les Cimetières (Effet Rapide) : vous pouvez annuler l'activation. Si un ou plusieurs monstres sont Invoqués Spécialement depuis le Cimetière de votre adversaire : vous pouvez Sacrifier 2 monstres ; Invoquez Spécialement cette carte depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Vampire Voivode\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2100,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15866,
+  "type": "monster",
+  "name": "Curandeira de Solarvinhas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Monstro Normal Planta\nSe um Monstro Link \"Solaravalon\" que você controla deixar o campo devido a um efeito de card: destrua este card. Se este card for Invocado por Invocação-Especial: você pode escolher 1 Monstro Link \"Solaravalon\" no campo; ganhe PV igual ao seu Valor Link x 300. Quando um Monstro Link Planta seu causar dano de batalha ao seu oponente: você pode ganhar 600 PV.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Planta",
+    "Link",
+    "Efeito"
+  ]
+}

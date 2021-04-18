@@ -1,0 +1,18 @@
+{
+  "id": 15866,
+  "type": "monster",
+  "name": "Guérisseur Solairvigne",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Monstre Normal Plante\nSi un Monstre Lien \"Solairavalon\" que vous contrôlez quitte le Terrain par un effet de carte : détruisez cette carte. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 Monstre Lien \"Solairavalon\" sur le Terrain ; gagnez des LP égaux à sa Classification Lien x 300. Lorsque votre Monstre Lien Plante inflige des dommages de combat à votre adversaire : vous pouvez gagner 600 LP.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Plante",
+    "Lien",
+    "Effet"
+  ]
+}

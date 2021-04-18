@@ -1,0 +1,18 @@
+{
+  "id": 15865,
+  "type": "monster",
+  "name": "Gardna Solairvigne",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Monstre Normal Plante\nSi un Monstre Lien \"Solairavalon\" que vous contrôlez quitte le Terrain par un effet de carte : détruisez cette carte. Lorsqu'une attaque impliquant cette carte, liée à un Monstre Lien \"Solairavalon\", et un monstre de l'adversaire est déclarée : vous pouvez activer cet effet ; les dommages que vous recevez de ce combat sont divisés par deux. Lorsque cette carte est détruite au combat : terminez la Battle Phase après la Damage Step.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Plante",
+    "Lien",
+    "Effet"
+  ]
+}

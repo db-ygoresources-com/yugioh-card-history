@@ -1,0 +1,15 @@
+{
+  "id": 15873,
+  "type": "monster",
+  "name": "Sternenritter Flamel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; beschwöre 1 LICHT Drache-Monster der Stufe 7 als Spezialbeschwörung von deiner Hand. (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen und dann 1 LICHT Drache-Monster der Stufe 7 wählen, das du kontrollierst oder das in deinem Friedhof liegt; gib es auf deine Hand zurück. Du kannst nur 1 Effekt von „Sternenritter Flamel“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

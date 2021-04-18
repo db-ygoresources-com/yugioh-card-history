@@ -1,0 +1,18 @@
+{
+  "id": 15866,
+  "type": "monster",
+  "name": "Solarvite Guaritore",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Mostro Normale Pianta\nSe un Mostro Link \"Solaravalon\" che controlli lascia il Terreno per l'effetto di una carta: distruggi questa carta. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 Mostro Link \"Solaravalon\" sul Terreno; guadagni LP pari alla sua Classificazione Link x 300. Quando un tuo Mostro Link Pianta infligge danno da combattimento al tuo avversario: puoi guadagnare 600 LP.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Pianta",
+    "Link",
+    "Effetto"
+  ]
+}

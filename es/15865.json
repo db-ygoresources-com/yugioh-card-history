@@ -1,0 +1,18 @@
+{
+  "id": 15865,
+  "type": "monster",
+  "name": "Solarvid Gardna",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Monstruo Normal Planta\nSi un Monstruo de Enlace \"Solaravalon\" que controlas deja el Campo por efecto de una carta: destruye esta carta. Cuando es declarado un ataque que involucre esta carta, enlazada a un Monstruo de Enlace \"Solaravalon\", y un monstruo del adversario: puedes activar este efecto; el daño que recibes de esa batalla se divide a la mitad. Cuando esta carta es destruida en batalla: termina la Battle Phase después del Damage Step.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Planta",
+    "Enlace",
+    "Efecto"
+  ]
+}

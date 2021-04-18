@@ -1,0 +1,16 @@
+{
+  "id": 15851,
+  "type": "monster",
+  "name": "Nékroz d'Areadbhair",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement, sans utiliser des monstres de Niveau 10. Vous ne pouvez utiliser chacun de ces effets de \"Nékroz d'Areadbhair\" qu'une fois par tour.\n●Vous pouvez défausser cette carte ; Sacrifiez max. 2 monstres \"Nékroz\" depuis votre main et/ou Terrain, et si vous le faites, envoyez autant de cartes \"Nékroz\" depuis votre Deck au Cimetière.\n●Lorsqu'un effet de monstre est activé (Effet Rapide) : vous pouvez Sacrifier 1 monstre depuis votre main ou Terrain ; annulez l'activation, et si vous le faites, bannissez la carte.",
+  "level": 10,
+  "atk": 3300,
+  "def": 3200,
+  "properties": [
+    "Guerrier",
+    "Rituel",
+    "Effet"
+  ]
+}

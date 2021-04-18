@@ -1,0 +1,16 @@
+{
+  "id": 15849,
+  "type": "monster",
+  "name": "Genius Nehsombrañeca",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Puedes seleccionar 1 monstruo \"Sombrañeca\" que controles; este turno ese monstruo boca arriba no es afectado por efectos de monstruo, excepto los suyos.\nSi esta carta es mandada al Cementerio por efecto de una carta: puedes seleccionar 1 Monstruo de Efecto en el Campo; este turno ningún jugador puede activar los efectos de ese objetivo en el Campo. Sólo puedes usar 1 efecto de \"Genius Nehsombrañeca\" por turno, y sólo una vez ese turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Volteo",
+    "Efecto"
+  ]
+}
