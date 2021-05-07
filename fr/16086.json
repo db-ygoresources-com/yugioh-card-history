@@ -1,0 +1,18 @@
+{
+  "id": 16086,
+  "type": "monster",
+  "name": "MiSolfaccord Éliteia",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous avez une Échelle Pendule paire dans votre Zone Pendule, vous ne recevez aucun dommage de combats impliquant vos Monstres Pendule \"Solfaccord\". Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 Magie/Piège contrôlé par votre adversaire ; renvoyez-le à la main. Vous ne pouvez utiliser cet effet de \"MiSolfaccord Éliteia\" qu'une fois par tour.",
+  "pendEffect": "Les Invocations Pendule de vos Monstres Pendule \"Solfaccord\" ne peuvent pas être annulées.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

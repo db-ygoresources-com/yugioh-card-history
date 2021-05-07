@@ -1,0 +1,18 @@
+{
+  "id": 16085,
+  "type": "monster",
+  "name": "Dreamia ReSolfacorde",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Mientras tengas una Escala de Péndulo impar en tu Zona de Péndulo, si una o más Cartas de Monstruo de Péndulo \"Solfacorde\" que controlas fueran a ser destruidas por el efecto de una carta de tu adversario, puedes destruir esta carta en lugar de 1 de esas cartas. Si controlas una carta \"Solfacorde\" en tu Zona de Péndulo: puedes Invocar esta carta de Modo Especial desde tu mano. Sólo puedes usar este efecto de \"Dreamia ReSolfacorde\" una vez por turno.",
+  "pendEffect": "Las Invocaciones por Péndulo de tus Monstruos de Péndulo \"Solfacorde\" no pueden ser negadas.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

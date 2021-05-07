@@ -1,0 +1,18 @@
+{
+  "id": 16084,
+  "type": "monster",
+  "name": "DoSolfacorde Cutia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Enquanto você tiver uma Escala de Pêndulo par na sua Zona de Pêndulo, Monstros Pêndulo \"Solfacorde\" que você controla ganham ATK igual a 100 x sua própria Escala de Pêndulo. Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Monstro Pêndulo \"Solfacorde\" do seu Deck à sua mão, exceto \"DoSolfacorde Cutia\". Você só pode usar este efeito de \"DoSolfacorde Cutia\" uma vez por turno.",
+  "pendEffect": "A Invocação-Pêndulo dos seus Monstros Pêndulo \"Solfacorde\" não pode ser negada.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

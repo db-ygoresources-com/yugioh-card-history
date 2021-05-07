@@ -1,0 +1,18 @@
+{
+  "id": 16091,
+  "type": "monster",
+  "name": "DoSolfaccord Coolia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 2 Monstres Pendule. Vous ne pouvez utiliser chacun des effets suivants de \"DoSolfaccord Coolia\" qu'une fois par tour. Vous pouvez cibler 1 carte face recto contrôlée par votre adversaire, ou max. 2 cartes si vous avez une Échelle Pendule impaire dans votre Zone Pendule ; jusqu'à la fin du tour de votre adversaire, annulez ses effets. Lorsqu'un effet d'un monstre sur le Terrain est activé, avec une ATK inférieure ou égale à la plus haute Échelle Pendule dans votre Zone Pendule x 300 : vous pouvez détruire le monstre.",
+  "pendEffect": "Votre adversaire ne peut activer ni de Carte Magie/Piège ni d'effet de monstre, lorsqu'un ou plusieurs de vos Monstres Pendules \"Solfaccord\" sont Invoqués par Pendulation.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2700,
+  "def": 2500,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

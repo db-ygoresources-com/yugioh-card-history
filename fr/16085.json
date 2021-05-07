@@ -1,0 +1,18 @@
+{
+  "id": 16085,
+  "type": "monster",
+  "name": "RéSolfaccord Dreamia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Tant que vous avez une Échelle Pendule impaire dans votre Zone Pendule, si une ou plusieurs Cartes Monstre Pendule \"Solfaccord\" que vous contrôlez vont être détruites par un effet de carte de votre adversaire, vous pouvez détruire cette carte au lieu d'1 de ces cartes. Si vous contrôlez une carte \"Solfaccord\" dans votre Zone Pendule : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous ne pouvez utiliser cet effet de \"RéSolfaccord Dreamia\" qu'une fois par tour.",
+  "pendEffect": "Les Invocations Pendule de vos Monstres Pendule \"Solfaccord\" ne peuvent pas être annulées.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

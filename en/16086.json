@@ -1,0 +1,18 @@
+{
+  "id": 16086,
+  "type": "monster",
+  "name": "MiSolfachord Eliteia",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "While you have an even Pendulum Scale in your Pendulum Zone, you take no damage from battles involving your \"Solfachord\" Pendulum Monsters. If this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; return it to the hand. You can only use this effect of \"MiSolfachord Eliteia\" once per turn.",
+  "pendEffect": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

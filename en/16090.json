@@ -1,0 +1,18 @@
+{
+  "id": 16090,
+  "type": "monster",
+  "name": "TiSolfachord Beautia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "(Quick Effect): You can target 1 Effect Monster your opponent controls, or, if you have an even Pendulum Scale in your Pendulum Zone, you can target 1 face-up Spell/Trap your opponent controls; this turn, banish it when it leaves the field. You can only use this effect of \"TiSolfachord Beautia\" once per turn. Once per turn, at the start of the Damage Step, if this card battles a monster with an equal or higher ATK than the lowest Pendulum Scale in your Pendulum Zone x 300: Destroy that monster.",
+  "pendEffect": "Your opponent cannot activate a Spell/Trap Card, or monster effect, when your \"Solfachord\" Pendulum Monster(s) is Pendulum Summoned.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

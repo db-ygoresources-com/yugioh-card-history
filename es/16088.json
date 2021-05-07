@@ -1,0 +1,18 @@
+{
+  "id": 16088,
+  "type": "monster",
+  "name": "Gracia SolSolfacorde",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Mientras tengas una Escala de Péndulo par en tu Zona de Péndulo, si tu Monstruo de Péndulo \"Solfacorde\" ataca, hasta el final del Damage Step tu adversario no puede activar efectos de monstruos. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Mágica/Trampa \"Solfacorde\" en tu Deck. Sólo puedes usar este efecto de \"Gracia SolSolfacorde\" una vez por turno.",
+  "pendEffect": "Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo \"Solfacorde\" son Invocados por Péndulo.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

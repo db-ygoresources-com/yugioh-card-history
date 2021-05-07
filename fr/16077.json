@@ -1,0 +1,15 @@
+{
+  "id": 16077,
+  "type": "monster",
+  "name": "Aron, le Roi Ogdoadique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est dans votre Cimetière : vous pouvez Sacrifier 2 monstres ; Invoquez Spécialement cette carte. Si votre adversaire ajoute une ou plusieurs cartes à sa main (sauf durant la Draw Phase ou Damage Step) : vous pouvez envoyer 1 carte au hasard depuis sa main au Cimetière. Si un ou plusieurs monstres contrôlés par votre adversaire sont envoyés au Cimetière (sauf durant la Damage Step) : vous pouvez ajouter 1 monstre LUMIÈRE ou TÉNÈBRES Reptile (\"Aron, le Roi Ogdoadique\" exclu) depuis votre Deck ou Cimetière à votre main. Vous ne pouvez utiliser chaque effet de \"Aron, le Roi Ogdoadique\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

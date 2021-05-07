@@ -1,0 +1,18 @@
+{
+  "id": 16084,
+  "type": "monster",
+  "name": "DoSolfaccordo Cutia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Mentre hai un Valore Pendulum pari nella tua Zona Pendulum, i Mostri Pendulum \"Solfaccordo\" che controlli guadagnano ATK pari a 100 x il loro stesso Valore Pendulum. Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 Mostro Pendulum \"Solfaccordo\" dal tuo Deck alla tua mano, eccetto \"DoSolfaccordo Cutia\". Puoi utilizzare questo effetto di \"DoSolfaccordo Cutia\" una sola volta per turno.",
+  "pendEffect": "Le Evocazioni Pendulum dei tuoi Mostri Pendulum \"Solfaccordo\" non possono essere annullate.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 400,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

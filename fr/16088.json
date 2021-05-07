@@ -1,0 +1,18 @@
+{
+  "id": 16088,
+  "type": "monster",
+  "name": "SolSolfaccord Gracia",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous avez une Échelle Pendule paire dans votre Zone Pendule, si votre Monstre Pendule \"Solfaccord\" attaque, votre adversaire ne peut pas activer d'effets de monstre jusqu'à la fin de la Damage Step. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Solfaccord\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"SolSolfaccord Gracia\" qu'une fois par tour.",
+  "pendEffect": "Votre adversaire ne peut activer ni de Carte Magie/Piège ni d'effet de monstre, lorsqu'un ou plusieurs de vos Monstres Pendules \"Solfaccord\" sont Invoqués par Pendulation.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

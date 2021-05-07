@@ -1,0 +1,18 @@
+{
+  "id": 16090,
+  "type": "monster",
+  "name": "Beautia SiSolfacorde",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "(Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto que controle tu adversario o, si tienes una Escala de Péndulo par en tu Zona de Péndulo, puedes seleccionar 1 Mágica/Trampa boca arriba que controle tu adversario en su lugar; este turno, destiérralo/a cuando deje el Campo. Sólo puedes usar este efecto de \"Beautia SiSolfacorde\" una vez por turno. Una vez por turno, al comienzo del Damage Step, si esta carta batalla con un monstruo con ATK igual o mayor que la Escala de Péndulo más baja en tu Zona de Péndulo x 300: destruye ese monstruo.",
+  "pendEffect": "Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo \"Solfacorde\" son Invocados por Péndulo.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

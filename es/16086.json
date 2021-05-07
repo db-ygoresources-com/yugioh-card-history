@@ -1,0 +1,18 @@
+{
+  "id": 16086,
+  "type": "monster",
+  "name": "Eliteia MiSolfacorde",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Mientras tengas una Escala de Péndulo par en tu Zona de Péndulo, no recibes daño de batallas que involucren a tus Monstruos de Péndulo \"Solfacorde\". Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Mágica/Trampa que controle tu adversario; devuélvela a la mano. Sólo puedes usar este efecto de \"Eliteia MiSolfacorde\" una vez por turno.",
+  "pendEffect": "Las Invocaciones por Péndulo de tus Monstruos de Péndulo \"Solfacorde\" no pueden ser negadas.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

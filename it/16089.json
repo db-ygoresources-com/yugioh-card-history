@@ -1,0 +1,18 @@
+{
+  "id": 16089,
+  "type": "monster",
+  "name": "LaSolfaccordo Angelia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Mentre hai un Valore Pendulum dispari nella tua Zona Pendulum, se un tuo Mostro Pendulum \"Solfaccordo\" attacca, il tuo avversario non può attivare Carte Magia/Trappola o loro effetti fino alla fine del Damage Step. Durante la tua Main Phase: puoi offrire come Tributo 1 Mostro Pendulum \"Solfaccordo\" (anche se coperto) e, se lo fai, Evoca Specialmente dal tuo Deck 1 Mostro Pendulum \"Solfaccordo\" con Valore Pendulum di 2 superiore o di 2 inferiore a quel mostro, eccetto \"LaSolfaccordo Angelia\". Puoi utilizzare questo effetto di \"LaSolfaccordo Angelia\" una sola volta per turno.",
+  "pendEffect": "Il tuo avversario non può attivare una Carta Magia/Trappola, o l'effetto di un mostro, quando uno o più tuoi Mostri Pendulum \"Solfaccordo\" vengono Evocati Pendulum.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

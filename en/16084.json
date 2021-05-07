@@ -1,0 +1,18 @@
+{
+  "id": 16084,
+  "type": "monster",
+  "name": "DoSolfachord Cutia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "While you have an even Pendulum Scale in your Pendulum Zone, \"Solfachord\" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, except \"DoSolfachord Cutia\". You can only use this effect of \"DoSolfachord Cutia\" once per turn.",
+  "pendEffect": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 400,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

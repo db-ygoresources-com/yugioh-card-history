@@ -1,0 +1,18 @@
+{
+  "id": 16090,
+  "type": "monster",
+  "name": "SiSolfaccord Beautia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "(Effet Rapide) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire, ou, si vous avez une Échelle Pendule paire dans votre Zone Pendule, vous pouvez cibler 1 Magie/Piège face recto contrôlé par votre adversaire à la place ; ce tour, bannissez-le lorsqu'il quitte le Terrain. Vous ne pouvez utiliser cet effet de \"SiSolfaccord Beautia\" qu'une fois par tour. Une fois par tour, au début de la Damage Step, si cette carte combat un monstre avec une ATK supérieure ou égale à la plus faible Échelle Pendule dans votre Zone Pendule x 300 : détruisez le monstre.",
+  "pendEffect": "Votre adversaire ne peut activer ni de Carte Magie/Piège ni d'effet de monstre, lorsqu'un ou plusieurs de vos Monstres Pendules \"Solfaccord\" sont Invoqués par Pendulation.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

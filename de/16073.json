@@ -1,0 +1,15 @@
+{
+  "id": 16073,
+  "type": "monster",
+  "name": "Flogos, der Achtheits-Unermessliche",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte vom Spielfeld auf den Friedhof gelegt oder als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert, und 1 Monster in seinem Friedhof, dessen ATK größer oder gleich denen des gewählten Ziels sind; beschwöre das Monster vom Friedhof als Spezialbeschwörung auf seine Spielfeldseite und falls du dies tust, lege das andere Monster, das er kontrolliert, auf den Friedhof. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Karte von deiner Hand auf den Friedhof legen; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Flogos, der Achtheits-Unermessliche“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

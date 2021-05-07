@@ -1,0 +1,18 @@
+{
+  "id": 16086,
+  "type": "monster",
+  "name": "MiSolfaccordo Eliteia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre hai un Valore Pendulum pari nella tua Zona Pendulum, non subisci danno da battaglie che coinvolgono i tuoi Mostri Pendulum \"Solfaccordo\". Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; falla ritornare nella mano. Puoi utilizzare questo effetto di \"MiSolfaccordo Eliteia\" una sola volta per turno.",
+  "pendEffect": "Le Evocazioni Pendulum dei tuoi Mostri Pendulum \"Solfaccordo\" non possono essere annullate.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

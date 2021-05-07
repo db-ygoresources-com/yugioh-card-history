@@ -1,0 +1,18 @@
+{
+  "id": 16085,
+  "type": "monster",
+  "name": "ReSolfaccordo Dreamia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Mentre hai un Valore Pendulum dispari nella tua Zona Pendulum, se una o più Carte Mostro Pendulum \"Solfaccordo\" che controlli stanno per essere distrutte dall'effetto di una carta del tuo avversario, puoi distruggere questa carta invece di 1 di quelle carte. Se controlli una carta \"Solfaccordo\" nella tua Zona Pendulum: puoi Evocare Specialmente questa carta dalla tua mano. Puoi utilizzare questo effetto di \"ReSolfaccordo Dreamia\" una sola volta per turno.",
+  "pendEffect": "Le Evocazioni Pendulum dei tuoi Mostri Pendulum \"Solfaccordo\" non possono essere annullate.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

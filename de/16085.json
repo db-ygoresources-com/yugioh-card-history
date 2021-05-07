@@ -1,0 +1,18 @@
+{
+  "id": 16085,
+  "type": "monster",
+  "name": "ReSolfakkord Dreamia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange du einen ungeraden Pendelbereich in deiner Pendelzone hast, falls eine oder mehr „Solfakkord“-Pendelmonsterkarten, die du kontrollierst, durch einen Karteneffekt deines Gegners zerstört würden, kannst du statt 1 der Karten diese Karte zerstören. Falls du eine „Solfakkord“-Karte in deiner Pendelzone kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst diesen Effekt von „ReSolfakkord Dreamia“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Pendelbeschwörungen deiner „Solfakkord“-Pendelmonster können nicht annulliert werden.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

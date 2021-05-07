@@ -1,0 +1,18 @@
+{
+  "id": 16089,
+  "type": "monster",
+  "name": "LaSolfaccord Angélia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que vous avez une Échelle Pendule impaire dans votre Zone Pendule, si votre Monstre Pendule \"Solfaccord\" attaque, votre adversaire ne peut activer ni de Cartes Magie/Piège ni d'effets de Magie/Piège jusqu'à la fin de la Damage Step. Durant votre Main Phase : vous pouvez Sacrifier 1 Monstre Pendule \"Solfaccord\" (même si face verso), et si vous le faites, Invoquez Spécialement 1 Monstre Pendule \"Solfaccord\" (\"LaSolfaccord Angélia\" exclu) depuis votre Deck dont l'Échelle Pendule est supérieure de 2 ou inférieure de 2 à celle du monstre. Vous ne pouvez utiliser cet effet de \"LaSolfaccord Angélia\" qu'une fois par tour.",
+  "pendEffect": "Votre adversaire ne peut activer ni de Carte Magie/Piège ni d'effet de monstre, lorsqu'un ou plusieurs de vos Monstres Pendules \"Solfaccord\" sont Invoqués par Pendulation.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

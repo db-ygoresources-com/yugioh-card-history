@@ -1,0 +1,18 @@
+{
+  "id": 16087,
+  "type": "monster",
+  "name": "Fancia FaSolfacorde",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Mientras tengas una Escala de Péndulo impar en tu Zona de Péndulo, si tu Monstruo de Péndulo \"Solfacorde\" fuera a ser destruido en batalla, puedes destruir esta carta en su lugar. Durante tu Main Phase: puedes añadir a tu Deck Extra, boca arriba, 1 Monstruo de Péndulo \"Solfacorde\" en tu Deck, excepto \"Fancia FaSolfacorde\". Sólo puedes usar este efecto de \"Fancia FaSolfacorde\" una vez por turno.",
+  "pendEffect": "Las Invocaciones por Péndulo de tus Monstruos de Péndulo \"Solfacorde\" no pueden ser negadas.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

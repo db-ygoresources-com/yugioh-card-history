@@ -1,0 +1,18 @@
+{
+  "id": 16088,
+  "type": "monster",
+  "name": "SolSolfaccordo Gracia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre hai un Valore Pendulum pari nella tua Zona Pendulum, se un tuo Mostro Pendulum \"Solfaccordo\" attacca, il tuo avversario non può attivare effetti di mostri fino alla fine del Damage Step. Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 Magia/Trappola \"Solfaccordo\" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"SolSolfaccordo Gracia\" una sola volta per turno.",
+  "pendEffect": "Il tuo avversario non può attivare una Carta Magia/Trappola, o l'effetto di un mostro, quando uno o più tuoi Mostri Pendulum \"Solfaccordo\" vengono Evocati Pendulum.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

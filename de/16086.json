@@ -1,0 +1,18 @@
+{
+  "id": 16086,
+  "type": "monster",
+  "name": "MiSolfakkord Eliteia",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du einen geraden Pendelbereich in deiner Pendelzone hast, erhältst du keinen Schaden von Kämpfen, an denen deine „Solfakkord“-Pendelmonster beteiligt sind. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; gib ihn oder sie auf die Hand zurück. Du kannst diesen Effekt von „MiSolfakkord Eliteia“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Pendelbeschwörungen deiner „Solfakkord“-Pendelmonster können nicht annulliert werden.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

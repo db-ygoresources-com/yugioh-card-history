@@ -1,0 +1,18 @@
+{
+  "id": 16087,
+  "type": "monster",
+  "name": "FaSolfaccord Fancia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Tant que vous avez une Échelle Pendule impaire dans votre Zone Pendule, si votre Monstre Pendule \"Solfaccord\" va être détruit au combat, vous pouvez détruire cette carte à la place. Durant votre Main Phase : vous pouvez ajouter face recto 1 Monstre Pendule \"Solfaccord\" (\"FaSolfaccord Fancia\" exclu) depuis votre Deck à votre Extra Deck. Vous ne pouvez utiliser cet effet de \"FaSolfaccord Fancia\" qu'une fois par tour.",
+  "pendEffect": "Les Invocations Pendule de vos Monstres Pendule \"Solfaccord\" ne peuvent pas être annulées.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

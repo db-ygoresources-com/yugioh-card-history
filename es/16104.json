@@ -1,0 +1,16 @@
+{
+  "id": 16104,
+  "type": "monster",
+  "name": "Osártico Septentrión",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser Invocado por Sincronía. Debe ser Invocado de Modo Especial (desde tu Deck Extra) mandando al Cementerio 2 monstruos que controles con una diferencia de Nivel de 7 (1 Cantante de Nivel 8 o mayor y 1 Monstruo de Sincronía que no sea Cantante). Niega los efectos de los monstruos boca arriba que no tengan Nivel y que fueron Invocados de Modo Especial desde el Deck Extra. Si tu adversario Invoca uno o más monstruos de Modo Especial (excepto durante el Damage Step): puedes añadir a tu mano 1 carta \"Osártico/a\" en tu Deck. Sólo puedes usar este efecto de \"Osártico Septentrión\" una vez por turno.",
+  "level": 7,
+  "atk": 3000,
+  "def": 700,
+  "properties": [
+    "Guerrero-Bestia",
+    "Sincronía",
+    "Efecto"
+  ]
+}
