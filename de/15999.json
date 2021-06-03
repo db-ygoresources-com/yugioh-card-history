@@ -1,0 +1,16 @@
+{
+  "id": 15999,
+  "type": "monster",
+  "name": "Sternrakete",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDu kannst nur einmal pro Spielzug eine oder mehr „Sternrakete“ als Spezialbeschwörung beschwören. Falls diese Karte, die ihrem Besitzer gehört, durch einen Angriff oder Karteneffekt eines Gegners zerstört wird: Du erhältst 2000 Schaden, dann füge deinem Gegner 2000 Schaden zu. Falls ein Monster in der benachbarten Zone dieser Karte durch einen Angriff oder Karteneffekt deines Gegners zerstört wird: Zerstöre diese Karte und falls du dies tust, erhältst du 2000 Schaden, dann füge deinem Gegner 2000 Schaden zu.",
+  "level": 4,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Synchro",
+    "Effekt"
+  ]
+}

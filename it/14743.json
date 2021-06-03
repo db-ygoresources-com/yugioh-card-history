@@ -1,0 +1,19 @@
+{
+  "id": 14743,
+  "type": "monster",
+  "name": "Lama Binaria",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "2 Mostri Normali\nQuesta carta guadagna questi effetti a seconda del numero di mostri co-linkati a questa carta.\n●1+: Quando questa carta dichiara un attacco su un mostro dell'avversario: puoi attivare questo effetto; questa carta può effettuare un secondo attacco durante ogni Battle Phase in questo turno, inoltre se questa carta combatte con un mostro dell'avversario in questo turno, quel mostro dell'avversario non può essere distrutto in quella battaglia.\n●2: Dopo il calcolo dei danni, se questa carta ha combattuto con un mostro dell'avversario: puoi bandire quel mostro dell'avversario.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15999,
+  "type": "monster",
+  "name": "Mine d'Étoiles",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nVous ne pouvez Invoquer Spécialement un ou plusieurs \"Mine d'Étoiles\" qu'une fois par tour. Si cette carte en possession de son propriétaire est détruite par une attaque ou effet de carte de l'adversaire : recevez 2000 points de dommages, puis infligez 2000 points de dommages à votre adversaire. Si un monstre dans la zone adjacente de cette carte est détruit par une attaque ou effet de carte de votre adversaire : détruisez cette carte, et si vous le faites, recevez 2000 points de dommages, puis infligez 2000 points de dommages à votre adversaire.",
+  "level": 4,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Synchro",
+    "Effet"
+  ]
+}

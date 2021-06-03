@@ -1,0 +1,16 @@
+{
+  "id": 15992,
+  "type": "monster",
+  "name": "Otoshidamashi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Mentre controlli un mostro che non è un Tuner, i mostri del tuo avversario non possono scegliere questa carta come bersaglio per gli attacchi. Se uno o più mostri vengono mandati dal Terreno al Cimitero del tuo avversario: metti 1 Segnalino Otoshidamashi su questa carta, poi Evoca Specialmente \"Segna-Otoshidamashi\" (Bestia/TERRA/Livello 1/ATK ?/DEF ?) fino al numero di Segnalini Otoshidamashi su questa carta. Il Livello di ogni Segna-Mostro è aumentato quando Evocato del numero di Segnalini Otoshidamashi su questa carta, inoltre gli ATK/DEF di ogni Segna-Mostro sono il suo Livello quando Evocato x 500. Puoi utilizzare questo effetto di \"Otoshidamashi\" una sola volta per turno.",
+  "level": 1,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Tuner",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15893,
+  "type": "monster",
+  "name": "Sonnenavalon-Melias",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Pflanze-Monster, darunter ein Linkmonster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Sonnensamen-Genie Loci“ als Spezialbeschwörung von deinem Friedhof beschwören. Diese Karte kann nicht als Angriffsziel gewählt werden, aber verhindert nicht, dass dein Gegner dich direkt angreift. Einmal pro Spielzug: Du kannst 1 „Sonnenranken“-Linkmonster wählen, das du kontrollierst und auf das diese Karte zeigt; in diesem Spielzug kann es in jeder Battle Phase bis zu so viele Male angreifen wie die Anzahl der „Sonnenavalon“-Linkmonster beträgt, die du derzeit kontrollierst.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "6"
+  ],
+  "atk": 0,
+  "properties": [
+    "Pflanze",
+    "Link",
+    "Effekt"
+  ]
+}

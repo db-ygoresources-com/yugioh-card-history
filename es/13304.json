@@ -1,0 +1,18 @@
+{
+  "id": 13304,
+  "type": "monster",
+  "name": "D/D/D Maxwell Cero, Rey de la Súper Visión",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Antes del cálculo de daño, si esta carta ataca un monstruo en Posición de Defensa del adversario: puedes cambiar a 0 la DEF de ese monstruo del adversario hasta el final del Damage Step. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. No recibes daño de batalla de batallas que involucren a esta carta.",
+  "pendEffect": "Puedes seleccionar 1 monstruo boca arriba en el Campo; su DEF se convierte en 0 hasta el final de este turno (aun si esta carta deja el Campo). Sólo puedes usar este efecto de \"D/D/D Maxwell Cero, Rey de la Súper Visión\" una vez por turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

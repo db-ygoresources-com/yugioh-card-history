@@ -1,0 +1,15 @@
+{
+  "id": 16278,
+  "type": "monster",
+  "name": "Roca de Guerra Meteoragon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser destruido por efectos de cartas del adversario. Cuando es declarado un ataque que involucra esta carta y un monstruo del adversario: puedes negar los efectos de ese monstruo del adversario este turno, así como los efectos activados y efectos en el Campo de monstruos con ese mismo nombre original. Una vez por turno, durante una Battle Phase en la cual tu monstruo Guerrero de TIERRA batalle (Efecto Rápido): puedes hacer que todos los monstruos \"Roca de Guerra\" que controlas en este momento ganen 200 ATK hasta el final del turno de tu adversario, y además esta carta puede hacer hasta 2 ataques a monstruos durante cada Battle Phase este turno.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

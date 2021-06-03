@@ -1,0 +1,16 @@
+{
+  "id": 16001,
+  "type": "monster",
+  "name": "ZW - Hallebarde Dragonique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 5\nNe peut pas attaquer directement. Une fois par tour : vous pouvez détacher 1 Matériel de cette carte ; ajoutez 1 Magie/Piège \"Zexal\" depuis votre Deck à votre main. Vous pouvez cibler 1 monstre \"Utopie\" que vous contrôlez ; équipez-lui cette carte que vous contrôlez. Il gagne 3000 ATK. Lorsque le monstre équipé détruit un monstre au combat : vous pouvez Invoquer Spécialement sur votre Terrain un nombre de votre choix de Cartes Monstre \"ZW -\" qui lui sont équipées.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 1200,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16001,
+  "type": "monster",
+  "name": "ZW - Drachenhellebarde",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 5\nKann nicht direkt angreifen. Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; füge deiner Hand 1 „Zexal“-Zauber/Falle von deinem Deck hinzu. Du kannst 1 „Utopia“-Monster wählen, das du kontrollierst; rüste es mit dieser Karte aus, die du kontrollierst. Es erhält 3000 ATK. Wenn das ausgerüstete Monster ein Monster durch Kampf zerstört: Du kannst eine beliebige Anzahl „ZW -“-Monsterkarten, mit denen es ausgerüstet ist, als Spezialbeschwörung auf deine Spielfeldseite beschwören.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Effekt"
+  ]
+}

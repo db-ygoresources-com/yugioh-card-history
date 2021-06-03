@@ -1,0 +1,15 @@
+{
+  "id": 16277,
+  "type": "monster",
+  "name": "Roca de Guerra Mammud",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si no controlas monstruos, o todos los monstruos que controlas son monstruos Guerrero, puedes Invocar esta carta de Modo Normal sin Sacrificar. Si tu monstruo Guerrero de TIERRA batalla, después del cálculo de daño: puedes seleccionar 1 Mágica/Trampa que controle tu adversario; destrúyela, y después todos los monstruos \"Roca de Guerra\" que controles en este momento ganan 200 ATK hasta el final del turno de tu adversario. Sólo puedes usar este efecto de \"Roca de Guerra Mammud\" una vez por turno.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

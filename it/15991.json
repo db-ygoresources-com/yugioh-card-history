@@ -1,0 +1,18 @@
+{
+  "id": 15991,
+  "type": "monster",
+  "name": "Orologio Arco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Specialmente in una zona che non è la Zona Mostri Main centrale, distruggila. Non può essere distrutto in battaglia. Una volta per turno, durante la End Phase del tuo avversario: puoi scegliere come bersaglio 1 carta nella tua Zona Pendulum; distruggila e, se lo fai, metti questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Se non controlli nessun mostro, o solo Mostri Pendulum, applica questo effetto, a seconda della Zona Pendulum di questa carta.\n●Sinistra: Riduci il suo Valore Pendulum di 3.\n●Destra: Aumenta il suo Valore Pendulum di 4.\nDurante la Standby Phase del tuo avversario: puoi Evocare Specialmente questa carta.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

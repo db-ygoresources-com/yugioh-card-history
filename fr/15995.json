@@ -1,0 +1,16 @@
+{
+  "id": 15995,
+  "type": "monster",
+  "name": "Mystérion le Dragon Couronne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre Magicien + 1 monstre Dragon\nNon utilisable comme Matériel Fusion. Cette carte perd 100 ATK pour chacune de vos cartes bannies. Si un monstre utilise son effet activé pour s'Invoquer Spécialement, ou Invoquer Spécialement un ou plusieurs monstres avec le même Type d'origine (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres Invoqués Spécialement ; bannissez le monstre, et aussi, bannissez tous les monstres depuis le Terrain avec le même Type d'origine. Vous ne pouvez utiliser cet effet de \"Mystérion le Dragon Couronne\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

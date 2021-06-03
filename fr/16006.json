@@ -1,0 +1,18 @@
+{
+  "id": 16006,
+  "type": "monster",
+  "name": "Enfant des Ténèbres @Ignister",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre non-Lien \"@Ignister\"\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 \"Ignister A.I.Land\" depuis votre Deck à votre main. Lorsqu'un monstre Cyberse avec 2300 ATK d'origine active son effet (Effet Rapide) : vous pouvez déplacer cette carte dans votre Zone Monstre Main pointée par cette carte, puis, vous pouvez le changer en n'importe quel Attribut jusqu'à la fin de ce tour. Vous ne pouvez utiliser chaque effet de \"Enfant des Ténèbres @Ignister\" qu'une fois par tour.",
+  "linkRating": 1,
+  "linkArrows": [
+    "4"
+  ],
+  "atk": 500,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

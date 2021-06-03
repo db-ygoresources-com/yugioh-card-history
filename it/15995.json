@@ -1,0 +1,16 @@
+{
+  "id": 15995,
+  "type": "monster",
+  "name": "Mysterion, la Corona del Drago",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 mostro Incantatore + 1 mostro Drago\nNon può essere utilizzato come Materiale da Fusione. Questa carta perde 100 ATK per ognuna delle tue carte bandite. Se un mostro utilizza un suo effetto attivato per Evocare Specialmente se stesso, o uno o più mostri con il suo stesso Tipo originale (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 di quei mostri Evocati Specialmente; bandisci quel mostro, inoltre bandisci dal Terreno tutti i mostri con il suo stesso Tipo originale. Puoi utilizzare questo effetto di \"Mysterion, la Corona del Drago\" una sola volta per turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Fusione",
+    "Effetto"
+  ]
+}

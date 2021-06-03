@@ -1,0 +1,16 @@
+{
+  "id": 15993,
+  "type": "monster",
+  "name": "Caballero Blanco de Dogmátik",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Dogmátikalamidad\". No puedes Invocar monstruos de Modo Especial desde el Deck Extra. Si tu adversario activa una carta o efecto (excepto durante el Damage Step): puedes mandar al Cementerio 1 monstruo en tu Deck Extra y, si lo haces, mira el Deck Extra de tu adversario y manda al Cementerio 1 monstruo en él. Hasta el final de este turno esta carta gana ATK igual a la mitad del ATK combinado de esos monstruos mandados al Cementerio. Sólo puedes usar este efecto de \"Caballero Blanco de Dogmátik\" una vez por turno.",
+  "level": 8,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

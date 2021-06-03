@@ -1,0 +1,18 @@
+{
+  "id": 15987,
+  "type": "monster",
+  "name": "Anachouflagrète",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre Extra Deck face recto) en n'ayant aucune carte dans votre Extra Deck (\"Anachouflagrète\" exclu). Vous ne pouvez Invoquer Spécialement \"Anachouflagrète\" qu'une fois par tour de cette façon. Si cette carte face recto dans la Zone Monstre quitte le Terrain, bannissez-la.",
+  "pendEffect": "Si vous n'avez aucune carte dans votre Extra Deck (\"Anachouflagrète\" exclu) : vous pouvez détruire cette carte, puis piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Anachouflagrète\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

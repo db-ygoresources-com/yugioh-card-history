@@ -1,0 +1,18 @@
+{
+  "id": 15991,
+  "type": "monster",
+  "name": "Arc Montre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Spécialement dans une zone qui n'est pas la Zone Monstre Main centrale, détruisez-la. Non destructible au combat. Une fois par tour, durant la End Phase de votre adversaire : vous pouvez cibler 1 carte dans votre Zone Pendule ; détruisez-la, et si vous le faites, placez cette carte dans votre Zone Pendule.",
+  "pendEffect": "Si vous ne contrôlez aucun monstre, ou contrôlez uniquement des Monstres Pendule, appliquez cet effet, selon la Zone Pendule de cette carte.\n●Gauche : Réduisez son Échelle Pendule de 3.\n●Droite : Augmentez son Échelle Pendule de 4.\nDurant la Standby Phase de votre adversaire : vous pouvez Invoquer Spécialement cette carte.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15981,
+  "type": "monster",
+  "name": "Juge de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", chaque fois que votre adversaire active une carte ou un effet en payant des LP, il perd 500 LP. Vous ne pouvez utiliser chacun des effets suivants de \"Juge de la Barrière de Glace\" qu'une fois par tour. Vous pouvez cibler 1 ou 2 monstres \"Barrière de Glace\" dans votre Cimetière, et 1 ou 2 cartes dans le Cimetière de votre adversaire ; mélangez-les dans le Deck. Si vous contrôlez un monstre \"Barrière de Glace\" : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre en Position d'Attaque sur le Terrain ; changez-le en Position de Défense.",
+  "level": 4,
+  "atk": 1800,
+  "def": 900,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

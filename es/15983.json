@@ -1,0 +1,15 @@
+{
+  "id": 15983,
+  "type": "monster",
+  "name": "Honesto Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, durante tu Main Phase: puedes devolver a la mano esta carta boca arriba. Durante el Damage Step, cuando tu monstruo de OSCURIDAD batalla con un monstruo del adversario (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano; hasta el final de este turno, ese monstruo del adversario pierde ATK igual a su propio ATK.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1900,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

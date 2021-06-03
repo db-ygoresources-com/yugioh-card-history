@@ -1,0 +1,15 @@
+{
+  "id": 16276,
+  "type": "monster",
+  "name": "Wento du Rocher de Guerre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si votre monstre TERRE Guerrier combat un monstre de l'adversaire, durant le calcul des dommages (Effet Rapide) : vous pouvez payer 800 LP ; jusqu'à la fin de ce tour, votre monstre combattant gagne 800 ATK. Si cette carte est envoyée depuis votre Zone Monstre à votre Cimetière par un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 1 monstre \"Rocher de Guerre\" de min. Niveau 5 depuis votre main ou Deck. Vous ne pouvez utiliser chaque effet de \"Wento du Rocher de Guerre\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15083,
+  "type": "monster",
+  "name": "Divinatrice per l'Araldo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi mandare 1 mostro Fata dal tuo Deck o Extra Deck al Cimitero e, se lo fai, aumenta il Livello di questa carta del Livello di quel mostro, fino alla fine di questo turno. Se questa carta viene offerta come Tributo: puoi Evocare Specialmente 1 mostro Fata di Livello 2 o inferiore dalla tua mano o Deck, eccetto \"Divinatrice per l'Araldo\". Puoi utilizzare ogni effetto di \"Divinatrice per l'Araldo\" una sola volta per turno.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Fata",
+    "Tuner",
+    "Effetto"
+  ]
+}

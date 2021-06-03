@@ -1,0 +1,18 @@
+{
+  "id": 15991,
+  "type": "monster",
+  "name": "Relógio Arc",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Especial em uma zona que não seja a Zona de Monstros Principal central, destrua-o. Não pode ser destruído em batalha. Uma vez por turno, durante a Fase Final do seu oponente: você pode escolher 1 card na sua Zona de Pêndulo; destrua-o e, se isso acontecer, coloque este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se você não controlar nenhum monstro, ou apenas Monstros Pêndulo, aplique este efeito, de acordo com a Zona de Pêndulo deste card.\n●Esquerda: Reduza sua Escala de Pêndulo em 3.\n●Direita: Aumente sua Escala de Pêndulo em 4.\nDurante a Fase de Apoio do seu oponente: você pode Invocar este card por Invocação-Especial.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

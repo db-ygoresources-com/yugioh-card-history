@@ -1,0 +1,16 @@
+{
+  "id": 16273,
+  "type": "monster",
+  "name": "Pendransacción",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 monstruos de Nivel 4\nPuedes desacoplar 1 material de esta carta; si tienes más cartas en tu Deck Extra que tu adversario, aplica estos efectos en secuencia, dependiendo de la diferencia.\n●1+: Esta carta gana 1000 ATK hasta el final del turno de tu adversario.\n●5+: Ningún jugador puede seleccionar esta carta con efectos de cartas hasta el final del turno de tu adversario.\n●10+: Destierra 1 carta que controle tu adversario.\n●15+: Convierte los LP de tu adversario en 3000.\nSólo puedes usar este efecto de \"Pendransacción\" una vez por turno.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Xyz",
+    "Efecto"
+  ]
+}

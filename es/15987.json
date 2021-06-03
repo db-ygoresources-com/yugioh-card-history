@@ -1,0 +1,18 @@
+{
+  "id": 15987,
+  "type": "monster",
+  "name": "Ancamufrito",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Deck Extra boca arriba) no teniendo cartas en tu Deck Extra excepto \"Ancamufrito\". Sólo puedes Invocar de Modo Especial \"Ancamufrito\" una vez por turno de esta forma. Si esta carta boca arriba en la Zona de Monstruos deja el Campo, destiérrala.",
+  "pendEffect": "Si no tienes cartas en tu Deck Extra excepto \"Ancamufrito\": puedes destruir esta carta, y después robar 1 carta. Sólo puedes usar este efecto de \"Ancamufrito\" una vez por turno.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

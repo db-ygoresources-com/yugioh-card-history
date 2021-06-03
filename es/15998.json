@@ -1,0 +1,16 @@
+{
+  "id": 15998,
+  "type": "monster",
+  "name": "Exseñor Lavalval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 Cantante + 1+ monstruos de FUEGO que no sean Cantantes\nCuando tu adversario activa un efecto de un monstruo en el Campo o en su mano (Efecto Rápido): puedes destruir ese monstruo y, si lo haces, inflige 1000 puntos de daño a tu adversario. Si esta carta Invocada por Sincronía controlada por su dueño es destruida por una carta del adversario: puedes Invocar de Modo Especial, desde tu Cementerio, hasta 3 monstruos de FUEGO que no sean de Sincronía con 200 DEF en Posición de Defensa, pero niega sus efectos. Sólo puedes usar cada efecto de \"Exseñor Lavalval\" una vez por turno.",
+  "level": 8,
+  "atk": 2900,
+  "def": 200,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

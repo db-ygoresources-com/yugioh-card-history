@@ -1,0 +1,18 @@
+{
+  "id": 13304,
+  "type": "monster",
+  "name": "D/D/D Roi de la Supervue Zéro Maxwell",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Avant le calcul des dommages, si cette carte attaque un monstre de l'adversaire en Position de Défense : jusqu'à la fin de la Damage Step, vous pouvez changer la DEF du monstre de l'adversaire à 0. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Vous ne recevez aucun dommage de combat des combats impliquant cette carte.",
+  "pendEffect": "Vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), sa DEF devient 0. Vous ne pouvez utiliser cet effet de \"D/D/D Roi de la Supervue Zéro Maxwell\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

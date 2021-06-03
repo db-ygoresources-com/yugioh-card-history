@@ -1,0 +1,16 @@
+{
+  "id": 15992,
+  "type": "monster",
+  "name": "Otoshidamashi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que vous contrôlez un monstre qui n'est pas un Syntoniseur, les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Si un ou plusieurs monstres sont envoyés depuis le Terrain au Cimetière de votre adversaire : placez 1 Compteur Otoshidamashi sur cette carte, puis Invoquez Spécialement un nombre de \"Jeton Otoshidamashi\" (Bête/TERRE/Niveau 1/ATK ?/DEF ?) inférieur ou égal au nombre de Compteurs Otoshidamashi sur cette carte. Le Niveau de chaque Jeton est augmenté par le nombre de Compteurs Otoshidamashi sur cette carte lorsqu'il est Invoqué, et aussi, l'ATK/DEF de chaque Jeton sont égales à son Niveau x 500 lorsqu'il est Invoqué. Vous ne pouvez utiliser cet effet de \"Otoshidamashi\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Bête",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

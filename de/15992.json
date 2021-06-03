@@ -1,0 +1,16 @@
+{
+  "id": 15992,
+  "type": "monster",
+  "name": "Otoshidamashi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Solange du ein Monster kontrollierst, das kein Empfänger ist, können Monster deines Gegners diese Karte nicht als Angriffsziel wählen. Falls ein oder mehr Monster vom Spielfeld auf den Friedhof deines Gegners gelegt werden: Lege 1 Otoshidamashi-Zählmarke auf diese Karte, dann beschwöre „Otoshidamashi-Spielmarken“ (Ungeheuer/ERDE/Stufe 1/ATK ?/DEF ?) bis zur Anzahl der Otoshidamashi-Zählmarken auf dieser Karte als Spezialbeschwörung. Die Stufe jeder Spielmarke wird um die Anzahl der Otoshidamashi-Zählmarken auf dieser Karte erhöht, wenn sie beschworen wird, zusätzlich entsprechen die ATK/DEF jeder Spielmarke ihrer Stufe, wenn sie beschworen wird, x 500. Du kannst diesen Effekt von „Otoshidamashi“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

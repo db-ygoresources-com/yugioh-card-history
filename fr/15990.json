@@ -1,0 +1,15 @@
+{
+  "id": 15990,
+  "type": "monster",
+  "name": "Yamorimori",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Reptile que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire, pour activer 1 de ces effets ;\n●Changez ces monstres en Position de Défense face verso.\n●Détruisez le monstre que vous contrôlez, et si vous le faites, changez l'ATK de l'autre monstre à 0 jusqu'à la fin de ce tour.\nVous ne pouvez utiliser cet effet de \"Yamorimori\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

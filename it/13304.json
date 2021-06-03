@@ -1,0 +1,18 @@
+{
+  "id": 13304,
+  "type": "monster",
+  "name": "D/D/D Supervista Re Zero Maxwell",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Prima del calcolo dei danni, se questa carta attacca un mostro in Posizione di Difesa dell'avversario: puoi cambiare il DEF di quel mostro dell'avversario a 0 fino alla fine del Damage Step. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante. Non subisci danno da combattimento da battaglie che coinvolgono questa carta.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; il suo DEF diventa 0 fino alla fine di questo turno (anche se questa carta lascia il Terreno). Puoi utilizzare questo effetto di \"D/D/D Supervista Re Zero Maxwell\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

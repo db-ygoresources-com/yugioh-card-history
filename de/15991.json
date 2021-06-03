@@ -1,0 +1,18 @@
+{
+  "id": 15991,
+  "type": "monster",
+  "name": "Uhrbogen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Spezialbeschwörung in eine Zone beschworen wird, die nicht die mittlere Main-Monsterzone ist, zerstöre sie. Kann nicht durch Kampf zerstört werden. Einmal pro Spielzug, während der End Phase deines Gegners: Du kannst 1 Karte in deiner Pendelzone wählen; zerstöre sie und falls du dies tust, lege diese Karte in deine Pendelzone.",
+  "pendEffect": "Falls du keine Monster oder nur Pendelmonster kontrollierst, führe diesen Effekt aus, basierend auf der Pendelzone dieser Karte.\n●Links: Verringere ihren Pendelbereich um 3.\n●Rechts: Erhöhe ihren Pendelbereich um 4.\nWährend der Standby Phase deines Gegners: Du kannst diese Karte als Spezialbeschwörung beschwören.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

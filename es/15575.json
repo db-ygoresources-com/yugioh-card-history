@@ -1,0 +1,15 @@
+{
+  "id": 15575,
+  "type": "monster",
+  "name": "Eda la Maga Solar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada de Modo Normal o volteada boca arriba: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo Lanzador de Conjuros con 1500 DEF en Posición de Defensa boca abajo, excepto \"Eda la Maga Solar\". Durante la Main Phase de tu adversario (Efecto Rápido): puedes cambiar 1 monstruo Lanzador de Conjuros boca abajo que controles a Posición de Ataque o Defensa boca arriba. Sólo puedes usar cada efecto de \"Eda la Maga Solar\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

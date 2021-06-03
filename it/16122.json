@@ -1,0 +1,16 @@
+{
+  "id": 16122,
+  "type": "monster",
+  "name": "Trinchetta Romarin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "(Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto che controlli; manda 1 altro mostro Pianta che controlli al Cimitero e, se lo fai, la prossima volta che il mostro scelto come bersaglio sta per essere distrutto in battaglia o dall'effetto di una carta in questo turno, non viene distrutto. Se questa carta viene mandata al Cimitero dall'effetto di una carta: puoi mandare 1 mostro Pianta di Livello 5 o inferiore dal tuo Deck o Extra Deck al Cimitero. Puoi utilizzare ogni effetto di \"Trinchetta Romarin\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 300,
+  "properties": [
+    "Pianta",
+    "Tuner",
+    "Effetto"
+  ]
+}

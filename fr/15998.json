@@ -1,0 +1,16 @@
+{
+  "id": 15998,
+  "type": "monster",
+  "name": "Seigneur Ex Lavalval",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur FEU\nLorsque votre adversaire active un effet de monstre sur le Terrain ou dans sa main (Effet Rapide) : vous pouvez détruire le monstre, et si vous le faites, infligez 1000 points de dommages à votre adversaire. Si cette carte Invoquée par Synchronisation contrôlée par son propriétaire est détruite par une carte de l'adversaire : vous pouvez Invoquer Spécialement max. 3 monstres non-Synchro FEU avec 200 DEF depuis votre Cimetière en Position de Défense, mais annulez leurs effets. Vous ne pouvez utiliser chaque effet de \"Seigneur Ex Lavalval\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2900,
+  "def": 200,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

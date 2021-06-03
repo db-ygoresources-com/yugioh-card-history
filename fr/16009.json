@@ -1,0 +1,21 @@
+{
+  "id": 16009,
+  "type": "monster",
+  "name": "Banialancier le Renaissant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres Plante\nDurant la Main Phase (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; recevez des dommages égaux à son ATK, et si vous avez reçu des dommages, renvoyez-le à la main. Si cette carte est dans votre Cimetière : vous pouvez bannir min. 2 Monstres Lien depuis votre Cimetière dont la somme des Classifications Lien est égale à exactement 4 ; Invoquez Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser qu'1 effet de \"Banialancier le Renaissant\" par tour, et uniquement une fois le tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Plante",
+    "Lien",
+    "Effet"
+  ]
+}

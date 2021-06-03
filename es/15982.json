@@ -1,0 +1,16 @@
+{
+  "id": 15982,
+  "type": "monster",
+  "name": "Raptor de Chatarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes seleccionar 1 monstruo que controles; destrúyelo, y además, durante tu Main Phase este turno, puedes Invocar de Modo Normal 1 monstruo \"Chatarra\" además de tu Invocación Normal/Colocación. Si esta carta es destruida por el efecto de una carta \"Chatarra\" y mandada a tu Cementerio: puedes añadir a tu mano 1 \"Fábrica de Chatarra\" o 1 monstruo \"Chatarra\" que no sea Cantante en tu Deck. Sólo puedes usar cada efecto de \"Raptor de Chatarra\" una vez por turno.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Dinosaurio",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15992,
+  "type": "monster",
+  "name": "Otoshidamashi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Mientras controlas un monstruo que no es Cantante, los monstruos de tu adversario no pueden seleccionar esta carta para ataques. Si uno o más monstruos son mandados del Campo al Cementerio de tu adversario: pon 1 Contador Otoshidamashi en esta carta, y después Invoca de Modo Especial \"Ficha Otoshidamashi\" (Bestia/TIERRA/Nivel 1/ATK ?/DEF ?) hasta el número de Contadores Otoshidamashi en esta carta. El Nivel de cada Ficha es aumentado cuando es Invocada por el número de Contadores Otoshidamashi en esta carta, y además el ATK/DEF de cada Ficha son su Nivel cuando es Invocada x 500. Sólo puedes usar este efecto de \"Otoshidamashi\" una vez por turno.",
+  "level": 1,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Bestia",
+    "Cantante",
+    "Efecto"
+  ]
+}

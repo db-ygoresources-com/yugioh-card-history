@@ -1,0 +1,16 @@
+{
+  "id": 15083,
+  "type": "monster",
+  "name": "Adivina del Heraldo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 monstruo Hada en tu Deck o Deck Extra y, si lo haces, hasta el final de este turno aumenta el Nivel de esta carta tanto como el Nivel de ese monstruo. Si esta carta es Sacrificada: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo Hada de Nivel 2 o menor, excepto \"Adivina del Heraldo\". Sólo puedes usar cada efecto de \"Adivina del Heraldo\" una vez por turno.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Hada",
+    "Cantante",
+    "Efecto"
+  ]
+}

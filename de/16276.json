@@ -1,0 +1,15 @@
+{
+  "id": 16276,
+  "type": "monster",
+  "name": "Kriegsfels-Wento",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls dein ERDE Krieger-Monster gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst 800 LP zahlen; dein kämpfendes Monster erhält bis zum Ende dieses Spielzugs 800 ATK. Falls diese Karte durch einen Karteneffekt eines Gegners von deiner Monsterzone auf deinen Friedhof gelegt wird: Du kannst 1 „Kriegsfels“-Monster der Stufe 5 oder höher als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. Du kannst jeden Effekt von „Kriegsfels-Wento“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

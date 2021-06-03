@@ -1,0 +1,16 @@
+{
+  "id": 15995,
+  "type": "monster",
+  "name": "Mysterion la Corona del Dragón",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo Lanzador de Conjuros + 1 monstruo Dragón\nNo puede ser usado como Material de Fusión. Esta carta pierde 100 ATK por cada una de tus cartas desterradas. Si un monstruo usa su efecto activado para Invocarse de Modo Especial a sí mismo, o a uno o más monstruos con su mismo Tipo original (excepto durante el Damage Step): puedes seleccionar 1 de esos monstruos Invocados de Modo Especial; destierra ese monstruo, y además destierra todos los monstruos en el Campo con su mismo Tipo original. Sólo puedes usar este efecto de \"Mysterion la Corona del Dragón\" una vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

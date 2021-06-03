@@ -1,0 +1,18 @@
+{
+  "id": 15991,
+  "type": "monster",
+  "name": "Arc Reloj",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Especial a una zona que no sea la Zona de Monstruos Principal central, destrúyela. No puede ser destruida en batalla. Una vez por turno, durante la End Phase de tu adversario: puedes seleccionar 1 carta en tu Zona de Péndulo; destrúyela y, si lo haces, pon esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Si no controlas monstruos, o sólo controlas Monstruos de Péndulo, aplica este efecto, basado en la Zona de Péndulo de esta carta.\n●Izquierda: Reduce su Escala de Péndulo en 3.\n●Derecha: Aumenta su Escala de Péndulo en 4.\nDurante la Standby Phase de tu adversario: puedes Invocar esta carta de Modo Especial.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

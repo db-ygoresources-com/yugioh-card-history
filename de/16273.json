@@ -1,0 +1,16 @@
+{
+  "id": 16273,
+  "type": "monster",
+  "name": "Pendransaktion",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster der Stufe 4\nDu kannst 1 Material von dieser Karte abhängen; falls du mehr Karten in deinem Extra Deck hast als dein Gegner, führe nacheinander diese Effekte aus, abhängig von der Differenz.\n●1+: Diese Karte erhält bis zum Ende des Spielzugs deines Gegners 1000 ATK.\n●5+: Kein Spieler kann diese Karte bis zum Ende des Spielzugs deines Gegners als Ziel für Karteneffekte wählen.\n●10+: Verbanne 1 Karte, die dein Gegner kontrolliert.\n●15+: Mache die LP deines Gegners zu 3000.\nDu kannst diesen Effekt von „Pendransaktion“ nur einmal pro Spielzug verwenden.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Xyz",
+    "Effekt"
+  ]
+}

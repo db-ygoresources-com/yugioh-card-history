@@ -1,0 +1,15 @@
+{
+  "id": 16278,
+  "type": "monster",
+  "name": "Météoragon du Rocher de Guerre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non destructible par des effets de carte de l'adversaire. Lorsqu'une attaque impliquant cette carte et un monstre de l'adversaire est déclarée : vous pouvez annuler les effets du monstre de l'adversaire ce tour, ainsi que les effets activés et les effets sur le Terrain de monstres du même nom d'origine. Une fois par tour, durant une Battle Phase où votre monstre TERRE Guerrier combat (Effet Rapide) : vous pouvez faire gagner 200 ATK à tous les monstres \"Rocher de Guerre\" que vous contrôlez actuellement jusqu'à la fin du tour de votre adversaire, et aussi, cette carte peut faire max. 2 attaques sur des monstres durant chaque Battle Phase ce tour.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 16010,
+  "type": "monster",
+  "name": "Lyna la Charmeuse de Lumière Chatoyante",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres (un monstre LUMIÈRE inclus)\n(Cette carte est toujours traitée comme une carte \"Familier Possédé\".)\nVous pouvez cibler 1 monstre LUMIÈRE dans le Cimetière de votre adversaire ; Invoquez-le Spécialement dans votre zone pointée par cette carte. Si cette carte Invoquée par Lien est détruite au combat, ou détruite par un effet de carte de l'adversaire tant qu'elle est dans la Zone Monstre de son propriétaire : vous pouvez ajouter 1 monstre LUMIÈRE avec max. 1500 DEF depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Lyna la Charmeuse de Lumière Chatoyante\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

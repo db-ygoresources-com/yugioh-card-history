@@ -1,0 +1,16 @@
+{
+  "id": 15992,
+  "type": "monster",
+  "name": "Otoshidamashi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Enquanto você controlar um monstro que não seja um Regulador, os monstros do seu oponente não podem escolher este card como alvo de ataques. Se um ou mais monstros forem enviados do campo para o Cemitério do seu oponente: coloque 1 Marcador de Otoshidamashi neste card e, depois, Invoque por Invocação-Especial \"Ficha de Otoshidamashi\" (Besta/TERRA/Nível 1/ATK ?/DEF ?) até o número de Marcadores de Otoshidamashi neste card. Quando Invocadas, o Nível de cada Ficha aumenta pelo número de Marcadores de Otoshidamashi neste card e, além disso, o ATK/DEF de cada Ficha são iguais ao seu Nível quando Invocada x 500. Você só pode usar este efeito de \"Otoshidamashi\" uma vez por turno.",
+  "level": 1,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Besta",
+    "Regulador",
+    "Efeito"
+  ]
+}

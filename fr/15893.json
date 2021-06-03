@@ -1,0 +1,20 @@
+{
+  "id": 15893,
+  "type": "monster",
+  "name": "Mélias Solairavalon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres Plante (un Monstre Lien inclus)\nSi cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement 1 \"Astucieux Loci Solairgraine\" depuis votre Cimetière. Cette carte ne peut pas être ciblée par des attaques, mais ça n'empêche pas votre adversaire de vous attaquer directement. Une fois par tour : vous pouvez cibler 1 Monstre Lien \"Solairvigne\" que vous contrôlez pointé par cette carte ; ce tour, il peut attaquer un nombre de fois chaque Battle Phase, inférieur ou égal au nombre de Monstres Lien \"Solairavalon\" que vous contrôlez actuellement.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "6"
+  ],
+  "atk": 0,
+  "properties": [
+    "Plante",
+    "Lien",
+    "Effet"
+  ]
+}

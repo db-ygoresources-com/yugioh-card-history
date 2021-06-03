@@ -1,0 +1,18 @@
+{
+  "id": 15987,
+  "type": "monster",
+  "name": "Anacorecamufita",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dal tuo Extra Deck scoperto) non avendo nessuna carta nel tuo Extra Deck eccetto \"Anacorecamufita\". Puoi Evocare Specialmente \"Anacorecamufita\" una sola volta per turno in questo modo. Se questa carta scoperta nella Zona Mostri lascia il Terreno, bandiscila.",
+  "pendEffect": "Se non hai nessuna carta nel tuo Extra Deck eccetto \"Anacorecamufita\": puoi distruggere questa carta, poi pescare 1 carta. Puoi utilizzare questo effetto di \"Anacorecamufita\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}
