@@ -1,0 +1,16 @@
+{
+  "id": 15992,
+  "type": "monster",
+  "name": "Otoshidamashi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "While you control a monster that is not a Tuner, your opponent's monsters cannot target this card for attacks. If a monster(s) is sent from the field to your opponent's GY: Place 1 Otoshidamashi Counter on this card, then Special Summon \"Otoshidamashi Tokens\" (Beast/EARTH/Level 1/ATK ?/DEF ?) up to the number of Otoshidamashi Counters on this card. Each Token's Level is increased when Summoned by the number of Otoshidamashi Counters on this card, also each Token's ATK/DEF are its Level when Summoned x 500. You can only use this effect of \"Otoshidamashi\" once per turn.",
+  "level": 1,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Beast",
+    "Tuner",
+    "Effect"
+  ]
+}

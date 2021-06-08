@@ -1,0 +1,21 @@
+{
+  "id": 16009,
+  "type": "monster",
+  "name": "Benghalancer the Resurgent",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "2+ Plant monsters\nDuring the Main Phase (Quick Effect): You can target 1 Effect Monster your opponent controls; take damage equal to its ATK, and if you did take damage, return it to the hand. If this card is in your GY: You can banish 2 or more Link Monsters from your GY whose combined Link Ratings equal exactly 4; Special Summon this card, but banish it when it leaves the field. You can only use 1 \"Benghalancer the Resurgent\" effect per turn, and only once that turn.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Plant",
+    "Link",
+    "Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15987,
+  "type": "monster",
+  "name": "Anchamoufrite",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Anchamoufrite\". You can only Special Summon \"Anchamoufrite\" once per turn this way. If this face-up card in the Monster Zone leaves the field, banish it.",
+  "pendEffect": "If you have no cards in your Extra Deck except \"Anchamoufrite\": You can destroy this card, then draw 1 card. You can only use this effect of \"Anchamoufrite\" once per turn.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}
