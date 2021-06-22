@@ -4,12 +4,13 @@
   "name": "Mega-Hámster Súper Ágil",
   "englishAttribute": "earth",
   "localizedAttribute": "TIERRA",
-  "effectText": "VOLTEO: Puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de Tipo Bestia de Nivel 3 o menor, en Posición de Defensa boca abajo.",
+  "effectText": "VOLTEO: Puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Bestia de Nivel 3 o menor, en Posición de Defensa boca abajo.",
   "level": 4,
   "atk": 1100,
   "def": 1800,
   "properties": [
     "Bestia",
+    "Volteo",
     "Efecto"
   ]
 }

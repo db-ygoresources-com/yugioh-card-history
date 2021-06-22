@@ -1,0 +1,15 @@
+{
+  "id": 15841,
+  "type": "monster",
+  "name": "Buscador Milenario",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando recibes 1000 o más puntos de daño en batalla o por un efecto: puedes Invocar esta carta de Modo Especial desde tu mano. Puedes seleccionar 1 monstruo en el Cementerio de tu adversario, excepto un monstruo con ATK ?; tu adversario puede elegir 1 monstruo en su Deck, excepto un monstruo con ATK ?. Si elige no hacerlo, o si el monstruo seleccionado tiene ATK mayor que el monstruo elegido, Invoca el monstruo seleccionado de Modo Especial a tu Campo y, si lo haces, baraja el monstruo elegido de vuelta al Deck. De otro modo, tu adversario añade a la mano el monstruo elegido. Sólo puedes usar cada efecto de \"Buscador Milenario\" una vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

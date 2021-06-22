@@ -1,0 +1,15 @@
+{
+  "id": 15841,
+  "type": "monster",
+  "name": "Cercatore del Millennio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando subisci 1000 o più danni da combattimento o da effetto: puoi Evocare Specialmente questa carta dalla tua mano. Puoi scegliere come bersaglio 1 mostro nel Cimitero del tuo avversario, eccetto un mostro con ? ATK; il tuo avversario può selezionare 1 mostro dal suo Deck, eccetto un mostro con ? ATK. Se sceglie di non farlo, o se il mostro scelto come bersaglio ha ATK superiore a quello del mostro selezionato, Evoca Specialmente il mostro scelto come bersaglio sul tuo Terreno e, se lo fai, rimischia il mostro selezionato nel Deck. Altrimenti, il tuo avversario aggiunge il mostro selezionato alla mano. Puoi utilizzare ogni effetto di \"Cercatore del Millennio\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

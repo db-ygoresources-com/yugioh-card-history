@@ -1,0 +1,15 @@
+{
+  "id": 15841,
+  "type": "monster",
+  "name": "Chercheur Millénaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque vous recevez min. 1000 points de dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire (monstres avec ? ATK exclus) ; votre adversaire peut choisir 1 monstre (monstres avec ? ATK exclus) depuis son Deck. S'il n'en choisit pas, ou si le monstre ciblé a une ATK supérieure au monstre choisi, Invoquez Spécialement le monstre ciblé sur votre Terrain, et si vous le faites, mélangez le monstre choisi dans le Deck. Sinon, votre adversaire ajoute le monstre choisi à la main. Vous ne pouvez utiliser chaque effet de \"Chercheur Millénaire\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -4,12 +4,13 @@
   "name": "Super-Nimble Mega Hamster",
   "englishAttribute": "earth",
   "localizedAttribute": "EARTH",
-  "effectText": "FLIP: You can Special Summon 1 Level 3 or lower Beast-Type monster from your Deck in face-down Defense Position.",
+  "effectText": "FLIP: You can Special Summon 1 Level 3 or lower Beast monster from your Deck in face-down Defense Position.",
   "level": 4,
   "atk": 1100,
   "def": 1800,
   "properties": [
     "Beast",
+    "Flip",
     "Effect"
   ]
 }

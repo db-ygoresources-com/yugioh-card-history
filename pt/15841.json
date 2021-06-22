@@ -1,0 +1,15 @@
+{
+  "id": 15841,
+  "type": "monster",
+  "name": "Caçador do Milênio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando você sofrer 1000 ou mais de dano de batalha ou de efeito: você pode Invocar este card por Invocação-Especial da sua mão. Você pode escolher 1 monstro no Cemitério do seu oponente, exceto um monstro com ATK ?; seu oponente pode selecionar 1 monstro do Deck dele, exceto um monstro com ATK ?. Se ele decidir não fazê-lo, ou se o monstro alvo tiver um ATK maior que o do monstro selecionado, Invoque o monstro alvo por Invocação-Especial no seu campo e, se isso acontecer, embaralhe o monstro selecionado de volta no Deck. Caso contrário, seu oponente adiciona o monstro selecionado à mão. Você só pode usar cada efeito de \"Caçador do Milênio\" uma vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}
