@@ -1,0 +1,15 @@
+{
+  "id": 8764,
+  "type": "monster",
+  "name": "Chica de Cristal",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes activar este efecto; durante la End Phase de este turno, añade a tu mano 1 monstruo de AGUA de Nivel 5 o mayor en tu Deck. Si controlas un monstruo de AGUA de Nivel 5 o mayor y esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Chica de Cristal\" una vez por turno.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

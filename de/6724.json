@@ -1,0 +1,16 @@
+{
+  "id": 6724,
+  "type": "monster",
+  "name": "Gilti-Gerfried der magische Stahlritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Krieger-Monster mit unterschiedlichen Eigenschaften\nEinmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte als Ziel wählt (Schnelleffekt): Du kannst den Effekt annullieren und falls du dies tust, zerstöre 1 Karte auf dem Spielfeld. Falls diese Karte als Fusionsbeschwörung beschworen wurde und dafür nur Monster auf dem Spielfeld als Material verwendet wurden, kann sie während jeder Battle Phase einen zweiten Angriff durchführen. Einmal pro Spielzug, falls diese Karte gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst 1 Zauber von deinem Friedhof verbannen; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Hälfte ihrer derzeitigen DEF.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6724,
+  "type": "monster",
+  "name": "Gilti-Gearfried el Caballero Mágico de Acero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos Guerrero con Atributos diferentes\nUna vez por turno, cuando es activada una carta o efecto que selecciona esta carta (Efecto Rápido): puedes negar ese efecto y, si lo haces, destruye 1 carta en el Campo. Si esta carta fue Invocada por Fusión usando sólo monstruos en el Campo como material, ésta puede hacer un segundo ataque durante cada Battle Phase. Una vez por turno, si esta carta batalla con un monstruo de tu adversario, durante el cálculo de daño (Efecto Rápido): puedes desterrar 1 Mágica en tu Cementerio; hasta el final de este turno, esta carta gana ATK igual a la mitad de su DEF en este momento.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

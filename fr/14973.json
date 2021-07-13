@@ -1,0 +1,16 @@
+{
+  "id": 14973,
+  "type": "monster",
+  "name": "Dholes Tindangle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "FLIP : Vous pouvez envoyer 1 Magie/Piège depuis votre Deck au Cimetière.\nSi cette carte est envoyée depuis la main ou Deck au Cimetière : vous pouvez cibler 1 monstre \"Tindangle\" (\"Dholes Tindangle\" exclu) dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense face verso. Vous ne pouvez utiliser chacun des effets précédents de \"Dholes Tindangle\" qu'une fois par tour. Un Monstre Lien \"Tindangle\" qui a utilisé cette carte comme Matériel peut faire 3 attaques durant chaque Battle Phase.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Flip",
+    "Effet"
+  ]
+}

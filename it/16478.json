@@ -1,0 +1,15 @@
+{
+  "id": 16478,
+  "type": "monster",
+  "name": "Cavaliere del Joker",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi mandare 1 \"Cavaliere della Regina\", \"Cavaliere del Re\" o \"Cavaliere del Jack\" dal tuo Deck al Cimitero; Evoca Specialmente questa carta dalla tua mano e, se lo fai, il nome di questa carta diventa il nome del mostro mandato fino alla End Phase. Durante la End Phase, se questa carta è nel tuo Cimitero: puoi scegliere come bersaglio 1 altro mostro LUCE Guerriero nel tuo Cimitero; mischialo nel Deck e, se lo fai, aggiungi questa carta alla tua mano. Puoi utilizzare ogni effetto di \"Cavaliere del Joker\" una sola volta per turno.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1400,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14973,
+  "type": "monster",
+  "name": "Tinwinkel-Dholes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 Zauber/Falle von deinem Deck auf den Friedhof legen.\nFalls diese Karte von der Hand oder dem Deck auf den Friedhof gelegt wird: Du kannst 1 „Tinwinkel“-Monster in deinem Friedhof wählen, außer „Tinwinkel-Dholes“; beschwöre es als Spezialbeschwörung in die verdeckte Verteidigungsposition. Du kannst jeden der vorherigen Effekte von „Tinwinkel-Dholes“ nur einmal pro Spielzug verwenden. Ein „Tinwinkel“-Linkmonster, das diese Karte als Material verwendet hat, kann während jeder Battle Phase 3 Angriffe durchführen.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}
