@@ -1,0 +1,15 @@
+{
+  "id": 16205,
+  "type": "monster",
+  "name": "Gizmek Naganaki, le Signaleur du Lever du Soleil",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Sacrifier 1 monstre Machine dont l'ATK est égale à sa propre DEF ; Invoquez Spécialement depuis votre Deck, 1 monstre Machine dont l'ATK est égale à sa propre DEF, d'un Niveau inférieur au monstre Sacrifié. Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez à votre main, 1 de vos monstres Machine face verso bannis dont l'ATK est égale à sa propre DEF. Vous ne pouvez utiliser chaque effet de \"Gizmek Naganaki, le Signaleur du Lever du Soleil\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 950,
+  "def": 950,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

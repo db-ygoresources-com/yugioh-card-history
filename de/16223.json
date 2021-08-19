@@ -1,0 +1,16 @@
+{
+  "id": 16223,
+  "type": "monster",
+  "name": "Despianischer Quaeritis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Despia“-Monster + 1 LICHT oder FINSTERNIS Monster\nWährend der Main Phase (Schnelleffekt): Du kannst die ATK aller Monster, die sich derzeit auf dem Spielfeld befinden, außer Fusionsmonstern der Stufe 8 oder höher, bis zum Ende dieses Spielzugs zu 0 ändern. Falls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt eines Gegners verlässt: Du kannst 1 „Gefallener von Albaz“ oder 1 „Despia“-Monster von deinem Deck deiner Hand hinzufügen oder als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Despianischer Quaeritis“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

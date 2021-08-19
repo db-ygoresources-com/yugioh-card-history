@@ -1,0 +1,16 @@
+{
+  "id": 16216,
+  "type": "monster",
+  "name": "Konohanasakuya",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) controlando un monstruo Spirit. Sólo puedes Invocar de Modo Especial \"Konohanasakuya\" una vez por turno de esta forma. Una vez por turno, durante la End Phase, si este turno esta carta fue Invocada de Modo Especial: devuélvela a la mano. Una vez por turno, durante la End Phase: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Spirit que controles; por el resto de este turno ningún jugador puede activar los efectos de ese monstruo boca arriba en el Campo.",
+  "level": 3,
+  "atk": 1300,
+  "def": 1300,
+  "properties": [
+    "Hada",
+    "Spirit",
+    "Efecto"
+  ]
+}

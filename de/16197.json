@@ -1,0 +1,15 @@
+{
+  "id": 16197,
+  "type": "monster",
+  "name": "Albion der ummantelte Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Gefallener von Albaz“, solange sie auf dem Spielfeld oder im Friedhof liegt. Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 „Gefallener von Albaz“ oder 1 „Markiert“-Zauber/Falle von deiner Hand oder deinem Deck auf den Friedhof legen; führe die folgenden Effekte aus, basierend darauf, woher du ihn oder sie gelegt hast.\n●Hand: Beschwöre diese Karte als Spezialbeschwörung.\n●Deck: Lege diese Karte unters Deck, dann, falls du diese Karte von deiner Hand gelegt hast, ziehe 1 Karte.\nDu kannst diesen Effekt von „Albion der ummantelte Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

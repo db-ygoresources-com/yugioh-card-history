@@ -1,0 +1,15 @@
+{
+  "id": 16212,
+  "type": "monster",
+  "name": "Mago delle Acque Ghiacciate",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "All'inizio del Damage Step, se un tuo Mostro Normale combatte con un mostro dell'avversario: puoi rivelare questa carta nella tua mano; scarta 1 carta e, se lo fai, il tuo mostro non può essere distrutto in quella battaglia. All'inizio del Damage Step, se questa carta combatte con un mostro dell'avversario: puoi rivelare 1 Mostro Normale nella tua mano; scarta 1 carta e, se lo fai, distruggi quel mostro dell'avversario.",
+  "level": 6,
+  "atk": 1200,
+  "def": 3000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

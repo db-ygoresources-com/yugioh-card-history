@@ -1,0 +1,15 @@
+{
+  "id": 16207,
+  "type": "monster",
+  "name": "Arakami Cacharrek, el Jabalí Granizador",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si controlas un monstruo Máquina cuyo ATK sea igual a su propia DEF: puedes Invocar esta carta de Modo Especial desde tu mano. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Máquina que controles cuyo ATK sea igual a su propia DEF; manda al Cementerio 1 monstruo Máquina en tu Deck, cuyo ATK sea igual a su propia DEF, con un Nivel menor que el del monstruo seleccionado y, si lo haces, el monstruo seleccionado gana ATK/DEF igual al Nivel del monstruo mandado al Cementerio x 100. Sólo puedes usar cada efecto de \"Arakami Cacharrek, el Jabalí Granizador\" una vez por turno.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1850,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

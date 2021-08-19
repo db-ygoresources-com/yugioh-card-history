@@ -1,0 +1,15 @@
+{
+  "id": 16215,
+  "type": "monster",
+  "name": "Diplomán de Máster",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada por Sacrificio: puedes seleccionar 1 monstruo en tu Cementerio y 1 monstruo boca arriba que controle tu adversario; equipa el monstruo en tu Cementerio a ese monstruo del adversario. Mientras esté equipado por este efecto, el monstruo equipado pierde ATK igual al ATK de ese monstruo equipado a él. Tu adversario no puede activar los efectos de los monstruos que controla que estén equipados con Cartas de Equipo en tus Zonas de Magia y Trampas.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

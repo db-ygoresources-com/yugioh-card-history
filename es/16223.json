@@ -1,0 +1,16 @@
+{
+  "id": 16223,
+  "type": "monster",
+  "name": "Quaeritis Despíanico",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo \"Despía\" + 1 monstruo de LUZ u OSCURIDAD\nDurante la Main Phase (Efecto Rápido): puedes cambiar a 0 el ATK de todos los monstruos en el Campo en este momento hasta el final de este turno, excepto de los Monstruos de Fusión de Nivel 8 o mayor. Si esta carta boca arriba controlada por su dueño deja el Campo por efecto de una carta del adversario: puedes añadir a tu mano, o Invocar de Modo Especial, 1 \"Caído de Albaz\" o 1 monstruo \"Despía\", en tu Deck. Sólo puedes usar cada efecto de \"Quaeritis Despíanico\" una vez por turno.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

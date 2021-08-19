@@ -1,0 +1,16 @@
+{
+  "id": 16220,
+  "type": "monster",
+  "name": "Aerohadatres",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario en la columna de esta carta; mueve esta carta que controlas a otra de tus Zonas de Monstruos Principales y, si lo haces, mueve ese monstruo del adversario a su Zona de Monstruos Principal en la columna de esta carta, y después pon 1 Contador Ardiente en él. (Los monstruos con Contadores Ardientes pierden 200 ATK/DEF por cada Contador Ardiente en ellos).",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Hada",
+    "Cantante",
+    "Efecto"
+  ]
+}

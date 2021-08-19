@@ -1,0 +1,16 @@
+{
+  "id": 16228,
+  "type": "monster",
+  "name": "Dragon des Étoiles Majestueux Tireur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "\"Dragon Majestueux\" + 1+ monstre non-Syntoniseur (un Monstre Synchro Dragon inclus)\nDoit d'abord être Invoquée par Synchronisation. Une fois par tour : vous pouvez annuler les effets d'1 Monstre à Effet contrôlé par votre adversaire. Cette carte gagne 1 attaque supplémentaire chaque Battle Phase pour chaque monstre dans votre Cimetière qui est \"Dragon Poussière d'Étoile\" ou est un Monstre Synchro avec \"Dragon Poussière d'Étoile\" dans son texte. Une fois par tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez bannir cette carte (jusqu'à la End Phase), et si vous le faites, annulez l'activation, et si vous faites ça, bannissez la carte.",
+  "level": 11,
+  "atk": 4000,
+  "def": 3300,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

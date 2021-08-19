@@ -1,0 +1,18 @@
+{
+  "id": 16219,
+  "type": "monster",
+  "name": "Saambell la Connectrice de l'Étoile",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si un monstre est Invoqué Spécialement sur votre Terrain tant que vous contrôlez ce monstre (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 monstre depuis votre main du même Niveau que cette carte. Vous ne pouvez utiliser cet effet de \"Saambell la Connectrice de l'Étoile\" qu'une fois par tour.",
+  "pendEffect": "Si vous avez une Carte Monstre Pendule du même Niveau que cette carte dans votre autre Zone Pendule : vous pouvez détruire la carte dans votre autre Zone Pendule, et si vous le faites, Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Saambell la Connectrice de l'Étoile\" qu'une fois par tour.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

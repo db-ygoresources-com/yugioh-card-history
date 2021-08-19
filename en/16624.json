@@ -1,0 +1,18 @@
+{
+  "id": 16624,
+  "type": "monster",
+  "name": "Pazuzule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Pendulum Summons of your monsters cannot be negated.",
+  "pendEffect": "Once per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",
+  "pendScale": 1,
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

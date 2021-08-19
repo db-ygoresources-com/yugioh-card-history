@@ -1,0 +1,15 @@
+{
+  "id": 16207,
+  "type": "monster",
+  "name": "Gizmeck Arakami, il Cinghiale Portagrandine",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se controlli un mostro Macchina con ATK pari al suo stesso DEF: puoi Evocare Specialmente questa carta dalla tua mano. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro Macchina con ATK pari al suo stesso DEF che controlli; manda dal tuo Deck al Cimitero 1 mostro Macchina con ATK pari al suo stesso DEF, con Livello inferiore a quel mostro scelto come bersaglio e, se lo fai, il mostro scelto come bersaglio guadagna ATK/DEF pari al Livello del mostro mandato al Cimitero x 100. Puoi utilizzare ogni effetto di \"Gizmeck Arakami, il Cinghiale Portagrandine\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1850,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

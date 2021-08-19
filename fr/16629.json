@@ -1,0 +1,15 @@
+{
+  "id": 16629,
+  "type": "monster",
+  "name": "Bombardier Écaille de la Coléoptroupe",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si un ou plusieurs monstres Insecte sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsqu'un monstre contrôlé par votre adversaire active son effet (Effet Rapide) : vous pouvez Sacrifier 1 monstre Insecte ; détruisez-le. Vous ne pouvez utiliser chaque effet de \"Bombardier Écaille de la Coléoptroupe\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

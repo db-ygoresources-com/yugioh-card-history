@@ -1,0 +1,16 @@
+{
+  "id": 16222,
+  "type": "monster",
+  "name": "Mécamortier de la Magiclé - Garesverre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Maftea de la Magiclé\". Gagne 300 ATK pour chaque Attribut différent dans votre Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Mécamortier de la Magiclé - Garesverre\" qu'une fois par tour. Lorsque votre adversaire active l'effet d'un monstre du même Attribut qu'un monstre dans votre Cimetière, si min. 2 Attributs de monstres ont été utilisés pour l'Invocation Rituelle de cette carte (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte. Si cette carte Invoquée Rituellement est envoyée au Cimetière : vous pouvez ajouter 1 monstre \"Magiclé\" depuis votre Deck à votre main.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Rituel",
+    "Effet"
+  ]
+}

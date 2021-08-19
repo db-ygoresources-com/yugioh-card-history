@@ -1,0 +1,18 @@
+{
+  "id": 16213,
+  "type": "monster",
+  "name": "Intelligenza Antiumana ME-PSY-YA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi rivelare questa carta nella tua mano; aggiungi 1 altro Mostro Pendulum dalla tua mano, o 1 carta dalla tua Zona Pendulum, all'Extra Deck del suo proprietario scoperto e, se lo fai, Evoca Specialmente questa carta. Puoi utilizzare questo effetto di \"Intelligenza Antiumana ME-PSY-YA\" una sola volta per turno. Se uno o più altri mostri vengono Evocati Normalmente o Specialmente mentre controlli questa carta: manda quei mostri al Cimitero durante la End Phase di questo turno.",
+  "pendEffect": "Qualsiasi carta mandata al Cimitero viene invece bandita, eccetto le Carte Mostro.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Cyberse",
+    "Pendulum",
+    "Effetto"
+  ]
+}

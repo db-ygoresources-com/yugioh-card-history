@@ -1,0 +1,18 @@
+{
+  "id": 16624,
+  "type": "monster",
+  "name": "Pazuzule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Le Evocazioni Pendulum dei tuoi mostri non possono essere annullate.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 carta nella tua altra Zona Pendulum; il Valore Pendulum di questa carta diventa il Livello di quella Carta Mostro Pendulum fino alla fine di questo turno, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto tramite Evocazione Pendulum.",
+  "pendScale": 1,
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

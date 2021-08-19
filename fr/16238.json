@@ -1,0 +1,19 @@
+{
+  "id": 16238,
+  "type": "monster",
+  "name": "Dépêcheparazzi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 Monstres à Effet\nLorsqu'un autre monstre que vous contrôlez est ciblé par une attaque : vous pouvez transférer la cible de l'attaque sur cette carte, et faites le calcul des dommages. Lorsque cette carte est détruite au combat avec un monstre de l'adversaire : vous pouvez détruire le monstre de l'adversaire, et si vous le faites, gagnez des LP égaux à la moitié de l'ATK d'origine du monstre. Vous ne pouvez utiliser chaque effet de \"Dépêcheparazzi\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 100,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

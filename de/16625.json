@@ -1,0 +1,16 @@
+{
+  "id": 16625,
+  "type": "monster",
+  "name": "Verwalter der Dämmerung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Zauberer der Dämmerung“ + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Spezialbeschwörung beschworen wird oder falls ein oder mehr andere Hexer-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden: Du kannst 1 Karte im Friedhof deines Gegners wählen; verbanne sie. Falls diese Karte durch Kampf zerstört wird oder falls diese Karte in der Monsterzone ihres Besitzers durch einen Karteneffekt eines Gegners zerstört wird: Du kannst 1 Hexer-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Verwalter der Dämmerung“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 16221,
+  "type": "monster",
+  "name": "Mécamousquet de la Magiclé - Batosbriseur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Maftea de la Magiclé\". Si cette carte est Invoquée Rituellement : vous pouvez ajouter 1 carte \"Magiclé\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Mécamousquet de la Magiclé - Batosbriseur\" qu'une fois par tour. Une fois par tour, lorsqu'une attaque impliquant cette carte et un monstre de l'adversaire est déclarée, qui a le même Attribut qu'un Monstre Normal ou monstre \"Magiclé\" dans votre Cimetière : vous pouvez placer un nombre de votre choix de cartes depuis votre main au-dessous du Deck, et si vous le faites, annulez les effets du monstre de l'adversaire jusqu'à la fin de ce tour, puis piochez le même nombre de cartes que placées au-dessous du Deck.",
+  "level": 4,
+  "atk": 2000,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Rituel",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

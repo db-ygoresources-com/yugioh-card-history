@@ -1,0 +1,18 @@
+{
+  "id": 16624,
+  "type": "monster",
+  "name": "Pazuzule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Las Invocaciones por Péndulo de tus monstruos no pueden ser negadas.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 carta en tu otra Zona de Péndulo; la Escala de Péndulo de esta carta se convierte en el Nivel de esa Carta de Monstruo de Péndulo hasta el final de este turno, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto con Invocación por Péndulo.",
+  "pendScale": 1,
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

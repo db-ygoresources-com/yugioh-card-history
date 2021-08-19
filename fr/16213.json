@@ -1,0 +1,18 @@
+{
+  "id": 16213,
+  "type": "monster",
+  "name": "Intelligence Anti-Humaine ME-PSY-YA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; ajoutez face recto 1 autre Monstre Pendule depuis votre main ou 1 carte depuis votre Zone Pendule, dans l'Extra Deck de son propriétaire, et si vous le faites, Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Intelligence Anti-Humaine ME-PSY-YA\" qu'une fois par tour. Si un ou plusieurs autres monstres sont Invoqués Normalement ou Spécialement, tant que vous contrôlez cette carte : durant la End Phase de ce tour, envoyez ces monstres au Cimetière.",
+  "pendEffect": "Les cartes envoyées au Cimetière (Cartes Monstre exclues) sont bannies à la place.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Cyberse",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16625,
+  "type": "monster",
+  "name": "Amministratore Fine della Notte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "\"Stregone Fine della Notte\" + 1+ mostri non-Tuner\nSe questa carta viene Evocata Specialmente, o se uno o più altri mostri Incantatore vengono Evocati Specialmente sul tuo Terreno: puoi scegliere come bersaglio 1 carta nel Cimitero del tuo avversario; bandiscila. Se questa carta viene distrutta in battaglia, o se questa carta nella Zona Mostri del suo proprietario viene distrutta dall'effetto di una carta dell'avversario: puoi scegliere come bersaglio 1 mostro Incantatore di Livello 4 o inferiore nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di \"Amministratore Fine della Notte\" una sola volta per turno.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Synchro",
+    "Effetto"
+  ]
+}

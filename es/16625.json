@@ -1,0 +1,16 @@
+{
+  "id": 16625,
+  "type": "monster",
+  "name": "Administrador del Final de la Noche",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Hechicero del Final de la Noche\" + 1+ monstruos que no sean Cantantes\nSi esta carta es Invocada de Modo Especial, o si otro u otros monstruos Lanzador de Conjuros son Invocados de Modo Especial a tu Campo: puedes seleccionar 1 carta en el Cementerio de tu adversario; destiérrala. Si esta carta es destruida en batalla, o si esta carta en la Zona de Monstruos de su dueño es destruida por el efecto de una carta del adversario: puedes seleccionar 1 monstruo Lanzador de Conjuros de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Administrador del Final de la Noche\" una vez por turno.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Sincronía",
+    "Efecto"
+  ]
+}

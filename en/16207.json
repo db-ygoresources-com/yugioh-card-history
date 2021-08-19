@@ -1,0 +1,15 @@
+{
+  "id": 16207,
+  "type": "monster",
+  "name": "Gizmek Arakami, the Hailbringer Hog",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "If you control a Machine monster whose ATK equals its own DEF: You can Special Summon this card from your hand. You can banish this card from your GY, then target 1 Machine monster you control whose ATK equals its own DEF; send 1 Machine monster from your Deck to the GY, whose ATK equals its own DEF, with a lower Level than that targeted monster, and if you do, the targeted monster gains ATK/DEF equal to the Level of the monster sent to the GY x 100. You can only use each effect of \"Gizmek Arakami, the Hailbringer Hog\" once per turn.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1850,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

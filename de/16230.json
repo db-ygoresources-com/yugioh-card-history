@@ -1,0 +1,16 @@
+{
+  "id": 16230,
+  "type": "monster",
+  "name": "Sternenwind Wolfrayet",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDu kannst nur 1 „Sternenwind Wolfrayet“ kontrollieren. Erhält jedes Mal, wenn der Effekt eines anderen Monsters aktiviert wird, 300 ATK, solange die ATK dieser Karte niedriger als 4000 sind. Einmal pro Spielzug, falls die ATK dieser Karte 4000 oder höher sind (Schnelleffekt): Du kannst sowohl diese Karte als auch alle Monster, die dein Gegner kontrolliert, ins Deck mischen.",
+  "level": 9,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Ungeheuer",
+    "Synchro",
+    "Effekt"
+  ]
+}

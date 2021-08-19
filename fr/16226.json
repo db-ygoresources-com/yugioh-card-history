@@ -1,0 +1,16 @@
+{
+  "id": 16226,
+  "type": "monster",
+  "name": "Dragon de la Magiclé - Andrabime",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Monstre à Effet \"Magiclé\" + 1 Monstre Normal (Jetons exclus)\nLorsque cette carte est Invoquée par Fusion, votre adversaire ne peut activer ni de cartes ni d'effets. Une fois par tour : vous pouvez cibler 1 Monstre Normal ou monstre \"Magiclé\" dans votre Cimetière ; détruisez tous les monstres contrôlés par votre adversaire de l'Attribut du monstre. Une fois par tour, si un monstre de l'adversaire du même Attribut qu'un monstre dans votre Cimetière est détruit au combat ou par un effet de carte, si cette carte a été Invoquée par Fusion en utilisant 2 Attributs différents comme Matériel : vous pouvez piocher 1 carte.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

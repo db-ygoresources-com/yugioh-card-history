@@ -1,0 +1,15 @@
+{
+  "id": 16203,
+  "type": "monster",
+  "name": "Figurines d'Acambaro Chronomal",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un ou plusieurs monstres \"Chronomal\" que vous contrôlez vont être détruits au combat ou par un effet de carte de votre adversaire, vous pouvez défausser cette carte à la place. Si cette carte est dans votre Cimetière : vous pouvez payer 1000 LP ; Invoquez Spécialement cette carte, mais renvoyez-la à la main durant la End Phase. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Chronomal\" exclus) le tour où vous activez cet effet. Vous ne pouvez utiliser cet effet de \"Figurines d'Acambaro Chronomal\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

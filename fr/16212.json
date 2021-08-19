@@ -1,0 +1,15 @@
+{
+  "id": 16212,
+  "type": "monster",
+  "name": "Aqua Madoor de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Au début de la Damage Step, si votre Monstre Normal combat un monstre de l'adversaire : vous pouvez révéler cette carte dans votre main ; défaussez 1 carte, et si vous le faites, votre monstre ne peut pas être détruit par ce combat. Au début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez révéler 1 Monstre Normal dans votre main ; défaussez 1 carte, et si vous le faites, détruisez le monstre de l'adversaire.",
+  "level": 6,
+  "atk": 1200,
+  "def": 3000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

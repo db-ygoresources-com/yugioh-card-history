@@ -1,0 +1,16 @@
+{
+  "id": 16220,
+  "type": "monster",
+  "name": "Aeropixtre",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario nella colonna di questa carta; sposta questa carta che controlli in un'altra delle tue Zone Mostri Main e, se lo fai, sposta quel mostro dell'avversario nella Zona Mostri Main nella colonna di questa carta, poi metti 1 Segnalino Consumo su di esso. (I mostri con Segnalini Consumo perdono 200 ATK/DEF per ogni Segnalino Consumo su di essi.)",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Fata",
+    "Tuner",
+    "Effetto"
+  ]
+}

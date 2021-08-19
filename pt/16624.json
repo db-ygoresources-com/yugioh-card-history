@@ -1,0 +1,18 @@
+{
+  "id": 16624,
+  "type": "monster",
+  "name": "Quebrazuzu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "A Invocação-Pêndulo dos seus monstros não pode ser negada.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 card na sua outra Zona de Pêndulo; até o final deste turno, a Escala de Pêndulo deste card se torna o Nível desse Card de Monstro Pêndulo e, além disso, você não pode Invocar por Invocação-Especial pelo resto deste turno, exceto por Invocação-Pêndulo.",
+  "pendScale": 1,
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

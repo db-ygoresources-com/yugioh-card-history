@@ -1,0 +1,16 @@
+{
+  "id": 16233,
+  "type": "monster",
+  "name": "Vimana Chronomal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 5\nUne fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto sur le Terrain et 1 monstre \"Chronomal\" ou Monstre Xyz dans votre Cimetière ; le monstre sur le Terrain gagne la moitié de l'ATK du monstre dans le Cimetière (jusqu'à la fin de ce tour), puis attachez le monstre depuis le Cimetière à cette carte comme Matériel. Une fois par tour, lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez détacher 2 Matériels de cette carte ; annulez l'activation.",
+  "rank": 5,
+  "atk": 2300,
+  "def": 2600,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

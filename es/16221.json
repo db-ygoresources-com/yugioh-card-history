@@ -1,0 +1,17 @@
+{
+  "id": 16221,
+  "type": "monster",
+  "name": "Mechamosquete Magillave - Batosdestructor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Maftea Magillave\". Si esta carta es Invocada por Ritual: puedes añadir a tu mano 1 carta \"Magillave\" en tu Deck. Sólo puedes usar este efecto de \"Mechamosquete Magillave - Batosdestructor\" una vez por turno. Una vez por turno, cuando es declarado un ataque que involucra esta carta y un monstruo del adversario que tiene el mismo Atributo que un Monstruo Normal o monstruo \"Magillave\" en tu Cementerio: puedes poner en la parte inferior del Deck cualquier número de cartas en tu mano y, si lo haces, niega los efectos de ese monstruo del adversario hasta el final de este turno, y después roba el mismo número de cartas colocadas bajo el Deck.",
+  "level": 4,
+  "atk": 2000,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Ritual",
+    "Cantante",
+    "Efecto"
+  ]
+}

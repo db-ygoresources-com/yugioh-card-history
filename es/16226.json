@@ -1,0 +1,16 @@
+{
+  "id": 16226,
+  "type": "monster",
+  "name": "Dragón Magillave - Andrabime",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Monstruo de Efecto \"Magillave\" + 1 Monstruo Normal, excepto una Ficha\nCuando esta carta es Invocada por Fusión, tu adversario no puede activar cartas o efectos. Una vez por turno: puedes seleccionar 1 Monstruo Normal o monstruo \"Magillave\" en tu Cementerio; destruye todos los monstruos que controle tu adversario con el Atributo de ese monstruo. Una vez por turno, si un monstruo del adversario con el mismo Atributo que el de un monstruo en tu Cementerio es destruido en batalla o por el efecto de una carta, si esta carta fue Invocada por Fusión usando 2 Atributos diferentes como material: puedes robar 1 carta.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

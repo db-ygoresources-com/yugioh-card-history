@@ -1,0 +1,18 @@
+{
+  "id": 16219,
+  "type": "monster",
+  "name": "Saambell, o Vínculo Estelar",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se um monstro for Invocado por Invocação-Especial no seu campo enquanto você controlar este monstro (exceto durante a Etapa de Dano): você pode Invocar por Invocação-Especial 1 monstro da sua mão com o mesmo Nível que o deste card. Você só pode usar este efeito de \"Saambell, o Vínculo Estelar\" uma vez por turno.",
+  "pendEffect": "Se você tiver um Card de Monstro Pêndulo com o mesmo Nível que o deste card na sua outra Zona de Pêndulo: você pode destruir o card na sua outra Zona de Pêndulo e, se isso acontecer, Invoque este card por Invocação-Especial. Você só pode usar este efeito de \"Saambell, o Vínculo Estelar\" uma vez por turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

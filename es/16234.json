@@ -1,0 +1,16 @@
+{
+  "id": 16234,
+  "type": "monster",
+  "name": "Voloferniges, el Jinete Dragón de Perdición Más Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos de Nivel 7\nUna vez por turno: puedes desacoplar 2 materiales de esta carta, y después seleccionar 1 carta boca arriba en el Campo; destrúyela, y si destruiste un monstruo, puedes hacer que 1 monstruo boca arriba que controlas gane ATK igual al Nivel/Rango original del monstruo destruido x 300 hasta el final del siguiente turno. Esta carta no puede atacar en el turno en el que activaste este efecto. Esto es un Efecto Rápido si esta carta tiene un monstruo Dragón como material, pero no puede ser activado en el Damage Step.",
+  "rank": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Dragón",
+    "Xyz",
+    "Efecto"
+  ]
+}

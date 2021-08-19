@@ -1,0 +1,18 @@
+{
+  "id": 16219,
+  "type": "monster",
+  "name": "Saambell the Star Bonder",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "If a monster is Special Summoned to your field while you control this monster (except during the Damage Step): You can Special Summon 1 monster from your hand with the same Level as this card. You can only use this effect of \"Saambell the Star Bonder\" once per turn.",
+  "pendEffect": "If you have a Pendulum Monster Card with the same Level as this card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card. You can only use this effect of \"Saambell the Star Bonder\" once per turn.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

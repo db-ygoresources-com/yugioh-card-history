@@ -1,0 +1,18 @@
+{
+  "id": 16219,
+  "type": "monster",
+  "name": "Saambell la Vinculadora de Estrellas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si un monstruo es Invocado de Modo Especial a tu Campo mientras controlas este monstruo (excepto durante el Damage Step): puedes Invocar de Modo Especial, desde tu mano, 1 monstruo con el mismo Nivel que esta carta. Sólo puedes usar este efecto de \"Saambell la Vinculadora de Estrellas\" una vez por turno.",
+  "pendEffect": "Si tienes una Carta de Monstruo de Péndulo con el mismo Nivel que esta carta en tu otra Zona de Péndulo: puedes destruir la carta en tu otra Zona de Péndulo y, si lo haces, Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de \"Saambell la Vinculadora de Estrellas\" una vez por turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

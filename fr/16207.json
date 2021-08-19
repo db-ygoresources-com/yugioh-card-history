@@ -1,0 +1,15 @@
+{
+  "id": 16207,
+  "type": "monster",
+  "name": "Gizmek Arakami, le Sanglier Porteur de Grêle",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si vous contrôlez un monstre Machine dont l'ATK est égale à sa propre DEF : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Machine que vous contrôlez dont l'ATK est égale à sa propre DEF ; envoyez 1 monstre Machine depuis votre Deck au Cimetière, dont l'ATK est égale à sa propre DEF, d'un Niveau inférieur au monstre ciblé, et si vous le faites, le monstre ciblé gagne une ATK/DEF égales au Niveau du monstre envoyé au Cimetière x 100. Vous ne pouvez utiliser chaque effet de \"Gizmek Arakami, le Sanglier Porteur de Grêle\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1850,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

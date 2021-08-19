@@ -1,0 +1,19 @@
+{
+  "id": 16237,
+  "type": "monster",
+  "name": "MaiorSolfacorde Musecia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 Monstros Pêndulo\nDurante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo da sua mão ao Deck Adicional com a face para cima, e 1 Monstro Pêndulo com a face para cima do seu Deck Adicional à mão, contanto que um deles tenha uma Escala de Pêndulo par e o outro tenha uma Escala de Pêndulo ímpar. Quando você Invocar um ou mais monstros \"Solfacorde\" por Invocação-Pêndulo: você pode escolher 1 deles; adicione 1 Monstro Pêndulo \"Solfacorde\" do seu Deck à sua mão, cujo Nível seja igual à Escala de Pêndulo desse monstro. Você só pode ativar cada efeito de \"MaiorSolfacorde Musecia\" uma vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Fada",
+    "Link",
+    "Efeito"
+  ]
+}

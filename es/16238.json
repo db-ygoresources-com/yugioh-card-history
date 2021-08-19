@@ -1,0 +1,19 @@
+{
+  "id": 16238,
+  "type": "monster",
+  "name": "Enviaparazzi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Efecto\nCuando otro monstruo que controlas es seleccionado para un ataque: puedes cambiar el objetivo del ataque a esta carta, y hacer el cálculo de daño. Cuando esta carta es destruida en batalla con un monstruo del adversario: puedes destruir ese monstruo del adversario y, si lo haces, gana LP igual a la mitad del ATK original de ese monstruo. Sólo puedes usar cada efecto de \"Enviaparazzi\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 100,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

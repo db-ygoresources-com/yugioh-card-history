@@ -1,0 +1,16 @@
+{
+  "id": 16208,
+  "type": "monster",
+  "name": "Gusto Vedir",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls ein offenes „Gusto“-Monster auf dem Spielfeld durch Kampf zerstört oder auf deinen Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Gusto“-Monster von deinem Deck auf den Friedhof legen, dann kannst du 1 „Gusto“-Monster als Spezialbeschwörung von deiner Hand beschwören. Du kannst jeden Effekt von „Gusto Vedir“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

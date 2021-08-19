@@ -1,0 +1,17 @@
+{
+  "id": 16225,
+  "type": "monster",
+  "name": "Bête de la Magiclé - Ansyalabolas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Magiclé\" + 1 Monstre Normal (Jetons exclus)\nSi cette carte est Invoquée par Fusion : vous pouvez ajouter 1 \"Maftea de la Magiclé\" depuis votre Cimetière à votre main. Vous ne pouvez utiliser cet effet de \"Bête de la Magiclé - Ansyalabolas\" qu'une fois par tour. Une fois par tour : vous pouvez cibler 1 monstre en Position d'Attaque contrôlé par votre adversaire du même Attribut qu'un Monstre Normal ou monstre \"Magiclé\" dans votre Cimetière ; changez-le en Position de Défense, et si vous le faites, il perd 1000 DEF. Bannissez les monstres détruits au combat avec cette carte.",
+  "level": 4,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Bête",
+    "Fusion",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

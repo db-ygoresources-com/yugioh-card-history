@@ -1,0 +1,15 @@
+{
+  "id": 16203,
+  "type": "monster",
+  "name": "Chronomale Acambaro-Figuren",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein oder mehr „Chronomal“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört würden, kannst du stattdessen diese Karte abwerfen. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1000 LP zahlen; beschwöre diese Karte als Spezialbeschwörung, aber gib sie während der End Phase auf die Hand zurück. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer „Chronomal“-Monstern. Du kannst diesen Effekt von „Chronomale Acambaro-Figuren“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

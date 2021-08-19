@@ -1,0 +1,16 @@
+{
+  "id": 16220,
+  "type": "monster",
+  "name": "Aérofétrois",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire dans la colonne de cette carte ; déplacez cette carte que vous contrôlez dans une autre de vos Zones Monstre Main, et si vous le faites, déplacez le monstre de l'adversaire dans sa Zone Monstre Main dans la colonne de cette carte, puis placez 1 Compteur Brûlant sur lui. (Les monstres avec des Compteurs Brûlant perdent 200 ATK/DEF pour chaque Compteur Brûlant sur eux.)",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Elfe",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

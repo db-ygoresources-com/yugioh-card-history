@@ -1,0 +1,16 @@
+{
+  "id": 16223,
+  "type": "monster",
+  "name": "Quaeritis Despian",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre \"Despia\" + 1 monstre LUMIÈRE ou TÉNÈBRES\nDurant la Main Phase (Effet Rapide) : jusqu'à la fin de ce tour, vous pouvez changer à 0 l'ATK de tous les monstres actuellement sur le Terrain (Monstres Fusion de min. Niveau 8 exclus). Si cette carte face recto contrôlée par son propriétaire quitte le Terrain à cause d'un effet de carte de l'adversaire : vous pouvez ajouter à votre main, ou Invoquer Spécialement, 1 \"Albaz le Déchu\" ou 1 monstre \"Despia\" depuis votre Deck. Vous ne pouvez utiliser chaque effet de \"Quaeritis Despian\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16223,
+  "type": "monster",
+  "name": "Quaeritis Dispiano",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 mostro \"Dispia\" + 1 mostro LUCE o OSCURITÀ\nDurante la Main Phase (Effetto Rapido): puoi cambiare l'ATK di tutti i mostri attualmente sul Terreno a 0 fino alla fine di questo turno, eccetto i Mostri Fusione di Livello 8 o superiore. Se questa carta scoperta sotto il controllo del suo proprietario lascia il Terreno per l'effetto di una carta dell'avversario: puoi aggiungere alla tua mano, o Evocare Specialmente, 1 \"Caduto di Albaz\" o 1 mostro \"Dispia\", dal tuo Deck. Puoi utilizzare ogni effetto di \"Quaeritis Dispiano\" una sola volta per turno.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Demone",
+    "Fusione",
+    "Effetto"
+  ]
+}

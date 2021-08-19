@@ -1,0 +1,17 @@
+{
+  "id": 16225,
+  "type": "monster",
+  "name": "Bestia Magillave - Ansyalabolas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Magillave\" + 1 Monstruo Normal, excepto una Ficha\nSi esta carta es Invocada por Fusión: puedes añadir a tu mano 1 \"Maftea Magillave\" en tu Cementerio. Sólo puedes usar este efecto de \"Bestia Magillave - Ansyalabolas\" una vez por turno. Una vez por turno: puedes seleccionar 1 monstruo en Posición de Ataque que controle tu adversario con el mismo Atributo que el de un Monstruo Normal o monstruo \"Magillave\" en tu Cementerio; cámbialo a Posición de Defensa y, si lo haces, éste pierde 1000 DEF. Destierra cualquier monstruo destruido en batalla con esta carta.",
+  "level": 4,
+  "atk": 2200,
+  "def": 2000,
+  "properties": [
+    "Bestia",
+    "Fusión",
+    "Cantante",
+    "Efecto"
+  ]
+}

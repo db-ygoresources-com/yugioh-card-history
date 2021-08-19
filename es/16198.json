@@ -1,0 +1,15 @@
+{
+  "id": 16198,
+  "type": "monster",
+  "name": "La Almaespada Iris",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante la Main Phase, si un monstruo cuyos efectos están negados está en el Campo (Efecto Rápido): puedes Invocar esta carta de Modo Especial desde tu mano. Si tu adversario Invoca uno o más monstruos de Modo Especial (excepto durante el Damage Step): puedes activar 1 de estos efectos basado en de dónde fue o fueron Invocados de Modo Especial;\n●Mano: Invoca 1 monstruo de Modo Especial desde tu mano.\n●Deck: Roba 2 cartas.\n●Deck Extra: Destruye 1 de esos monstruos Invocados de Modo Especial desde el Deck Extra.\nSólo puedes usar cada efecto de \"La Almaespada Iris\" una vez por turno.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

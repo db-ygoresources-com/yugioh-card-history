@@ -1,0 +1,15 @@
+{
+  "id": 16204,
+  "type": "monster",
+  "name": "Inaba Cacharrek, la Liebre Saltarina de Hakuto",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial 1 monstruo Máquina cuyo ATK sea igual a su propia DEF, desde tu mano en Posición de Defensa. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Máquina que controles cuyo ATK sea igual a su propia DEF; este turno no puedes declarar ataques, excepto con ese monstruo, y además su ATK/DEF se convierten en el ATK original combinado de todos los monstruos Máquina que controles en este momento cuyo ATK sea igual a su propia DEF. Sólo puedes usar este efecto de \"Inaba Cacharrek, la Liebre Saltarina de Hakuto\" una vez por turno.",
+  "level": 1,
+  "atk": 50,
+  "def": 50,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

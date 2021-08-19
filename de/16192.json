@@ -1,0 +1,15 @@
+{
+  "id": 16192,
+  "type": "monster",
+  "name": "Sternenstaub-Spur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein Monster, das du kontrollierst, als Tribut angeboten wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Falls ein „Krieger“-, „Synchron“- oder „Sternenstaub“-Synchromonster als Synchrobeschwörung beschworen und diese Karte dafür als Material verwendet wird: Du kannst 1 „Sternenstaub-Spielmarke“ (Drache/LICHT/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Sternenstaub-Spur“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

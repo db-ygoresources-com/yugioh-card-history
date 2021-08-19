@@ -1,0 +1,15 @@
+{
+  "id": 16210,
+  "type": "monster",
+  "name": "Außerirdischer Schleicher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 offenes Monster auf dem Spielfeld wählen; lege 2 A-Zählmarken darauf. Während deiner Main Phase, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Karte mit einer A-Zählmarke wählen; zerstöre sie. Du kannst jeden Effekt von „Außerirdischer Schleicher“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1500,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}
