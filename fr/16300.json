@@ -1,0 +1,16 @@
+{
+  "id": 16300,
+  "type": "monster",
+  "name": "Dragon Ultime Cyberténébreux",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Dragon Cyberténébreux\" + \"Dragon Cyber Ultime\"\nUniquement soit Invocable par Fusion soit Invocable Spécialement en Sacrifiant 1 Monstre Fusion \"Cyberténébreu\" de max. Niveau 10 équipé avec \"Dragon Cyber Ultime\". Non affectée par les effets activés de votre adversaire. Une fois par tour : vous pouvez équiper 1 monstre depuis l'un des Cimetières à cette carte. Chaque Battle Phase, cette carte peut attaquer un nombre de fois inférieur ou égal au nombre de Cartes d'Équipement qui lui sont équipées.",
+  "level": 12,
+  "atk": 5000,
+  "def": 3800,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}
