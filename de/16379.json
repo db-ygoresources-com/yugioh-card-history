@@ -1,0 +1,16 @@
+{
+  "id": 16379,
+  "type": "monster",
+  "name": "Kristall-Glasflügel-Synchrodrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger-Synchromonster + 1 „Glasflügel“-Nicht-Empfänger-Monster\nEinmal pro Spielzug, wenn dein Gegner einen Monstereffekt aktiviert (außer während des Damage Steps) (Schnelleffekt): Du kannst diesen Effekt aktivieren; bis zum Ende dieses Spielzugs bleibt diese offene Karte von den aktivierten Effekten der Monster deines Gegners unberührt, zusätzlich erhält diese Karte ATK in Höhe der Grund-ATK des Monsters des Gegners. Einmal pro Spielzug, wenn eine Zauber-/Fallenkarte oder ein Zauber-/Falleneffekt aktiviert wird (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre die Karte. Falls diese als Synchrobeschwörung beschworene Karte, die du kontrollierst, durch eine Karte eines Gegners auf deinen Friedhof gelegt wird: Du kannst deiner Hand 1 WIND Monster von deinem Deck hinzufügen.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

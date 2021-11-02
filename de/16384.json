@@ -1,0 +1,15 @@
+{
+  "id": 16384,
+  "type": "monster",
+  "name": "Weißes Ross der Blumenritter",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls du ein Monster der Stufe 2 oder niedriger kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Verteidigungsposition beschwören. Du kannst „Weißes Ross der Blumenritter“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Karte wählen, die du kontrollierst; annulliere den Angriff und falls du dies tust, zerstöre die als Ziel gewählte Karte. Du kannst diesen Effekt von „Weißes Ross der Blumenritter“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16380,
+  "type": "monster",
+  "name": "Hochgeschwindigkeitsroid Glasflügel-Fahrer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 WIND Empfänger + 1 WIND Nicht-Empfänger-Synchromonster\nEinmal pro Spielzug, während deiner Main Phase: Du kannst einen sechsseitigen Würfel werfen und WIND Monster bis zum Ergebnis von deinem Friedhof in dein Deck mischen, dann kannst du Karten, die dein Gegner kontrolliert, bis zur ins Deck gemischten Anzahl zerstören und falls du dies tust, erhält diese Karte für jede durch diesen Effekt zerstörte Karte bis zum Ende dieses Spielzugs 500 ATK. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst diese als Synchrobeschwörung beschworene Karte als Tribut anbieten; beschwöre bis zu 2 WIND Synchromonster der Stufe 7 mit unterschiedlichen Namen voneinander als Spezialbeschwörung von deinem Extra Deck.",
+  "level": 11,
+  "atk": 3500,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

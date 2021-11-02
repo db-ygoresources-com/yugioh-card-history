@@ -1,0 +1,16 @@
+{
+  "id": 16380,
+  "type": "monster",
+  "name": "Motorista Ala Transparente de Alta-Velociroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante de VIENTO + 1 Monstruo de Sincronía de VIENTO que no sea Cantante\nUna vez por turno, durante tu Main Phase: puedes lanzar un dado de seis caras y barajar a tu Deck monstruos de VIENTO en tu Cementerio, hasta el resultado, y después puedes destruir cartas que controle tu adversario hasta el número de barajados y, si lo haces, hasta el final de este turno esta carta gana 500 ATK por cada carta destruida por este efecto. Durante la Main Phase de tu adversario (Efecto Rápido): puedes Sacrificar esta carta Invocada por Sincronía; Invoca de Modo Especial, desde tu Deck Extra, hasta 2 Monstruos de Sincronía de VIENTO de Nivel 7 con nombres diferentes entre sí.",
+  "level": 11,
+  "atk": 3500,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

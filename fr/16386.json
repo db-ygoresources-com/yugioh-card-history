@@ -1,0 +1,16 @@
+{
+  "id": 16386,
+  "type": "monster",
+  "name": "Baronne de Fleur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nUne fois par tour : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Une fois, tant que cette carte est face recto sur le Terrain, lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte. Vous ne pouvez utiliser l'effet précédent de \"Baronne de Fleur\" qu'une fois par tour. Une fois par tour, durant la Standby Phase : vous pouvez cibler 1 monstre de max. Niveau 9 dans votre Cimetière ; renvoyez cette carte à l'Extra Deck, et si vous le faites, Invoquez Spécialement le monstre.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

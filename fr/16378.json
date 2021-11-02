@@ -1,0 +1,17 @@
+{
+  "id": 16378,
+  "type": "monster",
+  "name": "Tireur de Bouchon Grande Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez activer 1 de ces effets ;\n●Ajoutez 1 Magie/Piège \"Vitesseroid\" depuis votre Deck à votre main.\n●Si tous les Matériels qui ont été utilisés pour l'Invocation Synchro de cette carte étaient des monstres \"Vitesseroid\" et qu'ils sont tous dans votre Cimetière, Invoquez-les tous Spécialement.\nVous ne pouvez pas Invoquer Spécialement de monstres (monstres VENT exclus) le tour où vous activez cet effet. Vous ne pouvez utiliser cet effet de \"Tireur de Bouchon Grande Vitesseroid\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}
