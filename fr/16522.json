@@ -1,0 +1,16 @@
+{
+  "id": 16522,
+  "type": "monster",
+  "name": "Dragon Émeute Chargeborrelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Interverrouillage Lourd\". Lorsque votre adversaire Invoque Spécialement un ou plusieurs monstres (Effet Rapide) : vous pouvez annuler l'Invocation Spéciale, et si vous le faites, détruisez les monstres, puis détruisez cette carte ou 1 monstre \"Rokkette\" que vous contrôlez. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre \"Borrelle\" ou \"Rokkette\" dans votre Cimetière ; détruisez 1 carte que vous contrôlez ou dans votre main, et si vous le faites, ajoutez la cible à votre main. Vous ne pouvez utiliser chaque effet de \"Dragon Émeute Chargeborrelle\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Rituel",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16511,
+  "type": "monster",
+  "name": "Ninja Pingouin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Vous pouvez cibler max. 2 Magies/Pièges contrôlés par votre adversaire ; renvoyez-les à la main.\nVous pouvez cibler 1 monstre \"Pingouin\" que vous contrôlez ; changez-le en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Ninja Pingouin\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effet"
+  ]
+}

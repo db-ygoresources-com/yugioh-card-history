@@ -1,0 +1,15 @@
+{
+  "id": 16495,
+  "type": "monster",
+  "name": "Ghiacciogiada Tinola",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Puoi mandare 1 carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 mostro ACQUA nel tuo Cimitero; manda questa carta dal Terreno al Cimitero e, se lo fai, Evoca Specialmente il mostro scelto come bersaglio. Se uno o più mostri ACQUA scoperti che controlli vengono distrutti in battaglia o dall'effetto di una carta, mentre questa carta è nel tuo Cimitero: puoi bandire questa carta; Evoca Specialmente 1 mostro \"Ghiacciogiada\" dalla tua mano o Cimitero, eccetto \"Ghiacciogiada Tinola\". Puoi utilizzare ogni effetto di \"Ghiacciogiada Tinola\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

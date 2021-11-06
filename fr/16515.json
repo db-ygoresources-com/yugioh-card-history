@@ -1,0 +1,16 @@
+{
+  "id": 16515,
+  "type": "monster",
+  "name": "Insecte Mangeur d'Hommes Imitateur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Ciblez 1 monstre sur le Terrain ; détruisez-le, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre, puis vous pouvez changer le Type de cette carte au Type d'origine du monstre.\nNon destructible au combat. Non destructible par des effets de monstres du même Type.",
+  "level": 4,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Insecte",
+    "Flip",
+    "Effet"
+  ]
+}

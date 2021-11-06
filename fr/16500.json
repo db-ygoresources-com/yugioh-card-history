@@ -1,0 +1,15 @@
+{
+  "id": 16500,
+  "type": "monster",
+  "name": "Fuvagabonbrise et Stri",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte face recto va quitter le Terrain, bannissez-la à la place. Vous ne pouvez utiliser chacun des effets suivants de \"Fuvagabonbrise et Stri\" qu'une fois par tour, et ne pouvez pas Invoquer Spécialement durant le tour où vous activez un de ces effets. Si cette carte est Invoquée Normalement : vous pouvez cibler 1 carte dans l'un des Cimetières ; bannissez-la, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre Bête Ailée. Si un monstre Bête Ailée est Invoqué Normalement sur votre Terrain tant que cette carte est bannie : vous pouvez ajouter cette carte à votre main.",
+  "level": 1,
+  "atk": 700,
+  "def": 1100,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

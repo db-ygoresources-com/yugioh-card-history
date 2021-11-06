@@ -1,0 +1,15 @@
+{
+  "id": 16514,
+  "type": "monster",
+  "name": "Ruinforce Méchabot",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre Cimetière) en bannissant des monstres Machine depuis votre Cimetière dont le Niveau total est égal à min. 12. Lorsque votre adversaire active une carte ou un effet durant la Battle Phase (Effet Rapide) : vous pouvez payer la moitié de vos LP ; annulez l'activation, et si vous le faites, divisez par deux les LP de votre adversaire. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement max. 3 de vos monstres \"Méchabot\" bannis, dont le Niveau total est égal à max. 12. Vous ne pouvez utiliser chaque effet de \"Ruinforce Méchabot\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 4600,
+  "def": 4100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

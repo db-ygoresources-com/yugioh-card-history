@@ -1,0 +1,15 @@
+{
+  "id": 16512,
+  "type": "monster",
+  "name": "Chierico Pinguino",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se uno o più mostri \"Pinguino\" vengono mandati dalla tua Zona Mostri al tuo Cimitero da una carta dell'avversario, anche durante il Damage Step: puoi scegliere 1 di essi come bersaglio; scarta questa carta e, se lo fai, Evoca Specialmente quel mostro coperto in Posizione di Difesa. Puoi utilizzare questo effetto di \"Chierico Pinguino\" una sola volta per turno. Una volta per turno: puoi scegliere come bersaglio 1 mostro \"Pinguino\" che controlli; esso guadagna 600 ATK fino alla fine del turno e tu guadagni 600 LP.",
+  "level": 3,
+  "atk": 600,
+  "def": 1700,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

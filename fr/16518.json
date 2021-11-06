@@ -1,0 +1,16 @@
+{
+  "id": 16518,
+  "type": "monster",
+  "name": "Seigneur Gémeaunise Golknight",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec ces effets.\n●Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège depuis votre Deck à votre main qui a \"monstre Gémeau\" ou \"monstres Gémeau\" dans son texte. Vous ne pouvez utiliser cet effet de \"Seigneur Gémeaunise Golknight\" qu'une fois par tour.\n●Cette carte devient un monstre Machine, et aussi, elle gagne 500 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Guerrier",
+    "Gémeau",
+    "Effet"
+  ]
+}

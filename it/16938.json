@@ -1,0 +1,19 @@
+{
+  "id": 16938,
+  "type": "monster",
+  "name": "Custode dell'Abisso",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "2 mostri ACQUA\nNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Se questa carta viene Evocata Link: puoi Evocare Specialmente 1 mostro Pesce dalla tua mano in una tua zona puntata da questa carta. Puoi scegliere come bersaglio 1 altro mostro Pesce che controlli e 1 carta controllata dal tuo avversario; bandisci quelle carte. Puoi utilizzare ogni effetto di \"Custode dell'Abisso\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Pesce",
+    "Link",
+    "Effetto"
+  ]
+}

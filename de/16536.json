@@ -1,0 +1,20 @@
+{
+  "id": 16536,
+  "type": "monster",
+  "name": "Kallibercode-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Effektmonster\nDiese Karte kann nicht durch Karteneffekte zerstört werden, solange ein Linkmonster auf sie zeigt. Du kannst jeden der folgenden Effekte von „Kallibercode-Drache“ nur einmal pro Spielzug verwenden. Am Beginn des Damage Steps, falls diese Karte, die unter Verwendung von 3 Monstern als Material als Linkbeschwörung beschworen wurde, gegen ein Monster eines Gegners kämpft: Du kannst alle Monster auf dem Spielfeld zerstören. Du kannst diese Karte von deinem Friedhof verbannen; verbanne 1 FINSTERNIS Monster mit 3000 oder mehr ATK vom Spielfeld und falls du dies tust, beschwöre 1 „Topologik“- oder „Topologisch“-Monster als Spezialbeschwörung von deinem Extra Deck oder Friedhof.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

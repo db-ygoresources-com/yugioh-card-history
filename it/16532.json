@@ -1,0 +1,17 @@
+{
+  "id": 16532,
+  "type": "monster",
+  "name": "Lancio Cupido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nSe questa carta viene Synchro Evocata: aumenta o diminuisci il Livello di questa carta del Livello che il Tuner utilizzato come materiale aveva sul Terreno. Questa carta guadagna ATK pari al suo Livello x 400. Se questa carta Synchro Evocata viene mandata al Cimitero come Materiale Synchro: infliggi al tuo avversario danno pari al Livello del nuovo mostro Synchro Evocato x 100 e, se lo fai, puoi aggiungere 1 mostro di Livello 8 o inferiore con DEF 600 dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Lancio Cupido\" una sola volta per turno.",
+  "level": 4,
+  "atk": 0,
+  "def": 600,
+  "properties": [
+    "Fata",
+    "Synchro",
+    "Tuner",
+    "Effetto"
+  ]
+}

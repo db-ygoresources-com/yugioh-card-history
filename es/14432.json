@@ -1,0 +1,15 @@
+{
+  "id": 14432,
+  "type": "monster",
+  "name": "Valiendri",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Una vez por turno, cuando tu monstruo Ciberso declara un ataque: puedes descartar 1 monstruo; ese monstruo atacante gana 600 ATK, hasta el final de este turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

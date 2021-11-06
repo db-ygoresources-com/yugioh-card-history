@@ -1,0 +1,16 @@
+{
+  "id": 16515,
+  "type": "monster",
+  "name": "Mimicking Man-Eater Bug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Target 1 monster on the field; destroy it, and if you do, this card gains ATK equal to that monster's original ATK, then you can change this card's Type to that monster's original Type.\nCannot be destroyed by battle. Cannot be destroyed by the effects of monsters with its same Type.",
+  "level": 4,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Insect",
+    "Flip",
+    "Effect"
+  ]
+}

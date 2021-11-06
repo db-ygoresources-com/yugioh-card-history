@@ -1,0 +1,16 @@
+{
+  "id": 16529,
+  "type": "monster",
+  "name": "Mélusine Reptilia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur Reptile + 1+ monstre non-Syntoniseur\nSi cette carte a été Invoquée par Synchronisation en utilisant uniquement des monstres Reptile comme Matériel, elle ne peut être détruite ni au combat ni par des effets de carte. Une fois par Chaîne, lorsque votre adversaire active un effet de monstre, sauf durant la Damage Step (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; changez son ATK à 0. Si cette carte Invoquée par Synchronisation que vous contrôlez est envoyée à votre Cimetière par une carte de l'adversaire : vous pouvez ajouter 1 monstre Reptile depuis votre Deck à votre main.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2800,
+  "properties": [
+    "Reptile",
+    "Synchro",
+    "Effet"
+  ]
+}

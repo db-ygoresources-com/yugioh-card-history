@@ -1,0 +1,15 @@
+{
+  "id": 16520,
+  "type": "monster",
+  "name": "Miausklick",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls eine Spielfeldzauberkarte aktiviert wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls in beiden Spielfeldzonen offene Karten liegen, kann diese Karte in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden. Du kannst diesen Effekt von „Miausklick“ nur einmal pro Spielzug verwenden. Während deines Spielzugs werden die Effekte der offenen Karte in der Spielfeldzone deines Gegners annulliert. Während des Spielzugs deines Gegners werden die Effekte der offenen Karte in deiner Spielfeldzone annulliert.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1100,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

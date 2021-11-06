@@ -1,0 +1,16 @@
+{
+  "id": 16511,
+  "type": "monster",
+  "name": "Pinguinninja",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Du kannst bis zu 2 Zauber/Fallen wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück.\nDu kannst 1 „Pinguin“-Monster wählen, das du kontrollierst; ändere es in die verdeckte Verteidigungsposition. Du kannst diesen Effekt von „Pinguinninja“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Aqua",
+    "Flipp",
+    "Effekt"
+  ]
+}

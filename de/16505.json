@@ -1,0 +1,15 @@
+{
+  "id": 16505,
+  "type": "monster",
+  "name": "Reptilianische Nyami",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während der Main Phase, falls du ein Reptil-Monster in deinem Friedhof hast (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere seine ATK zu 0. Falls dein Gegner ein Monster mit 0 ATK kontrolliert: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst nur 1 Effekt von „Reptilianische Nyami“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 2,
+  "atk": 200,
+  "def": 0,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16526,
+  "type": "monster",
+  "name": "Vaisseau Amiral Ultime Ursatron",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Ursarctique\" et \"Drytron\".)\nUniquement Invocable Spécialement avec \"Drytron Ursarctique\". Une fois par tour, si un autre Monstre à Effet est Invoqué Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez ajouter 1 monstre \"Ursarctique\" ou \"Drytron\" depuis votre Deck à votre main. Une fois par tour : vous pouvez cibler 1 de vos monstres \"Ursarctique\" ou \"Drytron\" bannis ; ajoutez-le à votre main.",
+  "level": 7,
+  "atk": 2000,
+  "def": 700,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

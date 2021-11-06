@@ -1,0 +1,16 @@
+{
+  "id": 16510,
+  "type": "monster",
+  "name": "Écuyer Pingouin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Non utilisable comme Matériel Synchro, sauf pour l'Invocation Synchro d'un monstre EAU. Si un monstre est Posé sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez réduire son Niveau de 1 ou 2. Vous pouvez cibler 1 monstre en Position de Défense face verso que vous contrôlez ; changez-le en Position de Défense face recto, et si vous le faites, ses effets sont annulés sauf si c'est un monstre \"Pingouin\". Vous ne pouvez utiliser chaque effet de \"Écuyer Pingouin\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

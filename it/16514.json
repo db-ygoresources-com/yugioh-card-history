@@ -1,0 +1,15 @@
+{
+  "id": 16514,
+  "type": "monster",
+  "name": "Mek Rovinaforza",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dal tuo Cimitero) bandendo mostri Macchina dal tuo Cimitero con Livello totale pari o superiore a 12. Quando il tuo avversario attiva una carta o un effetto durante la Battle Phase (Effetto Rapido): puoi pagare la metà dei tuoi LP; annulla quell'attivazione e, se lo fai, dimezza i LP del tuo avversario. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente fino a 3 dei tuoi mostri \"Mek\" banditi, con Livello totale pari o inferiore a 12. Puoi utilizzare ogni effetto di \"Mek Rovinaforza\" una sola volta per turno.",
+  "level": 10,
+  "atk": 4600,
+  "def": 4100,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

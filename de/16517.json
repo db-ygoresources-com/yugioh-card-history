@@ -1,0 +1,16 @@
+{
+  "id": 16517,
+  "type": "monster",
+  "name": "Fengli das Soldrapom",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte durch einen Monstereffekt vom Deck auf deinen Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung beschwören, dann, falls du ein anderes Pflanze-Monster kontrollierst, kannst du die ATK/DEF von 1 Monster auf dem Spielfeld halbieren. Du kannst diesen Effekt von „Fengli das Soldrapom“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 Pflanze-Monster von deinem Deck auf den Friedhof legen.",
+  "level": 1,
+  "atk": 800,
+  "def": 0,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

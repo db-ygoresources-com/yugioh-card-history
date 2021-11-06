@@ -1,0 +1,15 @@
+{
+  "id": 16499,
+  "type": "monster",
+  "name": "Fuvagabonbrise et Eglen",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte face recto va quitter le Terrain, bannissez-la à la place. Vous ne pouvez utiliser chacun des effets suivants de \"Fuvagabonbrise et Eglen\" qu'une fois par tour, et ne pouvez pas Invoquer Spécialement durant le tour où vous activez un de ces effets. Si cette carte est Invoquée Normalement : vous pouvez ajouter 1 monstre Bête Ailée de min. Niveau 7 depuis votre Deck à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre Bête Ailée. Si un monstre Bête Ailée est Invoqué Normalement sur votre Terrain tant que cette carte est bannie : vous pouvez ajouter cette carte à votre main.",
+  "level": 1,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

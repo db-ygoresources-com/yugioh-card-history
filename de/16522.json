@@ -1,0 +1,16 @@
+{
+  "id": 16522,
+  "type": "monster",
+  "name": "Kalliberlade-Aufstand-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Starke Sperre“ als Ritualbeschwörung beschwören. Wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (Schnelleffekt): Du kannst die Spezialbeschwörung annullieren und falls du dies tust, zerstöre die Monster, dann zerstöre diese Karte oder 1 „Rakkete“-Monster, das du kontrollierst. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Kalliber“- oder „Rakkete“-Monster in deinem Friedhof wählen; zerstöre 1 Karte, die du kontrollierst oder die sich in deiner Hand befindet, und falls du dies tust, füge das gewählte Ziel deiner Hand hinzu. Du kannst jeden Effekt von „Kalliberlade-Aufstand-Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Ritual",
+    "Effekt"
+  ]
+}

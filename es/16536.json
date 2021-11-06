@@ -1,0 +1,20 @@
+{
+  "id": 16536,
+  "type": "monster",
+  "name": "Dragón Borrecódigo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ Monstruos de Efecto\nEsta carta no puede ser destruida por efectos de cartas mientras un Monstruo de Enlace la apunte. Sólo puedes usar cada uno de los siguientes efectos de \"Dragón Borrecódigo\" una vez por turno. Al comienzo del Damage Step, si esta carta que fue Invocada por Enlace usando 3 monstruos como material batalla con un monstruo del adversario: puedes destruir todos los monstruos en el Campo. Puedes desterrar esta carta en tu Cementerio; destierra 1 monstruo de OSCURIDAD con 3000 o más ATK en el Campo y, si lo haces, Invoca de Modo Especial 1 monstruo \"Topológico\" desde tu Deck Extra o Cementerio.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16514,
+  "type": "monster",
+  "name": "Machina Ruinforce",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your GY) by banishing Machine monsters from your GY whose total Levels equal 12 or more. When your opponent activates a card or effect during the Battle Phase (Quick Effect): You can pay half your LP; negate that activation, and if you do, halve your opponent's LP. If this card is destroyed by battle or card effect: You can Special Summon up to 3 of your banished \"Machina\" monsters, whose total Levels equal 12 or less. You can only use each effect of \"Machina Ruinforce\" once per turn.",
+  "level": 10,
+  "atk": 4600,
+  "def": 4100,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

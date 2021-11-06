@@ -1,0 +1,17 @@
+{
+  "id": 16532,
+  "type": "monster",
+  "name": "Lanzamiento de Cupido",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSi esta carta es Invocada por Sincronía: aumenta o reduce el Nivel de esta carta en el Nivel que tenía en el Campo el Cantante usado como material. Esta carta gana ATK igual a su Nivel x 400. Si esta carta Invocada por Sincronía es mandada al Cementerio como Material de Sincronía: inflige daño a tu adversario igual al Nivel del nuevo monstruo Invocado por Sincronía x 100 y, si lo haces, puedes añadir a tu mano 1 monstruo de Nivel 8 o menor con 600 DEF en tu Deck. Sólo puedes usar este efecto de \"Lanzamiento de Cupido\" una vez por turno.",
+  "level": 4,
+  "atk": 0,
+  "def": 600,
+  "properties": [
+    "Hada",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

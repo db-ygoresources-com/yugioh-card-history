@@ -1,0 +1,15 @@
+{
+  "id": 16520,
+  "type": "monster",
+  "name": "Cliquemiaulis",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si une Carte Magie de Terrain est activée : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis, s'il y a des cartes face recto dans les deux Zones Terrain, cette carte ne peut être détruite ni au combat ni par des effets de carte ce tour. Vous ne pouvez utiliser cet effet de \"Cliquemiaulis\" qu'une fois par tour. Durant votre tour, les effets de la carte face recto dans la Zone Terrain de votre adversaire sont annulés. Durant le tour de votre adversaire, les effets de la carte face recto dans votre Zone Terrain sont annulés.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1100,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

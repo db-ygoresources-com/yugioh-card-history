@@ -1,0 +1,17 @@
+{
+  "id": 16532,
+  "type": "monster",
+  "name": "Lancer Cupide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : augmentez ou réduisez le Niveau de cette carte du Niveau que le Syntoniseur utilisé comme Matériel avait sur le Terrain. Cette carte gagne une ATK égale à son Niveau x 400. Si cette carte Invoquée par Synchronisation est envoyée au Cimetière comme Matériel Synchro : infligez des dommages à votre adversaire égaux au Niveau du nouveau monstre Invoqué par Synchronisation x 100, et si vous le faites, vous pouvez ajouter 1 monstre de max. Niveau 8 avec 600 DEF depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Lancer Cupide\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 600,
+  "properties": [
+    "Elfe",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

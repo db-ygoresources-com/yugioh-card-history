@@ -1,0 +1,15 @@
+{
+  "id": 14432,
+  "type": "monster",
+  "name": "Diribravo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Uma vez por turno, quando um monstro Ciberso seu declarar um ataque: você pode descartar 1 monstro; até o final deste turno, esse monstro atacante ganha 600 de ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efeito"
+  ]
+}

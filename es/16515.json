@@ -1,0 +1,16 @@
+{
+  "id": 16515,
+  "type": "monster",
+  "name": "Insecto Come-hombres Mimético",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Selecciona 1 monstruo en el Campo; destrúyelo y, si lo haces, esta carta gana ATK igual al ATK original de ese monstruo, y después puedes cambiar el Tipo de esta carta al Tipo original de ese monstruo.\nNo puede ser destruido en batalla. No puede ser destruido por efectos de monstruos con su mismo Tipo.",
+  "level": 4,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Insecto",
+    "Volteo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16506,
+  "type": "monster",
+  "name": "Coatl Reptílica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas un monstruo Reptil de OSCURIDAD: puedes Invocar esta carta de Modo Especial desde tu mano y después, si tu adversario controla algún monstruo con 0 ATK, puedes Invocar de Modo Especial, desde tu mano, hasta el mismo número de monstruos \"Reptílico/a\". Sólo puedes usar este efecto de \"Coatl Reptílica\" una vez por turno. Si esta carta que controlas fuera a ser usada como Material de Sincronía para un monstruo Reptil, puedes tratarla como un monstruo que no sea Cantante.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Cantante",
+    "Efecto"
+  ]
+}

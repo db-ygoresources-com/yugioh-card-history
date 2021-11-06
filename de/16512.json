@@ -1,0 +1,15 @@
+{
+  "id": 16512,
+  "type": "monster",
+  "name": "Pinguinkleriker",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein oder mehr „Pinguin“-Monster durch eine Karte eines Gegners von deiner Monsterzone auf deinen Friedhof gelegt werden, sogar während des Damage Steps: Du kannst 1 von ihnen wählen; wirf diese Karte ab und falls du dies tust, beschwöre das Monster als Spezialbeschwörung in die verdeckte Verteidigungsposition. Du kannst diesen Effekt von „Pinguinkleriker“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 „Pinguin“-Monster wählen, das du kontrollierst; es erhält bis zum Ende des Spielzugs 600 ATK und du erhältst 600 LP.",
+  "level": 3,
+  "atk": 600,
+  "def": 1700,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

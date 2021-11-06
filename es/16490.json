@@ -1,0 +1,15 @@
+{
+  "id": 16490,
+  "type": "monster",
+  "name": "Almaespada de Taia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes desterrar 1 carta \"Almaespada\" o 1 monstruo Wyrm en tu Cementerio; Invoca de Modo Especial 1 \"Ficha Almaespada\" (Wyrm/Cantante/AGUA/Nivel 4/ATK 0/DEF 0). Mientras esa Ficha está en la Zona de Monstruos, el jugador que la Invocó no puede Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. Si esta carta es mandada al Cementerio como Material de Sincronía: puedes mandar al Cementerio 1 carta \"Almaespada\" o 1 monstruo Wyrm en tu Deck. Sólo puedes usar cada efecto de \"Almaespada de Taia\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Efecto"
+  ]
+}

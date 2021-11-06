@@ -1,0 +1,15 @@
+{
+  "id": 16512,
+  "type": "monster",
+  "name": "Clérigo Pingüino",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si uno o más monstruos \"Pingüino\" en tu Zona de Monstruos son mandados a tu Cementerio por una carta del adversario, incluso durante el Damage Step: puedes seleccionar 1 de ellos; descarta esta carta y, si lo haces, Invoca ese monstruo de Modo Especial en Posición de Defensa boca abajo. Sólo puedes usar este efecto de \"Clérigo Pingüino\" una vez por turno. Una vez por turno: puedes seleccionar 1 monstruo \"Pingüino\" que controles; éste gana 600 ATK hasta el final del turno, y tú ganas 600 LP.",
+  "level": 3,
+  "atk": 600,
+  "def": 1700,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

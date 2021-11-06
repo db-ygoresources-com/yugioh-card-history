@@ -1,0 +1,15 @@
+{
+  "id": 16497,
+  "type": "monster",
+  "name": "Ad Libitum de Despia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre Main Phase : jusqu'à la fin du tour de l'adversaire, vous pouvez faire gagner à tous les monstres actuellement sur le Terrain une ATK égale à leur propre Niveau x 100. Si cette carte dans votre main ou sur votre Terrain est utilisée comme Matériel Fusion, et est envoyée au Cimetière ou est bannie : vous pouvez cibler 1 de vos monstres \"Despia\" (\"Ad Libitum de Despia\" exclu) ou Monstres Fusion de min. Niveau 8, qui est banni ou dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Ad Libitum de Despia\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

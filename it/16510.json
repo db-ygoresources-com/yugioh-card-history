@@ -1,0 +1,16 @@
+{
+  "id": 16510,
+  "type": "monster",
+  "name": "Scudiero Pinguino",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Non può essere utilizzato come Materiale Synchro, eccetto che per la Synchro Evocazione di un mostro ACQUA. Se un mostro viene Posizionato sul tuo Terreno (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano, poi puoi ridurre il suo Livello di 1 o 2. Puoi scegliere come bersaglio 1 mostro coperto in Posizione di Difesa che controlli; mettilo scoperto in Posizione di Difesa e, se lo fai, i suoi effetti sono annullati a meno che sia un mostro \"Pinguino\". Puoi utilizzare ogni effetto di \"Scudiero Pinguino\" una sola volta per turno.",
+  "level": 5,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Acqua",
+    "Tuner",
+    "Effetto"
+  ]
+}

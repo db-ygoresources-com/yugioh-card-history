@@ -1,0 +1,15 @@
+{
+  "id": 16512,
+  "type": "monster",
+  "name": "Clerc Pingouin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un ou plusieurs monstres \"Pingouin\" sont envoyés depuis votre Zone Monstre à votre Cimetière par une carte de l'adversaire, même durant la Damage Step : vous pouvez en cibler 1 ; défaussez cette carte, et si vous le faites, Invoquez Spécialement le monstre en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Clerc Pingouin\" qu'une fois par tour. Une fois par tour : vous pouvez cibler 1 monstre \"Pingouin\" que vous contrôlez ; il gagne 600 ATK jusqu'à la fin du tour, et vous gagnez 600 LP.",
+  "level": 3,
+  "atk": 600,
+  "def": 1700,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}
