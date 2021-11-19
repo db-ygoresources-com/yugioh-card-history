@@ -4,10 +4,10 @@
   "name": "Numero 9: Sfera Dyson",
   "englishAttribute": "light",
   "localizedAttribute": "LUCE",
-  "effectText": "2 mostri di Livello 9\nUna volta per Battle Step, durante il turno del tuo avversario, se questa carta con Materiali Xyz viene attaccata: annulla l'attacco (questo è un Effetto Rapido). Quando questa carta viene scelta come bersaglio per un attacco mentre non ha Materiali Xyz: puoi scegliere come bersaglio 2 mostri nel tuo Cimitero; attacca quei bersagli a questa carta come Materiali Xyz. Durante la tua Main Phase 1: puoi staccare 1 Materiale Xyz da questa carta; questa carta può attaccare il tuo avversario direttamente in questo turno. Il tuo avversario deve controllare un mostro con ATK più alto di questa carta perchè tu possa attivare e risolvere questo effetto.",
+  "effectText": "2 mostri di Livello 9\nDurante la tua Main Phase 1, se il tuo avversario controlla un mostro con ATK superiore a questa carta: puoi staccare 1 materiale da questa carta; questa carta può attaccare direttamente in questo turno. Una volta per Battle Step, se questa carta con materiale viene attaccata (Effetto Rapido): puoi annullare quell'attacco. Quando questa carta viene scelta come bersaglio per un attacco mentre non ha nessun materiale: puoi scegliere come bersaglio 2 mostri nel tuo Cimitero; attacca quei mostri a questa carta come materiale.",
   "rank": 9,
   "atk": 2800,
-  "def": 2800,
+  "def": 3000,
   "properties": [
     "Macchina",
     "Xyz",

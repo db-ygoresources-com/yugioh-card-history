@@ -4,10 +4,10 @@
   "name": "Number 9: Dyson Sphere",
   "englishAttribute": "light",
   "localizedAttribute": "LIGHT",
-  "effectText": "2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.",
+  "effectText": "2 Level 9 monsters\nDuring your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 material from this card; this card can attack directly this turn. Once per Battle Step, if this card with material is attacked (Quick Effect): You can negate that attack. When this card is targeted for an attack while it has no material: You can target 2 monsters in your GY; attach those monsters to this card as material.",
   "rank": 9,
   "atk": 2800,
-  "def": 2800,
+  "def": 3000,
   "properties": [
     "Machine",
     "Xyz",
