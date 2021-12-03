@@ -1,0 +1,19 @@
+{
+  "id": 16428,
+  "type": "monster",
+  "name": "Dragon Affamé Veninemi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre TÉNÈBRES + 1 Monstre Pendule\n(Cette carte n'est pas traitée comme une carte \"Venin\".)\nVous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la End Phase, le nom de cette carte devient le nom d'origine du monstre, et remplacez cet effet avec les effets d'origine du monstre, puis, le monstre perd 500 ATK/DEF, ses effets sont annulés, et aussi, infligez 500 points de dommages à votre adversaire. Vous ne pouvez utiliser cet effet de \"Dragon Affamé Veninemi\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Chaque fois qu'une ou plusieurs cartes sont envoyées depuis le Terrain au Cimetière, placez 1 Compteur Veninemi sur cette carte pour chaque carte envoyée. Tous les monstres sur le Terrain (monstres TÉNÈBRES Dragon exclus) perdent 200 ATK pour chaque Compteur Veninemi sur le Terrain. Une fois par tour, vous pouvez réduire à 0 les dommages de combat que vous recevez.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

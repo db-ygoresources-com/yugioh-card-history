@@ -1,0 +1,15 @@
+{
+  "id": 6861,
+  "type": "monster",
+  "name": "Eisritter",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Erhält für jedes Aqua-Monster, das du kontrollierst, 400 ATK. Einmal pro Spielzug: Du kannst diesen Effekt aktivieren; du kannst in diesem Spielzug während deiner Main Phase zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 WASSER Monster als Normalbeschwörung beschwören (du kannst diesen Effekt nur einmal pro Spielzug erhalten), zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Normal- oder Spezialbeschwörung beschwören, außer WASSER Monstern.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 16437,
+  "type": "monster",
+  "name": "Electrodomésticor Héliceleo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 monstruo \"Electrodomésticor\"\nNo puede ser usado como Material de Enlace el turno en el que es Invocado por Enlace. Esta carta puede atacar directamente. Una vez por turno, durante el cálculo de daño, si tu monstruo batalla con un monstruo del adversario, mientras esta carta está co-enlazada (Efecto Rápido): puedes hacer que el ATK de ese monstruo del adversario sea 0, sólo durante ese cálculo de daño. Una vez por turno, durante el cálculo de daño, si este monstruo que no está co-enlazado batalla con un monstruo del adversario (Efecto Rápido): puedes hacer que el ATK de ese monstruo del adversario sea 0, sólo durante ese cálculo de daño.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

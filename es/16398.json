@@ -1,0 +1,15 @@
+{
+  "id": 16398,
+  "type": "monster",
+  "name": "Kuribee",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "(Esta carta se trata siempre como una carta \"Kuriboh\").\nCuando esta carta, u otro monstruo \"Kuriboh\", que controles es destruido en batalla: puedes añadir a tu mano 1 Mágica/Trampa en tu Deck que liste en su texto la carta \"Kuriboh\". Sólo puedes usar este efecto de \"Kuribee\" una vez por turno. Una vez por turno, cuando un monstruo del adversario declara un ataque mientras tú controlas otro monstruo \"Kuriboh\": hasta el final de este turno, puedes cambiar el ATK de todos los demás monstruos que controles a 0 y, si lo haces, niega el ataque.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

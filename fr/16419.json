@@ -1,0 +1,15 @@
+{
+  "id": 16419,
+  "type": "monster",
+  "name": "ZW - Vent Sylphide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"ZW - Vent Sylphide\". Vous pouvez cibler 1 monstre \"Utopie\" que vous contrôlez ; équipez-lui cette carte depuis votre main ou Terrain. Il gagne 800 ATK. Une fois par tour, si un ou plusieurs monstres sont Invoqués Spécialement par un effet activé de votre adversaire : vous pouvez faire gagner 1600 ATK au monstre équipé. (Ce gain d'ATK reste même si cette carte quitte le Terrain ou si le monstre n'est plus affecté par des effets de carte.) Si vous activez l'effet du monstre équipé en détachant son Matériel, vous pouvez envoyer cette carte au Cimetière au lieu d'1 de ces Matériels.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16414,
+  "type": "monster",
+  "name": "Zentaurin Mina",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 LICHT Krieger-Monster + 1 Ungeheuer-Monster\nEinmal pro Spielzug, während deines Spielzugs, wenn dein Gegner eine Fallenkarte aktiviert (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, setze die Karte. Du kannst jeden der folgenden Effekte von „Zentaurin Mina“ nur einmal pro Spielzug verwenden. Während deiner Main Phase: Du kannst 1 Monster der Stufe 2 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören. Falls diese Karte als Synchromaterial für ein WIND Krieger-Monster auf den Friedhof gelegt wird: Du kannst 1 offenes Monster auf dem Spielfeld zerstören.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

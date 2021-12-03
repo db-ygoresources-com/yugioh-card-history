@@ -1,0 +1,15 @@
+{
+  "id": 16432,
+  "type": "monster",
+  "name": "Biplan Cipher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez cibler 2 monstres \"Cipher\" que vous contrôlez ; jusqu'à la fin de ce tour, leur Niveau devient 8. Vous ne pouvez utiliser chacun des effets suivants de \"Biplan Cipher\" qu'une fois par tour. Si un ou plusieurs monstres \"Cipher\" sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre \"Cipher\" depuis votre Deck à votre main.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

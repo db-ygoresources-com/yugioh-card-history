@@ -1,0 +1,15 @@
+{
+  "id": 16432,
+  "type": "monster",
+  "name": "Biplano Cifrado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno: puedes seleccionar 2 monstruos \"Cifrado/a\" que controles; hasta el final de este turno, sus Niveles se convierten en 8. Sólo puedes usar cada uno de los siguientes efectos de \"Biplano Cifrado\" una vez por turno. Si uno o más monstruos \"Cifrado/a\" son Invocados de Modo Normal o Especial a tu Campo (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es destruida en batalla o por el efecto de una carta y mandada al Cementerio: puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo \"Cifrado/a\" en tu Deck.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16419,
+  "type": "monster",
+  "name": "ZW - Ala Sílfide",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Sólo puedes controlar 1 \"ZW - Ala Sílfide\". Puedes seleccionar 1 monstruo \"Utopía\" que controles; equípale esta carta en tu mano o Campo. Éste gana 800 ATK. Una vez por turno, si uno o más monstruos son Invocados de Modo Especial por un efecto activado de tu adversario: puedes hacer que el monstruo equipado gane 1600 ATK. (Esta ganancia de ATK permanece aun si esta carta deja el Campo o el monstruo deja de ser afectado por efectos de cartas). Si activas el efecto del monstruo equipado desacoplando su material, puedes mandar esta carta al Cementerio en lugar de 1 de esos materiales.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

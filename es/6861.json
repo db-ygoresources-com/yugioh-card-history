@@ -1,0 +1,15 @@
+{
+  "id": 6861,
+  "type": "monster",
+  "name": "Caballero de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Gana 400 ATK por cada monstruo Aqua que controles. Una vez por turno: puedes activar este efecto; puedes Invocar de Modo Normal 1 monstruo de AGUA durante tu Main Phase de este turno, además de tu Invocación Normal/Colocación (sólo puedes ganar este efecto una vez por turno), y además por el resto de este turno no puedes Invocar monstruos de Modo Normal o Especial, excepto monstruos de AGUA.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

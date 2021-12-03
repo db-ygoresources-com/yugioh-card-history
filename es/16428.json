@@ -1,0 +1,19 @@
+{
+  "id": 16428,
+  "type": "monster",
+  "name": "Dragón Hambriento Venemigo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo de OSCURIDAD + 1 Monstruo de Péndulo\nPuedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta la End Phase, el nombre de esta carta se convierte en el nombre original de ese monstruo y reemplaza este efecto con los efectos originales de ese monstruo y después, ese monstruo pierde 500 ATK/DEF, sus efectos son negados, y además inflige 500 puntos de daño a tu adversario. Sólo puedes usar este efecto de \"Dragón Hambriento Venemigo\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Cada vez que una o más cartas son mandadas del Campo al Cementerio, pon 1 Contador Venemigo en esta carta por cada carta mandada. Todos los monstruos en el Campo, excepto los monstruos Dragón de OSCURIDAD, pierden 200 ATK por cada Contador Venemigo en el Campo. Una vez por turno, puedes reducir a 0 el daño de batalla que recibas.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

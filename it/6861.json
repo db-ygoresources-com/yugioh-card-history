@@ -1,0 +1,15 @@
+{
+  "id": 6861,
+  "type": "monster",
+  "name": "Cavaliere del Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Guadagna 400 ATK per ogni mostro Acqua che controlli. Una volta per turno: puoi attivare questo effetto; puoi Evocare Normalmente 1 mostro ACQUA durante la tua Main Phase in questo turno, in aggiunta alla tua Evocazione Normale/Posizionamento (puoi guadagnare questo effetto una sola volta per turno), inoltre non puoi Evocare Normalmente o Specialmente mostri per il resto di questo turno, eccetto mostri ACQUA.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

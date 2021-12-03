@@ -1,0 +1,16 @@
+{
+  "id": 16414,
+  "type": "monster",
+  "name": "Centauro Mina",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo Guerrero de LUZ + 1 monstruo Bestia\nUna vez por turno, durante tu turno, cuando tu adversario activa una Carta de Trampa (Efecto Rápido): puedes negar la activación y, si lo haces, Coloca esa carta. Sólo puedes usar cada uno de los siguientes efectos de \"Centauro Mina\" una vez por turno. Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano o Cementerio, 1 monstruo de Nivel 2 o menor. Si esta carta es mandada al Cementerio como Material de Sincronía para un monstruo Guerrero de VIENTO: puedes destruir 1 monstruo boca arriba en el Campo.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Guerrero-Bestia",
+    "Fusión",
+    "Efecto"
+  ]
+}

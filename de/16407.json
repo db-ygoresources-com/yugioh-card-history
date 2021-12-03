@@ -1,0 +1,15 @@
+{
+  "id": 16407,
+  "type": "monster",
+  "name": "Dracheroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug, falls sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte bis zum Ende dieses Spielzugs zu einem Drache-Monster werden lassen, solange sie sich im Friedhof befindet. Du kannst diese Karte abwerfen und dann 1 dieser Effekte aktivieren;\n●Füge deiner Hand 1 Nicht-WIND „roid“-Monster von deinem Deck hinzu.\n●In diesem Spielzug kann die Aktivierung deiner Karten und Effekte, die einen Effekt enthalten, der ein Fusionsmonster als Fusionsbeschwörung beschwört, nicht annulliert werden, zusätzlich kann dein Gegner weder Karten noch Effekte aktivieren, wenn ein Monster auf diese Art als Fusionsbeschwörung beschworen wird.\nDu kannst diesen Effekt von „Dracheroid“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6861,
+  "type": "monster",
+  "name": "Chevalier de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Gagne 400 ATK pour chaque monstre Aqua que vous contrôlez. Une fois par tour : vous pouvez activer cet effet ; vous pouvez Invoquer Normalement 1 monstre EAU durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour), et aussi, vous ne pouvez Invoquer ni Normalement ni Spécialement de monstres (monstres EAU exclus) le reste de ce tour.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16414,
+  "type": "monster",
+  "name": "Mina la Centauresse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre LUMIÈRE Guerrier + 1 monstre Bête\nUne fois par tour, durant votre tour, lorsque votre adversaire active une Carte Piège (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, Posez la carte. Vous ne pouvez utiliser chacun des effets suivants de \"Mina la Centauresse\" qu'une fois par tour. Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre de max. Niveau 2 depuis votre main ou Cimetière. Si cette carte est envoyée au Cimetière comme Matériel Synchro pour un monstre VENT Guerrier : vous pouvez détruire 1 monstre face recto sur le Terrain.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Bête-Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

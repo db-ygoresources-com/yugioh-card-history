@@ -1,0 +1,15 @@
+{
+  "id": 16398,
+  "type": "monster",
+  "name": "Kuribeille",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Kuriboh\".)\nLorsque cette carte ou un autre monstre \"Kuriboh\" que vous contrôlez est détruit au combat : vous pouvez ajouter 1 Magie/Piège depuis votre Deck à votre main qui liste la carte \"Kuriboh\" dans son texte. Vous ne pouvez utiliser cet effet de \"Kuribeille\" qu'une fois par tour. Une fois par tour, lorsqu'un monstre de l'adversaire déclare une attaque tant que vous contrôlez un autre monstre \"Kuriboh\" : vous pouvez changer à 0 l'ATK de tous les autres monstres que vous contrôlez jusqu'à la fin de ce tour, et si vous le faites, annulez l'attaque.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

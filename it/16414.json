@@ -1,0 +1,16 @@
+{
+  "id": 16414,
+  "type": "monster",
+  "name": "Centauro Mina",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 mostro LUCE Guerriero + 1 mostro Bestia\nUna volta per turno, durante il tuo turno, quando il tuo avversario attiva una Carta Trappola (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, Posiziona quella carta. Puoi utilizzare ognuno dei seguenti effetti di \"Centauro Mina\" una sola volta per turno. Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro di Livello 2 o inferiore dalla tua mano o Cimitero. Se questa carta viene mandata al Cimitero come Materiale Synchro per un mostro VENTO Guerriero: puoi distruggere 1 mostro scoperto sul Terreno.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Guerriero-Bestia",
+    "Fusione",
+    "Effetto"
+  ]
+}

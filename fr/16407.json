@@ -1,0 +1,15 @@
+{
+  "id": 16407,
+  "type": "monster",
+  "name": "Dragonroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, si cette carte est dans votre Cimetière : jusqu'à la fin de ce tour, vous pouvez faire devenir cette carte un monstre Dragon tant qu'elle est dans le Cimetière. Vous pouvez défausser cette carte, puis activez 1 de ces effets ;\n●Ajoutez 1 monstre non-VENT \"roid\" depuis votre Deck à votre main.\n●Ce tour, l'activation de vos cartes et effets qui incluent un effet qui Invoque par Fusion un Monstre Fusion ne peut pas être annulée, et aussi, votre adversaire ne peut activer ni de cartes ni d'effets lorsqu'un monstre est Invoqué par Fusion de cette façon.\nVous ne pouvez utiliser cet effet de \"Dragonroid\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 16437,
+  "type": "monster",
+  "name": "Hélicelion Électroménageur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 monstre \"Électroménageur\"\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Cette carte peut attaquer directement. Une fois par tour, durant le calcul des dommages, si votre monstre combat un monstre de l'adversaire, tant que cette carte est co-liée (Effet Rapide) : durant ce calcul des dommages uniquement, vous pouvez faire devenir 0 l'ATK du monstre de l'adversaire. Une fois par tour, durant le calcul des dommages, si ce monstre qui n'est pas co-lié combat un monstre de l'adversaire (Effet Rapide) : durant ce calcul des dommages uniquement, vous pouvez faire devenir 0 l'ATK du monstre de l'adversaire.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

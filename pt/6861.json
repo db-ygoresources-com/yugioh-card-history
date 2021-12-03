@@ -1,0 +1,15 @@
+{
+  "id": 6861,
+  "type": "monster",
+  "name": "Cavaleiro de Gelo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Ganha 400 de ATK para cada monstro Aqua que você controla. Uma vez por turno: você pode ativar este efeito; você pode Invocar por Invocação-Normal 1 monstro de ÁGUA durante sua Fase Principal neste turno, em adição à sua Invocação-Normal/Baixar (padrão) (você só pode se aproveitar deste efeito uma vez por turno) e, além disso, você não pode Invocar monstros por Invocação-Normal ou Especial pelo resto deste turno, exceto monstros de ÁGUA.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Efeito"
+  ]
+}

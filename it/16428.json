@@ -1,0 +1,19 @@
+{
+  "id": 16428,
+  "type": "monster",
+  "name": "Drago Velenemico Affamato",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 mostro OSCURITÀ + 1 Mostro Pendulum\nPuoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; fino alla End Phase, il nome di questa carta diventa il nome originale di quel mostro e sostituisci questo effetto con gli effetti originali di quel mostro, poi quel mostro perde 500 ATK/DEF, i suoi effetti sono annullati, inoltre infliggi 500 danni al tuo avversario. Puoi utilizzare questo effetto di \"Drago Velenemico Affamato\" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Ogni volta che una o più carte vengono mandate dal Terreno al Cimitero, metti 1 Segnalino Velenemico su questa carta per ogni carta mandata. Tutti i mostri sul Terreno, eccetto i mostri OSCURITÀ Drago, perdono 200 ATK per ogni Segnalino Velenemico sul Terreno. Una volta per turno, puoi ridurre il danno da combattimento che subisci a 0.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}
