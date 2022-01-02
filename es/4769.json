@@ -4,12 +4,13 @@
   "name": "Parásito Paracida",
   "englishAttribute": "earth",
   "localizedAttribute": "TIERRA",
-  "effectText": "VOLTEO: Pon esta carta boca arriba en el Deck de tu adversario y barájala. Cuando tu adversario roba esta carta, es Invocada mediante una Invocación Especial al Campo de tu adversario en Posición de Defensa boca arriba e inflige 1000 puntos de daño a sus Life Points. Entonces, mientras esta carta permanezca boca arriba en el Campo, todos los monstruos que tu adversario controle se convierten en monstruos Tipo Insecto.",
+  "effectText": "VOLTEO: Baraja esta carta boca arriba al Deck de tu adversario.\nSi robas esta carta después de que fuera añadida a tu Deck por su efecto: Invócala de Modo Especial en Posición de Defensa y, si lo haces, recibe 1000 puntos de daño. Todos los monstruos controlados por el jugador que Invocó esta carta por su efecto se convierten en monstruos Insecto.",
   "level": 2,
   "atk": 500,
   "def": 300,
   "properties": [
     "Insecto",
+    "Volteo",
     "Efecto"
   ]
 }
