@@ -1,0 +1,15 @@
+{
+  "id": 16750,
+  "type": "monster",
+  "name": "Magierz-Krieger der Relikte",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht angreifen, es sei denn, du kontrollierst eine „Abenteurer-Spielmarke“. Du kannst jeden der folgenden Effekte von „Magierz-Krieger der Relikte“ nur einmal pro Spielzug verwenden. Falls du eine „Abenteurer-Spielmarke“ kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Am Ende der Battle Phase, falls dein Monster gekämpft hat, das „Abenteurer-Spielmarke“ erwähnt: Du kannst 1 Falle, die „Abenteurer-Spielmarke“ erwähnt, direkt von deinem Deck setzen.",
+  "level": 4,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}
