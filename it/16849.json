@@ -1,0 +1,19 @@
+{
+  "id": 16849,
+  "type": "monster",
+  "name": "D/D/D Deus Machinex Re dell'Ideazione",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri Demone di Livello 10\nPuoi anche Evocare Xyz questa carta utilizzando un mostro \"D/D/D\" che controlli come materiale. (Trasferisci i suoi materiali su questa carta.) Puoi controllare solo 1 \"D/D/D Deus Machinex Re dell'Ideazione\" nella tua Zona Mostri. Una volta per Catena, quando una Carta Mostro controllata dal tuo avversario attiva il suo effetto (Effetto Rapido): puoi staccare 2 materiali da questa carta, oppure distruggere 1 carta \"Contratto Oscuro\" che controlli, e, se lo fai, attacca quella carta dell'avversario a questa carta come materiale. Una volta per turno, durante la tua Standby Phase: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Mentre hai una carta nella tua altra Zona Pendulum: puoi scegliere come bersaglio 1 Mostro Pendulum che controlli o nel tuo Cimitero; Evoca Specialmente la carta nella tua altra Zona Pendulum e, se lo fai, metti quel Mostro Pendulum scelto come bersaglio nella tua Zona Pendulum. Puoi utilizzare questo effetto di \"D/D/D Deus Machinex Re dell'Ideazione\" una sola volta per turno.",
+  "pendScale": 10,
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Xyz",
+    "Pendulum",
+    "Effetto"
+  ]
+}

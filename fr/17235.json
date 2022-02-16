@@ -1,0 +1,16 @@
+{
+  "id": 17235,
+  "type": "monster",
+  "name": "Firestarter Libromancien",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Libromancien\". Si cette carte est Invoquée Rituellement en utilisant un ou plusieurs monstres sur le Terrain, elle ne peut être ni détruite ni bannie par des effets de carte. Gagne 200 ATK/DEF chaque fois que votre adversaire active une carte ou un effet, tant que vous contrôlez cette carte avec une ATK inférieure à 3000 dans la Zone Monstre.",
+  "level": 3,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Cyberse",
+    "Rituel",
+    "Effet"
+  ]
+}

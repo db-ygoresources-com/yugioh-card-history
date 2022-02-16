@@ -1,0 +1,15 @@
+{
+  "id": 17229,
+  "type": "monster",
+  "name": "Escamas de Roca",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta es Invocada de Modo Especial: puedes seleccionar otro monstruo boca arriba en el Campo; equipa ese monstruo boca arriba a esta carta. Al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario con los mismos Tipo y Atributo que la Carta de Monstruo equipada por efecto de esta carta: puedes destruir ese monstruo del adversario. Sólo puedes usar cada efecto de \"Escamas de Roca\" una vez por turno.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1600,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

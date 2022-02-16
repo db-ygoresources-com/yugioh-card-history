@@ -1,0 +1,15 @@
+{
+  "id": 16838,
+  "type": "monster",
+  "name": "Darton the Mechanical Monstrosity",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, during your Main Phase: You can check the difference between the current and original ATK of each monster on the field, add up the total of each of those differences, and make this monster's original ATK become that combined amount until the end of your opponent's next turn.",
+  "level": 1,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

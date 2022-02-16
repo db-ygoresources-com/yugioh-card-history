@@ -1,0 +1,15 @@
+{
+  "id": 16809,
+  "type": "monster",
+  "name": "Dragon à Réaction aux Yeux Bleus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Les autres cartes que vous contrôlez ne peuvent pas être détruites par des effets de carte de votre adversaire. Vous ne pouvez utiliser chacun des effets suivants de \"Dragon à Réaction aux Yeux Bleus\" qu'une fois par tour, et pouvez uniquement les activer tant que \"Dragon Blanc aux Yeux Bleus\" est sur votre Terrain ou dans votre Cimetière. Si une ou plusieurs cartes sur le Terrain sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque la carte a été détruite) ou la main (même si elle n'y était pas). Au début de la Damage Step, si cette carte combat : vous pouvez cibler 1 carte contrôlée par votre adversaire ; renvoyez-la à la main.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

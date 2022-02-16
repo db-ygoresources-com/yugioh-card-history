@@ -1,0 +1,15 @@
+{
+  "id": 16820,
+  "type": "monster",
+  "name": "Fantôme Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement : vous pouvez envoyer 1 autre carte \"Vampire\" depuis votre main ou Terrain face recto au Cimetière ; ajoutez 1 monstre \"Vampire\" de min. Niveau 4 depuis votre Deck à votre main, et si vous le faites, envoyez 1 monstre \"Vampire\" de max. Niveau 2 depuis votre Deck au Cimetière. Durant la Main Phase (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière, et payez 500 LP ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Vampire\". Vous ne pouvez utiliser chaque effet de \"Fantôme Vampire\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

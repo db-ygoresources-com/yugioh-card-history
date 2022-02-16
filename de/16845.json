@@ -1,0 +1,16 @@
+{
+  "id": 16845,
+  "type": "monster",
+  "name": "Wächter-Schimäre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 Monster mit unterschiedlichen Namen\nMuss erst als Fusionsbeschwörung beschworen werden, verwende dafür nur Fusionsmaterial von deiner Hand und Spielfeldseite, wobei du von jedem Ort mindestens 1 Monster verwendest. Falls diese Karte durch eine Zauberkarte oder einen Zaubereffekt als Fusionsbeschwörung beschworen wird: Du kannst Karten in Höhe der Anzahl der Karten, die als Material von der Hand verwendet wurden, ziehen und falls du dies tust, zerstöre Karten, die dein Gegner kontrolliert, in Höhe der Anzahl der Karten, die als Material vom Spielfeld verwendet wurden. Du kannst diesen Effekt von „Wächter-Schimäre“ nur einmal pro Spielzug verwenden. Solange „Polymerisation“ in deinem Friedhof liegt, kann dein Gegner diese Karte nicht als Ziel für Karteneffekte wählen.",
+  "level": 9,
+  "atk": 3300,
+  "def": 3300,
+  "properties": [
+    "Ungeheuer",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 16849,
+  "type": "monster",
+  "name": "D/D/D Deus Machinex, Rey Inventor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Demonio de Nivel 10\nTambién puedes Invocar Xyz esta carta usando un monstruo \"D/D/D\" que controles como material. (Transfiere sus materiales a esta carta). Sólo puedes controlar 1 \"D/D/D Deus Machinex, Rey Inventor\" en tu Zona de Monstruos. Una vez por Cadena, cuando una Carta de Monstruo que controle tu adversario active su efecto (Efecto Rápido): puedes desacoplar 2 materiales de esta carta, o destruir 1 carta \"Contrato Oscuro\" que controles y, si lo haces, acopla esa carta del adversario a esta carta como material. Una vez por turno, durante tu Standby Phase: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Mientras tengas una carta en tu otra Zona de Péndulo: puedes seleccionar 1 Monstruo de Péndulo que controles o en tu Cementerio; Invoca de Modo Especial la carta en tu otra Zona de Péndulo y, si lo haces, pon ese Monstruo de Péndulo seleccionado en tu Zona de Péndulo. Sólo puedes usar este efecto de \"D/D/D Deus Machinex, Rey Inventor\" una vez por turno.",
+  "pendScale": 10,
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Xyz",
+    "Péndulo",
+    "Efecto"
+  ]
+}

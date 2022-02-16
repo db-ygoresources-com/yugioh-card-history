@@ -1,0 +1,16 @@
+{
+  "id": 16845,
+  "type": "monster",
+  "name": "Gardien Chimère",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres de noms différents\nDoit d'abord être Invoquée par Fusion en utilisant uniquement des Matériels Fusion depuis votre main et Terrain, avec min. 1 monstre de chaque. Si cette carte est Invoquée par Fusion par une Carte Magie ou effet de Magie : vous pouvez piocher un nombre de cartes égal au nombre de cartes utilisées comme Matériel depuis la main, et si vous le faites, détruisez un nombre de cartes contrôlées par votre adversaire, égal au nombre de cartes utilisées comme Matériel depuis le Terrain. Vous ne pouvez utiliser cet effet de \"Gardien Chimère\" qu'une fois par tour. Tant que \"Polymérisation\" est dans votre Cimetière, votre adversaire ne peut pas cibler cette carte avec des effets de carte.",
+  "level": 9,
+  "atk": 3300,
+  "def": 3300,
+  "properties": [
+    "Bête",
+    "Fusion",
+    "Effet"
+  ]
+}

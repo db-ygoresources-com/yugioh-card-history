@@ -1,0 +1,15 @@
+{
+  "id": 16838,
+  "type": "monster",
+  "name": "Darton la Mostruosità Meccanica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno, durante la tua Main Phase: puoi controllare la differenza tra l'ATK attuale e originale di ogni mostro sul Terreno, fare la somma di quelle differenze, e far diventare l'ATK originale di questo mostro quella somma, fino alla fine del prossimo turno del tuo avversario.",
+  "level": 1,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17227,
+  "type": "monster",
+  "name": "Dragonpica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial 1 monstruo Insecto de Nivel 4 o menor desde tu mano. Puedes desterrar 1 monstruo Insecto de Nivel 4 o menor en tu mano, Cementerio o Campo boca arriba, y después seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno aumenta su Nivel en el Nivel del monstruo desterrado. Sólo puedes usar cada efecto de \"Dragonpica\" una vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insecto",
+    "Cantante",
+    "Efecto"
+  ]
+}

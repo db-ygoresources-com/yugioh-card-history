@@ -1,0 +1,15 @@
+{
+  "id": 16838,
+  "type": "monster",
+  "name": "Darton la Monstruosité Mécanique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, durant votre Main Phase : vous pouvez vérifier la différence entre l'ATK actuelle et d'origine de chaque monstre sur le Terrain, additionnez chacune de ces différences, et faites devenir l'ATK d'origine de ce monstre le montant total jusqu'à la fin du prochain tour de votre adversaire.",
+  "level": 1,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

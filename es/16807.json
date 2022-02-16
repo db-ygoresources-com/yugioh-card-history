@@ -1,0 +1,15 @@
+{
+  "id": 16807,
+  "type": "monster",
+  "name": "Conjurador Dimensional",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Dimensión Mágica\" en tu Deck o Cementerio. Si esta carta es mandada de la Zona de Monstruos al Cementerio: puedes robar cartas igual al número de monstruos Lanzador de Conjuros que controlas, y después pon cartas de tu mano en la parte superior de tu Deck en cualquier orden, igual al número de cartas que robaste. Sólo puedes usar cada efecto de \"Conjurador Dimensional\" una vez por turno.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

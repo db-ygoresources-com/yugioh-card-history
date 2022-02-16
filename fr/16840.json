@@ -1,0 +1,16 @@
+{
+  "id": 16840,
+  "type": "monster",
+  "name": "Relique Blanche de Dogmatika",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Dogmatikamacabre\". Si cette carte est Invoquée Rituellement : vous pouvez cibler 2 monstres face recto sur le Terrain ; faites gagner à 1 de ces monstres une ATK égale à l'ATK de l'autre monstre. Les monstres \"Dogmatika\" de min. Niveau 8 que vous contrôlez ne peuvent pas être détruits au combat. Si un ou plusieurs monstres sont Invoqués Spécialement depuis l'Extra Deck de votre adversaire (sauf durant la Damage Step) : vous pouvez regarder l'Extra Deck de votre adversaire, et envoyez-en 1 monstre au Cimetière. Vous ne pouvez utiliser cet effet de \"Relique Blanche de Dogmatika\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

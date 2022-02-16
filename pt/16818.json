@@ -1,0 +1,18 @@
+{
+  "id": 16818,
+  "type": "monster",
+  "name": "D/D Grifo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se você controlar um monstro \"D/D\": você pode Invocar este card por Invocação-Especial da sua mão em Posição de Defesa. Se este card for Invocado por Invocação-Pêndulo: você pode descartar 1 card \"D/D\" ou \"Pacto Obscuro\"; compre 1 card. Se este card for Invocado por Invocação-Especial do Cemitério: você pode adicionar 1 card \"D/D\" do seu Deck à sua mão, exceto \"D/D Grifo\". Você só pode usar cada efeito de \"D/D Grifo\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 monstro Demônio que você controla; ele ganha 500 de ATK (até o final deste turno) para cada Magia/Armadilha \"Pacto Obscuro\" com nomes diferentes atualmente no seu campo ou no seu Cemitério e, depois, destrua este card. Você só pode usar este efeito de \"D/D Grifo\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

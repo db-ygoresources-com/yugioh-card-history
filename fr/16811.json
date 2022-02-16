@@ -1,0 +1,15 @@
+{
+  "id": 16811,
+  "type": "monster",
+  "name": "Kosmochlor Jadeglace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si une carte face recto est dans une Zone Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Kosmochlor Jadeglace\" qu'une fois par tour de cette façon. Tant que \"Berceau Enion de Cénote Jadeglace\" est sur le Terrain, les monstres contrôlés par votre adversaire ne peuvent activer leurs effets que le tour où ils sont Invoqués. Si votre monstre \"Jadeglace\" combat un monstre de l'adversaire, le monstre de l'adversaire perd 1000 ATK durant ce calcul des dommages uniquement.",
+  "level": 10,
+  "atk": 1500,
+  "def": 3000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

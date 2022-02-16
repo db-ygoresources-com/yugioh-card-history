@@ -1,0 +1,16 @@
+{
+  "id": 16839,
+  "type": "monster",
+  "name": "Ilusión del Caos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Forma del Caos\". Puedes mostrar esta carta en tu mano; añade a tu mano 1 \"Mago Oscuro\", o 1 monstruo que no sea de Ritual que lo mencione, en tu Deck, y después pon en la parte superior del Deck 1 carta en tu mano. Cuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes devolver esta carta a la mano y, si lo haces, Invoca de Modo Especial 1 \"Mago Oscuro\" desde tu Cementerio y, si haces eso, niega ese efecto activado. Sólo puedes usar cada efecto de \"Ilusión del Caos\" una vez por turno.",
+  "level": 7,
+  "atk": 2100,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

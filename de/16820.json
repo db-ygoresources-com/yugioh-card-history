@@ -1,0 +1,15 @@
+{
+  "id": 16820,
+  "type": "monster",
+  "name": "Vampirgeist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 andere „Vampir“-Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; füge deiner Hand 1 „Vampir“-Monster der Stufe 4 oder höher von deinem Deck hinzu und falls du dies tust, lege 1 „Vampir“-Monster der Stufe 2 oder niedriger von deinem Deck auf den Friedhof. Während der Main Phase (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen und 500 LP zahlen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 „Vampir“-Monster als Normalbeschwörung. Du kannst jeden Effekt von „Vampirgeist“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

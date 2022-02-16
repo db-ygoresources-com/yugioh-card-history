@@ -1,0 +1,18 @@
+{
+  "id": 16818,
+  "type": "monster",
+  "name": "D/D Grifo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas un monstruo \"D/D\": puedes Invocar esta carta de Modo Especial desde tu mano en Posición de Defensa. Si esta carta es Invocada por Péndulo: puedes descartar 1 carta \"D/D\" o \"Contrato Oscuro\"; roba 1 carta. Si esta carta es Invocada de Modo Especial desde el Cementerio: puedes añadir a tu mano 1 carta \"D/D\" en tu Deck, excepto \"D/D Grifo\". Sólo puedes usar cada efecto de \"D/D Grifo\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar 1 monstruo Demonio que controles; éste gana 500 ATK (hasta el final de este turno) por cada Mágica/Trampa \"Contrato Oscuro\" con nombres diferentes en tu Campo o en tu Cementerio en este momento, y después destruye esta carta. Sólo puedes usar este efecto de \"D/D Grifo\" una vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

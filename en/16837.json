@@ -1,0 +1,15 @@
+{
+  "id": 16837,
+  "type": "monster",
+  "name": "Shining Piecephilia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Cannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can place 1 Piece Counter on this card (max. 4), then you can apply the following effect, based on the number of Piece Counters on it.\n●1: Place 1 monster from your Deck on top of your Deck.\n●2: Draw 1 card.\n●3: Add 1 monster from your Deck to your hand.\n●4: Add 1 card from your Deck to your hand.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Rock",
+    "Effect"
+  ]
+}

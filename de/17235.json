@@ -1,0 +1,16 @@
+{
+  "id": 17235,
+  "type": "monster",
+  "name": "Libromant Firestarter",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst diese Karte mit einer „Libromant“-Karte als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wird, indem ein oder mehr Monster auf dem Spielfeld verwendet werden, kann sie durch Karteneffekte weder zerstört noch verbannt werden. Erhält jedes Mal, wenn dein Gegner eine Karte oder einen Effekt aktiviert, solange du diese Karte mit weniger als 3000 ATK in der Monsterzone kontrollierst, 200 ATK/DEF.",
+  "level": 3,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Cyberse",
+    "Ritual",
+    "Effekt"
+  ]
+}

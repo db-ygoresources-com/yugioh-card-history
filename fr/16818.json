@@ -1,0 +1,18 @@
+{
+  "id": 16818,
+  "type": "monster",
+  "name": "D/D Griffon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous contrôlez un monstre \"D/D\" : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense. Si cette carte est Invoquée par Pendulation : vous pouvez défausser 1 carte \"D/D\" ou \"Contrat des Ténèbres\" ; piochez 1 carte. Si cette carte est Invoquée Spécialement depuis le Cimetière : vous pouvez ajouter 1 carte \"D/D\" (\"D/D Griffon\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"D/D Griffon\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 monstre Démon que vous contrôlez ; il gagne 500 ATK (jusqu'à la fin de ce tour) pour chaque Magie/Piège \"Contrat des Ténèbres\" de noms différents actuellement sur votre Terrain ou dans votre Cimetière, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"D/D Griffon\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

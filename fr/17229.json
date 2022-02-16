@@ -1,0 +1,15 @@
+{
+  "id": 17229,
+  "type": "monster",
+  "name": "Écailles de Pierre",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 autre monstre face recto sur le Terrain ; équipez le monstre face recto à cette carte. Au début de la Damage Step, si cette carte combat un monstre de l'adversaire du même Type et Attribut que la Carte Monstre équipée par l'effet de cette carte : vous pouvez détruire le monstre de l'adversaire. Vous ne pouvez utiliser chaque effet de \"Écailles de Pierre\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1600,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

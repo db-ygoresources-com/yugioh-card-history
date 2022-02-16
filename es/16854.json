@@ -1,0 +1,19 @@
+{
+  "id": 16854,
+  "type": "monster",
+  "name": "Dharc el Encantador Oscuro, Sombrío",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos, incluyendo un monstruo de OSCURIDAD\n(Esta carta se trata siempre como una carta \"Familiar Poseído\").\nPuedes seleccionar 1 monstruo de OSCURIDAD en el Cementerio de tu adversario; Invócalo de Modo Especial a tu zona a la que apunte esta carta. Si esta carta Invocada por Enlace es destruida en batalla, o es destruida por el efecto de una carta del adversario mientras está en la Zona de Monstruos de su dueño: puedes añadir a tu mano 1 monstruo de OSCURIDAD con 1500 DEF o menos en tu Deck. Sólo puedes usar cada efecto de \"Dharc el Encantador Oscuro, Sombrío\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 16849,
+  "type": "monster",
+  "name": "D/D/D Roi Planificateur Deus Machinex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres Démon de Niveau 10\nVous pouvez aussi Invoquer par Xyz cette carte en utilisant un monstre \"D/D/D\" que vous contrôlez comme Matériel. (Transférez ses Matériels à cette carte.) Vous ne pouvez contrôler qu'1 \"D/D/D Roi Planificateur Deus Machinex\" dans votre Zone Monstre. Une fois par Chaîne, lorsqu'une Carte Monstre contrôlée par votre adversaire active son effet (Effet Rapide) : vous pouvez soit détacher 2 Matériels de cette carte soit détruire 1 carte \"Contrat des Ténèbres\" que vous contrôlez, et si vous le faites, attachez la carte de l'adversaire à cette carte comme Matériel. Une fois par tour, durant votre Standby Phase : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Tant que vous avez une carte dans votre autre Zone Pendule : vous pouvez cibler 1 Monstre Pendule que vous contrôlez ou dans votre Cimetière ; Invoquez Spécialement la carte dans votre autre Zone Pendule, et si vous le faites, placez le Monstre Pendule ciblé dans votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"D/D/D Roi Planificateur Deus Machinex\" qu'une fois par tour.",
+  "pendScale": 10,
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Xyz",
+    "Pendule",
+    "Effet"
+  ]
+}

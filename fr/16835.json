@@ -1,0 +1,15 @@
+{
+  "id": 16835,
+  "type": "monster",
+  "name": "Hacker Fou",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant la End Phase : vous pouvez bannir cette carte que vous contrôlez ; prenez le contrôle d'1 monstre contrôlé par votre adversaire avec la plus faible ATK (en cas d'égalité, vous choisissez), mais tant qu'il est face recto sur votre Terrain, il ne peut pas activer ses effets, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Lien exclus) depuis l'Extra Deck. Vous ne pouvez utiliser chaque effet de \"Hacker Fou\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

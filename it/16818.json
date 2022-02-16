@@ -1,0 +1,18 @@
+{
+  "id": 16818,
+  "type": "monster",
+  "name": "D/D Grifone",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se controlli un mostro \"D/D\": puoi Evocare Specialmente questa carta dalla tua mano in Posizione di Difesa. Se questa carta viene Evocata Pendulum: puoi scartare 1 carta \"D/D\" o \"Contratto Oscuro\"; pesca 1 carta. Se questa carta viene Evocata Specialmente dal Cimitero: puoi aggiungere 1 carta \"D/D\" dal tuo Deck alla tua mano, eccetto \"D/D Grifone\". Puoi utilizzare ogni effetto di \"D/D Grifone\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 mostro Demone che controlli; esso guadagna 500 ATK (fino alla fine di questo turno) per ogni Magia/Trappola \"Contratto Oscuro\" con nomi diversi attualmente sul tuo Terreno o nel tuo Cimitero, poi distruggi questa carta. Puoi utilizzare questo effetto di \"D/D Grifone\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

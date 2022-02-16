@@ -1,0 +1,19 @@
+{
+  "id": 16849,
+  "type": "monster",
+  "name": "D/D/D Deviser King Deus Machinex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "2 Level 10 Fiend monsters\nYou can also Xyz Summon this card by using a \"D/D/D\" monster you control as material. (Transfer its materials to this card.) You can only control 1 \"D/D/D Deviser King Deus Machinex\" in your Monster Zone. Once per Chain, when a Monster Card your opponent controls activates its effect (Quick Effect): You can either detach 2 materials from this card, or destroy 1 \"Dark Contract\" card you control, and if you do, attach that opponent's card to this card as material. Once per turn, during your Standby Phase: You can place this card in your Pendulum Zone.",
+  "pendEffect": "While you have a card in your other Pendulum Zone: You can target 1 Pendulum Monster you control or in your GY; Special Summon the card in your other Pendulum Zone, and if you do, place that targeted Pendulum Monster in your Pendulum Zone. You can only use this effect of \"D/D/D Deviser King Deus Machinex\" once per turn.",
+  "pendScale": 10,
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Fiend",
+    "Xyz",
+    "Pendulum",
+    "Effect"
+  ]
+}

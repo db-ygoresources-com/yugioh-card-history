@@ -1,0 +1,16 @@
+{
+  "id": 16839,
+  "type": "monster",
+  "name": "Illusion du Chaos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Forme du Chaos\". Vous pouvez révéler cette carte dans votre main ; ajoutez 1 \"Magicien Sombre\", ou 1 monstre non-Rituel qui le mentionne, depuis votre Deck à votre main, puis placez 1 carte depuis votre main au-dessus du Deck. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez renvoyer cette carte à la main, et si vous le faites, Invoquez Spécialement 1 \"Magicien Sombre\" depuis votre Cimetière, et si vous faites ça, annulez l'effet activé. Vous ne pouvez utiliser chaque effet de \"Illusion du Chaos\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2100,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Rituel",
+    "Effet"
+  ]
+}

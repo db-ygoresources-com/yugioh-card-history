@@ -1,0 +1,16 @@
+{
+  "id": 17227,
+  "type": "monster",
+  "name": "Dragonpiqûre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre Insecte de max. Niveau 4 depuis votre main. Vous pouvez bannir 1 monstre Insecte de max. Niveau 4 depuis votre main, Cimetière ou Terrain face recto, puis ciblez 1 monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, augmentez son Niveau du Niveau du monstre banni. Vous ne pouvez utiliser chaque effet de \"Dragonpiqûre\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

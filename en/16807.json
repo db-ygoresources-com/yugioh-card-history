@@ -1,0 +1,15 @@
+{
+  "id": 16807,
+  "type": "monster",
+  "name": "Dimension Conjurer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is Normal or Special Summoned: You can add 1 \"Magical Dimension\" from your Deck or GY to your hand. If this card is sent from the Monster Zone to the GY: You can draw cards equal to the number of Spellcaster monsters you control, then place cards from your hand on top of your Deck in any order, equal to the number of cards you drew. You can only use each effect of \"Dimension Conjurer\" once per turn.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

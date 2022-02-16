@@ -1,0 +1,16 @@
+{
+  "id": 16840,
+  "type": "monster",
+  "name": "Reliquia Blanca de Dogmátik",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Dogmátikmacabro\". Si esta carta es Invocada por Ritual: puedes seleccionar 2 monstruos boca arriba en el Campo; haz que 1 de esos monstruos gane ATK igual al ATK del otro monstruo. Los monstruos \"Dogmátik\" de Nivel 8 o mayor que controlas no pueden ser destruidos en batalla. Si uno o más monstruos son Invocados de Modo Especial desde el Deck Extra de tu adversario (excepto durante el Damage Step): puedes mirar el Deck Extra de tu adversario y mandar al Cementerio 1 monstruo en él. Sólo puedes usar este efecto de \"Reliquia Blanca de Dogmátik\" una vez por turno.",
+  "level": 4,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16840,
+  "type": "monster",
+  "name": "Relíquia Branca de Dogmatika",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com \"Dogmatikamacabro\". Se este card for Invocado por Invocação-Ritual: você pode escolher 2 monstros com a face para cima no campo; faça com que 1 desses monstros ganhe ATK igual ao ATK do outro monstro. Monstros \"Dogmatika\" de Nível 8 ou mais que você controla não podem ser destruídos em batalha. Se um ou mais monstros forem Invocados por Invocação-Especial do Deck Adicional do seu oponente (exceto durante a Etapa de Dano): você pode olhar o Deck Adicional do seu oponente e enviar 1 monstro dali para o Cemitério. Você só pode usar este efeito de \"Relíquia Branca de Dogmatika\" uma vez por turno.",
+  "level": 4,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Mago",
+    "Ritual",
+    "Efeito"
+  ]
+}

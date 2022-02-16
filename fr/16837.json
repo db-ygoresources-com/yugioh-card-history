@@ -1,0 +1,15 @@
+{
+  "id": 16837,
+  "type": "monster",
+  "name": "Piecephilia Brillant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non destructible au combat. À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : vous pouvez placer 1 Compteur Piece sur cette carte (max. 4), puis vous pouvez appliquer l'effet suivant, selon le nombre de Compteurs Piece sur elle.\n●1 : Placez 1 monstre depuis votre Deck au-dessus de votre Deck.\n●2 : Piochez 1 carte.\n●3 : Ajoutez 1 monstre depuis votre Deck à votre main.\n●4 : Ajoutez 1 carte depuis votre Deck à votre main.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

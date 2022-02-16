@@ -1,0 +1,15 @@
+{
+  "id": 16807,
+  "type": "monster",
+  "name": "Conjurateur Dimensionnel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Dimension Magique\" depuis votre Deck ou Cimetière à votre main. Si cette carte est envoyée depuis la Zone Monstre au Cimetière : vous pouvez piocher un nombre de cartes égal au nombre de monstres Magicien que vous contrôlez, puis placez un nombre de cartes depuis votre main au-dessus de votre Deck dans l'ordre de votre choix, égal au nombre de cartes que vous avez piochées. Vous ne pouvez utiliser chaque effet de \"Conjurateur Dimensionnel\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

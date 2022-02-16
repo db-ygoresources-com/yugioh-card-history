@@ -1,0 +1,15 @@
+{
+  "id": 16829,
+  "type": "monster",
+  "name": "Magicien Marron Expérimenté",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte (max. 3) lorsque la Magie est résolue. Vous pouvez retirer 1 Compteur Magie de cette carte, puis activez 1 de ces effets ;\n●Cette carte gagne 1500 ATK et son Niveau augmente de 1.\n●Ajoutez 1 monstre \"Kuriboh\" ou 1 \"Multiplicateur\" depuis votre Deck ou Cimetière à votre main.\nVous ne pouvez utiliser cet effet de \"Magicien Marron Expérimenté\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16837,
+  "type": "monster",
+  "name": "Piecephilia Brillante",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser destruido en batalla. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: puedes poner 1 Contador Piece en esta carta (máx. 4), y después puedes aplicar el siguiente efecto, basado en el número de Contadores Piece en ella.\n●1: Pon en la parte superior de tu Deck 1 monstruo en tu Deck.\n●2: Roba 1 carta.\n●3: Añade a tu mano 1 monstruo en tu Deck.\n●4: Añade a tu mano 1 carta en tu Deck.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

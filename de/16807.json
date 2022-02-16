@@ -1,0 +1,15 @@
+{
+  "id": 16807,
+  "type": "monster",
+  "name": "Dimensionsbeschwörer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Magieartige Dimension“ von deinem Deck oder Friedhof hinzufügen. Falls diese Karte von der Monsterzone auf den Friedhof gelegt wird: Du kannst Karten in Höhe der Anzahl der Hexer-Monster ziehen, die du kontrollierst, dann lege Karten in Höhe der Anzahl der Karten, die du gezogen hast, von deiner Hand in beliebiger Reihenfolge auf dein Deck. Du kannst jeden Effekt von „Dimensionsbeschwörer“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

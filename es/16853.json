@@ -1,0 +1,20 @@
+{
+  "id": 16853,
+  "type": "monster",
+  "name": "Vampira Fascinadora",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ monstruos, incluyendo un monstruo Zombi\nSi esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo en el Cementerio de tu adversario; Invócalo de Modo Especial a tu Campo en Posición de Defensa, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos Zombi. Puedes Sacrificar 1 monstruo \"Vampiro/a\", y después seleccionar 1 monstruo que controle tu adversario; toma su control hasta la End Phase. Sólo puedes usar cada efecto de \"Vampira Fascinadora\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Zombi",
+    "Enlace",
+    "Efecto"
+  ]
+}

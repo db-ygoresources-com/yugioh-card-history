@@ -1,0 +1,15 @@
+{
+  "id": 16813,
+  "type": "monster",
+  "name": "Martin-Pêcheur de Création Jadeglace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez cibler 1 monstre EAU que vous contrôlez ; équipez-lui cette carte depuis votre main ou Terrain. Un monstre \"Jadeglace\" équipé avec cette carte peut attaquer tant qu'il est en Position de Défense. S'il le fait, appliquez sa DEF pour le calcul des dommages. Tant que cette carte est équipée à un monstre : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure ou égale à la DEF du monstre équipé ; Invoquez Spécialement cette carte, et si vous le faites, renvoyez le monstre ciblé à la main. Vous ne pouvez utiliser cet effet de \"Martin-Pêcheur de Création Jadeglace\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

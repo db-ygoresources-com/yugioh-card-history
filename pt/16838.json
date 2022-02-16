@@ -1,0 +1,15 @@
+{
+  "id": 16838,
+  "type": "monster",
+  "name": "Darton, a Monstruosidade Mecânica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, durante sua Fase Principal: você pode verificar a diferença entre o ATK atual e original de cada monstro no campo, somar essas diferenças e fazer com que o ATK original deste monstro se torne esse valor combinado até o final do próximo turno do seu oponente.",
+  "level": 1,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16840,
+  "type": "monster",
+  "name": "Weiße Reliquie der Dogmatika",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Dogmatikamakaber“ als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wird: Du kannst 2 offene Monster auf dem Spielfeld wählen; lass 1 der Monster ATK in Höhe der ATK des anderen Monsters erhalten. „Dogmatika“-Monster der Stufe 8 oder höher, die du kontrollierst, können nicht durch Kampf zerstört werden. Falls ein oder mehr Monster als Spezialbeschwörung vom Extra Deck deines Gegners beschworen werden (außer während des Damage Steps): Du kannst dir das Extra Deck deines Gegners ansehen und 1 Monster davon auf den Friedhof legen. Du kannst diesen Effekt von „Weiße Reliquie der Dogmatika“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 500,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Ritual",
+    "Effekt"
+  ]
+}

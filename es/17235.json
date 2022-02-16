@@ -1,0 +1,16 @@
+{
+  "id": 17235,
+  "type": "monster",
+  "name": "Firestarter de Libromancia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Libromancia\". Si esta carta es Invocada por Ritual usando uno o más monstruos en el Campo, no puede ser destruida, o desterrada, por efectos de cartas. Gana 200 ATK/DEF cada vez que tu adversario activa una carta o efecto, mientras tú controlas esta carta con ATK menor que 3000 en la Zona de Monstruos.",
+  "level": 3,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Ciberso",
+    "Ritual",
+    "Efecto"
+  ]
+}
