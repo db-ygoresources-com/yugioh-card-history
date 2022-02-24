@@ -1,0 +1,15 @@
+{
+  "id": 8527,
+  "type": "monster",
+  "name": "Comando de Flamvell",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser Invocado por Invocação-Especial. Deve ser Invocado por Invocação-Normal ao oferecer como Tributo 1 monstro \"Flamvell\" que você controla (mas pode Baixar de forma Normal). Uma vez por turno: você pode banir 1 monstro com 200 de DEF do seu Cemitério; cause dano ao seu oponente igual ao ATK desse monstro.",
+  "level": 6,
+  "atk": 2200,
+  "def": 200,
+  "properties": [
+    "Piro",
+    "Efeito"
+  ]
+}

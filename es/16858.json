@@ -4,7 +4,7 @@
   "name": "Discípulo Señalado",
   "englishAttribute": "spell",
   "localizedAttribute": "MÁGICA",
-  "effectText": "Cuando un efecto de monstruo que activó tu adversario se resuelve mientras controlas un Monstruo de Fusión Demonio de Nivel 8 o mayor con 0 ATK o DEF, puedes negar ese efecto activado. Al final del Damage Step, si monstruos con 0 ATK batallaron entre ellos: puedes destruir el monstruo batallante de tu adversario. Sólo puedes usar cada efecto de \"Discípulo Señalado\" una vez por turno.",
+  "effectText": "Cuando un efecto de monstruo que activó tu adversario se resuelve, si ese monstruo del adversario tiene 0 ATK o DEF, y tú controlas un Monstruo de Fusión Demonio de Nivel 8 o mayor, puedes negar ese efecto activado. Al final del Damage Step, si monstruos con 0 ATK batallaron entre ellos: puedes destruir el monstruo batallante de tu adversario. Sólo puedes usar cada efecto de \"Discípulo Señalado\" una vez por turno.",
   "englishProperty": "continuous",
   "localizedProperty": "Continua"
 }

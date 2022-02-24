@@ -4,7 +4,7 @@
   "name": "Disciple Marqué",
   "englishAttribute": "spell",
   "localizedAttribute": "MAGIE",
-  "effectText": "Lorsqu'un effet de monstre activé par votre adversaire est résolu tant que vous contrôlez un Monstre Fusion Démon de min. Niveau 8 avec 0 ATK ou DEF, vous pouvez annuler l'effet activé. À la fin de la Damage Step, si des monstres avec 0 ATK se sont combattus l'un et l'autre : vous pouvez détruire le monstre combattant de votre adversaire. Vous ne pouvez utiliser chaque effet de \"Disciple Marqué\" qu'une fois par tour.",
+  "effectText": "Lorsqu'un effet de monstre activé par votre adversaire est résolu, si le monstre de l'adversaire a 0 ATK ou DEF, et que vous contrôlez un Monstre Fusion Démon de min. Niveau 8, vous pouvez annuler l'effet activé. À la fin de la Damage Step, si des monstres avec 0 ATK se sont combattus l'un et l'autre : vous pouvez détruire le monstre combattant de votre adversaire. Vous ne pouvez utiliser chaque effet de \"Disciple Marqué\" qu'une fois par tour.",
   "englishProperty": "continuous",
   "localizedProperty": "Continu"
 }
