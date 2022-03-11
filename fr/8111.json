@@ -4,7 +4,7 @@
   "name": "Foreuse Thermique, Allié de la Justice",
   "englishAttribute": "dark",
   "localizedAttribute": "TÉNÈBRES",
-  "effectText": "Si un monstre LUMIÈRE face recto est sur le Terrain, détruisez cette carte. Si cette carte attaque un monstre en Position de Défense face verso, détruisez ce monstre immédiatement avec l'effet de cette carte sans le retourner face recto ou appliquer le calcul des dommages.",
+  "effectText": "Si un monstre LUMIÈRE est sur le Terrain, détruisez cette carte. Au début de la Damage Step, si cette carte attaque un monstre en Position de Défense face verso : détruisez le monstre face verso.",
   "level": 4,
   "atk": 1200,
   "def": 1200,

@@ -4,7 +4,7 @@
   "name": "Aliado de la Justicia Freno Marcha Atrás",
   "englishAttribute": "dark",
   "localizedAttribute": "OSCURIDAD",
-  "effectText": "Si hay monstruo de LUZ boca arriba en el Campo, destruye esta carta. Si esta carta ataca a un monstruo en Posición de Defensa boca abajo, destruye a ese monstruo inmediatamente con el efecto de esta carta sin voltearla boca arriba ni aplicar cálculo de daño.",
+  "effectText": "Si hay un monstruo de LUZ en el Campo, destruye esta carta. Al comienzo del Damage Step, si esta carta ataca a un monstruo en Posición de Defensa boca abajo: destruye ese monstruo boca abajo.",
   "level": 4,
   "atk": 1200,
   "def": 1200,

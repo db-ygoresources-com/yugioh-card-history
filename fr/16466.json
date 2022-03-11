@@ -1,0 +1,17 @@
+{
+  "id": 16466,
+  "type": "monster",
+  "name": "Répétiteur des Profondeurs",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "\"Diva des Profondeurs\" + 1+ monstre non-Syntoniseur\nUne fois par tour (Effet Rapide) : vous pouvez défausser 1 monstre EAU de max. Niveau 4 ; jusqu'à la fin de ce tour, cette carte gagne 800 ATK. Si cette carte Invoquée par Synchronisation est envoyée à votre Cimetière : vous pouvez cibler 1 monstre EAU de min. Niveau 5 (\"Répétiteur des Profondeurs\" exclu) dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres EAU exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Répétiteur des Profondeurs\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Serpent de Mer",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

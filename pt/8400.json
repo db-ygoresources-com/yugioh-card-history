@@ -1,0 +1,15 @@
+{
+  "id": 8400,
+  "type": "monster",
+  "name": "Mosca-da-Fruta de Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Todos os monstros que seu oponente controla perdem 300 de ATK/DEF para cada monstro \"Naturia\" que você controla. Uma vez por turno: você pode escolher 1 monstro que seu oponente controla com 0 de DEF; tome o controle do alvo até a Fase Final.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Inseto",
+    "Efeito"
+  ]
+}

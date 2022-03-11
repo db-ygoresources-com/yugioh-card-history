@@ -4,7 +4,7 @@
   "name": "Rompitore Inverso Alleato della Giustizia",
   "englishAttribute": "dark",
   "localizedAttribute": "OSCURITÀ",
-  "effectText": "Se sul Terreno c'è un mostro LUCE scoperto, distruggi questa carta. Se questa carta attacca un mostro coperto in Posizione di Difesa, distruggi quel mostro immediatamente con l'effetto di questa carta senza scoprirlo o applicare il calcolo dei danni.",
+  "effectText": "Se sul Terreno c'è un mostro LUCE, distruggi questa carta. All'inizio del Damage Step, se questa carta attacca un mostro coperto in Posizione di Difesa: distruggi quel mostro coperto.",
   "level": 4,
   "atk": 1200,
   "def": 1200,

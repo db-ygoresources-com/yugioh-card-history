@@ -1,0 +1,17 @@
+{
+  "id": 16466,
+  "type": "monster",
+  "name": "Repetidor del Océano Profundo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "\"Diva del Océano Profundo\" + 1+ monstruos que no sean Cantantes\nUna vez por turno (Efecto Rápido): puedes descartar 1 monstruo de AGUA de Nivel 4 o menor; esta carta gana 800 ATK hasta el final de este turno. Si esta carta Invocada por Sincronía es mandada a tu Cementerio: puedes seleccionar 1 monstruo de AGUA de Nivel 5 o mayor en tu Cementerio, excepto \"Repetidor del Océano Profundo\"; Invócalo de Modo Especial en Posición de Defensa, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos de AGUA. Sólo puedes usar este efecto de \"Repetidor del Océano Profundo\" una vez por turno.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Serpiente Marina",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16284,
+  "type": "monster",
+  "name": "Dragón Armado Martinete",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes mandar al Cementerio otro monstruo Dragón de VIENTO u otro monstruo Dragón de Nivel 7 o mayor en tu mano; Invoca esta carta de Modo Especial desde tu mano. Puedes mandar al Cementerio 1 monstruo \"Dragón Armado\" en tu mano o Deck, excepto \"Dragón Armado Martinete\", y después seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno, ese monstruo seleccionado gana ATK igual al Nivel del monstruo mandado al Cementerio x 300, y además este turno sólo puedes atacar con 1 monstruo. Sólo puedes usar cada efecto de \"Dragón Armado Martinete\" una vez por turno.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15689,
+  "type": "monster",
+  "name": "Dracheneinheit Guisarme",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 WIND Drache- oder Geflügeltes Ungeheuer-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber annulliere seine Effekte. Solange diese Karte ein Monster ausrüstet: Du kannst diese ausrüstende Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Dracheneinheit Guisarme“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 600,
+  "def": 1600,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 16466,
+  "type": "monster",
+  "name": "Ripetitore del Mare Profondo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "\"Diva del Mare Profondo\" + 1+ mostri non-Tuner\nUna volta per turno (Effetto Rapido): puoi scartare 1 mostro ACQUA di Livello 4 o inferiore; questa carta guadagna 800 ATK fino alla fine di questo turno. Se questa carta Synchro Evocata viene mandata al tuo Cimitero: puoi scegliere come bersaglio 1 mostro ACQUA di Livello 5 o superiore nel tuo Cimitero, eccetto \"Ripetitore del Mare Profondo\"; Evocalo Specialmente in Posizione di Difesa, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri ACQUA. Puoi utilizzare questo effetto di \"Ripetitore del Mare Profondo\" una sola volta per turno.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Serpente Marino",
+    "Synchro",
+    "Tuner",
+    "Effetto"
+  ]
+}
