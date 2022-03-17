@@ -4,7 +4,7 @@
   "name": "Ville Ténébreuse",
   "englishAttribute": "spell",
   "localizedAttribute": "MAGIE",
-  "effectText": "Lorsqu'un monstre \"HÉROS de la Destinée\" attaque, si son ATK est inférieure à l'ATK de la cible de l'attaque, le monstre attaquant gagne 1000 ATK durant le calcul des dommages uniquement.",
+  "effectText": "Si un monstre \"HÉROS de la Destinée\" attaque un monstre avec une ATK supérieure, le monstre attaquant gagne 1000 ATK durant le calcul des dommages uniquement.",
   "englishProperty": "field",
   "localizedProperty": "Terrain"
 }

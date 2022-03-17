@@ -4,7 +4,7 @@
   "name": "Ciudad Oscura",
   "englishAttribute": "spell",
   "localizedAttribute": "MÁGICA",
-  "effectText": "Cuando ataque un monstruo \"HÉROE del Destino\", si su ATK es menor que el ATK del objetivo del ataque, el monstruo atacante gana 1000 ATK, sólo durante el cálculo de daño.",
+  "effectText": "Si un monstruo \"HÉROE del Destino\" ataca a un monstruo con un ATK mayor, el monstruo atacante gana 1000 ATK, sólo durante el cálculo de daño.",
   "englishProperty": "field",
   "localizedProperty": "Campo"
 }

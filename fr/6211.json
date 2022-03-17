@@ -4,7 +4,7 @@
   "name": "Explosion de Mokey Mokey",
   "englishAttribute": "spell",
   "localizedAttribute": "MAGIE",
-  "effectText": "Lorsqu'un \"Mokey Mokey\" est face recto sur votre Terrain, si un monstre de Type Elfe sur votre Terrain est détruit, l'ATK des \"Mokey Mokey\" sur votre Terrain devient 3000 jusqu'à la End Phase de ce tour.",
+  "effectText": "Si un monstre Elfe face recto que vous contrôlez est détruit tant que vous contrôlez \"Mokey Mokey\", l'ATK de chaque \"Mokey Mokey\" que vous contrôlez va devenir 3000 jusqu'à la fin de ce tour.",
   "englishProperty": "continuous",
   "localizedProperty": "Continu"
 }

@@ -4,7 +4,7 @@
   "name": "Finstere Stadt",
   "englishAttribute": "spell",
   "localizedAttribute": "ZAUBER",
-  "effectText": "Wenn ein „Schicksals-HELD“-Monster angreift, falls seine ATK kleiner sind als die ATK des Angriffsziels, erhält das angreifende Monster nur während der Schadensberechnung 1000 ATK.",
+  "effectText": "Falls ein „Schicksals-HELD“-Monster ein Monster mit höheren ATK angreift, erhält das angreifende Monster nur während der Schadensberechnung 1000 ATK.",
   "englishProperty": "field",
   "localizedProperty": "Spielfeld"
 }
