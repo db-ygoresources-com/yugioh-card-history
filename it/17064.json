@@ -1,0 +1,16 @@
+{
+  "id": 17064,
+  "type": "monster",
+  "name": "La Dorata Spadanima",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando un mostro dichiara un attacco: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, annulla quell'attacco, poi, se controlli un Mostro Fusione che menziona \"Caduto di Albaz\" come materiale, puoi distruggere il mostro che ha dichiarato quell'attacco. Se un mostro viene bandito scoperto (eccetto durante il Damage Step): puoi bandire questa carta dal tuo Terreno o Cimitero; Evoca Specialmente dalla tua mano o Cimitero 1 mostro LUCE Incantatore il cui ATK è pari al suo stesso DEF. Puoi utilizzare questo effetto di \"La Dorata Spadanima\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Tuner",
+    "Effetto"
+  ]
+}

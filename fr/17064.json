@@ -1,0 +1,16 @@
+{
+  "id": 17064,
+  "type": "monster",
+  "name": "Âmépée - La Dorée",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsqu'un monstre déclare une attaque : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, annulez l'attaque, puis, si vous contrôlez un Monstre Fusion qui mentionne \"Albaz le Déchu\" comme Matériel, vous pouvez détruire le monstre qui a déclaré l'attaque. Si un monstre est banni face recto (sauf durant la Damage Step) : vous pouvez bannir cette carte depuis votre Terrain ou Cimetière ; Invoquez Spécialement 1 monstre LUMIÈRE Magicien depuis votre main ou Cimetière dont l'ATK est égale à sa propre DEF. Vous ne pouvez utiliser cet effet de \"Âmépée - La Dorée\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Syntoniseur",
+    "Effet"
+  ]
+}
