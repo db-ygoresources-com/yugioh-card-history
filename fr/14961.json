@@ -1,0 +1,18 @@
+{
+  "id": 14961,
+  "type": "monster",
+  "name": "D/D/D Roi du Vice Requiem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"D/D/D\" exclus). Un monstre \"D/D/D\" qui a été Invoqué par Fusion, Synchronisation, Xyz ou Lien en utilisant cette carte sur le Terrain comme Matériel gagne cet effet.\n●Une fois par tour : vous pouvez cibler 1 carte sur le Terrain ; mélangez 1 carte \"Contrat des Ténèbres\" depuis votre Terrain ou Cimetière dans le Deck, et si vous le faites, détruisez la cible, puis gagnez 1000 LP.\nVous ne pouvez utiliser cet effet de \"D/D/D Roi du Vice Requiem\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler un nombre de votre choix de cartes \"Contrat des Ténèbres\" que vous contrôlez ; détruisez-les, et si vous le faites, Invoquez Spécialement cette carte depuis votre Zone Pendule, puis vous pouvez augmenter ou réduire son Niveau du nombre détruit. Vous ne pouvez utiliser cet effet de \"D/D/D Roi du Vice Requiem\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

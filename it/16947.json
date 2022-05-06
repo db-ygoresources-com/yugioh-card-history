@@ -1,0 +1,15 @@
+{
+  "id": 16947,
+  "type": "monster",
+  "name": "Signora Guerriera Recluta",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando viene dichiarato un attacco che coinvolge un tuo altro mostro Guerriero e un mostro scoperto dell'avversario: puoi mandare questa carta dalla tua mano o Terreno al Cimitero; quel mostro dell'avversario perde ATK pari al suo ATK originale, fino alla fine di questo turno. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro TERRA Guerriero nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare ogni effetto di \"Signora Guerriera Recluta\" una sola volta per turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

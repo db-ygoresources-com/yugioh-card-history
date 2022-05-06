@@ -1,0 +1,18 @@
+{
+  "id": 13121,
+  "type": "monster",
+  "name": "D/D/D Roi de la Destinée Zéro Laplace",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 1 monstre \"D/D/D\". Avant le calcul des dommages, si cette carte combat un monstre de l'adversaire : vous pouvez activer cet effet ; jusqu'à la fin de la Damage Step, l'ATK de cette carte devient le double de l'ATK d'origine du monstre de l'adversaire. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. La première fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite, et vous ne recevez aucun dommage de combat de ce combat.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez ajouter 1 Monstre Pendule \"D/D/D\" face recto (\"D/D/D Roi de la Destinée Zéro Laplace\" exclu) depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de \"D/D/D Roi de la Destinée Zéro Laplace\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

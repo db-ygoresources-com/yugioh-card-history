@@ -1,0 +1,19 @@
+{
+  "id": 14784,
+  "type": "monster",
+  "name": "Finsterer Vollstrecker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Effektmonster\nDu kannst 1 Karte abwerfen und dann 1 offene Karte wählen, die dein Gegner kontrolliert; dein Gegner kann 1 Karte mit demselben Grund-Typ (Monster/Zauber/Falle) wie die offene Karte abwerfen, um diesen Effekt zu annullieren, andernfalls zerstöre die offene Karte. Du kannst diesen Effekt von „Finsterer Vollstrecker“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

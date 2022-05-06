@@ -1,0 +1,18 @@
+{
+  "id": 13121,
+  "type": "monster",
+  "name": "D/D/D Destino Re Zero Laplace",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 1 mostro \"D/D/D\". Prima del calcolo dei danni, se questa carta combatte con un mostro dell'avversario: puoi attivare questo effetto; l'ATK di questa carta diventa il doppio dell'ATK originale di quel mostro fino alla fine del Damage Step. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante. La prima volta che questa carta sta per essere distrutta in battaglia ogni turno, non viene distrutta, e tu non subisci danno da combattimento da quella battaglia.",
+  "pendEffect": "Durante la tua Main Phase: puoi aggiungere 1 Mostro Pendulum \"D/D/D\" scoperto dal tuo Extra Deck alla tua mano, eccetto \"D/D/D Destino Re Zero Laplace\". Puoi utilizzare questo effetto di \"D/D/D Destino Re Zero Laplace\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

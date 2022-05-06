@@ -1,0 +1,15 @@
+{
+  "id": 7654,
+  "type": "monster",
+  "name": "Onmoraki",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte, die dir gehört, durch einen Karteneffekt eines Gegners zerstört und auf deinen Friedhof gelegt wird oder falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 Karte ziehen. Du kannst diesen Effekt von „Onmoraki“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

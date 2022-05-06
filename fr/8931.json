@@ -1,0 +1,15 @@
+{
+  "id": 8931,
+  "type": "monster",
+  "name": "Alligator des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre Reptile. Lorsque cette carte est Invoquée par Sacrifice : vous pouvez Invoquer Spécialement un nombre de \"Jeton Alligator\" (Reptile/TÉNÈBRES/Niveau 1/ATK 2000/DEF 0), inférieur ou égal au nombre de monstres Reptile Sacrifiés pour l'Invocation Sacrifice de cette carte. Si cette carte Invoquée par Sacrifice est détruite au combat, ou détruite par un effet de carte de l'adversaire tant qu'elle est dans la Zone Monstre de son propriétaire : vous pouvez ajouter 1 monstre Reptile (\"Alligator des Ténèbres\" exclu) depuis votre Deck à votre main.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2300,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

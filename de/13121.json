@@ -1,0 +1,18 @@
+{
+  "id": 13121,
+  "type": "monster",
+  "name": "D/D/D-Schicksalskönig Zero Laplace",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 „D/D/D“-Monster als Tribut anbietest. Vor der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst diesen Effekt aktivieren; die ATK dieser Karte werden bis zum Ende des Damage Steps zum Doppelten der Grund-ATK des Monsters des Gegners. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Das erste Mal in jedem Spielzug, dass diese Karte durch Kampf zerstört würde, wird sie nicht zerstört und du erhältst keinen Kampfschaden aus dem Kampf.",
+  "pendEffect": "Während deiner Main Phase: Du kannst deiner Hand 1 offenes „D/D/D“-Pendelmonster von deinem Extra Deck hinzufügen, außer „D/D/D-Schicksalskönig Zero Laplace“. Du kannst diesen Effekt von „D/D/D-Schicksalskönig Zero Laplace“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

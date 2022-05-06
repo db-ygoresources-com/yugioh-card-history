@@ -1,0 +1,15 @@
+{
+  "id": 17031,
+  "type": "monster",
+  "name": "Magicien Chronique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si un ou plusieurs monstres avec 2500 ATK ou DEF d'origine sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 \"Magicien Sombre\" ou \"Dragon Blanc aux Yeux Bleus\" dans votre Zone Monstre ; jusqu'à la fin de ce tour, il gagne 2500 ATK/DEF. Vous ne pouvez utiliser chaque effet de \"Magicien Chronique\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

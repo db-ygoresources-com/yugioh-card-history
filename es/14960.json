@@ -1,0 +1,19 @@
+{
+  "id": 14960,
+  "type": "monster",
+  "name": "Señor Supremo Dragón Rebelión de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos de Nivel 7\nTambién puedes Invocar Xyz esta carta usando un Monstruo Xyz \"Rebelión\" que controles como material. (Transfiere sus materiales a esta carta). Si puedes hacer una Invocación por Péndulo de Nivel 7, puedes Invocar por Péndulo esta carta boca arriba desde tu Deck Extra. Esta carta que fue Invocada Xyz usando un Monstruo Xyz de Rango 7 como material puede hacer hasta 3 ataques durante cada Battle Phase. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo. Sólo puedes Invocar de Modo Especial uno o más \"Señor Supremo Dragón Rebelión de Ojos Anómalos\" una vez por turno.",
+  "pendEffect": "Una vez por turno: puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo, y después Invocar de Modo Especial, desde tu Deck Extra, 1 monstruo \"Rebelión\" o \"Los Caballeros Fantasma\", usando esta carta como material (esto se trata como una Invocación Xyz), y después puedes acoplarle 1 carta en tu Zona de Péndulo como material.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Xyz",
+    "Péndulo",
+    "Efecto"
+  ]
+}

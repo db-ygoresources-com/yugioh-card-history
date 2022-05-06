@@ -1,0 +1,15 @@
+{
+  "id": 7654,
+  "type": "monster",
+  "name": "Onmoraki",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte en votre possession est détruite par un effet de carte de l'adversaire et envoyée à votre Cimetière, ou si cette carte est Invoquée Spécialement depuis le Cimetière : vous pouvez piocher 1 carte. Vous ne pouvez utiliser cet effet de \"Onmoraki\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17031,
+  "type": "monster",
+  "name": "Mago Cronaca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se uno o più mostri con ATK o DEF originale 2500 vengono Evocati Normalmente o Specialmente sul tuo Terreno (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano in Posizione di Difesa. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 \"Mago Nero\" o \"Drago Bianco Occhi Blu\" in una tua Zona Mostri; esso guadagna 2500 ATK/DEF fino alla fine di questo turno. Puoi utilizzare ogni effetto di \"Mago Cronaca\" una sola volta per turno.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

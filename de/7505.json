@@ -1,0 +1,15 @@
+{
+  "id": 7505,
+  "type": "monster",
+  "name": "Leraje der König der Bogenschützen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst diese Karte bis zum Ende dieses Spielzugs für jeden Monstertyp, der sich derzeit in deinem Friedhof befindet, 100 ATK erhalten lassen. Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; diese Karte kann für den Rest dieses Spielzugs nicht angreifen, zusätzlich verliert das Monster DEF in Höhe der ATK dieser Karte, dann, falls seine DEF durch diesen Effekt zu 0 werden, zerstöre es. Du kannst diesen Effekt von „Leraje der König der Bogenschützen“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

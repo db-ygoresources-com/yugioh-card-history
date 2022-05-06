@@ -1,0 +1,15 @@
+{
+  "id": 7505,
+  "type": "monster",
+  "name": "Leraje le Dieu des Archers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : jusqu'à la fin de ce tour, vous pouvez faire gagner à cette carte 100 ATK pour chaque Type de Monstre actuellement dans votre Cimetière. Vous pouvez cibler 1 autre monstre face recto sur le Terrain ; cette carte ne peut pas attaquer le reste de ce tour, et aussi, le monstre perd une DEF égale à l'ATK de cette carte, puis si sa DEF devient 0 par cet effet, détruisez-le. Vous ne pouvez utiliser cet effet de \"Leraje le Dieu des Archers\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

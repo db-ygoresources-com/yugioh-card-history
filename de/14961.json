@@ -1,0 +1,18 @@
+{
+  "id": 14961,
+  "type": "monster",
+  "name": "D/D/D-Vizekönig Requiem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst keine Monster als Spezialbeschwörung beschwören, außer „D/D/D“-Monstern. Ein „D/D/D“-Monster, das mit dieser Karte auf dem Spielfeld als Material als Fusions-, Synchro-, Xyz- oder Linkbeschwörung beschworen wurde, erhält diesen Effekt.\n●Einmal pro Spielzug: Du kannst 1 Karte auf dem Spielfeld wählen; mische 1 „Dunkler Vertrag“-Karte von deiner Spielfeldseite oder deinem Friedhof ins Deck und falls du dies tust, zerstöre das gewählte Ziel, dann erhältst du 1000 LP.\nDu kannst diesen Effekt von „D/D/D-Vizekönig Requiem“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst eine beliebige Anzahl „Dunkler Vertrag“-Karten wählen, die du kontrollierst; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Pendelzone, dann kannst du ihre Stufe um die zerstörte Anzahl erhöhen oder verringern. Du kannst diesen Effekt von „D/D/D-Vizekönig Requiem“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

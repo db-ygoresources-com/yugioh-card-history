@@ -1,0 +1,18 @@
+{
+  "id": 13121,
+  "type": "monster",
+  "name": "D/D/D Zero Laplace, o Rei do Destino",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode Invocar este card por Invocação-Especial (da sua mão) ao oferecer como Tributo 1 monstro \"D/D/D\". Antes do cálculo de dano, se este card batalhar um monstro do oponente: você pode ativar este efeito; até o final da Etapa de Dano, o ATK deste card se torna o dobro do ATK original desse monstro do oponente. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. Na primeira vez que este card seria destruído em batalha a cada turno, ele não é destruído, e você não sofre dano de batalha dessa batalha.",
+  "pendEffect": "Durante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo \"D/D/D\" com a face para cima do seu Deck Adicional à sua mão, exceto \"D/D/D Zero Laplace, o Rei do Destino\". Você só pode usar este efeito de \"D/D/D Zero Laplace, o Rei do Destino\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

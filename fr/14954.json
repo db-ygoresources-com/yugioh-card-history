@@ -1,0 +1,16 @@
+{
+  "id": 14954,
+  "type": "monster",
+  "name": "Kluger Néos, HÉROS Élémentaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Néos, HÉROS Élémentaire\" + \"Yubel\"\nUniquement Invocable par Fusion. Avant le calcul des dommages, si cette carte combat un monstre de l'adversaire : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK du monstre de l'adversaire. Si cette carte face recto est détruite au combat, ou quitte le Terrain à cause d'un effet de carte de l'adversaire tant que son propriétaire la contrôle : vous pouvez Invoquer Spécialement 1 \"Néos le Sage\" depuis votre main ou Deck, en ignorant ses conditions d'Invocation. Vous ne pouvez utiliser cet effet de \"Kluger Néos, HÉROS Élémentaire\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14708,
+  "type": "monster",
+  "name": "Go ! - D/D/D Rage, Roi du Zéro Divin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte déclare une attaque, si votre adversaire a max. 4000 LP : jusqu'à la fin de ce tour, vous pouvez faire gagner à cette carte une ATK égale aux LP de votre adversaire. Non destructible au combat, et aussi, vous ne recevez aucun dommage de combats impliquant cette carte.\nVous pouvez Sacrifier 1 autre monstre ; jusqu'à la fin de ce tour, appliquez 1 de ces effets.\n●Cette carte peut attaquer directement.\n●Votre adversaire ne peut activer ni de cartes ni d'effets dans les Zones Magie & Piège.\n●Votre adversaire ne peut pas activer d'effets de carte dans sa main ou Cimetière.",
+  "pendEffect": "Si vous allez recevoir des dommages d'effet, vous ne recevez aucun dommage. Si vous Invoquez Normalement 1 monstre \"D/D\" de min. Niveau 5, vous pouvez le faire sans Sacrifice. Vous ne pouvez utiliser chaque Effet Pendule de \"Go ! - D/D/D Rage, Roi du Zéro Divin\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

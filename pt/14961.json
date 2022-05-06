@@ -1,0 +1,18 @@
+{
+  "id": 14961,
+  "type": "monster",
+  "name": "D/D/D Réquiem, o Vice Rei",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você não pode Invocar monstros por Invocação-Especial, exceto monstros \"D/D/D\". Um monstro \"D/D/D\" que foi Invocado por Invocação-Fusão, Sincro, Xyz ou Link usando este card no campo como matéria ganha este efeito.\n●Uma vez por turno: você pode escolher 1 card no campo; embaralhe no Deck 1 card \"Pacto Obscuro\" do seu campo ou Cemitério e, se isso acontecer, destrua o alvo e, depois, ganhe 1000 PV.\nVocê só pode usar este efeito de \"D/D/D Réquiem, o Vice Rei\" uma vez por turno.",
+  "pendEffect": "Você pode escolher qualquer número de cards \"Pacto Obscuro\" que você controla; destrua-os e, se isso acontecer, Invoque este card por Invocação-Especial da sua Zona de Pêndulo e, depois, você pode aumentar ou diminuir seu Nível pelo número destruído. Você só pode usar este efeito de \"D/D/D Réquiem, o Vice Rei\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

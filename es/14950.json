@@ -1,0 +1,15 @@
+{
+  "id": 14950,
+  "type": "monster",
+  "name": "Dragón Primitivo, el Primordial",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Tu adversario no recibe daño de batalla de ataques que involucren esta carta. Sólo puedes usar cada uno de los siguientes efectos de \"Dragón Primitivo, el Primordial\" una vez por turno. Puedes desterrar 1 monstruo Dragón en tu Cementerio; hasta el final del próximo turno, esta carta gana ATK/DEF igual al ATK de ese monstruo desterrado. Si esta carta es Sacrificada: puedes seleccionar 1 monstruo que controles; este turno, éste puede hacer un segundo ataque durante cada Battle Phase.",
+  "level": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

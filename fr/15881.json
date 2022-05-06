@@ -1,0 +1,16 @@
+{
+  "id": 15881,
+  "type": "monster",
+  "name": "Machine Fossile Convoi Squelette",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre Rocher dans votre Cimetière + 1 monstre de min. Niveau 7\nDoit d'abord être Invoquée Spécialement avec \"Fusion Fossile\". Tant que vous contrôlez cette carte Invoquée par Fusion, tous les monstres contrôlés par votre adversaire perdent une ATK égale à leur DEF d'origine. Durant chaque Battle Phase, cette carte peut faire max. 3 attaques sur des monstres. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez infliger 1000 points de dommages à votre adversaire.",
+  "level": 8,
+  "atk": 2100,
+  "def": 1800,
+  "properties": [
+    "Rocher",
+    "Fusion",
+    "Effet"
+  ]
+}

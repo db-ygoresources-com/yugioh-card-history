@@ -1,0 +1,16 @@
+{
+  "id": 15882,
+  "type": "monster",
+  "name": "Machine Fossile Camion Squelette",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre Rocher dans votre Cimetière + 1 monstre de Niveau 5 ou 6\nDoit d'abord être Invoquée Spécialement avec \"Fusion Fossile\". Durant chaque Battle Phase, cette carte peut faire max. 2 attaques sur des monstres. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez infliger 800 points de dommages à votre adversaire. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Magie/Piège sur le Terrain ; détruisez-le. Vous ne pouvez utiliser cet effet de \"Machine Fossile Camion Squelette\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 1700,
+  "def": 1500,
+  "properties": [
+    "Rocher",
+    "Fusion",
+    "Effet"
+  ]
+}

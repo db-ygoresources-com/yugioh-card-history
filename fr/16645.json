@@ -1,0 +1,15 @@
+{
+  "id": 16645,
+  "type": "monster",
+  "name": "Majesté Hypérion",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main ou Cimetière) en bannissant 1 monstre \"Agent\" depuis votre main, Terrain ou Cimetière. Vous ne pouvez Invoquer Spécialement \"Majesté Hypérion\" qu'une fois par tour de cette façon. Les dommages de combat que vous recevez de combats impliquant vos monstres Elfe sont aussi infligés à votre adversaire. Une fois par tour : vous pouvez bannir 1 monstre Elfe depuis votre main ou Cimetière, puis ciblez 1 carte dans l'un des Cimetières ; bannissez-la. Si \"Le Sanctuaire Céleste\" est sur le Terrain ou dans l'un des Cimetières, vous pouvez utiliser cet effet max. deux fois par tour.",
+  "level": 8,
+  "atk": 2100,
+  "def": 2700,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

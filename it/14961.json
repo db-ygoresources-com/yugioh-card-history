@@ -1,0 +1,18 @@
+{
+  "id": 14961,
+  "type": "monster",
+  "name": "D/D/D Requiem Re del Vizio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non puoi Evocare Specialmente mostri, eccetto mostri \"D/D/D\". Un mostro \"D/D/D\" che è stato Evocato tramite Fusione, Synchro, Xyz o Link utilizzando questa carta sul Terreno come materiale guadagna questo effetto.\n●Una volta per turno: puoi scegliere come bersaglio 1 carta sul Terreno; mischia 1 carta \"Contratto Oscuro\" dal tuo Terreno o Cimitero nel Deck e, se lo fai, distruggi quel bersaglio, poi guadagni 1000 LP.\nPuoi utilizzare questo effetto di \"D/D/D Requiem Re del Vizio\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio un qualsiasi numero di carte \"Contratto Oscuro\" che controlli; distruggile e, se lo fai, Evoca Specialmente questa carta dalla tua Zona Pendulum, poi puoi aumentare o diminuire il suo Livello del numero di carte distrutte. Puoi utilizzare questo effetto di \"D/D/D Requiem Re del Vizio\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

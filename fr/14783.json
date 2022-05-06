@@ -1,0 +1,15 @@
+{
+  "id": 14783,
+  "type": "monster",
+  "name": "Codeur Exportateur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si un monstre Cyberse que vous contrôlez va être utilisé comme Matériel Lien pour un monstre \"Codeur Bavard\", cette carte dans votre main peut aussi être utilisée comme Matériel. Si cette carte est envoyée depuis la main ou Terrain au Cimetière comme Matériel pour l'Invocation Lien d'un monstre \"Codeur Bavard\" : vous pouvez cibler 1 monstre Cyberse de max. Niveau 4 dans votre Cimetière ; ajoutez-le à votre main, ou, si cette carte sur le Terrain a été utilisée comme Matériel, vous pouvez Invoquer Spécialement le monstre à la place, mais annulez ses effets. Vous ne pouvez utiliser chaque effet de \"Codeur Exportateur\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 500,
+  "def": 2300,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

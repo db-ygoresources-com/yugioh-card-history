@@ -1,0 +1,16 @@
+{
+  "id": 14954,
+  "type": "monster",
+  "name": "Elementar-HELD Neos Kluger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Elementar-HELD Neos“ + „Yubel“\nMuss als Fusionsbeschwörung beschworen werden. Vor der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst deinem Gegner Schaden in Höhe der ATK des Monsters des Gegners zufügen. Falls diese offene Karte durch Kampf zerstört wird oder das Spielfeld durch einen Karteneffekt eines Gegners verlässt, solange ihr Besitzer sie kontrolliert: Du kannst 1 „Neos Weiser“ als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, ungeachtet seiner Beschwörungsbedingungen. Du kannst diesen Effekt von „Elementar-HELD Neos Kluger“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}
