@@ -1,0 +1,19 @@
+{
+  "id": 13122,
+  "type": "monster",
+  "name": "Dragón Alado de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante de OSCURIDAD + 1 monstruo \"Ala Transparente\" que no sea Cantante\nSi esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar 1 de los siguientes efectos de \"Dragón Alado de Ojos Anómalos\" por turno, y sólo una vez ese turno.\n●Puedes seleccionar 1 Monstruo de Efecto que controle tu adversario; hasta el final de este turno, niega sus efectos.\n●Durante la Battle Phase, si controlas esta carta Invocada por Sincronía (Efecto Rápido): puedes destruir todos los monstruos de Nivel 5 o mayor que controle tu adversario.",
+  "pendEffect": "Una vez por turno, antes del cálculo de daño, si tu monstruo batalla con un monstruo del adversario: hasta el final del Damage Step, puedes hacer que tu monstruo gane ATK igual al ATK del monstruo del adversario.",
+  "pendScale": 10,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Péndulo",
+    "Efecto"
+  ]
+}

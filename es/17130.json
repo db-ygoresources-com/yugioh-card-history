@@ -1,0 +1,18 @@
+{
+  "id": 17130,
+  "type": "monster",
+  "name": "Predaplanta Bufolícula",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es mandada al Cementerio o añadida a tu Deck Extra boca arriba porque fue usada como Material de Fusión: puedes añadir a tu mano 1 Monstruo de Péndulo de OSCURIDAD boca arriba en tu Deck Extra, excepto \"Predaplanta Bufolícula\". Sólo puedes usar este efecto de \"Predaplanta Bufolícula\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión de OSCURIDAD desde tu Deck Extra, usando monstruos en tu mano o Campo como Material de Fusión. Sólo puedes usar este efecto de \"Predaplanta Bufolícula\" una vez por turno.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Planta",
+    "Péndulo",
+    "Efecto"
+  ]
+}

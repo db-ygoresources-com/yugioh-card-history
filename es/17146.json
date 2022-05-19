@@ -1,0 +1,16 @@
+{
+  "id": 17146,
+  "type": "monster",
+  "name": "Alba-Lenatus el Dragón del Abismo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 \"Caído de Albaz\" + 1+ monstruos Dragón\nNo puede ser usado como Material de Fusión. Debe ser ya sea Invocado por Fusión, o Invocado de Modo Especial mandando al Cementerio las cartas de arriba en cualquier Zona de Monstruos. Esta carta puede atacar a monstruos un número de veces cada Battle Phase, hasta el número de materiales usados para su Invocación. Una vez por turno, durante la End Phase, si esta carta está en el Cementerio porque fue mandada allí este turno: puedes añadir a tu mano 1 Mágica Normal \"Polimerización\" o Mágica Normal \"Fusión\" en tu Deck.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

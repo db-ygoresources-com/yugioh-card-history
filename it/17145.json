@@ -1,0 +1,19 @@
+{
+  "id": 17145,
+  "type": "monster",
+  "name": "Drago-Pendulumgrafo Occhi Diversi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con \"Avvento Occhi Diversi\". Deve essere Evocato tramite Rituale, oppure Evocato Pendulum dalla tua mano. Ogni volta che il tuo avversario Evoca Specialmente uno o più mostri dall'Extra Deck, infliggigli 300 danni. Una volta per turno, quando il tuo avversario attiva una Carta Magia o un suo effetto (Effetto Rapido): puoi mettere questa carta nella tua Zona Pendulum e, se lo fai, annulla quell'effetto, poi, se hai messo questa carta Evocata tramite Rituale nella Zona Pendulum, puoi Evocare Specialmente 1 mostro \"Occhi Diversi\" dal tuo Extra Deck.",
+  "pendEffect": "Durante la End Phase: puoi aggiungere 1 Magia Rituale dal tuo Deck o Cimitero alla tua mano, poi fai ritornare questa carta nella mano. Puoi utilizzare questo effetto di \"Drago-Pendulumgrafo Occhi Diversi\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Rituale",
+    "Pendulum",
+    "Effetto"
+  ]
+}

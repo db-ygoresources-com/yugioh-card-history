@@ -1,0 +1,18 @@
+{
+  "id": 17131,
+  "type": "monster",
+  "name": "Triantis Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est envoyée au Cimetière ou ajoutée face recto à votre Extra Deck parce qu'elle a été utilisée comme Matériel Fusion : vous pouvez choisir un nombre de monstres sur le Terrain, inférieur ou égal au nombre de monstres que vous contrôlez, et placez 1 Compteur Prédateur sur chacun d'eux, et si vous le faites, chacun de ces monstres de min. Niveau 2 devient Niveau 1 tant qu'il a un Compteur Prédateur.",
+  "pendEffect": "Tant que cette carte est dans votre Zone Pendule, si vous Invoquez par Fusion un Monstre Fusion TÉNÈBRES, vous pouvez aussi utiliser des cartes dans vos Zones Pendule comme monstres sur le Terrain, comme Matériel pour son Invocation Fusion.",
+  "pendScale": 8,
+  "level": 8,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17143,
+  "type": "monster",
+  "name": "Yamatako Orochi",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte auf dem Spielfeld kann als Monster der Stufe 8 behandelt werden, wenn sie für eine Synchrobeschwörung verwendet wird. Ein Synchromonster, das diese Karte als Material verwendet hat, erhält basierend auf seiner Grund-Stufe diesen Effekt.\n●8 oder niedriger: Erhält 800 ATK/DEF.\n●9 oder höher: Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu.",
+  "level": 1,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Seeschlange",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 13302,
+  "type": "monster",
+  "name": "V-LAN-Hydra",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Monster, außer Spielmarken\nErhält für jedes mit dieser Karte kreuzgelinkte Monster 300 ATK. Du kannst 1 Monster mit Link-3 oder niedriger wählen, das mit dieser Karte kreuzgelinkt ist; biete es als Tribut an und falls du dies tust, beschwöre „V-LAN-Spielmarken“ (Cyberse/LICHT/Stufe 1/ATK 0/DEF 0) in Höhe der Linkzahl des als Tribut angebotenen Monsters als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster mit derselben Linkzahl wie jenes als Ziel gewählte Monster als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „V-LAN-Hydra“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

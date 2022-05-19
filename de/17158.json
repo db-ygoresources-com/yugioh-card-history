@@ -1,0 +1,16 @@
+{
+  "id": 17158,
+  "type": "monster",
+  "name": "Musik-Sumo Würfelspiele",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2 Monster der Stufe 6\nAm Beginn der Battle Phase deines Gegners: Falls sich diese Karte in der Main-Monsterzone befindet, wirf einen sechsseitigen Würfel und bewege diese Karte direkt so viele (1 bis 6) Main-Monsterzonen im Uhrzeigersinn und falls in jener Zone, in die sie bewegt wird, bereits ein Monster liegt, hänge jenes Monster als Material an diese Karte an. (Transferiere sein Material an diese Karte.) Falls dieser Effekt bewirkt, dass die Anzahl des Materials dieses Monsters 6 überschreitet, gewinnst du das Duell. Falls diese Karte nicht bewegt werden kann oder das Monster in der Zone, in die sie bewegt wird, nicht angehängt werden kann, lege diese Karte auf den Friedhof.",
+  "rank": 6,
+  "atk": 600,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

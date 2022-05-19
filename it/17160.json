@@ -1,0 +1,20 @@
+{
+  "id": 17160,
+  "type": "monster",
+  "name": "Spaventartiglio Tri-Heart",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "3 Mostri con Effetto\nDeve essere Evocato Link. Tutti i mostri scoperti sul Terreno vengono messi in Posizione di Difesa. Immune agli effetti attivati dei mostri in Posizione di Difesa. Una volta per turno, se questa carta è nella Zona Mostri Extra: puoi scegliere come bersaglio 1 mostro \"Spaventartiglio\" di Livello 3 nel tuo Cimitero; Evocalo Specialmente e, se lo fai, aggiungi 1 mostro \"Spaventartiglio\" dal tuo Deck alla tua mano, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri \"Spaventartiglio\".",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Guerriero-Bestia",
+    "Link",
+    "Effetto"
+  ]
+}

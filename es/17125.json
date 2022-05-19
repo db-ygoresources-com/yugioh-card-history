@@ -1,0 +1,16 @@
+{
+  "id": 17125,
+  "type": "monster",
+  "name": "Luchador Loco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El nombre de esta carta se convierte en \"Zombi Esparceplaga\" mientras está en el Campo o en el Cementerio. Si esta carta está en tu Cementerio: puedes seleccionar 1 monstruo de Nivel 6 o mayor que controles; reduce su Nivel en 2 y, si lo haces, Invoca esta carta de Modo Especial, y además el jugador que la Invocó no puede Invocar monstruos de Modo Especial, excepto monstruos Zombi, mientras esta carta esté boca arriba en la Zona de Monstruos. Sólo puedes usar este efecto de \"Luchador Loco\" una vez por turno.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombi",
+    "Cantante",
+    "Efecto"
+  ]
+}

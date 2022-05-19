@@ -1,0 +1,20 @@
+{
+  "id": 13302,
+  "type": "monster",
+  "name": "Idra V-LAN",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2+ mostri, eccetto i Segna-Mostro\nGuadagna 300 ATK per ogni mostro co-linkato a questa carta. Puoi scegliere come bersaglio 1 mostro Link-3 o inferiore co-linkato a questa carta; offrilo come Tributo e, se lo fai, Evoca Specialmente \"Segna-V-LAN\" (Cyberso/LUCE/Livello 1/ATK 0/DEF 0) pari alla Classificazione Link del mostro offerto come Tributo, inoltre non puoi Evocare Specialmente mostri con la stessa Classificazione Link di quel mostro scelto come bersaglio per il resto di questo turno. Puoi utilizzare questo effetto di \"Idra V-LAN\" una sola volta per turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effetto"
+  ]
+}

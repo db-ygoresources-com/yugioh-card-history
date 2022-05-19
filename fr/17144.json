@@ -1,0 +1,15 @@
+{
+  "id": 17144,
+  "type": "monster",
+  "name": "Sarcoughagus Dévorant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est détruite au combat avec un monstre de l'adversaire : vous pouvez prendre le contrôle du monstre de l'adversaire, et si vous le faites, il devient un monstre Zombie, et aussi, son ATK/DEF deviennent 0. Lorsque votre monstre Zombie est détruit au combat avec un monstre de l'adversaire, tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte ; prenez le contrôle du monstre de l'adversaire, et si vous le faites, il devient un monstre Zombie, et aussi, son ATK/DEF deviennent 0. Vous ne pouvez utiliser cet effet de \"Sarcoughagus Dévorant\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17153,
+  "type": "monster",
+  "name": "Guerrero Sinfónico Rockks",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSi esta carta en la Zona de Monstruos es destruida en batalla o por el efecto de una carta: puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada uno de los siguientes efectos de \"Guerrero Sinfónico Rockks\" una vez por turno. Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 Monstruo de Péndulo boca arriba en tu Deck Extra. Si \"Amplifuego Sinf\" está en tu Zona del Campo: puedes destruir 1 carta en el Campo.",
+  "pendEffect": "Durante cada Standby Phase: puedes añadir a tu mano 1 Monstruo de Péndulo boca arriba en tu Deck Extra. Sólo puedes usar este efecto de \"Guerrero Sinfónico Rockks\" una vez por turno. Cuando un monstruo del adversario declara un ataque: puedes destruir ambos, ese monstruo y esta carta.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Péndulo",
+    "Efecto"
+  ]
+}

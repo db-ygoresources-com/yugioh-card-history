@@ -1,0 +1,18 @@
+{
+  "id": 17114,
+  "type": "monster",
+  "name": "Artistamigo Damángel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes descartar esta carta y 1 monstruo \"Artistamigo\", excepto \"Artistamigo Damángel\"; roba 2 cartas. Si esta carta está en tu Cementerio y controlas una carta \"Ojos Anómalos\" o \"Artistamigo Gentrudo\": puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar 1 efecto de \"Artistamigo Damángel\" por turno, y sólo una vez ese turno.",
+  "pendEffect": "Una vez por turno, cuando es declarado un ataque que involucra tu monstruo y un monstruo del adversario: puedes descartar 1 Monstruo de Péndulo; ese monstruo del adversario pierde 1000 ATK, hasta el final de este turno.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

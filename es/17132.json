@@ -1,0 +1,19 @@
+{
+  "id": 17132,
+  "type": "monster",
+  "name": "Guerrero Sinfónico Guitariss",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si \"Amplifuego Sinf\" está en tu Zona del Campo: puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 carta en tu Zona de Péndulo; devuélvela a la mano. Sólo puedes usar cada efecto de \"Guerrero Sinfónico Guitariss\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar otra carta \"Guerrero Sinfónico\" que controles; devuelve ambas, esa carta y esta carta, a la mano. Sólo puedes usar este efecto de \"Guerrero Sinfónico Guitariss\" una vez por turno.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1100,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

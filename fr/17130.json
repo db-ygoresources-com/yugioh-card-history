@@ -1,0 +1,18 @@
+{
+  "id": 17130,
+  "type": "monster",
+  "name": "Bufolicula Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est envoyée au Cimetière ou ajoutée face recto à votre Extra Deck parce qu'elle a été utilisée comme Matériel Fusion : vous pouvez ajouter 1 Monstre Pendule TÉNÈBRES face recto (\"Bufolicula Prédaplante\" exclu) depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de \"Bufolicula Prédaplante\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion TÉNÈBRES depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain comme Matériel Fusion. Vous ne pouvez utiliser cet effet de \"Bufolicula Prédaplante\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Plante",
+    "Pendule",
+    "Effet"
+  ]
+}

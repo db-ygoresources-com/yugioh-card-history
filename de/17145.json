@@ -1,0 +1,19 @@
+{
+  "id": 17145,
+  "type": "monster",
+  "name": "Buntäugiger Pendelgraf-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Ankunft der Buntäugigen“ als Ritualbeschwörung beschwören. Muss entweder als Ritualbeschwörung beschworen werden oder als Pendelbeschwörung von deiner Hand beschworen werden. Jedes Mal, wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung vom Extra Deck beschwört, füge ihm 300 Schaden zu. Einmal pro Spielzug, wenn dein Gegner eine Zauberkarte oder einen Zaubereffekt aktiviert (Schnelleffekt): Du kannst diese Karte in deine Pendelzone legen und falls du dies tust, annulliere jenen Effekt, dann, falls du diese als Ritualbeschwörung beschworene Karte in die Pendelzone gelegt hast, kannst du 1 „Buntäugig“-Monster als Spezialbeschwörung von deinem Extra Deck beschwören.",
+  "pendEffect": "Während der End Phase: Du kannst deiner Hand 1 Ritualzauber von deinem Deck oder Friedhof hinzufügen, dann gib diese Karte auf die Hand zurück. Du kannst diesen Effekt von „Buntäugiger Pendelgraf-Drache“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Ritual",
+    "Pendel",
+    "Effekt"
+  ]
+}

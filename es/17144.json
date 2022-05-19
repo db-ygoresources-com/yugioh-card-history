@@ -1,0 +1,15 @@
+{
+  "id": 17144,
+  "type": "monster",
+  "name": "Sarcoughagos Devorador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es destruida en batalla con un monstruo del adversario: puedes tomar el control de ese monstruo del adversario y, si lo haces, éste se convierte en un monstruo Zombi, y además su ATK/DEF se convierten en 0. Cuando tu monstruo Zombi es destruido en batalla con un monstruo del adversario, mientras esta carta está en tu Cementerio: puedes desterrar esta carta; toma el control de ese monstruo del adversario y, si lo haces, éste se convierte en un monstruo Zombi, y además su ATK/DEF se convierten en 0. Sólo puedes usar este efecto de \"Sarcoughagos Devorador\" una vez por turno.",
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

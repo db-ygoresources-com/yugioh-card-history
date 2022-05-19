@@ -1,0 +1,19 @@
+{
+  "id": 17153,
+  "type": "monster",
+  "name": "Rocko, Guerrier Symphonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chacun des effets suivants de \"Rocko, Guerrier Symphonique\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Monstre Pendule face recto depuis votre Extra Deck à votre main. Si \"Amplifeu Symph\" est dans votre Zone Terrain : vous pouvez détruire 1 carte sur le Terrain.",
+  "pendEffect": "Durant chaque Standby Phase : vous pouvez ajouter 1 Monstre Pendule face recto depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de \"Rocko, Guerrier Symphonique\" qu'une fois par tour. Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez détruire le monstre ainsi que cette carte.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Pendule",
+    "Effet"
+  ]
+}

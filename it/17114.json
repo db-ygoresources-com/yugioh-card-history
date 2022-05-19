@@ -1,0 +1,18 @@
+{
+  "id": 17114,
+  "type": "monster",
+  "name": "Artistamico Signorange",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi scartare questa carta e 1 mostro \"Artistamico\", eccetto \"Artistamico Signorange\"; pesca 2 carte. Se questa carta è nel tuo Cimitero e tu controlli una carta \"Occhi Diversi\" o \"Artistamico Gentilude\": puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare solo 1 effetto di \"Artistamico Signorange\" per turno, e solo una volta in quel turno.",
+  "pendEffect": "Una volta per turno, quando viene dichiarato un attacco che coinvolge un tuo mostro e un mostro dell'avversario: puoi scartare 1 Mostro Pendulum; quel mostro dell'avversario perde 1000 ATK, fino alla fine di questo turno.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

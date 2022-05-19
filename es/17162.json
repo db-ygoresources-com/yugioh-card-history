@@ -1,0 +1,19 @@
+{
+  "id": 17162,
+  "type": "monster",
+  "name": "Danzapiona Silvana",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2 monstruos Planta\nSi esta carta es Invocada por Enlace: puedes elegir un número del 1 al 3 y excavar ese número de cartas de la parte superior de tu Deck y, si lo haces, puedes Invocar de Modo Especial hasta 2 monstruos Planta excavados, pero no pueden ser usados como Material de Enlace, y además manda las cartas restantes al Cementerio. Puedes seleccionar 1 monstruo Planta en tu Cementerio que tenga un Nivel; los Niveles de los monstruos a los que apunte esta carta se convierten en el Nivel de ese monstruo, hasta el final de este turno. Sólo puedes usar cada efecto de \"Danzapiona Silvana\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Planta",
+    "Enlace",
+    "Efecto"
+  ]
+}

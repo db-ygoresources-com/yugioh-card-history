@@ -1,0 +1,17 @@
+{
+  "id": 17152,
+  "type": "monster",
+  "name": "Dragón Inmortal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nDurante tu Main Phase: puedes mandar a tu Cementerio 1 monstruo Zombi en tu Deck y, si lo haces, el Nivel de esta carta se convierte en la diferencia entre los Niveles originales de ese monstruo y esta carta. Cuando tu monstruo Zombi es destruido en batalla, mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Dragón Inmortal\" una vez por turno.",
+  "level": 6,
+  "atk": 500,
+  "def": 2400,
+  "properties": [
+    "Zombi",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

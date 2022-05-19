@@ -1,0 +1,15 @@
+{
+  "id": 17140,
+  "type": "monster",
+  "name": "Bugroth Amphibie MK-11",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant que \"Umi\" n'est pas sur le Terrain, cette carte gagne 700 ATK, et aussi, elle ne peut pas attaquer directement. Tant que \"Umi\" est sur le Terrain : vous pouvez cibler 1 monstre non-EAU face recto sur le Terrain ; détruisez-le. Vous ne pouvez utiliser cet effet de \"Bugroth Amphibie MK-11\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1850,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

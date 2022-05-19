@@ -1,0 +1,19 @@
+{
+  "id": 17153,
+  "type": "monster",
+  "name": "Rockks Guerriero Sinfonico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nSe questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare ognuno dei seguenti effetti di \"Rockks Guerriero Sinfonico\" una sola volta per turno. Se questa carta viene Evocata Specialmente: puoi aggiungere 1 Mostro Pendulum scoperto dal tuo Extra Deck alla tua mano. Se \"Sinf Amplifuoco\" è nella tua Zona Terreno: puoi distruggere 1 carta sul Terreno.",
+  "pendEffect": "Durante ogni Standby Phase: puoi aggiungere 1 Mostro Pendulum scoperto dal tuo Extra Deck alla tua mano. Puoi utilizzare questo effetto di \"Rockks Guerriero Sinfonico\" una sola volta per turno. Quando un mostro dell'avversario dichiara un attacco: puoi distruggere sia quel mostro che questa carta.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Macchina",
+    "Synchro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13122,
+  "type": "monster",
+  "name": "Dragon de l'Aile aux Yeux Impairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur TÉNÈBRES + 1 monstre non-Syntoniseur \"Aile Claire\"\nSi cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser qu'1 des effets suivants de \"Dragon de l'Aile aux Yeux Impairs\" par tour, et uniquement une fois le tour.\n●Vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; jusqu'à la fin de ce tour, annulez ses effets.\n●Durant la Battle Phase, si vous contrôlez cette carte Invoquée par Synchronisation (Effet Rapide) : vous pouvez détruire tous les monstres de min. Niveau 5 contrôlés par votre adversaire.",
+  "pendEffect": "Une fois par tour, avant le calcul des dommages, si votre monstre combat un monstre de l'adversaire : jusqu'à la fin de la Damage Step, vous pouvez faire gagner à votre monstre une ATK égale à l'ATK du monstre de l'adversaire.",
+  "pendScale": 10,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Pendule",
+    "Effet"
+  ]
+}

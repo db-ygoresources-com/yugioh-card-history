@@ -1,0 +1,15 @@
+{
+  "id": 7240,
+  "type": "monster",
+  "name": "Frenesí de Motor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial, o si otro u otros monstruos Máquina son Invocados de Modo Normal o Especial a tu Campo: puedes activar este efecto; hasta el final del turno de tu adversario, ese o esos monstruos Invocados de Modo Normal o Especial ganan ATK igual a la mitad de su DEF original, y además su posición de batalla no puede ser cambiada. Si esta carta Invocada por Sacrificio es mandada al Cementerio: puedes Invocar de Modo Especial 2 \"Ficha Motor\" (Máquina/TIERRA/Nivel 1/ATK 200/DEF 200) en Posición de Ataque. Sólo puedes usar cada efecto de \"Frenesí de Motor\" una vez por turno.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

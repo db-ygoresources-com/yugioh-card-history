@@ -1,0 +1,16 @@
+{
+  "id": 17125,
+  "type": "monster",
+  "name": "Picchiatore Folle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Il nome di questa carta diventa \"Zombie Untore\" mentre è sul Terreno o nel Cimitero. Se questa carta è nel tuo Cimitero: puoi scegliere come bersaglio 1 mostro di Livello 6 o superiore che controlli; riduci il suo Livello di 2 e, se lo fai, Evoca Specialmente questa carta, inoltre il giocatore che l'ha Evocata non può Evocare Specialmente mostri, eccetto mostri Zombie, mentre questa carta è scoperta nella Zona Mostri. Puoi utilizzare questo effetto di \"Picchiatore Folle\" una sola volta per turno.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Tuner",
+    "Effetto"
+  ]
+}

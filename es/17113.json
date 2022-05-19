@@ -1,0 +1,18 @@
+{
+  "id": 17113,
+  "type": "monster",
+  "name": "Artistamigo Gentrudo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es destruida: puedes poner en tu Zona de Péndulo 1 Monstruo de Péndulo \"Artistamigo\" en tu Deck, excepto \"Artistamigo Gentrudo\". Si esta carta está boca arriba en tu Deck Extra: puedes descartar 1 Monstruo de Péndulo; añade esta carta a tu mano, y después puedes devolver a la mano 1 carta \"Artistamigo\" u \"Ojos Anómalos\" en tu Zona de Péndulo. Sólo puedes usar 1 efecto de \"Artistamigo Gentrudo\" por turno, y sólo una vez ese turno.",
+  "pendEffect": "Si \"Artistamigo Damángel\" está en tu otra Zona de Péndulo y no controlas monstruos, o sólo Monstruos de Péndulo: puedes añadir a tu mano 1 carta \"Ojos Anómalos\" en tu Deck. Sólo puedes usar este efecto de \"Artistamigo Gentrudo\" una vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

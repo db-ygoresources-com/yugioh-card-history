@@ -1,0 +1,19 @@
+{
+  "id": 17162,
+  "type": "monster",
+  "name": "Dansepione Sylvan",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres Plante\nSi cette carte est Invoquée par Lien : vous pouvez choisir un nombre entre 1 et 3 et dévoiler autant de cartes du dessus de votre Deck, et si vous le faites, vous pouvez Invoquer Spécialement max. 2 monstres Plante dévoilés, mais ils ne peuvent pas être utilisés comme Matériel Lien, et aussi, envoyez les cartes restantes au Cimetière. Vous pouvez cibler 1 monstre Plante dans votre Cimetière qui a un Niveau ; jusqu'à la fin de ce tour, le Niveau des monstres pointés par cette carte devient du Niveau du monstre. Vous ne pouvez utiliser chaque effet de \"Dansepione Sylvan\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Plante",
+    "Lien",
+    "Effet"
+  ]
+}

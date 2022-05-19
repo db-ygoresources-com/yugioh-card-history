@@ -1,0 +1,19 @@
+{
+  "id": 17153,
+  "type": "monster",
+  "name": "Symphonischer Krieger Rock-k-ks",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden der folgenden Effekte von „Symphonischer Krieger Rock-k-ks“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 offenes Pendelmonster von deinem Extra Deck hinzufügen. Falls „Symph-Verstärkofeuer“ in deiner Spielfeldzone liegt: Du kannst 1 Karte auf dem Spielfeld zerstören.",
+  "pendEffect": "Während jeder Standby Phase: Du kannst deiner Hand 1 offenes Pendelmonster von deinem Extra Deck hinzufügen. Du kannst diesen Effekt von „Symphonischer Krieger Rock-k-ks“ nur einmal pro Spielzug verwenden. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst sowohl jenes Monster als auch diese Karte zerstören.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

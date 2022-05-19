@@ -1,0 +1,18 @@
+{
+  "id": 17131,
+  "type": "monster",
+  "name": "Raubpflanze Triantis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte auf den Friedhof gelegt oder offen deinem Extra Deck hinzugefügt wird, weil sie als Fusionsmaterial verwendet wurde: Du kannst Monster auf dem Spielfeld bis zur Anzahl der Monster, die du kontrollierst, bestimmen und auf jedes 1 Raubtier-Zählmarke legen und falls du dies tust, wird jedes jener Monster, das Stufe 2 oder höher ist, zu Stufe 1, solange es eine Raubtier-Zählmarke hat.",
+  "pendEffect": "Solange diese Karte in deiner Pendelzone liegt, falls du ein FINSTERNIS Fusionsmonster als Fusionsbeschwörung beschwörst, kannst du auch Karten in deinen Pendelzonen als Monster auf dem Spielfeld als Material für seine Fusionsbeschwörung verwenden.",
+  "pendScale": 8,
+  "level": 8,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Pflanze",
+    "Pendel",
+    "Effekt"
+  ]
+}

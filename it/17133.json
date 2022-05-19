@@ -1,0 +1,18 @@
+{
+  "id": 17133,
+  "type": "monster",
+  "name": "DJJ Guerriero Sinfonico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 mostro \"Guerriero Sinfonico\" dal tuo Deck coperto in Posizione di Difesa, eccetto \"DJJ Guerriero Sinfonico\", o, se \"Sinf Amplifuoco\" è nella tua Zona Terreno, puoi invece Evocare Specialmente 1 mostro \"Guerriero Sinfonico\" dal tuo Deck, eccetto \"DJJ Guerriero Sinfonico\", ma annulla i suoi effetti. Puoi utilizzare questo effetto di \"DJJ Guerriero Sinfonico\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno, durante la tua Main Phase: puoi mettere scoperto in Posizione di Difesa 1 mostro \"Guerriero Sinfonico\" coperto in Posizione di Difesa che controlli. Se viene attivato l'effetto di un mostro \"Guerriero Sinfonico\" (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua Zona Pendulum. Puoi utilizzare questo effetto di \"DJJ Guerriero Sinfonico\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

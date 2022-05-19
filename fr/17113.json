@@ -1,0 +1,18 @@
+{
+  "id": 17113,
+  "type": "monster",
+  "name": "Gentrude Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est détruite : vous pouvez placer 1 Monstre Pendule \"Potartiste\" (\"Gentrude Potartiste\" exclu) depuis votre Deck dans votre Zone Pendule. Si cette carte est face recto dans votre Extra Deck : vous pouvez défausser 1 Monstre Pendule ; ajoutez cette carte à votre main, puis vous pouvez renvoyer 1 carte \"Potartiste\" ou \"Yeux Impairs\" depuis votre Zone Pendule à la main. Vous ne pouvez utiliser qu'1 effet de \"Gentrude Potartiste\" par tour, et uniquement une fois le tour.",
+  "pendEffect": "Si \"Fillange Potartiste\" est dans votre autre Zone Pendule, et que vous ne contrôlez aucun monstre ou uniquement des Monstres Pendule : vous pouvez ajouter 1 carte \"Yeux Impairs\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Gentrude Potartiste\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

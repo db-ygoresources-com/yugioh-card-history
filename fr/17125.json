@@ -1,0 +1,16 @@
+{
+  "id": 17125,
+  "type": "monster",
+  "name": "Frappeur Fou",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Zombie Épidémique\" tant qu'elle est sur le Terrain ou dans le Cimetière. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre de min. Niveau 6 que vous contrôlez ; réduisez son Niveau de 2, et si vous le faites, Invoquez Spécialement cette carte, et aussi, le joueur qui l'a Invoquée ne peut pas Invoquer Spécialement de monstres (monstres Zombie exclus), tant que cette carte est face recto dans la Zone Monstre. Vous ne pouvez utiliser cet effet de \"Frappeur Fou\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

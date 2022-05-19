@@ -1,0 +1,19 @@
+{
+  "id": 17132,
+  "type": "monster",
+  "name": "Chitarriss Guerriero Sinfonico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se \"Sinf Amplifuoco\" è nella tua Zona Terreno: puoi Evocare Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 carta nella tua Zona Pendulum; falla ritornare nella mano. Puoi utilizzare ogni effetto di \"Chitarriss Guerriero Sinfonico\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 altra carta \"Guerriero Sinfonico\" che controlli; fai ritornare sia quella carta che questa carta nella mano. Puoi utilizzare questo effetto di \"Chitarriss Guerriero Sinfonico\" una sola volta per turno.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1100,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

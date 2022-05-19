@@ -1,0 +1,18 @@
+{
+  "id": 17133,
+  "type": "monster",
+  "name": "Guerreiro Sinfônico DJJ",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode Invocar por Invocação-Especial 1 monstro \"Guerreiro Sinfônico\" do seu Deck com a face para baixo em Posição de Defesa, exceto \"Guerreiro Sinfônico DJJ\", ou, se \"Sinfo Amplificardor\" estiver na sua Zona do Campo, em vez disso, você pode Invocar por Invocação-Especial 1 monstro \"Guerreiro Sinfônico\" do seu Deck, exceto \"Guerreiro Sinfônico DJJ\", mas negue seus efeitos. Você só pode usar este efeito de \"Guerreiro Sinfônico DJJ\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno, durante sua Fase Principal: você pode virar com a face para cima em Posição de Defesa, 1 monstro \"Guerreiro Sinfônico\" com a face para baixo em Posição de Defesa que você controla. Se o efeito de um monstro \"Guerreiro Sinfônico\" for ativado (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo. Você só pode usar este efeito de \"Guerreiro Sinfônico DJJ\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

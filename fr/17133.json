@@ -1,0 +1,18 @@
+{
+  "id": 17133,
+  "type": "monster",
+  "name": "DJO, Guerrier Symphonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre \"Guerrier Symphonique\" (\"DJO, Guerrier Symphonique\" exclu) depuis votre Deck en Position de Défense face verso, ou, si \"Amplifeu Symph\" est dans votre Zone Terrain, vous pouvez Invoquer Spécialement 1 monstre \"Guerrier Symphonique\" (\"DJO, Guerrier Symphonique\" exclu) depuis votre Deck à la place, mais annulez ses effets. Vous ne pouvez utiliser cet effet de \"DJO, Guerrier Symphonique\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour, durant votre Main Phase : vous pouvez retourner 1 monstre \"Guerrier Symphonique\" en Position de Défense face verso que vous contrôlez en Position de Défense face recto. Si un effet de monstre \"Guerrier Symphonique\" est activé (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"DJO, Guerrier Symphonique\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13122,
+  "type": "monster",
+  "name": "Drago Ala Occhi Diversi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Tuner OSCURITÀ + 1 mostro \"Ala Chiara\" non-Tuner\nSe questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare solo 1 dei seguenti effetti di \"Drago Ala Occhi Diversi\" per turno, e solo una volta in quel turno.\n●Puoi scegliere come bersaglio 1 Mostro con Effetto controllato dal tuo avversario; annulla i suoi effetti fino alla fine di questo turno.\n●Durante la Battle Phase, se controlli questa carta Synchro Evocata (Effetto Rapido): puoi distruggere tutti i mostri di Livello 5 o superiore controllati dal tuo avversario.",
+  "pendEffect": "Una volta per turno, prima del calcolo dei danni, se un tuo mostro combatte con un mostro dell'avversario: puoi far guadagnare al tuo mostro ATK pari all'ATK del mostro dell'avversario, fino alla fine del Damage Step.",
+  "pendScale": 10,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Synchro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

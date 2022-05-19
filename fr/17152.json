@@ -1,0 +1,17 @@
+{
+  "id": 17152,
+  "type": "monster",
+  "name": "Dragon Immortel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nDurant votre Main Phase : vous pouvez envoyer 1 monstre Zombie depuis votre Deck à votre Cimetière, et si vous le faites, le Niveau de cette carte devient la différence entre les Niveaux d'origine du monstre et de cette carte. Lorsque votre monstre Zombie est détruit au combat, tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Dragon Immortel\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 500,
+  "def": 2400,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

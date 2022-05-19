@@ -1,0 +1,16 @@
+{
+  "id": 17396,
+  "type": "monster",
+  "name": "Fireburst de Libromancia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Libromancia\". Si esta carta fue Invocada por Ritual usando uno o más monstruos en el Campo, no puede ser destruida en batalla, y además cualquier daño de batalla que inflige a tu adversario es duplicado. Esta carta puede hacer hasta 2 ataques a monstruos durante cada Battle Phase. Cuando un monstruo declara un ataque: puedes desterrar 1 Monstruo de Ritual \"Libromancia\" en tu Cementerio; esta carta gana 200 ATK.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Ciberso",
+    "Ritual",
+    "Efecto"
+  ]
+}

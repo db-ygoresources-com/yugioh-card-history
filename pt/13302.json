@@ -1,0 +1,20 @@
+{
+  "id": 13302,
+  "type": "monster",
+  "name": "Hidra V-LAN",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ monstros, exceto Fichas\nGanha 300 de ATK para cada monstro co-linkado a este card. Você pode escolher 1 monstro de Link-3 ou menos co-linkado a este card; ofereça-o como Tributo e, se isso acontecer, Invoque por Invocação-Especial \"Ficha de V-LAN\" (Ciberso/LUZ/Nível 1/ATK 0/DEF 0) igual ao Valor Link do monstro oferecido como Tributo e, além disso, você não pode Invocar monstros por Invocação-Especial com o mesmo Valor Link que o desse monstro alvo pelo resto deste turno. Você só pode usar este efeito de \"Hidra V-LAN\" uma vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Ciberso",
+    "Link",
+    "Efeito"
+  ]
+}

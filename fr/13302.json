@@ -1,0 +1,20 @@
+{
+  "id": 13302,
+  "type": "monster",
+  "name": "Hydre V-LAN",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres (Jetons exclus)\nGagne 300 ATK pour chaque monstre co-lié à cette carte. Vous pouvez cibler 1 monstre de max. Link-3 co-lié à cette carte ; Sacrifiez-le, et si vous le faites, Invoquez Spécialement un nombre de \"Jeton V-LAN\" (Cyberse/LUMIÈRE/Niveau 1/ATK 0/DEF 0) égal à la Classification Lien du monstre Sacrifié, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres avec la même Classification Lien que le monstre ciblé le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Hydre V-LAN\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

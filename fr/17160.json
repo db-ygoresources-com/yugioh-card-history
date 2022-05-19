@@ -1,0 +1,20 @@
+{
+  "id": 17160,
+  "type": "monster",
+  "name": "Tri-Heart Griffrayeur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 Monstres à Effet\nUniquement Invocable par Lien. Tous les monstres face recto sur le Terrain sont changés en Position de Défense. Non affectée par les effets activés des monstres en Position de Défense. Une fois par tour, si cette carte est dans la Zone Monstre Extra : vous pouvez cibler 1 monstre \"Griffrayeur\" de Niveau 3 dans votre Cimetière ; Invoquez-le Spécialement, et si vous le faites, ajoutez 1 monstre \"Griffrayeur\" depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Griffrayeur\" exclus) le reste de ce tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Bête-Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

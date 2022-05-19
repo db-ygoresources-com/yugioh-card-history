@@ -1,0 +1,19 @@
+{
+  "id": 17132,
+  "type": "monster",
+  "name": "Guerreiro Sinfônico Guitariss",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se \"Sinfo Amplificardor\" estiver na sua Zona do Campo: você pode Invocar este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 card na sua Zona de Pêndulo; devolva-o para a mão. Você só pode usar cada efeito de \"Guerreiro Sinfônico Guitariss\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 outro card \"Guerreiro Sinfônico\" que você controla; devolva tanto esse card como este card para a mão. Você só pode usar este efeito de \"Guerreiro Sinfônico Guitariss\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1100,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

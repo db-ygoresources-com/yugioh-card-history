@@ -1,0 +1,16 @@
+{
+  "id": 17154,
+  "type": "monster",
+  "name": "Punisseur de la Fin Psychique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nTant que vos LP sont inférieurs ou égaux à ceux de votre adversaire, cette carte Invoquée par Synchronisation n'est pas affectée par les effets activés de votre adversaire. Une fois par tour : vous pouvez payer 1000 LP, puis ciblez 1 monstre que vous contrôlez et 1 carte contrôlée par votre adversaire ; bannissez-les. Au début de la Battle Phase : vous pouvez faire gagner à cette carte une ATK égale à la différence entre vos LP et ceux de votre adversaire.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3500,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

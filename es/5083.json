@@ -1,0 +1,15 @@
+{
+  "id": 5083,
+  "type": "monster",
+  "name": "Ley Leve Media",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Al comienzo de la Battle Phase de tu adversario: puedes seleccionar cualquier número de monstruos en Posición de Ataque que controle tu adversario; mientras esta carta está en tu Zona de Monstruos, esos monstruos deben atacar esta carta este turno, si pueden. Una vez por turno, cuando es declarado un ataque que involucre esta carta y un monstruo en Posición de Ataque del adversario: puedes negar el ataque y, si lo haces, inflige daño a tu adversario igual a la mitad del ATK original de ese monstruo del adversario.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

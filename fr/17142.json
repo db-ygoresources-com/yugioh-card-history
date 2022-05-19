@@ -1,0 +1,16 @@
+{
+  "id": 17142,
+  "type": "monster",
+  "name": "Jarre Inversée",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Changez autant d'autres monstres sur le Terrain que possible en Position de Défense face verso, puis, renvoyez autant de Magies/Pièges face recto que possible depuis le Terrain à la main, puis, chaque joueur peut Poser un nombre de Magies/Pièges depuis sa main, inférieur ou égal au nombre renvoyé à sa main par cet effet. Vous ne pouvez utiliser cet effet de \"Jarre Inversée\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 800,
+  "def": 900,
+  "properties": [
+    "Rocher",
+    "Flip",
+    "Effet"
+  ]
+}

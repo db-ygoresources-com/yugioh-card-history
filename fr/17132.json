@@ -1,0 +1,19 @@
+{
+  "id": 17132,
+  "type": "monster",
+  "name": "Guitarrisso, Guerrier Symphonique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si \"Amplifeu Symph\" est dans votre Zone Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 carte dans votre Zone Pendule ; renvoyez-la à la main. Vous ne pouvez utiliser chaque effet de \"Guitarrisso, Guerrier Symphonique\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 autre carte \"Guerrier Symphonique\" que vous contrôlez ; renvoyez la carte ainsi que cette carte à la main. Vous ne pouvez utiliser cet effet de \"Guitarrisso, Guerrier Symphonique\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1100,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

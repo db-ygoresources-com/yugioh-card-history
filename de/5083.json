@@ -1,0 +1,15 @@
+{
+  "id": 5083,
+  "type": "monster",
+  "name": "Lichtgesetz Mittel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Am Beginn der Battle Phase deines Gegners: Du kannst eine beliebige Anzahl Monster in Angriffsposition wählen, die dein Gegner kontrolliert; solange diese Karte in deiner Monsterzone liegt, müssen jene Monster in diesem Spielzug diese Karte angreifen, falls möglich. Einmal pro Spielzug, wenn ein Angriff deklariert wird, an dem diese Karte und ein Monster eines Gegners in Angriffsposition beteiligt sind: Du kannst den Angriff annullieren und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der Grund-ATK jenes Monsters des Gegners zu.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

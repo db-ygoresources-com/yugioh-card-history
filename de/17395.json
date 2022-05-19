@@ -1,0 +1,16 @@
+{
+  "id": 17395,
+  "type": "monster",
+  "name": "Libromant Mystimädchen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit einer „Libromant“-Karte als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wurde, indem ein oder mehr Monster auf dem Spielfeld verwendet wurden, kann dein Gegner Ritualmonster, die du kontrollierst, nicht als Ziel für Monstereffekte wählen. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; bis zum Ende dieses Spielzugs, ändere seine ATK zu 0, zusätzlich annulliere seine Effekte. Du kannst diesen Effekt von „Libromant Mystimädchen“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1400,
+  "def": 2100,
+  "properties": [
+    "Fee",
+    "Ritual",
+    "Effekt"
+  ]
+}

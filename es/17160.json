@@ -1,0 +1,20 @@
+{
+  "id": 17160,
+  "type": "monster",
+  "name": "Terrogarra Tri-Heart",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 Monstruos de Efecto\nDebe ser Invocado por Enlace. Todos los monstruos boca arriba en el Campo son cambiados a Posición de Defensa. No es afectado por los efectos activados de monstruos en Posición de Defensa. Una vez por turno, si esta carta está en la Zona de Monstruos Extra: puedes seleccionar 1 monstruo \"Terrogarra\" de Nivel 3 en tu Cementerio; Invócalo de Modo Especial y, si lo haces, añade a tu mano 1 monstruo \"Terrogarra\" en tu Deck, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos \"Terrogarra\".",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Guerrero-Bestia",
+    "Enlace",
+    "Efecto"
+  ]
+}

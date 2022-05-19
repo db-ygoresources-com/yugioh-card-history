@@ -1,0 +1,16 @@
+{
+  "id": 17158,
+  "type": "monster",
+  "name": "Sumo Musical Juegos de Dados",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos de Nivel 6\nAl comienzo de la Battle Phase de tu adversario: si esta carta está en la Zona de Monstruos Principal, lanza un dado de seis caras y mueve esta carta directamente a ese número de Zonas de Monstruos Principales (de 1 a 6) en el sentido de las agujas del reloj y, si un monstruo ya estaba en esa zona a la que se mueve, acopla ese monstruo a esta carta como material. (Transfiere sus materiales a esta carta). Si este efecto causa que el número de materiales de este monstruo sea mayor que 6, ganas el Duelo. Si esta carta no puede ser movida, o el monstruo en la zona a la que se mueve no puede ser acoplado, manda esta carta al Cementerio.",
+  "rank": 6,
+  "atk": 600,
+  "def": 3000,
+  "properties": [
+    "Máquina",
+    "Xyz",
+    "Efecto"
+  ]
+}

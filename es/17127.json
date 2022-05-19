@@ -1,0 +1,15 @@
+{
+  "id": 17127,
+  "type": "monster",
+  "name": "Contendiente Heroico - Espada de Trinchera",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si controlas un monstruo \"Heroico/a\", excepto un monstruo de Nivel 1: puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar otro monstruo Guerrero que controles con un Nivel; el Nivel de ese monstruo o esta carta se convierte en el Nivel del otro, y además no puedes declarar un ataque por el resto de este turno, excepto con Monstruos Xyz. Sólo puedes usar cada efecto de \"Contendiente Heroico - Espada de Trinchera\" una vez por turno.",
+  "level": 1,
+  "atk": 600,
+  "def": 200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

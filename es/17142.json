@@ -1,0 +1,16 @@
+{
+  "id": 17142,
+  "type": "monster",
+  "name": "Jarra Opuesta",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Cambia tantos otros monstruos en el Campo como sea posible a Posición de Defensa boca abajo, y después devuelve a la mano tantas Mágicas/Trampas boca arriba en el Campo como sea posible, y después cada jugador puede Colocar Mágicas/Trampas desde su mano, hasta el número de devueltas a su propia mano por este efecto. Sólo puedes usar este efecto de \"Jarra Opuesta\" una vez por turno.",
+  "level": 3,
+  "atk": 800,
+  "def": 900,
+  "properties": [
+    "Roca",
+    "Volteo",
+    "Efecto"
+  ]
+}

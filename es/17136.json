@@ -1,0 +1,15 @@
+{
+  "id": 17136,
+  "type": "monster",
+  "name": "Antiguos Guerreros - Don Ying Salvaje",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras controlas un monstruo \"Antiguos Guerreros\" de Nivel 7 o mayor, tu adversario debe pagar 400 LP para activar una carta o efecto. Sólo puedes usar cada uno de los siguientes efectos de \"Antiguos Guerreros - Don Ying Salvaje\" una vez por turno. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Antiguos Guerreros\" de Nivel 7 o mayor o 1 Mágica/Trampa Continua \"Antiguos Guerreros\" en tu Deck. Si un monstruo es mandado al Cementerio de tu adversario (excepto durante el Damage Step): puedes seleccionar 1 carta en el Cementerio de tu adversario; destiérrala y, si lo haces, roba 1 carta.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

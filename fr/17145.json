@@ -1,0 +1,19 @@
+{
+  "id": 17145,
+  "type": "monster",
+  "name": "Dragon du Pendulegraphe aux Yeux Impairs",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Avènement des Yeux Impairs\". Uniquement soit Invocable Rituellement soit Invocable par Pendulation depuis votre main. Chaque fois que votre adversaire Invoque Spécialement un ou plusieurs monstres depuis l'Extra Deck, infligez-lui 300 points de dommages. Une fois par tour, lorsque votre adversaire active une Carte Magie ou effet de Magie (Effet Rapide) : vous pouvez placer cette carte dans votre Zone Pendule, et si vous le faites, annulez l'effet, puis, si vous avez placé cette carte Invoquée Rituellement dans la Zone Pendule, vous pouvez Invoquer Spécialement 1 monstre \"Yeux Impairs\" depuis votre Extra Deck.",
+  "pendEffect": "Durant la End Phase : vous pouvez ajouter 1 Magie Rituelle depuis votre Deck ou Cimetière à votre main, puis renvoyez cette carte à la main. Vous ne pouvez utiliser cet effet de \"Dragon du Pendulegraphe aux Yeux Impairs\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Rituel",
+    "Pendule",
+    "Effet"
+  ]
+}

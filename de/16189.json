@@ -1,0 +1,15 @@
+{
+  "id": 16189,
+  "type": "monster",
+  "name": "Krähen-Tengu",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte, die dir gehört, durch einen Karteneffekt eines Gegners zerstört und auf deinen Friedhof gelegt wird oder falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 Monster in Angriffsposition wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst diesen Effekt von „Krähen-Tengu“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17126,
+  "type": "monster",
+  "name": "Algoulmazera",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un ou plusieurs monstres Zombie que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez bannir cette carte depuis votre main ou Cimetière à la place. Si cette carte est bannie depuis la main ou Cimetière : vous pouvez Invoquer Spécialement cette carte en Position de Défense, puis vous pouvez réduire son Niveau de 1. Vous ne pouvez utiliser chaque effet de \"Algoulmazera\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

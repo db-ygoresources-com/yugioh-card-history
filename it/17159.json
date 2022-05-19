@@ -1,0 +1,19 @@
+{
+  "id": 17159,
+  "type": "monster",
+  "name": "Oltre il Pendulum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 Mostri con Effetto, compreso un Mostro Pendulum\nSe questa carta viene Evocata Link nella Zona Mostri Extra: puoi pagare 1200 LP; aggiungi 1 Mostro Pendulum dal tuo Deck alla tua mano, ma per il resto di questo turno, a meno che tu Evochi Pendulum dopo che questo effetto si è risolto, non puoi attivare gli effetti dei mostri, e gli effetti di qualsiasi carta nelle tue Zone Pendulum sono annullati. Se 2 mostri con Livelli originali diversi vengono Evocati Pendulum allo stesso tempo nelle zone puntate da questa carta: puoi scegliere come bersaglio 2 carte sul Terreno; distruggile. Puoi utilizzare questo effetto di \"Oltre il Pendulum\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Incantatore",
+    "Link",
+    "Effetto"
+  ]
+}

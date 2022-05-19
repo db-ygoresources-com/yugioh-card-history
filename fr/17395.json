@@ -1,0 +1,16 @@
+{
+  "id": 17395,
+  "type": "monster",
+  "name": "Mystifille Libromancienne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Libromancien\". Si cette carte a été Invoquée Rituellement en utilisant un ou plusieurs monstres sur le Terrain, votre adversaire ne peut pas cibler les Monstres Rituels que vous contrôlez avec des effets de monstre. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, changez son ATK à 0, et aussi, annulez ses effets. Vous ne pouvez utiliser cet effet de \"Mystifille Libromancienne\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1400,
+  "def": 2100,
+  "properties": [
+    "Elfe",
+    "Rituel",
+    "Effet"
+  ]
+}

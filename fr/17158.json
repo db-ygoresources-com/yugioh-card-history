@@ -1,0 +1,16 @@
+{
+  "id": 17158,
+  "type": "monster",
+  "name": "Jeux de Dé Sumo Musical",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres de Niveau 6\nAu début de la Battle Phase de votre adversaire : si cette carte est dans la Zone Monstre Main, lancez un dé à six faces et déplacez cette carte directement d'autant de Zones Monstre Main (1 à 6) dans le sens des aiguilles d'une montre, et si un monstre est déjà dans la zone dans laquelle elle est déplacée, attachez le monstre à cette carte comme Matériel. (Transférez ses Matériels à cette carte.) Si cet effet fait que le nombre de Matériels de ce monstre est supérieur à 6, vous gagnez le Duel. Si cette carte ne peut pas être déplacée ou que le monstre dans la zone dans laquelle elle est déplacée ne peut pas être attaché, envoyez cette carte au Cimetière.",
+  "rank": 6,
+  "atk": 600,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

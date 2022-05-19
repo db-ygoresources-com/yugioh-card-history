@@ -1,0 +1,16 @@
+{
+  "id": 17146,
+  "type": "monster",
+  "name": "Alba-Lenatus le Dragon des Abysses",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 \"Albaz le Déchu\" + 1+ monstre Dragon\nNon utilisable comme Matériel Fusion. Uniquement soit Invocable par Fusion soit Invocable Spécialement en envoyant les cartes ci-dessus depuis les Zones Monstre au Cimetière. Chaque Battle Phase, cette carte peut attaquer un nombre de fois des monstres, inférieur ou égal au nombre de Matériels utilisés pour elle. Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter 1 Magie Normale \"Polymérisation\" ou Magie Normale \"Fusion\" depuis votre Deck à votre main.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

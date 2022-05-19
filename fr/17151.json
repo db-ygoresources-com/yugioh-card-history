@@ -1,0 +1,16 @@
+{
+  "id": 17151,
+  "type": "monster",
+  "name": "Grand Dragon Squelettique d'Or",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur Zombie + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre contrôlé par votre adversaire ou dans son Cimetière ; bannissez-le. Si un ou plusieurs monstres sont Invoqués Spécialement depuis au moins l'un des Cimetières, tant que ce monstre est sur le Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 autre monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, annulez ses effets. Vous ne pouvez utiliser chaque effet de \"Grand Dragon Squelettique d'Or\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effet"
+  ]
+}

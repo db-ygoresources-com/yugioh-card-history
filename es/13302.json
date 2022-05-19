@@ -1,0 +1,20 @@
+{
+  "id": 13302,
+  "type": "monster",
+  "name": "Hidra V-LAN",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ monstruos, excepto Fichas\nGana 300 ATK por cada monstruo co-enlazado a esta carta. Puedes seleccionar 1 monstruo Link-3 o menor co-enlazado a esta carta; Sacrifícalo y, si lo haces, Invoca de Modo Especial \"Ficha V-LAN\" (Ciberso/LUZ/Nivel 1/ATK 0/DEF 0) iguales al Rating de Enlace del monstruo Sacrificado, y además, por el resto de este turno, no puedes Invocar monstruos de Modo Especial con el mismo Rating de Enlace que el de ese monstruo seleccionado. Sólo puedes usar este efecto de \"Hidra V-LAN\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "2"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

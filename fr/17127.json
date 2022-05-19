@@ -1,0 +1,15 @@
+{
+  "id": 17127,
+  "type": "monster",
+  "name": "Challenger Héroïque - Épée Articulaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si vous contrôlez un monstre \"Héroïque\" (monstres de Niveau 1 exclus) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 autre monstre Guerrier que vous contrôlez avec un Niveau ; le Niveau du monstre ou de cette carte devient du Niveau de l'autre, et aussi, vous ne pouvez pas déclarer d'attaque (sauf avec des Monstres Xyz) le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Challenger Héroïque - Épée Articulaire\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 600,
+  "def": 200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

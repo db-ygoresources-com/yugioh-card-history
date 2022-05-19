@@ -1,0 +1,18 @@
+{
+  "id": 17133,
+  "type": "monster",
+  "name": "Guerrero Sinfónico DJJ",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Guerrero Sinfónico\" en Posición de Defensa boca abajo, excepto \"Guerrero Sinfónico DJJ\", o, si \"Amplifuego Sinf\" está en tu Zona del Campo, puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Guerrero Sinfónico\" en su lugar, excepto \"Guerrero Sinfónico DJJ\", pero niega sus efectos. Sólo puedes usar este efecto de \"Guerrero Sinfónico DJJ\" una vez por turno.",
+  "pendEffect": "Una vez por turno, durante tu Main Phase: puedes voltear 1 monstruo \"Guerrero Sinfónico\" en Posición de Defensa boca abajo que controles a Posición de Defensa boca arriba. Si un efecto de monstruo \"Guerrero Sinfónico\" es activado (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo. Sólo puedes usar este efecto de \"Guerrero Sinfónico DJJ\" una vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

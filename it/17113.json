@@ -1,0 +1,18 @@
+{
+  "id": 17113,
+  "type": "monster",
+  "name": "Artistamico Gentilude",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene distrutta: puoi mettere 1 Mostro Pendulum \"Artistamico\" dal tuo Deck nella tua Zona Pendulum, eccetto \"Artistamico Gentilude\". Se questa carta è scoperta nel tuo Extra Deck: puoi scartare 1 Mostro Pendulum; aggiungi questa carta alla tua mano, poi puoi far ritornare 1 carta \"Artistamico\" o \"Occhi Diversi\" dalla tua Zona Pendulum nella mano. Puoi utilizzare solo 1 effetto di \"Artistamico Gentilude\" per turno, e solo una volta in quel turno.",
+  "pendEffect": "Se \"Artistamico Signorange\" è nella tua altra Zona Pendulum e tu non controlli nessun mostro, o solo Mostri Pendulum: puoi aggiungere 1 carta \"Occhi Diversi\" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Artistamico Gentilude\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

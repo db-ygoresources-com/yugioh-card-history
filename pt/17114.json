@@ -1,0 +1,18 @@
+{
+  "id": 17114,
+  "type": "monster",
+  "name": "Damange Camarartista",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode descartar este card e 1 monstro \"Camarartista\", exceto \"Damange Camarartista\"; compre 2 cards. Se este card estiver no seu Cemitério e você controlar um card \"Olhos Anômalos\" ou \"Gentrude Camarartista\": você pode colocar este card na sua Zona de Pêndulo. Você só pode usar 1 efeito de \"Damange Camarartista\" por turno e apenas uma vez por turno.",
+  "pendEffect": "Uma vez por turno, quando um ataque for declarado envolvendo um monstro seu e um monstro do oponente: você pode descartar 1 Monstro Pêndulo; esse monstro do oponente perde 1000 de ATK até o final deste turno.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

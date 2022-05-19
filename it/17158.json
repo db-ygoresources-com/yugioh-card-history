@@ -1,0 +1,16 @@
+{
+  "id": 17158,
+  "type": "monster",
+  "name": "Giochi di Dadi Sumo Musicale",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "2 mostri di Livello 6\nAll'inizio della Battle Phase del tuo avversario: se questa carta è nella Zona Mostri Main, tira un dado a sei facce e sposta questa carta direttamente di quel numero (da 1 a 6) di Zone Mostri Main in senso orario e, se in quella zona in cui si sposta c'è già un mostro, attacca quel mostro a questa carta come materiale. (Trasferisci i suoi materiali su questa carta.) Se questo effetto fa sì che il numero di materiali di questo mostro sia superiore a 6, vinci il Duello. Se questa carta non può essere spostata, o se il mostro nella zona in cui si sposta non può essere attaccato, manda questa carta al Cimitero.",
+  "rank": 6,
+  "atk": 600,
+  "def": 3000,
+  "properties": [
+    "Macchina",
+    "Xyz",
+    "Effetto"
+  ]
+}
