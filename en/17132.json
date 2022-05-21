@@ -1,0 +1,19 @@
+{
+  "id": 17132,
+  "type": "monster",
+  "name": "Symphonic Warrior Guitariss",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "If \"Symph Amplifire\" is in your Field Zone: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 card in your Pendulum Zone; return it to the hand. You can only use each effect of \"Symphonic Warrior Guitariss\" once per turn.",
+  "pendEffect": "You can target 1 other \"Symphonic Warrior\" card you control; return both that card and this card to the hand. You can only use this effect of \"Symphonic Warrior Guitariss\" once per turn.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1100,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Tuner",
+    "Effect"
+  ]
+}

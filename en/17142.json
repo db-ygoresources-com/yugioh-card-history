@@ -1,0 +1,16 @@
+{
+  "id": 17142,
+  "type": "monster",
+  "name": "Reverse Jar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Change as many other monsters on the field as possible to face-down Defense Position, then, return as many face-up Spells/Traps as possible from the field to the hand, then, each player can Set Spells/Traps from their hand, up to the number returned to their own hand by this effect. You can only use this effect of \"Reverse Jar\" once per turn.",
+  "level": 3,
+  "atk": 800,
+  "def": 900,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}
