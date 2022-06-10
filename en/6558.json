@@ -4,7 +4,7 @@
   "name": "Gorz the Emissary of Darkness",
   "englishAttribute": "dark",
   "localizedAttribute": "DARK",
-  "effectText": "When you take damage from a card in your opponent's possession: You can Special Summon this card from your hand. You must control no cards to activate and to resolve this effect. If Summoned this way, activate the appropriate effect, based on the type of damage:\n●Battle damage: Special Summon 1 \"Emissary of Darkness Token\" (Fairy-Type/LIGHT/Level 7/ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.\n●Effect damage: Inflict damage to your opponent equal to the amount of damage you took.",
+  "effectText": "When you take damage from a card in your opponent's possession: You can Special Summon this card from your hand. You must control no cards to activate and to resolve this effect. When this card is Special Summoned by its effect: Activate the appropriate effect, based on the type of damage.\n●Battle damage: Special Summon 1 \"Emissary of Darkness Token\" (Fairy/LIGHT/Level 7/ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.\n●Effect damage: Inflict damage to your opponent equal to the damage you took.",
   "level": 7,
   "atk": 2700,
   "def": 2500,
