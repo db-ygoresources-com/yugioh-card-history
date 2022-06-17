@@ -1,0 +1,15 @@
+{
+  "id": 17039,
+  "type": "monster",
+  "name": "Tiburón del Abismo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta es usada para la Invocación Xyz de un monstruo \"Número\", puede ser tratada como un monstruo de Nivel 3 o 4. Si todos los monstruos que controlas son de AGUA (mín. 1): puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, añade a tu mano 1 monstruo Pez de Nivel 3, 4 o 5 en tu Deck, excepto \"Tiburón del Abismo\". Por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos de AGUA y además, este turno duplica el primer daño de batalla infligido a tu adversario por tu monstruo \"Número\" que batalle con otro monstruo. Sólo puedes usar este efecto de \"Tiburón del Abismo\" una vez por turno.",
+  "level": 5,
+  "atk": 1200,
+  "def": 700,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17048,
+  "type": "monster",
+  "name": "Verdammniskrake",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich „Umi“ auf dem Spielfeld befindet (Schnelleffekt): Du kannst 1 WASSER Monster, das du kontrollierst, außer „Verdammniskrake“, und 1 Monster, das dein Gegner kontrolliert, wählen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, gib jenes Monster, das du kontrollierst, auf die Hand zurück und falls du dies tust, zerstöre jenes Monster des Gegners. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte auf die Hand zurückgeben und falls du dies tust, annulliere jenen Angriff. Du kannst jeden Effekt von „Verdammniskrake“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

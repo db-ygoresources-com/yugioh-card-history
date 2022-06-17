@@ -1,0 +1,15 @@
+{
+  "id": 17039,
+  "type": "monster",
+  "name": "Abgrundhai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte für die Xyz-Beschwörung eines „Nummer“-Monsters verwendet wird, kann sie als Monster der Stufe 3 oder 4 behandelt werden. Falls alle Monster, die du kontrollierst, WASSER sind (min. 1): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, füge deiner Hand 1 Fisch-Monster der Stufe 3, 4 oder 5 von deinem Deck hinzu, außer „Abgrundhai“. Für den Rest dieses Spielzugs kannst du keine Monster als Spezialbeschwörung beschwören, außer WASSER Monstern, zusätzlich verdopple den ersten Kampfschaden, der deinem Gegner in diesem Spielzug von deinem „Nummer“-Monster zugefügt wird, das gegen ein anderes Monster kämpft. Du kannst diesen Effekt von „Abgrundhai“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1200,
+  "def": 700,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

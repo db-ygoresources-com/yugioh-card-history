@@ -1,0 +1,20 @@
+{
+  "id": 17055,
+  "type": "monster",
+  "name": "Marinzessin Korallendreieck",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2+ „Marinzessin“-Monster\nDu kannst 1 WASSER Monster von deiner Hand auf deinen Friedhof legen; füge deiner Hand 1 „Marinzessin“-Falle von deinem Deck hinzu. Falls nur dein Gegner ein Monster kontrolliert: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre WASSER Linkmonster, deren kombinierte Linkzahl genau 3 entspricht, als Spezialbeschwörung von deinem Friedhof. Du kannst jeden Effekt von „Marinzessin Korallendreieck“ nur einmal pro Spielzug verwenden. Du kannst in dem Spielzug, in dem du einen der Effekte dieser Karte aktivierst, keine Monster als Spezialbeschwörung beschwören, außer WASSER Monstern.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

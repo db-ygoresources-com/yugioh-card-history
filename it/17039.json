@@ -1,0 +1,15 @@
+{
+  "id": 17039,
+  "type": "monster",
+  "name": "Squalo Abisso",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se questa carta viene utilizzata per l'Evocazione Xyz di un mostro \"Numero\", essa può essere considerata come un mostro di Livello 3 o 4. Se tutti i mostri che controlli sono ACQUA (minimo 1): puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, aggiungi 1 mostro Pesce di Livello 3, 4 o 5 dal tuo Deck alla tua mano, eccetto \"Squalo Abisso\". Per il resto di questo turno, non puoi Evocare Specialmente mostri, eccetto mostri ACQUA, inoltre raddoppia il primo danno da combattimento inflitto al tuo avversario in questo turno da un tuo mostro \"Numero\" che sta combattendo un altro mostro. Puoi utilizzare questo effetto di \"Squalo Abisso\" una sola volta per turno.",
+  "level": 5,
+  "atk": 1200,
+  "def": 700,
+  "properties": [
+    "Pesce",
+    "Effetto"
+  ]
+}

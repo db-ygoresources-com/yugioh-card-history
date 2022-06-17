@@ -1,0 +1,15 @@
+{
+  "id": 17039,
+  "type": "monster",
+  "name": "Requin des Abysses",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est utilisée pour l'Invocation Xyz d'un monstre \"Numéro\", elle peut être traitée comme un monstre de Niveau 3 ou 4. Si tous les monstres que vous contrôlez sont EAU (min. 1) : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, ajoutez 1 monstre Poisson de Niveau 3, 4 ou 5 (\"Requin des Abysses\" exclu) depuis votre Deck à votre main. Le reste de ce tour, vous ne pouvez pas Invoquer Spécialement de monstres (monstres EAU exclus), et aussi, doublez les premiers dommages de combat infligés à votre adversaire ce tour par votre monstre \"Numéro\" combattant un autre monstre. Vous ne pouvez utiliser cet effet de \"Requin des Abysses\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1200,
+  "def": 700,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}
