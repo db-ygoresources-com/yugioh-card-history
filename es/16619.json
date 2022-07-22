@@ -1,0 +1,15 @@
+{
+  "id": 16619,
+  "type": "monster",
+  "name": "Duende Místico - Relámpago Blanco",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando un monstruo que controle tu adversario activa su efecto, mientras tú controles un Monstruo Normal de Nivel 5 o mayor (Efecto Rápido): puedes Invocar esta carta de Modo Especial, desde tu mano y, si lo haces, niega ese efecto. Durante la Battle Phase de tu adversario (Efecto Rápido): puedes seleccionar 1 Monstruo Normal en cualquier Cementerio; Invócalo de Modo Especial a tu Campo y, si lo haces, este turno todos los monstruos que controle tu adversario deben atacar a ese monstruo si pueden, mientras tú lo controles. Sólo puedes usar cada efecto de \"Duende Místico - Relámpago Blanco\" una vez por turno.",
+  "level": 4,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

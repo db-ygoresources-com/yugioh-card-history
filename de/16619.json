@@ -1,0 +1,15 @@
+{
+  "id": 16619,
+  "type": "monster",
+  "name": "Mystische Elfe - Weißer Blitz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn der Effekt eines Monsters, das dein Gegner kontrolliert, aktiviert wird, solange du ein Normales Monster der Stufe 5 oder höher kontrollierst (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, annulliere jenen Effekt. Während der Battle Phase deines Gegners (Schnelleffekt): Du kannst 1 Normales Monster in einem beliebigen Friedhof wählen; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite und falls du dies tust, müssen alle Monster, die dein Gegner kontrolliert, jenes Monster in diesem Spielzug angreifen, falls möglich, solange du es kontrollierst. Du kannst jeden Effekt von „Mystische Elfe - Weißer Blitz“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}
