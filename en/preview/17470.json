@@ -1,0 +1,10 @@
+{
+  "id": 17470,
+  "type": "spell",
+  "name": "Digit Jamming",
+  "englishAttribute": "spell",
+  "localizedAttribute": "SPELL",
+  "effectText": "During damage calculation, if a monster battles while a monster with 1000 or more ATK is on the field: The ATK of all monsters currently on the field becomes reduced by 1000 for every 1000 ATK they have, also their DEF becomes reduced by 1000 for every 1000 DEF they have. If this card is destroyed: Apply the above ATK/DEF adjustments to all monsters currently on the field, until the end of this turn.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continuous"
+}

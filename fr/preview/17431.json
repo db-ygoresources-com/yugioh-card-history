@@ -1,0 +1,15 @@
+{
+  "id": 17431,
+  "type": "monster",
+  "name": "Soma Krawler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez cibler 1 monstre face recto que vous contrôlez ; Invoquez Spécialement cette carte depuis votre main, et si vous le faites, changez le monstre ciblé en Position de Défense face verso, et aussi, il ne peut pas changer sa position de combat le reste de ce tour. Durant votre Main Phase : vous pouvez réduire le Niveau de cette carte de 2 ou 4, et si vous le faites, Invoquez Spécialement un ou plusieurs monstres \"Krawler\" de noms différents depuis votre main, Deck ou Cimetière dont le Niveau total est égal au montant réduit, en Position de Défense face recto et/ou face verso. Vous ne pouvez utiliser chaque effet de \"Soma Krawler\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

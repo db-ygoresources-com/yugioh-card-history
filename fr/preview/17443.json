@@ -1,0 +1,16 @@
+{
+  "id": 17443,
+  "type": "monster",
+  "name": "Homme-Oiseau Néos Lumineux, HÉROS Élémentaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Néos, HÉROS Élémentaire\" + 1 Monstre Fusion \"Homme-Oiseau\"\nUniquement Invocable par Fusion. Gagne 300 ATK pour chaque monstre dans votre Cimetière, et aussi, non destructible par des effets de carte. Si cette carte est Invoquée Spécialement : vous pouvez détruire un nombre de cartes contrôlées par votre adversaire, inférieur ou égal au nombre d'Attributs différents parmi les monstres sur le Terrain. Vous ne pouvez utiliser cet effet de \"Homme-Oiseau Néos Lumineux, HÉROS Élémentaire\" qu'une fois par tour. Si cette carte détruit un monstre au combat : infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

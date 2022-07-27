@@ -1,0 +1,16 @@
+{
+  "id": 17596,
+  "type": "monster",
+  "name": "Téléfon Morphtronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "●Position d'Attaque : Une fois par tour, durant votre Main Phase : vous pouvez lancer un dé à six faces, et gagnez des LP égaux au résultat x 100, puis vous pouvez Invoquer Spécialement 1 monstre \"Morphtronique\" depuis votre Cimetière de Niveau inférieur ou égal au résultat.\n●Position de Défense : Une fois par tour, durant votre Main Phase : vous pouvez lancer un dé à six faces, dévoilez autant de cartes du dessus de votre Deck (ou autant que vous pouvez), et si vous le faites, vous pouvez envoyer 1 carte \"Morphtronique\" dévoilée au Cimetière, et aussi, placez les cartes restantes soit au-dessus soit au-dessous du Deck dans l'ordre de votre choix.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

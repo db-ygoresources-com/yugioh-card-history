@@ -1,0 +1,15 @@
+{
+  "id": 17407,
+  "type": "monster",
+  "name": "Duendecillos Spright",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas un monstruo de Nivel/Rango 2, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial \"Duendecillos Spright\" una vez por turno de esta forma. Durante el cálculo de daño, si otro monstruo de Nivel/Rango/Link 2 que controlas batalla con un monstruo del adversario (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano o Campo; ese monstruo que controlas gana ATK/DEF iguales al ATK del monstruo del adversario, hasta el final de este turno. Sólo puedes usar este efecto de \"Duendecillos Spright\" una vez por turno.",
+  "level": 2,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

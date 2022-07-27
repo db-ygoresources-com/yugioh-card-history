@@ -1,0 +1,15 @@
+{
+  "id": 17434,
+  "type": "monster",
+  "name": "Aussa die Erdkanalisiererin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "(Diese Karte wird immer als „Verzaubererin“-Karte behandelt.)\nDu kannst diese Karte und 1 ERDE Monster abwerfen; füge deiner Hand 1 ERDE Monster mit 1850 oder weniger ATK, dessen Grund-Typ derselbe wie der eines der abgeworfenen Monsters ist, von deinem Deck hinzu, zusätzlich kannst du für den Rest dieses Spielzugs keine Nicht-ERDE Monstereffekte aktivieren. Wenn dein ERDE Monster durch Kampf zerstört wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst jeden Effekt von „Aussa die Erdkanalisiererin“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1850,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

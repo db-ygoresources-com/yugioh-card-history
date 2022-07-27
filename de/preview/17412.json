@@ -1,0 +1,16 @@
+{
+  "id": 17412,
+  "type": "monster",
+  "name": "Eisjade-Schöpfung Aegirocassis",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange diese Karte ein Monster ausrüstet, erhält das ausgerüstete Monster für jedes verbannte Monster 400 ATK/DEF. Du kannst nur 1 der folgenden Effekte von „Eisjade-Schöpfung Aegirocassis“ pro Spielzug verwenden und in jenem Spielzug nur einmal. Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet (außer während des Damage Steps) (Schnelleffekt): Du kannst 1 „Eisjade“-Monster wählen, das du kontrollierst; rüste jenes Monster, das du kontrollierst, mit dieser Karte aus. Solange diese Karte ein Monster ausrüstet: Du kannst diese Karte als Spezialbeschwörung beschwören.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

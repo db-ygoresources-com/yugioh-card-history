@@ -1,0 +1,16 @@
+{
+  "id": 17596,
+  "type": "monster",
+  "name": "Telefon Morfotronico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "●Posizione di Attacco: Una volta per turno, durante la tua Main Phase: puoi tirare un dado a sei facce e guadagnare LP pari al risultato x 100, poi puoi Evocare Specialmente dal tuo Cimitero 1 mostro \"Morfotronico\" con un Livello pari o inferiore al risultato.\n●Posizione di Difesa: Una volta per turno, durante la tua Main Phase: puoi tirare un dado a sei facce, dissotterrare quel numero di carte dalla cima del tuo Deck (o tante quante puoi) e, se lo fai, puoi mandare 1 carta \"Morfotronico\" dissotterrata al Cimitero, inoltre metti il resto in cima oppure in fondo al Deck in qualsiasi ordine.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Macchina",
+    "Tuner",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17443,
+  "type": "monster",
+  "name": "HÉROE Elemental Neos Shining Wingman",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"HÉROE Elemental Neos\" + 1 Monstruo de Fusión \"Wingman\"\nDebe ser Invocado por Fusión. Gana 300 ATK por cada monstruo en tu Cementerio, y además no puede ser destruido por efectos de cartas. Si esta carta es Invocada de Modo Especial: puedes destruir cartas que controle tu adversario hasta el número de Atributos diferentes de entre los monstruos en el Campo. Sólo puedes usar este efecto de \"HÉROE Elemental Neos Shining Wingman\" una vez por turno. Si esta carta destruye un monstruo en batalla: inflige daño a tu adversario igual al ATK original de ese monstruo.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2500,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

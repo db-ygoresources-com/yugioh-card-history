@@ -1,0 +1,16 @@
+{
+  "id": 17596,
+  "type": "monster",
+  "name": "Telefon Morfotrónico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "●Posición de Ataque: Una vez por turno, durante tu Main Phase: puedes lanzar un dado de seis caras y ganar LP iguales al resultado x 100, y después puedes Invocar de Modo Especial, desde tu Cementerio, 1 monstruo \"Morfotrónico/a\" con un Nivel igual o menor al resultado.\n●Posición de Defensa: Una vez por turno, durante tu Main Phase: puedes lanzar un dado de seis caras, excavar ese número de cartas de la parte superior de tu Deck (o tantas como puedas) y, si lo haces, puedes mandar al Cementerio 1 carta \"Morfotrónico/a\" excavada, y además pon el resto en la parte inferior o superior del Deck en cualquier orden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

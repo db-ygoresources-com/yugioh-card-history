@@ -1,0 +1,16 @@
+{
+  "id": 17596,
+  "type": "monster",
+  "name": "Morphtronisches Telefon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "●Angriffsposition: Einmal pro Spielzug, während deiner Main Phase: Du kannst einen sechsseitigen Würfel werfen und du erhältst LP in Höhe des Ergebnisses x 100, dann kannst du 1 „Morphtronisch“-Monster mit einer Stufe kleiner oder gleich dem Ergebnis als Spezialbeschwörung von deinem Friedhof beschwören.\n●Verteidigungsposition: Einmal pro Spielzug, während deiner Main Phase: Du kannst einen sechsseitigen Würfel werfen, so viele oberste Karten deines Decks ausgraben (oder so viele du kannst) und falls du dies tust, kannst du 1 ausgegrabene „Morphtronisch“-Karte auf den Friedhof legen, zusätzlich lege den Rest in beliebiger Reihenfolge enweder auf oder unters Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

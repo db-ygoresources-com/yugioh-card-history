@@ -1,0 +1,15 @@
+{
+  "id": 17434,
+  "type": "monster",
+  "name": "Aussa la Canalisatrice de Terre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"la Charmeuse\".)\nVous pouvez défausser cette carte et 1 monstre TERRE ; ajoutez 1 monstre TERRE avec max. 1850 ATK, dont le Type d'origine est le même que celui d'un des monstres défaussés, depuis votre Deck à votre main, et aussi, vous ne pouvez pas activer d'effets de monstre non-TERRE le reste de ce tour. Lorsque votre monstre TERRE est détruit au combat : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous ne pouvez utiliser chaque effet de \"Aussa la Canalisatrice de Terre\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1850,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

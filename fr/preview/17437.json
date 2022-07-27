@@ -1,0 +1,15 @@
+{
+  "id": 17437,
+  "type": "monster",
+  "name": "Propa Gandake",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, si vous contrôlez un ou plusieurs monstres dont le Type d'origine est Bête, Insecte, Plante ou Rocher : vous pouvez déclarer 1 de ces Types que vous contrôlez ; cette carte devient du Type déclaré. Si cette carte a appliqué cet effet, appliquez aussi les effets suivants tant qu'elle reste dans la Zone Monstre.\n●Tous les monstres face recto sur le Terrain deviennent du même Type que cette carte.\n●Les monstres sur le Terrain du Type de cette carte ne peuvent être ciblés par aucun des joueurs en utilisant les effets des monstres contrôlés par votre adversaire du même Type.",
+  "level": 3,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

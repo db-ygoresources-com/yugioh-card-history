@@ -1,0 +1,10 @@
+{
+  "id": 17470,
+  "type": "spell",
+  "name": "Interferencia de Dígitos",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Durante el cálculo de daño, si un monstruo batalla mientras un monstruo con 1000 ATK o más está en el Campo: el ATK de todos los monstruos en el Campo en este momento se reduce en 1000 por cada 1000 ATK que tengan, y además su DEF se reduce en 1000 por cada 1000 DEF que tengan. Si esta carta es destruida: aplica los ajustes de ATK/DEF mencionados arriba a todos los monstruos en el Campo en este momento, hasta el final de este turno.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

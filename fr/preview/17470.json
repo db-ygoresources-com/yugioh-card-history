@@ -1,0 +1,10 @@
+{
+  "id": 17470,
+  "type": "spell",
+  "name": "Brouillage Chiffré",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Durant le calcul des dommages, si un monstre combat tant qu'un monstre avec min. 1000 ATK est sur le Terrain : l'ATK de tous les monstres actuellement sur le Terrain sera réduite de 1000 pour chaque 1000 ATK qu'ils ont, et aussi, leur DEF sera réduite de 1000 pour chaque 1000 DEF qu'ils ont. Si cette carte est détruite : jusqu'à la fin de ce tour, appliquez les ajustements d'ATK/DEF ci-dessus à tous les monstres actuellement sur le Terrain.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

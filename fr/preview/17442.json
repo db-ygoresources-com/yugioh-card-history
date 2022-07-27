@@ -1,0 +1,16 @@
+{
+  "id": 17442,
+  "type": "monster",
+  "name": "Charognard Vendetterreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Vendetterreur\". Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre Zombie ; jusqu'à la fin de ce tour, cette carte gagne une ATK égale à l'ATK d'origine du monstre Sacrifié. Si vous contrôlez \"Assassin Revendetterreur\" et que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Charognard Vendetterreur\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Rituel",
+    "Effet"
+  ]
+}

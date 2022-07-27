@@ -1,0 +1,16 @@
+{
+  "id": 17443,
+  "type": "monster",
+  "name": "Homem-Alado Neos Brilhante, o HERÓI do Elemento",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Neos, o HERÓI do Elemento\" + 1 Monstro de Fusão \"Homem-Alado\"\nDeve ser Invocado por Invocação-Fusão. Ganha 300 de ATK para cada monstro no seu Cemitério e, além disso, não pode ser destruído por efeitos de card. Se este card for Invocado por Invocação-Especial: você pode destruir cards que seu oponente controla até o número de Atributos diferentes entre os monstros no campo. Você só pode usar este efeito de \"Homem-Alado Neos Brilhante, o HERÓI do Elemento\" uma vez por turno. Se este card destruir um monstro em batalha: cause dano ao seu oponente igual ao ATK original desse monstro.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2500,
+  "properties": [
+    "Guerreiro",
+    "Fusão",
+    "Efeito"
+  ]
+}

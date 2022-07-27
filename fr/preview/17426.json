@@ -1,0 +1,15 @@
+{
+  "id": 17426,
+  "type": "monster",
+  "name": "Balafre de la Vendetterreur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est envoyée au Cimetière : vous pouvez ajouter 1 Magie/Piège \"Vendetterreur\" depuis votre Deck à la main. Si un ou plusieurs monstres sur le Terrain sont Sacrifiés, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir 1 autre monstre Zombie depuis votre Cimetière ; Invoquez Spécialement cette carte, et si vous le faites, tant qu'elle est face recto dans la Zone Monstre, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Vendetterreur\" exclus). Vous ne pouvez utiliser chaque effet de \"Balafre de la Vendetterreur\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2300,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17751,
+  "type": "monster",
+  "name": "Shif, Fée du Ghoti",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Poisson que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 500 ATK. Durant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez Invoquer Spécialement cette carte bannie. Durant la Main Phase de votre adversaire, si cette carte a été Invoquée Spécialement ce tour, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro Poisson en utilisant cette carte que vous contrôlez. Vous ne pouvez utiliser chaque effet de \"Shif, Fée du Ghoti\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Poisson",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

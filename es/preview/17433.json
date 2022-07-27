@@ -1,0 +1,15 @@
+{
+  "id": 17433,
+  "type": "monster",
+  "name": "Kurikara Divincarnación",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando todos los monstruos boca arriba en el Campo que activaron sus efectos este turno en la Zona de Monstruos de tu adversario. Gana 1500 ATK por cada monstruo Sacrificado para Invocar esta carta de Modo Especial. Durante tu End Phase: puedes seleccionar 1 monstruo en el Cementerio de tu adversario; Invócalo de Modo Especial a tu Campo. Sólo puedes usar este efecto de \"Kurikara Divincarnación\" una vez por turno.",
+  "level": 1,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}
