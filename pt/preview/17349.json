@@ -1,0 +1,18 @@
+{
+  "id": 17349,
+  "type": "monster",
+  "name": "Nazuki, o Ninja Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Você pode escolher 1 outro monstro em qualquer Zona de Monstros Principal; mova esse monstro para uma Zona de Monstros adjacente (horizontal). Se este card na Zona de Monstros se mover para outra Zona de Monstros: você pode escolher 1 Card de Monstro \"Vaylantz\" na sua Zona de Magias & Armadilhas; Invoque-o por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna. Você só pode usar cada efeito de \"Nazuki, o Ninja Vaylantz\" uma vez por turno.",
+  "pendEffect": "Se \"Mundo Vaylantz - Shinra Bansho\" estiver em uma Zona do Campo ou se você controlar um monstro \"Vaylantz\" de ÁGUA: você pode Invocar este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna. Você só pode usar este efeito de \"Nazuki, o Ninja Vaylantz\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

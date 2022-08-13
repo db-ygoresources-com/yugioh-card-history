@@ -1,0 +1,18 @@
+{
+  "id": 17348,
+  "type": "monster",
+  "name": "Saion l'Archer Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si vous contrôlez cette carte Invoquée Spécialement : vous pouvez cibler 1 Monstre à Effet sur le Terrain ; lancez une pièce et si le résultat est face, annulez ses effets, ou si le résultat est pile, divisez par deux son ATK. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : vous pouvez cibler 1 carte sur le Terrain ; lancez une pièce et si le résultat est face, détruisez-la, ou si le résultat est pile, renvoyez-la à la main. Vous ne pouvez utiliser chaque effet de \"Saion l'Archer Vaylantz\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres non-\"Vaylantz\" le reste de ce tour, sauf depuis l'Extra Deck. Vous ne pouvez utiliser cet effet de \"Saion l'Archer Vaylantz\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

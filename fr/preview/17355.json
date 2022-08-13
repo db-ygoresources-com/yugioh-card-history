@@ -1,0 +1,19 @@
+{
+  "id": 17355,
+  "type": "monster",
+  "name": "Mamonaka l'Union Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "3 monstres \"Vaylantz\"\nDurant la Main Phase (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet dans la Zone Monstre Main de votre adversaire ; placez face recto le monstre de l'adversaire comme Magie Continue dans sa Zone Magie & Piège dans sa même colonne. (Si la zone est occupée, détruisez la carte qui l'occupe, et si c'est une Carte Monstre, votre adversaire perd des LP égaux à son ATK.) Vous ne pouvez utiliser cet effet de \"Mamonaka l'Union Vaylantz\" qu'une fois par tour. Si cette carte Invoquée Spécialement que vous contrôlez est détruite par un effet de carte de votre adversaire : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Vous pouvez activer 1 de ces effets ;\n●Invoquez Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne.\n●Déplacez 1 monstre dans votre Zone Monstre Main dans une Zone Monstre (horizontale) adjacente.\nVous ne pouvez utiliser cet effet de \"Mamonaka l'Union Vaylantz\" qu'une fois par tour.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

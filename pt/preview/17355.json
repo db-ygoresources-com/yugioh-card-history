@@ -1,0 +1,19 @@
+{
+  "id": 17355,
+  "type": "monster",
+  "name": "Mamonaka, os Vaylantz Unidos",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "3 monstros \"Vaylantz\"\nDurante a Fase Principal (Efeito Rápido): você pode escolher 1 Monstro de Efeito na Zona de Monstros Principal do seu oponente; coloque esse monstro do oponente com a face para cima como uma Magia Contínua na Zona de Magias & Armadilhas dele em sua mesma coluna. (Se a zona estiver ocupada, destrua o card que a estiver ocupando e, se for um Card de Monstro, seu oponente perde PV igual ao seu ATK). Você só pode usar este efeito de \"Mamonaka, os Vaylantz Unidos\" uma vez por turno. Se este card Invocado por Invocação-Especial que você controla for destruído por um efeito de card do seu oponente: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Você pode ativar 1 desses efeitos;\n●Invoque este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna.\n●Mova 1 monstro na sua Zona de Monstros Principal para uma Zona de Monstros adjacente (horizontal).\nVocê só pode usar este efeito de \"Mamonaka, os Vaylantz Unidos\" uma vez por turno.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Mago",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

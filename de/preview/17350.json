@@ -1,0 +1,18 @@
+{
+  "id": 17350,
+  "type": "monster",
+  "name": "Hojo der Vaylantz-Krieger",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 offene Karte in einer beliebigen Zauber- & Fallenzone wählen; gib sie auf die Hand zurück. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird (außer während des Damage Steps): Du kannst 1 „Vaylantz“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dafür Monster von deiner Hand, deiner Spielfeldseite und/oder deinen Pendelzonen. Du kannst jeden Effekt von „Hojo der Vaylantz-Krieger“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls „Vaylantz-Welt - Shinra Bansho“ in einer Spielfeldzone liegt oder falls du ein WASSER „Vaylantz“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören. Du kannst diesen Effekt von „Hojo der Vaylantz-Krieger“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1900,
+  "def": 1900,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

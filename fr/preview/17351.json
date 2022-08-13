@@ -1,0 +1,18 @@
+{
+  "id": 17351,
+  "type": "monster",
+  "name": "Baron du Brisement Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si vous contrôlez cette carte Invoquée Spécialement : vous pouvez cibler 1 autre monstre \"Vaylantz\" dans votre Zone Monstre Main ; déplacez le monstre que vous contrôlez dans une Zone Monstre (horizontale) adjacente. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : vous pouvez cibler 1 carte dans la Zone Pendule d'un joueur ; placez-la face recto dans sa Zone Magie & Piège adjacente comme Magie Continue. Vous ne pouvez utiliser chaque effet de \"Baron du Brisement Vaylantz\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres non-\"Vaylantz\" le reste de ce tour, sauf depuis l'Extra Deck. Vous ne pouvez utiliser cet effet de \"Baron du Brisement Vaylantz\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

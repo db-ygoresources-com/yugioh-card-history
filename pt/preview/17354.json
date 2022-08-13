@@ -1,0 +1,18 @@
+{
+  "id": 17354,
+  "type": "monster",
+  "name": "Duque Dominador Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Você pode escolher 1 card Baixado na Zona de Magias & Armadilhas; esse card Baixado não pode ser ativado neste turno (mesmo que este card deixe o campo). Se este card na Zona de Monstros se mover para outra Zona de Monstros: você pode escolher 1 monstro com a face para cima na Zona de Monstros Principal do seu oponente; tome o controle desse monstro com a face para cima, mas ele não pode declarar um ataque nem ativar seus efeitos e, além disso, ele é considerado como um monstro \"Vaylantz\". Você só pode usar cada efeito de \"Duque Dominador Vaylantz\" uma vez por turno.",
+  "pendEffect": "Se \"Mundo Vaylantz - Konig Wissen\" estiver em uma Zona do Campo ou se você controlar um monstro \"Vaylantz\" de FOGO: você pode Invocar este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna. Você só pode usar este efeito de \"Duque Dominador Vaylantz\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

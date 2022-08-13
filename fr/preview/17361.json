@@ -1,0 +1,15 @@
+{
+  "id": 17361,
+  "type": "monster",
+  "name": "Archdémon Labrynth",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Gagne 400 ATK pour chaque Piège Normal de nom différent dans votre Cimetière. Les monstres de votre adversaire ne peuvent pas cibler de monstres Démon (\"Archdémon Labrynth\" exclu) avec une attaque. Vous ne pouvez utiliser chacun des effets suivants de \"Archdémon Labrynth\" qu'une fois par tour. Si une Carte Piège est activée (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement : vous pouvez Poser 1 Piège Normal depuis votre Deck qui ne peut être activé que lorsqu'une attaque est déclarée.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

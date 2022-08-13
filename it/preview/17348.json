@@ -1,0 +1,18 @@
+{
+  "id": 17348,
+  "type": "monster",
+  "name": "Saion l'Arciere Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se controlli questa carta Evocata Specialmente: puoi scegliere come bersaglio 1 Mostro con Effetto sul Terreno; lancia una moneta e, se il risultato è testa, annulla i suoi effetti o, se il risultato è croce, dimezza il suo ATK. Se questa carta nella Zona Mostri si sposta in un'altra Zona Mostri: puoi scegliere come bersaglio 1 carta sul Terreno; lancia una moneta e, se il risultato è testa, distruggila o, se il risultato è croce, falla ritornare nella mano. Puoi utilizzare ogni effetto di \"Saion l'Arciere Vaylantz\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi Evocare Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna, inoltre non puoi Evocare Specialmente mostri non-\"Vaylantz\" per il resto di questo turno, eccetto dall'Extra Deck. Puoi utilizzare questo effetto di \"Saion l'Arciere Vaylantz\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

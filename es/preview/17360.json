@@ -1,0 +1,15 @@
+{
+  "id": 17360,
+  "type": "monster",
+  "name": "Precioso Labrislinto del Castillo Plateado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Tu adversario no puede activar efectos de monstruos en respuesta a la activación de tus Cartas de Trampa Normales. Sólo puedes usar cada uno de los siguientes efectos de \"Precioso Labrislinto del Castillo Plateado\" una vez por turno. Puedes seleccionar 1 Trampa Normal en tu Cementerio; Colócala en tu Campo, pero ésta no puede ser activada a menos que controles un monstruo Demonio. Si otro u otros monstruos dejan el Campo por efecto de tu Trampa Normal (excepto durante el Damage Step): puedes destruir 1 carta en la mano (al azar) o Campo de tu adversario.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

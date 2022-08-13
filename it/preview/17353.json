@@ -1,0 +1,18 @@
+{
+  "id": 17353,
+  "type": "monster",
+  "name": "Marchese Pazzo Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Durante la tua Main Phase: puoi tirare un dado a sei facce, dissotterra quel numero di carte dalla cima del tuo Deck (o tante quante puoi) e, se lo fai, puoi aggiungere 1 carta \"Vaylantz\" dissotterrata alla tua mano, inoltre mischia il resto nel Deck. Se questa carta nella Zona Mostri si sposta in un'altra Zona Mostri: puoi tirare un dado a sei facce e, se tiri un 2, 3, 4 o 5, Evoca Specialmente 1 Carta Mostro dalla tua Zona Magie & Trappole nella tua Zona Mostri Main nella sua stessa colonna. Puoi utilizzare ogni effetto di \"Marchese Pazzo Vaylantz\" una sola volta per turno.",
+  "pendEffect": "Se \"Mondo Vaylantz - Konig Wissen\" è in una Zona Terreno o se controlli un mostro \"Vaylantz\" FUOCO: puoi Evocare Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna. Puoi utilizzare questo effetto di \"Marchese Pazzo Vaylantz\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1700,
+  "def": 1700,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

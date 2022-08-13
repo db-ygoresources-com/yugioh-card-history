@@ -1,0 +1,18 @@
+{
+  "id": 17348,
+  "type": "monster",
+  "name": "Saion el Arquero Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si controlas esta carta Invocada de Modo Especial: puedes seleccionar 1 Monstruo de Efecto en el Campo; lanza una moneda y si el resultado es cara, niega sus efectos o, si el resultado es cruz, divide su ATK a la mitad. Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: puedes seleccionar 1 carta en el Campo; lanza una moneda y si el resultado es cara, destrúyela o, si el resultado es cruz, devuélvela a la mano. Sólo puedes usar cada efecto de \"Saion el Arquero Vaylantz\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna, y además por el resto de este turno no puedes Invocar de Modo Especial monstruos que no sean \"Vaylantz\", excepto desde el Deck Extra. Sólo puedes usar este efecto de \"Saion el Arquero Vaylantz\" una vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

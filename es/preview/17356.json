@@ -1,0 +1,19 @@
+{
+  "id": 17356,
+  "type": "monster",
+  "name": "Gran Duque Génesis Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos \"Vaylantz\"\nEsta carta boca abajo en el Deck Extra debe ser primero Invocada por Fusión, o Invocada de Modo Especial Sacrificando 1 monstruo \"Vaylantz\" de Nivel 5 o mayor que no sea de Fusión en la misma columna que la Zona de Monstruos Extra. Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 Carta de Monstruo en la Zona de Magia y Trampas de tu adversario; devuélvela a la mano y, si lo haces, inflige daño a tu adversario igual a su ATK y después, esta carta gana ATK igual a la mitad del daño infligido.",
+  "pendEffect": "Puedes activar 1 de estos efectos;\n●Invoca esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna.\n●Mueve 1 monstruo en tu Zona de Monstruos Principal a una Zona de Monstruos adyacente (horizontal).\nSólo puedes usar este efecto de \"Gran Duque Génesis Vaylantz\" una vez por turno.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

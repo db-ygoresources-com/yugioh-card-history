@@ -1,0 +1,18 @@
+{
+  "id": 17352,
+  "type": "monster",
+  "name": "Vizconde Voltaje Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante tu Main Phase, si controlas esta carta Invocada de Modo Especial: puedes poner 1 Monstruo de Péndulo \"Vaylantz\" boca arriba en tu Deck Extra en tu Zona de Magia y Trampas como una Mágica Continua boca arriba. Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: puedes poner 1 Monstruo de Péndulo \"Vaylantz\" boca arriba en tu Deck Extra en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Vizconde Voltaje Vaylantz\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna, y además por el resto de este turno no puedes Invocar de Modo Especial monstruos que no sean \"Vaylantz\", excepto desde el Deck Extra. Sólo puedes usar este efecto de \"Vizconde Voltaje Vaylantz\" una vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

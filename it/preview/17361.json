@@ -1,0 +1,15 @@
+{
+  "id": 17361,
+  "type": "monster",
+  "name": "Labrinto Arcidemone",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Guadagna 400 ATK per ogni Trappola Normale con un nome diverso nel tuo Cimitero. I mostri del tuo avversario non possono scegliere come bersaglio i mostri Demone per gli attacchi, eccetto \"Labrinto Arcidemone\". Puoi utilizzare ognuno dei seguenti effetti di \"Labrinto Arcidemone\" una sola volta per turno. Se viene attivata una Carta Trappola (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Specialmente: puoi Posizionare dal tuo Deck 1 Trappola Normale che può essere attivata solo quando viene dichiarato un attacco.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

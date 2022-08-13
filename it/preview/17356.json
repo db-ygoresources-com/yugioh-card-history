@@ -1,0 +1,19 @@
+{
+  "id": 17356,
+  "type": "monster",
+  "name": "Gran Duca Genesi Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "2 mostri \"Vaylantz\"\nQuesta carta coperta nell'Extra Deck deve prima essere Evocata tramite Fusione, oppure Evocata Specialmente offrendo come Tributo 1 mostro \"Vaylantz\" non-Fusione di Livello 5 o superiore nella stessa colonna della Zona Mostri Extra. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 Carta Mostro nella Zona Magie & Trappole del tuo avversario; falla ritornare nella mano e, se lo fai, infliggi al tuo avversario danno pari al suo ATK, poi questa carta guadagna ATK pari alla metà del danno inflitto.",
+  "pendEffect": "Puoi attivare 1 di questi effetti;\n●Evoca Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna.\n●Sposta 1 mostro nella tua Zona Mostri Main in una Zona Mostri adiacente (orizzontalmente).\nPuoi utilizzare questo effetto di \"Gran Duca Genesi Vaylantz\" una sola volta per turno.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Macchina",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}

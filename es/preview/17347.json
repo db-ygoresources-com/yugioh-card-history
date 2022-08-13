@@ -1,0 +1,18 @@
+{
+  "id": 17347,
+  "type": "monster",
+  "name": "Shinonome la Sacerdotisa Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Durante tu Main Phase, si controlas esta carta Invocada de Modo Especial: puedes añadir a tu mano 1 Mágica \"Vaylantz\" en tu Deck. Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: puedes añadir a tu mano 1 monstruo \"Vaylantz\" en tu Deck, excepto \"Shinonome la Sacerdotisa Vaylantz\". Sólo puedes usar cada efecto de \"Shinonome la Sacerdotisa Vaylantz\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna, y además por el resto de este turno no puedes Invocar de Modo Especial monstruos que no sean \"Vaylantz\", excepto desde el Deck Extra. Sólo puedes usar este efecto de \"Shinonome la Sacerdotisa Vaylantz\" una vez por turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

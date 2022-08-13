@@ -1,0 +1,18 @@
+{
+  "id": 17353,
+  "type": "monster",
+  "name": "Marquês Enlouquecido Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Durante sua Fase Principal: você pode lançar um dado de seis faces, escavar esse número de cards do topo do seu Deck (ou tantos quanto puder) e, se isso acontecer, você pode adicionar 1 card \"Vaylantz\" escavado à sua mão e, além disso, embaralhe o resto no Deck. Se este card na Zona de Monstros se mover para outra Zona de Monstros: você pode lançar um dado de seis faces, e se o resultado for 2, 3, 4 ou 5, Invoque por Invocação-Especial 1 Card de Monstro da sua Zona de Magias & Armadilhas na sua Zona de Monstros Principal em sua mesma coluna. Você só pode usar cada efeito de \"Marquês Enlouquecido Vaylantz\" uma vez por turno.",
+  "pendEffect": "Se \"Mundo Vaylantz - Konig Wissen\" estiver em uma Zona do Campo ou se você controlar um monstro \"Vaylantz\" de FOGO: você pode Invocar este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna. Você só pode usar este efeito de \"Marquês Enlouquecido Vaylantz\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1700,
+  "def": 1700,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

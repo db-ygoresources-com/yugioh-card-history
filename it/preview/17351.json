@@ -1,0 +1,18 @@
+{
+  "id": 17351,
+  "type": "monster",
+  "name": "Barone Combattente Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Se controlli questa carta Evocata Specialmente: puoi scegliere come bersaglio 1 altro mostro \"Vaylantz\" nella tua Zona Mostri Main; sposta quel mostro che controlli in una Zona Mostri adiacente (orizzontalmente). Se questa carta nella Zona Mostri si sposta in un'altra Zona Mostri: puoi scegliere come bersaglio 1 carta nella Zona Pendulum di qualsiasi giocatore; mettila scoperta nella sua Zona Magie & Trappole adiacente come una Magia Continua. Puoi utilizzare ogni effetto di \"Barone Combattente Vaylantz\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi Evocare Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna, inoltre non puoi Evocare Specialmente mostri non-\"Vaylantz\" per il resto di questo turno, eccetto dall'Extra Deck. Puoi utilizzare questo effetto di \"Barone Combattente Vaylantz\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

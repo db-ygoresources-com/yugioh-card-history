@@ -1,0 +1,18 @@
+{
+  "id": 17347,
+  "type": "monster",
+  "name": "Shinonome la Prêtresse Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Durant votre Main Phase, si vous contrôlez cette carte Invoquée Spécialement : vous pouvez ajouter 1 Magie \"Vaylantz\" depuis votre Deck à votre main. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : vous pouvez ajouter 1 monstre \"Vaylantz\" (\"Shinonome la Prêtresse Vaylantz\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Shinonome la Prêtresse Vaylantz\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres non-\"Vaylantz\" le reste de ce tour, sauf depuis l'Extra Deck. Vous ne pouvez utiliser cet effet de \"Shinonome la Prêtresse Vaylantz\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

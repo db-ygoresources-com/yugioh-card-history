@@ -1,0 +1,18 @@
+{
+  "id": 17350,
+  "type": "monster",
+  "name": "Hojo le Guerrier Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez cibler 1 carte face recto dans l'une des Zones Magie & Piège ; renvoyez-la à la main. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre (sauf durant la Damage Step) : vous pouvez Invoquer par Fusion 1 Monstre Fusion \"Vaylantz\" depuis votre Extra Deck, en utilisant des monstres depuis votre main, Terrain et/ou Zones Pendule. Vous ne pouvez utiliser chaque effet de \"Hojo le Guerrier Vaylantz\" qu'une fois par tour.",
+  "pendEffect": "Si \"Monde Vaylantz - Shinra Bansho\" est dans une Zone Terrain ou si vous contrôlez un monstre \"Vaylantz\" EAU : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne. Vous ne pouvez utiliser cet effet de \"Hojo le Guerrier Vaylantz\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1900,
+  "def": 1900,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

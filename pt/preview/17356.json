@@ -1,0 +1,19 @@
+{
+  "id": 17356,
+  "type": "monster",
+  "name": "Grão-Duque Gênese Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "2 monstros \"Vaylantz\"\nEste card com a face para baixo no Deck Adicional primeiro deve ser Invocado por Invocação-Fusão, ou por Invocação-Especial ao oferecer como Tributo 1 monstro \"Vaylantz\" de Nível 5 ou mais que não seja de Fusão na mesma coluna que a Zona de Monstros Adicional. Se este card for Invocado por Invocação-Especial: você pode escolher 1 Card de Monstro na Zona de Magias & Armadilhas do seu oponente; devolva-o para a mão e, se isso acontecer, cause dano ao seu oponente igual ao seu ATK e, depois, este card ganha ATK igual à metade do dano causado.",
+  "pendEffect": "Você pode ativar 1 desses efeitos;\n●Invoque este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna.\n●Mova 1 monstro na sua Zona de Monstros Principal para uma Zona de Monstros adjacente (horizontal).\nVocê só pode usar este efeito de \"Grão-Duque Gênese Vaylantz\" uma vez por turno.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

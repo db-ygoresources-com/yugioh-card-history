@@ -1,0 +1,19 @@
+{
+  "id": 17356,
+  "type": "monster",
+  "name": "Grand-Duc de la Genèse Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres \"Vaylantz\"\nCette carte face verso dans l'Extra Deck doit d'abord être soit Invoquée par Fusion, soit Invoquée Spécialement en Sacrifiant 1 monstre non-Fusion \"Vaylantz\" de min. Niveau 5 dans la même colonne que la Zone Monstre Extra. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 Carte Monstre dans la Zone Magie & Piège de votre adversaire ; renvoyez-la à la main, et si vous le faites, infligez des dommages à votre adversaire égaux à son ATK, puis, cette carte gagne une ATK égale à la moitié des dommages infligés.",
+  "pendEffect": "Vous pouvez activer 1 de ces effets ;\n●Invoquez Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne.\n●Déplacez 1 monstre dans votre Zone Monstre Main dans une Zone Monstre (horizontale) adjacente.\nVous ne pouvez utiliser cet effet de \"Grand-Duc de la Genèse Vaylantz\" qu'une fois par tour.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 17352,
+  "type": "monster",
+  "name": "Visconde Voltagem Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Durante sua Fase Principal, se você controlar este card Invocado por Invocação-Especial: você pode colocar 1 Monstro Pêndulo \"Vaylantz\" com a face para cima do seu Deck Adicional, com a face para cima na sua Zona de Magias & Armadilhas como uma Magia Contínua. Se este card na Zona de Monstros se mover para outra Zona de Monstros: você pode colocar 1 Monstro Pêndulo \"Vaylantz\" com a face para cima do seu Deck Adicional na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Visconde Voltagem Vaylantz\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode Invocar este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna e, além disso, você não pode Invocar por Invocação-Especial monstros que não sejam \"Vaylantz\" pelo resto deste turno, exceto do Deck Adicional. Você só pode usar este efeito de \"Visconde Voltagem Vaylantz\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

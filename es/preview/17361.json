@@ -1,0 +1,15 @@
+{
+  "id": 17361,
+  "type": "monster",
+  "name": "Archidemonio del Labrislinto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Gana 400 ATK por cada Trampa Normal con nombre diferente en tu Cementerio. Los monstruos de tu adversario no pueden seleccionar monstruos Demonio para ataques, excepto \"Archidemonio del Labrislinto\". Sólo puedes usar cada uno de los siguientes efectos de \"Archidemonio del Labrislinto\" una vez por turno. Si una Carta de Trampa es activada (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Especial: puedes Colocar 1 Trampa Normal en tu Deck que sólo pueda ser activada cuando es declarado un ataque.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

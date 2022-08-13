@@ -1,0 +1,18 @@
+{
+  "id": 17347,
+  "type": "monster",
+  "name": "Shinonome die Vaylantz-Priesterin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während deiner Main Phase, falls du diese als Spezialbeschwörung beschworene Karte kontrollierst: Du kannst deiner Hand 1 „Vaylantz“-Zauber von deinem Deck hinzufügen. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Du kannst deiner Hand 1 „Vaylantz“-Monster von deinem Deck hinzufügen, außer „Shinonome die Vaylantz-Priesterin“. Du kannst jeden Effekt von „Shinonome die Vaylantz-Priesterin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Nicht-„Vaylantz“-Monster als Spezialbeschwörung beschwören, außer vom Extra Deck. Du kannst diesen Effekt von „Shinonome die Vaylantz-Priesterin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

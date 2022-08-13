@@ -1,0 +1,15 @@
+{
+  "id": 17360,
+  "type": "monster",
+  "name": "Incantevole Labrinto del Castello d'Argento",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Il tuo avversario non può attivare effetti di mostri in risposta all'attivazione delle tue Carte Trappola Normali. Puoi utilizzare ognuno dei seguenti effetti di \"Incantevole Labrinto del Castello d'Argento\" una sola volta per turno. Puoi scegliere come bersaglio 1 Trappola Normale nel tuo Cimitero; Posizionala sul tuo Terreno, ma essa non può essere attivata a meno che tu controlli un mostro Demone. Se uno o più altri mostri lasciano il Terreno per l'effetto di una tua Trappola Normale (eccetto durante il Damage Step): puoi distruggere 1 carta (a caso) nella mano del tuo avversario o sul suo Terreno.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

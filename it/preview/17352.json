@@ -1,0 +1,18 @@
+{
+  "id": 17352,
+  "type": "monster",
+  "name": "Visconte Voltaggio Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Durante la tua Main Phase, se controlli questa carta Evocata Specialmente: puoi mettere 1 Mostro Pendulum \"Vaylantz\" scoperto dal tuo Extra Deck, scoperto nella tua Zona Magie & Trappole come una Magia Continua. Se questa carta nella Zona Mostri si sposta in un'altra Zona Mostri: puoi mettere 1 Mostro Pendulum \"Vaylantz\" scoperto dal tuo Extra Deck nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Visconte Voltaggio Vaylantz\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi Evocare Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna, inoltre non puoi Evocare Specialmente mostri non-\"Vaylantz\" per il resto di questo turno, eccetto dall'Extra Deck. Puoi utilizzare questo effetto di \"Visconte Voltaggio Vaylantz\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

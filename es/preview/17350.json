@@ -1,0 +1,18 @@
+{
+  "id": 17350,
+  "type": "monster",
+  "name": "Hojo el Guerrero Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes seleccionar 1 carta boca arriba en cualquier Zona de Magia y Trampas; devuélvela a la mano. Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos (excepto durante el Damage Step): puedes Invocar por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión \"Vaylantz\", usando monstruos en tu mano, Campo y/o Zonas de Péndulo. Sólo puedes usar cada efecto de \"Hojo el Guerrero Vaylantz\" una vez por turno.",
+  "pendEffect": "Si \"Mundo Vaylantz - Shinra Bansho\" está en una Zona del Campo o si controlas un monstruo \"Vaylantz\" de AGUA: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna. Sólo puedes usar este efecto de \"Hojo el Guerrero Vaylantz\" una vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1900,
+  "def": 1900,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

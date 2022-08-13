@@ -1,0 +1,18 @@
+{
+  "id": 17347,
+  "type": "monster",
+  "name": "Shinonome la Sacerdotessa Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Durante la tua Main Phase, se controlli questa carta Evocata Specialmente: puoi aggiungere 1 Magia \"Vaylantz\" dal tuo Deck alla tua mano. Se questa carta nella Zona Mostri si sposta in un'altra Zona Mostri: puoi aggiungere 1 mostro \"Vaylantz\" dal tuo Deck alla tua mano, eccetto \"Shinonome la Sacerdotessa Vaylantz\". Puoi utilizzare ogni effetto di \"Shinonome la Sacerdotessa Vaylantz\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi Evocare Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna, inoltre non puoi Evocare Specialmente mostri non-\"Vaylantz\" per il resto di questo turno, eccetto dall'Extra Deck. Puoi utilizzare questo effetto di \"Shinonome la Sacerdotessa Vaylantz\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

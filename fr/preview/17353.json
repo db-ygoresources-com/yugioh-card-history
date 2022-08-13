@@ -1,0 +1,18 @@
+{
+  "id": 17353,
+  "type": "monster",
+  "name": "Marquis de la Folie Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant votre Main Phase : vous pouvez lancer un dé à six faces, dévoilez autant de cartes du dessus de votre Deck (ou autant que vous pouvez), et si vous le faites, vous pouvez ajouter 1 carte \"Vaylantz\" dévoilée à votre main, et aussi, mélangez les cartes restantes dans le Deck. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : vous pouvez lancer un dé à six faces, et si le résultat est 2, 3, 4 ou 5, Invoquez Spécialement 1 Carte Monstre depuis votre Zone Magie & Piège dans votre Zone Monstre Main dans sa même colonne. Vous ne pouvez utiliser chaque effet de \"Marquis de la Folie Vaylantz\" qu'une fois par tour.",
+  "pendEffect": "Si \"Monde Vaylantz - Konig Wissen\" est dans une Zone Terrain ou si vous contrôlez un monstre \"Vaylantz\" FEU : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne. Vous ne pouvez utiliser cet effet de \"Marquis de la Folie Vaylantz\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1700,
+  "def": 1700,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

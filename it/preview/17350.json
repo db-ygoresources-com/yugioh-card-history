@@ -1,0 +1,18 @@
+{
+  "id": 17350,
+  "type": "monster",
+  "name": "Hojo il Guerriero Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Puoi scegliere come bersaglio 1 carta scoperta in qualsiasi Zona Magie & Trappole; falla ritornare nella mano. Se questa carta nella Zona Mostri si sposta in un'altra Zona Mostri (eccetto durante il Damage Step): puoi Evocare tramite Fusione 1 Mostro Fusione \"Vaylantz\" dal tuo Extra Deck, utilizzando mostri dalla tua mano, Terreno e/o Zone Pendulum. Puoi utilizzare ogni effetto di \"Hojo il Guerriero Vaylantz\" una sola volta per turno.",
+  "pendEffect": "Se \"Mondo Vaylantz - Shinra Bansho\" è in una Zona Terreno o se controlli un mostro \"Vaylantz\" ACQUA: puoi Evocare Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna. Puoi utilizzare questo effetto di \"Hojo il Guerriero Vaylantz\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1900,
+  "def": 1900,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

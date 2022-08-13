@@ -1,0 +1,18 @@
+{
+  "id": 17353,
+  "type": "monster",
+  "name": "Vaylantz-Wutmarquis",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während deiner Main Phase: Du kannst einen sechsseitigen Würfel werfen, soviele oberste Karten deines Decks (oder so viele, wie du kannst) ausgraben und falls du dies tust, kannst du deiner Hand 1 ausgegrabene „Vaylantz“-Karte hinzufügen, zusätzlich mische die restlichen ins Deck. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Du kannst einen sechsseitigen Würfel werfen und falls du eine 2, 3, 4 oder 5 würfelst, beschwöre 1 Monsterkarte als Spezialbeschwörung von deiner Zauber- & Fallenzone in deine Main-Monsterzone in ihre eigene Spalte. Du kannst jeden Effekt von „Vaylantz-Wutmarquis“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls „Vaylantz-Welt - König Wissen“ in einer Spielfeldzone liegt oder falls du ein FEUER „Vaylantz“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören. Du kannst diesen Effekt von „Vaylantz-Wutmarquis“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1700,
+  "def": 1700,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

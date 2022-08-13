@@ -1,0 +1,18 @@
+{
+  "id": 17354,
+  "type": "monster",
+  "name": "Duca Dominatore Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Puoi scegliere come bersaglio 1 carta Posizionata nella Zona Magie & Trappole; quella carta Posizionata non può essere attivata in questo turno (anche se questa carta lascia il Terreno). Se questa carta nella Zona Mostri si sposta in un'altra Zona Mostri: puoi scegliere come bersaglio 1 mostro scoperto nella Zona Mostri Main del tuo avversario; prendi il controllo di quel mostro scoperto, ma esso non può dichiarare un attacco né attivare i suoi effetti, inoltre esso viene considerato come un mostro \"Vaylantz\". Puoi utilizzare ogni effetto di \"Duca Dominatore Vaylantz\" una sola volta per turno.",
+  "pendEffect": "Se \"Mondo Vaylantz - Konig Wissen\" è in una Zona Terreno o se controlli un mostro \"Vaylantz\" FUOCO: puoi Evocare Specialmente questa carta nella tua Zona Mostri Main nella sua stessa colonna. Puoi utilizzare questo effetto di \"Duca Dominatore Vaylantz\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

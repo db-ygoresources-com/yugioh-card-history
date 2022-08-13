@@ -1,0 +1,18 @@
+{
+  "id": 17351,
+  "type": "monster",
+  "name": "Barón Buster Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si controlas esta carta Invocada de Modo Especial: puedes seleccionar otro monstruo \"Vaylantz\" en tu Zona de Monstruos Principal; mueve ese monstruo que controlas a una Zona de Monstruos adyacente (horizontal). Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: puedes seleccionar 1 carta en la Zona de Péndulo de cualquier jugador; ponla boca arriba en su Zona de Magia y Trampas adyacente como una Mágica Continua. Sólo puedes usar cada efecto de \"Barón Buster Vaylantz\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna, y además por el resto de este turno no puedes Invocar de Modo Especial monstruos que no sean \"Vaylantz\", excepto desde el Deck Extra. Sólo puedes usar este efecto de \"Barón Buster Vaylantz\" una vez por turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

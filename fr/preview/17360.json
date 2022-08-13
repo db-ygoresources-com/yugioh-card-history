@@ -1,0 +1,15 @@
+{
+  "id": 17360,
+  "type": "monster",
+  "name": "Adorable Labrynth du Château d'Argent",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Votre adversaire ne peut pas activer d'effets de monstre en réponse à l'activation de vos Cartes Piège Normal. Vous ne pouvez utiliser chacun des effets suivants de \"Adorable Labrynth du Château d'Argent\" qu'une fois par tour. Vous pouvez cibler 1 Piège Normal dans votre Cimetière ; Posez-le sur votre Terrain, mais il ne peut pas être activé sauf si vous contrôlez un monstre Démon. Si un ou plusieurs autres monstres quittent le Terrain par votre effet de Piège Normal (sauf durant la Damage Step) : vous pouvez détruire 1 carte dans la main de votre adversaire (au hasard) ou sur son Terrain.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

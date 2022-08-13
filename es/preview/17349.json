@@ -1,0 +1,18 @@
+{
+  "id": 17349,
+  "type": "monster",
+  "name": "Nazuki el Ninja Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes seleccionar otro monstruo en cualquier Zona de Monstruos Principal; mueve ese monstruo a una Zona de Monstruos adyacente (horizontal). Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: puedes seleccionar 1 Carta de Monstruo \"Vaylantz\" en tu Zona de Magia y Trampas; Invócala de Modo Especial a tu Zona de Monstruos Principal en su misma columna. Sólo puedes usar cada efecto de \"Nazuki el Ninja Vaylantz\" una vez por turno.",
+  "pendEffect": "Si \"Mundo Vaylantz - Shinra Bansho\" está en una Zona del Campo o si controlas un monstruo \"Vaylantz\" de AGUA: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna. Sólo puedes usar este efecto de \"Nazuki el Ninja Vaylantz\" una vez por turno.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

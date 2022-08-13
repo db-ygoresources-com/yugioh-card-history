@@ -1,0 +1,18 @@
+{
+  "id": 17348,
+  "type": "monster",
+  "name": "Saion, o Arqueiro Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Se você controlar este card Invocado por Invocação-Especial: você pode escolher 1 Monstro de Efeito no campo; lance uma moeda e se o resultado for cara, negue seus efeitos, ou se o resultado for coroa, diminua seu ATK pela metade. Se este card na Zona de Monstros se mover para outra Zona de Monstros: você pode escolher 1 card no campo; lance uma moeda e se o resultado for cara, destrua-o, ou se o resultado for coroa, devolva-o para a mão. Você só pode usar cada efeito de \"Saion, o Arqueiro Vaylantz\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode Invocar este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna e, além disso, você não pode Invocar por Invocação-Especial monstros que não sejam \"Vaylantz\" pelo resto deste turno, exceto do Deck Adicional. Você só pode usar este efeito de \"Saion, o Arqueiro Vaylantz\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

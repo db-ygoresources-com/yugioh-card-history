@@ -1,0 +1,18 @@
+{
+  "id": 17352,
+  "type": "monster",
+  "name": "Vaylantz-Spannungsvicomte",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während deiner Main Phase, falls du diese als Spezialbeschwörung beschworene Karte kontrollierst: Du kannst 1 offenes „Vaylantz“-Pendelmonster von deinem Extra Deck offen als Permanenten Zauber in deine Zauber- & Fallenzone legen. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Du kannst 1 offenes „Vaylantz“-Pendelmonster von deinem Extra Deck in deine Pendelzone legen. Du kannst jeden Effekt von „Vaylantz-Spannungsvicomte“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Nicht-„Vaylantz“-Monster als Spezialbeschwörung beschwören, außer vom Extra Deck. Du kannst diesen Effekt von „Vaylantz-Spannungsvicomte“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

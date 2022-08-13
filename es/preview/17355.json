@@ -1,0 +1,19 @@
+{
+  "id": 17355,
+  "type": "monster",
+  "name": "Mamonaka los Vaylantz Unidos",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "3 monstruos \"Vaylantz\"\nDurante la Main Phase (Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto en la Zona de Monstruos Principal de tu adversario; pon ese monstruo del adversario como una Mágica Continua boca arriba en su Zona de Magia y Trampas en su misma columna. (Si la zona está ocupada, destruye la carta ocupante y, si es una Carta de Monstruo, tu adversario pierde LP iguales a su ATK). Sólo puedes usar este efecto de \"Mamonaka los Vaylantz Unidos\" una vez por turno. Si esta carta Invocada de Modo Especial que tú controlas es destruida por el efecto de una carta de tu adversario: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Puedes activar 1 de estos efectos;\n●Invoca esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna.\n●Mueve 1 monstruo en tu Zona de Monstruos Principal a una Zona de Monstruos adyacente (horizontal).\nSólo puedes usar este efecto de \"Mamonaka los Vaylantz Unidos\" una vez por turno.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

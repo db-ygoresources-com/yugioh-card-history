@@ -1,0 +1,18 @@
+{
+  "id": 17354,
+  "type": "monster",
+  "name": "Duc de la Domination Vaylantz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez cibler 1 carte Posée dans la Zone Magie & Piège ; ce tour (même si cette carte quitte le Terrain), la carte Posée ne peut pas être activée. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : vous pouvez cibler 1 monstre face recto dans la Zone Monstre Main de votre adversaire ; prenez le contrôle du monstre face recto, mais il ne peut ni déclarer d'attaque ni activer ses effets, et aussi, il est traité comme un monstre \"Vaylantz\". Vous ne pouvez utiliser chaque effet de \"Duc de la Domination Vaylantz\" qu'une fois par tour.",
+  "pendEffect": "Si \"Monde Vaylantz - Konig Wissen\" est dans une Zone Terrain ou si vous contrôlez un monstre \"Vaylantz\" FEU : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne. Vous ne pouvez utiliser cet effet de \"Duc de la Domination Vaylantz\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}
