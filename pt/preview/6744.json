@@ -1,0 +1,16 @@
+{
+  "id": 6744,
+  "type": "monster",
+  "name": "Ambulância Resgateroide",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "\"Resgateroide\" + \"Ambulânciroide\"\nDeve ser Invocado por Invocação-Fusão. Uma vez por turno, quando um monstro que você controla for destruído em batalha e enviado para o Cemitério: você pode Invocar esse monstro por Invocação-Especial em Posição de Defesa.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Fusão",
+    "Efeito"
+  ]
+}
