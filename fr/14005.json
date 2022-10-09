@@ -4,7 +4,7 @@
   "name": "Village Caché des Arts Ninjitsu",
   "englishAttribute": "spell",
   "localizedAttribute": "MAGIE",
-  "effectText": "Si un monstre \"Ninja\" est Invoqué sur votre Terrain : vous pouvez cibler 1 monstre \"Ninja\" ou 1 carte \"Ninjitsu\" ou \"Nin-Jitsu\" dans votre Cimetière ; ajoutez-le à votre main, mais vous ne pouvez activer ni de cartes ni d'effets de cartes de ce nom le reste de ce tour. Si un ou plusieurs monstres \"Ninja\" ou une ou plusieurs cartes \"Ninjitsu\" ou \"Nin-Jitsu\" que vous contrôlez vont être détruits au combat ou par un effet de carte de l'adversaire, vous pouvez bannir 1 monstre \"Ninja\" depuis votre Cimetière à la place. Vous ne pouvez utiliser chaque effet de \"Village Caché des Arts Ninjitsu\" qu'une fois par tour.",
+  "effectText": "Si un monstre \"Ninja\" est Invoqué sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 monstre \"Ninja\" ou 1 carte \"Ninjitsu\" ou \"Nin-Jitsu\" dans votre Cimetière ; ajoutez-le à votre main, mais le reste de ce tour, vous ne pouvez activer ni de cartes ni d'effets de cartes du même nom que la carte ajoutée. Si un ou plusieurs monstres \"Ninja\" ou une ou plusieurs cartes \"Ninjitsu\" ou \"Nin-Jitsu\" que vous contrôlez vont être détruits au combat ou par un effet de carte de l'adversaire, vous pouvez bannir 1 monstre \"Ninja\" depuis votre Cimetière à la place. Vous ne pouvez utiliser chaque effet de \"Village Caché des Arts Ninjitsu\" qu'une fois par tour.",
   "englishProperty": "field",
   "localizedProperty": "Terrain"
 }
