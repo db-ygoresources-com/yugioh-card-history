@@ -1,0 +1,19 @@
+{
+  "id": 17803,
+  "type": "monster",
+  "name": "Spright de Sprind",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres (un monstre de Niveau/Rang/Link 2 inclus)\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Vous ne pouvez utiliser qu'1 des effets suivants de \"Spright de Sprind\" par tour, et uniquement une fois le tour. Si cette carte est Invoquée par Lien : vous pouvez envoyer 1 monstre de Niveau 2 depuis votre Deck au Cimetière. Si un autre monstre est Invoqué Spécialement tant que cette carte est sur le Terrain (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel d'un Monstre Xyz que vous contrôlez, puis ciblez 1 monstre sur le Terrain ; renvoyez-le à la main.",
+  "linkRating": 2,
+  "linkArrows": [
+    "9",
+    "1"
+  ],
+  "atk": 1400,
+  "properties": [
+    "Tonnerre",
+    "Lien",
+    "Effet"
+  ]
+}

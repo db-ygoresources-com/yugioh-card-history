@@ -1,0 +1,15 @@
+{
+  "id": 17782,
+  "type": "monster",
+  "name": "Vernusylphe des Semis Brumisants",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tous les monstres sur le Terrain (monstres \"Vernusylphe\" exclus) perdent 600 ATK. Vous pouvez défausser cette carte, et 1 monstre ou 1 carte \"Vernusylphe\" ; vous ne pouvez pas activer d'effets de monstre non-TERRE le reste de ce tour, et aussi, ajoutez 1 monstre TERRE Elfe (\"Vernusylphe des Semis Brumisants\" exclu) depuis votre Deck à votre main, puis vous pouvez Invoquer Spécialement 1 monstre TERRE depuis votre Cimetière. Vous ne pouvez utiliser cet effet de \"Vernusylphe des Semis Brumisants\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

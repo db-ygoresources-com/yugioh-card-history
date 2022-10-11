@@ -1,0 +1,15 @@
+{
+  "id": 17103,
+  "type": "monster",
+  "name": "Yorishiro de Aqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes seleccionar 1 monstruo de AGUA en tu Cementerio; aplica 1 de estos efectos, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos de AGUA.\n●(Sólo si el objetivo tiene un Nivel) hasta la End Phase, el Nivel de esta carta, y además su nombre, se convierten en el mismo que los de ese monstruo.\n●(Sólo si \"Umi\" está en el Campo), Invoca ese monstruo de Modo Especial en Posición de Defensa.\nPuedes desterrar esta carta en tu Cementerio, y después selecciona 1 \"Umi\" en tu Cementerio; añádelo a tu mano. Sólo puedes usar cada efecto de \"Yorishiro de Aqua\" una vez por turno.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

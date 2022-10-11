@@ -1,0 +1,19 @@
+{
+  "id": 17806,
+  "type": "monster",
+  "name": "Scandalista del Mondo Sotterraneo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 Mostri con Effetto\nNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Se uno o più mostri che controlli stanno per essere distrutti in battaglia o dall'effetto di una carta, puoi invece offrire come Tributo 1 mostro Demone. Puoi scegliere come bersaglio 1 mostro Demone nel tuo Cimitero, eccetto \"Scandalista del Mondo Sotterraneo\"; scarta 1 carta e, se lo fai, Evoca Specialmente quel mostro, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri Demone. Puoi utilizzare questo effetto di \"Scandalista del Mondo Sotterraneo\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Demone",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 17793,
+  "type": "monster",
+  "name": "Wahrsageprinzessin Tarotreith",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Unterweltritual der Wahrsagerei“ als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung oder durch „Wahrsageprinzessin Tarotrei“ als Spezialbeschwörung beschworen werden. Du kannst jeden Effekt von „Wahrsageprinzessin Tarotreith“ nur einmal pro Spielzug verwenden. (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren;\n●Decke eine beliebige Anzahl verdeckter Monster, die du kontrollierst, in die offene Verteidigungsposition auf.\n●Verdecke eine beliebige Anzahl offener Monster, die du kontrollierst, in die verdeckte Verteidigungsposition.\nFLIPP: Du kannst 1 Flippmonster als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören.",
+  "level": 9,
+  "atk": 1200,
+  "def": 2700,
+  "properties": [
+    "Fee",
+    "Ritual",
+    "Flipp",
+    "Effekt"
+  ]
+}

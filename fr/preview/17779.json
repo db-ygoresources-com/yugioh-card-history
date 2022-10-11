@@ -1,0 +1,18 @@
+{
+  "id": 17779,
+  "type": "monster",
+  "name": "Pégase Majesté, la Dracossassine",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Majesspectre\".)\n(Effet Rapide) : vous pouvez défausser cette carte ; le reste de ce tour, votre adversaire ne peut pas cibler de monstres \"Dracossassin\" que vous contrôlez avec des effets de carte, et aussi, ils ne peuvent pas être détruits par des effets de carte de votre adversaire. Si cette carte est Invoquée Spécialement par l'effet d'une carte \"Dracossassin\", ou Invoquée par Pendulation : vous pouvez ajouter 1 Magie de Terrain depuis votre Deck à votre main, puis défaussez 1 carte. Vous ne pouvez utiliser cet effet de \"Pégase Majesté, la Dracossassine\" qu'une fois par tour.",
+  "pendEffect": "Si vous avez une carte \"Dracossassin\" ou \"Majesspectre\" dans votre autre Zone Pendule : vous pouvez ajouter 1 Monstre Pendule \"Dracossassin\" de nom d'origine différent de la carte depuis votre Deck à votre main, puis vous pouvez détruire 1 carte dans votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Pégase Majesté, la Dracossassine\" qu'une fois par tour.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

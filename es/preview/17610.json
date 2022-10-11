@@ -1,0 +1,18 @@
+{
+  "id": 17610,
+  "type": "monster",
+  "name": "Maestra del Látigo Dorado Amazoness",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta en la Zona de Monstruos es destruida en batalla o por el efecto de una carta: puedes poner esta carta en tu Zona de Péndulo. Si uno o más monstruos \"Amazoness\" son Invocados de Modo Especial a tu Campo, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Maestra del Látigo Dorado Amazoness\" una vez por turno.",
+  "pendEffect": "Los monstruos \"Amazoness\" que controlas ganan ATK igual a su propio Nivel x 100. Cuando es declarado un ataque que involucra tu monstruo \"Amazoness\": puedes seleccionar 1 Mágica/Trampa en el Campo; destrúyela. Sólo puedes usar este efecto de \"Maestra del Látigo Dorado Amazoness\" una vez por turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Efecto"
+  ]
+}

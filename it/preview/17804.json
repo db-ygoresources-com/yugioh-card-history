@@ -1,0 +1,19 @@
+{
+  "id": 17804,
+  "type": "monster",
+  "name": "Donner, Pugnale Pelliccia Mercenaria",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "2 mostri con Tipi diversi\nPuoi scegliere come bersaglio 1 mostro \"Pelliccia Mercenaria\" che controlli e 1 mostro controllato dal tuo avversario; distruggili. Puoi offrire come Tributo 1 mostro; Evoca Specialmente dalla tua mano o Cimitero 1 mostro \"Pelliccia Mercenaria\" con nome originale diverso dal mostro offerto come Tributo, poi, se hai offerto come Tributo un Mostro Link per attivare questo effetto, puoi Evocare Specialmente 1 tale mostro addizionale. Puoi utilizzare solo 1 effetto di \"Donner, Pugnale Pelliccia Mercenaria\" per turno, e solo una volta in quel turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "2",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Guerriero-Bestia",
+    "Link",
+    "Effetto"
+  ]
+}

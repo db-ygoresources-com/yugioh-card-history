@@ -1,0 +1,15 @@
+{
+  "id": 17103,
+  "type": "monster",
+  "name": "Yorishiro des Wassers",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 WASSER Monster in deinem Friedhof wählen; führe 1 dieser Effekte aus, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer WASSER Monstern.\n●(Nur falls das gewählte Ziel eine Stufe hat) werden Stufe und Name dieser Karte bis zur End Phase dieselben wie die jenes Monsters.\n●(Nur falls „Umi“ auf dem Spielfeld liegt), beschwöre jenes Monster als Spezialbeschwörung in die Verteidigungsposition.\nDu kannst diese Karte von deinem Friedhof verbannen und dann 1 „Umi“ in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Yorishiro des Wassers“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

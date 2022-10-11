@@ -1,0 +1,18 @@
+{
+  "id": 17779,
+  "type": "monster",
+  "name": "Majestät Pegasus, die Drachobezwingerin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "(Diese Karte wird immer als „Majespenst“-Karte behandelt.)\n(Schnelleffekt): Du kannst diese Karte abwerfen; für den Rest dieses Spielzugs kann dein Gegner „Drachobezwinger“-Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, zusätzlich können sie nicht durch Karteneffekte deines Gegners zerstört werden. Falls diese Karte durch den Effekt einer „Drachobezwinger“-Karte als Spezialbeschwörung beschworen wird oder als Pendelbeschwörung beschworen wird: Du kannst deiner Hand 1 Spielfeldzauber von deinem Deck hinzufügen, dann wirf 1 Karte ab. Du kannst diesen Effekt von „Majestät Pegasus, die Drachobezwingerin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du eine „Drachobezwinger“- oder „Majespenst“-Karte in deiner anderen Pendelzone hast: Du kannst deiner Hand 1 „Drachobezwinger“-Pendelmonster mit einem unterschiedlichen Grund-Namen als jene Karte von deinem Deck hinzufügen, dann kannst du 1 Karte in deiner Pendelzone zerstören. Du kannst diesen Effekt von „Majestät Pegasus, die Drachobezwingerin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17787,
+  "type": "monster",
+  "name": "Han-Shi Kyudogeist",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst alle Karten, die du in derselben Spalte wie die Karten in deinen Pendelzonen kontrollierst, (darunter die Karten in den Pendelzonen selbst) auf die Hand zurückgeben, dann kannst du deiner Hand 1 Monster mit 2400 ATK/1000 DEF von deinem Deck hinzufügen, außer „Han-Shi Kyudogeist“. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib diese Karte auf die Hand zurück.",
+  "pendEffect": "Falls ein oder mehr Monster als Pendelbeschwörung beschworen werden: Gib diese Karte auf die Hand zurück.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Spirit",
+    "Effekt"
+  ]
+}

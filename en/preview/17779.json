@@ -1,0 +1,18 @@
+{
+  "id": 17779,
+  "type": "monster",
+  "name": "Majesty Pegasus, the Dracoslayer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "(This card is always treated as a \"Majespecter\" card.)\n(Quick Effect): You can discard this card; for the rest of this turn, your opponent cannot target \"Dracoslayer\" monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. If this card is Special Summoned by the effect of a \"Dracoslayer\" card, or Pendulum Summoned: You can add 1 Field Spell from your Deck to your hand, then discard 1 card. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+  "pendEffect": "If you have a \"Dracoslayer\" or \"Majespecter\" card in your other Pendulum Zone: You can add 1 \"Dracoslayer\" Pendulum Monster with a different original name than that card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

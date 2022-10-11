@@ -1,0 +1,15 @@
+{
+  "id": 17770,
+  "type": "monster",
+  "name": "Kashtira Oger",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst jeden der folgenden Effekte von „Kashtira Oger“ nur einmal pro Spielzug verwenden. Während deiner Main Phase: Du kannst deiner Hand 1 „Kashtira“-Falle von deinem Deck hinzufügen. Wenn diese Karte einen Angriff deklariert oder falls dein Gegner einen Monstereffekt aktiviert (außer während des Damage Steps): Du kannst die bis zu 5 obersten Karten des Decks deines Gegners ausgraben, 1 ausgegrabene Karte verdeckt verbannen und den Rest in derselben Reihenfolge auf das Deck legen.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

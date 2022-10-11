@@ -1,0 +1,19 @@
+{
+  "id": 17787,
+  "type": "monster",
+  "name": "Han-Shi Kyudo Spirit",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "When this card is Normal Summoned: You can return all cards you control in the same column as the cards in your Pendulum Zones to the hand (including the Pendulum Zone cards themselves), then you can add 1 monster with 2400 ATK/1000 DEF from your Deck to your hand, except \"Han-Shi Kyudo Spirit\". Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+  "pendEffect": "If a monster(s) is Pendulum Summoned: Return this card to the hand.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Spirit",
+    "Effect"
+  ]
+}

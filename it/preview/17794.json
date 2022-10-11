@@ -1,0 +1,16 @@
+{
+  "id": 17794,
+  "type": "monster",
+  "name": "Tiaracrimalamenti Rulkallos",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "\"Tiaracrimalamenti Kitkallos\" + 1 mostro \"Tiaracrimalamenti\"\nGli altri mostri Acqua che controlli non possono essere distrutti in battaglia. Puoi utilizzare ognuno dei seguenti effetti di \"Tiaracrimalamenti Rulkallos\" una sola volta per turno. Quando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente uno o più mostri (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, distruggila, poi manda 1 carta \"Tiaracrimalamenti\" dalla tua mano o Terreno scoperto al Cimitero. Se questa carta Evocata tramite Fusione viene mandata al Cimitero dall'effetto di una carta: puoi Evocare Specialmente questa carta.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Acqua",
+    "Fusione",
+    "Effetto"
+  ]
+}

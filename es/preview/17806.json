@@ -1,0 +1,19 @@
+{
+  "id": 17806,
+  "type": "monster",
+  "name": "Caza Escándalos del Inframundo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Efecto\nNo puede ser usado como Material de Enlace en el turno en el que es Invocado por Enlace. Si uno o más monstruos que controlas fueran a ser destruidos en batalla o por el efecto de una carta, puedes Sacrificar 1 monstruo Demonio en su lugar. Puedes seleccionar 1 monstruo Demonio en tu Cementerio, excepto \"Caza Escándalos del Inframundo\"; descarta 1 carta y, si lo haces, Invoca ese monstruo de Modo Especial, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos Demonio. Sólo puedes usar este efecto de \"Caza Escándalos del Inframundo\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

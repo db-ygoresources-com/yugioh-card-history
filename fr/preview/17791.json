@@ -1,0 +1,15 @@
+{
+  "id": 17791,
+  "type": "monster",
+  "name": "Cheval Concombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte dans la Zone Monstre est envoyée au Cimetière, sauf durant la Battle Phase. Au début de la Battle Phase, si cette carte est dans votre Cimetière : vous pouvez envoyer 1 monstre Plante depuis votre main ou Terrain face recto au Cimetière ; Invoquez Spécialement cette carte, puis vous pouvez Invoquer Spécialement 1 monstre depuis l'un des Cimetières sur votre Terrain, mais envoyez ces monstres Invoqués Spécialement au Cimetière à la fin de la Battle Phase. Vous ne pouvez utiliser cet effet de \"Cheval Concombre\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

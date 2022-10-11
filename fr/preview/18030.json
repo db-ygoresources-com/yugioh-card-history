@@ -1,0 +1,15 @@
+{
+  "id": 18030,
+  "type": "monster",
+  "name": "Dragon Bayerock",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un ou plusieurs monstres que vous contrôlez ou dans votre main sont détruits au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez cibler 1 autre monstre Dinosaure et/ou 1 monstre Rocher dans votre Cimetière ; Invoquez-les Spécialement. Vous ne pouvez utiliser chaque effet de \"Dragon Bayerock\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

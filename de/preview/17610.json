@@ -1,0 +1,18 @@
+{
+  "id": 17610,
+  "type": "monster",
+  "name": "Amazonische Goldpeitschen-Meisterin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen. Falls ein oder mehr „Amazonisch“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Amazonische Goldpeitschen-Meisterin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "„Amazonisch“-Monster, die du kontrollierst, erhalten ATK in Höhe ihrer Stufe x 100. Wenn ein Angriff deklariert wird, an dem dein „Amazonisch“-Monster beteiligt ist: Du kannst 1 Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie. Du kannst diesen Effekt von „Amazonische Goldpeitschen-Meisterin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

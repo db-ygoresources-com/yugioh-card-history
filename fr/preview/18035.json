@@ -1,0 +1,16 @@
+{
+  "id": 18035,
+  "type": "monster",
+  "name": "Zep, Rubis du Ghoti",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez bannir cette carte depuis votre main, puis ciblez 1 monstre Poisson dans votre Cimetière ; bannissez-le. Durant le tour de votre adversaire, si cette carte est bannie : vous pouvez l'Invoquer Spécialement. Si cette carte est Invoquée Spécialement, vous pouvez (sauf durant la Damage Step) : immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro Poisson en utilisant cette carte que vous contrôlez. Vous ne pouvez utiliser chaque effet de \"Zep, Rubis du Ghoti\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Poisson",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

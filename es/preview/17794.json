@@ -1,0 +1,16 @@
+{
+  "id": 17794,
+  "type": "monster",
+  "name": "Tiagrimentos Rulkallos",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "\"Tiagrimentos Kitkallos\" + 1 monstruo \"Tiagrimentos\"\nLos otros monstruos Aqua que controlas no pueden ser destruidos en batalla. Sólo puedes usar cada uno de los siguientes efectos de \"Tiagrimentos Rulkallos\" una vez por turno. Cuando tu adversario activa una carta o efecto que incluye un efecto que Invoca de Modo Especial uno o más monstruos (Efecto Rápido): puedes negar la activación y, si lo haces, destrúyelo, y después manda al Cementerio 1 carta \"Tiagrimentos\" en tu mano o Campo boca arriba. Si esta carta Invocada por Fusión es mandada al Cementerio por un efecto de carta: puedes Invocar esta carta de Modo Especial.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 17610,
+  "type": "monster",
+  "name": "Maestra della Frusta d'Oro Amazoness",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum. Se uno o più mostri \"Amazoness\" vengono Evocati Specialmente sul tuo Terreno, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Maestra della Frusta d'Oro Amazoness\" una sola volta per turno.",
+  "pendEffect": "I mostri \"Amazoness\" che controlli guadagnano ATK pari al loro stesso Livello x 100. Quando viene dichiarato un attacco che coinvolge un tuo mostro \"Amazoness\": puoi scegliere come bersaglio 1 Magia/Trappola sul Terreno; distruggila. Puoi utilizzare questo effetto di \"Maestra della Frusta d'Oro Amazoness\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

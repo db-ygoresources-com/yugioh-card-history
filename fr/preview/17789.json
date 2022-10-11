@@ -1,0 +1,17 @@
+{
+  "id": 17789,
+  "type": "monster",
+  "name": "Bolide Turbo Contaminé GT19",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "FLIP : Vous pouvez déclarer un Niveau de 1 à 9 ; jusqu'à la fin de ce tour, cette carte devient de ce Niveau.\nAprès que cette carte a été retournée face recto, durant une Main Phase (Effet Rapide) : vous pouvez cibler 1 autre monstre face recto sur l'un des Terrains ; immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 monstre en utilisant uniquement cette carte et la cible. Vous ne pouvez utiliser qu'1 effet de \"Bolide Turbo Contaminé GT19\" par tour, et uniquement une fois le tour.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Flip",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

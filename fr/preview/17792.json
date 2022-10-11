@@ -1,0 +1,15 @@
+{
+  "id": 17792,
+  "type": "monster",
+  "name": "Loup Silencieux Calupo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : équipez la carte du dessus de votre Deck à cette carte comme une Magie d'Équipement face verso qui lui donne 500 ATK. Durant la End Phase : votre adversaire devine le type d'origine (Monstre, Magie ou Piège) de la Carte d'Équipement équipée par l'effet de cette carte. S'il devine correctement, envoyez cette carte au Cimetière. S'il devine incorrectement, défaussez 1 carte au hasard à votre adversaire, et si vous le faites, renvoyez cette carte à la main. Vous ne pouvez utiliser cet effet de \"Loup Silencieux Calupo\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

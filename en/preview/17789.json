@@ -1,0 +1,17 @@
+{
+  "id": 17789,
+  "type": "monster",
+  "name": "Turbo-Tainted Hot Rod GT19",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "FLIP: You can declare a Level from 1 to 9; this card becomes that Level until the end of this turn.\nAfter this card has been flipped face-up, during any Main Phase (Quick Effect): You can target 1 other face-up monster on either field; immediately after this effect resolves, Synchro Summon 1 monster using only this card and that target. You can only use 1 \"Turbo-Tainted Hot Rod GT19\" effect per turn, and only once that turn.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Flip",
+    "Tuner",
+    "Effect"
+  ]
+}

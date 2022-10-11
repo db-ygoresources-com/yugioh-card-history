@@ -1,0 +1,19 @@
+{
+  "id": 17787,
+  "type": "monster",
+  "name": "Spirito Kyudo Han-Shi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi far ritornare tutte le carte che controlli nella stessa colonna delle carte nelle tue Zone Pendulum nella mano (incluse le stesse carte nella Zona Pendulum), poi puoi aggiungere 1 mostro con 2400 ATK/1000 DEF dal tuo Deck alla tua mano, eccetto \"Spirito Kyudo Han-Shi\". Una volta per turno, durante la End Phase, se questa carta è stata Evocata Normalmente o scoperta in questo turno: fai ritornare questa carta nella mano.",
+  "pendEffect": "Se uno o più mostri vengono Evocati Pendulum: fai ritornare questa carta nella mano.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Spirit",
+    "Effetto"
+  ]
+}

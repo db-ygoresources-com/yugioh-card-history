@@ -1,0 +1,16 @@
+{
+  "id": 17802,
+  "type": "monster",
+  "name": "Wollow, Fondateur des Dragons de Somme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres de Niveau 6\nLes monstres que vous contrôlez gagnent 100 ATK/DEF pour chaque carte dans le Cimetière de votre adversaire. (Effet Rapide) : vous pouvez cibler 1 carte dans le Cimetière de votre adversaire, et détachez 1 ou 2 Matériels de cette carte, puis activez l'effet approprié ;\n●1 : Renvoyez-la au Deck.\n●2 : Si la cible est un monstre, Invoquez-la Spécialement face recto ou en Position de Défense face verso sur votre Terrain. Si ce n'est pas un monstre, Posez-la sur votre Terrain.\nVous ne pouvez utiliser cet effet de \"Wollow, Fondateur des Dragons de Somme\" qu'une fois par tour.",
+  "rank": 6,
+  "atk": 2400,
+  "def": 1300,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Effet"
+  ]
+}

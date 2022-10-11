@@ -1,0 +1,16 @@
+{
+  "id": 17794,
+  "type": "monster",
+  "name": "Rulkallos des Tiarmentations",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "\"Kitkallos des Tiarmentations\" + 1 monstre \"Tiarmentations\"\nLes autres monstres Aqua que vous contrôlez ne peuvent pas être détruits au combat. Vous ne pouvez utiliser chacun des effets suivants de \"Rulkallos des Tiarmentations\" qu'une fois par tour. Lorsque votre adversaire active une carte ou un effet qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez-la, puis, envoyez 1 carte \"Tiarmentations\" depuis votre main ou Terrain face recto au Cimetière. Si cette carte Invoquée par Fusion est envoyée au Cimetière par un effet de carte : vous pouvez Invoquer Spécialement cette carte.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17804,
+  "type": "monster",
+  "name": "Donner, Dolch-Fellsöldner",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster mit unterschiedlichen Typen\nDu kannst 1 „Fellsöldner“-Monster, das du kontrollierst, und 1 Monster, das dein Gegner kontrolliert, wählen; zerstöre sie. Du kannst 1 Monster als Tribut anbieten; beschwöre 1 „Fellsöldner“-Monster mit einem unterschiedlichen Grund-Namen als das als Tribut angebotene Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof, dann, falls du ein Linkmonster als Tribut angeboten hast, um diesen Effekt zu aktivieren, kannst du 1 weiteres solches Monster als Spezialbeschwörung beschwören. Du kannst nur 1 Effekt von „Donner, Dolch-Fellsöldner“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "linkRating": 2,
+  "linkArrows": [
+    "2",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Link",
+    "Effekt"
+  ]
+}

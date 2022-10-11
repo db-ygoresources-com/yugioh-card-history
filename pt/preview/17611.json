@@ -1,0 +1,18 @@
+{
+  "id": 17611,
+  "type": "monster",
+  "name": "Mestra da Espada Prateada Amazoness",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo. Se um ou mais monstros \"Amazoness\" forem Invocados por Invocação-Especial no seu campo, enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Mestra da Espada Prateada Amazoness\" uma vez por turno.",
+  "pendEffect": "Monstros \"Amazoness\" que você controla ganham ATK igual ao seu próprio Nível x 100. Quando um ataque for declarado envolvendo um monstro \"Amazoness\" seu: você pode escolher 1 Magia/Armadilha \"Amazoness\" no seu Cemitério; adicione-a à sua mão. Você só pode usar este efeito de \"Mestra da Espada Prateada Amazoness\" uma vez por turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

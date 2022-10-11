@@ -1,0 +1,19 @@
+{
+  "id": 17803,
+  "type": "monster",
+  "name": "Sprind Spright",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos, incluyendo un monstruo de Nivel/Rango/Link 2\nNo puede ser usado como Material de Enlace en el turno en el que es Invocado por Enlace. Sólo puedes usar 1 de los siguientes efectos de \"Sprind Spright\" por turno, y sólo una vez ese turno. Si esta carta es Invocada por Enlace: puedes mandar al Cementerio 1 monstruo de Nivel 2 en tu Deck. Si otro monstruo es Invocado de Modo Especial mientras esta carta está en el Campo (excepto durante el Damage Step): puedes desacoplar 1 material de un Monstruo Xyz que controles, y después selecciona 1 monstruo en el Campo; devuélvelo a la mano.",
+  "linkRating": 2,
+  "linkArrows": [
+    "9",
+    "1"
+  ],
+  "atk": 1400,
+  "properties": [
+    "Trueno",
+    "Enlace",
+    "Efecto"
+  ]
+}

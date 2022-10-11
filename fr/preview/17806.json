@@ -1,0 +1,19 @@
+{
+  "id": 17806,
+  "type": "monster",
+  "name": "Fouineuse des Enfers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 Monstres à Effet\nNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Si un ou plusieurs monstres que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez Sacrifier 1 monstre Démon à la place. Vous pouvez cibler 1 monstre Démon (\"Fouineuse des Enfers\" exclu) dans votre Cimetière ; défaussez 1 carte, et si vous le faites, Invoquez Spécialement le monstre, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Démon exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Fouineuse des Enfers\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

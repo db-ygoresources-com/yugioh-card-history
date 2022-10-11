@@ -1,0 +1,16 @@
+{
+  "id": 18039,
+  "type": "monster",
+  "name": "Guoglim, Lance du Ghoti",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 Syntoniseur Poisson + 1+ monstre non-Syntoniseur\nAu début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez bannir le monstre de l'adversaire. Durant la Standby Phase de votre adversaire : vous pouvez bannir cette carte, puis, si les monstres utilisés comme Matériel pour l'Invocation Synchro de cette carte sont tous dans votre Cimetière, vous pouvez tous les Invoquer Spécialement, mais bannissez-les lorsqu'ils quittent le Terrain. Vous ne pouvez utiliser chaque effet de \"Guoglim, Lance du Ghoti\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2700,
+  "def": 0,
+  "properties": [
+    "Poisson",
+    "Synchro",
+    "Effet"
+  ]
+}

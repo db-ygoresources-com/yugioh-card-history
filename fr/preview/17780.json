@@ -1,0 +1,18 @@
+{
+  "id": 17780,
+  "type": "monster",
+  "name": "Puissante Charge Dinomight, le Dracossassin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Dinobrume\".)\nSi cette carte est Sacrifiée : vous pouvez ajouter 1 Monstre Pendule \"Dracossassin\" ou \"Dinobrume\" (\"Puissante Charge Dinomight, le Dracossassin\" exclu) face recto depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de \"Puissante Charge Dinomight, le Dracossassin\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 carte \"Dracossassin\" ou \"Dinobrume\" dans votre autre Zone Pendule ; Invoquez-la Spécialement. Vous ne pouvez utiliser cet effet de \"Puissante Charge Dinomight, le Dracossassin\" qu'une fois par tour.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1700,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

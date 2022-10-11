@@ -1,0 +1,15 @@
+{
+  "id": 17772,
+  "type": "monster",
+  "name": "Mitsu la Ninja Insecto",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si controlas una carta \"Ninja\" o un monstruo en Posición de Defensa boca abajo: puedes Invocar esta carta de Modo Especial desde tu mano. Cuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes seleccionar 1 monstruo en Posición de Defensa boca abajo que controles; cámbialo a Posición de Defensa boca arriba y, si lo haces, cambia esta carta a Posición de Defensa boca abajo y después, si el monstruo seleccionado era un monstruo \"Ninja\", excepto \"Mitsu la Ninja Insecto\", niega ese efecto activado del adversario. Sólo puedes usar cada efecto de \"Mitsu la Ninja Insecto\" una vez por turno.",
+  "level": 2,
+  "atk": 200,
+  "def": 2100,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

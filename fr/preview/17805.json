@@ -1,0 +1,21 @@
+{
+  "id": 17805,
+  "type": "monster",
+  "name": "Dragon du Monde des Mers Zélantis",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1+ Monstre à Effet\nVous ne pouvez contrôler qu'1 \"Dragon du Monde des Mers Zélantis\". Vous ne pouvez utiliser chacun des effets suivants de \"Dragon du Monde des Mers Zélantis\" qu'une fois par tour. Durant votre Main Phase : vous pouvez bannir tous les monstres sur le Terrain, puis Invoquez Spécialement autant de monstres que possible qui ont été bannis par cet effet, face recto ou en Position de Défense face verso sur le Terrain de leur propriétaire. Durant la Battle Phase (Effet Rapide) : vous pouvez détruire un nombre de cartes sur le Terrain, inférieur ou égal au nombre de monstres co-liés sur le Terrain.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Serpent de Mer",
+    "Lien",
+    "Effet"
+  ]
+}

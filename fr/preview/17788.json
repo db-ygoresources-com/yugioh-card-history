@@ -1,0 +1,15 @@
+{
+  "id": 17788,
+  "type": "monster",
+  "name": "Macareux Rieur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si un Magie/Piège face recto est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez Sacrifier 1 monstre Bête Ailée, puis ciblez 1 Magie/Piège face recto sur le Terrain ; renvoyez la carte face recto à la main, mais le reste de ce tour, vous ne pouvez activer ni de cartes ni d'effets de cartes du même nom que la carte avait une fois renvoyée à la main. Ceci est un Effet Rapide si tous les monstres que vous contrôlez sont des monstres Bête Ailée (min. 1). Vous ne pouvez utiliser chaque effet de \"Macareux Rieur\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1700,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

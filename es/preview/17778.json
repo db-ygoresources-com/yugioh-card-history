@@ -1,0 +1,18 @@
+{
+  "id": 17778,
+  "type": "monster",
+  "name": "Ignis Fénix, el Dracoasesino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "(Esta carta se trata siempre como una carta \"Caballerígneo\").\nSi esta carta en el Campo es destruida en batalla o por el efecto de una carta: puedes Invocar de Modo Especial 1 monstruo \"Dracoasesino\" o \"Caballerígneo\" desde tu Deck, excepto \"Ignis Fénix, el Dracoasesino\" y, si lo haces, es tratado como un Cantante. Sólo puedes usar este efecto de \"Ignis Fénix, el Dracoasesino\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes barajar al Deck 1 Monstruo de Péndulo boca arriba en tu Deck Extra, y después añade a tu mano 1 monstruo \"Dracoasesino\" o \"Caballerígneo\" que no sea de Péndulo en tu Deck. Sólo puedes usar este efecto de \"Ignis Fénix, el Dracoasesino\" una vez por turno.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1900,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Efecto"
+  ]
+}

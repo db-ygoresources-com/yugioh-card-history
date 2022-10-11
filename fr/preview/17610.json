@@ -1,0 +1,18 @@
+{
+  "id": 17610,
+  "type": "monster",
+  "name": "Maîtresse Amazonesse au Fouet d'Or",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule. Si un ou plusieurs monstres \"Amazonesse\" sont Invoqués Spécialement sur votre Terrain, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de \"Maîtresse Amazonesse au Fouet d'Or\" qu'une fois par tour.",
+  "pendEffect": "Les monstres \"Amazonesse\" que vous contrôlez gagnent une ATK égale à leur propre Niveau x 100. Lorsqu'une attaque impliquant votre monstre \"Amazonesse\" est déclarée : vous pouvez cibler 1 Magie/Piège sur le Terrain ; détruisez-le. Vous ne pouvez utiliser cet effet de \"Maîtresse Amazonesse au Fouet d'Or\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

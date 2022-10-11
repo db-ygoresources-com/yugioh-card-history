@@ -1,0 +1,19 @@
+{
+  "id": 17806,
+  "type": "monster",
+  "name": "Sensacionalistas do Submundo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 Monstros de Efeito\nNão pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Se um ou mais monstros que você controla seriam destruídos em batalha ou por um efeito de card, em vez disso, você pode oferecer como Tributo 1 monstro Demônio. Você pode escolher 1 monstro Demônio no seu Cemitério, exceto \"Sensacionalistas do Submundo\"; descarte 1 card e, se isso acontecer, Invoque esse monstro por Invocação-Especial e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros Demônio. Você só pode usar este efeito de \"Sensacionalistas do Submundo\" uma vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Demônio",
+    "Link",
+    "Efeito"
+  ]
+}

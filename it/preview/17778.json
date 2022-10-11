@@ -1,0 +1,18 @@
+{
+  "id": 17778,
+  "type": "monster",
+  "name": "Fenice Accens, il Dracoassassino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "(Questa carta viene sempre considerata come una carta \"Fuocavaliere\".)\nSe questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente 1 mostro \"Dracoassassino\" o \"Fuocavaliere\" dal tuo Deck, eccetto \"Fenice Accens, il Dracoassassino\", e, se lo fai, esso viene considerato come un Tuner. Puoi utilizzare questo effetto di \"Fenice Accens, il Dracoassassino\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi mischiare 1 Mostro Pendulum scoperto dal tuo Extra Deck nel Deck, poi aggiungere 1 mostro \"Dracoassassino\" o \"Fuocavaliere\" non-Pendulum dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Fenice Accens, il Dracoassassino\" una sola volta per turno.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1900,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

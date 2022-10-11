@@ -1,0 +1,19 @@
+{
+  "id": 17804,
+  "type": "monster",
+  "name": "Donner, Daga Mascota a Sueldo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos con Tipos diferentes\nPuedes seleccionar 1 monstruo \"Mascota a Sueldo\" que controles y 1 monstruo que controle tu adversario; destrúyelos. Puedes Sacrificar 1 monstruo; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo \"Mascota a Sueldo\" con un nombre original diferente que el del monstruo Sacrificado y después, si Sacrificaste un Monstruo de Enlace para activar este efecto, puedes Invocar de Modo Especial 1 monstruo más como ése. Sólo puedes usar 1 efecto de \"Donner, Daga Mascota a Sueldo\" por turno, y sólo una vez ese turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "2",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Guerrero-Bestia",
+    "Enlace",
+    "Efecto"
+  ]
+}

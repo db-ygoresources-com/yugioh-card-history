@@ -1,0 +1,15 @@
+{
+  "id": 17103,
+  "type": "monster",
+  "name": "Yorishiro dell'Acqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Puoi scegliere come bersaglio 1 mostro ACQUA nel tuo Cimitero; applica 1 di questi effetti, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri ACQUA.\n●(Solo se il bersaglio ha un Livello) fino alla End Phase, il Livello di questa carta, inoltre il suo nome, diventano gli stessi di quel mostro.\n●(Solo se \"Umi\" è sul Terreno), Evoca Specialmente quel mostro in Posizione di Difesa.\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 \"Umi\" nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare ogni effetto di \"Yorishiro dell'Acqua\" una sola volta per turno.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

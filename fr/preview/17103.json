@@ -1,0 +1,15 @@
+{
+  "id": 17103,
+  "type": "monster",
+  "name": "Yorishiro de l'Aqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez cibler 1 monstre EAU dans votre Cimetière ; appliquez 1 de ces effets, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres EAU exclus) le reste de ce tour.\n●(Uniquement si la cible a un Niveau) jusqu'à la End Phase, le Niveau de cette carte et aussi son nom deviennent les mêmes que ceux du monstre.\n●(Uniquement si \"Umi\" est sur le Terrain) Invoquez Spécialement le monstre en Position de Défense.\nVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 \"Umi\" dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser chaque effet de \"Yorishiro de l'Aqua\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}
