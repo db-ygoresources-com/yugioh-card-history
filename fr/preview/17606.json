@@ -1,0 +1,15 @@
+{
+  "id": 17606,
+  "type": "monster",
+  "name": "Agido l'Ancienne Sentinelle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si une ou plusieurs cartes sont envoyées depuis la main ou Deck au Cimetière de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez Invoquer Spécialement 1 monstre TERRE Elfe de Niveau 4 (\"Agido l'Ancienne Sentinelle\" exclu) depuis votre Cimetière. Si cette carte est envoyée depuis la main ou Deck au Cimetière : vous pouvez activer cet effet ; chaque joueur envoie les 5 cartes du dessus de son Deck au Cimetière (ou tout son Deck, s'il en a moins de 5), puis, si \"Permutation des Mondes\" est dans votre Cimetière, vous pouvez envoyer 5 cartes supplémentaires du dessus du Deck de l'un des joueurs au Cimetière. Vous ne pouvez utiliser chaque effet de \"Agido l'Ancienne Sentinelle\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

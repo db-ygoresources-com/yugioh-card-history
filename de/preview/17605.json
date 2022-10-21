@@ -1,0 +1,15 @@
+{
+  "id": 17605,
+  "type": "monster",
+  "name": "Kelbek die alte Vorhut",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls eine oder mehr Karten von der Hand oder dem Deck auf den Friedhof deines Gegners gelegt werden (außer während des Damage Steps): Du kannst 1 als Spezialbeschwörung beschworenes Monster wählen, das dein Gegner kontrolliert; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann gib jenes Monster auf die Hand zurück. Falls diese Karte von der Hand oder dem Deck auf den Friedhof gelegt wird: Du kannst diesen Effekt aktivieren; jeder Spieler legt die obersten 5 Karten seines Decks auf den Friedhof (oder sein gesamtes Deck, falls es weniger als 5 enthält), dann, falls sich „Austausch des Geistes“ in deinem Friedhof befindet, kannst du 1 Falle von deinem Friedhof setzen. Du kannst jeden Effekt von „Kelbek die alte Vorhut“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

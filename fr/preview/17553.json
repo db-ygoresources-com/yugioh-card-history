@@ -1,0 +1,15 @@
+{
+  "id": 17553,
+  "type": "monster",
+  "name": "Aileron",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Assaut de l'Air\".)\nUn monstre \"Assaut de l'Air - As\" équipé avec cette carte gagne 400 ATK. Vous ne pouvez utiliser qu'1 des effets suivants de \"Aileron\" par tour, et uniquement une fois le tour. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre \"Assaut de l'Air - As\" que vous contrôlez ; équipez-lui cette carte depuis votre main ou Terrain. Si cette carte sur le Terrain est détruite : vous pouvez envoyer 1 Magie \"Assaut de l'Air\" depuis votre Deck au Cimetière.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}
