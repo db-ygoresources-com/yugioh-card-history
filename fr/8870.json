@@ -4,7 +4,7 @@
   "name": "Dragon Profondâme Dragonécro",
   "englishAttribute": "dark",
   "localizedAttribute": "TÉNÈBRES",
-  "effectText": "2 monstres Zombie\nDoit d'abord être Invoquée par Fusion. Les monstres ne peuvent pas être détruits au combat avec cette carte. À la fin de la Damage Step, si cette carte a combattu un monstre qui a un Niveau d'origine : l'ATK du monstre devient 0, et aussi, si le monstre est toujours face recto sur le Terrain, Invoquez Spécialement 1 \"Jeton Âme des Ténèbres\" (Zombie/TÉNÈBRES/Niveau ?/ATK ?/DEF 0). (Lorsqu'il est Invoqué, son Niveau et ATK deviennent égaux au Niveau et ATK d'origine du monstre.) Vous ne pouvez contrôler qu'1 \"Dragon Profondâme Dragonécro\".",
+  "effectText": "2 monstres Zombie\nDoit d'abord être Invoquée par Fusion. Les monstres ne peuvent pas être détruits au combat avec cette carte. À la fin de la Damage Step, si cette carte a combattu un monstre : changez l'ATK du monstre à 0, et aussi, si le monstre est toujours face recto sur le Terrain, Invoquez Spécialement 1 \"Jeton Âme des Ténèbres\" (Zombie/TÉNÈBRES/Niveau ?/ATK ?/DEF 0) du même Niveau/ATK que le Niveau/ATK d'origine du monstre. Vous ne pouvez contrôler qu'1 \"Dragon Profondâme Dragonécro\".",
   "level": 8,
   "atk": 3000,
   "def": 0,
