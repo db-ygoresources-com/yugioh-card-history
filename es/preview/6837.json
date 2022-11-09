@@ -1,0 +1,16 @@
+{
+  "id": 6837,
+  "type": "monster",
+  "name": "Tanque Dyna",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo Máquina + 1 monstruo Dinosaurio\nGana ATK igual al ATK original del monstruo Dinosaurio usado para su Invocación por Fusión. Sólo puedes usar cada uno de los siguientes efectos de \"Tanque Dyna\" una vez por turno. Cuando es activada una carta o efecto que selecciona esta carta en el Campo (y ninguna otra carta) (Efecto Rápido): puedes seleccionar otra carta en el Campo que sea un objetivo apropiado; esa carta o efecto ahora selecciona el nuevo objetivo. Si esta carta en posesión de su dueño es destruida por una carta del adversario: puedes Invocar de Modo Especial 1 monstruo Dinosaurio desde tu Cementerio.",
+  "level": 7,
+  "atk": -1,
+  "def": 2100,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Efecto"
+  ]
+}

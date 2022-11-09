@@ -1,0 +1,15 @@
+{
+  "id": 17641,
+  "type": "monster",
+  "name": "Requin Rêve",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "La première fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite. Vous ne pouvez utiliser chacun des effets suivants de \"Requin Rêve\" qu'une fois par tour. Si vous ne contrôlez aucun monstre, ou si tous les monstres que vous contrôlez sont EAU : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsqu'une carte ou un effet qui va vous infliger des dommages est activé, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, faites devenir ces dommages d'effet sur vous 0. Si elle est Invoquée de cette façon, elle perd 1000 DEF, et aussi, bannissez-la lorsqu'elle quitte le Terrain.",
+  "level": 5,
+  "atk": 0,
+  "def": 2600,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

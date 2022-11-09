@@ -1,0 +1,15 @@
+{
+  "id": 17620,
+  "type": "monster",
+  "name": "Asesino de la Flor Imperial",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial con \"Flor Imperial\". Si tienes \"Escolta de la Reina\", \"Escolta del Rey\" y \"Escolta de la Sota\" en tu Cementerio: puedes mandar al Cementerio 5 monstruos, con Niveles 1, 2, 3, 4 y 5, diferentes entre sí, en tu mano y/o Deck y, si lo haces, destruye todas las cartas que controle tu adversario. Cuando esta carta es destruida en batalla: puedes seleccionar hasta 3 monstruos Guerrero de LUZ en tu Cementerio; Invócalos de Modo Especial. Sólo puedes usar cada efecto de \"Asesino de la Flor Imperial\" una vez por turno.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1350,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

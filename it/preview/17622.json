@@ -1,0 +1,15 @@
+{
+  "id": 17622,
+  "type": "monster",
+  "name": "Palla di Tuono",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Alla fine del Damage Step, se un mostro ha combattuto: puoi Evocare Specialmente questa carta dalla tua mano. Puoi mandare 1 Trappola dalla tua mano o che è Posizionata sul tuo Terreno al Cimitero; distruggi tutti gli altri mostri nella colonna di questa carta. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta e mandata al Cimitero: puoi scegliere come bersaglio 1 carta nel tuo Cimitero; tira un dado a sei facce e, se il risultato è 6, aggiungi quel bersaglio alla tua mano. Puoi utilizzare ogni effetto di \"Palla di Tuono\" una sola volta per turno.",
+  "level": 3,
+  "atk": 450,
+  "def": 400,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

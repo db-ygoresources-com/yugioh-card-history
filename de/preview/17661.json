@@ -1,0 +1,21 @@
+{
+  "id": 17661,
+  "type": "monster",
+  "name": "G-Golem Ehrwürdiger Trilith",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ ERDE Monster\nAlle Monster, die dein Gegner kontrolliert, müssen diese Karte angreifen, falls möglich. Einmal pro Kampf, falls diese Karte gegen ein Monster eines Gegners kämpft, vor der Schadensberechnung (Schnelleffekt): Du kannst 1 ERDE Monster von deiner Hand auf den Friedhof legen; bis zum Ende dieses Spielzugs verliert jenes Monster des Gegners 200 ATK, zusätzlich annulliere seine Effekte. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der ein oder mehr Linkmonster, die du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst jenen Effekt annullieren und falls du dies tust, zerstöre jene Karte. Du kannst diesen Effekt von „G-Golem Ehrwürdiger Trilith“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 3200,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

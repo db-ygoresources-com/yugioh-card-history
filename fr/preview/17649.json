@@ -1,0 +1,15 @@
+{
+  "id": 17649,
+  "type": "monster",
+  "name": "Bête Gribouillage - Tyranno",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre Dinosaure. Durant la Main Phase, si un monstre Dinosaure est sur le Terrain, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Sacrifice cette carte depuis votre main. Vous ne pouvez utiliser cet effet de \"Bête Gribouillage - Tyranno\" qu'une fois par tour. Si cette carte est Invoquée Normalement : vous pouvez détruire 1 monstre sur le Terrain, puis, si cette carte a été Invoquée par Sacrifice en Sacrifiant un ou plusieurs monstres \"Bête Gribouillage\", elle gagne une ATK égale à la moitié de l'ATK du monstre détruit sur le Terrain.",
+  "level": 8,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

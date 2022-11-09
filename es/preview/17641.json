@@ -1,0 +1,15 @@
+{
+  "id": 17641,
+  "type": "monster",
+  "name": "Tiburón del Sueño",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "La primera vez que esta carta fuera a ser destruida en batalla cada turno, no es destruida. Sólo puedes usar cada uno de los siguientes efectos de \"Tiburón del Sueño\" una vez por turno. Si no controlas monstruos, o si todos los monstruos que controlas son de AGUA: puedes Invocar esta carta de Modo Especial desde tu mano. Cuando es activada una carta o efecto que fuera a infligirte daño, mientras esta carta esté en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial y, si lo haces, haz que ese daño de efecto se convierta en 0 para ti. Si es Invocada de esta forma, pierde 1000 DEF, y además destiérrala cuando deje el Campo.",
+  "level": 5,
+  "atk": 0,
+  "def": 2600,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17644,
+  "type": "monster",
+  "name": "Cigale du Rêve",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si vous contrôlez un monstre Insecte en Position d'Attaque, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Cigale du Rêve\" qu'une fois par tour de cette façon. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre sur le Terrain ; changez sa position de combat. Vous ne pouvez utiliser cet effet de \"Cigale du Rêve\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 300,
+  "def": 1300,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

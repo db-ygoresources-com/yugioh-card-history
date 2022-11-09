@@ -1,0 +1,18 @@
+{
+  "id": 17647,
+  "type": "monster",
+  "name": "Vidente Camarartista de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Durante sua Fase Principal, se você controlar este card Invocado por Invocação-Pêndulo: você pode ativar o seguinte efeito, de acordo com sua posição de batalha;\n●Posição de Ataque: Você pode banir este card e, depois, escolha 1 monstro \"Camarartista\" ou \"Olhos Anômalos\" no seu Cemitério; Invoque-o por Invocação-Especial.\n●Posição de Defesa: Pegue 1 Monstro Pêndulo \"Camarartista\" ou \"Olhos Anômalos\" do seu Deck e adicione-o ao seu Deck Adicional com a face para cima ou envie-o para o Cemitério.\nVocê só pode usar este efeito de \"Vidente Camarartista de Olhos Anômalos\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 card \"Camarartista\" ou \"Olhos Anômalos\" no seu Cemitério; adicione-o à sua mão e, depois, destrua este card. Você só pode usar este efeito de \"Vidente Camarartista de Olhos Anômalos\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 1800,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

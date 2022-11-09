@@ -1,0 +1,16 @@
+{
+  "id": 6837,
+  "type": "monster",
+  "name": "Dyna Panzer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Maschine-Monster + 1 Dinosaurier-Monster\nDiese Karte erhält ATK in Höhe der Grund-ATK des Dinosaurier-Monsters, das für ihre Fusionsbeschwörung verwendet wurde. Du kannst jeden der folgenden Effekte von „Dyna Panzer“ nur einmal pro Spielzug verwenden. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese 1 Karte auf dem Spielfeld (und keine anderen Karten) als Ziel wählt (Schnelleffekt): Du kannst 1 andere Karte auf dem Spielfeld wählen, die ein geeignetes Ziel wäre; jene Karte oder jener Effekt wählen jetzt das neu gewählte Ziel als Ziel. Falls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Du kannst 1 Dinosaurier-Monster als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 7,
+  "atk": -1,
+  "def": 2100,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

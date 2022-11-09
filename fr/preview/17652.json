@@ -1,0 +1,15 @@
+{
+  "id": 17652,
+  "type": "monster",
+  "name": "Senko, l'Étoile Ciel-Éclair",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un ou plusieurs monstres TERRE sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Guerrier de min. Niveau 5 que vous contrôlez et 1 monstre en Position d'Attaque contrôlé par votre adversaire ; votre monstre perd exactement 1500 ATK, et s'il le fait, détruisez le monstre de l'adversaire. Vous ne pouvez utiliser chaque effet de \"Senko, l'Étoile Ciel-Éclair\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2400,
+  "def": 0,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

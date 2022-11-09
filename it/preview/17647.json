@@ -1,0 +1,18 @@
+{
+  "id": 17647,
+  "type": "monster",
+  "name": "Artistamico Occhi Diversi Profeta",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Durante la tua Main Phase, se controlli questa carta Evocata Pendulum: puoi attivare il seguente effetto, a seconda della sua posizione;\n●Posizione di Attacco: Puoi bandire questa carta, poi scegliere come bersaglio 1 mostro \"Artistamico\" o \"Occhi Diversi\" nel tuo Cimitero; Evocalo Specialmente.\n●Posizione di Difesa: Prendi 1 Mostro Pendulum \"Artistamico\" o \"Occhi Diversi\" dal tuo Deck, e aggiungilo alla tuo Extra Deck scoperto oppure mandalo al Cimitero.\nPuoi utilizzare questo effetto di \"Artistamico Occhi Diversi Profeta\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 carta \"Artistamico\" o \"Occhi Diversi\" nel tuo Cimitero; aggiungila alla tua mano, poi distruggi questa carta. Puoi utilizzare questo effetto di \"Artistamico Occhi Diversi Profeta\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 1800,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

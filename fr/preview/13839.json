@@ -1,0 +1,18 @@
+{
+  "id": 13839,
+  "type": "monster",
+  "name": "Dragon Spectre aux Yeux Impairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous avez 2 cartes dans vos Zones Pendule et un Monstre Pendule \"Yeux Impairs\" face recto dans votre Extra Deck : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous ne pouvez pas Invoquer par Pendulation le tour où vous activez cet effet. Durant le calcul des dommages, si cette carte attaque un monstre de l'adversaire : durant le calcul des dommages uniquement, vous pouvez faire perdre 1000 ATK au monstre de l'adversaire pour chaque Monstre Pendule face recto dans votre Extra Deck. Vous ne pouvez utiliser chaque effet de \"Dragon Spectre aux Yeux Impairs\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez défausser 1 carte ; ajoutez 1 Monstre Pendule Dragon face recto depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de \"Dragon Spectre aux Yeux Impairs\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 17647,
+  "type": "monster",
+  "name": "Künstlerkumpel Buntäugiger Seher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während deiner Main Phase, falls du diese als Pendelbeschwörung beschworene Karte kontrollierst: Du kannst den folgenden Effekt aktivieren, basierend auf ihrer Kampfposition;\n●Angriffsposition: Du kannst diese Karte verbannen und dann 1 „Künstlerkumpel“- oder „Buntäugig“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.\n●Verteidigungsposition: Nimm 1 „Künstlerkumpel“- oder „Buntäugig“-Pendelmonster von deinem Deck und füge es entweder offen deinem Extra Deck hinzu oder lege es auf den Friedhof.\nDu kannst diesen Effekt von „Künstlerkumpel Buntäugiger Seher“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 „Künstlerkumpel“- oder „Buntäugig“-Karte in deinem Friedhof wählen; füge sie deiner Hand hinzu, dann zerstöre diese Karte. Du kannst diesen Effekt von „Künstlerkumpel Buntäugiger Seher“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13839,
+  "type": "monster",
+  "name": "Dragão Fantasmagórico de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se você tiver 2 cards nas suas Zonas de Pêndulo e um Monstro Pêndulo \"Olhos Anômalos\" com a face para cima no seu Deck Adicional: você pode Invocar este card por Invocação-Especial da sua mão. Você não pode Invocar por Invocação-Pêndulo no turno em que ativar este efeito. Durante o cálculo de dano, se este card atacar um monstro do oponente: você pode fazer com que esse monstro do oponente perca 1000 de ATK para cada Monstro Pêndulo com a face para cima no seu Deck Adicional, apenas durante o cálculo de dano. Você só pode usar cada efeito de \"Dragão Fantasmagórico de Olhos Anômalos\" uma vez por turno.",
+  "pendEffect": "Você pode descartar 1 card; adicione 1 Monstro Pêndulo Dragão com a face para cima do seu Deck Adicional à sua mão. Você só pode usar este efeito de \"Dragão Fantasmagórico de Olhos Anômalos\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17622,
+  "type": "monster",
+  "name": "Boule de Tonnerre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "À la fin de la Damage Step, si un monstre a combattu : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez envoyer 1 Piège depuis votre main ou qui est Posé sur votre Terrain au Cimetière ; détruisez tous les autres monstres dans la colonne de cette carte. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez cibler 1 carte dans votre Cimetière ; lancez un dé à six faces, et si le résultat est 6, ajoutez la cible à votre main. Vous ne pouvez utiliser chaque effet de \"Boule de Tonnerre\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 450,
+  "def": 400,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

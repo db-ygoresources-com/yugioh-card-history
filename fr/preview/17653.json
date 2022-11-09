@@ -1,0 +1,16 @@
+{
+  "id": 17653,
+  "type": "monster",
+  "name": "Raijin, l'Étoile Coupe-Éclair",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre LUMIÈRE Guerrier de min. Niveau 5 + 1 monstre TERRE Guerrier\nSi cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Si cette carte combat un monstre sans Niveau, les dommages de combat infligés par cette carte à votre adversaire sont doublés. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite au combat ou par un effet de carte, et y a été envoyée ce tour : vous pouvez cibler 2 monstres Guerrier de max. Niveau 7 dans votre Cimetière ; Invoquez-les Spécialement. Vous ne pouvez utiliser cet effet de \"Raijin, l'Étoile Coupe-Éclair\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

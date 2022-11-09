@@ -1,0 +1,15 @@
+{
+  "id": 17643,
+  "type": "monster",
+  "name": "Cigarra Oleosa",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes reducir en 1 los Niveles de todos los monstruos Insecto que controles en este momento. Si la posición de batalla de esta carta es cambiada: puedes Invocar de Modo Especial, desde tu mano, Deck o Cementerio, 1 \"Cigarra Oleosa\". Sólo puedes usar cada efecto de \"Cigarra Oleosa\" una vez por turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

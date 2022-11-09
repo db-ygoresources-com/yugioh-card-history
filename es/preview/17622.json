@@ -1,0 +1,15 @@
+{
+  "id": 17622,
+  "type": "monster",
+  "name": "Bola de Trueno",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Al final del Damage Step, si un monstruo batalló: puedes Invocar esta carta de Modo Especial desde tu mano. Puedes mandar al Cementerio 1 Trampa en tu mano o que esté Colocada en tu Campo; destruye todos los demás monstruos en la columna de esta carta. Si esta carta en la Zona de Monstruos es destruida en batalla o por el efecto de una carta y mandada al Cementerio: puedes seleccionar 1 carta en tu Cementerio; lanza un dado de seis caras y, si el resultado es 6, añade ese objetivo a tu mano. Sólo puedes usar cada efecto de \"Bola de Trueno\" una vez por turno.",
+  "level": 3,
+  "atk": 450,
+  "def": 400,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

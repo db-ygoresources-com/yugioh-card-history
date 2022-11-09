@@ -1,0 +1,16 @@
+{
+  "id": 17653,
+  "type": "monster",
+  "name": "Raijin, la Estrella Pararrayo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo Guerrero de LUZ de Nivel 5 o mayor + 1 monstruo Guerrero de TIERRA\nSi esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Si esta carta batalla con un monstruo sin un Nivel, cualquier daño de batalla que esta carta inflija a tu adversario se duplica. Durante la End Phase, si esta carta está en el Cementerio porque fue destruida en batalla o por el efecto de una carta y mandada allí este turno: puedes seleccionar 2 monstruos Guerrero de Nivel 7 o menor en tu Cementerio; Invócalos de Modo Especial. Sólo puedes usar este efecto de \"Raijin, la Estrella Pararrayo\" una vez por turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

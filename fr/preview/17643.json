@@ -1,0 +1,15 @@
+{
+  "id": 17643,
+  "type": "monster",
+  "name": "Cigale Graisseuse",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez réduire le Niveau de tous les monstres Insecte que vous contrôlez actuellement de 1. Si la position de combat de cette carte est changée : vous pouvez Invoquer Spécialement 1 \"Cigale Graisseuse\" depuis votre main, Deck ou Cimetière. Vous ne pouvez utiliser chaque effet de \"Cigale Graisseuse\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

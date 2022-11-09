@@ -1,0 +1,18 @@
+{
+  "id": 13839,
+  "type": "monster",
+  "name": "Drago Fantasmatico Occhi Diversi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se hai 2 carte nelle tue Zone Pendulum e un Mostro Pendulum \"Occhi Diversi\" scoperto nel tuo Extra Deck: puoi Evocare Specialmente questa carta dalla tua mano. Non puoi Evocare Pendulum nel turno in cui attivi questo effetto. Durante il calcolo dei danni, se questa carta attacca un mostro dell'avversario: puoi far perdere 1000 ATK a quel mostro dell'avversario per ogni Mostro Pendulum scoperto nel tuo Extra Deck, solamente durante il calcolo dei danni. Puoi utilizzare ogni effetto di \"Drago Fantasmatico Occhi Diversi\" una sola volta per turno.",
+  "pendEffect": "Puoi scartare 1 carta; aggiungi 1 Mostro Pendulum Drago scoperto dal tuo Extra Deck alla tua mano. Puoi utilizzare questo effetto di \"Drago Fantasmatico Occhi Diversi\" una sola volta per turno.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

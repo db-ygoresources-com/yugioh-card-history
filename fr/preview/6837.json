@@ -1,0 +1,16 @@
+{
+  "id": 6837,
+  "type": "monster",
+  "name": "Dyno Tank",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre Machine + 1 monstre Dinosaure\nGagne une ATK égale à l'ATK d'origine du monstre Dinosaure utilisé pour son Invocation Fusion. Vous ne pouvez utiliser chacun des effets suivants de \"Dyno Tank\" qu'une fois par tour. Lorsqu'une carte ou un effet qui cible cette unique carte sur le Terrain (et aucune autre carte) est activé (Effet Rapide) : vous pouvez cibler 1 autre carte sur le Terrain qui serait une cible appropriée ; la carte ou l'effet cible maintenant la nouvelle cible. Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez Invoquer Spécialement 1 monstre Dinosaure depuis votre Cimetière.",
+  "level": 7,
+  "atk": -1,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

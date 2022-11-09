@@ -1,0 +1,18 @@
+{
+  "id": 17647,
+  "type": "monster",
+  "name": "Voyant aux Yeux Impairs Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre Main Phase, si vous contrôlez cette carte Invoquée par Pendulation : vous pouvez activer l'effet suivant, selon sa position de combat ;\n●Position d'Attaque : Vous pouvez bannir cette carte, puis ciblez 1 monstre \"Potartiste\" ou \"Yeux Impairs\" dans votre Cimetière ; Invoquez-le Spécialement.\n●Position de Défense : Prenez 1 Monstre Pendule \"Potartiste\" ou \"Yeux Impairs\" depuis votre Deck, et soit ajoutez-le à votre Extra Deck face recto soit envoyez-le au Cimetière.\nVous ne pouvez utiliser cet effet de \"Voyant aux Yeux Impairs Potartiste\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 carte \"Potartiste\" ou \"Yeux Impairs\" dans votre Cimetière ; ajoutez-la à votre main, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Voyant aux Yeux Impairs Potartiste\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 100,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

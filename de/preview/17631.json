@@ -1,0 +1,15 @@
+{
+  "id": 17631,
+  "type": "monster",
+  "name": "Entwickeltes Kristallungeheuer Topastiger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls „Fortgeschrittene Finsternis“ in keiner Spielfeldzone liegt, lege dieses Monster auf den Friedhof. Alle „Entwickeltes Kristallungeheuer“-Monster, die du kontrollierst, erhalten 400 ATK/DEF, zusätzlich verlieren Monster, die dein Gegner kontrolliert, 400 ATK/DEF. Falls diese offene Karte in einer Monsterzone zerstört wird, kannst du sie offen als Permanenten Zauber in deine Zauber- & Fallenzone legen, anstatt sie auf den Friedhof zu legen.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}
