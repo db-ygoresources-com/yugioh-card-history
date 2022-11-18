@@ -1,0 +1,15 @@
+{
+  "id": 17984,
+  "type": "monster",
+  "name": "Parl, Einsiedler der Finsteren Welt",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Du kannst 1 „Finsteren Welt“-Monster in deinem Friedhof wählen, außer „Parl, Einsiedler der Finsteren Welt“; beschwöre es als Spezialbeschwörung auf eine beliebige Spielfeldseite, dann, falls diese Karte durch einen Karteneffekt eines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, kannst du 1 deiner Unterweltler-Monster, das verbannt ist oder sich in deiner Hand oder deinem Friedhof befindet, als Spezialbeschwörung auf eine beliebige Spielfeldseite beschwören. Du kannst diesen Effekt von „Parl, Einsiedler der Finsteren Welt“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17988,
+  "type": "monster",
+  "name": "Grapha, Chef Suprême Dragon du Monde Ténébreux",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Grapha, Seigneur Dragon du Monde Ténébreux\" + 1 monstre TÉNÈBRES\nLorsque votre adversaire active un effet de monstre ou une Carte Magie Normale/Piège Normal, tant que vous avez une ou plusieurs cartes dans votre main (Effet Rapide) : vous pouvez activer cet effet ; l'effet activé devient \"Votre adversaire défausse 1 carte\". Vous ne pouvez utiliser cet effet de \"Grapha, Chef Suprême Dragon du Monde Ténébreux\" qu'une fois par tour. Si cette carte Invoquée par Fusion contrôlée par son propriétaire quitte le Terrain à cause d'une carte de l'adversaire : vous pouvez Invoquer Spécialement 1 de vos \"Grapha, Seigneur Dragon du Monde Ténébreux\" qui est banni ou dans votre Cimetière, puis chaque joueur avec une main défausse 1 carte.",
+  "level": 10,
+  "atk": 3200,
+  "def": 2300,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17984,
+  "type": "monster",
+  "name": "Parl, Ermitaño del Mundo Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es descartada al Cementerio por efecto de una carta: puedes seleccionar 1 monstruo \"Mundo Oscuro\" en tu Cementerio, excepto \"Parl, Ermitaño del Mundo Oscuro\"; Invócalo de Modo Especial a cualquier Campo y después, si esta carta fue descartada de tu mano a tu Cementerio por efecto de una carta del adversario, puedes Invocar de Modo Especial, a cualquier Campo, 1 de tus monstruos Demonio que esté desterrado, o en tu mano o Cementerio. Sólo puedes usar este efecto de \"Parl, Ermitaño del Mundo Oscuro\" una vez por turno.",
+  "level": 1,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}
