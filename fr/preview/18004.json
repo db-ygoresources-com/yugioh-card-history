@@ -1,0 +1,16 @@
+{
+  "id": 18004,
+  "type": "monster",
+  "name": "Bonheur Épurrely",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 2\nÀ la fin de la Damage Step, si cette carte a combattu : vous pouvez ajouter 1 carte \"Purrely\" depuis votre Deck à votre main, et aussi, si cette carte a \"Heureux Souvenirs Purrely\" comme Matériel, vous pouvez diviser par deux l'ATK d'1 monstre face recto sur le Terrain. Max. trois fois par tour, lorsque vous activez une Carte Magie Jeu-Rapide \"Purrely\" (Effet Rapide) : vous pouvez attacher la carte sur le Terrain à cette carte comme Matériel, puis vous pouvez renvoyer 1 Magie/Piège contrôlé par votre adversaire à la main.",
+  "rank": 2,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "Elfe",
+    "Xyz",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17997,
+  "type": "monster",
+  "name": "Turbulence des Secours-AS",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez bannir 2 cartes \"Secours-AS\" depuis votre Cimetière ; Invoquez Spécialement cette carte depuis votre main. Durant votre Main Phase : vous pouvez Poser max. 4 Magies Jeu-Rapide/Pièges Normaux \"Secours-AS\" de noms différents, directement depuis votre Deck. Si une ou plusieurs autres cartes que vous contrôlez quittent le Terrain par un effet de carte de l'adversaire (sauf durant la Damage Step) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Vous ne pouvez utiliser chaque effet de \"Turbulence des Secours-AS\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

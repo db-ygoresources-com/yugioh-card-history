@@ -1,0 +1,16 @@
+{
+  "id": 18007,
+  "type": "monster",
+  "name": "Bonheur Expurrely",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 7\nVous pouvez aussi Invoquer par Xyz cette carte en utilisant un monstre de Rang 2 que vous contrôlez avec min. 5 Matériels. (Transférez ses Matériels à cette carte.) Durant votre Main Phase : vous pouvez détacher 1 Matériel de cette carte, et si vous le faites, annulez les effets de tous les monstres face recto actuellement contrôlés par votre adversaire, jusqu'à la fin de ce tour. Votre adversaire ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet si cette carte a un monstre \"Purrely\" de Niveau 1 comme Matériel. Lorsqu'une attaque impliquant cette carte qui a min. 5 Matériels est déclarée : infligez 1500 points de dommages à votre adversaire.",
+  "rank": 7,
+  "atk": 2500,
+  "def": 1100,
+  "properties": [
+    "Elfe",
+    "Xyz",
+    "Effet"
+  ]
+}

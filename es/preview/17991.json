@@ -1,0 +1,15 @@
+{
+  "id": 17991,
+  "type": "monster",
+  "name": "Impulso AS-Rescate",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante tu Main Phase: puedes elegir el Monstruo de Efecto que controle tu adversario con el mayor ATK (si hay empate, eliges tú) y este turno ningún jugador puede activar los efectos de ese monstruo en el Campo. Cuando tu adversario activa el efecto de un monstruo en el Campo (Efecto Rápido): puedes Sacrificar esta carta en tu mano o Campo boca arriba; Invoca de Modo Especial 1 monstruo Máquina \"AS-Rescate\" desde tu Deck. Sólo puedes usar cada efecto de \"Impulso AS-Rescate\" una vez por turno.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

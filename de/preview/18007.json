@@ -1,0 +1,16 @@
+{
+  "id": 18007,
+  "type": "monster",
+  "name": "Expurrely Glücksgefühl",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 7\nDu kannst diese Karte auch als Xyz-Beschwörung beschwören, indem du ein Monster des Rangs 2 mit 5 oder mehr Material verwendest, das du kontrollierst. (Transferiere sein Material an diese Karte.) Während deiner Main Phase: Du kannst 1 Material von dieser Karte abhängen und falls du dies tust, annulliere bis zum Ende dieses Spielzugs die Effekte aller offenen Monster, die dein Gegner derzeit kontrolliert. Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren, falls diese Karte ein „Purrely“-Monster der Stufe 1 als Material hat. Wenn ein Angriff deklariert wird, an dem diese Karte beteiligt ist, die 5 oder mehr Material hat: Füge deinem Gegner 1500 Schaden zu.",
+  "rank": 7,
+  "atk": 2500,
+  "def": 1100,
+  "properties": [
+    "Fee",
+    "Xyz",
+    "Effekt"
+  ]
+}

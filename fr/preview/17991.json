@@ -1,0 +1,15 @@
+{
+  "id": 17991,
+  "type": "monster",
+  "name": "Impulsion des Secours-AS",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant votre Main Phase : vous pouvez choisir le Monstre à Effet contrôlé par votre adversaire avec la plus haute ATK (en cas d'égalité, vous choisissez), et aucun joueur ne peut activer les effets du monstre sur le Terrain ce tour. Lorsque votre adversaire active un effet de monstre sur le Terrain (Effet Rapide) : vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto ; Invoquez Spécialement 1 monstre \"Secours-AS\" Machine depuis votre Deck. Vous ne pouvez utiliser chaque effet de \"Impulsion des Secours-AS\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

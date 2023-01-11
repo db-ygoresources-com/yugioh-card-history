@@ -1,0 +1,15 @@
+{
+  "id": 17996,
+  "type": "monster",
+  "name": "Machine-Feu des Secours-AS",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si un ou plusieurs monstres \"Secours-AS\" (\"Machine-Feu des Secours-AS\" exclu) sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 monstre \"Secours-AS\" de max. Niveau 4 depuis votre main, Deck ou Cimetière. Vous ne pouvez utiliser chaque effet de \"Machine-Feu des Secours-AS\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17995,
+  "type": "monster",
+  "name": "Attaque-Feu des Secours-AS",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si un ou plusieurs monstres \"Secours-AS\" (\"Attaque-Feu des Secours-AS\" exclu) sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si une ou plusieurs cartes sont ajoutées à la main de votre adversaire, sauf en les piochant (sauf durant la Damage Step) : vous pouvez piocher 2 cartes, puis défaussez 1 carte. Vous ne pouvez utiliser chaque effet de \"Attaque-Feu des Secours-AS\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}
