@@ -1,0 +1,19 @@
+{
+  "id": 18186,
+  "type": "monster",
+  "name": "Nave di ConTrollo Bottino Jord",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nSe il tuo avversario Evoca Specialmente uno o più mostri (eccetto durante il Damage Step): puoi aggiungere 1 carta \"ConTrollo Bottino\" dal tuo Deck alla tua mano, poi se questa carta è equipaggiata con una carta \"ConTrollo Bottino\", puoi Evocare Specialmente 1 mostro \"ConTrollo Bottino\" dal tuo Deck. Puoi scegliere come bersaglio 1 carta \"ConTrollo Bottino\" nel tuo Cimitero; aggiungila alla tua mano e, se lo fai, metti questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Nave di ConTrollo Bottino Jord\" una sola volta per turno.",
+  "pendEffect": "Puoi dichiarare 1 Attributo; fai ritornare questa carta nell'Extra Deck e, se lo fai, Evoca Specialmente 1 \"Segna-ConTrollo Bottino\" (Demone/Livello 4/ATK 0/DEF 0) con quell'Attributo sul Terreno di entrambi i giocatori in Posizione di Difesa. Puoi utilizzare questo effetto di \"Nave di ConTrollo Bottino Jord\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1500,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Synchro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18170,
+  "type": "monster",
+  "name": "Feenameise der Kreiszauberer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls ein Insekt- oder Pflanze-Monster in einem beliebigen Friedhof liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Feenameise der Kreiszauberer“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte, die du kontrollierst, als Synchromaterial für ein Insekt- oder Pflanze-Monster verwendet würde, kannst du sie als Nicht-Empfänger behandeln.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Insekt",
+    "Empfänger",
+    "Effekt"
+  ]
+}

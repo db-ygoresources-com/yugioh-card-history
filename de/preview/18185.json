@@ -1,0 +1,16 @@
+{
+  "id": 18185,
+  "type": "monster",
+  "name": "Chaosungeheuer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 LICHT Empfänger + 1+ FINSTERNIS Nicht-Empfänger-Monster\nFalls in diesem Spielzug eine oder mehr Karten verbannt wurden, erhält diese Karte 1000 ATK. Du kannst jeden der folgenden Effekte von „Chaosungeheuer“ nur einmal pro Spielzug verwenden. Du kannst 1 deiner verbannten LICHT oder FINSTERNIS Monster wählen; füge es deiner Hand hinzu. Während deiner Main Phase, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst 1 LICHT und 1 FINSTERNIS Monster von deiner Hand und/oder deinem Friedhof verbannen, außer dieser Karte; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Effekt"
+  ]
+}

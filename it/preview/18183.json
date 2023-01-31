@@ -1,0 +1,16 @@
+{
+  "id": 18183,
+  "type": "monster",
+  "name": "Ghiacciogiada Gymir Aegirine",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "1 Tuner ACQUA + 1+ mostri non-Tuner\n(Effetto Rapido): puoi attivare questo effetto; i mostri scoperti che controlli non possono essere distrutti, o banditi, dagli effetti delle carte del tuo avversario in questo turno. Poi, se hai attivato questo effetto in risposta all'attivazione di una carta o un effetto del tuo avversario, e il tuo avversario ha una o più carte con quel nome sul suo Terreno e/o Cimitero, puoi bandire quelle carte. Se una o più carte vengono bandite dall'effetto di una carta del tuo avversario, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta. Puoi utilizzare ogni effetto di \"Ghiacciogiada Gymir Aegirine\" una sola volta per turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Acqua",
+    "Synchro",
+    "Effetto"
+  ]
+}

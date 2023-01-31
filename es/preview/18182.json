@@ -1,0 +1,19 @@
+{
+  "id": 18182,
+  "type": "monster",
+  "name": "Arctos XII - Cronoabismo Vaylantz",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2 monstruos \"Vaylantz\" de Nivel 5 o mayor\nDebe ser primero Invocado de Modo Especial (desde tu Deck Extra boca abajo) Sacrificando las cartas de arriba. (Efecto Rápido): puedes intercambiar las ubicaciones de 2 monstruos en tus Zonas de Monstruos Principales o 2 monstruos en las Zonas de Monstruos Principales de tu adversario. Si una carta en la Zona de Monstruos se mueve a otra Zona de Monstruos (excepto durante el Damage Step): puedes destruir 1 carta en el Campo. Sólo puedes usar cada efecto de \"Arctos XII - Cronoabismo Vaylantz\" una vez por turno.",
+  "pendEffect": "Puedes activar 1 de estos efectos;\n●Invoca esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna.\n●Mueve 1 monstruo en tu Zona de Monstruos Principal a una Zona de Monstruos adyacente (horizontal).\nSólo puedes usar este efecto de \"Arctos XII - Cronoabismo Vaylantz\" una vez por turno.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Hada",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

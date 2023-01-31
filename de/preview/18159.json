@@ -1,0 +1,15 @@
+{
+  "id": 18159,
+  "type": "monster",
+  "name": "Bioinsekten-Panzer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet und du nicht „Bioinsekten-Panzer“ kontrollierst: Du kannst 1 Insekt-Monster wählen, das du kontrollierst; rüste es mit dieser Karte aus, aber verbanne es, wenn es das Spielfeld verlässt, zusätzlich verbanne diese Ausrüstungskarte, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Bioinsekten-Panzer“ nur einmal pro Spielzug verwenden. Das ausgerüstete Monster erhält nur während der Battle Phase und Main Phase 2 1500 ATK/2000 DEF.",
+  "level": 5,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

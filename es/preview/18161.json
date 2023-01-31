@@ -1,0 +1,18 @@
+{
+  "id": 18161,
+  "type": "monster",
+  "name": "Actor del Abismo - Dramaturga de Libertad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Especial desde la Zona de Péndulo: el dueño de esta carta muestra 3 Mágicas \"Guión de Abismo\" en su Deck, su adversario elige 1 al azar para que el dueño de esta carta la Coloque en su Campo (pero el dueño la destruye durante la End Phase), y además baraja el resto al Deck. Si esta carta es destruida: puedes barajar al Deck 1 Mágica \"Guión de Abismo\" en tu Cementerio. Sólo puedes usar cada efecto de \"Actor del Abismo - Dramaturga de Libertad\" una vez por turno.",
+  "pendEffect": "Cuando un monstruo declara un ataque: puedes descartar 1 carta; Invoca esta carta de Modo Especial al Campo de tu adversario. Sólo puedes usar este efecto de \"Actor del Abismo - Dramaturga de Libertad\" una vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18150,
+  "type": "monster",
+  "name": "Âmépée - Le Dragon des Abysses",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par un effet de monstre Wyrm. Si un monstre est banni par un effet de carte (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque le monstre a été banni) ou la main (même si elle n'y était pas), mais bannissez-la lorsqu'elle quitte le Terrain. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte dans la Zone Terrain et 1 monstre contrôlé par votre adversaire ou dans son Cimetière ; bannissez-les. Vous ne pouvez utiliser chaque effet de \"Âmépée - Le Dragon des Abysses\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2900,
+  "properties": [
+    "Wyrm",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18157,
+  "type": "monster",
+  "name": "Tuner Mentale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi attivare 1 di questi effetti;\n●Bandisci fino a 1 mostro LUCE e fino a 1 mostro OSCURITÀ dalla tua mano e/o Cimitero; aumenta o diminuisci il Livello di questa carta del numero esatto di mostri banditi, fino alla fine di questo turno.\n●Scegli come bersaglio fino a 2 dei tuoi mostri banditi (1 LUCE e/o 1 OSCURITÀ); falli ritornare nel Cimitero e, se lo fai, aumenta o diminuisci il Livello di questa carta del numero esatto di mostri fatti ritornare, fino alla fine di questo turno.\nPuoi utilizzare questo effetto di \"Tuner Mentale\" una sola volta per turno.",
+  "level": 3,
+  "atk": 200,
+  "def": 2100,
+  "properties": [
+    "Psichico",
+    "Tuner",
+    "Effetto"
+  ]
+}

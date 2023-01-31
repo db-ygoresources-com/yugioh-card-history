@@ -1,0 +1,19 @@
+{
+  "id": 18186,
+  "type": "monster",
+  "name": "Barco Patrulla Saqueo Jord",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSi tu adversario Invoca uno o más monstruos de Modo Especial (excepto durante el Damage Step): puedes añadir a tu mano 1 carta \"Patrulla Saqueo\" en tu Deck y después, si esta carta está equipada con una carta \"Patrulla Saqueo\", puedes Invocar de Modo Especial 1 monstruo \"Patrulla Saqueo\" desde tu Deck. Puedes seleccionar 1 carta \"Patrulla Saqueo\" en tu Cementerio; añádela a tu mano y, si lo haces, pon esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Barco Patrulla Saqueo Jord\" una vez por turno.",
+  "pendEffect": "Puedes declarar 1 Atributo; devuelve al Deck Extra esta carta y, si lo haces, Invoca de Modo Especial 1 \"Ficha Patrulla Saqueo\" (Demonio/Nivel 4/ATK 0/DEF 0) con ese Atributo a los Campos de ambos jugadores en Posición de Defensa. Sólo puedes usar este efecto de \"Barco Patrulla Saqueo Jord\" una vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1500,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Sincronía",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18161,
+  "type": "monster",
+  "name": "Attore dell'Abisso - Drammaturga Libertà",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Specialmente dalla Zona Pendulum: il proprietario di questa carta rivela 3 Magie \"Sceneggiatura dell'Abisso\" dal suo Deck, il suo avversario ne prende 1 a caso da far Posizionare sul suo Terreno al proprietario di questa carta (ma il proprietario la distrugge durante la End Phase), inoltre mischia il resto nel Deck. Se questa carta viene distrutta: puoi mischiare 1 Magia \"Sceneggiatura dell'Abisso\" dal tuo Cimitero nel Deck. Puoi utilizzare ogni effetto di \"Attore dell'Abisso - Drammaturga Libertà\" una sola volta per turno.",
+  "pendEffect": "Quando un mostro dichiara un attacco: puoi scartare 1 carta; Evoca Specialmente questa carta sul Terreno del tuo avversario. Puoi utilizzare questo effetto di \"Attore dell'Abisso - Drammaturga Libertà\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18161,
+  "type": "monster",
+  "name": "Abyss Actor - Liberty Dramatist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+  "pendEffect": "When a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

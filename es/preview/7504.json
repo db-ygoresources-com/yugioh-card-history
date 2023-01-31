@@ -1,0 +1,15 @@
+{
+  "id": 7504,
+  "type": "monster",
+  "name": "Cassimolar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste gana ATK igual a su ATK original, y además durante la End Phase del próximo turno, destruye ese monstruo boca arriba y, si lo haces, tu adversario recibe daño igual a la mitad de su ATK original. Al comienzo de la Battle Phase de tu adversario: puedes Sacrificar esta carta Invocada de Modo Normal/Colocada; los monstruos de tu adversario no pueden atacar directamente por el resto de este turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

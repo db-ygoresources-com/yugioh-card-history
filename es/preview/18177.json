@@ -1,0 +1,16 @@
+{
+  "id": 18177,
+  "type": "monster",
+  "name": "Evigishki Neremanas",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Gishki\". Si esta carta es Invocada por Ritual: puedes seleccionar 1 monstruo de AGUA en tu Cementerio; Invócalo de Modo Especial. No puede ser destruido en batalla con un monstruo Invocado de Modo Especial desde el Deck Extra. Una vez por turno, cuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes devolver a la mano 1 Monstruo de Ritual \"Gishki\" que controles y, si lo haces, niega la activación y, si haces eso, barájalo al Deck.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Ritual",
+    "Efecto"
+  ]
+}

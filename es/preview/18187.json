@@ -1,0 +1,16 @@
+{
+  "id": 18187,
+  "type": "monster",
+  "name": "Círculo de las Hadas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nDurante tu Main Phase, puedes Invocar de Modo Normal 1 monstruo Insecto o Planta además de tu Invocación Normal/Colocación. (Sólo puedes ganar este efecto una vez por turno). Cuando un monstruo es destruido en batalla involucrando tu monstruo Insecto o Planta, y mandado al Cementerio: puedes seleccionar 1 de esos monstruos destruidos; inflige daño a tu adversario igual a la mitad de su ATK, y después gana LP iguales al daño infligido a tu adversario. Sólo puedes usar este efecto de \"Círculo de las Hadas\" una vez por turno.",
+  "level": 7,
+  "atk": 2200,
+  "def": 2500,
+  "properties": [
+    "Planta",
+    "Sincronía",
+    "Efecto"
+  ]
+}

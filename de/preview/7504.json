@@ -1,0 +1,15 @@
+{
+  "id": 7504,
+  "type": "monster",
+  "name": "Cassimolar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; es erhält ATK in Höhe seiner Grund-ATK, zusätzlich zerstöre jenes offene Monster während der End Phase des nächsten Spielzugs und falls du dies tust, erhält dein Gegner Schaden in Höhe der Hälfte seiner Grund-ATK. Am Beginn der Battle Phase deines Gegners: Du kannst diese als Normalbeschwörung beschworene/gesetzte Karte als Tribut anbieten; Monster deines Gegners können für den Rest dieses Spielzugs nicht direkt angreifen.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

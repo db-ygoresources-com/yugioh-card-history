@@ -1,0 +1,16 @@
+{
+  "id": 18180,
+  "type": "monster",
+  "name": "Gran Insecto Definitivo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo Insecto de Nivel 8 + 1 monstruo Insecto de Nivel 7\nSólo puedes Invocar de Modo Especial \"Gran Insecto Definitivo\" una vez por turno. Debe ser primero Invocado por Fusión, o Invocado de Modo Especial desde tu Deck Extra Sacrificando 1 monstruo Insecto con 2000 DEF o más equipado con una Carta de Equipo. No puede ser destruido en batalla. Una vez por turno, durante la Battle Phase, si una carta boca arriba está en una Zona del Campo (Efecto Rápido): puedes destruir todos los monstruos que controla tu adversario.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Insecto",
+    "Fusión",
+    "Efecto"
+  ]
+}

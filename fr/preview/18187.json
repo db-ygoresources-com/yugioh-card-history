@@ -1,0 +1,16 @@
+{
+  "id": 18187,
+  "type": "monster",
+  "name": "Cercle des Fées",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nDurant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre Insecte ou Plante en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.) Lorsqu'un monstre est détruit au combat impliquant votre monstre Insecte ou Plante, et est envoyé au Cimetière : vous pouvez cibler 1 de ces monstres détruits ; infligez des dommages à votre adversaire égaux à la moitié de son ATK, puis gagnez des LP égaux aux dommages infligés à votre adversaire. Vous ne pouvez utiliser cet effet de \"Cercle des Fées\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2200,
+  "def": 2500,
+  "properties": [
+    "Plante",
+    "Synchro",
+    "Effet"
+  ]
+}

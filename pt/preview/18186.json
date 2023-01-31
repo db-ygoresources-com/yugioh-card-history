@@ -1,0 +1,19 @@
+{
+  "id": 18186,
+  "type": "monster",
+  "name": "Navio Saquepatrollha Jord",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nSe seu oponente Invocar um ou mais monstros por Invocação-Especial (exceto durante a Etapa de Dano): você pode adicionar 1 card \"Saquepatrollha\" do seu Deck à sua mão e, depois, se este card estiver equipado com um card \"Saquepatrollha\", você pode Invocar por Invocação-Especial 1 monstro \"Saquepatrollha\" do seu Deck. Você pode escolher 1 card \"Saquepatrollha\" no seu Cemitério; adicione-o à sua mão e, se isso acontecer, coloque este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Navio Saquepatrollha Jord\" uma vez por turno.",
+  "pendEffect": "Você pode declarar 1 Atributo; devolva este card para o Deck Adicional e, se isso acontecer, Invoque por Invocação-Especial 1 \"Ficha de Saquepatrollha\" (Demônio/Nível 4/ATK 0/DEF 0) com esse Atributo em Posição de Defesa no campo dos dois duelistas. Você só pode usar este efeito de \"Navio Saquepatrollha Jord\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1500,
+  "def": 3000,
+  "properties": [
+    "Demônio",
+    "Sincro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18150,
+  "type": "monster",
+  "name": "Il Drago Abisso Spadanima",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di un mostro Wyrm. Se un mostro viene bandito dall'effetto di una carta (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dal Cimitero (se era lì quando il mostro è stato bandito) o dalla mano (anche se non era lì), ma bandiscilo quando lascia il Terreno. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 carta nella Zona Terreno e 1 mostro controllato dal tuo avversario o nel suo Cimitero; bandiscili. Puoi utilizzare ogni effetto di \"Il Drago Abisso Spadanima\" una sola volta per turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2900,
+  "properties": [
+    "Wyrm",
+    "Effetto"
+  ]
+}

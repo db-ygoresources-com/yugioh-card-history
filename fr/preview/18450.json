@@ -1,0 +1,15 @@
+{
+  "id": 18450,
+  "type": "monster",
+  "name": "Minairuka",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsqu'un effet de monstre EAU est activé (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez bannir 1 monstre Poisson, Serpent de Mer ou Aqua face recto que vous contrôlez, puis ciblez 1 carte face recto sur le Terrain ; jusqu'à la fin du tour de votre adversaire, annulez ses effets. Vous ne pouvez utiliser chaque effet de \"Minairuka\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

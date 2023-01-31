@@ -1,0 +1,18 @@
+{
+  "id": 18161,
+  "type": "monster",
+  "name": "Acteur des Abysses - Dramaturge de la Liberté",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Spécialement depuis la Zone Pendule : le propriétaire de cette carte révèle 3 Magies \"Script des Abysses\" depuis son Deck, son adversaire en prend 1 au hasard pour le propriétaire de cette carte à Poser sur son Terrain (mais le propriétaire la détruit durant la End Phase), et aussi, mélangez les cartes restantes dans le Deck. Si cette carte est détruite : vous pouvez mélanger 1 Magie \"Script des Abysses\" depuis votre Cimetière dans le Deck. Vous ne pouvez utiliser chaque effet de \"Acteur des Abysses - Dramaturge de la Liberté\" qu'une fois par tour.",
+  "pendEffect": "Lorsqu'un monstre déclare une attaque : vous pouvez défausser 1 carte ; Invoquez Spécialement cette carte sur le Terrain de votre adversaire. Vous ne pouvez utiliser cet effet de \"Acteur des Abysses - Dramaturge de la Liberté\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

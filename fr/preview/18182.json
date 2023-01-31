@@ -1,0 +1,19 @@
+{
+  "id": 18182,
+  "type": "monster",
+  "name": "Arktos XII - Chronofaille Vaylantz",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres \"Vaylantz\" de min. Niveau 5\nDoit d'abord être Invoquée Spécialement (depuis votre Extra Deck face verso) en Sacrifiant les cartes ci-dessus. (Effet Rapide) : vous pouvez échanger l'emplacement de 2 monstres dans vos Zones Monstre Main ou de 2 monstres dans les Zones Monstre Main de votre adversaire. Si une carte dans la Zone Monstre est déplacée dans une autre Zone Monstre (sauf durant la Damage Step) : vous pouvez détruire 1 carte sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Arktos XII - Chronofaille Vaylantz\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez activer 1 de ces effets ;\n●Invoquez Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne.\n●Déplacez 1 monstre dans votre Zone Monstre Main dans une Zone Monstre (horizontale) adjacente.\nVous ne pouvez utiliser cet effet de \"Arktos XII - Chronofaille Vaylantz\" qu'une fois par tour.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

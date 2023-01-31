@@ -1,0 +1,15 @@
+{
+  "id": 18027,
+  "type": "monster",
+  "name": "Ninja Vert",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si un ou plusieurs monstres sont Invoqués Spécialement face recto sur votre Terrain (sauf durant la Damage Step) : vous pouvez en cibler 1 ; Invoquez Spécialement cette carte depuis votre main, et si vous le faites, changez le monstre en Position de Défense face verso. Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez cibler 1 monstre sur le Terrain ; changez-le en Position d'Attaque face recto ou Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Ninja Vert\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

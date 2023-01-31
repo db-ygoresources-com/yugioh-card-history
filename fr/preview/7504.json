@@ -1,0 +1,15 @@
+{
+  "id": 7504,
+  "type": "monster",
+  "name": "Cassimolor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; il gagne une ATK égale à son ATK d'origine, et aussi, durant la End Phase du prochain tour, détruisez le monstre face recto, et si vous le faites, votre adversaire reçoit des dommages égaux à la moitié de son ATK d'origine. Au début de la Battle Phase de votre adversaire : vous pouvez Sacrifier cette carte Invoquée/Posée Normalement ; le reste de ce tour, les monstres de votre adversaire ne peuvent pas attaquer directement.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

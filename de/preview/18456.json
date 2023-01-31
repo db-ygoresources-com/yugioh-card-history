@@ -1,0 +1,15 @@
+{
+  "id": 18456,
+  "type": "monster",
+  "name": "Goldstolz - Nytrokopf",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du weniger LP hast als dein Gegner: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während der Standby Phase deines Gegners: Du kannst 1 „Nytro-Spielmarke“ (Pyro/FEUER/Stufe 8/ATK 0/DEF 0) als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschwören, aber sie kann nicht als Linkmaterial verwendet werden. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 „Nytro-Spielmarke“ auf dem Spielfeld wählen; zerstöre jene Spielmarke, zusätzlich zerstöre alle Karten in ihren benachbarten Monsterzonen und Zauber- & Fallenzonen. Du kannst jeden Effekt von „Goldstolz - Nytrokopf“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2300,
+  "def": 2600,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18187,
+  "type": "monster",
+  "name": "Kreis der Feen",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nWährend deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 Insekt- oder Pflanze-Monster als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Wenn ein Monster durch einen Kampf, an dem dein Insekt- oder Pflanze-Monster beteiligt ist, zerstört und auf den Friedhof gelegt wird: Du kannst 1 jener zerstörten Monster wählen; füge deinem Gegner Schaden in Höhe der Hälfte seiner ATK zu, dann erhältst du LP in Höhe des Schadens, der deinem Gegner zugefügt wurde. Du kannst diesen Effekt von „Kreis der Feen“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2200,
+  "def": 2500,
+  "properties": [
+    "Pflanze",
+    "Synchro",
+    "Effekt"
+  ]
+}

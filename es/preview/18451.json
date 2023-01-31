@@ -1,0 +1,15 @@
+{
+  "id": 18451,
+  "type": "monster",
+  "name": "Orfetoro el Bardo Torero Harmonioso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 2 monstruos de LUZ y 2 de OSCURIDAD en tu mano y/o Cementerio, excepto esta carta. Si es Invocada de esta forma, esta carta gana 1000 ATK por cada monstruo desterrado de tu mano para su Invocación, y puede atacar a monstruos un número de veces cada Battle Phase hasta el número de monstruos desterrados del Cementerio para su Invocación. Si esta carta destruye un monstruo del adversario en batalla, después del cálculo de daño: puedes desterrar ese monstruo del adversario.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

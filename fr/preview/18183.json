@@ -1,0 +1,16 @@
+{
+  "id": 18183,
+  "type": "monster",
+  "name": "Aegirine Gymir Jadeglace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 Syntoniseur EAU + 1+ monstre non-Syntoniseur\n(Effet Rapide) : vous pouvez activer cet effet ; ce tour, les monstres face recto que vous contrôlez ne peuvent être ni détruits ni bannis par des effets de carte de votre adversaire. Puis, si vous avez activé cet effet en réponse à l'activation de carte ou d'effet de votre adversaire, et que votre adversaire a une ou plusieurs cartes de ce nom sur son Terrain et/ou Cimetière, vous pouvez bannir ces cartes. Si une ou plusieurs cartes sont bannies par un effet de carte de votre adversaire, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Aegirine Gymir Jadeglace\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Synchro",
+    "Effet"
+  ]
+}

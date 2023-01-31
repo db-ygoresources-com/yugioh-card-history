@@ -1,0 +1,15 @@
+{
+  "id": 18150,
+  "type": "monster",
+  "name": "A Espadalma Dragão do Abismo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial pelo efeito de um monstro Wyrm. Se um monstro for banido por um efeito de card (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial do Cemitério (se ele estava lá quando o monstro foi banido) ou da mão (mesmo se ele não estava), mas bana-o quando ele deixar o campo. Se este card for Invocado por Invocação-Especial: você pode escolher 1 card na Zona do Campo e 1 monstro que seu oponente controla ou no Cemitério dele; bana-os. Você só pode usar cada efeito de \"A Espadalma Dragão do Abismo\" uma vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2900,
+  "properties": [
+    "Wyrm",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18150,
+  "type": "monster",
+  "name": "Der Schwertseelen-Abgrunddrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch den Effekt eines Wyrm-Monsters als Spezialbeschwörung beschworen werden. Falls ein Monster durch einen Karteneffekt verbannt wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung vom Friedhof (falls sie dort lag, als das Monster verbannt wurde) oder der Hand (selbst falls nicht) beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte in der Spielfeldzone und 1 Monster, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet, wählen; verbanne sie. Du kannst jeden Effekt von „Der Schwertseelen-Abgrunddrache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2900,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

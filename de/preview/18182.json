@@ -1,0 +1,19 @@
+{
+  "id": 18182,
+  "type": "monster",
+  "name": "Arktos XII - Chronokluft Vaylantz",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 „Vaylantz“-Monster der Stufe 5 oder höher\nMuss erst als Spezialbeschwörung (verdeckt von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten als Tribut anbietest. (Schnelleffekt): Du kannst die Orte von 2 Monstern in deinen Main-Monsterzonen oder 2 Monstern in den Main-Monsterzonen deines Gegners vertauschen. Falls eine Karte in der Monsterzone in eine andere Monsterzone bewegt wird (außer während des Damage Steps): Du kannst 1 Karte auf dem Spielfeld zerstören. Du kannst jeden Effekt von „Arktos XII - Chronokluft Vaylantz“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 dieser Effekte aktivieren;\n●Beschwöre diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte.\n●Bewege 1 Monster in deiner Main-Monsterzone in eine (waagerecht) benachbarte Monsterzone.\nDu kannst diesen Effekt von „Arktos XII - Chronokluft Vaylantz“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

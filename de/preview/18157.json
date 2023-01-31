@@ -1,0 +1,16 @@
+{
+  "id": 18157,
+  "type": "monster",
+  "name": "Mentaler Empfänger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 dieser Effekte aktivieren;\n●Verbanne bis zu 1 LICHT und bis zu 1 FINSTERNIS Monster von deiner Hand und/oder deinem Friedhof; erhöhe oder verringere die Stufe dieser Karte bis zum Ende dieses Spielzugs um die genaue verbannte Anzahl.\n●Wähle bis zu 2 deiner verbannten Monster (1 LICHT und/oder 1 FINSTERNIS); lege sie auf den Friedhof zurück und falls du dies tust, erhöhe oder verringere die Stufe dieser Karte bis zum Ende dieses Spielzugs um die genaue zurückgelegte Anzahl.\nDu kannst diesen Effekt von „Mentaler Empfänger“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 200,
+  "def": 2100,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18456,
+  "type": "monster",
+  "name": "Fierté d'Or - Tête Nytro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si vos LP sont inférieurs à ceux de votre adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant la Standby Phase de votre adversaire : vous pouvez Invoquer Spécialement 1 \"Jeton Nytro\" (Pyro/FEU/Niveau 8/ATK 0/DEF 0) sur le Terrain de votre adversaire, mais il ne peut pas être utilisé comme Matériel Lien. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 1 \"Jeton Nytro\" sur le Terrain ; détruisez le Jeton, et aussi, détruisez toutes les cartes dans ses Zones Monstre et Zones Magie & Piège adjacentes. Vous ne pouvez utiliser chaque effet de \"Fierté d'Or - Tête Nytro\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2300,
+  "def": 2600,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18151,
+  "type": "monster",
+  "name": "Kashtira Riseheart",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si controlas un monstruo \"Kashtira\": puedes Invocar esta carta de Modo Especial desde tu mano, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos Xyz. Durante tu Main Phase, si esta carta fue Invocada de Modo Normal o Especial este turno: puedes desterrar 1 carta \"Kashtira\" en tu Deck, excepto \"Kashtira Riseheart\"; destierra las 3 cartas de la parte superior del Deck de tu adversario boca abajo y, si destierras alguna, el Nivel de esta carta se convierte en 7. Sólo puedes usar cada efecto de \"Kashtira Riseheart\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 2100,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}
