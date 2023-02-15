@@ -1,0 +1,20 @@
+{
+  "id": 18314,
+  "type": "monster",
+  "name": "Atrapadora Atypus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2+ monstruos, incluyendo un monstruo Insecto o Planta\nEsta carta Invocada por Enlace no es afectada por efectos de Trampas. Mientras tengas una Trampa Normal en tu Cementerio todos los monstruos \"Atrapadora\" que controles ganan 1000 ATK. Una vez por turno: puedes seleccionar hasta tantas cartas boca arriba que controle tu adversario como el número de monstruos Insecto y Planta que controles; niega sus efectos (hasta el final de este turno), y después puedes aplicar este efecto.\n●Destierra 1 Trampa Normal en tu Cementerio y, si lo haces, destruye 1 de esas cartas boca arriba seleccionadas.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Insecto",
+    "Enlace",
+    "Efecto"
+  ]
+}

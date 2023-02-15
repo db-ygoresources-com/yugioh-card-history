@@ -1,0 +1,20 @@
+{
+  "id": 18314,
+  "type": "monster",
+  "name": "Traptrix Atypus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres (un monstre Insecte ou Plante inclus)\nCette carte Invoquée par Lien n'est pas affectée par des effets de Piège. Tous les monstres \"Traptrix\" que vous contrôlez gagnent 1000 ATK tant que vous avez un Piège Normal dans votre Cimetière. Une fois par tour : vous pouvez cibler un nombre de cartes face recto contrôlées par votre adversaire, inférieur ou égal au nombre de monstres Insecte et Plante que vous contrôlez ; annulez leurs effets (jusqu'à la fin de ce tour), puis vous pouvez appliquer cet effet.\n●Bannissez 1 Piège Normal depuis votre Cimetière, et si vous le faites, détruisez 1 de ces cartes face recto ciblées.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Insecte",
+    "Lien",
+    "Effet"
+  ]
+}
