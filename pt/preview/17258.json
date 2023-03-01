@@ -1,0 +1,18 @@
+{
+  "id": 17258,
+  "type": "monster",
+  "name": "Camarartista Duelista Extraordinário",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Quando este card causar dano de batalha ao seu oponente: você pode adicionar 1 monstro \"Rei Supremo Dragão\", monstro \"Rei Supremo Portal\" ou \"Alma do Rei Supremo\" do seu Deck à sua mão. Uma vez por turno, durante a Fase de Apoio: ative este efeito; cada duelista pode banir 1 Magia do seu Deck. Uma vez por turno, quando um monstro declarar um ataque: ative este efeito; o duelista atacado pode aplicar o seguinte efeito.\n●Adicione 1 das suas Magias banidas à sua mão e, depois, descarte-a e, se isso acontecer, negue o ataque.",
+  "pendEffect": "Uma vez por turno, no começo da Etapa de Dano, se um monstro batalhar um monstro: você pode devolver este card para a mão e, se isso acontecer, bana 1 Magia do seu Deck. Nessa batalha, seu monstro não pode ser destruído e, além disso, o dano de batalha que você sofrer é diminuído pela metade.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

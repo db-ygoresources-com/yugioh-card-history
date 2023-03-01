@@ -1,0 +1,16 @@
+{
+  "id": 17247,
+  "type": "monster",
+  "name": "Réveillez votre HÉROS Élémentaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Monstre Fusion \"HÉROS Élémentaire\" + 1+ monstre Guerrier\nUniquement Invocable par Fusion. Gagne 300 ATK pour chaque Matériel utilisé pour son Invocation. Cette carte peut faire un nombre d'attaques sur des monstres chaque Battle Phase, inférieur ou égal au nombre de Monstres Fusion utilisés comme Matériel pour son Invocation. Après le calcul des dommages, si cette carte a combattu un monstre : détruisez le monstre, et si vous le faites, infligez des dommages à votre adversaire égaux à son ATK d'origine. Si cette carte Invoquée par Fusion est détruite : Invoquez Spécialement 1 monstre Guerrier depuis votre main ou Deck.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

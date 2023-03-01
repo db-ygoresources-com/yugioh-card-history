@@ -1,0 +1,18 @@
+{
+  "id": 17258,
+  "type": "monster",
+  "name": "Artistamico Duellante Straordinario",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando questa carta infligge danno da combattimento al tuo avversario: puoi aggiungere 1 mostro \"Re Supremo Drago\", mostro \"Re Supremo Cancello\" o \"Anima del Re Supremo\" dal tuo Deck alla tua mano. Una volta per turno, durante la Standby Phase: attiva questo effetto; ogni giocatore può bandire 1 Magia dal suo Deck. Una volta per turno, quando un mostro dichiara un attacco: attiva questo effetto; il giocatore attaccato può applicare il seguente effetto.\n●Aggiungi 1 delle tue Magie bandite alla tua mano, poi scartala e, se lo fai, annulla quell'attacco.",
+  "pendEffect": "Una volta per turno, all'inizio del Damage Step, se un mostro combatte con un mostro: puoi far ritornare questa carta nella mano e, se lo fai, bandisci 1 Magia dal tuo Deck. Per quella battaglia, il tuo mostro non può essere distrutto, inoltre il danno da combattimento che subisci viene dimezzato.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

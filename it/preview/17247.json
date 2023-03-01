@@ -1,0 +1,16 @@
+{
+  "id": 17247,
+  "type": "monster",
+  "name": "Risveglia il Tuo EROE Elementale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 Mostro Fusione \"EROE Elementale\" + 1+ mostri Guerriero\nDeve essere Evocato tramite Fusione. Guadagna 300 ATK per ogni materiale utilizzato per la sua Evocazione. Questa carta può effettuare un numero di attacchi su mostri ogni Battle Phase, fino al numero di Mostri Fusione utilizzati come materiale per la sua Evocazione. Dopo il calcolo dei danni, se questa carta ha combattuto con un mostro: distruggi quel mostro e, se lo fai, infliggi al tuo avversario danno pari al suo ATK originale. Se questa carta Evocata tramite Fusione viene distrutta: Evoca Specialmente 1 mostro Guerriero dalla tua mano o Deck.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerriero",
+    "Fusione",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18324,
+  "type": "monster",
+  "name": "Ghoul de las Sombras del Laberinto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes descartar esta carta; añade a tu mano 1 carta \"Muro Laberinto\" en tu Deck. Al comienzo del Damage Step, si el monstruo de tu adversario batalla, mientras tú controlas una carta \"Muro Laberinto\": puedes desterrar esta carta en tu Cementerio; destruye ese monstruo del adversario. Sólo puedes usar cada efecto de \"Ghoul de las Sombras del Laberinto\" una vez por turno.",
+  "level": 5,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

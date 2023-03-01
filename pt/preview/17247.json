@@ -1,0 +1,16 @@
+{
+  "id": 17247,
+  "type": "monster",
+  "name": "Desperte Seu HERÓI do Elemento",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Monstro de Fusão \"HERÓI do Elemento\" + 1+ monstros Guerreiro\nDeve ser Invocado por Invocação-Fusão. Ganha 300 de ATK para cada matéria usada para sua Invocação. Este card pode realizar um número de ataques contra monstros a cada Fase de Batalha, até o número de Monstros de Fusão usados como matéria para sua Invocação. Depois do cálculo de dano, se este card batalhou um monstro: destrua esse monstro e, se isso acontecer, cause dano ao seu oponente igual ao ATK original dele. Se este card Invocado por Invocação-Fusão for destruído: Invoque por Invocação-Especial 1 monstro Guerreiro da sua mão ou do Deck.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerreiro",
+    "Fusão",
+    "Efeito"
+  ]
+}

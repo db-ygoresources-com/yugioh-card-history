@@ -1,0 +1,16 @@
+{
+  "id": 17247,
+  "type": "monster",
+  "name": "Despierta tu HÉROE Elemental",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Monstruo de Fusión \"HÉROE Elemental\" + 1+ monstruos Guerrero\nDebe ser Invocado por Fusión. Gana 300 ATK por cada material usado para su Invocación. Esta carta puede hacer un número de ataques a monstruos cada Battle Phase, hasta el número de Monstruos de Fusión usados como material para su Invocación. Después del cálculo de daño, si esta carta batalló con un monstruo: destruye ese monstruo y, si lo haces, inflige daño a tu adversario igual a su ATK original. Si esta carta Invocada por Fusión es destruida: Invoca de Modo Especial 1 monstruo Guerrero desde tu mano o Deck.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

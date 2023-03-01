@@ -1,0 +1,18 @@
+{
+  "id": 17258,
+  "type": "monster",
+  "name": "Artistamigo Duelista Extraordinario",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando esta carta inflige daño de batalla a tu adversario: puedes añadir a tu mano 1 monstruo \"Rey Supremo Dragón\", monstruo \"Rey Supremo Puerta\" o \"Alma del Rey Supremo\" en tu Deck. Una vez por turno, durante la Standby Phase: activa este efecto; cada jugador puede desterrar 1 Mágica en su Deck. Una vez por turno, cuando un monstruo declare un ataque: activa este efecto; el jugador atacado puede aplicar el siguiente efecto.\n●Añade a tu mano 1 de tus Mágicas desterradas y después descártala y, si lo haces, niega ese ataque.",
+  "pendEffect": "Una vez por turno, al comienzo del Damage Step, si un monstruo batalla con un monstruo: puedes devolver esta carta a la mano y, si lo haces, destierra 1 Mágica en tu Deck. Por esa batalla, tu monstruo no puede ser destruido, y además el daño de batalla que recibas se divide a la mitad.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

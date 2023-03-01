@@ -1,0 +1,15 @@
+{
+  "id": 18324,
+  "type": "monster",
+  "name": "Goule d'Ombre du Labyrinthe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez défausser cette carte ; ajoutez 1 carte \"Mur du Labyrinthe\" depuis votre Deck à votre main. Au début de la Damage Step, si un monstre de votre adversaire combat, tant que vous contrôlez une carte \"Mur du Labyrinthe\" : vous pouvez bannir cette carte depuis votre Cimetière ; détruisez le monstre de l'adversaire. Vous ne pouvez utiliser chaque effet de \"Goule d'Ombre du Labyrinthe\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

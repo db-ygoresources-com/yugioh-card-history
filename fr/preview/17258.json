@@ -1,0 +1,18 @@
+{
+  "id": 17258,
+  "type": "monster",
+  "name": "Duelliste Extraordinaire Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez ajouter 1 \"Âme du Roi Suprême\", monstre \"Roi Suprême du Dragon\" ou monstre \"Roi Suprême du Portail\" depuis votre Deck à votre main. Une fois par tour, durant la Standby Phase : activez cet effet ; chaque joueur peut bannir 1 Magie depuis son Deck. Une fois par tour, lorsqu'un monstre déclare une attaque : activez cet effet ; le joueur attaqué peut appliquer l'effet suivant.\n●Ajoutez 1 de vos Magies bannies à votre main, puis défaussez-la, et si vous le faites, annulez l'attaque.",
+  "pendEffect": "Une fois par tour, au début de la Damage Step, si un monstre combat un monstre : vous pouvez renvoyer cette carte à la main, et si vous le faites, bannissez 1 Magie depuis votre Deck. Votre monstre ne peut être détruit par ce combat, et aussi, les dommages de combat que vous recevez sont divisés par deux.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}
