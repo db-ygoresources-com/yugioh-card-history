@@ -4,7 +4,7 @@
   "name": "Amazoness Heirloom",
   "englishAttribute": "spell",
   "localizedAttribute": "SPELL",
-  "effectText": "Equip only to an \"Amazoness\" monster. Once per turn, that monster cannot be destroyed by battle. After damage calculation, if the equipped monster attacks a monster: Destroy the attacked monster.",
+  "effectText": "Equip only to an \"Amazoness\" monster. The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. After damage calculation, if the equipped monster attacked a monster: Destroy the attacked monster.",
   "englishProperty": "equip",
   "localizedProperty": "Equip"
 }

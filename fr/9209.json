@@ -4,7 +4,7 @@
   "name": "Héritage Amazonesse",
   "englishAttribute": "spell",
   "localizedAttribute": "MAGIE",
-  "effectText": "Équipable uniquement à un monstre \"Amazonesse\". Une fois par tour, le monstre ne peut pas être détruit au combat. Après le calcul des dommages, si le monstre équipé attaque un monstre : détruisez le monstre attaqué.",
+  "effectText": "Équipable uniquement à un monstre \"Amazonesse\". La première fois que le monstre équipé va être détruit au combat chaque tour, il n'est pas détruit. Après le calcul des dommages, si le monstre équipé a attaqué un monstre : détruisez le monstre attaqué.",
   "englishProperty": "equip",
   "localizedProperty": "Équipement"
 }

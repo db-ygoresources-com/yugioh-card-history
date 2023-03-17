@@ -4,7 +4,7 @@
   "name": "Herencia Amazoness",
   "englishAttribute": "spell",
   "localizedAttribute": "MÁGICA",
-  "effectText": "Sólo puedes equipar esta carta a un monstruo \"Amazoness\". Una vez por turno, ese monstruo no puede ser destruido en batalla. Después del cálculo de daño, si el monstruo equipado ataca a un monstruo: destruye al monstruo atacado.",
+  "effectText": "Sólo puedes equipar esta carta a un monstruo \"Amazoness\". La primera vez que el monstruo equipado fuera a ser destruido en batalla cada turno, no es destruido. Después del cálculo de daño, si el monstruo equipado atacó un monstruo: destruye el monstruo atacado.",
   "englishProperty": "equip",
   "localizedProperty": "Equipo"
 }

@@ -4,7 +4,7 @@
   "name": "Herança Amazoness",
   "englishAttribute": "spell",
   "localizedAttribute": "MAGIA",
-  "effectText": "Só pode ser equipado a um monstro \"Amazoness\". Uma vez por turno, esse monstro não pode ser destruído em batalha. Depois do cálculo de dano, se o monstro equipado atacar um monstro: destrua o monstro atacado.",
+  "effectText": "Só pode ser equipado a um monstro \"Amazoness\". Na primeira vez que o monstro equipado seria destruído em batalha a cada turno, ele não é destruído. Depois do cálculo de dano, se o monstro equipado atacou um monstro: destrua o monstro atacado.",
   "englishProperty": "equip",
   "localizedProperty": "Equipamento"
 }

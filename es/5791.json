@@ -4,7 +4,7 @@
   "name": "Pandemonium",
   "englishAttribute": "spell",
   "localizedAttribute": "MÁGICA",
-  "effectText": "Ningún jugador debe pagar Life Points durante la Standby Phase por monstruos \"Archidemonio\". Cada vez que un monstruo \"Archidemonio\" de un jugador es destruido y mandado al Cementerio, excepto en batalla, ese jugador puede añadir 1 monstruo \"Archidemonio\" de Nivel menor que la carta destruida desde su Deck a su mano.",
+  "effectText": "Ningún jugador debe pagar LP durante la Standby Phase por monstruos \"Archidemonio\". Cuando un monstruo \"Archidemonio\" es destruido y mandado al Cementerio, excepto en batalla: su dueño puede añadir a su mano 1 monstruo \"Archidemonio\" en su Deck con un Nivel menor que el de la carta destruida.",
   "englishProperty": "field",
   "localizedProperty": "Campo"
 }
