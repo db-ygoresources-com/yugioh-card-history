@@ -1,0 +1,16 @@
+{
+  "id": 7819,
+  "type": "monster",
+  "name": "플레임벨 아처",
+  "englishAttribute": "fire",
+  "localizedAttribute": "화염",
+  "effectText": "①: 1턴에 1번, 자신 필드의 앞면 표시 화염족 몬스터 1장을 릴리스하고 발동할 수 있다. 필드의 모든 \"플레임벨\" 몬스터의 공격력은 턴 종료시까지 800 올린다.",
+  "level": 3,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "화염족",
+    "튜너",
+    "효과"
+  ]
+}

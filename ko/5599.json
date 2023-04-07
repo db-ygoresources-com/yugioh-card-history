@@ -1,0 +1,15 @@
+{
+  "id": 5599,
+  "type": "monster",
+  "name": "룰렛 폭탄",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "자신의 메인 페이즈에 주사위를 2회 던질 수 있다. 나온 눈을 1개 선택하여, 필드 위에서 그 수와 같은 레벨의 앞면 표시 몬스터 1장을 파괴한다.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

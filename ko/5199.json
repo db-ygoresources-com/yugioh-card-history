@@ -1,0 +1,16 @@
+{
+  "id": 5199,
+  "type": "monster",
+  "name": "화염의 마녀",
+  "englishAttribute": "fire",
+  "localizedAttribute": "화염",
+  "effectText": "리버스 : 자신의 패를 무작위로 2장 선택하여 게임에서 제외한다. 상대 라이프에 800 포인트의 데미지를 준다.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "마법사족",
+    "리버스",
+    "효과"
+  ]
+}

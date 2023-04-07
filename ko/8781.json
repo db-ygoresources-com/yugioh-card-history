@@ -1,0 +1,16 @@
+{
+  "id": 8781,
+  "type": "monster",
+  "name": "카드 브레이커",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "이 카드는 일반 소환/세트할 수 없다. 자신의 마법 & 함정 카드 존에 존재하는 카드 1장을 묘지로 보냈을 경우에 앞면 공격 표시로 특수 소환할 수 있다.",
+  "level": 2,
+  "atk": 100,
+  "def": 900,
+  "properties": [
+    "전사족",
+    "특수 소환",
+    "효과"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6683,
+  "type": "monster",
+  "name": "서치라이트맨",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "리버스 : 이 턴에 상대 플레이어는 필드 위에 카드를 세트할 수 없다.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "기계족",
+    "리버스",
+    "효과"
+  ]
+}

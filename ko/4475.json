@@ -1,0 +1,16 @@
+{
+  "id": 4475,
+  "type": "monster",
+  "name": "푸른 첩자",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "리버스 : 필드 위의 마법 카드 1장을 파괴한다. 선택한 카드가 세트되어 있을 경우, 그 카드를 넘겨서 확인하여 마법 카드이면 파괴한다. 함정 카드일 경우에는 원래대로 되돌린다.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "전사족",
+    "리버스",
+    "효과"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7721,
+  "type": "monster",
+  "name": "디스트럭터",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "1000 라이프 포인트를 지불하고 발동한다. 상대 필드 위에 세트된 마법 또는 함정 카드 1장을 파괴한다. 자신 필드 위에 이 카드 이외의 사이킥족 몬스터가 존재하지 않을 경우, 엔드 페이즈시에 이 카드를 파괴한다.",
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "사이킥족",
+    "효과"
+  ]
+}

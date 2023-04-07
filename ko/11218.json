@@ -1,0 +1,17 @@
+{
+  "id": 11218,
+  "type": "monster",
+  "name": "EM 카레이드스콜피온",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "①: 1턴에 1번, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 그 몬스터는 상대 필드의 특수 소환된 몬스터 전부에 1회씩 공격할 수 있다.\n[펜듈럼 효과]\n①: 자신 필드의 빛 속성 몬스터의 공격력은 300 올린다.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "곤충족",
+    "펜듈럼",
+    "효과"
+  ]
+}

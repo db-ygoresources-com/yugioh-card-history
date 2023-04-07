@@ -1,0 +1,16 @@
+{
+  "id": 4589,
+  "type": "monster",
+  "name": "일기 예보",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "리버스 : 상대 필드 위에 앞면 표시로 되어있는 \"빛의 봉인검\"을 전부 파괴한다. 파괴에 성공했을 경우, 다음 자신의 배틀 페이즈를 2회 실행할 수 있다.",
+  "level": 4,
+  "atk": 950,
+  "def": 1500,
+  "properties": [
+    "물족",
+    "리버스",
+    "효과"
+  ]
+}

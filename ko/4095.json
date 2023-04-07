@@ -1,0 +1,15 @@
+{
+  "id": 4095,
+  "type": "monster",
+  "name": "중강갑 거북",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "①: 1턴에 1번, 자신 필드의 몬스터 1장을 릴리스하고 발동할 수 있다. 릴리스한 몬스터의 공격력의 절반의 데미지를 상대에게 준다.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "물족",
+    "효과"
+  ]
+}

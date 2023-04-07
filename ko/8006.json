@@ -1,0 +1,16 @@
+{
+  "id": 8006,
+  "type": "monster",
+  "name": "하이퍼 싱크론",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "이 카드가 드래곤족 몬스터의 싱크로 소환에 사용되어 묘지로 보내졌을 경우, 이 카드를 싱크로 소재로 한 싱크로 몬스터의 공격력은 800 포인트 올리고, 엔드 페이즈시에 게임에서 제외된다.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "기계족",
+    "튜너",
+    "효과"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5974,
+  "type": "monster",
+  "name": "프로미넌스 드래곤",
+  "englishAttribute": "fire",
+  "localizedAttribute": "화염",
+  "effectText": "자신 필드 위에 이 카드 이외의 화염족 몬스터가 존재할 경우, 이 카드를 공격할 수 없다. 자신의 턴의 엔드 페이즈시, 이 카드는 상대 라이프에 500 포인트 데미지를 준다.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "화염족",
+    "효과"
+  ]
+}

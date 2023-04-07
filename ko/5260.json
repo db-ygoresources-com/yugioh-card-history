@@ -1,0 +1,15 @@
+{
+  "id": 5260,
+  "type": "monster",
+  "name": "마력흡수구체",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "이 효과는 상대 턴밖에 사용할 수 없다. 상대가 마법 카드를 발동했을 때, 앞면 표시의 이 카드를 제물로 바치는 것으로, 마법 카드의 발동을 무효로 하여, 그것을 파괴한다.",
+  "level": 3,
+  "atk": 900,
+  "def": 900,
+  "properties": [
+    "물족",
+    "효과"
+  ]
+}

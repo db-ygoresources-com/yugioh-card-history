@@ -1,0 +1,15 @@
+{
+  "id": 10490,
+  "type": "monster",
+  "name": "불가사리",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "1턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 자신 필드 위의 모든 \"불가사리\"의 레벨을 1개 올린다.",
+  "level": 3,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "물족",
+    "효과"
+  ]
+}

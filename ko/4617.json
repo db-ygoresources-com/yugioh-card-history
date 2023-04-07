@@ -1,0 +1,16 @@
+{
+  "id": 4617,
+  "type": "monster",
+  "name": "악마의 정찰자",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "리버스 : 상대는 카드를 3장 드로우한다. 드로우한 카드를 서로 확인하고, 그 중에 마법 카드가 있을 경우, 그 마법 카드를 전부 묘지에 버린다.",
+  "level": 2,
+  "atk": 650,
+  "def": 500,
+  "properties": [
+    "악마족",
+    "리버스",
+    "효과"
+  ]
+}

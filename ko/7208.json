@@ -1,0 +1,16 @@
+{
+  "id": 7208,
+  "type": "monster",
+  "name": "수정의 점술사",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "리버스 : 자신 덱의 맨 위에서 2장을 넘겨, 그 중에 1장을 선택해서 패에 넣는다. 남은 카드는 덱의 맨 아래로 되돌린다.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "마법사족",
+    "리버스",
+    "효과"
+  ]
+}

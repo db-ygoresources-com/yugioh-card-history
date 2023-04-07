@@ -1,0 +1,16 @@
+{
+  "id": 9867,
+  "type": "monster",
+  "name": "D－보이즈",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "리버스 : 덱에서 \"D－보이즈\"를 임의의 수만큼 앞면 공격 표시로 특수 소환할 수 있다. 그 후, 자신은 이 효과로 특수 소환한 몬스터의 수 × 1000 포인트 데미지를 받는다.",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "악마족",
+    "리버스",
+    "효과"
+  ]
+}

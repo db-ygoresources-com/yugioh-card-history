@@ -1,0 +1,16 @@
+{
+  "id": 6101,
+  "type": "monster",
+  "name": "암흑의 미믹 LV1",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "리버스 : 덱에서 카드를 1장 드로우한다. 또한, 자신의 턴의 스텐바이 페이즈시, 앞면 표시의 이 카드를 묘지로 보내는 것으로 \"암흑의 미믹 LV3\" 1장을 패 또는 덱에서 특수 소환한다.",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "악마족",
+    "리버스",
+    "효과"
+  ]
+}

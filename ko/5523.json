@@ -1,0 +1,16 @@
+{
+  "id": 5523,
+  "type": "monster",
+  "name": "행운을 알리는 올빼미",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "리버스 : 덱에서 필드 마법 카드를 1장 선택하여, 덱의 맨 위에 놓는다. \"왕가의 골짜기－네크로밸리\"가 필드 위에 존재할 경우, 선택한 필드 마법 카드를 패에 넣을 수 있다.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "비행야수족",
+    "리버스",
+    "효과"
+  ]
+}

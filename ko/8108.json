@@ -1,0 +1,16 @@
+{
+  "id": 8108,
+  "type": "monster",
+  "name": "빙결계의 풍수사",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "패를 1장 버리고, 속성을 1개 선언하고 발동한다. 선언한 속성의 몬스터는 이 카드를 공격 대상으로 선택할 수 없다. 이 효과는 이 카드가 필드 위에 앞면 표시로 존재하는 한, 1번밖에 사용할 수 없다.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "마법사족",
+    "튜너",
+    "효과"
+  ]
+}

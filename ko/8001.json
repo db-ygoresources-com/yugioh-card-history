@@ -1,0 +1,16 @@
+{
+  "id": 8001,
+  "type": "monster",
+  "name": "블랙 봄버",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "이 카드가 일반 소환에 성공했을 때, 자신의 묘지에 존재하는 기계족/어둠 속성의 레벨 4 몬스터 1장을 앞면 수비 표시로 특수 소환할 수 있다. 이 효과로 특수 소환한 효과 몬스터의 효과는 무효화된다.",
+  "level": 3,
+  "atk": 100,
+  "def": 1100,
+  "properties": [
+    "기계족",
+    "튜너",
+    "효과"
+  ]
+}

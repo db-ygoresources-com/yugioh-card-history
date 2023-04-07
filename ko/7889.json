@@ -1,0 +1,15 @@
+{
+  "id": 7889,
+  "type": "monster",
+  "name": "파워 인젝터",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "600 라이프 포인트를 지불하고 발동한다. 그 턴 중, 필드 위에 앞면 표시로 존재하는 모든 사이킥족 몬스터의 공격력은 500 포인트 올린다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "사이킥족",
+    "효과"
+  ]
+}

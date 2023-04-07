@@ -1,0 +1,15 @@
+{
+  "id": 5956,
+  "type": "monster",
+  "name": "정기를 흡수하는 골탑",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "자신 필드 위에 이 카드 이외의 언데드족 몬스터가 존재할 경우, 이 카드를 공격할 수 없다. 언데드족 몬스터가 특수 소환에 성공할 때마다, 상대의 덱의 위에서 카드를 2장 묘지로 보낸다.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "언데드족",
+    "효과"
+  ]
+}

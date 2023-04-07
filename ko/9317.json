@@ -1,0 +1,16 @@
+{
+  "id": 9317,
+  "type": "monster",
+  "name": "시엔의 하급무사",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "자신 필드 위에 존재하는 \"여섯 무사\"라는 이름이 붙은 몬스터가 전투를 실행할 경우, 그 데미지 계산시에 이 카드를 패에서 묘지로 보내고 발동한다. 그 몬스터는 이 턴에 전투로는 파괴되지 않는다.",
+  "level": 1,
+  "atk": 300,
+  "def": 700,
+  "properties": [
+    "전사족",
+    "튜너",
+    "효과"
+  ]
+}

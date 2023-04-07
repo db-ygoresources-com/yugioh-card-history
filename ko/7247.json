@@ -1,0 +1,15 @@
+{
+  "id": 7247,
+  "type": "monster",
+  "name": "데코이 드래곤",
+  "englishAttribute": "fire",
+  "localizedAttribute": "화염",
+  "effectText": "①: 이 카드가 공격 대상으로 선택되었을 경우, 자신 묘지의 레벨 7 이상의 드래곤족 몬스터 1장을 대상으로 하고 발동한다. 그 몬스터를 특수 소환하여, 공격 대상을 그 몬스터에 옮기고 데미지 계산을 실행한다.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "드래곤족",
+    "효과"
+  ]
+}
