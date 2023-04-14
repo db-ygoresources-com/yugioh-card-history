@@ -1,0 +1,16 @@
+{
+  "id": 4777,
+  "type": "monster",
+  "name": "Zapatos del Mordisco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Cambia la Posición de Ataque o Defensa de 1 monstruo boca arriba en el Campo. La carta debe permanecer boca arriba.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}
