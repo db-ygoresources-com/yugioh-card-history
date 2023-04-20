@@ -1,0 +1,16 @@
+{
+  "id": 5138,
+  "type": "monster",
+  "name": "Besouro Bombardeiro",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "VIRE: Pegue e olhe 1 Card de Monstro com a face para baixo em Posição de Defesa no campo do seu oponente. Se for um Monstro de Efeito, destrua-o (seu efeito de Virar não é ativado) e, se não for, devolva-o para sua posição original.",
+  "level": 2,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "Inseto",
+    "Virar",
+    "Efeito"
+  ]
+}
