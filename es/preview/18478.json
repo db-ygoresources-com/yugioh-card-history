@@ -1,0 +1,18 @@
+{
+  "id": 18478,
+  "type": "monster",
+  "name": "Nemleria Soñadora",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Deck Extra boca arriba) no teniendo tener cartas en tu Deck Extra, excepto \"Nemleria Soñadora\". Sólo puedes Invocar de Modo Especial una o más \"Nemleria Soñadora\" una vez por turno. Si esta carta es Invocada de Modo Especial: por cada 3 de tus cartas desterradas boca abajo, puedes desterrar hasta 1 carta en el Campo y/o Cementerio de tu adversario, boca abajo, y después baraja a tu Deck 1 de tus cartas desterradas boca abajo por cada carta que hayas desterrado por este efecto.",
+  "pendEffect": "Una vez por turno, durante tu Main Phase: puedes poner boca arriba en tu Campo 1 Mágica Continua \"Nemleria\" en tu Deck o Cementerio y, si lo haces, añade esta carta a tu Deck Extra boca arriba. No puedes Invocar de Modo Especial \"Nemleria Soñadora\" el turno en el que activas este efecto.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

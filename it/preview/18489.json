@@ -1,0 +1,18 @@
+{
+  "id": 18489,
+  "type": "monster",
+  "name": "Angelo Mietitore della Morte",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Pendulum: puoi aggiungere 1 \"Corno del Paradiso\" dal tuo Deck alla tua mano. Se questa carta viene offerta come Tributo: puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Angelo Mietitore della Morte\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi distruggere questa carta e, se lo fai, aggiungi 1 \"Corno Nero del Paradiso\" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Angelo Mietitore della Morte\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

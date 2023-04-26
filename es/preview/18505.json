@@ -1,0 +1,16 @@
+{
+  "id": 18505,
+  "type": "monster",
+  "name": "Luluwalilith Despíanica",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante de Nivel 4 + 1+ monstruos que no sean Cantantes\nUna vez por turno, si una o más cartas dejan el Deck Extra (excepto durante el Damage Step): puedes hacer que todos los monstruos que controlas en este momento ganen 500 ATK (permanentemente), y después puedes negar los efectos de 1 carta boca arriba en el Campo, hasta el final de este turno. Durante la End Phase, si esta carta está en el Cementerio porque fue mandada allí este turno: puedes Invocar de Modo Especial 1 monstruo Lanzador de Conjuros de LUZ desde tu mano o Deck cuyo ATK sea igual a su propia DEF. Sólo puedes usar este efecto de \"Luluwalilith Despíanica\" una vez por turno.",
+  "level": 12,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Sincronía",
+    "Efecto"
+  ]
+}

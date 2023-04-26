@@ -1,0 +1,18 @@
+{
+  "id": 18665,
+  "type": "monster",
+  "name": "Cavaliere Moissa, il Generale Cometa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando peschi questa carta: puoi rivelarla; durante la tua Main Phase in questo turno, puoi effettuare 1 Evocazione Pendulum di uno o più mostri dalla tua mano in aggiunta alla tua Evocazione Pendulum. (Puoi guadagnare questo effetto una sola volta per turno.)",
+  "pendEffect": "Se Evochi Pendulum uno o più mostri: metti questa carta in cima oppure in fondo al Deck.",
+  "pendScale": 11,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

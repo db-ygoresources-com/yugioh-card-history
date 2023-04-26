@@ -1,0 +1,15 @@
+{
+  "id": 18483,
+  "type": "monster",
+  "name": "Tellchevalier Altairan",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Constellée\".)\nSi cette carte est Invoquée : vous pouvez cibler un nombre de cartes sur le Terrain, inférieur ou égal au nombre de Monstres Xyz LUMIÈRE et TÉNÈBRES que vous contrôlez ; détruisez-les. Si un ou plusieurs monstres \"tellchevalier\" (\"Tellchevalier Altairan\" exclu) ou \"Constellée\" sont Invoqués Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière, et aussi, vous ne pouvez pas déclarer d'attaques le reste de ce tour, sauf avec des Monstres Xyz. Vous ne pouvez utiliser chaque effet de \"Tellchevalier Altairan\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1300,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

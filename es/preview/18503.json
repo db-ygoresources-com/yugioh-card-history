@@ -1,0 +1,19 @@
+{
+  "id": 18503,
+  "type": "monster",
+  "name": "Samurai Superpesado Comandante Shanawo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nEsta carta puede atacar mientras está en Posición de Defensa boca arriba. Si lo hace, aplica su DEF para el cálculo de daño. Una vez por turno, durante la Battle Phase, si controlas esta carta Invocada por Sincronía (Efecto Rápido): puedes Invocar de Modo Especial 1 Carta de Monstruo \"Samurai Superpesado\" desde tu Cementerio o Zona de Magia y Trampas boca arriba, y después puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Cuando un monstruo del adversario declara un ataque: puedes Invocar esta carta de Modo Especial y después, si no tienes Mágicas/Trampas en tu Cementerio, cambia el ATK de ese monstruo del adversario a 0, y además niega sus efectos. Sólo puedes usar este efecto de \"Samurai Superpesado Comandante Shanawo\" una vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Péndulo",
+    "Efecto"
+  ]
+}

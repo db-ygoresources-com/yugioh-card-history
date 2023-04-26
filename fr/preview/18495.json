@@ -1,0 +1,15 @@
+{
+  "id": 18495,
+  "type": "monster",
+  "name": "Fana aux Oreilles de Lapin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par Chaîne, lorsqu'un monstre sur le Terrain (\"Fana aux Oreilles de Lapin\" exclu) active son effet (Effet Rapide) : vous pouvez placer 1 Compteur Oreilles de Lapin sur lui, et il ne peut pas être détruit au combat tant qu'il a le Compteur. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre avec un Compteur Oreilles de Lapin ; jusqu'à la Standby Phase du prochain tour, bannissez-le ainsi que cette carte.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Bête-Guerrier",
+    "Effet"
+  ]
+}

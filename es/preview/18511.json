@@ -1,0 +1,20 @@
+{
+  "id": 18511,
+  "type": "monster",
+  "name": "Proteccodificador Hablador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ Monstruos de Efecto\nTu adversario no puede seleccionar monstruos de Link-4 o mayor que controles con efectos de cartas, y además no pueden ser destruidos en batalla. Si controlas un Monstruo de Enlace \"Cortafuego\" (Efecto Rápido): puedes desterrar Monstruos de Enlace en tu Cementerio cuyos Rating de Enlace combinados sean exactamente igual a 3; Invoca esta carta de Modo Especial desde tu Cementerio, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de \"Proteccodificador Hablador\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "6"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

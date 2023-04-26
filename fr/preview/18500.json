@@ -1,0 +1,16 @@
+{
+  "id": 18500,
+  "type": "monster",
+  "name": "Cruel Saturnas de la Coléoptroupe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Coléoptroupe\" + 1 monstre Insecte\nVous ne pouvez pas Invoquer Spécialement de monstres (monstres Insecte exclus). Vous ne pouvez utiliser chacun des effets suivants de \"Cruel Saturnas de la Coléoptroupe\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte \"Coléoptroupe\" depuis votre Deck à votre main. Si un ou plusieurs monstres Insecte sont bannis face recto (sauf durant la Damage Step) : vous pouvez cibler 1 de vos monstres \"Coléoptroupe\" bannis ; Invoquez-le Spécialement.",
+  "level": 5,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Insecte",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18469,
+  "type": "monster",
+  "name": "Samurai Superpesado Prodígio Wakaushi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se você não tiver Magias/Armadilhas no seu Cemitério: você pode descartar 1 monstro; Invoque por Invocação-Especial 1 monstro \"Samurai Superpesado\" da sua mão ou do Deck em Posição de Defesa e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros \"Samurai Superpesado\". Se este card for usado como Matéria Sincro e adicionado ao seu Deck Adicional com a face para cima: você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Samurai Superpesado Prodígio Wakaushi\" uma vez por turno.",
+  "pendEffect": "Se você não tiver Magias/Armadilhas no seu Cemitério: você pode colocar 1 Monstro Pêndulo \"Samurai Superpesado\" do seu Deck, exceto \"Samurai Superpesado Prodígio Wakaushi\", na sua outra Zona de Pêndulo e, depois, Invoque este card por Invocação-Especial. Você só pode usar este efeito de \"Samurai Superpesado Prodígio Wakaushi\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18489,
+  "type": "monster",
+  "name": "Ángel Cosechador de la Perdición",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o por Péndulo: puedes añadir a tu mano 1 \"Cuerno de los Cielos\" en tu Deck. Si esta carta es Sacrificada: puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Ángel Cosechador de la Perdición\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes destruir esta carta y, si lo haces, añade a tu mano 1 \"Cuerno Oscuro de los Cielos\" en tu Deck. Sólo puedes usar este efecto de \"Ángel Cosechador de la Perdición\" una vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

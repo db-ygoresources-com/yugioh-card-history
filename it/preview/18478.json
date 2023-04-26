@@ -1,0 +1,18 @@
+{
+  "id": 18478,
+  "type": "monster",
+  "name": "Nemleria Sognante",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dal tuo Extra Deck scoperto) non avendo nessuna carta nel tuo Extra Deck, eccetto \"Nemleria Sognante\". Puoi Evocare Specialmente una o più \"Nemleria Sognante\" una sola volta per turno. Se questa carta viene Evocata Specialmente: per ogni 3 delle tue carte bandite coperte, puoi bandire fino a 1 carta dal Terreno e/o Cimitero del tuo avversario, coperta, poi mischiare 1 delle tue carte bandite coperte nel tuo Deck per ogni carta che hai bandito con questo effetto.",
+  "pendEffect": "Una volta per turno, durante la tua Main Phase: puoi mettere 1 Magia Continua \"Nemleria\" dal tuo Deck o Cimitero scoperta sul tuo Terreno e, se lo fai, aggiungi questa carta al tuo Extra Deck scoperta. Non puoi Evocare Specialmente \"Nemleria Sognante\" nel turno in cui attivi questo effetto.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18469,
+  "type": "monster",
+  "name": "Prodige Wakaushi Samouraï Supralourd",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous n'avez aucune Magie/Piège dans votre Cimetière : vous pouvez défausser 1 monstre ; Invoquez Spécialement 1 monstre \"Samouraï Supralourd\" depuis votre main ou Deck en Position de Défense, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Samouraï Supralourd\" exclus) le reste de ce tour. Si cette carte est utilisée comme Matériel Synchro et est ajoutée face recto à votre Extra Deck : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de \"Prodige Wakaushi Samouraï Supralourd\" qu'une fois par tour.",
+  "pendEffect": "Si vous n'avez aucune Magie/Piège dans votre Cimetière : vous pouvez placer 1 Monstre Pendule \"Samouraï Supralourd\" (\"Prodige Wakaushi Samouraï Supralourd\" exclu) depuis votre Deck dans votre autre Zone Pendule, puis Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Prodige Wakaushi Samouraï Supralourd\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

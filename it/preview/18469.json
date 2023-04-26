@@ -1,0 +1,19 @@
+{
+  "id": 18469,
+  "type": "monster",
+  "name": "Samurai Superpesante Prodigio Wakaushi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se non hai nessuna Magia/Trappola nel tuo Cimitero: puoi scartare 1 mostro; Evoca Specialmente 1 mostro \"Samurai Superpesante\" dalla tua mano o Deck in Posizione di Difesa, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri \"Samurai Superpesante\". Se questa carta viene utilizzata come Materiale Synchro e aggiunta al tuo Extra Deck scoperta: puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Samurai Superpesante Prodigio Wakaushi\" una sola volta per turno.",
+  "pendEffect": "Se non hai nessuna Magia/Trappola nel tuo Cimitero: puoi mettere 1 Mostro Pendulum \"Samurai Superpesante\" dal tuo Deck, eccetto \"Samurai Superpesante Prodigio Wakaushi\", nella tua altra Zona Pendulum, poi Evocare Specialmente questa carta. Puoi utilizzare questo effetto di \"Samurai Superpesante Prodigio Wakaushi\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

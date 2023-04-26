@@ -1,0 +1,19 @@
+{
+  "id": 18503,
+  "type": "monster",
+  "name": "Commandant Shanawo Samouraï Supralourd",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nCette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez sa DEF pour le calcul des dommages. Une fois par tour, durant la Battle Phase, si vous contrôlez cette carte Invoquée par Synchronisation (Effet Rapide) : vous pouvez Invoquer Spécialement 1 Carte Monstre \"Samouraï Supralourd\" depuis votre Cimetière ou Zone Magie & Piège face recto, puis vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez Invoquer Spécialement cette carte, puis si vous n'avez aucune Magie/Piège dans votre Cimetière, changez l'ATK du monstre de l'adversaire à 0, et aussi, annulez ses effets. Vous ne pouvez utiliser cet effet de \"Commandant Shanawo Samouraï Supralourd\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Pendule",
+    "Effet"
+  ]
+}

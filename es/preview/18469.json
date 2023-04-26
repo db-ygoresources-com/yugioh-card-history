@@ -1,0 +1,19 @@
+{
+  "id": 18469,
+  "type": "monster",
+  "name": "Samurai Superpesado Prodigio Wakaushi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si no tienes Mágicas/Trampas en tu Cementerio: puedes descartar 1 monstruo; Invoca de Modo Especial 1 monstruo \"Samurai Superpesado\" desde tu mano o Deck en Posición de Defensa, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos \"Samurai Superpesado\". Si esta carta es usada como Material de Sincronía y añadida a tu Deck Extra boca arriba: puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Samurai Superpesado Prodigio Wakaushi\" una vez por turno.",
+  "pendEffect": "Si no tienes Mágicas/Trampas en tu Cementerio: puedes poner en tu otra Zona de Péndulo 1 Monstruo de Péndulo \"Samurai Superpesado\" en tu Deck, excepto \"Samurai Superpesado Prodigio Wakaushi\", y después Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de \"Samurai Superpesado Prodigio Wakaushi\" una vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

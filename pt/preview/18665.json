@@ -1,0 +1,18 @@
+{
+  "id": 18665,
+  "type": "monster",
+  "name": "Cavaleiro Moissa, o General Cometa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Quando você comprar este card: você pode revelá-lo; durante sua Fase Principal neste turno, você pode conduzir 1 Invocação-Pêndulo de um ou mais monstros da sua mão em adição à sua Invocação-Pêndulo. (Você só pode se aproveitar deste efeito uma vez por turno.)",
+  "pendEffect": "Se você Invocar um ou mais monstros por Invocação-Pêndulo: coloque este card no topo ou no fundo do Deck.",
+  "pendScale": 11,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18478,
+  "type": "monster",
+  "name": "Nemleria Rêveuse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre Extra Deck face recto) en n'ayant aucune carte dans votre Extra Deck (\"Nemleria Rêveuse\" exclu). Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Nemleria Rêveuse\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : pour toutes les 3 de vos cartes bannies face verso, vous pouvez bannir face verso max. 1 carte depuis le Terrain et/ou Cimetière de votre adversaire, puis mélangez 1 de vos cartes bannies face verso dans votre Deck pour chaque carte que vous avez bannie par cet effet.",
+  "pendEffect": "Une fois par tour, durant votre Main Phase : vous pouvez placer face recto 1 Magie Continue \"Nemleria\" depuis votre Deck ou Cimetière sur votre Terrain, et si vous le faites, ajoutez face recto cette carte à votre Extra Deck. Vous ne pouvez pas Invoquer Spécialement \"Nemleria Rêveuse\" le tour où vous activez cet effet.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

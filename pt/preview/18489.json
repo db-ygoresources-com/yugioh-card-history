@@ -1,0 +1,18 @@
+{
+  "id": 18489,
+  "type": "monster",
+  "name": "Anjo da Condenação da Colheita",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Pêndulo: você pode adicionar 1 \"Corneta Celestial\" do seu Deck à sua mão. Se este card for oferecido como Tributo: você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Anjo da Condenação da Colheita\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode destruir este card e, se isso acontecer, adicione 1 \"Chifre Negro Celestial\" do seu Deck à sua mão. Você só pode usar este efeito de \"Anjo da Condenação da Colheita\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

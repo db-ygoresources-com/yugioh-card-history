@@ -1,0 +1,18 @@
+{
+  "id": 18493,
+  "type": "monster",
+  "name": "PenduLeLune",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant votre Main Phase : vous pouvez ajouter max. 2 Monstres Pendule face recto depuis votre Extra Deck à votre main, avec des Niveaux entre les Échelles Pendule des 2 cartes dans vos Zones Pendule, et aussi, le reste de ce tour, jusqu'à ce que vous Invoquez par Pendulation, vous ne pouvez pas activer d'effets de monstre, et les effets des cartes dans vos Zones Pendule sont annulés. Vous ne pouvez utiliser cet effet de \"PenduLeLune\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez ajouter 1 Monstre Pendule \"Pendule\" face recto depuis votre Extra Deck à votre main, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"PenduLeLune\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 200,
+  "def": 700,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

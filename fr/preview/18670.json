@@ -1,0 +1,16 @@
+{
+  "id": 18670,
+  "type": "monster",
+  "name": "Fierté d'Or - Attacheur à Boule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Fierté d'Or - Rouleur à Boule\" + 1+ monstre \"Fierté d'Or\"\nSi cette carte est Invoquée par Fusion : vous pouvez lui équiper un nombre de monstres face recto contrôlés par votre adversaire, inférieur ou égal au nombre de Matériels Fusion utilisés. Vous ne pouvez utiliser l'effet précédent de \"Fierté d'Or - Attacheur à Boule\" qu'une fois par tour, et aussi, si vos LP sont inférieurs à ceux de votre adversaire, l'activation de l'effet et l'effet ne peuvent pas être annulés. Une fois par tour, durant la End Phase, si l'effet précédent a été activé ce tour : renvoyez cette carte à l'Extra Deck, et si vous le faites, Invoquez Spécialement 1 \"Fierté d'Or - Rouleur à Boule\" depuis votre Deck ou Cimetière.",
+  "level": 9,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18493,
+  "type": "monster",
+  "name": "PénduLoMoon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante tu Main Phase: puedes añadir a tu mano hasta 2 Monstruos de Péndulo boca arriba en tu Deck Extra, con Niveles entre las Escalas de Péndulo de las 2 cartas en tus Zonas de Péndulo y además, por el resto de este turno, hasta que Invocas por Péndulo, no puedes activar efectos de monstruos, y los efectos de cualquier carta en tus Zonas de Péndulo son negados. Sólo puedes usar este efecto de \"PénduLoMoon\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes añadir a tu mano 1 Monstruo de Péndulo \"Péndulo\" boca arriba en tu Deck Extra, y después destruye esta carta. Sólo puedes usar este efecto de \"PénduLoMoon\" una vez por turno.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 200,
+  "def": 700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

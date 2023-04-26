@@ -1,0 +1,16 @@
+{
+  "id": 18498,
+  "type": "monster",
+  "name": "Albion le Dragon Sanctifeu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Albaz le Déchu\" + 1 monstre LUMIÈRE Magicien\nNon utilisable comme Matériel Fusion. Votre adversaire ne peut pas cibler cette carte avec des effets de carte. Vous ne pouvez utiliser chacun des effets suivants de \"Albion le Dragon Sanctifeu\" qu'une fois par tour. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 2 monstres dans les Cimetières ; Invoquez Spécialement les deux monstres, 1 sur chaque Terrain. Si cette carte est dans votre Cimetière : vous pouvez Sacrifier 4 monstres, les 2 dans les Zones Monstre Extra et les 2 dans les Zones Monstre Main centrales, et si vous le faites, Invoquez Spécialement cette carte.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

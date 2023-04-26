@@ -1,0 +1,16 @@
+{
+  "id": 18500,
+  "type": "monster",
+  "name": "Escaraballería Saturnas Cruel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Escaraballería\" + 1 monstruo Insecto\nNo puedes Invocar monstruos de Modo Especial, excepto monstruos Insecto. Sólo puedes usar cada uno de los siguientes efectos de \"Escaraballería Saturnas Cruel\" una vez por turno. Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 carta \"Escaraballería\" en tu Deck. Si uno o más monstruos Insecto son desterrados boca arriba (excepto durante el Damage Step): puedes seleccionar 1 de tus monstruos \"Escaraballería\" desterrados; Invócalo de Modo Especial.",
+  "level": 5,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Insecto",
+    "Fusión",
+    "Efecto"
+  ]
+}

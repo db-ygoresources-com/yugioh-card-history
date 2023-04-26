@@ -1,0 +1,15 @@
+{
+  "id": 18495,
+  "type": "monster",
+  "name": "Entusiasta de Orejas de Conejo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por Cadena, cuando un monstruo en el Campo, excepto \"Entusiasta de Orejas de Conejo\", activa su efecto (Efecto Rápido): puedes poner 1 Contador de Orejas de Conejo en él, y no puede ser destruido en batalla mientras tenga ese Contador. Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo con un Contador de Orejas de Conejo; destierra ambos, éste y esta carta, hasta la Standby Phase del próximo turno.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

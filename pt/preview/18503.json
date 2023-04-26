@@ -1,0 +1,19 @@
+{
+  "id": 18503,
+  "type": "monster",
+  "name": "Samurai Superpesado Comandante Shanawo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nEste card pode atacar enquanto estiver com a face para cima em Posição de Defesa. Se o fizer, use sua DEF para o cálculo de dano. Uma vez por turno, durante a Fase de Batalha, se você controlar este card Invocado por Invocação-Sincro (Efeito Rápido): você pode Invocar por Invocação-Especial 1 Card de Monstro \"Samurai Superpesado\" do seu Cemitério ou com a face para cima na Zona de Magias & Armadilhas e, depois, você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Quando um monstro do oponente declarar um ataque: você pode Invocar este card por Invocação-Especial e, depois, se você não tiver Magias/Armadilhas no seu Cemitério, mude o ATK desse monstro do oponente para 0 e, além disso, negue seus efeitos. Você só pode usar este efeito de \"Samurai Superpesado Comandante Shanawo\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Sincro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

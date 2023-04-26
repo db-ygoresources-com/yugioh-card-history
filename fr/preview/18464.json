@@ -1,0 +1,15 @@
+{
+  "id": 18464,
+  "type": "monster",
+  "name": "Défenseur Pare-Feu",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est envoyée au Cimetière comme Matériel pour l'Invocation Lien d'un monstre Cyberse : vous pouvez Invoquer Spécialement 1 monstre \"Pare-Feu\" (\"Défenseur Pare-Feu\" exclu) depuis votre Deck. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres Cyberse exclus) le tour où vous activez cet effet. Si un ou plusieurs monstres \"Pare-Feu\" que vous contrôlez vont être détruits par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place. Vous ne pouvez utiliser chaque effet de \"Défenseur Pare-Feu\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1500,
+  "properties": [
+    "Cyberse",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18492,
+  "type": "monster",
+  "name": "Ringosierpe, el Dragón Guarda de las Cien Manzanas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si un Monstruo boca arriba que no sea de Efecto está en el Campo: puedes Invocar esta carta de Modo Especial desde tu mano. Durante tu Main Phase, si Invocaste por Sincronía este turno: puedes desterrar esta carta en tu Cementerio; Invoca de Modo Especial 1 \"Ficha Cien Manzanas\" (Wyrm/LUZ/Nivel 2/ATK 100/DEF 100). El jugador que la Invocó puede tratarla como un Cantante para una Invocación por Sincronía. Sólo puedes usar cada efecto de \"Ringosierpe, el Dragón Guarda de las Cien Manzanas\" una vez por turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 1100,
+  "properties": [
+    "Dragón",
+    "Cantante",
+    "Efecto"
+  ]
+}

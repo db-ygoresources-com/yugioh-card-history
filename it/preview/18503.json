@@ -1,0 +1,19 @@
+{
+  "id": 18503,
+  "type": "monster",
+  "name": "Samurai Superpesante Comandante Shanawo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nQuesta carta può attaccare mentre è scoperta in Posizione di Difesa. Se lo fa, applica il suo DEF per il calcolo dei danni. Una volta per turno, durante la Battle Phase, se controlli questa carta Synchro Evocata (Effetto Rapido): puoi Evocare Specialmente 1 Carta Mostro \"Samurai Superpesante\" dal tuo Cimitero o Zona Magie & Trappole scoperta, poi puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Quando un mostro dell'avversario dichiara un attacco: puoi Evocare Specialmente questa carta, poi se non hai nessuna Magia/Trappola nel tuo Cimitero, cambia l'ATK di quel mostro dell'avversario a 0, inoltre annulla i suoi effetti. Puoi utilizzare questo effetto di \"Samurai Superpesante Comandante Shanawo\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Macchina",
+    "Synchro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

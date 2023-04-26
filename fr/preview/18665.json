@@ -1,0 +1,18 @@
+{
+  "id": 18665,
+  "type": "monster",
+  "name": "Chevalier Moissa, le Général des Comètes",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsque vous piochez cette carte : vous pouvez la révéler ; durant votre Main Phase ce tour, vous pouvez mener 1 Invocation Pendule d'un ou plusieurs monstres depuis votre main en plus de votre Invocation Pendule. (Vous ne pouvez gagner cet effet qu'une fois par tour.)",
+  "pendEffect": "Si vous Invoquez par Pendulation un ou plusieurs monstres : placez cette carte soit au-dessus soit au-dessous du Deck.",
+  "pendScale": 11,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

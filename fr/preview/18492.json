@@ -1,0 +1,16 @@
+{
+  "id": 18492,
+  "type": "monster",
+  "name": "Ringowurm, le Dragon Protecteur des Cent Pommes",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un monstre face recto (Monstres à Effet exclus) est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant votre Main Phase, si vous Invoquez par Synchronisation ce tour : vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 \"Jeton Cent Pommes\" (Wyrm/LUMIÈRE/Niveau 2/ATK 100/DEF 100). Le joueur qui l'a Invoqué peut le traiter comme un Syntoniseur pour une Invocation Synchro. Vous ne pouvez utiliser chaque effet de \"Ringowurm, le Dragon Protecteur des Cent Pommes\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 100,
+  "def": 1100,
+  "properties": [
+    "Dragon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}
