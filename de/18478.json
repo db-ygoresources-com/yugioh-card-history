@@ -1,0 +1,18 @@
+{
+  "id": 18478,
+  "type": "monster",
+  "name": "Träumende Nemleria",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (offen von deinem Extra Deck) beschworen werden, indem du keine Karten in deinem Extra Deck hast, außer „Träumende Nemleria“. Du kannst nur einmal pro Spielzug eine oder mehr „Träumende Nemleria“ als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Für je 3 deiner verdeckt verbannten Karten kannst du bis zu 1 Karte von der Spielfeldseite und/oder dem Friedhof deines Gegners verdeckt verbannen, dann mische für jede durch diesen Effekt verbannte Karte 1 deiner verdeckt verbannten Karten in dein Deck.",
+  "pendEffect": "Einmal pro Spielzug, während deiner Main Phase: Du kannst 1 Permanenten „Nemleria“-Zauber von deinem Deck oder Friedhof offen auf deine Spielfeldseite legen und falls du dies tust, füge diese Karte offen deinem Extra Deck hinzu. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, „Träumende Nemleria“ nicht als Spezialbeschwörung beschwören.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18498,
+  "type": "monster",
+  "name": "Albion der Heiligfeuer-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Gefallener von Albaz“ + 1 LICHT Hexer-Monster\nKann nicht als Fusionsmaterial verwendet werden. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Du kannst jeden der folgenden Effekte von „Albion der Heiligfeuer-Drache“ nur einmal pro Spielzug verwenden. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 2 Monster in beliebigen Friedhöfen wählen; beschwöre beide Monster als Spezialbeschwörung, 1 auf jede Spielfeldseite. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 4 Monster als Tribut anbieten, die 2 in den Extra-Monsterzonen und die 2 in den mittleren Main-Monsterzonen, und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

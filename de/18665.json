@@ -1,0 +1,18 @@
+{
+  "id": 18665,
+  "type": "monster",
+  "name": "Moissa-Ritter, der Kometengeneral",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn du diese Karte ziehst: Du kannst sie vorzeigen; während deiner Main Phase dieses Spielzugs kannst du zusätzlich zu deiner Pendelbeschwörung 1 Pendelbeschwörung von einem oder mehr Monstern von deiner Hand durchführen. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.)",
+  "pendEffect": "Falls du ein oder mehr Monster als Pendelbeschwörung beschwörst: Lege diese Karte entweder auf oder unters Deck.",
+  "pendScale": 11,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

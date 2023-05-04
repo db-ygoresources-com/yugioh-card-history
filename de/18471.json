@@ -1,0 +1,16 @@
+{
+  "id": 18471,
+  "type": "monster",
+  "name": "Der abgeheuerliche Aluber",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Gefallener von Albaz“, solange sie auf dem Spielfeld oder im Friedhof liegt. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Karte abwerfen und dann 1 Drache-Monster wählen, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet, und den entsprechenden Effekt aktivieren;\n●Lege diese Karte auf den Friedhof und falls du dies tust, übernimm bis zur End Phase die Kontrolle über jenes Monster auf dem Spielfeld.\n●Lege diese Karte auf den Friedhof und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung vom Friedhof auf deine Spielfeldseite.\nDu kannst diesen Effekt von „Der abgeheuerliche Aluber“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

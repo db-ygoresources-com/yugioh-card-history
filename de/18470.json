@@ -1,0 +1,18 @@
+{
+  "id": 18470,
+  "type": "monster",
+  "name": "Superstarker Samurai Mönch Großer Benkei",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du keine Zauber/Fallen in deinem Friedhof hast: Du kannst 1 „Superstarker Samurai Großer Benkei“ von deiner Hand oder deinem Deck auf den Friedhof legen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte als Synchromaterial verwendet und offen deinem Extra Deck hinzugefügt wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Superstarker Samurai Mönch Großer Benkei“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du ein „Superstarker Samurai“-Monster kontrollierst: Du kannst deiner Hand 1 „Superstarker Samurai Seele“-Monster von deinem Deck hinzufügen. Du kannst diesen Effekt von „Superstarker Samurai Mönch Großer Benkei“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1000,
+  "def": 3500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

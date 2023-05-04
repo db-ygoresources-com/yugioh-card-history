@@ -1,0 +1,19 @@
+{
+  "id": 18469,
+  "type": "monster",
+  "name": "Superstarker Samurai Wunderkind Wakaushi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du keine Zauber/Fallen in deinem Friedhof hast: Du kannst 1 Monster abwerfen; beschwöre 1 „Superstarker Samurai“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck in die Verteidigungsposition, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Superstarker Samurai“-Monstern. Falls diese Karte als Synchromaterial verwendet und offen deinem Extra Deck hinzugefügt wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Superstarker Samurai Wunderkind Wakaushi“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du keine Zauber/Fallen in deinem Friedhof hast: Du kannst 1 „Superstarker Samurai“-Pendelmonster von deinem Deck, außer „Superstarker Samurai Wunderkind Wakaushi“, in deine andere Pendelzone legen, dann beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Superstarker Samurai Wunderkind Wakaushi“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

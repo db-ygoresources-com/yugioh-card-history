@@ -1,0 +1,20 @@
+{
+  "id": 18511,
+  "type": "monster",
+  "name": "Schutzkodier-Sprecher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Effektmonster\nDein Gegner kann Monster mit Link-4 oder höher, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, zusätzlich können sie nicht durch Kampf zerstört werden. Falls du ein „Firewall“-Linkmonster kontrollierst (Schnelleffekt): Du kannst Linkmonster, deren kombinierte Linkzahl genau 3 entspricht, von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Schutzkodier-Sprecher“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "6"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}
