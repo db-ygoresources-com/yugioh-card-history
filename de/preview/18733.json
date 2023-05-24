@@ -1,0 +1,18 @@
+{
+  "id": 18733,
+  "type": "monster",
+  "name": "Fels des Bezwingers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Bezwingerseele“-Monster\nKann nicht als Linkmaterial verwendet werden. Solange du ein „Bezwingerseele“-Monster kontrollierst, können Monster deines Gegners nur Monster mit den höchsten ATK, die du kontrollierst, (bei Gleichstand bestimmt er) als Ziel für Angriffe wählen. Während der Main Phase (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren;\n●Beschwöre 1 „Bezwingerseele“-Monster als Spezialbeschwörung von deiner Hand.\n●Füge deiner Hand 1 „Bezwingerseele“-Monster von deinem Friedhof hinzu.\nDu kannst diesen Effekt von „Fels des Bezwingers“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 0,
+  "properties": [
+    "Fels",
+    "Link",
+    "Effekt"
+  ]
+}

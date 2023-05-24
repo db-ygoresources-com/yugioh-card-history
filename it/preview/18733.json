@@ -1,0 +1,18 @@
+{
+  "id": 18733,
+  "type": "monster",
+  "name": "Roccia dello Sgominatore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 mostro \"Sgomina Anima\"\nNon può essere utilizzato come Materiale Link. Mentre controlli un mostro \"Sgomina Anima\", i mostri del tuo avversario possono scegliere come bersaglio per gli attacchi solo mostri che controlli con l'ATK più alto (in caso di parità, sceglie lui). Durante la Main Phase (Effetto Rapido): puoi attivare 1 di questi effetti;\n●Evoca Specialmente 1 mostro \"Sgomina Anima\" dalla tua mano.\n●Aggiungi 1 mostro \"Sgomina Anima\" dal tuo Cimitero alla tua mano.\nPuoi utilizzare questo effetto di \"Roccia dello Sgominatore\" una sola volta per turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 0,
+  "properties": [
+    "Roccia",
+    "Link",
+    "Effetto"
+  ]
+}

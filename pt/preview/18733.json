@@ -1,0 +1,18 @@
+{
+  "id": 18733,
+  "type": "monster",
+  "name": "Rocha do Aniquilador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 monstro \"Alma Aniquiladora\"\nNão pode ser usado como Matéria Link. Enquanto você controlar um monstro \"Alma Aniquiladora\", os monstros do seu oponente só podem escolher monstros que você controla com o maior ATK (em caso de empate, ele seleciona) como alvo de ataques. Durante a Fase Principal (Efeito Rápido): você pode ativar 1 desses efeitos;\n●Invoque por Invocação-Especial 1 monstro \"Alma Aniquiladora\" da sua mão.\n●Adicione 1 monstro \"Alma Aniquiladora\" do seu Cemitério à sua mão.\nVocê só pode usar este efeito de \"Rocha do Aniquilador\" uma vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 0,
+  "properties": [
+    "Rocha",
+    "Link",
+    "Efeito"
+  ]
+}

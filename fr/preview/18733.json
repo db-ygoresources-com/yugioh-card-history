@@ -1,0 +1,18 @@
+{
+  "id": 18733,
+  "type": "monster",
+  "name": "Rocher du Vainqueur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Âme du Vainqueur\"\nNon utilisable comme Matériel Lien. Tant que vous contrôlez un monstre \"Âme du Vainqueur\", les monstres de votre adversaire ne peuvent cibler que les monstres que vous contrôlez avec la plus haute ATK (en cas d'égalité, il choisit) avec une attaque. Durant la Main Phase (Effet Rapide) : vous pouvez activer 1 de ces effets ;\n●Invoquez Spécialement 1 monstre \"Âme du Vainqueur\" depuis votre main.\n●Ajoutez 1 monstre \"Âme du Vainqueur\" depuis votre Cimetière à votre main.\nVous ne pouvez utiliser cet effet de \"Rocher du Vainqueur\" qu'une fois par tour.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 0,
+  "properties": [
+    "Rocher",
+    "Lien",
+    "Effet"
+  ]
+}
