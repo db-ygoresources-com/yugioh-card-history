@@ -1,0 +1,18 @@
+{
+  "id": 18733,
+  "type": "monster",
+  "name": "Piedra del Derrotador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Derrota Almas\"\nNo puede ser usado como Material de Enlace. Mientras controles un monstruo \"Derrota Almas\", los monstruos de tu adversario sólo pueden seleccionar para ataques los monstruos con el mayor ATK que tú controles (si hay empate, elige él). Durante la Main Phase (Efecto Rápido): puedes activar 1 de estos efectos;\n●Invoca de Modo Especial, desde tu mano, 1 monstruo \"Derrota Almas\".\n●Añade a tu mano 1 monstruo \"Derrota Almas\" en tu Cementerio.\nSólo puedes usar este efecto de \"Piedra del Derrotador\" una vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 0,
+  "properties": [
+    "Roca",
+    "Enlace",
+    "Efecto"
+  ]
+}

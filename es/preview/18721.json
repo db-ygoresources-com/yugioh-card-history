@@ -1,0 +1,15 @@
+{
+  "id": 18721,
+  "type": "monster",
+  "name": "Meteorisaurio Trascendosaurio",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta. Durante el turno de tu adversario (Efecto Rápido): puedes destruir otros 2 monstruos Dinosaurio en tu mano y/o Campo y, si lo haces, Invoca esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Especial: puedes mandar al Cementerio 1 monstruo Dinosaurio en tu Deck. Si esta carta es destruida: puedes barajar al Deck 1 Monstruo Normal en tu Cementerio, y después puedes Invocar esta carta de Modo Especial. Sólo puedes usar cada efecto de \"Meteorisaurio Trascendosaurio\" una vez por turno.",
+  "level": 12,
+  "atk": 3500,
+  "def": 700,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

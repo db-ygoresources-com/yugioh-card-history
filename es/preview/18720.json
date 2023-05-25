@@ -1,0 +1,16 @@
+{
+  "id": 18720,
+  "type": "monster",
+  "name": "Meteorisaurio Xeno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si una o más cartas son destruidas en batalla o por el efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano. Durante tu Main Phase: puedes destruir 1 monstruo Dinosaurio en tu mano o Campo, y después Invocar de Modo Especial, desde tu mano o Deck, 1 Monstruo Normal Dinosaurio, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Dragón, Dinosaurio, Serpiente Marina o Wyrm. Sólo puedes usar cada efecto de \"Meteorisaurio Xeno\" una vez por turno.",
+  "level": 6,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Dinosaurio",
+    "Cantante",
+    "Efecto"
+  ]
+}
