@@ -1,0 +1,18 @@
+{
+  "id": 17109,
+  "type": "monster",
+  "name": "Majordome aux Yeux Impairs Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est dans votre main ou Cimetière : vous pouvez cibler 1 Carte Monstre \"Potartiste\" ou \"Yeux Impairs\" que vous contrôlez (\"Majordome aux Yeux Impairs Potartiste\" exclu) ; Invoquez Spécialement cette carte, puis détruisez la carte. Vous ne pouvez utiliser cet effet de \"Majordome aux Yeux Impairs Potartiste\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Une fois par tour, lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez ajouter face recto 1 Monstre Pendule \"Yeux Impairs\" depuis votre Cimetière à l'Extra Deck, et si vous le faites, annulez l'attaque, puis vous pouvez gagner des LP égaux à l'ATK du Monstre Pendule.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 1000,
+  "def": 2100,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

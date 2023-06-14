@@ -1,0 +1,15 @@
+{
+  "id": 7511,
+  "type": "monster",
+  "name": "Urubonus, el Avatar de la Malicia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Los monstruos que controle tu adversario pierden 300 ATK/DEF. Sólo puedes usar cada uno de los siguientes efectos de \"Urubonus, el Avatar de la Malicia\" una vez por turno. Puedes Sacrificar 1 monstruo Reptil; Invoca esta carta de Modo Especial desde tu mano. Puedes Sacrificar 1 monstruo; todos los monstruos que controle tu adversario en este momento pierden ATK/DEF igual al ATK original del monstruo Sacrificado, hasta el final de este turno.",
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

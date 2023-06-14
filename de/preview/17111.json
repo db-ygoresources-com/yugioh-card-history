@@ -1,0 +1,18 @@
+{
+  "id": 17111,
+  "type": "monster",
+  "name": "Künstlerkumpel Barokuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn dein Monster durch Kampf zerstört wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Monster deines Gegners können keine Monster als Angriffsziel wählen, außer diesem. Falls diese Karte angegriffen wird, ändere sie am Ende des Damage Steps in die Angriffsposition.",
+  "pendEffect": "Einmal pro Spielzug, am Beginn der Battle Phase: Du kannst deiner Hand 1 Monster mit 300 ATK/200 DEF von deinem Deck hinzufügen, dann zerstöre diese Karte.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 300,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

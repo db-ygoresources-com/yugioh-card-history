@@ -1,0 +1,18 @@
+{
+  "id": 18440,
+  "type": "monster",
+  "name": "D/D/D/D Paradoja Cero, Emperador Soberano Super Dimensional",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por su propio efecto. Cuando Invocas uno o más monstruos por Péndulo, mientras el total de Escalas de Péndulo en tu Zona de Péndulo sea mayor que los Niveles totales de los monstruos Invocados por Péndulo: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, destruye tantas otras cartas en el Campo como sea posible, y después puedes poner esta carta en tu Zona de Péndulo. Una vez por turno, si otro u otros monstruos \"D/D/D\" boca arriba que controles dejan el Campo por Carta Mágica o su efecto: el ATK de esta carta se convierte en 6000.",
+  "pendEffect": "Puedes seleccionar 1 carta en la Zona de Péndulo de tu adversario; Invoca esta carta de Modo Especial y, si lo haces, pon esa carta en tu Zona de Péndulo, pero destrúyela durante la End Phase del próximo turno. Sólo puedes usar este efecto de \"D/D/D/D Paradoja Cero, Emperador Soberano Super Dimensional\" una vez por turno.",
+  "pendScale": 10,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

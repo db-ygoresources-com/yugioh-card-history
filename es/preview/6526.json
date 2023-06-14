@@ -1,0 +1,15 @@
+{
+  "id": 6526,
+  "type": "monster",
+  "name": "Mantis Escolta",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes pagar 1000 LP; Invoca esta carta de Modo Especial desde tu mano en Posición de Defensa, pero mientras esté boca arriba en la Zona de Monstruos, no puedes Invocar monstruos de Modo Especial, excepto monstruos Insecto. Durante el turno de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo Insecto que tú controles; cambia su posición de batalla. Sólo puedes usar cada efecto de \"Mantis Escolta\" una vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2400,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

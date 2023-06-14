@@ -1,0 +1,15 @@
+{
+  "id": 7440,
+  "type": "monster",
+  "name": "Schwarze Mamba",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du ein Reptil-Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Schwarze Mamba“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; lege 1 Reptil-Monster von deinem Deck auf den Friedhof und falls du dies tust, ändere die Kampfposition des als Ziel gewählten Monsters. Du kannst diesen Effekt von „Schwarze Mamba“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

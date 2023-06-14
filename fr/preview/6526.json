@@ -1,0 +1,15 @@
+{
+  "id": 6526,
+  "type": "monster",
+  "name": "Mante Protectrice",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez payer 1000 LP ; Invoquez Spécialement cette carte depuis votre main en Position de Défense, mais tant qu'elle est face recto dans la Zone Monstre, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Insecte exclus). Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre Insecte que vous contrôlez ; changez sa position de combat. Vous ne pouvez utiliser chaque effet de \"Mante Protectrice\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2400,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

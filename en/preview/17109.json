@@ -1,0 +1,18 @@
+{
+  "id": 17109,
+  "type": "monster",
+  "name": "Performapal Odd-Eyes Butler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is in your hand or GY: You can target 1 \"Performapal\" or \"Odd-Eyes\" Monster Card you control, except \"Performapal Odd-Eyes Butler\"; Special Summon this card, then destroy that card. You can only use this effect of \"Performapal Odd-Eyes Butler\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "Once per turn, when an opponent's monster declares an attack: You can add 1 \"Odd-Eyes\" Pendulum Monster from your GY to the Extra Deck face-up, and if you do, negate the attack, then you can gain LP equal to that Pendulum Monster's ATK.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 1000,
+  "def": 2100,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

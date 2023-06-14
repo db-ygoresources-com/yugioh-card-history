@@ -1,0 +1,19 @@
+{
+  "id": 15467,
+  "type": "monster",
+  "name": "Daidaratante il Gigante Viscido",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "2 mostri di Livello 4\nSe puoi Evocare Pendulum di Livello 4, puoi Evocare Pendulum questa carta scoperta dal tuo Extra Deck. Puoi staccare 1 materiale da questa carta; metti questa carta nella tua Zona Pendulum, poi puoi aggiungere 1 Mostro Pendulum dal tuo Cimitero all'Extra Deck scoperto. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Daidaratante il Gigante Viscido\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 Mostro Xyz che controlli; attacca questa carta a esso come materiale. Puoi utilizzare questo effetto di \"Daidaratante il Gigante Viscido\" una sola volta per turno.",
+  "pendScale": 3,
+  "rank": 4,
+  "atk": 2400,
+  "def": 400,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Pendulum",
+    "Effetto"
+  ]
+}

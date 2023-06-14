@@ -1,0 +1,15 @@
+{
+  "id": 7511,
+  "type": "monster",
+  "name": "Urubonus, l'Incarnation de la Rancune",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les monstres contrôlés par votre adversaire perdent 300 ATK/DEF. Vous ne pouvez utiliser chacun des effets suivants de \"Urubonus, l'Incarnation de la Rancune\" qu'une fois par tour. Vous pouvez Sacrifier 1 monstre Reptile ; Invoquez Spécialement cette carte depuis votre main. Vous pouvez Sacrifier 1 monstre ; jusqu'à la fin de ce tour, tous les monstres actuellement contrôlés par votre adversaire perdent une ATK/DEF égales à l'ATK d'origine du monstre Sacrifié.",
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

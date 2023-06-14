@@ -1,0 +1,16 @@
+{
+  "id": 15466,
+  "type": "monster",
+  "name": "Maître Tri-Pointe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez appliquer l'effet approprié selon les Niveaux utilisés pour son Invocation Synchro, ou si vous avez utilisé min. 3 monstres comme Matériels, appliquez tous ces effets dans l'ordre.\n●1 et 5 : Détruisez 1 autre carte sur le Terrain.\n●2 et 4 : Piochez 1 carte.\n●3 et 3 : Traitez cette carte comme un Syntoniseur.\nVous ne pouvez utiliser cet effet de \"Maître Tri-Pointe\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6719,
+  "type": "monster",
+  "name": "Torre Marioneta",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes cambiar esta carta a Posición de Defensa y, si lo haces, manda a tu Cementerio 1 monstruo Guerrero de TIERRA en tu Deck. Los monstruos que controla tu adversario que puedan atacar deben atacar a esta carta. Una vez por turno, cuando esta carta es seleccionada para un ataque: puedes seleccionar 1 monstruo Guerrero de TIERRA de Nivel 6 o mayor en tu Cementerio; manda al Cementerio esta carta en el Campo y, si lo haces, Invoca ese monstruo de Modo Especial, y después cambia el objetivo del ataque a él.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

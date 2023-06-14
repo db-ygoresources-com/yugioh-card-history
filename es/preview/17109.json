@@ -1,0 +1,18 @@
+{
+  "id": 17109,
+  "type": "monster",
+  "name": "Artistamigo Mayordomo de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta está en tu mano o Cementerio: puedes seleccionar 1 Carta de Monstruo \"Artistamigo\" u \"Ojos Anómalos\" que controles, excepto \"Artistamigo Mayordomo de Ojos Anómalos\"; Invoca esta carta de Modo Especial, y después destruye esa carta. Sólo puedes usar este efecto de \"Artistamigo Mayordomo de Ojos Anómalos\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Una vez por turno, cuando un monstruo del adversario declara un ataque: puedes añadir al Deck Extra boca arriba 1 Monstruo de Péndulo \"Ojos Anómalos\" en tu Cementerio y, si lo haces, niega el ataque, y después puedes ganar LP iguales al ATK de ese Monstruo de Péndulo.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 1000,
+  "def": 2100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

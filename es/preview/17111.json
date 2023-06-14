@@ -1,0 +1,18 @@
+{
+  "id": 17111,
+  "type": "monster",
+  "name": "Artistamigo Barokuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando tu monstruo es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu mano. Los monstruos de tu adversario no pueden seleccionar monstruos para ataques, excepto éste. Si esta carta es atacada, cámbiala a Posición de Ataque al final del Damage Step.",
+  "pendEffect": "Una vez por turno, al comienzo de la Battle Phase: puedes añadir a tu mano 1 monstruo con 300 ATK/200 DEF en tu Deck, y después destruye esta carta.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 300,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

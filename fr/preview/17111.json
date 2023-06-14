@@ -1,0 +1,18 @@
+{
+  "id": 17111,
+  "type": "monster",
+  "name": "Barokuriboh Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Lorsque votre monstre est détruit au combat : vous pouvez Invoquer Spécialement cette carte depuis votre main. Les monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Si cette carte est attaquée, changez-la en Position d'Attaque à la fin de la Damage Step.",
+  "pendEffect": "Une fois par tour, au début de la Battle Phase : vous pouvez ajouter 1 monstre avec 300 ATK/200 DEF depuis votre Deck à votre main, puis détruisez cette carte.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 300,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

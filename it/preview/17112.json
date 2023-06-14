@@ -1,0 +1,18 @@
+{
+  "id": 17112,
+  "type": "monster",
+  "name": "Artistamico Classikuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene distrutta dal suo stesso Effetto Pendulum: termina la Battle Phase. Puoi utilizzare ognuno dei seguenti effetti di \"Artistamico Classikuriboh\" una sola volta per turno. Puoi scartare questa carta, poi scegliere come bersaglio 1 carta nella tua Zona Pendulum; il suo Valore Pendulum diventa 1 fino alla fine di questo turno. Quando subisci danno da combattimento mentre questa carta è nel tuo Cimitero: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Quando un mostro dell'avversario dichiara un attacco diretto, questa carta viene distrutta.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

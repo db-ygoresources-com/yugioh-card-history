@@ -1,0 +1,18 @@
+{
+  "id": 17109,
+  "type": "monster",
+  "name": "Artistamico Occhi Diversi Maggiordomo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta è nella tua mano o Cimitero: puoi scegliere come bersaglio 1 Carta Mostro \"Artistamico\" o \"Occhi Diversi\" che controlli, eccetto \"Artistamico Occhi Diversi Maggiordomo\"; Evoca Specialmente questa carta, poi distruggi quella carta. Puoi utilizzare questo effetto di \"Artistamico Occhi Diversi Maggiordomo\" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno, quando un mostro dell'avversario dichiara un attacco: puoi aggiungere 1 Mostro Pendulum \"Occhi Diversi\" dal tuo Cimitero all'Extra Deck scoperto e, se lo fai, annulla l'attacco, poi puoi guadagnare LP pari all'ATK di quel Mostro Pendulum.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 1000,
+  "def": 2100,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

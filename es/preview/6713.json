@@ -1,0 +1,15 @@
+{
+  "id": 6713,
+  "type": "monster",
+  "name": "Peón Marioneta",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta puede atacar directamente. Sólo puedes usar cada uno de los siguientes efectos de \"Peón Marioneta\" una vez por turno. Cuando esta carta inflige daño de batalla a tu adversario: puedes añadir a tu mano 1 \"Promoción\" en tu Deck. Puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo Guerrero de TIERRA en tu Deck, excepto \"Peón Marioneta\", y después tu adversario puede añadir a su mano 1 monstruo en su Deck.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

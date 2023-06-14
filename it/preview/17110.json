@@ -1,0 +1,18 @@
+{
+  "id": 17110,
+  "type": "monster",
+  "name": "Artistamico Occhi Diversi Valletto",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi mandare 1 mostro \"Artistamico\" o \"Occhi Diversi\" dal tuo Deck al Cimitero, eccetto \"Artistamico Occhi Diversi Valletto\" e, se lo fai, il Livello di questa carta diventa lo stesso di quel mostro, fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Artistamico Occhi Diversi Valletto\" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Una volta per turno, quando un mostro dell'avversario dichiara un attacco: puoi far perdere a quel mostro dell'avversario 300 ATK per ogni Mostro Pendulum scoperto nel tuo Extra Deck.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

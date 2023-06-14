@@ -1,0 +1,18 @@
+{
+  "id": 17110,
+  "type": "monster",
+  "name": "Künstlerkumpel Buntäugiger Diener",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Künstlerkumpel“- oder „Buntäugig“-Monster von deinem Deck auf den Friedhof legen, außer „Künstlerkumpel Buntäugiger Diener“, und falls du dies tust, wird die Stufe dieser Karte bis zum Ende dieses Spielzugs dieselbe wie die jenes Monsters. Du kannst diesen Effekt von „Künstlerkumpel Buntäugiger Diener“ nur einmal pro Spielzug verwenden. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst jenes Monster des Gegners für jedes offene Pendelmonster in deinem Extra Deck 300 ATK verlieren lassen.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

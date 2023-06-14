@@ -1,0 +1,18 @@
+{
+  "id": 18440,
+  "type": "monster",
+  "name": "D/D/D/D Imperatore Sovrano Super-Dimensionale Zero Paradosso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dal suo stesso effetto. Quando Evochi Pendulum uno o più mostri, mentre la somma dei Valori Pendulum nelle tue Zone Pendulum è superiore alla somma dei Livelli dei mostri Evocati Pendulum: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, distruggi tante altre carte sul Terreno quante possibile, poi puoi mettere questa carta nella tua Zona Pendulum. Una volta per turno, se uno o più altri mostri \"D/D/D\" scoperti che controlli lasciano il Terreno per una Carta Magia o un suo effetto: l'ATK di questa carta diventa 6000.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 carta nella Zona Pendulum del tuo avversario; Evoca Specialmente questa carta e, se lo fai, metti quella carta nella tua Zona Pendulum, ma distruggila durante la End Phase del prossimo turno. Puoi utilizzare questo effetto di \"D/D/D/D Imperatore Sovrano Super-Dimensionale Zero Paradosso\" una sola volta per turno.",
+  "pendScale": 10,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

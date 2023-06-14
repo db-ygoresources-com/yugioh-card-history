@@ -1,0 +1,18 @@
+{
+  "id": 17109,
+  "type": "monster",
+  "name": "Mordomo Camarartista de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card estiver na sua mão ou no Cemitério: você pode escolher 1 Card de Monstro \"Camarartista\" ou \"Olhos Anômalos\" que você controla, exceto \"Mordomo Camarartista de Olhos Anômalos\"; Invoque este card por Invocação-Especial e, depois, destrua esse card. Você só pode usar este efeito de \"Mordomo Camarartista de Olhos Anômalos\" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno, quando um monstro do oponente declarar um ataque: você pode adicionar 1 Monstro Pêndulo \"Olhos Anômalos\" do seu Cemitério ao Deck Adicional com a face para cima e, se isso acontecer, negue o ataque e, depois, você pode ganhar PV igual ao ATK desse Monstro Pêndulo.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 1000,
+  "def": 2100,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

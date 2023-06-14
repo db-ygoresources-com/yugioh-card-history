@@ -1,0 +1,16 @@
+{
+  "id": 15466,
+  "type": "monster",
+  "name": "Maestro de Tres Filos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSi esta carta es Invocada por Sincronía: puedes aplicar el efecto apropiado, basado en los Niveles usados para su Invocación por Sincronía o, si usaste 3 o más monstruos como materiales, aplica todos estos efectos, en secuencia.\n●1 & 5: Destruye otra carta en el Campo.\n●2 & 4: Roba 1 carta.\n●3 & 3: Trata esta carta como Cantante.\nSólo puedes usar este efecto de \"Maestro de Tres Filos\" una vez por turno.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1800,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

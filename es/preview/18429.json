@@ -1,0 +1,19 @@
+{
+  "id": 18429,
+  "type": "monster",
+  "name": "Dragón Xyz Rebelión de Ojos Anómalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Péndulo de Nivel 7\nSi puedes hacer una Invocación por Péndulo de Nivel 7, puedes Invocar por Péndulo esta carta boca arriba desde tu Deck Extra. Esta carta no puede ser usada como material para una Invocación Xyz el turno en el que fue Invocada Xyz. Puedes desacoplar 1 material de esta carta, y después seleccionar hasta 2 monstruos que controle tu adversario con 3000 ATK o menos; destrúyelos. Sólo puedes usar este efecto de \"Dragón Xyz Rebelión de Ojos Anómalos\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial, y después puedes acoplar a esta carta 1 monstruo de OSCURIDAD en tu Cementerio como material. Sólo puedes usar este efecto de \"Dragón Xyz Rebelión de Ojos Anómalos\" una vez por turno.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Xyz",
+    "Péndulo",
+    "Efecto"
+  ]
+}

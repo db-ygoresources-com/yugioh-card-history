@@ -1,0 +1,19 @@
+{
+  "id": 15467,
+  "type": "monster",
+  "name": "Daidaratant el Gigante de Cieno",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 monstruos de Nivel 4\nSi puedes hacer una Invocación por Péndulo de Nivel 4, puedes Invocar por Péndulo esta carta boca arriba desde tu Deck Extra. Puedes desacoplar 1 material de esta carta; pon esta carta en tu Zona de Péndulo, y después puedes añadir al Deck Extra boca arriba 1 Monstruo de Péndulo en tu Cementerio. Si esta carta en la Zona de Monstruos es destruida en batalla o por el efecto de una carta: puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Daidaratant el Gigante de Cieno\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar 1 Monstruo Xyz que controles; acóplale esta carta como material. Sólo puedes usar este efecto de \"Daidaratant el Gigante de Cieno\" una vez por turno.",
+  "pendScale": 3,
+  "rank": 4,
+  "atk": 2400,
+  "def": 400,
+  "properties": [
+    "Zombi",
+    "Xyz",
+    "Péndulo",
+    "Efecto"
+  ]
+}

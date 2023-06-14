@@ -1,0 +1,15 @@
+{
+  "id": 17104,
+  "type": "monster",
+  "name": "Lamia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo Reptil de Nivel 8 en tu Deck. Si esta carta es desterrada: puedes seleccionar 1 monstruo Reptil que controles; éste no puede ser destruido por efectos de cartas hasta el final del próximo turno. Sólo puedes usar cada efecto de \"Lamia\" una vez por turno.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1500,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

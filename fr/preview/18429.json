@@ -1,0 +1,19 @@
+{
+  "id": 18429,
+  "type": "monster",
+  "name": "Dragon Xyz de la Rébellion aux Yeux Impairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 Monstres Pendule de Niveau 7\nSi vous pouvez effectuer une Invocation Pendule de Niveau 7, vous pouvez Invoquer par Pendulation cette carte face recto depuis votre Extra Deck. Cette carte ne peut pas être utilisée comme Matériel pour une Invocation Xyz le tour où elle a été Invoquée par Xyz. Vous pouvez détacher 1 Matériel de cette carte, puis ciblez max. 2 monstres contrôlés par votre adversaire avec max. 3000 ATK ; détruisez-les. Vous ne pouvez utiliser cet effet de \"Dragon Xyz de la Rébellion aux Yeux Impairs\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez attacher 1 monstre TÉNÈBRES depuis votre Cimetière à cette carte comme Matériel. Vous ne pouvez utiliser cet effet de \"Dragon Xyz de la Rébellion aux Yeux Impairs\" qu'une fois par tour.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Pendule",
+    "Effet"
+  ]
+}

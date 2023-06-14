@@ -1,0 +1,16 @@
+{
+  "id": 18228,
+  "type": "monster",
+  "name": "Courageuse Chevaleresse Cramoisie Bradamante",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"Chevalier Noble Inferno\".)\nVous pouvez défausser cette carte, puis ciblez 1 monstre Guerrier que vous contrôlez ; équipez-le avec 1 Magie d'Équipement depuis votre Deck qui peut l'équiper. Lorsque cette carte, non équipée avec une Carte d'Équipement, est détruite au combat avec un monstre de l'adversaire et envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, équipez le monstre contrôlé par votre adversaire à cette carte. Vous ne pouvez utiliser chaque effet de \"Courageuse Chevaleresse Cramoisie Bradamante\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

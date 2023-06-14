@@ -1,0 +1,19 @@
+{
+  "id": 18448,
+  "type": "monster",
+  "name": "Assaut de l'Air - As - Azaléa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres LUMIÈRE et/ou TÉNÈBRES\nUniquement Invocable par Lien. Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Assaut de l'Air - As - Azaléa\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la, puis, si vous avez max. 3 Magies dans votre Cimetière, envoyez cette carte au Cimetière. Une fois par tour, au début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez bannir 1 Magie depuis votre Cimetière ; détruisez le monstre de l'adversaire.",
+  "linkRating": 2,
+  "linkArrows": [
+    "7",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

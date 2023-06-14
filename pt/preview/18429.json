@@ -1,0 +1,19 @@
+{
+  "id": 18429,
+  "type": "monster",
+  "name": "Dragão Xyz da Rebelião de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 Monstros Pêndulo de Nível 7\nSe você puder Invocar por Invocação-Pêndulo de Nível 7, você pode Invocar este card com a face para cima do seu Deck Adicional por Invocação-Pêndulo. Este card não pode ser usado como matéria para uma Invocação-Xyz no turno em que foi Invocado por Invocação-Xyz. Você pode desassociar 1 matéria deste card e, depois, escolha até 2 monstros que seu oponente controla com 3000 ou menos de ATK; destrua-os. Você só pode usar este efeito de \"Dragão Xyz da Rebelião de Olhos Anômalos\" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Durante sua Fase Principal: você pode Invocar este card por Invocação-Especial e, depois, você pode associar 1 monstro de TREVAS do seu Cemitério a este card como matéria. Você só pode usar este efeito de \"Dragão Xyz da Rebelião de Olhos Anômalos\" uma vez por turno.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

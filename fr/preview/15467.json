@@ -1,0 +1,19 @@
+{
+  "id": 15467,
+  "type": "monster",
+  "name": "Daidaratant le Géant Visqueux",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 4\nSi vous pouvez effectuer une Invocation Pendule de Niveau 4, vous pouvez Invoquer par Pendulation cette carte face recto depuis votre Extra Deck. Vous pouvez détacher 1 Matériel de cette carte ; placez cette carte dans votre Zone Pendule, puis vous pouvez ajouter face recto 1 Monstre Pendule depuis votre Cimetière à l'Extra Deck. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de \"Daidaratant le Géant Visqueux\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 Monstre Xyz que vous contrôlez ; attachez-lui cette carte comme Matériel. Vous ne pouvez utiliser cet effet de \"Daidaratant le Géant Visqueux\" qu'une fois par tour.",
+  "pendScale": 3,
+  "rank": 4,
+  "atk": 2400,
+  "def": 400,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Pendule",
+    "Effet"
+  ]
+}

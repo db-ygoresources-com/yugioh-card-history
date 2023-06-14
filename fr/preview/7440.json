@@ -1,0 +1,15 @@
+{
+  "id": 7440,
+  "type": "monster",
+  "name": "Black Mamba",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous contrôlez un monstre Reptile, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Black Mamba\" qu'une fois par tour de cette façon. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; envoyez 1 monstre Reptile depuis votre Deck au Cimetière, et si vous le faites, changez la position de combat du monstre ciblé. Vous ne pouvez utiliser cet effet de \"Black Mamba\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

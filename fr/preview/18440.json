@@ -1,0 +1,18 @@
+{
+  "id": 18440,
+  "type": "monster",
+  "name": "D/D/D/D Empereur Souverain Super-Dimensionnel Zéro Paradoxe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par son propre effet. Lorsque vous Invoquez par Pendulation un ou plusieurs monstres, tant que la somme des Échelles Pendule dans vos Zones Pendule est supérieure à la somme des Niveaux des monstres Invoqués par Pendulation : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, détruisez autant d'autres cartes sur le Terrain que possible, puis vous pouvez placer cette carte dans votre Zone Pendule. Une fois par tour, si un ou plusieurs autres monstres \"D/D/D\" face recto que vous contrôlez quittent le Terrain par une Carte Magie ou effet de Magie : l'ATK de cette carte devient 6000.",
+  "pendEffect": "Vous pouvez cibler 1 carte dans la Zone Pendule de votre adversaire ; Invoquez Spécialement cette carte, et si vous le faites, placez la carte dans votre Zone Pendule, mais détruisez-la durant la End Phase du prochain tour. Vous ne pouvez utiliser cet effet de \"D/D/D/D Empereur Souverain Super-Dimensionnel Zéro Paradoxe\" qu'une fois par tour.",
+  "pendScale": 10,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

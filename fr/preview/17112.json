@@ -1,0 +1,18 @@
+{
+  "id": 17112,
+  "type": "monster",
+  "name": "Classikuriboh Potartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est détruite par son propre Effet Pendule : terminez la Battle Phase. Vous ne pouvez utiliser chacun des effets suivants de \"Classikuriboh Potartiste\" qu'une fois par tour. Vous pouvez défausser cette carte, puis ciblez 1 carte dans votre Zone Pendule ; jusqu'à la fin de ce tour, son Échelle Pendule devient 1. Lorsque vous recevez des dommages de combat tant que cette carte est dans votre Cimetière : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Lorsqu'un monstre de l'adversaire déclare une attaque directe, cette carte est détruite.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

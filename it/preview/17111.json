@@ -1,0 +1,18 @@
+{
+  "id": 17111,
+  "type": "monster",
+  "name": "Artistamico Barokuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Quando un tuo mostro viene distrutto in battaglia: puoi Evocare Specialmente questa carta dalla tua mano. I mostri del tuo avversario non possono scegliere come bersaglio mostri per gli attacchi, eccetto questo. Se questa carta viene attaccata, mettila in Posizione di Attacco alla fine del Damage Step.",
+  "pendEffect": "Una volta per turno, all'inizio della Battle Phase: puoi aggiungere 1 mostro con 300 ATK/200 DEF dal tuo Deck alla tua mano, poi distruggi questa carta.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 300,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

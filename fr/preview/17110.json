@@ -1,0 +1,18 @@
+{
+  "id": 17110,
+  "type": "monster",
+  "name": "Valet aux Yeux Impairs Potartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 monstre \"Potartiste\" ou \"Yeux Impairs\" (\"Valet aux Yeux Impairs Potartiste\" exclu) depuis votre Deck au Cimetière, et si vous le faites, le Niveau de cette carte devient le même que celui du monstre jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Valet aux Yeux Impairs Potartiste\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Une fois par tour, lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez faire perdre 300 ATK au monstre de l'adversaire pour chaque Monstre Pendule face recto dans votre Extra Deck.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

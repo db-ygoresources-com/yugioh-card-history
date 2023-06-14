@@ -1,0 +1,16 @@
+{
+  "id": 18427,
+  "type": "monster",
+  "name": "Assaut Synchronique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis recevez 700 points de dommages, et aussi, tant qu'elle est face recto dans la Zone Monstre, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Synchro exclus). Si un ou plusieurs Monstres Synchro Dragon face recto que vous contrôlez sont Sacrifiés ou bannis (sauf durant la Damage Step) : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 de ces monstres ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Assaut Synchronique\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 700,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

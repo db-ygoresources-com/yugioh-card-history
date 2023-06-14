@@ -1,0 +1,15 @@
+{
+  "id": 17104,
+  "type": "monster",
+  "name": "Lamia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre Reptile de Niveau 8 depuis votre Deck à votre main. Si cette carte est bannie : vous pouvez cibler 1 monstre Reptile que vous contrôlez ; jusqu'à la fin du prochain tour, il ne peut pas être détruit par des effets de carte. Vous ne pouvez utiliser chaque effet de \"Lamia\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1500,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

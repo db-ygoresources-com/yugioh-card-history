@@ -1,0 +1,18 @@
+{
+  "id": 17112,
+  "type": "monster",
+  "name": "Camarartista Classikuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for destruído por seu próprio Efeito de Pêndulo: encerre a Fase de Batalha. Você só pode usar cada um dos seguintes efeitos de \"Camarartista Classikuriboh\" uma vez por turno. Você pode descartar este card e, depois, escolha 1 card na sua Zona de Pêndulo; sua Escala de Pêndulo se torna 1 até o final deste turno. Quando você sofrer dano de batalha enquanto este card estiver no seu Cemitério: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Quando um monstro do oponente declarar um ataque direto, este card é destruído.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

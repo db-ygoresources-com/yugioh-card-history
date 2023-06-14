@@ -1,0 +1,15 @@
+{
+  "id": 6713,
+  "type": "monster",
+  "name": "Pion des Poupées",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte peut attaquer directement. Vous ne pouvez utiliser chacun des effets suivants de \"Pion des Poupées\" qu'une fois par tour. Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez ajouter 1 \"Promotion\" depuis votre Deck à votre main. Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre TERRE Guerrier (\"Pion des Poupées\" exclu) depuis votre Deck à votre main, puis votre adversaire peut ajouter 1 monstre depuis son Deck à sa main.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

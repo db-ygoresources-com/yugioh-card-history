@@ -1,0 +1,18 @@
+{
+  "id": 17109,
+  "type": "monster",
+  "name": "Künstlerkumpel Buntäugiger Butler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 „Künstlerkumpel“- oder „Buntäugig“-Monsterkarte wählen, die du kontrollierst, außer „Künstlerkumpel Buntäugiger Butler“; beschwöre diese Karte als Spezialbeschwörung, dann zerstöre jene Karte. Du kannst diesen Effekt von „Künstlerkumpel Buntäugiger Butler“ nur einmal pro Spielzug verwenden. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst dem Extra Deck 1 „Buntäugig“-Pendelmonster von deinem Friedhof offen hinzufügen und falls du dies tust, annulliere den Angriff, dann kannst du LP in Höhe der ATK jenes Pendelmonsters erhalten.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 1000,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

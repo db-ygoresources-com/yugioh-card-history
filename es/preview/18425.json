@@ -1,0 +1,16 @@
+{
+  "id": 18425,
+  "type": "monster",
+  "name": "Mago Oscuro, el Jinete de la Magia del Dragón",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Mago Oscuro\" + 1 monstruo Dragón o Guerrero de Nivel 7 o mayor\nSi tu monstruo ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. Una vez por turno, cuando tu monstruo destruye un monstruo del adversario en batalla: puedes infligir daño a tu adversario igual al ATK original del monstruo destruido. Si esta carta es destruida: puedes Invocar de Modo Especial tanto 1 \"Mago Oscuro\" como 1 \"Gaia el Campeón Dragón\" desde tu mano, Deck, Deck Extra y/o Cementerio.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

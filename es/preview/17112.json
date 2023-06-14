@@ -1,0 +1,18 @@
+{
+  "id": 17112,
+  "type": "monster",
+  "name": "Artistamigo Classikuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es destruida por su propio Efecto de Péndulo: termina la Battle Phase. Sólo puedes usar cada uno de los siguientes efectos de \"Artistamigo Classikuriboh\" una vez por turno. Puedes descartar esta carta, y después seleccionar 1 carta en tu Zona de Péndulo; su Escala de Péndulo se convierte en 1 hasta el final de este turno. Cuando recibes daño de batalla mientras esta carta está en tu Cementerio: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Cuando un monstruo del adversario declara un ataque directo, esta carta es destruida.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

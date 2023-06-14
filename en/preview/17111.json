@@ -1,0 +1,18 @@
+{
+  "id": 17111,
+  "type": "monster",
+  "name": "Performapal Barokuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When your monster is destroyed by battle: You can Special Summon this card from your hand. Your opponent's monsters cannot target monsters for attacks, except this one. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
+  "pendEffect": "Once per turn, at the start of the Battle Phase: You can add 1 monster with 300 ATK/200 DEF from your Deck to your hand, then destroy this card.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 300,
+  "def": 3000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}
