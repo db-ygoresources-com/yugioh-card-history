@@ -1,0 +1,16 @@
+{
+  "id": 18816,
+  "type": "monster",
+  "name": "Jarre Cupide",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Appliquez ces effets dans l'ordre.\n●Dévoilez un nombre de votre choix de cartes du dessus de votre Deck, inférieur ou égal au nombre de cartes contrôlées par votre adversaire, et si vous le faites, ajoutez-en 1 à votre main, et aussi, envoyez le reste au Cimetière.\n●Envoyez un nombre de monstres depuis votre Extra Deck au Cimetière, inférieur ou égal au nombre de monstres contrôlés par votre adversaire qui ont été Invoqués Spécialement depuis l'Extra Deck.\nVous ne pouvez utiliser cet effet de \"Jarre Cupide\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 700,
+  "def": 800,
+  "properties": [
+    "Rocher",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18799,
+  "type": "monster",
+  "name": "Veda Kalanta",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si une ou plusieurs cartes sur le Terrain sont détruites par un effet de carte, et \"Visas Starfrost\" est sur le Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez ajouter 1 \"Nouveau Monde Transparent\" depuis votre Deck ou Cimetière à votre main. Si un ou plusieurs autres monstres en votre possession sont détruits par un effet de carte (sauf durant la Damage Step) : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre, jusqu'à la fin de ce tour. Vous ne pouvez utiliser chaque effet de \"Veda Kalanta\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

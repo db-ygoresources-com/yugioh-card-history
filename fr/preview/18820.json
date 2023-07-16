@@ -1,0 +1,16 @@
+{
+  "id": 18820,
+  "type": "monster",
+  "name": "Chimère, Roi Bête Fantôme",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 monstre Bête + 1 monstre Démon\nLe nom de cette carte devient \"Chimère, Bête Mythique Volante\" tant qu'elle est sur le Terrain ou dans le Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Chimère, Roi Bête Fantôme\" qu'une fois par tour. Si cette carte est Invoquée par Fusion : vous pouvez activer cet effet ; durant la End Phase de ce tour, envoyez 1 carte au hasard depuis la main de votre adversaire au Cimetière. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Bête, Démon ou Illusion dans votre Cimetière ; Invoquez-le Spécialement.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Fusion",
+    "Effet"
+  ]
+}

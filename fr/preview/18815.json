@@ -1,0 +1,15 @@
+{
+  "id": 18815,
+  "type": "monster",
+  "name": "Ulka Étoile de la Mort",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsqu'exactement 1 monstre que vous contrôlez (et aucun autre monstre) quitte le Terrain par un effet de carte de l'adversaire (sauf durant la Damage Step) : vous pouvez bannir cette carte depuis votre main ou Cimetière ; si le monstre est dans le Cimetière ou banni face recto, Invoquez-le Spécialement, sinon, Invoquez Spécialement cette carte bannie. Si cette carte est Invoquée Spécialement : jusqu'à la fin du prochain tour, vous pouvez faire gagner 1500 ATK à cette carte. Vous ne pouvez utiliser chaque effet de \"Ulka Étoile de la Mort\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 400,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18835,
+  "type": "monster",
+  "name": "Kaiser Charles der Große",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 „Flammedler Ritter-Kaiser Charles“ der Stufe 9, der mit einer oder mehr Ausrüstungskarten ausgerüstet ist\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Flammedler Ritter-Kaiser Charles“ in deinem Friedhof wählen; der Name dieser Karte wird gleich dem Grund-Namen jenes gewählten Ziels und sie erhält die Grund-Effekte jenes gewählten Ziels, dann rüste diese Karte mit jenem gewählten Ziel als Ausrüstungszauber aus, der ihr 500 ATK gibt. Einmal pro Spielzug, wenn eine Zauber-/Fallenkarte oder ein Zauber-/Falleneffekt aktiviert wird (Schnelleffekt): Du kannst 1 Ausrüstungszauber von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Krieger",
+    "Link",
+    "Effekt"
+  ]
+}

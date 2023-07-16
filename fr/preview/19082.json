@@ -1,0 +1,16 @@
+{
+  "id": 19082,
+  "type": "monster",
+  "name": "Stockagepode",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Triforteressops\" ou \"Stégocyber\" + 1 monstre Machine ou Dinosaure\nNon destructible au combat, tant qu'un monstre Invoqué Spécialement depuis le Cimetière est sur le Terrain. Si un ou plusieurs monstres sont Invoqués Spécialement depuis la main tant que ce monstre est sur le Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 carte que vous contrôlez et 1 carte contrôlée par votre adversaire ; détruisez-les. Vous ne pouvez utiliser cet effet de \"Stockagepode\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

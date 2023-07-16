@@ -1,0 +1,18 @@
+{
+  "id": 18835,
+  "type": "monster",
+  "name": "Empereur Charles le Grand",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 \"Empereur Charles, Chevalier Noble Inferno\" de Niveau 9 équipé avec une ou plusieurs Cartes d'Équipement\nSi cette carte est Invoquée par Lien : vous pouvez cibler 1 \"Empereur Charles, Chevalier Noble Inferno\" dans votre Cimetière ; le nom de cette carte devient le nom d'origine de la cible, et elle gagne les effets d'origine de la cible, puis équipez la cible à cette carte comme une Magie d'Équipement qui lui donne 500 ATK. Une fois par tour, lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez envoyer 1 Magie d'Équipement depuis votre main ou Terrain face recto au Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Guerrier",
+    "Lien",
+    "Effet"
+  ]
+}

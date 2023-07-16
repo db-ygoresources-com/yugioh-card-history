@@ -1,0 +1,16 @@
+{
+  "id": 18821,
+  "type": "monster",
+  "name": "Chimère, Bête Illusion",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Chimère, Bête Mythique Volante\" + 1+ monstre Illusion\nLe nom de cette carte devient \"Chimère, Bête Mythique Volante\" tant qu'elle est sur le Terrain ou dans le Cimetière. Chaque Battle Phase, cette carte peut attaquer un nombre de fois des monstres, inférieur ou égal au nombre de Matériels utilisés pour elle. Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : vous pouvez changer l'ATK du monstre de l'adversaire à 0, et aussi, annulez ses effets.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2800,
+  "properties": [
+    "",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18788,
+  "type": "monster",
+  "name": "Roue Synchronique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte que vous contrôlez est utilisée comme Matériel Synchro, vous pouvez la traiter comme non-Syntoniseur. Vous ne pouvez utiliser chacun des effets suivants de \"Roue Synchronique\" qu'une fois par tour. Durant votre Main Phase, vous pouvez : immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre de max. Niveau 4, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Synchro que vous contrôlez ; réduisez son Niveau de max. 4.",
+  "level": 5,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

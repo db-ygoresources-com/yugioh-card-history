@@ -1,0 +1,15 @@
+{
+  "id": 18810,
+  "type": "monster",
+  "name": "Thestalos der Schattenfeuer-Monarch",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst diese Karte als Tributbeschwörung beschwören, indem du 1 Monster, das dein Gegner kontrolliert, und 1 als Tributbeschwörung beschworenes Monster, das du kontrollierst, als Tribut anbietest. Falls diese Karte als Tributbeschwörung beschworen wird: Du kannst 1 zufällige Karte von der Hand deines Gegners verbannen und falls du dies tust, füge deinem Gegner 1000 Schaden zu, dann, falls diese Karte als Tributbeschwörung beschworen wurde, indem ein als Tributbeschwörung beschworenes Monster der Stufe 8 oder höher als Tribut angeboten wurde, kannst du diesen Effekt ausführen.\n●Verbanne 1 Karte auf dem Spielfeld und falls es eine FEUER oder FINSTERNIS Monsterkarte war, füge deinem Gegner Schaden in Höhe ihrer Grund-Stufe x 200 zu.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19079,
+  "type": "monster",
+  "name": "Zuttomosaure",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que vous contrôlez un autre monstre Dinosaure, les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Vous pouvez cibler 1 autre carte que vous contrôlez ; détruisez-la. Vous ne pouvez utiliser cet effet de \"Zuttomosaure\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

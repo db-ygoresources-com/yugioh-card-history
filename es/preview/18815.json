@@ -1,0 +1,15 @@
+{
+  "id": 18815,
+  "type": "monster",
+  "name": "Estrellaruina Ulka",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando exactamente 1 monstruo que controlas (y ningún otro monstruo) deje el Campo por efecto de una carta del adversario (excepto durante el Damage Step): puedes desterrar esta carta en tu mano o Cementerio; si ese monstruo está en el Cementerio o desterrado boca arriba, Invócalo de Modo Especial, de otro modo, Invoca de Modo Especial esta carta desterrada. Si esta carta es Invocada de Modo Especial: puedes hacer que esta carta gane 1500 ATK hasta el final del próximo turno. Sólo puedes usar cada efecto de \"Estrellaruina Ulka\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 400,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

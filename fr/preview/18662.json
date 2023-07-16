@@ -1,0 +1,16 @@
+{
+  "id": 18662,
+  "type": "monster",
+  "name": "Magicien de la Fidélité",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "FLIP : Vous pouvez cibler 1 Magie dans votre Cimetière ; ajoutez-la à votre main, puis vous pouvez Invoquer Spécialement 1 \"Magicien de la Foi\" ou \"Magicien de la Fidélité\" depuis votre Deck en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Magicien de la Fidélité\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Flip",
+    "Effet"
+  ]
+}

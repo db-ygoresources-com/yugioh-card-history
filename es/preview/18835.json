@@ -1,0 +1,18 @@
+{
+  "id": 18835,
+  "type": "monster",
+  "name": "Emperador Carlo el Grande",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 \"Emperador Carlo Infernoble Caballero\" de Nivel 9 equipado con una o más Cartas de Equipo\nSi esta carta es Invocada por Enlace: puedes seleccionar 1 \"Emperador Carlo Infernoble Caballero\" en tu Cementerio; el nombre de esta carta se convierte en el nombre original de ese objetivo, y ésta gana los efectos originales de ese objetivo, y después equipa ese objetivo a esta carta como una Mágica de Equipo que le da 500 ATK. Una vez por turno, cuando una Carta Mágica/de Trampa o su efecto es activada (Efecto Rápido): puedes mandar al Cementerio 1 Mágica de Equipo en tu mano o Campo boca arriba; niega la activación y, si lo haces, destruye esa carta.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

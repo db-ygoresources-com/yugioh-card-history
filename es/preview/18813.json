@@ -1,0 +1,15 @@
+{
+  "id": 18813,
+  "type": "monster",
+  "name": "Hiita la Canalizadora del Fuego",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "(Esta carta se trata siempre como una carta \"el/la Encantador/a\").\nPuedes descartar esta carta y otro monstruo de FUEGO; añade a tu mano 1 monstruo de FUEGO en tu Deck con ATK mayor que el del otro monstruo descartado, y además por el resto de este turno no puedes activar efectos de monstruos que no sean de FUEGO. Cuando tu monstruo de FUEGO es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu mano. Sólo puedes usar cada efecto de \"Hiita la Canalizadora del Fuego\" una vez por turno.",
+  "level": 5,
+  "atk": 1850,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

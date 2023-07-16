@@ -1,0 +1,15 @@
+{
+  "id": 18868,
+  "type": "monster",
+  "name": "Magier der Versprechen und der Einheit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 25 oder mehr Karten in deinem Friedhof hast. Solange dein Gegner 25 oder mehr Karten in seinem Friedhof hat, erhält diese Karte 2500 ATK/DEF.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

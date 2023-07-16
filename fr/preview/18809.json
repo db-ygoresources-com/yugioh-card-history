@@ -1,0 +1,15 @@
+{
+  "id": 18809,
+  "type": "monster",
+  "name": "Préveneur des Secours-AS",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez bannir 1 carte \"Secours-AS\" depuis votre Cimetière ; Invoquez Spécialement cette carte depuis votre main. Si vous contrôlez un autre monstre \"Secours-AS\" (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; changez-le en Position de Défense face verso. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 de vos monstres \"Secours-AS\" bannis (monstres de Niveau 8 exclus) ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Préveneur des Secours-AS\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

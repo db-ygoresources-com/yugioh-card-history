@@ -1,0 +1,15 @@
+{
+  "id": 19080,
+  "type": "monster",
+  "name": "Finis Terrae, Tour du Mondenécro",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si vous contrôlez un monstre de Niveau 10, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Finis Terrae, Tour du Mondenécro\" qu'une fois par tour de cette façon. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 carte face recto sur le Terrain ; ce tour, la carte ne peut pas être détruite par des effets de carte. Vous ne pouvez utiliser cet effet de \"Finis Terrae, Tour du Mondenécro\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

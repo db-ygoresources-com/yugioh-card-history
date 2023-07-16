@@ -1,0 +1,16 @@
+{
+  "id": 19082,
+  "type": "monster",
+  "name": "Speicherpode",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Trifestungstops“ oder „Stego-Cyber“ + 1 Maschine- oder Dinosaurier-Monster\nKann nicht durch Kampf zerstört werden, solange ein als Spezialbeschwörung vom Friedhof beschworenes Monster auf dem Spielfeld liegt. Falls ein oder mehr Monster als Spezialbeschwörung von der Hand beschworen werden, solange sich dieses Monster auf dem Spielfeld befindet (außer während des Damage Steps): Du kannst 1 Karte, die du kontrollierst, und 1 Karte, die dein Gegner kontrolliert, wählen; zerstöre sie. Du kannst diesen Effekt von „Speicherpode“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18807,
+  "type": "monster",
+  "name": "Losgekettete Seele von Shyama",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 Karte wählen, die du kontrollierst; zerstöre sie, dann kannst du 1 Zauber/Falle auf dem Spielfeld zerstören. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Unterweltler-Monster oder 1 verdeckte Karte wählen, das oder die du kontrollierst; zerstöre es oder sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, aber lege sie unters Deck, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Losgekettete Seele von Shyama“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

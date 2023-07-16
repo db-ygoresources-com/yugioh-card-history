@@ -1,0 +1,15 @@
+{
+  "id": 18810,
+  "type": "monster",
+  "name": "Thestalos, le Monarque du Feu des Ombres",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre contrôlé par votre adversaire et 1 monstre Invoqué par Sacrifice que vous contrôlez. Si cette carte est Invoquée par Sacrifice : vous pouvez bannir 1 carte au hasard depuis la main de votre adversaire, et si vous le faites, infligez 1000 points de dommages à votre adversaire, puis, si cette carte a été Invoquée par Sacrifice en Sacrifiant un monstre Invoqué par Sacrifice de min. Niveau 8, vous pouvez appliquer cet effet.\n●Bannissez 1 carte sur le Terrain, et si c'était une Carte Monstre FEU ou TÉNÈBRES, infligez des dommages à votre adversaire égaux à son Niveau d'origine x 200.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

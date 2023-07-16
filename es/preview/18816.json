@@ -1,0 +1,16 @@
+{
+  "id": 18816,
+  "type": "monster",
+  "name": "Codicia en la Jarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Aplica estos efectos en secuencia.\n●Excava cualquier número de cartas de la parte superior de tu Deck, hasta el número de cartas que controle tu adversario y, si lo haces, añade 1 de ellas a tu mano, y además manda el resto al Cementerio.\n●Manda al Cementerio monstruos en tu Deck Extra, hasta el número de monstruos que controle tu adversario que fueron Invocados de Modo Especial desde el Deck Extra.\nSólo puedes usar este efecto de \"Codicia en la Jarra\" una vez por turno.",
+  "level": 3,
+  "atk": 700,
+  "def": 800,
+  "properties": [
+    "Roca",
+    "Volteo",
+    "Efecto"
+  ]
+}

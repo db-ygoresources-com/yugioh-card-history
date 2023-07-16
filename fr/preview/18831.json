@@ -1,0 +1,16 @@
+{
+  "id": 18831,
+  "type": "monster",
+  "name": "Noir Épurrely",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 2\nUne fois par tour : vous pouvez défausser 1 carte, puis ciblez 1 carte contrôlée par votre adversaire, ou max. 2 si cette carte a \"Souvenirs Endormis Purrely\" comme Matériel ; renvoyez ces cartes à la main. Max. trois fois par tour, lorsque vous activez une Carte Magie Jeu-Rapide \"Purrely\" (Effet Rapide) : vous pouvez attacher la carte sur le Terrain à cette carte comme Matériel, puis vous pouvez Poser 1 Piège \"Purrely\" directement depuis votre Deck.",
+  "rank": 2,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Elfe",
+    "Xyz",
+    "Effet"
+  ]
+}

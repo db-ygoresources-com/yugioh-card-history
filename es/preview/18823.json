@@ -1,0 +1,16 @@
+{
+  "id": 18823,
+  "type": "monster",
+  "name": "Mágnum el Suplente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo Invocado de Modo Especial desde el Deck Extra + 1 monstruo en la mano\nPuedes seleccionar 1 Mágica \"Polimerización\" o Mágica \"Fusión\" en tu Cementerio; pon esa carta en la parte inferior del Deck, y después roba 1 carta. Cuando otra carta, o su efecto, es activada (Efecto Rápido): puedes desterrar 1 Mágica \"Polimerización\" o Mágica \"Fusión\" en tu Cementerio, y después selecciona 1 carta en el Campo; destrúyela. Sólo puedes usar cada efecto de \"Mágnum el Suplente\" una vez por turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

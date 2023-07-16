@@ -1,0 +1,16 @@
+{
+  "id": 18788,
+  "type": "monster",
+  "name": "Sincrón Rueda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta que controlas es usada como Material de Sincronía, puedes tratarla como un monstruo que no sea Cantante. Sólo puedes usar cada uno de los siguientes efectos de \"Sincrón Rueda\" una vez por turno. Durante tu Main Phase, puedes: inmediatamente después de que se resuelva este efecto, Invocar de Modo Normal 1 monstruo de Nivel 4 o menor, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía. Puedes desterrar esta carta en tu Cementerio, y después selecciona 1 Monstruo de Sincronía que controles; reduce su Nivel hasta en 4.",
+  "level": 5,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}
