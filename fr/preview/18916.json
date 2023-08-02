@@ -1,0 +1,15 @@
+{
+  "id": 18916,
+  "type": "monster",
+  "name": "Soldat Volcanique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 carte \"Volcanique\" (\"Soldat Volcanique\" exclu) depuis votre Deck à votre main. Vous pouvez défausser 1 carte ; Invoquez Spécialement 1 \"Jeton Bombe\" (Pyro/FEU/Niveau 1/ATK 1000/DEF 1000) sur le Terrain de votre adversaire. Chaque fois qu'1 est détruit, son contrôleur reçoit 500 points de dommages. Vous ne pouvez utiliser chaque effet de \"Soldat Volcanique\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

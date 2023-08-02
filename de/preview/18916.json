@@ -1,0 +1,15 @@
+{
+  "id": 18916,
+  "type": "monster",
+  "name": "Vulkanischer Soldat",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Vulkanisch“-Karte von deinem Deck hinzufügen, außer „Vulkanischer Soldat“. Du kannst 1 Karte abwerfen; beschwöre 1 „Bombe-Spielmarke“ (Pyro/FEUER/Stufe 1/ATK 1000/DEF 1000) als Spezialbeschwörung auf die Spielfeldseite deines Gegners. Jedes Mal, wenn 1 zerstört wird, erhält ihr Beherrscher 500 Schaden. Du kannst jeden Effekt von „Vulkanischer Soldat“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

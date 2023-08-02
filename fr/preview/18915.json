@@ -1,0 +1,15 @@
+{
+  "id": 18915,
+  "type": "monster",
+  "name": "Empereur Volcanique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main ou Cimetière) en bannissant 3 monstres Pyro ou 1 carte \"Accélérateur de Flammes\" depuis votre Terrain face recto et/ou Cimetière. Vous ne pouvez Invoquer Spécialement \"Empereur Volcanique\" qu'une fois par tour. Lorsqu'elle est Invoquée de cette façon : vous pouvez infliger 500 points de dommages à votre adversaire pour chaque monstre Pyro banni, puis vous pouvez Poser 1 Piège \"Volcanique\" directement depuis votre Deck. Chaque fois que votre adversaire Invoque Spécialement un ou plusieurs monstres, infligez 500 points de dommages à votre adversaire.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2400,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

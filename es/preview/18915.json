@@ -1,0 +1,15 @@
+{
+  "id": 18915,
+  "type": "monster",
+  "name": "Emperador Volcánico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano o Cementerio) desterrando 3 monstruos Piro o 1 carta \"Acelerador de Llama\" en tu Campo boca arriba y/o Cementerio. Sólo puedes Invocar de Modo Especial \"Emperador Volcánico\" una vez por turno. Cuando es Invocado de esta forma: puedes infligir 500 puntos de daño a tu adversario por cada monstruo Piro desterrado, y después puedes Colocar 1 Trampa \"Volcánico/a\" directamente desde tu Deck. Cada vez que tu adversario Invoca uno o más monstruos de Modo Especial, inflige 500 puntos de daño a tu adversario.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2400,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

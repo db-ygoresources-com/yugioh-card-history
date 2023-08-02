@@ -1,0 +1,15 @@
+{
+  "id": 18915,
+  "type": "monster",
+  "name": "Imperador Vulcânico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou do Cemitério) ao banir 3 monstros Piro ou 1 card \"Acelerador de Explosão\" do seu campo com a face para cima e/ou Cemitério. Você só pode Invocar \"Imperador Vulcânico\" por Invocação-Especial uma vez por turno. Quando Invocado desta forma: você pode causar 500 de dano ao seu oponente para cada monstro Piro banido e, depois, você pode Baixar 1 Armadilha \"Vulcânico(a)\" diretamente do seu Deck. Sempre que seu oponente Invocar um ou mais monstros por Invocação-Especial, cause 500 de dano ao seu oponente.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2400,
+  "properties": [
+    "Piro",
+    "Efeito"
+  ]
+}

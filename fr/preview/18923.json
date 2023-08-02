@@ -1,0 +1,15 @@
+{
+  "id": 18923,
+  "type": "monster",
+  "name": "Boxeur Indomptable Second en Chef",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre \"Boxeur Indomptable\" en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.) Lorsqu'un monstre de l'adversaire déclare une attaque, tant que vous contrôlez un monstre Guerrier ou FEU : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, annulez l'attaque, puis bannissez 1 monstre sur le Terrain jusqu'à la End Phase. Vous ne pouvez utiliser cet effet de \"Boxeur Indomptable Second en Chef\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

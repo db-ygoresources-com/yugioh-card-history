@@ -1,0 +1,15 @@
+{
+  "id": 18916,
+  "type": "monster",
+  "name": "Soldado Volcánico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 carta \"Volcánico/a\" en tu Deck, excepto \"Soldado Volcánico\". Puedes descartar 1 carta; Invoca de Modo Especial 1 \"Ficha Bomba\" (Piro/FUEGO/Nivel 1/ATK 1000/DEF 1000) al Campo de tu adversario. Cada vez que 1 es destruida, su controlador recibe 500 puntos de daño. Sólo puedes usar cada efecto de \"Soldado Volcánico\" una vez por turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

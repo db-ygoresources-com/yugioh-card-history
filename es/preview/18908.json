@@ -1,0 +1,15 @@
+{
+  "id": 18908,
+  "type": "monster",
+  "name": "Salamangrande de Fuego",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Salamangrande\" de Nivel 4 o menor en tu Deck, excepto \"Salamangrande de Fuego\", y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos de FUEGO. Al comienzo del Damage Step, si un monstruo Ciberso que controlas batalla: puedes desterrar esta carta en tu Cementerio; destruye ese monstruo que controlas. Sólo puedes usar cada efecto de \"Salamangrande de Fuego\" una vez por turno.",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Ciberso",
+    "Efecto"
+  ]
+}

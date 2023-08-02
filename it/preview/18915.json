@@ -1,0 +1,15 @@
+{
+  "id": 18915,
+  "type": "monster",
+  "name": "Imperatore Vulcanico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano o Cimitero) bandendo 3 mostri Pyro o 1 carta \"Acceleratore Fiammata\" dal tuo Terreno scoperto e/o Cimitero. Puoi Evocare Specialmente uno o più \"Imperatore Vulcanico\" una sola volta per turno. Quando viene Evocato in questo modo: puoi infliggere 500 danni al tuo avversario per ogni mostro Pyro bandito, poi puoi Posizionare 1 Trappola \"Vulcanico\" direttamente dal tuo Deck. Ogni volta che il tuo avversario Evoca Specialmente uno o più mostri, infliggi 500 danni al tuo avversario.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2400,
+  "properties": [
+    "Pyro",
+    "Effetto"
+  ]
+}

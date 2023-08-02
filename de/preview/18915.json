@@ -1,0 +1,15 @@
+{
+  "id": 18915,
+  "type": "monster",
+  "name": "Vulkanischer Kaiser",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 3 Pyro-Monster oder 1 „Glutbeschleuniger“-Karte offen von deiner Spielfeldseite und/oder deinem Friedhof verbannst. Du kannst „Vulkanischer Kaiser“ nur einmal pro Spielzug als Spezialbeschwörung beschwören. Wenn er auf diese Art beschworen wird: Du kannst deinem Gegner für jedes verbannte Pyro-Monster 500 Schaden zufügen, dann kannst du 1 „Vulkanisch“-Falle direkt von deinem Deck setzen. Jedes Mal, wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört, füge deinem Gegner 500 Schaden zu.",
+  "level": 8,
+  "atk": 3100,
+  "def": 2400,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}
