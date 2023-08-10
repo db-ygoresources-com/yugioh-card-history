@@ -4,7 +4,7 @@
   "name": "Talisman de Neutralisation de la Magie",
   "englishAttribute": "trap",
   "localizedAttribute": "PIÈGE",
-  "effectText": "Vous ne pouvez activer cette carte que lorsque \"Meisei, Le Maître des Sceaux\" est face recto sur votre Terrain. Tant que cette carte reste face recto sur le Terrain, les Cartes Magie ne peuvent pas être activées, et les effets des Cartes Magie face recto sur le Terrain sont annulés. Lorsque \"Meisei, Le Maître des Sceaux\" est retiré du Terrain, détruisez cette carte.",
+  "effectText": "Activez cette carte uniquement si vous contrôlez \"Meisei, Le Maître des Sceaux\". Les Cartes Magie, et leurs effets sur le Terrain, ne peuvent pas être activés. Annulez tous les effets de Magie sur le Terrain. Si vous ne contrôlez pas \"Meisei, Le Maître des Sceaux\", détruisez cette carte.",
   "englishProperty": "continuous",
   "localizedProperty": "Continu"
 }
