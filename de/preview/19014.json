@@ -1,0 +1,16 @@
+{
+  "id": 19014,
+  "type": "monster",
+  "name": "Seelenresonator",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Unterweltler-Monster der Stufe 4 oder niedriger von deinem Deck hinzufügen, außer „Seelenresonator“, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer FINSTERNIS Synchromonstern. Falls eine oder mehr Karten, die du kontrollierst, durch einen Karteneffekt zerstört würden, solange du „Rotdrachen-Erzunterweltler“ oder ein Synchromonster, das ihn erwähnt, kontrollierst, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst jeden Effekt von „Seelenresonator“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

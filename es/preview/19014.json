@@ -1,0 +1,16 @@
+{
+  "id": 19014,
+  "type": "monster",
+  "name": "Resonador del Alma",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo Demonio de Nivel 4 o menor en tu Deck, excepto \"Resonador del Alma\", y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía de OSCURIDAD. Si una o más cartas que controles fueran a ser destruidas por el efecto de una carta, mientras controles \"Dragón Rojo Archidemonio\" o un Monstruo de Sincronía que lo mencione, puedes desterrar esta carta en tu Cementerio en su lugar. Sólo puedes usar cada efecto de \"Resonador del Alma\" una vez por turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Cantante",
+    "Efecto"
+  ]
+}
