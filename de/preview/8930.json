@@ -1,0 +1,15 @@
+{
+  "id": 8930,
+  "type": "monster",
+  "name": "Brennender Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls dein Gegner 2 oder mehr Monster kontrolliert und sich diese Karte in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Zauber abwerfen; zerstöre alle Zauber und Fallen auf dem Spielfeld. Du kannst jeden Effekt von „Brennender Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

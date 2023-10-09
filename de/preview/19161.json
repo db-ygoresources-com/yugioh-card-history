@@ -1,0 +1,18 @@
+{
+  "id": 19161,
+  "type": "monster",
+  "name": "Poissonniere der Nouvelles",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 dieser Effekte aktivieren;\n●Füge deiner Hand 1 Ritualmonster der Stufe 1 oder 1 „Rezept“-Karte von deinem Deck hinzu.\n●Verbanne eine beliebige Anzahl „Rezept“-Karten von deinem Friedhof und beschwöre 1 „Nouvelles“-Ritualmonster mit einer Stufe in Höhe der verbannten Anzahl als Spezialbeschwörung von deiner Hand.\nDu kannst diesen Effekt von „Poissonniere der Nouvelles“ nur einmal pro Spielzug verwenden. Falls diese Karte auf dem Spielfeld als Tribut angeboten und dem Extra Deck offen hinzugefügt wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls du ein Ritualmonster kontrollierst: Du kannst 1 Monster auf dem Spielfeld wählen; beschwöre diese Karte als Spezialbeschwörung, dann ändere die Kampfposition jenes Monsters. Du kannst diesen Effekt von „Poissonniere der Nouvelles“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 700,
+  "def": 1700,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

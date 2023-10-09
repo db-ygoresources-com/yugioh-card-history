@@ -1,0 +1,16 @@
+{
+  "id": 19181,
+  "type": "monster",
+  "name": "Xyz-Panzerungstorpedo",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster der Stufe 3\nDiese Karte kann nicht angreifen, es sei denn, sie hat Material. Du kannst 2 Material von dieser Karte abhängen; ziehe 1 Karte. Du kannst diesen Effekt von „Xyz-Panzerungstorpedo“ nur einmal pro Spielzug verwenden. Wende diese Effekte an, solange diese Karte ein Monster ausrüstet.\n●Falls das ausgerüstete Monster kämpft, bis zum Ende des Damage Steps, kann dein Gegner weder Karten noch Effekte aktivieren, zusätzlich annulliere die Effekte aller offenen Monster, die er kontrolliert.\n●Falls das ausgerüstete Monster ein Xyz-Monster ist, kann dein Gegner es nicht als Ziel für Karteneffekte wählen.",
+  "rank": 3,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

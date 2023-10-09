@@ -1,0 +1,18 @@
+{
+  "id": 19143,
+  "type": "monster",
+  "name": "Magicien, Roi Suprême du Portail",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous avez une carte \"Roi Suprême du Portail\" (\"Magicien, Roi Suprême du Portail\" exclu) dans votre Zone Pendule : vous pouvez envoyer 1 monstre \"Dragon Pendule\", \"Dragon Xyz\", \"Dragon Synchro\" ou \"Dragon Fusion\" depuis votre main ou Extra Deck au Cimetière, et si vous le faites, Invoquez Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte qui mentionne \"Z-ARC, Roi Suprême\" (monstres Magicien exclus) depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Magicien, Roi Suprême du Portail\" qu'une fois par tour.",
+  "pendEffect": "\"Z-ARC, Roi Suprême\" que vous contrôlez ne peut pas être banni par des effets de carte de votre adversaire. Durant votre Main Phase : vous pouvez détruire cette carte, et si vous le faites, placez 1 Monstre Pendule \"Roi Suprême du Portail\" (\"Magicien, Roi Suprême du Portail\" exclu) depuis votre main ou Deck dans votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Magicien, Roi Suprême du Portail\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

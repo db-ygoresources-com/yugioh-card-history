@@ -1,0 +1,18 @@
+{
+  "id": 19143,
+  "type": "monster",
+  "name": "Oberster König Tormagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du eine „Oberster König Tor“-Karte in deiner Pendelzone hast, außer „Oberster König Tormagier“: Du kannst 1 „Pendeldrache“-, „Xyz-Drache“-, „Synchrodrache“- oder „Fusionsdrache“-Monster von deiner Hand oder deinem Extra Deck auf den Friedhof legen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Karte, die „Oberster König Z-ARC“ erwähnt, von deinem Deck hinzufügen, außer einem Hexer-Monster. Du kannst jeden Effekt von „Oberster König Tormagier“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "„Oberster König Z-ARC“, den du kontrollierst, kann nicht durch Karteneffekte deines Gegners verbannt werden. Während deiner Main Phase: Du kannst diese Karte zerstören und falls du dies tust, lege 1 „Oberster König Tor“-Pendelmonster von deiner Hand oder deinem Deck in deine Pendelzone, außer „Oberster König Tormagier“. Du kannst diesen Effekt von „Oberster König Tormagier“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

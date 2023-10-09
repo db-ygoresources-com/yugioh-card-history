@@ -1,0 +1,15 @@
+{
+  "id": 19413,
+  "type": "monster",
+  "name": "Activo Montis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si tu adversario controla un monstruo de Nivel 6 o menor: puedes Invocar esta carta de Modo Especial desde tu mano. Si tienes más cartas en tu mano que tu adversario: puedes cambiar las posiciones de batalla de todos los monstruos en el Campo, y todos los demás monstruos Insecto en el Campo se convierten en el mismo Atributo y Nivel que esta carta, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto monstruos Insecto. Si esta carta es destruida: puedes añadir a tu mano 1 monstruo Insecto de Nivel 8 o mayor en tu Deck. Sólo puedes usar cada efecto de \"Activo Montis\" una vez por turno.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

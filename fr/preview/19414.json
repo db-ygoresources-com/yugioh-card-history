@@ -1,0 +1,19 @@
+{
+  "id": 19414,
+  "type": "monster",
+  "name": "Filly, Chevalier du Stand",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 Monstres à Effet\nSi cette carte est Invoquée Spécialement dans une zone pointée par un Monstre Lien : vous pouvez cibler 1 monstre que vous contrôlez avec max. 1500 ATK ; ce tour, il peut faire une seconde attaque durant chaque Battle Phase, et aussi, s'il combat un monstre de l'adversaire, les dommages de combat qu'il inflige à votre adversaire sont doublés. Durant la Standby Phase du prochain tour après que cette carte a été détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Filly, Chevalier du Stand\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

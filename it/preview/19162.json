@@ -1,0 +1,15 @@
+{
+  "id": 19162,
+  "type": "monster",
+  "name": "Drago Buco Nero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere distrutto dagli effetti delle carte. Puoi utilizzare ognuno dei seguenti effetti di \"Drago Buco Nero\" una sola volta per turno. Se uno o più mostri sul Terreno vengono distrutti dall'effetto di una carta che non li sceglie come bersaglio (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dal Cimitero (se era lì quando il mostro è stato distrutto) o mano (anche se non era lì). Se questa carta viene Evocata Specialmente: puoi attivare questo effetto; durante la End Phase di questo turno, aggiungi 1 \"Buco Nero\" dal tuo Deck alla tua mano.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drago",
+    "Effetto"
+  ]
+}

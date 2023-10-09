@@ -1,0 +1,18 @@
+{
+  "id": 19147,
+  "type": "monster",
+  "name": "Vedas Kalarcanum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por su propio Efecto de Péndulo. Sólo puedes Invocar de Modo Especial uno o más \"Vedas Kalarcanum\" una vez por turno. Una vez por turno, si tu adversario Invoca de Modo Especial uno o más monstruos desde el Deck Extra (excepto durante el Damage Step): puedes desterrar 12 cartas en tu mano, Campo y/o Cementerio, boca abajo; pasa a la End Phase de este turno. Una vez por turno, durante tu Standby Phase: devuelve esta carta a la mano, y después puedes Invocar de Modo Especial 1 de tus monstruos \"Vedas\" que esté desterrado o en tu mano, Deck o Cementerio.",
+  "pendEffect": "Una vez por Cadena, si uno o más monstruos son destruidos: pon 3 contadores en esta carta. La Escala de Péndulo de esta carta se aumenta por el número de contadores en ella. Puedes retirar 12 contadores de esta carta; Invócala de Modo Especial.",
+  "pendScale": 0,
+  "level": 12,
+  "atk": 0,
+  "def": 4000,
+  "properties": [
+    "Guerrero",
+    "Péndulo",
+    "Efecto"
+  ]
+}

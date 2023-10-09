@@ -1,0 +1,18 @@
+{
+  "id": 19161,
+  "type": "monster",
+  "name": "Poissonniere de Nouvelles",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes activar 1 de estos efectos;\n●Añade a tu mano 1 Monstruo de Ritual de Nivel 1 o 1 carta \"Receta\" en tu Deck.\n●Destierra cualquier número de cartas \"Receta\" en tu Cementerio e Invoca de Modo Especial, desde tu mano, 1 Monstruo de Ritual \"Nouvelles\" con un Nivel igual al número de desterradas.\nSólo puedes usar este efecto de \"Poissonniere de Nouvelles\" una vez por turno. Si esta carta en el Campo es Sacrificada y añadida al Deck Extra boca arriba: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Si controlas un Monstruo de Ritual: puedes seleccionar 1 monstruo en el Campo; Invoca esta carta de Modo Especial, y después cambia la posición de batalla de ese monstruo. Sólo puedes usar este efecto de \"Poissonniere de Nouvelles\" una vez por turno.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 700,
+  "def": 1700,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

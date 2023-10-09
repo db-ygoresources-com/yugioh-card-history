@@ -1,0 +1,19 @@
+{
+  "id": 19172,
+  "type": "monster",
+  "name": "Dragon Arcray aux Yeux Impairs",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "4 monstres Dragon (1 Fusion, 1 Synchro, 1 Xyz et 1 Pendule)\n(Cette carte est toujours traitée comme \"Z-ARC, Roi Suprême\".)\nCette carte face verso dans l'Extra Deck doit d'abord être soit Invoquée par Fusion soit Invoquée Spécialement en Sacrifiant 1 \"Z-ARC, Roi Suprême\" TÉNÈBRES de Niveau 12. Si cette carte est Invoquée Spécialement depuis l'Extra Deck : vous pouvez placer 1 Monstre Pendule depuis votre Deck dans votre Zone Pendule. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Si vous avez 2 cartes dans vos Zones Pendule : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez appliquer cet effet.\n●Mélangez 1 carte depuis votre Zone Pendule dans le Deck, puis si elle a été ajoutée à votre Extra Deck, vous pouvez l'Invoquer Spécialement, en ignorant ses conditions d'Invocation. Vous ne pouvez utiliser cet effet de \"Dragon Arcray aux Yeux Impairs\" qu'une fois par tour.",
+  "pendScale": 13,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

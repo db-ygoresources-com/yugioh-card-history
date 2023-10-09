@@ -1,0 +1,15 @@
+{
+  "id": 8930,
+  "type": "monster",
+  "name": "Burning Dragon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si votre adversaire contrôle min. 2 monstres et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez défausser 1 Magie ; détruisez toutes les Magies et tous les Pièges sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Burning Dragon\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

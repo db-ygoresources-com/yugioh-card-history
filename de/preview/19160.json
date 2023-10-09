@@ -1,0 +1,15 @@
+{
+  "id": 19160,
+  "type": "monster",
+  "name": "Bezwingerseele Jiaolong",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du eine oder mehr Karten in deiner Hand vorzeigst, um eine/n „Bezwingerseele“-Karte oder -Effekt zu aktivieren (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren, indem du ein oder mehr Monster mit den aufgeführten Eigenschaften in deiner Hand vorzeigst;\n●FEUER: Ändere die Kampfposition von 1 Monster auf dem Spielfeld.\n●2 FEUER: Füge deiner Hand 1 „Bezwingerseele“-Karte von deinem Deck hinzu, außer „Bezwingerseele Jiaolong“.\nDu kannst jeden Effekt von „Bezwingerseele Jiaolong“ nur einmal pro Spielzug verwenden und du kannst nicht mehr als 1 in derselben Kette aktivieren.",
+  "level": 5,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

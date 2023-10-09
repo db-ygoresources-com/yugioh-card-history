@@ -1,0 +1,15 @@
+{
+  "id": 19164,
+  "type": "monster",
+  "name": "Samenkornspuckender Schössling",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte auf dem Spielfeld als Ziel wählt, oder wenn diese Karte als Ziel für einen Angriff gewählt wird (Schnelleffekt): Du kannst 1 „Snack-Spielmarke“ (Pflanze/LICHT/Stufe 1/ATK 800/DEF 800) als Spezialbeschwörung beschwören. Einmal pro Spielzug, wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwören würde (Schnelleffekt): Du kannst 1 Normales Monster als Tribut anbieten; annulliere die Spezialbeschwörung und falls du dies tust, zerstöre jene Monster.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

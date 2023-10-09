@@ -1,0 +1,18 @@
+{
+  "id": 19143,
+  "type": "monster",
+  "name": "Rey Supremo Puerta Mago",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si tienes una carta \"Rey Supremo Puerta\" en tu Zona de Péndulo, excepto \"Rey Supremo Puerta Mago\": puedes mandar al Cementerio 1 monstruo \"Dragón de Péndulo\", \"Dragón Xyz\", \"Dragón Sincro\" o \"Dragón de Fusión\" en tu mano o Deck Extra y, si lo haces, Invoca esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 carta que mencione \"Rey Supremo Z-ARC\", en tu Deck, excepto un monstruo Lanzador de Conjuros. Sólo puedes usar cada efecto de \"Rey Supremo Puerta Mago\" una vez por turno.",
+  "pendEffect": "Los \"Rey Supremo Z-ARC\" que controles no pueden ser desterrados por efectos de cartas de tu adversario. Durante tu Main Phase: puedes destruir esta carta y, si lo haces, pon en tu Zona de Péndulo 1 Monstruo de Péndulo \"Rey Supremo Puerta\" en tu mano o Deck, excepto \"Rey Supremo Puerta Mago\". Sólo puedes usar este efecto de \"Rey Supremo Puerta Mago\" una vez por turno.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

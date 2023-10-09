@@ -1,0 +1,20 @@
+{
+  "id": 19187,
+  "type": "monster",
+  "name": "Sobrepasa el Péndulo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ Monstruos de Efecto, incluyendo un Monstruo de Péndulo\nGana 100 ATK por cada Carta de Monstruo de Péndulo que controles. Sólo puedes usar cada uno de los siguientes efectos de \"Sobrepasa el Péndulo\" una vez por turno. Si esta carta es Invocada por Enlace: puedes añadir a tu mano 1 Monstruo de Péndulo boca arriba en tu Deck Extra. Durante la Main Phase (Efecto Rápido): puedes Invocar de Modo Especial, desde tu mano o Cementerio, 1 Monstruo de Péndulo en Posición de Defensa, con un Nivel entre las Escalas de Péndulo de las 2 cartas en tus Zonas de Péndulo.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Enlace",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19175,
+  "type": "monster",
+  "name": "Proéminence Gaïa, Force Implacable",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Flamme Gaïa, Force du Soleil\" + 1 monstre face recto que vous contrôlez\nLorsque votre adversaire active un effet de monstre dans sa main ou Cimetière (Effet Rapide) : vous pouvez défausser 1 monstre ; annulez l'effet, et si vous le faites, détruisez la carte. Lorsque cette carte attaquante détruit un monstre de l'adversaire au combat : vous pouvez cibler 1 monstre FEU dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Proéminence Gaïa, Force Implacable\" qu'une fois par tour.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3100,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effet"
+  ]
+}

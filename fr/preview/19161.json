@@ -1,0 +1,18 @@
+{
+  "id": 19161,
+  "type": "monster",
+  "name": "Poissonnière de Nouvelles",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez activer 1 de ces effets ;\n●Ajoutez 1 Monstre Rituel de Niveau 1 ou 1 carte \"Recette\" depuis votre Deck à votre main.\n●Bannissez un nombre de votre choix de cartes \"Recette\" depuis votre Cimetière et Invoquez Spécialement 1 Monstre Rituel \"Nouvelles\" depuis votre main d'un Niveau égal au nombre banni.\nVous ne pouvez utiliser cet effet de \"Poissonnière de Nouvelles\" qu'une fois par tour. Si cette carte sur le Terrain est Sacrifiée et ajoutée face recto à l'Extra Deck : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Si vous contrôlez un Monstre Rituel : vous pouvez cibler 1 monstre sur le Terrain ; Invoquez Spécialement cette carte, puis changez la position de combat du monstre. Vous ne pouvez utiliser cet effet de \"Poissonnière de Nouvelles\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 700,
+  "def": 1700,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 19187,
+  "type": "monster",
+  "name": "Exceder o Pêndulo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ Monstros de Efeito, incluindo um Monstro Pêndulo\nGanha 100 de ATK para cada Card de Monstro Pêndulo que você controla. Você só pode usar cada um dos seguintes efeitos de \"Exceder o Pêndulo\" uma vez por turno. Se este card for Invocado por Invocação-Link: você pode adicionar 1 Monstro Pêndulo com a face para cima do seu Deck Adicional à sua mão. Durante a Fase Principal (Efeito Rápido): você pode Invocar por Invocação-Especial em Posição de Defesa 1 Monstro Pêndulo da sua mão ou do Cemitério, com um Nível entre as Escalas de Pêndulo dos 2 cards nas suas Zonas de Pêndulo.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Mago",
+    "Link",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19164,
+  "type": "monster",
+  "name": "Jeunes Arbres Cracheurs de Graines",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, lorsqu'une carte ou un effet qui cible cette carte sur le Terrain est activé, ou lorsque cette carte est ciblée par une attaque (Effet Rapide) : vous pouvez Invoquer Spécialement 1 \"Jeton Casse-Croûte\" (Plante/LUMIÈRE/Niveau 1/ATK 800/DEF 800). Une fois par tour, lorsque votre adversaire va Invoquer Spécialement un ou plusieurs monstres (Effet Rapide) : vous pouvez Sacrifier 1 Monstre Normal ; annulez l'Invocation Spéciale, et si vous le faites, détruisez ces monstres.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

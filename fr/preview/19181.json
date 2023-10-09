@@ -1,0 +1,16 @@
+{
+  "id": 19181,
+  "type": "monster",
+  "name": "Torpille à l'Armure Xyz",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres de Niveau 3\nNe peut pas attaquer sauf si elle a du Matériel. Vous pouvez détacher 2 Matériels de cette carte ; piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Torpille à l'Armure Xyz\" qu'une fois par tour. Appliquez ces effets tant que cette carte est équipée à un monstre.\n●Si le monstre équipé combat, jusqu'à la fin de la Damage Step, votre adversaire ne peut activer ni de cartes ni d'effets, et aussi, annulez les effets de tous les monstres face recto qu'il contrôle.\n●Si le monstre équipé est un Monstre Xyz, votre adversaire ne peut pas le cibler avec des effets de carte.",
+  "rank": 3,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 19161,
+  "type": "monster",
+  "name": "Poissonniere de Nouvelles",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode ativar 1 desses efeitos;\n●Adicione 1 Monstro de Ritual de Nível 1 ou 1 card \"Receita\" do seu Deck à sua mão.\n●Bana qualquer número de cards \"Receita\" do seu Cemitério e Invoque por Invocação-Especial 1 Monstro de Ritual \"Nouvelles\" da sua mão com um Nível igual ao número banido.\nVocê só pode usar este efeito de \"Poissonniere de Nouvelles\" uma vez por turno. Se este card no campo for oferecido como Tributo e adicionado ao Deck Adicional com a face para cima: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se você controlar um Monstro de Ritual: você pode escolher 1 monstro no campo; Invoque este card por Invocação-Especial e, depois, mude a posição de batalha desse monstro. Você só pode usar este efeito de \"Poissonniere de Nouvelles\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 700,
+  "def": 1700,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

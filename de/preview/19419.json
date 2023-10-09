@@ -1,0 +1,16 @@
+{
+  "id": 19419,
+  "type": "monster",
+  "name": "Tistina, die der Finsternis trotzende Gottheit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 10\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst alle verdeckten Karten, die dein Gegner kontrolliert, auf den Friedhof legen. Du kannst diesen Effekt von „Tistina, die der Finsternis trotzende Gottheit“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, falls diese Karte „Kristallgott Tistina“ als Material hat: Du kannst 1 Material von dieser Karte abhängen; sie erhält bis zum Ende des Spielzugs deines Gegners 2000 ATK. Falls diese Karte, die du kontrollierst, durch eine Karte eines Gegners zerstört wird, solange sie Material hat: Du kannst 1 „Tistina“-Monster als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "rank": 10,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Aqua",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19157,
+  "type": "monster",
+  "name": "Électro-Thon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Cette carte peut attaquer directement. Vous ne pouvez utiliser chacun des effets suivants de \"Électro-Thon\" qu'une fois par tour. À la fin de la Damage Step, si votre monstre inflige des dommages de combat à votre adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsque cette carte inflige des dommages de combat à votre adversaire par une attaque directe : vous pouvez Sacrifier cette carte sur le Terrain et min. 1 monstre non-Syntoniseur depuis votre main et/ou Terrain face recto, et Invoquez Spécialement 1 Monstre Synchro \"Électro-\" depuis votre Extra Deck dont le Niveau est égal à la somme des Niveaux des monstres Sacrifiés.",
+  "level": 4,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Tonnerre",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

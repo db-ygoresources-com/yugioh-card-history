@@ -1,0 +1,15 @@
+{
+  "id": 19162,
+  "type": "monster",
+  "name": "Dragón Agujero Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser destruido por efectos de cartas. Sólo puedes usar cada uno de los siguientes efectos de \"Dragón Agujero Oscuro\" una vez por turno. Si uno o más monstruos en el Campo son destruidos por el efecto de una carta que no los selecciona (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde el Cementerio (si estaba allí cuando el monstruo fue destruido) o mano (aun si no lo estaba). Si esta carta es Invocada de Modo Especial: puedes activar este efecto; durante la End Phase de este turno, añade a tu mano 1 \"Agujero Oscuro\" en tu Deck.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

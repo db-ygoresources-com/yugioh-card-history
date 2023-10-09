@@ -1,0 +1,18 @@
+{
+  "id": 19147,
+  "type": "monster",
+  "name": "Veda Kalarcanum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par son propre Effet Pendule. Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Veda Kalarcanum\" qu'une fois par tour. Une fois par tour, si votre adversaire Invoque Spécialement un ou plusieurs monstres depuis l'Extra Deck (sauf durant la Damage Step) : vous pouvez bannir face verso 12 cartes depuis votre main, Terrain et/ou Cimetière ; passez à la End Phase de ce tour. Une fois par tour, durant votre Standby Phase : renvoyez cette carte à la main, puis vous pouvez Invoquer Spécialement 1 de vos monstres \"Veda\" qui est banni ou dans votre main, Deck ou Cimetière.",
+  "pendEffect": "Une fois par Chaîne, si un ou plusieurs monstres sont détruits : placez 3 Compteurs sur cette carte. L'Échelle Pendule de cette carte est augmentée du nombre de Compteurs sur elle. Vous pouvez retirer 12 Compteurs de cette carte ; Invoquez-la Spécialement.",
+  "pendScale": 0,
+  "level": 12,
+  "atk": 0,
+  "def": 4000,
+  "properties": [
+    "Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

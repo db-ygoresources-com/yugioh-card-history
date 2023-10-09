@@ -1,0 +1,19 @@
+{
+  "id": 19144,
+  "type": "monster",
+  "name": "Lightwurm, Roi Suprême du Dragon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Monstre Pendule \"Roi Suprême du Dragon\" ou \"Roi Suprême du Portail\" face recto depuis votre Extra Deck à votre main, puis, immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation ou Xyz 1 monstre \"Roi Suprême du Dragon\". Si un ou plusieurs Monstres Pendule face recto que vous contrôlez sont détruits au combat ou par un effet de carte, tant que cette carte est face recto dans votre Extra Deck : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Lightwurm, Roi Suprême du Dragon\" qu'une fois par tour.",
+  "pendEffect": "Si un ou plusieurs monstres sont Invoqués Spécialement et que vous contrôlez \"Z-ARC, Roi Suprême\" et un autre Monstre Pendule (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez faire devenir le Niveau et Attribut de soit cette carte soit 1 Monstre Pendule que vous contrôlez du même Niveau et Attribut que l'autre. Vous ne pouvez utiliser cet effet de \"Lightwurm, Roi Suprême du Dragon\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19144,
+  "type": "monster",
+  "name": "Re Supremo Drago Lucewurm",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 Mostro Pendulum \"Re Supremo Drago\" o \"Re Supremo Cancello\" scoperto dal tuo Extra Deck alla tua mano, poi, immediatamente dopo che questo effetto si è risolto, puoi Evocare Synchro o Xyz 1 mostro \"Re Supremo Drago\". Se uno o più Mostri Pendulum scoperti che controlli vengono distrutti in battaglia o dall'effetto di una carta, mentre questa carta è scoperta nel tuo Extra Deck: puoi aggiungere questa carta alla tua mano. Puoi utilizzare ogni effetto di \"Re Supremo Drago Lucewurm\" una sola volta per turno.",
+  "pendEffect": "Se uno o più mostri vengono Evocati Specialmente e tu controlli \"Re Supremo Z-ARC\" e un altro Mostro Pendulum (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta, poi puoi far diventare il Livello e l'Attributo di questa carta oppure di 1 Mostro Pendulum che controlli lo stesso Livello e Attributo dell'altro. Puoi utilizzare questo effetto di \"Re Supremo Drago Lucewurm\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

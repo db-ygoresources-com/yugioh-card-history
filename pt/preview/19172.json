@@ -1,0 +1,19 @@
+{
+  "id": 19172,
+  "type": "monster",
+  "name": "Dragão Arcray de Olhos Anômalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "4 monstros Dragão (1 de Fusão, 1 Sincro, 1 Xyz e 1 Pêndulo)\n(Este card deve ser sempre considerado como \"Rei Supremo Z-ARC\".)\nEste card com a face para baixo no Deck Adicional primeiro deve ser Invocado por Invocação-Fusão, ou por Invocação-Especial ao oferecer como Tributo 1 \"Rei Supremo Z-ARC\" de TREVAS de Nível 12. Se este card for Invocado por Invocação-Especial do Deck Adicional: você pode colocar na sua Zona de Pêndulo 1 Monstro Pêndulo do seu Deck. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se você tiver 2 cards nas suas Zonas de Pêndulo: você pode Invocar este card por Invocação-Especial e, depois, você pode aplicar este efeito.\n●Embaralhe 1 card da sua Zona de Pêndulo no Deck e, depois, se ele foi adicionado ao seu Deck Adicional, você pode Invocá-lo por Invocação-Especial, ignorando suas condições de Invocação. Você só pode usar este efeito de \"Dragão Arcray de Olhos Anômalos\" uma vez por turno.",
+  "pendScale": 13,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

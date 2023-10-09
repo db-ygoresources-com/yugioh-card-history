@@ -1,0 +1,20 @@
+{
+  "id": 19187,
+  "type": "monster",
+  "name": "Über dem Pendel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Effektmonster, darunter ein Pendelmonster\nErhält für jede Pendelmonsterkarte, die du kontrollierst, 100 ATK. Du kannst jeden der folgenden Effekte von „Über dem Pendel“ nur einmal pro Spielzug verwenden. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst deiner Hand 1 offenes Pendelmonster von deinem Extra Deck hinzufügen. Während der Main Phase (Schnelleffekt): Du kannst 1 Pendelmonster mit einer Stufe zwischen den Pendelbereichen der 2 Karten in deinen Pendelzonen als Spezialbeschwörung von deiner Hand oder deinem Friedhof in die Verteidigungsposition beschwören.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

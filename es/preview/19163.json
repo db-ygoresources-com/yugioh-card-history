@@ -1,0 +1,15 @@
+{
+  "id": 19163,
+  "type": "monster",
+  "name": "UFOLuz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Tu adversario no puede seleccionar con efectos de cartas esta carta en el Campo, excepto durante la Battle Phase. Si esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla. Durante la End Phase: puedes robar 1 carta, y después debes desterrar cualquier número de cartas en tu mano (mín. 1) y, si lo haces, esta carta gana 500 ATK por cada una. Sólo puedes usar este efecto de \"UFOLuz\" una vez por turno.",
+  "level": 8,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Tipo Ilusión",
+    "Efecto"
+  ]
+}

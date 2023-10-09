@@ -1,0 +1,15 @@
+{
+  "id": 19162,
+  "type": "monster",
+  "name": "Dragon du Trou Noir",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non destructible par des effets de carte. Vous ne pouvez utiliser chacun des effets suivants de \"Dragon du Trou Noir\" qu'une fois par tour. Si un ou plusieurs monstres sur le Terrain sont détruits par un effet de carte qui ne le cible pas (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque le monstre a été détruit) ou la main (même si elle n'y était pas). Si cette carte est Invoquée Spécialement : vous pouvez activer cet effet ; durant la End Phase de ce tour, ajoutez 1 \"Trou Noir\" depuis votre Deck à votre main.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

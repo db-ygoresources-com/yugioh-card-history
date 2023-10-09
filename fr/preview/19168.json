@@ -1,0 +1,16 @@
+{
+  "id": 19168,
+  "type": "monster",
+  "name": "Poupée de Mariée Maudite",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez Spécialement cette carte. Au début de chaque Battle Phase : s'il y a plus de cartes dans votre Deck que dans celui de votre adversaire, cette carte gagne une ATK égale à la différence x 300, jusqu'à la fin de ce tour. Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : placez cette carte au-dessus du Deck.",
+  "level": 3,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Magicien",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

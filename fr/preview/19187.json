@@ -1,0 +1,20 @@
+{
+  "id": 19187,
+  "type": "monster",
+  "name": "Dépassement du Pendule",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ Monstres à Effet (un Monstre Pendule inclus)\nGagne 100 ATK pour chaque Carte Monstre Pendule que vous contrôlez. Vous ne pouvez utiliser chacun des effets suivants de \"Dépassement du Pendule\" qu'une fois par tour. Si cette carte est Invoquée par Lien : vous pouvez ajouter 1 Monstre Pendule face recto depuis votre Extra Deck à votre main. Durant la Main Phase (Effet Rapide) : vous pouvez Invoquer Spécialement 1 Monstre Pendule depuis votre main ou Cimetière en Position de Défense avec un Niveau entre les Échelles Pendule des 2 cartes dans vos Zones Pendule.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

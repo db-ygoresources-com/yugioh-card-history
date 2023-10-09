@@ -1,0 +1,19 @@
+{
+  "id": 19144,
+  "type": "monster",
+  "name": "Rey Supremo Dragón Sierpeluz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Monstruo de Péndulo \"Rey Supremo Dragón\" o \"Rey Supremo Puerta\" boca arriba en tu Deck Extra y después, inmediatamente después de que se resuelva este efecto, puedes Invocar por Sincronía o Xyz 1 monstruo \"Rey Supremo Dragón\". Si uno o más Monstruos de Péndulo boca arriba que controlas son destruidos en batalla o por el efecto de una carta, mientras esta carta está boca arriba en tu Deck Extra: puedes añadir esta carta a tu mano. Sólo puedes usar cada efecto de \"Rey Supremo Dragón Sierpeluz\" una vez por turno.",
+  "pendEffect": "Si uno o más monstruos son Invocados de Modo Especial y tú controlas \"Rey Supremo Z-ARC\" y otro Monstruo de Péndulo (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial, y después puedes hacer que el Nivel y el Atributo sea de esta carta o de 1 Monstruo de Péndulo que controles se conviertan en el mismo Nivel y Atributo que el otro. Sólo puedes usar este efecto de \"Rey Supremo Dragón Sierpeluz\" una vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

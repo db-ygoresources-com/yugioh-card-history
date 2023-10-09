@@ -1,0 +1,18 @@
+{
+  "id": 19143,
+  "type": "monster",
+  "name": "Supreme King Gate Magician",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If you have a \"Supreme King Gate\" card in your Pendulum Zone, except \"Supreme King Gate Magician\": You can send 1 \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", or \"Fusion Dragon\" monster from your hand or Extra Deck to the GY, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can add 1 card that mentions \"Supreme King Z-ARC\" from your Deck to your hand, except a Spellcaster monster. You can only use each effect of \"Supreme King Gate Magician\" once per turn.",
+  "pendEffect": "\"Supreme King Z-ARC\" you control cannot be banished by your opponent's card effects. During your Main Phase: You can destroy this card, and if you do, place 1 \"Supreme King Gate\" Pendulum Monster from your hand or Deck in your Pendulum Zone, except \"Supreme King Gate Magician\". You can only use this effect of \"Supreme King Gate Magician\" once per turn.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

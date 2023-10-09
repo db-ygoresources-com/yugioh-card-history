@@ -1,0 +1,18 @@
+{
+  "id": 19143,
+  "type": "monster",
+  "name": "Re Supremo Cancello Mago",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se hai una carta \"Re Supremo Cancello\" nella tua Zona Pendulum, eccetto \"Re Supremo Cancello Mago\": puoi mandare 1 mostro \"Drago Pendulum\", \"Drago Xyz\", \"Drago Synchro\" o \"Drago Fusione\" dalla tua mano o Extra Deck al Cimitero e, se lo fai, Evoca Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Specialmente: puoi aggiungere 1 carta che menziona \"Re Supremo Z-ARC\" dal tuo Deck alla tua mano, eccetto un mostro Incantatore. Puoi utilizzare ogni effetto di \"Re Supremo Cancello Mago\" una sola volta per turno.",
+  "pendEffect": "I \"Re Supremo Z-ARC\" che controlli non possono essere banditi dagli effetti delle carte del tuo avversario. Durante la tua Main Phase: puoi distruggere questa carta e, se lo fai, metti 1 Mostro Pendulum \"Re Supremo Cancello\" dalla tua mano o Deck nella tua Zona Pendulum, eccetto \"Re Supremo Cancello Mago\". Puoi utilizzare questo effetto di \"Re Supremo Cancello Mago\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

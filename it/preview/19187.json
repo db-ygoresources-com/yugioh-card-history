@@ -1,0 +1,20 @@
+{
+  "id": 19187,
+  "type": "monster",
+  "name": "Superare il Pendulum",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2+ Mostri con Effetto, compreso un Mostro Pendulum\nGuadagna 100 ATK per ogni Carta Mostro Pendulum che controlli. Puoi utilizzare ognuno dei seguenti effetti di \"Superare il Pendulum\" una sola volta per turno. Se questa carta viene Evocata Link: puoi aggiungere 1 Mostro Pendulum scoperto dal tuo Extra Deck alla tua mano. Durante la Main Phase (Effetto Rapido): puoi Evocare Specialmente dalla tua mano o Cimitero in Posizione di Difesa, 1 Mostro Pendulum con un Livello tra i Valori Pendulum delle 2 carte nelle tue Zone Pendulum.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Incantatore",
+    "Link",
+    "Effetto"
+  ]
+}

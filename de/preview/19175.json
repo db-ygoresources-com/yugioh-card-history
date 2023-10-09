@@ -1,0 +1,16 @@
+{
+  "id": 19175,
+  "type": "monster",
+  "name": "Gaia-Prominenz, die zornige Kraft",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "„Gaia-Lohe, die Kraft der Sonne“ + 1 offenes Monster, das du kontrollierst\nWenn dein Gegner einen Monstereffekt in seiner Hand oder seinem Friedhof aktiviert (Schnelleffekt): Du kannst 1 Monster abwerfen; annulliere jenen Effekt und falls du dies tust, zerstöre jene Karte. Wenn diese angreifende Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst 1 FEUER Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst jeden Effekt von „Gaia-Prominenz, die zornige Kraft“ nur einmal pro Spielzug verwenden.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3100,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effekt"
+  ]
+}

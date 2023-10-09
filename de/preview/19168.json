@@ -1,0 +1,16 @@
+{
+  "id": 19168,
+  "type": "monster",
+  "name": "Verfluchte Brautpuppe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn du diese Karte ziehst: Du kannst sie vorzeigen; beschwöre diese Karte als Spezialbeschwörung. Am Beginn jeder Battle Phase: Falls du mehr Karten in deinem Deck hast als dein Gegner, erhält diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der Differenz x 300. Einmal pro Spielzug, während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Lege diese Karte aufs Deck.",
+  "level": 3,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19414,
+  "type": "monster",
+  "name": "Boxenritterin Filly",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2 Effektmonster\nFalls diese Karte als Spezialbeschwörung in eine Zone beschworen wird, auf die ein Linkmonster zeigt: Du kannst 1 Monster mit 1500 oder weniger ATK wählen, das du kontrollierst; in diesem Spielzug kann es während jeder Battle Phase einen zweiten Angriff durchführen, zusätzlich, falls es gegen ein Monster eines Gegners kämpft, wird der Kampfschaden verdoppelt, den es deinem Gegner zufügt. Während der Standby Phase des nächsten Spielzugs, nachdem diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wurde: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Boxenritterin Filly“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

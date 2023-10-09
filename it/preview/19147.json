@@ -1,0 +1,18 @@
+{
+  "id": 19147,
+  "type": "monster",
+  "name": "Veda Kalarcanum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dal suo stesso Effetto Pendulum. Puoi Evocare Specialmente uno o più \"Veda Kalarcanum\" una sola volta per turno. Una volta per turno, se il tuo avversario Evoca Specialmente uno o più mostri dall'Extra Deck (eccetto durante il Damage Step): puoi bandire 12 carte dalla tua mano, Terreno e/o Cimitero, coperte; passa alla End Phase di questo turno. Una volta per turno, durante la tua Standby Phase: fai ritornare questa carta nella mano, poi puoi Evocare Specialmente 1 dei tuoi mostri \"Veda\" che è bandito o nella tua mano, Deck o Cimitero.",
+  "pendEffect": "Una volta per Catena, se uno o più mostri vengono distrutti: metti 3 segnalini su questa carta. Il Valore Pendulum di questa carta è aumentato del numero di segnalini su di essa. Puoi rimuovere 12 segnalini da questa carta; Evocala Specialmente.",
+  "pendScale": 0,
+  "level": 12,
+  "atk": 0,
+  "def": 4000,
+  "properties": [
+    "Guerriero",
+    "Pendulum",
+    "Effetto"
+  ]
+}

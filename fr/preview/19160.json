@@ -1,0 +1,15 @@
+{
+  "id": 19160,
+  "type": "monster",
+  "name": "Âme du Vainqueur Jiaolong",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si vous révélez une ou plusieurs cartes dans votre main pour activer une carte ou effet \"Âme du Vainqueur\" (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. (Effet Rapide) : vous pouvez activer 1 de ces effets, en révélant un ou plusieurs monstres dans votre main avec les Attributs listés ;\n●FEU : Changez la position de combat d'1 monstre sur le Terrain.\n●2 FEU : Ajoutez 1 carte \"Âme du Vainqueur\" (\"Âme du Vainqueur Jiaolong\" exclu) depuis votre Deck à votre main.\nVous ne pouvez utiliser chaque effet de \"Âme du Vainqueur Jiaolong\" qu'une fois par tour, et ne pouvez en activer que max. 1 dans la même Chaîne.",
+  "level": 5,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Wyrm",
+    "Effet"
+  ]
+}

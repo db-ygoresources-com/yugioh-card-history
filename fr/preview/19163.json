@@ -1,0 +1,15 @@
+{
+  "id": 19163,
+  "type": "monster",
+  "name": "UFOLumière",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Votre adversaire ne peut pas cibler cette carte sur le Terrain avec des effets de carte, sauf durant la Battle Phase. Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Durant la End Phase : vous pouvez piocher 1 carte, puis vous devez bannir un nombre de votre choix de cartes depuis votre main (min. 1), et si vous le faites, cette carte gagne 500 ATK pour chacune d'elles. Vous ne pouvez utiliser cet effet de \"UFOLumière\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Type Illusion",
+    "Effet"
+  ]
+}

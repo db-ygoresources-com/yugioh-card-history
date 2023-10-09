@@ -1,0 +1,15 @@
+{
+  "id": 19413,
+  "type": "monster",
+  "name": "Actif Mantagne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si votre adversaire contrôle un monstre de max. Niveau 6 : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si vous avez plus de cartes dans votre main que votre adversaire : vous pouvez changer la position de combat de tous les monstres sur le Terrain, tous les autres monstres Insecte sur le Terrain deviennent du même Attribut et Niveau que cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Insecte exclus) le reste de ce tour. Si cette carte est détruite : vous pouvez ajouter 1 monstre Insecte de min. Niveau 8 depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Actif Mantagne\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

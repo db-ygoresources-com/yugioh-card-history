@@ -1,0 +1,15 @@
+{
+  "id": 19152,
+  "type": "monster",
+  "name": "Dragon Flamberge de l'Œil de Serpent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez cibler 1 monstre face recto sur le Terrain ou dans l'un des Cimetières ; placez-le face recto dans la Zone Magie & Piège de son propriétaire comme Magie Continue. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 Carte Monstre traitée comme Magie Continue sur le Terrain ; Invoquez-la Spécialement sur votre Terrain. Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez Invoquer Spécialement 2 monstres FEU de Niveau 1 depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Dragon Flamberge de l'Œil de Serpent\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}
