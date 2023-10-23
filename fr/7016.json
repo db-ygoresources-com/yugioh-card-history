@@ -4,7 +4,7 @@
   "name": "Couper l'Herbe sous le Pied",
   "englishAttribute": "trap",
   "localizedAttribute": "PIÈGE",
-  "effectText": "Annulez l'activation et l'effet d'un Monstre à Effet dont l'effet s'est activé lorsqu'un monstre a été Invoqué Normalement (y compris lui-même) et détruisez ce Monstre à Effet.",
+  "effectText": "Lorsqu'un effet de monstre est activé qui s'active lorsqu'un monstre est Invoqué Normalement : annulez l'activation, et si vous le faites, détruisez le monstre.",
   "englishProperty": "counter",
   "localizedProperty": "Contre"
 }
