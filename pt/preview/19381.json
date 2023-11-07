@@ -1,0 +1,18 @@
+{
+  "id": 19381,
+  "type": "monster",
+  "name": "Angello Vaalmônica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card estiver na sua mão: você pode descartar 1 outro card; pegue 1 \"Dimonno Vaalmônica\" do seu Deck e coloque este card e esse card nas suas Zonas de Pêndulo. Durante sua Fase Principal, se este card foi Invocado por Invocação-Normal ou Especial neste turno: você pode banir 1 Magia/Armadilha Normal \"Vaalmônica\" do seu Cemitério; aplique qualquer efeito nesse card que inclua ganhar PV. Você só pode usar cada efeito de \"Angello Vaalmônica\" uma vez por turno.",
+  "pendEffect": "Sempre que você ganhar PV enquanto você controlar um Card de Monstro Demônio na sua outra Zona de Pêndulo, coloque 1 Marcador de Ressonância neste card. Uma vez por turno, quando um monstro do oponente declarar um ataque, você pode: imediatamente depois que este efeito resolver, Invocar por Invocação-Link 1 Monstro Link \"Vaalmônica\".",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

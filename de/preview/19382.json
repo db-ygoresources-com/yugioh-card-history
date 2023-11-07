@@ -1,0 +1,18 @@
+{
+  "id": 19382,
+  "type": "monster",
+  "name": "Dimonno-Vaalmonika",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 andere Karte abwerfen; nimm 1 „Engello-Vaalmonika“ von deinem Deck und lege diese Karte und jene Karte in deine Pendelzonen. Während deiner Main Phase, falls diese Karte in diesem Spielzug als Normal- oder Spezialbeschwörung beschworen wurde: Du kannst 1 Normale/n „Vaalmonika“-Zauber/Falle von deinem Friedhof verbannen; führe einen Effekt auf jener Karte aus, der das Erhalten von Schaden enthält. Du kannst jeden Effekt von „Dimonno-Vaalmonika“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Jedes Mal, dass du Effektschaden erhältst, solange du eine Fee-Monsterkarte in deiner anderen Pendelzone kontrollierst, lege 1 Resonanz-Zählmarke auf diese Karte. Monster, die dein Gegner kontrolliert, verlieren für jede Resonanz-Zählmarke auf deiner Spielfeldseite 100 ATK.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

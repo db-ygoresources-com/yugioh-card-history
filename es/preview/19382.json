@@ -1,0 +1,18 @@
+{
+  "id": 19382,
+  "type": "monster",
+  "name": "Dimonno de la Vaalmónica",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta está en tu mano: puedes descartar otra carta; toma 1 \"Angello de la Vaalmónica\" en tu Deck, y pon esta carta y esa carta en tus Zonas de Péndulo. Durante tu Main Phase, si esta carta fue Invocada de Modo Normal o Especial este turno: puedes desterrar 1 Mágica/Trampa Normal \"Vaalmónica\" en tu Cementerio; aplica cualquier efecto de esa carta que incluya recibir daño. Sólo puedes usar cada efecto de \"Dimonno de la Vaalmónica\" una vez por turno.",
+  "pendEffect": "Cada vez que recibas daño de efecto mientras controles una Carta de Monstruo Hada en tu otra Zona de Péndulo, pon 1 Contador de Resonancia en esta carta. Los monstruos que controle tu adversario pierden 100 ATK por cada Contador de Resonancia en tu Campo.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

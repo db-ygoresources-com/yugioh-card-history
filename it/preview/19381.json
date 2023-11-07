@@ -1,0 +1,18 @@
+{
+  "id": 19381,
+  "type": "monster",
+  "name": "Angello Vaalmonica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta è nella tua mano: puoi scartare 1 altra carta; prendi 1 \"Dimonno Vaalmonica\" dal tuo Deck, e metti questa carta e quella carta nelle tue Zone Pendulum. Durante la tua Main Phase, se questa carta è stata Evocata Normalmente o Specialmente in questo turno: puoi bandire 1 Magia/Trappola Normale \"Vaalmonica\" dal tuo Cimitero; applica qualsiasi effetto di quella carta che include guadagnare LP. Puoi utilizzare ogni effetto di \"Angello Vaalmonica\" una sola volta per turno.",
+  "pendEffect": "Ogni volta che guadagni LP mentre controlli una Carta Mostro Demone nella tua altra Zona Pendulum, metti 1 Segnalino Risonanza su questa carta. Una volta per turno, quando un mostro dell'avversario dichiara un attacco, puoi: immediatamente dopo che questo effetto si è risolto, Evoca Link 1 Mostro Link \"Vaalmonica\".",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

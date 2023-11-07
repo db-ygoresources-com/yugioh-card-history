@@ -1,0 +1,18 @@
+{
+  "id": 19384,
+  "type": "monster",
+  "name": "Zebufera, Païen Saint Vaalmonicain",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Monstre à Effet\nNon Invocable par Lien sauf si vous avez min. 3 Compteurs Résonance sur une ou plusieurs Cartes Monstre Démon dans vos Zones Pendule. Vous ne pouvez Invoquer Spécialement \"Zebufera, Païen Saint Vaalmonicain\" qu'une fois par tour. Si une ou plusieurs cartes que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez retirer 3 Compteurs Résonance depuis votre Zone Pendule à la place. Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez cibler 1 de vos Magies Normales/Pièges Normaux \"Vaalmonica\" qui est banni ou dans votre Cimetière ; appliquez l'effet d'activation de la carte.",
+  "linkRating": 1,
+  "linkArrows": [
+    "3"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

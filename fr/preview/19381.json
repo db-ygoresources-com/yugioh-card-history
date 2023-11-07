@@ -1,0 +1,18 @@
+{
+  "id": 19381,
+  "type": "monster",
+  "name": "Angello Vaalmonica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est dans votre main : vous pouvez défausser 1 autre carte ; prenez 1 \"Dimonno Vaalmonica\" depuis votre Deck, et placez cette carte et la carte dans vos Zones Pendule. Durant votre Main Phase, si cette carte a été Invoquée Normalement ou Spécialement ce tour : vous pouvez bannir 1 Magie Normale/Piège Normal \"Vaalmonica\" depuis votre Cimetière ; appliquez un effet de la carte qui inclut un gain de LP. Vous ne pouvez utiliser chaque effet de \"Angello Vaalmonica\" qu'une fois par tour.",
+  "pendEffect": "Chaque fois que vous gagnez des LP tant que vous contrôlez une Carte Monstre Démon dans votre autre Zone Pendule, placez 1 Compteur Résonance sur cette carte. Une fois par tour, lorsqu'un monstre de l'adversaire déclare une attaque, vous pouvez : immédiatement après la résolution de cet effet, Invoquez par Lien 1 Monstre Lien \"Vaalmonica\".",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

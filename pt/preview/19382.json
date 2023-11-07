@@ -1,0 +1,18 @@
+{
+  "id": 19382,
+  "type": "monster",
+  "name": "Dimonno Vaalmônica",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card estiver na sua mão: você pode descartar 1 outro card; pegue 1 \"Angello Vaalmônica\" do seu Deck e coloque este card e esse card nas suas Zonas de Pêndulo. Durante sua Fase Principal, se este card foi Invocado por Invocação-Normal ou Especial neste turno: você pode banir 1 Magia/Armadilha Normal \"Vaalmônica\" do seu Cemitério; aplique qualquer efeito nesse card que inclua sofrer dano. Você só pode usar cada efeito de \"Dimonno Vaalmônica\" uma vez por turno.",
+  "pendEffect": "Sempre que você sofrer dano de efeito enquanto você controlar um Card de Monstro Fada na sua outra Zona de Pêndulo, coloque 1 Marcador de Ressonância neste card. Monstros que seu oponente controla perdem 100 de ATK para cada Marcador de Ressonância no seu campo.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

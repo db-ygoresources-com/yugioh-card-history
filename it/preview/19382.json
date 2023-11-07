@@ -1,0 +1,18 @@
+{
+  "id": 19382,
+  "type": "monster",
+  "name": "Dimonno Vaalmonica",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta è nella tua mano: puoi scartare 1 altra carta; prendi 1 \"Angello Vaalmonica\" dal tuo Deck, e metti questa carta e quella carta nelle tue Zone Pendulum. Durante la tua Main Phase, se questa carta è stata Evocata Normalmente o Specialmente in questo turno: puoi bandire 1 Magia/Trappola Normale \"Vaalmonica\" dal tuo Cimitero; applica qualsiasi effetto di quella carta che include subire danno. Puoi utilizzare ogni effetto di \"Dimonno Vaalmonica\" una sola volta per turno.",
+  "pendEffect": "Ogni volta che subisci danno da effetto mentre controlli una Carta Mostro Fata nella tua altra Zona Pendulum, metti 1 Segnalino Risonanza su questa carta. I mostri controllati dal tuo avversario perdono 100 ATK per ogni Segnalino Risonanza sul tuo Terreno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

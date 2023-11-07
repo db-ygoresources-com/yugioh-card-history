@@ -1,0 +1,18 @@
+{
+  "id": 19381,
+  "type": "monster",
+  "name": "Engello-Vaalmonika",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 andere Karte abwerfen; nimm 1 „Dimonno-Vaalmonika“ von deinem Deck und lege diese Karte und jene Karte in deine Pendelzonen. Während deiner Main Phase, falls diese Karte in diesem Spielzug als Normal- oder Spezialbeschwörung beschworen wurde: Du kannst 1 Normale/n „Vaalmonika“-Zauber/Falle von deinem Friedhof verbannen; führe einen Effekt auf jener Karte aus, der das Erhalten von LP enthält. Du kannst jeden Effekt von „Engello-Vaalmonika“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Jedes Mal, dass du LP erhältst, solange du eine Unterweltler-Monsterkarte in deiner anderen Pendelzone kontrollierst, lege 1 Resonanz-Zählmarke auf diese Karte. Einmal pro Spielzug, wenn ein Monster eines Gegners einen Angriff deklariert, kannst du: Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 „Vaalmonika“-Linkmonster als Linkbeschwörung.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

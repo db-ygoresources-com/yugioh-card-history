@@ -1,0 +1,18 @@
+{
+  "id": 19381,
+  "type": "monster",
+  "name": "Angello de la Vaalmónica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta está en tu mano: puedes descartar otra carta; toma 1 \"Dimonno de la Vaalmónica\" en tu Deck, y pon esta carta y esa carta en tus Zonas de Péndulo. Durante tu Main Phase, si esta carta fue Invocada de Modo Normal o Especial este turno: puedes desterrar 1 Mágica/Trampa Normal \"Vaalmónica\" en tu Cementerio; aplica cualquier efecto de esa carta que incluya ganar LP. Sólo puedes usar cada efecto de \"Angello de la Vaalmónica\" una vez por turno.",
+  "pendEffect": "Cada vez que ganes LP mientras controles una Carta de Monstruo Demonio en tu otra Zona de Péndulo, pon 1 Contador de Resonancia en esta carta. Una vez por turno, cuando un monstruo del adversario declara un ataque, puedes: inmediatamente después de que se resuelva este efecto, Invocar por Enlace 1 Monstruo de Enlace \"Vaalmónica\".",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

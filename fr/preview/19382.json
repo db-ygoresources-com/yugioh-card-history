@@ -1,0 +1,18 @@
+{
+  "id": 19382,
+  "type": "monster",
+  "name": "Dimonno Vaalmonica",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est dans votre main : vous pouvez défausser 1 autre carte ; prenez 1 \"Angello Vaalmonica\" depuis votre Deck, et placez cette carte et la carte dans vos Zones Pendule. Durant votre Main Phase, si cette carte a été Invoquée Normalement ou Spécialement ce tour : vous pouvez bannir 1 Magie Normale/Piège Normal \"Vaalmonica\" depuis votre Cimetière ; appliquez un effet de la carte qui inclut une prise de dommages. Vous ne pouvez utiliser chaque effet de \"Dimonno Vaalmonica\" qu'une fois par tour.",
+  "pendEffect": "Chaque fois que vous recevez des dommages d'effet tant que vous contrôlez une Carte Monstre Elfe dans votre autre Zone Pendule, placez 1 Compteur Résonance sur cette carte. Les monstres contrôlés par votre adversaire perdent 100 ATK pour chaque Compteur Résonance sur votre Terrain.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}
