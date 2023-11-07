@@ -1,0 +1,16 @@
+{
+  "id": 6325,
+  "type": "monster",
+  "name": "Dummy Golem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Your opponent selects 1 monster they control. Switch control of the selected monster and this card.",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}

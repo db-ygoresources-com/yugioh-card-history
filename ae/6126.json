@@ -1,0 +1,16 @@
+{
+  "id": 6126,
+  "type": "monster",
+  "name": "Ojama King",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nChoose up to 3 of your opponent's unused Monster Zones. Those zones cannot be used.",
+  "level": 6,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Beast",
+    "Fusion",
+    "Effect"
+  ]
+}

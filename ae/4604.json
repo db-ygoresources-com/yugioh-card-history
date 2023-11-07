@@ -1,0 +1,15 @@
+{
+  "id": 4604,
+  "type": "monster",
+  "name": "Little Chimera",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.",
+  "level": 2,
+  "atk": 600,
+  "def": 550,
+  "properties": [
+    "Beast",
+    "Effect"
+  ]
+}

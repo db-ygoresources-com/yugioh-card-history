@@ -1,0 +1,15 @@
+{
+  "id": 4008,
+  "type": "monster",
+  "name": "Mystical Elf",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",
+  "level": 4,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Normal"
+  ]
+}

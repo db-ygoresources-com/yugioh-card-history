@@ -1,0 +1,15 @@
+{
+  "id": 6241,
+  "type": "monster",
+  "name": "Element Doom",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\n●EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.\n●WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

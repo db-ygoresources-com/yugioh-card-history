@@ -1,0 +1,15 @@
+{
+  "id": 6589,
+  "type": "monster",
+  "name": "Adhesive Explosive",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Before damage calculation, if this card was attacked by an opponent's monster and was in face-down Defense Position at the start of the Damage Step: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase, destroy the monster this card is equipped to.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

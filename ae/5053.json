@@ -1,0 +1,16 @@
+{
+  "id": 5053,
+  "type": "monster",
+  "name": "Sonic Jammer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.",
+  "level": 2,
+  "atk": 350,
+  "def": 650,
+  "properties": [
+    "Machine",
+    "Flip",
+    "Effect"
+  ]
+}

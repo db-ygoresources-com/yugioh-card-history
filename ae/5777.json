@@ -1,0 +1,15 @@
+{
+  "id": 5777,
+  "type": "monster",
+  "name": "Terrorking Archfiend",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal or Flip Summoned unless you control an \"Archfiend\" monster. Once per turn, during your Standby Phase, you must pay 800 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets this card, roll a six-sided die and negate that effect if you roll a 2 or 5, and if you do, destroy that card. Negate the effects of Effect Monsters destroyed by battle with this card (including in the GY).",
+  "level": 4,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

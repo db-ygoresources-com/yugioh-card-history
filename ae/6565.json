@@ -1,0 +1,15 @@
+{
+  "id": 6565,
+  "type": "monster",
+  "name": "Raviel, Lord of Phantasms",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend monsters. Each time your opponent Normal Summons a monster: Special Summon 1 \"Phantasm Token\" (Fiend/DARK/Level 1/ATK 1000/DEF 1000), but it cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the Tributed monster's original ATK, until the end of this turn.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

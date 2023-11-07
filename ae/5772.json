@@ -1,0 +1,15 @@
+{
+  "id": 5772,
+  "type": "monster",
+  "name": "Vilepawn Archfiend",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "Once per turn, during your Standby Phase, you must pay 500 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets this card, roll a six-sided die and negate that effect if you roll a 3, and if you do, destroy that card. Your opponent's monsters cannot attack any \"Archfiend\" monsters you control, except \"Vilepawn Archfiend\".",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

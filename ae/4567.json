@@ -1,0 +1,15 @@
+{
+  "id": 4567,
+  "type": "monster",
+  "name": "Lesser Dragon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "A minor dragon incapable of breathing fire.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Normal"
+  ]
+}

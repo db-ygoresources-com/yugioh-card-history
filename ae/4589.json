@@ -1,0 +1,16 @@
+{
+  "id": 4589,
+  "type": "monster",
+  "name": "Weather Report",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "FLIP: Destroys all opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).",
+  "level": 4,
+  "atk": 950,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effect"
+  ]
+}

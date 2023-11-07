@@ -1,0 +1,15 @@
+{
+  "id": 5773,
+  "type": "monster",
+  "name": "Shadowknight Archfiend",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Once per turn, during your Standby Phase, you must pay 900 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets this card, roll a six-sided die and negate that effect if you roll a 3, and if you do, destroy that card. Any battle damage this card inflicts to your opponent is halved.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

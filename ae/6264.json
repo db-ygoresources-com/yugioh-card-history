@@ -1,0 +1,16 @@
+{
+  "id": 6264,
+  "type": "monster",
+  "name": "Gatling Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "\"Barrel Dragon\" + \"Blowback Dragon\"\nOnce per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4095,
+  "type": "monster",
+  "name": "Catapult Turtle",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "Once per turn: You can Tribute 1 monster; inflict damage to your opponent equal to half the Tributed monster's ATK on the field.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effect"
+  ]
+}

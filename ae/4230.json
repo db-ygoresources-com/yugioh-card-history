@@ -1,0 +1,16 @@
+{
+  "id": 4230,
+  "type": "monster",
+  "name": "Trap Master",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Warrior",
+    "Flip",
+    "Effect"
+  ]
+}

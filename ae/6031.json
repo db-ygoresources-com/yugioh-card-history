@@ -1,0 +1,15 @@
+{
+  "id": 6031,
+  "type": "monster",
+  "name": "Sand Gambler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Toss a coin 3 times. If all 3 results are Heads, destroy all monsters on your opponent's side of the field. If all 3 results are Tails, destroy all monsters on your side of the field. You can only activate this effect once per turn, during your Main Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 1600,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

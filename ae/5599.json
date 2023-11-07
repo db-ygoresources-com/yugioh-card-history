@@ -1,0 +1,15 @@
+{
+  "id": 5599,
+  "type": "monster",
+  "name": "Roulette Barrel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn: You can roll a six-sided die twice, choose 1 result, and destroy 1 monster on the field whose Level is equal to that result.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

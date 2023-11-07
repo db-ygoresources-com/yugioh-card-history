@@ -1,0 +1,16 @@
+{
+  "id": 4108,
+  "type": "monster",
+  "name": "Mask of Darkness",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+  "level": 2,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Fiend",
+    "Flip",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5325,
+  "type": "monster",
+  "name": "Shadow Tamer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "(This card is always treated as an \"Archfiend\" card.)\nFLIP: Target 1 Fiend-Type monster your opponent controls; take control of that target until the End Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Warrior",
+    "Flip",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4617,
+  "type": "monster",
+  "name": "Hiro's Shadow Scout",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Your opponent draws 3 cards. Both players look at the cards. If there are any Spell Cards among them, discard all those Spell Card(s) to the Graveyard.",
+  "level": 2,
+  "atk": 650,
+  "def": 500,
+  "properties": [
+    "Fiend",
+    "Flip",
+    "Effect"
+  ]
+}

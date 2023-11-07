@@ -1,0 +1,15 @@
+{
+  "id": 4148,
+  "type": "monster",
+  "name": "Flame Manipulator",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
+  "level": 3,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Normal"
+  ]
+}

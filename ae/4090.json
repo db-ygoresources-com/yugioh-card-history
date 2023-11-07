@@ -1,0 +1,16 @@
+{
+  "id": 4090,
+  "type": "monster",
+  "name": "Reaper of the Cards",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+  "level": 5,
+  "atk": 1380,
+  "def": 1930,
+  "properties": [
+    "Fiend",
+    "Flip",
+    "Effect"
+  ]
+}

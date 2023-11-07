@@ -1,0 +1,16 @@
+{
+  "id": 4735,
+  "type": "monster",
+  "name": "Toon Summoned Skull",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "(This card is always treated as an \"Archfiend\" card.)\nCannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Fiend",
+    "Toon",
+    "Effect"
+  ]
+}

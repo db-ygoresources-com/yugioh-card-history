@@ -1,0 +1,15 @@
+{
+  "id": 5819,
+  "type": "monster",
+  "name": "Spirit of the Pot of Greed",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If a player activates \"Pot of Greed\": Activate this effect; they can draw 1 card. This card must be in face-up Attack Position to activate and to resolve this effect.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Fairy",
+    "Effect"
+  ]
+}
