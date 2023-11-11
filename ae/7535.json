@@ -1,0 +1,16 @@
+{
+  "id": 7535,
+  "type": "monster",
+  "name": "Flamvell Guard",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+  "level": 1,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Tuner",
+    "Normal"
+  ]
+}
