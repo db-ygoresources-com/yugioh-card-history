@@ -1,0 +1,18 @@
+{
+  "id": 17349,
+  "type": "monster",
+  "name": "Nazuki the Vaylantz Ninja",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "You can target 1 other monster in either Main Monster Zone; move that monster to an adjacent (horizontal) Monster Zone. If this card in the Monster Zone moves to another Monster Zone: You can target 1 \"Vaylantz\" Monster Card in your Spell & Trap Zone; Special Summon it to your Main Monster Zone in its same column. You can only use each effect of \"Nazuki the Vaylantz Ninja\" once per turn.",
+  "pendEffect": "If \"Vaylantz World - Shinra Bansho\" is in a Field Zone or if you control a WATER \"Vaylantz\" monster: You can Special Summon this card to your Main Monster Zone in its same column. You can only use this effect of \"Nazuki the Vaylantz Ninja\" once per turn.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

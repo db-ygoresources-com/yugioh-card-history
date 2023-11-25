@@ -1,0 +1,19 @@
+{
+  "id": 17355,
+  "type": "monster",
+  "name": "Mamonaka the Vaylantz United",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "3 \"Vaylantz\" monsters\nDuring the Main Phase (Quick Effect): You can target 1 Effect Monster in your opponent's Main Monster Zone; place that opponent's monster face-up as a Continuous Spell in their Spell & Trap Zone in its same column. (If the zone is occupied, destroy the occupying card, and if it is a Monster Card, your opponent loses LP equal to its ATK). You can only use this effect of \"Mamonaka the Vaylantz United\" once per turn. If this Special Summoned card you control is destroyed by your opponent's card effect: You can place this card in your Pendulum Zone.",
+  "pendEffect": "You can activate 1 of these effects;\n●Special Summon this card to your Main Monster Zone in its same column.\n●Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\nYou can only use this effect of \"Mamonaka the Vaylantz United\" once per turn.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Spellcaster",
+    "Fusion",
+    "Pendulum",
+    "Effect"
+  ]
+}

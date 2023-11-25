@@ -1,0 +1,18 @@
+{
+  "id": 17350,
+  "type": "monster",
+  "name": "Hojo the Vaylantz Warrior",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "You can target 1 face-up card in either Spell & Trap Zone; return it to the hand. If this card in the Monster Zone moves to another Monster Zone (except during the Damage Step): You can Fusion Summon 1 \"Vaylantz\" Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones. You can only use each effect of \"Hojo the Vaylantz Warrior\" once per turn.",
+  "pendEffect": "If \"Vaylantz World - Shinra Bansho\" is in a Field Zone or if you control a WATER \"Vaylantz\" monster: You can Special Summon this card to your Main Monster Zone in its same column. You can only use this effect of \"Hojo the Vaylantz Warrior\" once per turn.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1900,
+  "def": 1900,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}
