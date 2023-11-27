@@ -4,7 +4,7 @@
   "name": "Pierre d'Absorption de Puissance",
   "englishAttribute": "trap",
   "localizedAttribute": "PIÈGE",
-  "effectText": "Chaque fois qu'un effet de monstre est activé, placez 1 Compteur Pierre Magique sur cette carte (max. 2). Tant que cette carte a 2 Compteurs Pierre Magique, tous les monstres face recto sur le Terrain ne peuvent pas activer leurs effets, et leurs effets sont annulés. Durant la End Phase, retirez tous les Compteurs Pierre Magique sur cette carte.",
+  "effectText": "Chaque fois qu'un effet de monstre est activé, placez 1 Compteur Pierre Magique sur cette carte (max. 2). Tant que cette carte a 2 Compteurs Pierre Magique, aucun joueur ne peut activer les effets des monstres face recto sur le Terrain, et aussi, les effets des monstres face recto sur le Terrain sont annulés. Une fois par tour, durant la End Phase, si cette carte a des Compteurs Pierre Magique : retirez-les.",
   "englishProperty": "continuous",
   "localizedProperty": "Continu"
 }
