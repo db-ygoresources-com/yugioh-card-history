@@ -1,0 +1,16 @@
+{
+  "id": 19403,
+  "type": "monster",
+  "name": "Éternité Garunix, Hyang des Rois du Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2+ monstres de Niveau 8\nSi cette carte est Invoquée par Xyz : vous pouvez détruire tous les autres monstres sur le Terrain. Vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 Magie/Piège sur le Terrain ; détruisez-le, et si vous le faites, cette carte gagne 500 ATK. Si cette carte est détruite tant qu'elle a du Matériel : vous pouvez Invoquer Spécialement un nombre de monstres \"Roi du Feu\" ou \"Rois du Feu\" depuis votre Cimetière, inférieur ou égal au nombre de Matériels que cette carte avait. Vous ne pouvez utiliser chaque effet de \"Éternité Garunix, Hyang des Rois du Feu\" qu'une fois par tour.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Pyro",
+    "Xyz",
+    "Effet"
+  ]
+}
