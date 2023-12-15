@@ -1,0 +1,16 @@
+{
+  "id": 8006,
+  "type": "monster",
+  "name": "Hyper Synchron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is sent to the Graveyard for the Synchro Summon of a Dragon-Type monster: That monster gains 800 ATK, also banish that face-up monster during the End Phase.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Tuner",
+    "Effect"
+  ]
+}

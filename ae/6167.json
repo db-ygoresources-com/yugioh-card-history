@@ -1,0 +1,15 @@
+{
+  "id": 6167,
+  "type": "monster",
+  "name": "Silent Magician LV4",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}
