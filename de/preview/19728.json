@@ -1,0 +1,16 @@
+{
+  "id": 19728,
+  "type": "monster",
+  "name": "Kampfflammen-Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Drache-Monster + 1 FEUER Krieger-Monster\nAußer während des Damage Steps (Schnelleffekt): Du kannst 1 Krieger-Fusionsmonster wählen, das du kontrollierst; rüste jenes Monster, das du kontrollierst, mit dieser Karte von deiner Spielfeldseite oder deinem Friedhof als Ausrüstungszauber aus. Du kannst diesen Effekt von „Kampfflammen-Drache“ nur einmal pro Spielzug verwenden. Solange diese Karte „Flammen-Schwertkämpfer“ oder ein Monster, das ihn erwähnt, ausrüstet, erhält das ausgerüstete Monster 700 ATK und kann während jeder Battle Phase einen zweiten Angriff durchführen.",
+  "level": 5,
+  "atk": 1700,
+  "def": 1600,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}
