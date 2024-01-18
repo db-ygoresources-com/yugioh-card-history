@@ -1,0 +1,16 @@
+{
+  "id": 19028,
+  "type": "monster",
+  "name": "Roda de Combate",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nNa primeira vez que este card seria destruído por um efeito de card do oponente a cada turno, ele não é destruído. Uma vez por turno, durante a Fase de Batalha do seu oponente (Efeito Rápido): você pode descartar 1 card; este card ganha ATK igual à metade da soma do ATK de todos os outros monstros que você controla atualmente e, depois, coloque 1 marcador neste card e, além disso, pelo resto deste turno, os monstros do seu oponente não podem escolher monstros como alvo de ataques, exceto este. Se este card com um marcador for destruído em batalha: destrua todos os monstros que você controla.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Sincro",
+    "Efeito"
+  ]
+}

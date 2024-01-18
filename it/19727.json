@@ -1,0 +1,16 @@
+{
+  "id": 19727,
+  "type": "monster",
+  "name": "Spadaccino di Fuoco Finale",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "\"Spadaccino di Fuoco\" + \"Drago Fiamma Combattente\"\nPuoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo e, se lo fai, infliggi 500 danni al tuo avversario. Questo è un Effetto Rapido se questa carta è equipaggiata con una Carta Equipaggiamento. All'inizio del Damage Step, se questa carta combatte: puoi raddoppiare l'ATK di questa carta fino alla fine di questo turno, ma, se lo fai, distruggila durante la End Phase di questo turno. Puoi utilizzare ogni effetto di \"Spadaccino di Fuoco Finale\" una sola volta per turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1600,
+  "properties": [
+    "Guerriero",
+    "Fusione",
+    "Effetto"
+  ]
+}

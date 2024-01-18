@@ -1,0 +1,16 @@
+{
+  "id": 19028,
+  "type": "monster",
+  "name": "Rueda de Combate",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nLa primera vez que esta carta fuera a ser destruida por el efecto de una carta del adversario cada turno, no es destruida. Una vez por turno, durante la Battle Phase de tu adversario (Efecto Rápido): puedes descartar 1 carta; esta carta gana ATK igual a la mitad del ATK total de todos los demás monstruos que controlas en este momento, y después pon 1 contador en esta carta y además, por el resto de este turno, los monstruos de tu adversario no pueden seleccionar monstruos para ataques, excepto éste. Si esta carta con un contador es destruida en batalla: destruye todos los monstruos que controlas.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

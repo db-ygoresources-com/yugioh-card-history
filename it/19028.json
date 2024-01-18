@@ -1,0 +1,16 @@
+{
+  "id": 19028,
+  "type": "monster",
+  "name": "Ruota da Combattimento",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Tuner + 1+ mostri non-Tuner\nLa prima volta che questa carta sta per essere distrutta dall'effetto di una carta dell'avversario ogni turno, non viene distrutta. Una volta per turno, durante la Battle Phase del tuo avversario (Effetto Rapido): puoi scartare 1 carta; questa carta guadagna ATK pari alla metà della somma degli ATK di tutti gli altri mostri che controlli attualmente, poi metti 1 segnalino su questa carta, inoltre per il resto di questo turno, i mostri del tuo avversario non possono scegliere come bersaglio mostri per gli attacchi, eccetto questo. Se questa carta con un segnalino viene distrutta in battaglia: distruggi tutti i mostri che controlli.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Synchro",
+    "Effetto"
+  ]
+}

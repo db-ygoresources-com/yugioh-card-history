@@ -1,0 +1,16 @@
+{
+  "id": 19727,
+  "type": "monster",
+  "name": "Spadassin des Flammes Ultime",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "\"Spadassin des Flammes\" + \"Dragon des Flammes Combattant\"\nVous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et si vous le faites, infligez 500 points de dommages à votre adversaire. Ceci est un Effet Rapide si cette carte est équipée avec une Carte d'Équipement. Au début de la Damage Step, si cette carte combat : vous pouvez doubler l'ATK de cette carte jusqu'à la fin de ce tour, mais si vous le faites, détruisez-la durant la End Phase de ce tour. Vous ne pouvez utiliser chaque effet de \"Spadassin des Flammes Ultime\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1600,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

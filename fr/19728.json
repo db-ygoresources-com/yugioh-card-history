@@ -1,0 +1,16 @@
+{
+  "id": 19728,
+  "type": "monster",
+  "name": "Dragon des Flammes Combattant",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 monstre Dragon + 1 monstre FEU Guerrier\nSauf durant la Damage Step (Effet Rapide) : vous pouvez cibler 1 Monstre Fusion Guerrier que vous contrôlez ; équipez cette carte depuis votre Terrain ou Cimetière au monstre que vous contrôlez comme Magie d'Équipement. Vous ne pouvez utiliser cet effet de \"Dragon des Flammes Combattant\" qu'une fois par tour. Tant que cette carte est équipée à \"Spadassin des Flammes\" ou un monstre qui le mentionne, le monstre équipé gagne 700 ATK et peut faire une seconde attaque durant chaque Battle Phase.",
+  "level": 5,
+  "atk": 1700,
+  "def": 1600,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

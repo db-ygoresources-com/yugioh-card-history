@@ -1,0 +1,16 @@
+{
+  "id": 19727,
+  "type": "monster",
+  "name": "Espadachín de la Llama Definitivo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "\"Espadachín de la Llama\" + \"Dragón de la Llama de Lucha\"\nPuedes seleccionar 1 monstruo que controle tu adversario; destrúyelo y, si lo haces, inflige 500 puntos de daño a tu adversario. Esto es un Efecto Rápido si esta carta está equipada con una Carta de Equipo. Al comienzo del Damage Step, si esta carta batalla: puedes duplicar el ATK de esta carta hasta el final de este turno pero, si lo haces, destrúyela durante la End Phase de este turno. Sólo puedes usar cada efecto de \"Espadachín de la Llama Definitivo\" una vez por turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

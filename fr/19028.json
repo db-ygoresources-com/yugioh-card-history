@@ -1,0 +1,16 @@
+{
+  "id": 19028,
+  "type": "monster",
+  "name": "Roue de Combat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nLa première fois que cette carte va être détruite par un effet de carte de l'adversaire chaque tour, elle n'est pas détruite. Une fois par tour, durant la Battle Phase de votre adversaire (Effet Rapide) : vous pouvez défausser 1 carte ; cette carte gagne une ATK égale à la moitié de la somme des ATK de tous les autres monstres que vous contrôlez actuellement, puis placez 1 Compteur sur cette carte, et aussi, le reste de ce tour, les monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Si cette carte avec un Compteur est détruite au combat : détruisez tous les monstres que vous contrôlez.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Effet"
+  ]
+}
