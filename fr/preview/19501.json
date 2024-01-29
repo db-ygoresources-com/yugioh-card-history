@@ -1,0 +1,16 @@
+{
+  "id": 19501,
+  "type": "monster",
+  "name": "Raidraptor - Strix Courageuse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 5\nUn Monstre Xyz \"Raidraptor\" qui a cette carte comme Matériel gagne cet effet.\n●Cette carte gagne une ATK égale à son Rang x 100.\nVous ne pouvez utiliser qu'1 des effets suivants de \"Raidraptor - Strix Courageuse\" par tour, et uniquement une fois le tour. Vous pouvez détacher 1 Matériel de cette carte ; Posez 1 Magie/Piège \"Raidraptor\" depuis votre Deck. Si cette carte a un monstre Bête Ailée comme Matériel : vous pouvez détacher 1 Matériel de cette carte ; ajoutez 1 Magie \"Magie-Rang-Plus\" depuis votre Deck à votre main.",
+  "rank": 5,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Bête Ailée",
+    "Xyz",
+    "Effet"
+  ]
+}

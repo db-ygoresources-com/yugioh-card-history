@@ -1,0 +1,16 @@
+{
+  "id": 19493,
+  "type": "monster",
+  "name": "Yubel - El Eterno Defensor Amoroso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Yubel\" + 1+ Monstruos de Efecto en el Campo\nSi esta carta es Invocada por Fusión: puedes infligir 500 puntos de daño a tu adversario por cada material usado. Sólo puedes usar este efecto de \"Yubel - El Eterno Defensor Amoroso\" una vez por turno. No puede ser destruido en batalla o por efectos de cartas, y además no recibes daño de batalla de batallas que involucren esta carta. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: inflige daño a tu adversario igual al ATK de ese monstruo del adversario y, si lo haces, destierra ese monstruo.",
+  "level": 12,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

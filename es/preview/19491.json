@@ -1,0 +1,15 @@
+{
+  "id": 19491,
+  "type": "monster",
+  "name": "Rino Real con Dados Engañosos",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, cuando es activada una carta o efecto, incluso durante el Damage Step (Efecto Rápido): puedes lanzar un dado de seis caras, y después aplica el efecto apropiado, dependiendo del número de Eslabón de Cadena de este efecto.\n●2: Esta carta gana ATK igual al resultado x 500 hasta el final de este turno.\n●3: Inflige daño a tu adversario igual al resultado x 500.\n●4+: Destruye cartas en el Campo hasta el número del resultado.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

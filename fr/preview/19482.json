@@ -1,0 +1,15 @@
+{
+  "id": 19482,
+  "type": "monster",
+  "name": "Rechargeur de Temps",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Durant la Main Phase, si un monstre sur le Terrain est retourné face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis changez 1 monstre face recto sur le Terrain en Position de Défense face verso. Durant la Main Phase, si cette carte est retournée face recto : vous pouvez cibler 1 monstre dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, puis changez 1 monstre face recto sur le Terrain en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Rechargeur de Temps\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

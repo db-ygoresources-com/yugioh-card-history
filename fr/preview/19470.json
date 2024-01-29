@@ -1,0 +1,15 @@
+{
+  "id": 19470,
+  "type": "monster",
+  "name": "Keaf, Obscurité du Ghoti",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un monstre Poisson est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres et 1 de vos monstres Poisson de max. Niveau 6 bannis ; bannissez le monstre de l'adversaire ainsi que cette carte, et si vous le faites, Invoquez Spécialement votre monstre ciblé. Durant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez Invoquer Spécialement cette carte bannie. Vous ne pouvez utiliser chaque effet de \"Keaf, Obscurité du Ghoti\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

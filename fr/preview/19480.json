@@ -1,0 +1,15 @@
+{
+  "id": 19480,
+  "type": "monster",
+  "name": "Carnot la Machine Éternelle",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main ou Cimetière) durant un Duel dans lequel votre adversaire a activé un effet de monstre dans sa main ou Cimetière. Vous ne pouvez Invoquer Spécialement \"Carnot la Machine Éternelle\" qu'une fois par tour. Une fois par tour, si votre adversaire active un effet de monstre (sauf durant la Damage Step) : vous pouvez faire gagner 1000 ATK à cette carte. Si cette carte est envoyée au Cimetière, sauf depuis la main ou Deck : mélangez cette carte dans le Deck.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19486,
+  "type": "monster",
+  "name": "Procesión del Tarro de Té",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Los monstruos en Posición de Defensa boca abajo en la columna de esta carta no pueden cambiar sus posiciones de batalla, y además ningún jugador puede activar las cartas Colocadas en las Zonas de Magia y Trampas en la columna de esta carta. Sólo puedes usar cada uno de los siguientes efectos de \"Procesión del Tarro de Té\" una vez por turno. Durante tu Main Phase: puedes mover esta carta a una Zona de Monstruos Principal adyacente sin usar. Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: cambia todos los demás monstruos en la columna actual de esta carta a Posición de Defensa boca abajo.",
+  "level": 3,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Cantante",
+    "Efecto"
+  ]
+}

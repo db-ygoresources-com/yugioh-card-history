@@ -1,0 +1,15 @@
+{
+  "id": 19480,
+  "type": "monster",
+  "name": "Carnot la Macchina Eterna",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano o Cimitero) durante un Duello in cui il tuo avversario ha attivato l'effetto di un mostro nella sua mano o Cimitero. Puoi Evocare Specialmente \"Carnot la Macchina Eterna\" una sola volta per turno. Una volta per turno, se il tuo avversario attiva l'effetto di un mostro (eccetto durante il Damage Step): puoi far guadagnare a questa carta 1000 ATK. Se questa carta viene mandata al Cimitero, eccetto dalla mano o Deck: mischia questa carta nel Deck.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

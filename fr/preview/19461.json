@@ -1,0 +1,15 @@
+{
+  "id": 19461,
+  "type": "monster",
+  "name": "Poisson-Lune Blanc",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est dans votre main : vous pouvez cibler 1 monstre Poisson de max. Niveau 4 dans votre Cimetière du même nom qu'une carte que vous contrôlez ; Invoquez Spécialement cette carte, et si vous le faites, Invoquez Spécialement le monstre. Vous ne pouvez utiliser cet effet de \"Poisson-Lune Blanc\" qu'une fois par tour. Si cette carte est Invoquée Spécialement depuis le Cimetière : ce tour, vous pouvez la traiter comme Syntoniseur.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19493,
+  "type": "monster",
+  "name": "Yubel - Le Protecteur Affectueux Éternel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Yubel\" + 1+ Monstre à Effet sur le Terrain\nSi cette carte est Invoquée par Fusion : vous pouvez infliger 500 points de dommages à votre adversaire pour chaque Matériel utilisé. Vous ne pouvez utiliser cet effet de \"Yubel - Le Protecteur Affectueux Éternel\" qu'une fois par tour. Non destructible ni au combat ni par des effets de carte, et aussi, vous ne recevez aucun dommage de combat de combats impliquant cette carte. À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : infligez des dommages à votre adversaire égaux à l'ATK du monstre de l'adversaire, et si vous le faites, bannissez le monstre.",
+  "level": 12,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

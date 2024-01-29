@@ -1,0 +1,15 @@
+{
+  "id": 19457,
+  "type": "monster",
+  "name": "Gólem Triturador Geist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Sólo puedes Invocar de Modo Especial \"Gólem Triturador Geist\" una vez por turno. Puedes mostrar 1 monstruo \"Yubel\" en tu mano; Invoca esta carta de Modo Especial desde tu mano al Campo de tu adversario, y después puedes Invocar de Modo Especial a tu Campo el monstruo mostrado. Una vez por turno, durante el cálculo de daño, si esta carta batalla con un monstruo \"Yubel\": tu adversario gana 3000 LP. Si Invocas de Modo Especial \"Yubel\" mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial al Campo de tu adversario.",
+  "level": 8,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

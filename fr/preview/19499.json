@@ -1,0 +1,17 @@
+{
+  "id": 19499,
+  "type": "monster",
+  "name": "Poisson-Lampe",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez Invoquer Spécialement 2 \"Jeton Lampe\" (Poisson/FEU/Niveau 2/ATK 0/DEF 0), et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Poisson exclus) depuis l'Extra Deck le reste de ce tour. Si vous contrôlez un Monstre Synchro Poisson : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte sur le Terrain ; détruisez-la. Vous ne pouvez utiliser chaque effet de \"Poisson-Lampe\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Poisson",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

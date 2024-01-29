@@ -1,0 +1,16 @@
+{
+  "id": 19492,
+  "type": "monster",
+  "name": "Gardien du Crâne, Protecteur de la Sans Voix",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Prières de la Sans Voix\". Gagne 2050 ATK tant que vous avez \"Lo, les Prières de la Sans Voix\" sur votre Terrain ou dans votre Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Gardien du Crâne, Protecteur de la Sans Voix\" qu'une fois par tour. Si cette carte est Invoquée Rituellement : vous pouvez ajouter 1 monstre \"Sans Voix\" ou 1 Monstre Rituel (Guerrier ou Dragon) depuis votre Deck à votre main. Lorsque votre adversaire active une carte ou un effet tant que vous contrôlez \"Lo, les Prières de la Sans Voix\" (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte.",
+  "level": 7,
+  "atk": 2050,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Rituel",
+    "Effet"
+  ]
+}

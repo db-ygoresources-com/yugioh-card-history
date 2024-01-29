@@ -1,0 +1,16 @@
+{
+  "id": 19494,
+  "type": "monster",
+  "name": "Arobruliz Magnolia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Arobru\" + 1 monstruo Planta\nMientras tus LP sean mayores que los de tu adversario, los monstruos Planta que controles no pueden ser destruidos por efectos de cartas de tu adversario. Una vez por turno: puedes pagar 2000 LP; destierra cartas en el Campo igual al número de \"Vientos Húmedos\", \"Vientos Secos\" y \"Vientos Bendecidos\" que controles. Una vez por turno, si ganas LP, incluso durante el Damage Step: puedes hacer que todos los monstruos Planta que controlas en este momento ganen ATK igual a los LP ganados, hasta el final de este turno.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Planta",
+    "Fusión",
+    "Efecto"
+  ]
+}

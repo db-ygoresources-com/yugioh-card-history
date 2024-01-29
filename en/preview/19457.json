@@ -1,0 +1,15 @@
+{
+  "id": 19457,
+  "type": "monster",
+  "name": "Geistgrinder Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You can only Special Summon \"Geistgrinder Golem\" once per turn. You can reveal 1 \"Yubel\" monster in your hand; Special Summon this card from your hand to your opponent's field, then you can Special Summon the revealed monster to your field. Once per turn, during damage calculation, if this card battles a \"Yubel\" monster: Your opponent gains 3000 LP. If you Special Summon \"Yubel\" while this card is in your GY (except during the Damage Step): You can Special Summon this card to your opponent's field.",
+  "level": 8,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

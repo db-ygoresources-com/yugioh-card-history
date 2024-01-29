@@ -1,0 +1,15 @@
+{
+  "id": 19485,
+  "type": "monster",
+  "name": "Unité Gobeline de Chute Libre",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est Invoquée Spécialement depuis la main en Position d'Attaque : vous pouvez cibler 1 Monstre à Effet face recto contrôlé par votre adversaire ; changez cette carte en Position de Défense, et aussi, annulez les effets du monstre tant que ce monstre est en Position de Défense face recto. Si un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez défausser 1 carte ; ajoutez cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Unité Gobeline de Chute Libre\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

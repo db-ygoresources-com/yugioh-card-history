@@ -1,0 +1,15 @@
+{
+  "id": 19480,
+  "type": "monster",
+  "name": "Carnot, a Máquina Eterna",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão ou do Cemitério) durante um Duelo no qual seu oponente tenha ativado um efeito de monstro na mão ou no Cemitério dele. Você só pode Invocar \"Carnot, a Máquina Eterna\" por Invocação-Especial uma vez por turno. Uma vez por turno, se seu oponente ativar um efeito de monstro (exceto durante a Etapa de Dano): você pode fazer com que este card ganhe 1000 de ATK. Se este card for enviado para o Cemitério, exceto da mão ou do Deck: embaralhe este card no Deck.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19494,
+  "type": "monster",
+  "name": "Magnolia Arômalilith",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"Arôma\" + 1 monstre Plante\nTant que vos LP sont supérieurs à ceux de votre adversaire, les monstres Plante que vous contrôlez ne peuvent pas être détruits par des effets de carte de votre adversaire. Une fois par tour : vous pouvez payer 2000 LP ; bannissez un nombre de cartes sur le Terrain égal au nombre de \"Vents Humides\", \"Vents Secs\" et \"Vents Bénis\" que vous contrôlez. Une fois par tour, si vous gagnez des LP, même durant la Damage Step : jusqu'à la fin de ce tour, vous pouvez faire gagner à tous les monstres Plante que vous contrôlez actuellement une ATK égale aux LP gagnés.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Plante",
+    "Fusion",
+    "Effet"
+  ]
+}

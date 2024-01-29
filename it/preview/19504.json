@@ -1,0 +1,19 @@
+{
+  "id": 19504,
+  "type": "monster",
+  "name": "Maestospettro Draco - Ryu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "2 mostri di Livello 4\nSe puoi Evocare Pendulum di Livello 4, puoi Evocare Pendulum questa carta scoperta dal tuo Extra Deck. Se uno o più mostri vengono offerti come Tributo mentre questa carta è sul Terreno (eccetto durante il Damage Step): puoi staccare 1 materiale da questa carta; Evoca Specialmente 1 mostro VENTO Incantatore di Livello 6 o inferiore dal tuo Deck. Puoi utilizzare questo effetto di \"Maestospettro Draco - Ryu\" fino a due volte per turno. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta, o offerta come Tributo: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Se hai una carta \"Maestospettro\" o \"Dracoassassino\" nella tua altra Zona Pendulum: puoi aggiungere 1 carta \"Maestospettro\" dal tuo Deck alla tua mano, poi puoi distruggere 1 carta nel tua Zona Pendulum. Puoi utilizzare questo effetto di \"Maestospettro Draco - Ryu\" una sola volta per turno.",
+  "pendScale": 5,
+  "rank": 4,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Xyz",
+    "Pendulum",
+    "Effetto"
+  ]
+}

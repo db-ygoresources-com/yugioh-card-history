@@ -1,0 +1,16 @@
+{
+  "id": 19488,
+  "type": "monster",
+  "name": "Mokomoko",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "FLIP : Piochez 1 carte.\nDurant votre Main Phase : vous pouvez changer cette carte en Position de Défense face verso.\nVous ne pouvez utiliser chacun des effets précédents de \"Mokomoko\" qu'une fois par tour. Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Type Illusion",
+    "Flip",
+    "Effet"
+  ]
+}

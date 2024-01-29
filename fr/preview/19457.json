@@ -1,0 +1,15 @@
+{
+  "id": 19457,
+  "type": "monster",
+  "name": "Golem Broyeurgeist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous ne pouvez Invoquer Spécialement \"Golem Broyeurgeist\" qu'une fois par tour. Vous pouvez révéler 1 monstre \"Yubel\" dans votre main ; Invoquez Spécialement cette carte depuis votre main sur le Terrain de votre adversaire, puis vous pouvez Invoquer Spécialement le monstre révélé sur votre Terrain. Une fois par tour, durant le calcul des dommages, si cette carte combat un monstre \"Yubel\" : votre adversaire gagne 3000 LP. Si vous Invoquez Spécialement \"Yubel\" tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte sur le Terrain de votre adversaire.",
+  "level": 8,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

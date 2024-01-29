@@ -1,0 +1,15 @@
+{
+  "id": 19837,
+  "type": "monster",
+  "name": "Héros de la Cité Cendrée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si \"Obsidim, la Cité Cendrée\" est dans la Zone Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Héros de la Cité Cendrée\" qu'une fois par tour de cette façon. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre Pyro sur le Terrain ; détruisez-le, puis si vous avez détruit \"Veidos le Dragon Éruption de l'Extinction\" par cet effet, vous pouvez placer face recto 1 \"Obsidim, la Cité Cendrée\" depuis votre Deck dans votre Zone Terrain. Vous ne pouvez utiliser cet effet de \"Héros de la Cité Cendrée\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2100,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

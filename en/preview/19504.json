@@ -1,0 +1,19 @@
+{
+  "id": 19504,
+  "type": "monster",
+  "name": "Majespecter Draco - Ryu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 Level 4 monsters\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card from your Extra Deck. If a monster(s) is Tributed while this card is on the field (except during the Damage Step): You can detach 1 material from this card; Special Summon 1 Level 6 or lower WIND Spellcaster monster from your Deck. You can only use this effect of \"Majespecter Draco - Ryu\" up to twice per turn. If this card in the Monster Zone is destroyed by battle or card effect, or Tributed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "If you have a \"Majespecter\" or \"Dracoslayer\" card in your other Pendulum Zone: You can add 1 \"Majespecter\" card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majespecter Draco - Ryu\" once per turn.",
+  "pendScale": 5,
+  "rank": 4,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Xyz",
+    "Pendulum",
+    "Effect"
+  ]
+}

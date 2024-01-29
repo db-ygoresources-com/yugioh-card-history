@@ -1,0 +1,15 @@
+{
+  "id": 19491,
+  "type": "monster",
+  "name": "Rhinocéros Royal aux Dés Trompeurs",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, lorsqu'une carte ou un effet est activé, même durant la Damage Step (Effet Rapide) : vous pouvez lancer un dé à six faces, puis appliquez l'effet approprié, selon le nombre du Maillon de la Chaîne de cet effet.\n●2 : Jusqu'à la fin de ce tour, cette carte gagne une ATK égale au résultat x 500.\n●3 : Infligez des dommages à votre adversaire égaux au résultat x 500.\n●4+ : Détruisez un nombre de cartes sur le Terrain inférieur ou égal au résultat.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

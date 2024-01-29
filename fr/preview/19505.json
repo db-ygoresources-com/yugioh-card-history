@@ -1,0 +1,20 @@
+{
+  "id": 19505,
+  "type": "monster",
+  "name": "Romarin Arômalilith",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres Plante\nSi cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte \"Arôma\" depuis votre Deck à votre main. Si vous gagnez des LP, même durant la Damage Step : vous pouvez Invoquer Spécialement max. 3 monstres \"Arôma\" depuis votre main dans vos zones pointées par cette carte. Vous pouvez Sacrifier 1 monstre pointé par cette carte, puis ciblez 1 carte sur le Terrain ; bannissez-la, et si vous le faites, gagnez 1000 LP. Vous ne pouvez utiliser chaque effet de \"Romarin Arômalilith\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2200,
+  "properties": [
+    "Plante",
+    "Lien",
+    "Effet"
+  ]
+}

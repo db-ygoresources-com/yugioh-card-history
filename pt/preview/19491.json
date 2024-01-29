@@ -1,0 +1,15 @@
+{
+  "id": 19491,
+  "type": "monster",
+  "name": "Rino Real do Dado Enganador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno, quando um card ou efeito for ativado, mesmo durante a Etapa de Dano (Efeito Rápido): você pode lançar um dado de seis faces e, depois, aplique o efeito apropriado, dependendo do número do Elo de Corrente deste efeito.\n●2: Este card ganha ATK igual ao resultado x 500 até o final deste turno.\n●3: Cause dano ao seu oponente igual ao resultado x 500.\n●4+: Destrua cards no campo até o resultado.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Besta",
+    "Efeito"
+  ]
+}

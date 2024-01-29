@@ -1,0 +1,16 @@
+{
+  "id": 19486,
+  "type": "monster",
+  "name": "Procession de la Jarre de Thé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les monstres en Position de Défense face verso dans la colonne de cette carte ne peuvent pas changer leur position de combat, et aussi, aucun joueur ne peut activer les cartes Posées dans les Zones Magie & Piège dans la colonne de cette carte. Vous ne pouvez utiliser chacun des effets suivants de \"Procession de la Jarre de Thé\" qu'une fois par tour. Durant votre Main Phase : vous pouvez déplacer cette carte dans une Zone Monstre Main adjacente inutilisée. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : changez tous les autres monstres dans la colonne actuelle de cette carte en Position de Défense face verso.",
+  "level": 3,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

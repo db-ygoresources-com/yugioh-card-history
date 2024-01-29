@@ -1,0 +1,15 @@
+{
+  "id": 19480,
+  "type": "monster",
+  "name": "Carnot el Aparato Eterno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano o Cementerio) durante un Duelo en el que tu adversario haya activado un efecto de monstruo en su mano o Cementerio. Sólo puedes Invocar de Modo Especial \"Carnot el Aparato Eterno\" una vez por turno. Una vez por turno, si tu adversario activa un efecto de monstruo (excepto durante el Damage Step): puedes hacer que esta carta gane 1000 ATK. Si esta carta es mandada al Cementerio, excepto desde la mano o Deck: baraja esta carta al Deck.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

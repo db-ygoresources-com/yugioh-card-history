@@ -1,0 +1,16 @@
+{
+  "id": 19494,
+  "type": "monster",
+  "name": "Aromalilith Magnolia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 mostro \"Aroma\" + 1 mostro Pianta\nMentre i tuoi LP sono più alti di quelli del tuo avversario, i mostri Pianta che controlli non possono essere distrutti dagli effetti delle carte del tuo avversario. Una volta per turno: puoi pagare 2000 LP; bandisci carte sul Terreno pari al numero di \"Venti Umidi\", \"Venti Secchi\" e \"Venti Benedetti\" che controlli. Una volta per turno, se guadagni LP, anche durante il Damage Step: puoi far guadagnare a tutti i mostri Pianta che controlli attualmente ATK pari ai LP guadagnati, fino alla fine di questo turno.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Pianta",
+    "Fusione",
+    "Effetto"
+  ]
+}

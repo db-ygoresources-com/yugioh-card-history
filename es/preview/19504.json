@@ -1,0 +1,19 @@
+{
+  "id": 19504,
+  "type": "monster",
+  "name": "Draco Majespectro - Ryu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2 monstruos de Nivel 4\nSi puedes hacer una Invocación por Péndulo de Nivel 4, puedes Invocar por Péndulo esta carta boca arriba desde tu Deck Extra. Si uno o más monstruos son Sacrificados mientras esta carta está en el Campo (excepto durante el Damage Step): puedes desacoplar 1 material de esta carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo Lanzador de Conjuros de VIENTO de Nivel 6 o menor. Sólo puedes usar este efecto de \"Draco Majespectro - Ryu\" hasta dos veces por turno. Si esta carta en la Zona de Monstruos es destruida en batalla o por el efecto de una carta, o Sacrificada: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Si tienes una carta \"Majespectro\" o \"Dracoasesino\" en tu otra Zona de Péndulo: puedes añadir a tu mano 1 carta \"Majespectro\" en tu Deck, y después puedes destruir 1 carta en tu Zona de Péndulo. Sólo puedes usar este efecto de \"Draco Majespectro - Ryu\" una vez por turno.",
+  "pendScale": 5,
+  "rank": 4,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Xyz",
+    "Péndulo",
+    "Efecto"
+  ]
+}

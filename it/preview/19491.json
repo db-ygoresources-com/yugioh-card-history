@@ -1,0 +1,15 @@
+{
+  "id": 19491,
+  "type": "monster",
+  "name": "Rinoceronte Reale con Dadi Truccati",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, quando viene attivata una carta o un effetto, anche durante il Damage Step (Effetto Rapido): puoi tirare un dado a sei facce, poi applicare l'effetto appropriato, a seconda del numero dell'Anello della Catena di questo effetto.\n●2: Questa carta guadagna ATK pari al risultato x 500 fino alla fine di questo turno.\n●3: Infliggi al tuo avversario danno pari al risultato x 500.\n●4+: Distruggi carte sul Terreno fino al risultato.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

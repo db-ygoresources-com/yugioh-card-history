@@ -1,0 +1,15 @@
+{
+  "id": 19481,
+  "type": "monster",
+  "name": "Dragon Magmacho",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez bannir max. 3 monstres FEU depuis votre Cimetière ; jusqu'à la fin de ce tour, cette carte gagne 400 ATK pour chacun d'eux. Si un ou plusieurs monstres FEU face recto que vous contrôlez sont détruits par un effet de carte, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte (mais bannissez-la lorsqu'elle quitte le Terrain), puis piochez 1 carte. Vous ne pouvez utiliser chaque effet de \"Dragon Magmacho\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1800,
+  "def": 2200,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

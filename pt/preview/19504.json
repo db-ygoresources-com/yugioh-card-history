@@ -1,0 +1,19 @@
+{
+  "id": 19504,
+  "type": "monster",
+  "name": "Draco Majespectro - Ryu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "2 monstros de Nível 4\nSe você puder Invocar por Invocação-Pêndulo de Nível 4, você pode Invocar este card com a face para cima do seu Deck Adicional por Invocação-Pêndulo. Se um ou mais monstros forem oferecidos como Tributo enquanto este card estiver no campo (exceto durante a Etapa de Dano): você pode desassociar 1 matéria deste card; Invoque por Invocação-Especial 1 monstro Mago de VENTO de Nível 6 ou menos do seu Deck. Você só pode usar este efeito de \"Draco Majespectro - Ryu\" até duas vezes por turno. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card, ou oferecido como Tributo: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se você tiver um card \"Majespectro\" ou \"Dracossassino\" na sua outra Zona de Pêndulo: você pode adicionar 1 card \"Majespectro\" do seu Deck à sua mão e, depois, você pode destruir 1 card na sua Zona de Pêndulo. Você só pode usar este efeito de \"Draco Majespectro - Ryu\" uma vez por turno.",
+  "pendScale": 5,
+  "rank": 4,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

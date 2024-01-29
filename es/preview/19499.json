@@ -1,0 +1,17 @@
+{
+  "id": 19499,
+  "type": "monster",
+  "name": "Lámpara Pez",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSi esta carta es mandada al Cementerio como Material de Sincronía: puedes Invocar de Modo Especial 2 \"Ficha Lámpara\" (Pez/FUEGO/Nivel 2/ATK 0/DEF 0), y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Pez. Si controlas un Monstruo de Sincronía Pez: puedes desterrar esta carta en tu Cementerio, y después selecciona 1 carta en el Campo; destrúyela. Sólo puedes usar cada efecto de \"Lámpara Pez\" una vez por turno.",
+  "level": 4,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Pez",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}
