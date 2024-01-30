@@ -1,0 +1,16 @@
+{
+  "id": 19488,
+  "type": "monster",
+  "name": "Mokomoko",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Ziehe 1 Karte.\nWährend deiner Main Phase: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern.\nDu kannst jeden der vorherigen Effekte von „Mokomoko“ nur einmal pro Spielzug verwenden. Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Typ Illusion",
+    "Flipp",
+    "Effekt"
+  ]
+}

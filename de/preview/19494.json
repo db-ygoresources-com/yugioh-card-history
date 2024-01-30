@@ -1,0 +1,16 @@
+{
+  "id": 19494,
+  "type": "monster",
+  "name": "Aromalilith Magnolie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Aroma“-Monster + 1 Pflanze-Monster\nSolange du mehr LP hast als dein Gegner, können Pflanze-Monster, die du kontrollierst, nicht durch Karteneffekte deines Gegners zerstört werden. Einmal pro Spielzug: Du kannst 2000 LP zahlen; verbanne Karten auf dem Spielfeld in Höhe der Anzahl „Feuchte Winde“, „Trockene Winde“ und „Gesegnete Winde“, die du kontrollierst. Einmal pro Spielzug, falls du LP erhältst, selbst während des Damage Steps: Du kannst alle Pflanze-Monster, die du derzeit kontrollierst, bis zum Ende dieses Spielzugs ATK in Höhe der erhaltenen LP erhalten lassen.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Pflanze",
+    "Fusion",
+    "Effekt"
+  ]
+}

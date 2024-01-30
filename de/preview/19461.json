@@ -1,0 +1,15 @@
+{
+  "id": 19461,
+  "type": "monster",
+  "name": "Weißer Mondfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 Fisch-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, das denselben Namen wie eine Karte hat, die du kontrollierst; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung. Du kannst diesen Effekt von „Weißer Mondfisch“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst sie in diesem Spielzug als Empfänger behandeln.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

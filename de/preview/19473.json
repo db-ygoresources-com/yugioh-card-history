@@ -1,0 +1,15 @@
+{
+  "id": 19473,
+  "type": "monster",
+  "name": "Horus, der Schwarzflammengott",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du ein „Horus“-Monster und „Sarkophag des Königs“ kontrollierst: Du kannst diese Karte in deiner Hand vorzeigen und dann 1 Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; lege 1 Karte auf dem Spielfeld auf den Friedhof. Falls ein oder mehr offene „Horus“-Monster, die du kontrollierst, außer „Horus, der Schwarzflammengott“, oder ein offener „Sarkophag des Königs“, den du kontrollierst, das Spielfeld durch einen Karteneffekt eines Gegners verlassen (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du alle anderen Monster auf dem Spielfeld auf den Friedhof legen. Du kannst jeden Effekt von „Horus, der Schwarzflammengott“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

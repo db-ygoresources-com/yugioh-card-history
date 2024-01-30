@@ -1,0 +1,15 @@
+{
+  "id": 19482,
+  "type": "monster",
+  "name": "Zeitnachlader",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Main Phase, falls ein Monster auf dem Spielfeld aufgedeckt wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann ändere 1 offenes Monster auf dem Spielfeld in die verdeckte Verteidigungsposition. Während der Main Phase, falls diese Karte aufgedeckt wird: Du kannst 1 Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, dann ändere 1 offenes Monster auf dem Spielfeld in die verdeckte Verteidigungsposition. Du kannst jeden Effekt von „Zeitnachlader“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

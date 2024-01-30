@@ -1,0 +1,16 @@
+{
+  "id": 19486,
+  "type": "monster",
+  "name": "Prozession des Teekrugs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Monster in verdeckter Verteidigungsposition in der Spalte dieser Karte können ihre Kampfpositionen nicht ändern, zusätzlich kann kein Spieler die gesetzten Karten in den Zauber- & Fallenzonen in der Spalte dieser Karte aktivieren. Du kannst jeden der folgenden Effekte von „Prozession des Teekrugs“ nur einmal pro Spielzug verwenden. Während deiner Main Phase: Du kannst diese Karte in eine nicht verwendete benachbarte Main-Monsterzone bewegen. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Ändere alle anderen Monster in der derzeitigen Spalte dieser Karte in die verdeckte Verteidigungsposition.",
+  "level": 3,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

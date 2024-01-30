@@ -1,0 +1,16 @@
+{
+  "id": 19829,
+  "type": "monster",
+  "name": "Wandelvogel",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst 1 Flippmonster der Stufe 5 oder höher als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören, außer „Wandelvogel“.\nWährend der Battle Phase, falls sich diese Karte in deiner Hand befindet (Schnelleffekt): Du kannst 1 verdecktes Monster auf dem Spielfeld wählen; lege es auf den Friedhof und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung in die verdeckte Verteidigungsposition. Du kannst jeden Effekt von „Wandelvogel“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1400,
+  "def": 2800,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

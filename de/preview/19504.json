@@ -1,0 +1,19 @@
+{
+  "id": 19504,
+  "type": "monster",
+  "name": "Majespenst Dracho - Ryu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 Monster der Stufe 4\nFalls du Stufe 4 als Pendelbeschwörung beschwören kannst, kannst du diese offene Karte als Pendelbeschwörung von deinem Extra Deck beschwören. Falls ein oder mehr Monster als Tribut angeboten werden, solange sich diese Karte auf dem Spielfeld befindet (außer während des Damage Steps): Du kannst 1 Material von dieser Karte abhängen; beschwöre 1 WIND Hexer-Monster der Stufe 6 oder niedriger als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Majespenst Dracho - Ryu“ nur bis zu zweimal pro Spielzug verwenden. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört oder als Tribut angeboten wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls du eine „Majespenst“- oder „Drachobezwinger“-Karte in deiner anderen Pendelzone hast: Du kannst deiner Hand 1 „Majespenst“-Karte von deinem Deck hinzufügen, dann kannst du 1 Karte in deiner Pendelzone zerstören. Du kannst diesen Effekt von „Majespenst Dracho - Ryu“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 5,
+  "rank": 4,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

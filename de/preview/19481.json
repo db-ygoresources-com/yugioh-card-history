@@ -1,0 +1,15 @@
+{
+  "id": 19481,
+  "type": "monster",
+  "name": "Magmacho-Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst bis zu 3 FEUER Monster von deinem Friedhof verbannen; diese Karte erhält bis zum Ende dieses Spielzugs für jedes 400 ATK. Falls ein oder mehr offene FEUER Monster, die du kontrollierst, durch einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören (aber verbanne sie, wenn sie das Spielfeld verlässt), dann ziehe 1 Karte. Du kannst jeden Effekt von „Magmacho-Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1800,
+  "def": 2200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

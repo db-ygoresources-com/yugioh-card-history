@@ -1,0 +1,15 @@
+{
+  "id": 19470,
+  "type": "monster",
+  "name": "Keaf, Düsternis des Ghoti",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich ein Fisch-Monster auf dem Spielfeld befindet: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden (außer während des Damage Steps): Du kannst 1 jener Monster und 1 deiner verbannten Fisch-Monster der Stufe 6 oder niedriger wählen; verbanne sowohl jenes Monster des Gegners als auch diese Karte und falls du dies tust, beschwöre dein als Ziel gewähltes Monster als Spezialbeschwörung. Während der Standby Phase des nächsten Spielzugs, nachdem diese Karte verbannt wurde: Du kannst diese verbannte Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Keaf, Düsternis des Ghoti“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

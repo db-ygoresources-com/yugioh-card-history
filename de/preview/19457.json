@@ -1,0 +1,15 @@
+{
+  "id": 19457,
+  "type": "monster",
+  "name": "Geist-Schleifgolem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst „Geist-Schleifgolem“ nur einmal pro Spielzug als Spezialbeschwörung beschwören. Du kannst 1 „Yubel“-Monster in deiner Hand vorzeigen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners, dann kannst du das vorgezeigte Monster als Spezialbeschwörung auf deine Spielfeldseite beschwören. Einmal pro Spielzug, während der Schadensberechnung, falls diese Karte gegen ein „Yubel“-Monster kämpft: Dein Gegner erhält 3000 LP. Falls du „Yubel“ als Spezialbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschwören.",
+  "level": 8,
+  "atk": 3000,
+  "def": 300,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

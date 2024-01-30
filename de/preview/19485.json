@@ -1,0 +1,15 @@
+{
+  "id": 19485,
+  "type": "monster",
+  "name": "Goblin-Freifalltrupp",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte als Spezialbeschwörung von der Hand in die Angriffsposition beschworen wird: Du kannst 1 offenes Effektmonster wählen, das dein Gegner kontrolliert; ändere diese Karte in die Verteidigungsposition, zusätzlich annulliere die Effekte jenes Monsters, solange dieses Monster in der offenen Verteidigungsposition liegt. Falls ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst 1 Karte abwerfen; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Goblin-Freifalltrupp“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

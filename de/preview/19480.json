@@ -1,0 +1,15 @@
+{
+  "id": 19480,
+  "type": "monster",
+  "name": "Carnot die Ewigmaschine",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst während eines Duells, in dem dein Gegner einen Monstereffekt in seiner Hand oder seinem Friedhof aktiviert hat, als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden. Du kannst „Carnot die Ewigmaschine“ nur einmal pro Spielzug als Spezialbeschwörung beschwören. Einmal pro Spielzug, falls dein Gegner einen Monstereffekt aktiviert (außer während des Damage Steps): Du kannst diese Karte 1000 ATK erhalten lassen. Falls diese Karte auf den Friedhof gelegt wird, außer von der Hand oder vom Deck: Mische diese Karte ins Deck.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

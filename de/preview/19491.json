@@ -1,0 +1,15 @@
+{
+  "id": 19491,
+  "type": "monster",
+  "name": "Königliches Nashorn mit trügerischen Würfeln",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird, selbst während des Damage Steps (Schnelleffekt): Du kannst einen sechsseitigen Würfel werfen und dann den entsprechenden Effekt ausführen, abhängig von der Kettengliednummer dieses Effekts.\n●2: Diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe des Ergebnisses x 500.\n●3: Füge deinem Gegner Schaden in Höhe des Ergebnisses x 500 zu.\n●4+: Zerstöre Karten auf dem Spielfeld bis zum Ergebnis.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}
