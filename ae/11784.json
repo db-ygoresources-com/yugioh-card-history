@@ -1,0 +1,18 @@
+{
+  "id": 11784,
+  "type": "monster",
+  "name": "Wisdom-Eye Magician",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "You can discard this card, then target 1 card in your Pendulum Zone, whose current Pendulum Scale is different from its original Pendulum Scale; its Pendulum Scale becomes its original Pendulum Scale until the end of this turn.",
+  "pendEffect": "If you have a \"Magician\" or \"Performapal\" card in your other Pendulum Zone: You can destroy this card, and if you do, place 1 \"Magician\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Wisdom-Eye Magician\".",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

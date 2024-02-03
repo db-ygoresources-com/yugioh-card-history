@@ -1,0 +1,19 @@
+{
+  "id": 12783,
+  "type": "monster",
+  "name": "Odd-Eyes Raging Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "2 Level 7 Dragon monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card in the Monster Zone is destroyed: You can place it in your Pendulum Zone. If this card is Xyz Summoned using an Xyz Monster as material, it gains these effects.\n●It can make a second attack during each Battle Phase.\n●Once per turn: You can detach 1 material from it; destroy as many cards your opponent controls as possible, and if you do, this card gains 200 ATK for each, until the end of this turn.",
+  "pendEffect": "Once per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.",
+  "pendScale": 1,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Pendulum",
+    "Effect"
+  ]
+}

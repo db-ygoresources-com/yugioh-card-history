@@ -1,0 +1,18 @@
+{
+  "id": 12110,
+  "type": "monster",
+  "name": "Timebreaker Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field until your next Standby Phase.",
+  "pendEffect": "Each turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1400,
+  "def": 0,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

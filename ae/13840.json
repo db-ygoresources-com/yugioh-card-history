@@ -1,0 +1,19 @@
+{
+  "id": 13840,
+  "type": "monster",
+  "name": "Magician of Hope",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "2 Level 4 monsters\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card in your Extra Deck. You can detach 1 material from this card; Special Summon 1 Level 7 or lower Pendulum Monster from your hand in Defense Position, but negate its effects, then you can place this face-up card in your Pendulum Zone. You can only use this effect of \"Magician of Hope\" once per turn. If this card is Pendulum Summoned: You can target 1 Pendulum Monster in your GY; attach it to this card as material.",
+  "pendEffect": "Once per turn, when a monster declares an attack: You can negate that attack, then destroy this card.",
+  "pendScale": 8,
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Xyz",
+    "Pendulum",
+    "Effect"
+  ]
+}

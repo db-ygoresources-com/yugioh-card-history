@@ -1,0 +1,19 @@
+{
+  "id": 12855,
+  "type": "monster",
+  "name": "Harmonizing Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Special Summoned from the Extra Deck. Cannot be used as material for a Fusion, Synchro, or Xyz Summon, unless all other materials are \"Magician\" Pendulum Monsters. When this card is Pendulum Summoned from the hand: You can Special Summon 1 \"Magician\" Pendulum Monster from your Deck in Defense Position, except \"Harmonizing Magician\", but negate its effects, also banish it when it leaves the field. You can only use this effect of \"Harmonizing Magician\" once per turn.",
+  "pendEffect": "All monsters you control gain 100 ATK and DEF for each face-up \"Magician\" Pendulum Monster with different names in your Extra Deck.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Tuner",
+    "Effect"
+  ]
+}

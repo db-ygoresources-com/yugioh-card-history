@@ -1,0 +1,18 @@
+{
+  "id": 11135,
+  "type": "monster",
+  "name": "Timegazer Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
+  "pendEffect": "You must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}
