@@ -1,0 +1,15 @@
+{
+  "id": 14994,
+  "type": "monster",
+  "name": "Oberster Todfeind Protos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Monster mit unterschiedlichen Eigenschaften von deinem Friedhof und/oder offen von deiner Spielfeldseite verbannst. Kann nicht durch Karteneffekte zerstört werden. Du kannst 1 Monstereigenschaft auf dem Spielfeld deklarieren; zerstöre alle Monster mit der Eigenschaft auf dem Spielfeld, zusätzlich kann bis zum Ende des nächsten Spielzugs kein Spieler Monster mit der Eigenschaft als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Oberster Todfeind Protos“ nur einmal pro Spielzug verwenden.",
+  "level": 11,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

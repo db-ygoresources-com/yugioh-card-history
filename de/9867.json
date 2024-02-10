@@ -1,0 +1,16 @@
+{
+  "id": 9867,
+  "type": "monster",
+  "name": "D-Boyz",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst eine beliebige Anzahl „D-Boyz“ als Spezialbeschwörung von deinem Deck in die Angriffsposition beschwören, dann erhältst du für jedes Monster, das du durch diesen Effekt als Spezialbeschwörung beschworen hast, 1000 Schaden.",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

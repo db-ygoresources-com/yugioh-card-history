@@ -1,0 +1,16 @@
+{
+  "id": 5326,
+  "type": "monster",
+  "name": "Drachenmanipulator",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Übernimm die Kontrolle über 1 Monster vom Typ Drache auf der Spielfeldseite deines Gegners bis zur End Phase dieses Spielzugs.",
+  "level": 3,
+  "atk": 700,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

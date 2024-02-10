@@ -1,0 +1,15 @@
+{
+  "id": 14474,
+  "type": "monster",
+  "name": "Megistrischer Maginigier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Während der End Phase: Du kannst 3 Zauberzählmarken von dieser Karte entfernen und dann 1 deiner verbannten Zauber wählen; füge deiner Hand 1 Karte mit dem Namen des gewählten Ziels von deinem Deck hinzu. Du kannst diesen Effekt von „Megistrischer Maginigier“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

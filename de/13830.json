@@ -1,0 +1,15 @@
+{
+  "id": 13830,
+  "type": "monster",
+  "name": "Tenma der Himmelsstern",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls nur dein Gegner ein Monster kontrolliert oder falls du ein ERDE Monster kontrollierst, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 ERDE Krieger-Monster der Stufe 5 als Spezialbeschwörung von deiner Hand beschwören. Du kannst diesen Effekt von „Tenma der Himmelsstern“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der ein Krieger-Monster, das du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst diese Karte genau 500 ATK verlieren lassen und falls du dies tust, annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

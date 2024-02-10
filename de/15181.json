@@ -1,0 +1,18 @@
+{
+  "id": 15181,
+  "type": "monster",
+  "name": "D/D-Hund",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, falls dein Gegner ein oder mehr Fusions-, Synchro- oder Xyz-Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 der Monster wählen; in diesem Spielzug kann das offene Monster nicht angreifen, zusätzlich werden seine Effekte annulliert.",
+  "pendEffect": "Du kannst 1 Fusions-, Synchro- oder Xyz-Monster wählen, das dein Gegner kontrolliert; annulliere seine Effekte bis zum Ende dieses Spielzugs, dann zerstöre diese Karte. Du kannst diesen Effekt von „D/D-Hund“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11515,
+  "type": "monster",
+  "name": "Schwerer Ritter der Flamme",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Am Beginn des Damage Steps, falls diese Karte ein als Spezialbeschwörung beschworenes Monster angegriffen hat: Du kannst jenes Monster verbannen.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Zwilling",
+    "Effekt"
+  ]
+}

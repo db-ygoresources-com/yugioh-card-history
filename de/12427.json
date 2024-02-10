@@ -1,0 +1,15 @@
+{
+  "id": 12427,
+  "type": "monster",
+  "name": "Triamidenjäger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls eine Spielfeldzauberkarte offen auf dem Spielfeld liegt, kannst du zusätzlich zu deiner Normalbeschwörung/deinem Normalen Setzen 1 Monster vom Typ Fels als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Einmal pro Spielzug, während des Spielzugs deines Gegners: Du kannst 1 „Triamid“-Spielfeldzauberkarte in deiner Spielfeldzone wählen; lege sie auf den Friedhof und falls du dies tust, aktiviere 1 „Triamid“-Spielfeldzauberkarte mit einem unterschiedlichen Namen von deinem Deck. (Dies ist ein Schnelleffekt.)",
+  "level": 3,
+  "atk": 1400,
+  "def": 1100,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

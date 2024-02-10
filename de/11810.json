@@ -1,0 +1,18 @@
+{
+  "id": 11810,
+  "type": "monster",
+  "name": "Feueritter Knappe",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Die kalte Stahlrüstung dieses jungen Knappen kann seinen kühnen, brennenden Geist nicht verbergen.",
+  "pendEffect": "Falls du eine „Feueritter“-Karte in deiner anderen Pendelzone hast: Du kannst beide Karten in deinen Pendelzonen zerstören und falls du dies tust, füge deiner Hand 1 FEUER Monster vom Typ Krieger von deinem Deck oder Friedhof hinzu.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Normal"
+  ]
+}

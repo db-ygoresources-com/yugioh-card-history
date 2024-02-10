@@ -1,0 +1,16 @@
+{
+  "id": 5205,
+  "type": "monster",
+  "name": "ヒステリック天使",
+  "nameRuby": "ヒステリックエンジェル",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "自分フィールド上に存在するモンスター２体をリリースして発動する。自分は１０００ライフポイント回復する。",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "天使族",
+    "効果"
+  ]
+}

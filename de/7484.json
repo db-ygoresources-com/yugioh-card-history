@@ -1,0 +1,15 @@
+{
+  "id": 7484,
+  "type": "monster",
+  "name": "Dracheneis",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn dein Gegner ein Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand oder deinem Friedhof. Es kann nur 1 „Dracheneis“ auf dem Spielfeld liegen.",
+  "level": 5,
+  "atk": 1800,
+  "def": 2200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

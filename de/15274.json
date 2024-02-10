@@ -1,0 +1,16 @@
+{
+  "id": 15274,
+  "type": "monster",
+  "name": "Der erste Finsterlord",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 FINSTERNIS Fee-Monster\nDein Gegner kann Fee-Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen. Du kannst nur 1 der folgenden Effekte von „Der erste Finsterlord“ pro Spielzug verwenden und in dem Spielzug nur einmal.\n●Falls diese Karte mit „Finsterlord Morgenstern“ als Material als Fusionsbeschwörung beschworen wird: Du kannst alle Karten zerstören, die dein Gegner kontrolliert.\n●Während der Main Phase (Schnelleffekt): Du kannst 1000 LP zahlen; beschwöre 1 Fee-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof in die Verteidigungsposition.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

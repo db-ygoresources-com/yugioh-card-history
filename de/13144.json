@@ -1,0 +1,16 @@
+{
+  "id": 13144,
+  "type": "monster",
+  "name": "Weißer Auradelfin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\n(Diese Karte wird immer als „Weißaura“-Karte behandelt.)\nEinmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden bis zum Ende dieses Spielzugs gleich der Hälfte seiner Grund-ATK. Falls diese Karte, die dir gehört, durch eine Karte eines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 anderes WASSER Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung als Empfänger.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Fisch",
+    "Synchro",
+    "Effekt"
+  ]
+}

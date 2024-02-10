@@ -1,0 +1,15 @@
+{
+  "id": 17622,
+  "type": "monster",
+  "name": "Donnerball",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Am Ende des Damage Steps, falls ein Monster gekämpft hat: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst 1 Falle von deiner Hand oder gesetzt von deiner Spielfeldseite auf den Friedhof legen; zerstöre alle anderen Monster in der Spalte dieser Karte. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 Karte in deinem Friedhof wählen; wirf einen sechsseitigen Würfel und falls das Ergebnis 6 ist, füge jenes gewählte Ziel deiner Hand hinzu. Du kannst jeden Effekt von „Donnerball“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 450,
+  "def": 400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

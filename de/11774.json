@@ -1,0 +1,16 @@
+{
+  "id": 11774,
+  "type": "monster",
+  "name": "Dante, Pilger des Brennenden Abgrunds",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "3 „Brennenden Abgrund“-Monster mit unterschiedlichen Namen\nMuss als Fusionsbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Kann nicht als Ziel für Karteneffekte deines Gegners gewählt werden. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 „Brennenden Abgrund“-Karte von deiner Hand auf den Friedhof legen; ziehe 1 Karte. Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird oder falls diese Karte, die du kontrollierst, durch einen Karteneffekt deines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 zufällige Karte von der Hand deines Gegners auf den Friedhof legen.",
+  "level": 9,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

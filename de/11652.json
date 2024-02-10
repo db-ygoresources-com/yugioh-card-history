@@ -1,0 +1,16 @@
+{
+  "id": 11652,
+  "type": "monster",
+  "name": "Katzenhai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster der Stufe 2\nSolange an diese Karte ein Material angehängt ist, das ursprünglich WASSER war, kann sie nicht durch Kampf zerstört werden. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und dann 1 Xyz-Monster des Rangs 4 oder niedriger wählen, das du kontrollierst; seine ATK/DEF werden bis zum Ende dieses Spielzugs gleich dem Doppelten seiner Grund-ATK/DEF.",
+  "rank": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Ungeheuer",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13074,
+  "type": "monster",
+  "name": "Orbitaler Hydralander",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 5 oder mehr Monster in deinem Friedhof und keine Monster mit demselben Namen in deinem Friedhof hast. Einmal pro Spielzug (Schnelleffekt): Du kannst die obersten 3 Karten deines Decks auf den Friedhof legen; zerstöre 1 Karte auf dem Spielfeld. Du musst mindestens 2 Monster in deinem Friedhof haben und darfst keine Monster mit demselben Namen in deinem Friedhof haben, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

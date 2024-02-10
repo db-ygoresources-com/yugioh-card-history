@@ -1,0 +1,18 @@
+{
+  "id": 11526,
+  "type": "monster",
+  "name": "Künstlerkumpel Trumpfhexe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Tribut anbieten; füge deiner Hand 1 „Polymerisation“ von deinem Deck oder Friedhof hinzu.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei Monster, die du kontrollierst, als Fusionsmaterial.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

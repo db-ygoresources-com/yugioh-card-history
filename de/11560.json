@@ -1,0 +1,16 @@
+{
+  "id": 11560,
+  "type": "monster",
+  "name": "Zombie des Gleichklangs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 offenes Monster auf dem Spielfeld wählen; wirf 1 Karte ab und falls du dies tust, erhöhe die Stufe des gewählten Ziels um 1. Du kannst 1 offenes Monster auf dem Spielfeld wählen; Monster, die du kontrollierst, können für den Rest dieses Spielzugs nicht angreifen, außer Zombie-Monstern, zusätzlich lege 1 Zombie-Monster von deinem Deck auf den Friedhof und falls du dies tust, erhöhe die Stufe des gewählten Ziels um 1. Du kannst jeden Effekt von „Zombie des Gleichklangs“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16478,
+  "type": "monster",
+  "name": "Ritter des Jokers",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 „Ritterin der Königin“, „Ritter des Königs“ oder „Ritter des Buben“ von deinem Deck auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, wird der Name dieser Karte bis zur End Phase derselbe wie der Name des gelegten Monsters. Während der End Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 anderes LICHT Krieger-Monster in deinem Friedhof wählen; mische es ins Deck und falls du dies tust, füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Ritter des Jokers“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1400,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

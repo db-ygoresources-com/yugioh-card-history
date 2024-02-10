@@ -1,0 +1,15 @@
+{
+  "id": 17126,
+  "type": "monster",
+  "name": "Alghul Mazera",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein oder mehr Zombie-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deiner Hand oder deinem Friedhof verbannen. Falls diese Karte von der Hand oder dem Friedhof verbannt wird: Du kannst diese Karte als Spezialbeschwörung in die Verteidigungsposition beschwören, dann kannst du ihre Stufe um 1 verringern. Du kannst jeden Effekt von „Alghul Mazera“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

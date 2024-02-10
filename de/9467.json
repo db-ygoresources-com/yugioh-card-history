@@ -1,0 +1,15 @@
+{
+  "id": 9467,
+  "type": "monster",
+  "name": "Der große Jupiter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 2 Karten abwerfen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem offenen Monster aus. Diese Karte erhält ATK in Höhe der Summe der Grund-ATK der Monster, mit denen sie durch diesen Effekt ausgerüstet ist. Einmal pro Spielzug, während der End Phase: Du kannst 1 Monsterkarte wählen, mit der diese Karte durch ihren Effekt ausgerüstet ist; beschwöre sie als Spezialbeschwörung auf deine Spielfeldseite.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

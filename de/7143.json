@@ -1,0 +1,15 @@
+{
+  "id": 7143,
+  "type": "monster",
+  "name": "Botanischer Löwe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte erhält 300 ATK für jedes Monster vom Typ Pflanze, das du kontrollierst. Die Kontrolle über diese offene Karte auf dem Spielfeld kann nicht wechseln.",
+  "level": 4,
+  "atk": 1600,
+  "def": 2000,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

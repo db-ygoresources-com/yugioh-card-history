@@ -1,0 +1,16 @@
+{
+  "id": 8113,
+  "type": "monster",
+  "name": "Wurm Oper",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Alle offenen Monster auf dem Spielfeld verlieren 500 ATK, außer „Wurm“-Monstern vom Typ Reptil.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

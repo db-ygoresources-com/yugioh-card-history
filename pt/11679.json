@@ -1,0 +1,18 @@
+{
+  "id": 11679,
+  "type": "monster",
+  "name": "Camarartista Compragarto",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se outro monstro com a face para cima que você controla for destruído por um ataque ou efeito de card do seu oponente: você pode comprar cards igual ao número de monstros \"Camarartista\" que você controla atualmente. Você só pode usar este efeito de \"Camarartista Compragarto\" uma vez por turno.",
+  "pendEffect": "Se você tiver um card \"Camarartista\" na sua outra Zona de Pêndulo, exceto \"Camarartista Compragarto\": você pode destruir este card e, se isso acontecer, compre 1 card. Você só pode usar este efeito de \"Camarartista Compragarto\" uma vez por turno.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Réptil",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

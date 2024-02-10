@@ -1,0 +1,15 @@
+{
+  "id": 5666,
+  "type": "monster",
+  "name": "Ultimativer gehorsamer Unterweltler",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte kann nur angreifen, wenn sich keine anderen Karten auf deiner Spielfeldseite befinden und du keine Karten in deiner Hand hast. Effekte von Effektmonstern, die von dieser Karte zerstört werden, werden annulliert.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

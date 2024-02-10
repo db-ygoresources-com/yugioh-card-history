@@ -1,0 +1,15 @@
+{
+  "id": 14181,
+  "type": "monster",
+  "name": "Superexpress-Schnellzug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann keinen Angriff deklarieren, es sei denn, du legst 2 andere Karten, die du kontrollierst, auf den Friedhof. Du kannst jeden dieser Effekte von „Superexpress-Schnellzug“ nur einmal pro Spielzug verwenden.\n●Falls alle Monster, die du kontrollierst, ERDE Maschine sind (min. 1): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.\n●Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst 1 Maschine-Monster in deinem Friedhof wählen, außer „Superexpress-Schnellzug“; füge es deiner Hand hinzu.",
+  "level": 10,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

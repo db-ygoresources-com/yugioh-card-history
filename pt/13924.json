@@ -1,0 +1,16 @@
+{
+  "id": 13924,
+  "type": "monster",
+  "name": "Titã Dragão do Trovão",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "3 monstros \"Dragão do Trovão\"\nDeve ser Invocado por Invocação-Fusão, ou por Invocação-Especial ao banir 1 monstro Trovão da sua mão e 1 Monstro de Fusão Trovão que você controla, exceto \"Titã Dragão do Trovão\" (e nesse caso, você não usa \"Polimerização\"). Quando o efeito de um monstro Trovão for ativado na mão, mesmo durante a Etapa de Dano (Efeito Rápido): você pode destruir 1 card no campo. Se este card seria destruído por um efeito de card, em vez disso, você pode banir 2 cards do seu Cemitério.",
+  "level": 10,
+  "atk": 3200,
+  "def": 3200,
+  "properties": [
+    "Trovão",
+    "Fusão",
+    "Efeito"
+  ]
+}

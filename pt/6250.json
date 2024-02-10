@@ -1,0 +1,15 @@
+{
+  "id": 6250,
+  "type": "monster",
+  "name": "Mago do Sangue",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando esse Card de Magia resolver. Você pode remover qualquer número de Marcadores de Magia deste card e, depois, escolher 1 monstro com a face para cima no campo com ATK menor ou igual ao número de marcadores que você removeu x 700; destrua o alvo.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1700,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11976,
+  "type": "monster",
+  "name": "Graulien Schleim",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 2 „Graulien“-Karten wählen, die du kontrollierst; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Graulien Schleim“ nur einmal pro Spielzug verwenden. Wenn diese Karte auf diese Art beschworen wird: Du kannst 1 „Graulien“-Monster in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung in die Verteidigungsposition.",
+  "level": 5,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13130,
+  "type": "monster",
+  "name": "Künstlerkumpel Fünf-Regenbogen-Magier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein Spieler einen Zauber / eine Falle auf deine Spielfeldseite setzt, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer vom Extra Deck. Dieser Effekt kann nicht annulliert werden. Jeder Spieler wendet 1 dieser Effekte an, basierend auf der Anzahl der gesetzten Karten in seinen Zauber- & Fallenzonen.\n●0: Alle Monster, die er kontrolliert, können nicht angreifen und ihre Effekte können nicht aktiviert werden.\n●4 oder mehr: Die ATK aller Monster, die er kontrolliert, werden zum Doppelten ihrer Grund-ATK.",
+  "pendScale": 12,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

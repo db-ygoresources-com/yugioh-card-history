@@ -1,0 +1,16 @@
+{
+  "id": 4913,
+  "type": "monster",
+  "name": "Cyberdose",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Zerstöre alle Monster auf dem Spielfeld, dann zeigen beide Spieler die obersten 5 Karten ihrer Decks vor, dann beschwören sie alle vorgezeigten Monster der Stufe 4 oder niedriger als Spezialbeschwörung in die offene Angriffsposition oder die verdeckte Verteidigungsposition, zusätzlich fügen sie die restlichen Karten ihrer Hand hinzu. (Falls ein Spieler weniger als 5 Karten in seinem Deck hat, zeigt er möglichst viele vor.)",
+  "level": 3,
+  "atk": 900,
+  "def": 900,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

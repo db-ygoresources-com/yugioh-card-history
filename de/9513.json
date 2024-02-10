@@ -1,0 +1,16 @@
+{
+  "id": 9513,
+  "type": "monster",
+  "name": "T.G. Klingenbrecher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger-Synchromonster + 1 oder mehr Nicht-Empfänger-Synchromonster\nWährend des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Zauber-/Fallenkarte aktiviert, die diese offene Karte als Ziel wählt: Du kannst 1 Karte von deiner Hand auf den Friedhof legen; annulliere den Effekt. Einmal pro Spielzug, während des Spielzugs deines Gegners: Du kannst 1 „T.G.“-Monster von deinem Friedhof verbannen; verbanne diese offene Karte auf dem Spielfeld. (Dies ist ein Schnelleffekt.) Während der nächsten Standby Phase, nachdem diese Karte durch diesen Effekt verbannt wurde: Beschwöre diese Karte als Spezialbeschwörung.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

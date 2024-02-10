@@ -1,0 +1,15 @@
+{
+  "id": 8303,
+  "type": "monster",
+  "name": "Ewig infernales Ungeheuer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte angreift, solange du keine Karten in deiner Hand hast, kann dein Gegner bis nach dem Damage Step keine Zauber- und Fallenkarten aktivieren.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

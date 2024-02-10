@@ -1,0 +1,15 @@
+{
+  "id": 7056,
+  "type": "monster",
+  "name": "네이비로이드",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "상대가 자신 필드 위의 마법/함정 카드를 대상으로 \"필드 위의 마법/함정 카드를 파괴한다\"는 효과를 가진 카드를 발동했을 때, 패를 1장 버리는 것으로 그 카드의 발동과 효과를 무효로 하고 파괴한다.",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

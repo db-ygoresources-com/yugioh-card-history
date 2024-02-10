@@ -1,0 +1,15 @@
+{
+  "id": 12949,
+  "type": "monster",
+  "name": "Kracher",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "(Schnelleffekt): Du kannst diese Karte abwerfen; füge deinem Gegner 1000 Schaden zu und falls du dies tust, überspringe deine nächste Draw Phase. Du kannst diesen Effekt von „Kracher“ nur einmal pro Spielzug verwenden. Jedes Mal, wenn dein Gegner Effektschaden erhält, lege 1 Zählmarke auf diese Karte. Einmal pro Spielzug, während der End Phase: Entferne alle Zählmarken von dieser Karte, die durch ihren Effekt auf sie gelegt wurden, und falls du dies tust, füge deinem Gegner für jede 300 Schaden zu.",
+  "level": 4,
+  "atk": 1700,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

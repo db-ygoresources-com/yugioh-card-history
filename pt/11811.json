@@ -1,0 +1,18 @@
+{
+  "id": 11811,
+  "type": "monster",
+  "name": "Cavaleirardor Cruzado",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Este impulsivo guerreiro Cavaleirardor é fanático em relação as causas pelas quais ele luta. Por causa dessa paixão, seus companheiros sempre tentam mantê-lo próximo.",
+  "pendEffect": "Se você tiver um card \"Cavaleirardor\" na sua outra Zona de Pêndulo: você pode destruir os dois cards nas suas Zonas de Pêndulo e, se isso acontecer, adicione 1 monstro de FOGO do Tipo Guerreiro do seu Deck ou Cemitério à sua mão.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1600,
+  "def": 300,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

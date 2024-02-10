@@ -1,0 +1,15 @@
+{
+  "id": 8242,
+  "type": "monster",
+  "name": "Libélula de Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser destruído em batalha com um monstro que tenha 2000 ou mais de ATK. Ganha 200 de ATK para cada monstro \"Naturia\" no seu Cemitério.",
+  "level": 4,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Inseto",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15396,
+  "type": "monster",
+  "name": "Gerätewesen Verlängeroktopus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 „Gerätewesen“-Monster\nDiese gelinkte Karte kann weder als Ziel für Karteneffekte deines Gegners noch für Angriffe seiner Monster gewählt werden. Während der Schadensberechnung, falls ein „Gerätewesen“-Linkmonster, das du kontrollierst und das mit dieser Karte kreuzgelinkt ist, gegen ein Monster eines Gegners kämpft: Dein kämpfendes Monster erhält nur während der Schadensberechnung ATK in Höhe der Anzahl der Monster, die mit dieser Karte kreuzgelinkt sind, x 1000. Einmal pro Spielzug, falls ein oder mehr „Gerätewesen“-Linkmonster, die du kontrollierst und die nicht mit dieser Karte kreuzgelinkt sind, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst 1 Karte ziehen.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "2"
+  ],
+  "atk": 0,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

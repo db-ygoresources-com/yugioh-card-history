@@ -1,0 +1,15 @@
+{
+  "id": 8430,
+  "type": "monster",
+  "name": "Cyber-Eltanin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du alle LICHT Maschine-Monster von deiner Spielfeldseite und deinem Friedhof verbannst. Die ATK/DEF dieser Karte werden gleich der Anzahl der Monster, die für ihre Spezialbeschwörung verbannt wurden, x 500. Falls diese Karte als Spezialbeschwörung beschworen wird: Lege alle anderen offenen Monster auf dem Spielfeld auf den Friedhof.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

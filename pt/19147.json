@@ -1,0 +1,18 @@
+{
+  "id": 19147,
+  "type": "monster",
+  "name": "Veda Kalarcanum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por seu próprio Efeito de Pêndulo. Você só pode Invocar um ou mais \"Veda Kalarcanum\" por Invocação-Especial uma vez por turno. Uma vez por turno, se seu oponente Invocar um ou mais monstros por Invocação-Especial do Deck Adicional (exceto durante a Etapa de Dano): você pode banir, com a face para baixo, 12 cards da sua mão, do campo e/ou do Cemitério; essa se torna a Fase Final deste turno. Uma vez por turno, durante sua Fase de Apoio: devolva este card para a mão e, depois, você pode Invocar por Invocação-Especial 1 dos seus monstros \"Veda\" que estiverem banidos ou na sua mão, no Deck ou no Cemitério.",
+  "pendEffect": "Uma vez por Corrente, se um ou mais monstros forem destruídos: coloque 3 marcadores neste card. A Escala de Pêndulo deste card aumenta pelo número de marcadores nele. Você pode remover 12 marcadores deste card; Invoque-o por Invocação-Especial.",
+  "pendScale": 0,
+  "level": 12,
+  "atk": 0,
+  "def": 4000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

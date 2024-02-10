@@ -1,0 +1,15 @@
+{
+  "id": 11820,
+  "type": "monster",
+  "name": "Aromágico Alecrim",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Enquanto seus PV forem maiores que os do seu oponente, se um monstro Planta que você controla atacar, seu oponente não pode ativar efeitos de monstro até o final da Etapa de Dano. Uma vez por turno, se você ganhar PV: escolha 1 monstro com a face para cima no campo; mude sua posição de batalha.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Planta",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 17152,
+  "type": "monster",
+  "name": "Dragão Imortal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nDurante sua Fase Principal: você pode enviar 1 monstro Zumbi do seu Deck para o Cemitério e, se isso acontecer, o Nível deste card se torna a diferença entre os Níveis originais desse monstro e deste card. Quando um monstro Zumbi seu for destruído em batalha, enquanto este card estiver no seu Cemitério: você pode Invocar este card por Invocação-Especial, mas bana-o quando ele deixar o campo. Você só pode usar cada efeito de \"Dragão Imortal\" uma vez por turno.",
+  "level": 6,
+  "atk": 500,
+  "def": 2400,
+  "properties": [
+    "Zumbi",
+    "Sincro",
+    "Regulador",
+    "Efeito"
+  ]
+}

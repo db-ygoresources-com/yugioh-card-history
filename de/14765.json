@@ -1,0 +1,16 @@
+{
+  "id": 14765,
+  "type": "monster",
+  "name": "Haus-Drachenmädchen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Drachenmädchen“-Monster + 1 Drache-Monster\nEinmal pro Spielzug, während der Standby Phase: Du kannst 1 anderes „Drachenmädchen“-Monster wählen, das du kontrollierst; beschwöre 1 „Drachenmädchen“-Monster, dessen Stufe 1 höher oder 1 niedriger ist, als Spezialbeschwörung von deiner Hand oder deinem Friedhof in die Verteidigungsposition. Wenn ein oder mehr andere offene Drache-Monster, die du kontrollierst, auf deine Hand zurückgegeben werden (außer während des Damage Steps): Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

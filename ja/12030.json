@@ -1,0 +1,19 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "EMラ・パンダ",
+  "nameRuby": "エンタメイトラ・パンダ",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "「EMラ・パンダ」のモンスター効果は１ターンに１度しか使用できない。①：自分のPモンスターが攻撃対象に選択された時に発動できる。その攻撃を無効にする。",
+  "pendEffect": "①：１ターンに１度、自分メインフェイズに発動できる。このカードのPスケールを１つ上げる（最大１２まで）。",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "獣族",
+    "ペンデュラム",
+    "効果"
+  ]
+}

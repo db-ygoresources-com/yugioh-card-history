@@ -1,0 +1,16 @@
+{
+  "id": 6201,
+  "type": "monster",
+  "name": "마장기관차 데코이치",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "리버스 : 카드를 1장 드로우한다. 자신 필드 위에 \"마화물차량 보코이치\"가 앞면 표시로 존재할 경우, 다시 그 매수만큼 카드를 드로우한다.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "기계족",
+    "리버스",
+    "효과"
+  ]
+}

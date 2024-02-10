@@ -1,0 +1,16 @@
+{
+  "id": 8002,
+  "type": "monster",
+  "name": "マジック・リアクター・AID",
+  "nameRuby": "マジック・リアクター・エイド",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "１ターンに１度、相手が魔法カードを発動した時に発動できる。その魔法カードを破壊し、相手ライフに８００ポイントダメージを与える。",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "機械族",
+    "効果"
+  ]
+}

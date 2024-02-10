@@ -1,0 +1,15 @@
+{
+  "id": 9868,
+  "type": "monster",
+  "name": "Latinum, Exarch der Finsteren Welt",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Falls sie durch einen Karteneffekt eines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, wähle 1 Unterweltler-Monster auf dem Spielfeld; beschwöre diese Karte als Spezialbeschwörung, dann erhält jenes gewählte Ziel (falls es eins gibt) 500 ATK.",
+  "level": 6,
+  "atk": 1500,
+  "def": 2400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

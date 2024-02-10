@@ -1,0 +1,18 @@
+{
+  "id": 12711,
+  "type": "monster",
+  "name": "Ator do Abismo - Comediante Funky",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: até o final deste turno, você pode fazer com que este card ganhe 300 de ATK para cada monstro \"Ator do Abismo\" que você controla atualmente. Você pode escolher 1 outro monstro \"Ator do Abismo\" que você controla; até o final deste turno, ele ganha ATK igual ao ATK atual deste card. Este card não pode atacar no turno em que este card for ativado. Você só pode usar este efeito de \"Ator do Abismo - Comediante Funky\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno: você pode oferecer como Tributo 1 monstro \"Ator do Abismo\" e, depois, escolher 1 monstro \"Ator do Abismo\" que você controla; até o final deste turno, ele ganha ATK igual ao ATK original do monstro oferecido como Tributo (mesmo que este card deixe o campo).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

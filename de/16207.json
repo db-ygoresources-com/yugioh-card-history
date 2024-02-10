@@ -1,0 +1,15 @@
+{
+  "id": 16207,
+  "type": "monster",
+  "name": "Gizmek Arakami, der Hagelbringer-Eber",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du ein Maschine-Monster kontrollierst, dessen ATK seinen eigenen DEF entsprechen: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Maschine-Monster wählen, das du kontrollierst und dessen ATK seinen eigenen DEF entsprechen; lege 1 Maschine-Monster, dessen ATK seinen eigenen DEF entsprechen, mit einer niedrigeren Stufe als jenes als Ziel gewählte Monster von deinem Deck auf den Friedhof und falls du dies tust, erhält das als Ziel gewählte Monster ATK/DEF in Höhe der Stufe des auf den Friedhof gelegten Monsters x 100. Du kannst jeden Effekt von „Gizmek Arakami, der Hagelbringer-Eber“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1850,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

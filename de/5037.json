@@ -1,0 +1,16 @@
+{
+  "id": 5037,
+  "type": "monster",
+  "name": "Schieferkrieger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Diese Karte erhält 500 ATK und DEF.\nFalls diese Karte durch Kampf zerstört wird: Das Monster, das sie zerstört hat, verliert 500 ATK und DEF.",
+  "level": 4,
+  "atk": 1900,
+  "def": 400,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

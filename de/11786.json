@@ -1,0 +1,18 @@
+{
+  "id": 11786,
+  "type": "monster",
+  "name": "Risebell der Beschwörer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Risebell ist Saambells netter großer Bruder. Er passt gut auf seine kleine Schwester auf. Er liest jeden Nachmittag zusammen mit seiner Schwester in einem Zauberbuch, eine harmonische Routine, die jedem ein Lächeln ins Gesicht zaubert.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; erhöhe seine Stufe um 1 (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Psi",
+    "Pendel",
+    "Normal"
+  ]
+}

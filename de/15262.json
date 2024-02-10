@@ -1,0 +1,16 @@
+{
+  "id": 15262,
+  "type": "monster",
+  "name": "Mathemech Durchmesser",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Cyberse-Monster der Stufe 4 in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte können nicht aktiviert werden. Ein „Mathemech“-Monster, das mit dieser Karte auf dem Spielfeld als Material als Synchro- oder Xyz-Beschwörung beschworen wurde, erhält den folgenden Effekt.\n●Einmal pro Spielzug, während des Spielzugs, in dem diese Karte als Spezialbeschwörung beschworen wurde, wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst den Effekt annullieren.\nDu kannst jeden Effekt von „Mathemech Durchmesser“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Cyberse",
+    "Empfänger",
+    "Effekt"
+  ]
+}

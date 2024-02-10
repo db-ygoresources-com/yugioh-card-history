@@ -1,0 +1,19 @@
+{
+  "id": 12112,
+  "type": "monster",
+  "name": "EMギタートル",
+  "nameRuby": "エンタメイトギタートル",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "①：１ターンに１度、自分のPゾーンのカード１枚を対象として発動できる。そのカードのPスケールをターン終了時まで２つ上げる。",
+  "pendEffect": "「EMギタートル」のP効果は１ターンに１度しか使用できない。①：もう片方の自分のPゾーンに「EM」カードが発動した場合に発動できる。自分はデッキから１枚ドローする。",
+  "pendScale": 6,
+  "level": 1,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "水族",
+    "ペンデュラム",
+    "効果"
+  ]
+}

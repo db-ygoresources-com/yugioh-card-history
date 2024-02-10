@@ -1,0 +1,15 @@
+{
+  "id": 4768,
+  "type": "monster",
+  "name": "Insektenkönigin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Erhält für jedes Insekt-Monster auf dem Spielfeld 200 ATK. Kann keinen Angriff deklarieren, es sei denn, du bietest 1 Monster als Tribut an. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug ein Monster eines Gegners durch Kampf zerstört hat: Beschwöre 1 „Insektenmonster-Spielmarke“ (Insekt/ERDE/Stufe 1/ATK 100/DEF 100) als Spezialbeschwörung in die Angriffsposition.",
+  "level": 7,
+  "atk": 2200,
+  "def": 2400,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

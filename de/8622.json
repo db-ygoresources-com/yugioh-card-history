@@ -1,0 +1,16 @@
+{
+  "id": 8622,
+  "type": "monster",
+  "name": "Schwertmeister",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein Monster vom Typ Krieger, das du kontrollierst, ein Monster deines Gegners angreift und das Monster deines Gegners nicht durch Kampf zerstört wird, kannst du diese Karte am Ende des Damage Steps als Spezialbeschwörung von deiner Hand beschwören. Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu.",
+  "level": 3,
+  "atk": 1200,
+  "def": 0,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

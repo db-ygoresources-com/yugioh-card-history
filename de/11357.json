@@ -1,0 +1,18 @@
+{
+  "id": 11357,
+  "type": "monster",
+  "name": "Qliphort-Muschel",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Falls diese Karte als Normalbeschwörung beschworen wird, ohne Tribut anzubieten, oder sie als Spezialbeschwörung beschworen wird, wird ihre Stufe zu 4 und ihre Grund-ATK werden zu 1800. Falls diese Karte als Normalbeschwörung beschworen/gesetzt wird, bleibt sie von aktivierten Effekten von Monstern unberührt, deren Grundstufe/-rang niedriger ist als die derzeitige Stufe dieser Karte. Falls diese Karte als Normalbeschwörung beschworen wird, indem ein oder mehr „Qli“-Monster als Tribut angeboten werden, kann sie während jeder Battle Phase einen zweiten Angriff durchführen und falls sie ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "pendEffect": "Du kannst keine Monster als Spezialbeschwörung beschwören, außer „Qli“-Monstern. Dieser Effekt kann nicht annulliert werden. Alle Monster, die dein Gegner kontrolliert, verlieren 300 ATK.",
+  "pendScale": 9,
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

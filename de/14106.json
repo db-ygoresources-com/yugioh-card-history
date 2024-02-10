@@ -1,0 +1,15 @@
+{
+  "id": 14106,
+  "type": "monster",
+  "name": "Spritzender Tintenfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug, wenn diese Karte von einem Monster eines Gegners als Angriffsziel gewählt wird: Du kannst diese Karte, die du kontrollierst, in eine andere deiner Main-Monsterzonen bewegen, dann beschwöre 1 „Tintenfisch-Tinten-Spielmarke“ (Aqua/WASSER/Stufe 2/ATK ?/DEF 0) als Spezialbeschwörung. Die ATK dieser Spielmarke werden gleich den ATK des Monsters des Gegners. Solange diese Karte in deiner Main-Monsterzone ganz links oder rechts liegt, können Monster deines Gegners, deren ATK kleiner oder gleich den DEF dieser Karte sind, sie nicht als Angriffsziel wählen.",
+  "level": 2,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

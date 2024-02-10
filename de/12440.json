@@ -1,0 +1,15 @@
+{
+  "id": 12440,
+  "type": "monster",
+  "name": "Abrisspanda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, während der Standby Phase: Du kannst 500 LP zahlen; lege die oberste Karte deines Decks auf den Friedhof und falls du dies tust, erhält diese Karte ATK und DEF in Höhe der Stufe des Monsters x 200, falls es ein Monster war. Falls diese Karte, die dir gehört, durch eine Karte deines Gegners (durch Kampf oder einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Du kannst deiner Hand 1 Monster mit der niedrigsten Stufe von deinem Friedhof hinzufügen (bei Gleichstand bestimmst du eins).",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

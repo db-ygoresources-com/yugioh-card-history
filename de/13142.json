@@ -1,0 +1,18 @@
+{
+  "id": 13142,
+  "type": "monster",
+  "name": "Dämmerungs-Ninja Kagen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Tribut anbieten und dann 1 „Ninja“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 800 ATK.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Ninja“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug, wenn dein „Ninja“-Monster einen Angriff deklariert: Du kannst jenes Monster bis zum Ende des Damage Steps 1000 ATK erhalten lassen (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 10,
+  "level": 1,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

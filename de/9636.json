@@ -1,0 +1,15 @@
+{
+  "id": 9636,
+  "type": "monster",
+  "name": "Flughai",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Falls diese Karte deinem Gegner Kampfschaden zugefügt hat, am Ende der Battle Phase: Verbanne diese Karte bis zu deiner nächsten Standby Phase.",
+  "level": 3,
+  "atk": 1600,
+  "def": 300,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

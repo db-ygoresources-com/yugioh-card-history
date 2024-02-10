@@ -1,0 +1,17 @@
+{
+  "id": 9867,
+  "type": "monster",
+  "name": "Dボーイズ",
+  "nameRuby": "ディーボーイズ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "リバース：デッキから「Dボーイズ」を任意の数だけ表側攻撃表示で特殊召喚できる。その後、自分はこの効果で特殊召喚したモンスターの数×１０００ポイントダメージを受ける。",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "悪魔族",
+    "リバース",
+    "効果"
+  ]
+}

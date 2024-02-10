@@ -1,0 +1,16 @@
+{
+  "id": 13254,
+  "type": "monster",
+  "name": "Destrudo der Schauer des verschwundenen Drachen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst die Hälfte deiner LP zahlen und dann 1 Monster der Stufe 6 oder niedriger wählen, das du kontrollierst; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, wird die Stufe dieser Karte um die Stufe des als Ziel gewählten Monsters verringert, zusätzlich lege diese Karte unters Deck, falls sie das Spielfeld verlässt. Du kannst diesen Effekt von „Destrudo der Schauer des verschwundenen Drachen“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 1000,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

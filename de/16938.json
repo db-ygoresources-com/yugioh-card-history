@@ -1,0 +1,19 @@
+{
+  "id": 16938,
+  "type": "monster",
+  "name": "Abgrundhüter",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 WASSER Monster\nDiese Karte kann nicht in dem Spielzug als Linkmaterial verwendet werden, in dem sie als Linkbeschwörung beschworen wurde. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Fisch-Monster als Spezialbeschwörung von deiner Hand in deine Zone beschwören, auf die diese Karte zeigt. Du kannst 1 anderes Fisch-Monster, das du kontrollierst, und 1 Karte, die dein Gegner kontrolliert, wählen; verbanne jene Karten. Du kannst jeden Effekt von „Abgrundhüter“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Fisch",
+    "Link",
+    "Effekt"
+  ]
+}

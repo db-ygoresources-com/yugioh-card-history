@@ -1,0 +1,15 @@
+{
+  "id": 7829,
+  "type": "monster",
+  "name": "Wurm Gurus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn ein Monster in verdeckter Verteidigungsposition aufgedeckt wird, lege 1 Wurm-Zählmarke auf diese Karte. Diese Karte erhält 300 ATK für jede Wurm-Zählmarke auf ihr.",
+  "level": 4,
+  "atk": 1500,
+  "def": 300,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4749,
+  "type": "monster",
+  "name": "Pistolendrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; wirf 3-mal eine Münze und zerstöre es, falls mindestens 2 der Ergebnisse Kopf sind.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

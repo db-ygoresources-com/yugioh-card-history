@@ -1,0 +1,18 @@
+{
+  "id": 14363,
+  "type": "monster",
+  "name": "Alläugiger Phantomdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand oder offen von deinem Extra Deck) beschworen werden, indem du alle Monster, die du kontrollierst, (min. 2) als Tribut anbietest, darunter ein Drache-Pendelmonster. Du kannst „Alläugiger Phantomdrache“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Einmal pro Spielzug, während der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Verdopple bis zum Ende dieses Spielzugs die derzeitigen ATK dieser Karte. Einmal pro Spielzug, wenn dein Gegner eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktiviert (Schnelleffekt): Du kannst 1 Zauber/Falle, den oder die du kontrollierst, auf den Friedhof legen; annulliere die Aktivierung.",
+  "pendEffect": "Einmal pro Spielzug, am Ende des Damage Steps, falls dein Drache-Pendelmonster ein Monster eines Gegners angegriffen hat: Du kannst diesen Effekt aktivieren; es kann sofort noch einmal angreifen. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Angriffe deklarieren, außer mit dem Monster.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

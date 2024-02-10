@@ -1,0 +1,18 @@
+{
+  "id": 13137,
+  "type": "monster",
+  "name": "Ator do Abismo - Erguedor de Cortinas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Ganha 1100 de ATK se você não controlar nenhum outro monstro. Uma vez por turno: você pode enviar 1 Magia \"Script do Abismo\" do seu Deck para o Cemitério; adicione 1 Monstro Pêndulo \"Ator do Abismo\" com a face para cima do seu Deck Adicional à sua mão.",
+  "pendEffect": "Se você não controlar nenhum monstro: você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo. Você só pode usar este efeito de \"Ator do Abismo - Erguedor de Cortinas\" uma vez por Duelo.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1100,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

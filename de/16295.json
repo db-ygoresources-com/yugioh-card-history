@@ -1,0 +1,15 @@
+{
+  "id": 16295,
+  "type": "monster",
+  "name": "Anhängender Cybern",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 „Cyber“-Drache- oder „Cyber“-Maschine-Monster wählen, das du kontrollierst; rüste es mit dieser Karte von deiner Hand oder Spielfeldseite aus. Solange diese Karte eine Ausrüstungskarte ist, erhält das ausgerüstete Monster 600 ATK. Falls diese Karte auf den Friedhof gelegt wird, solange sie ein Monster ausrüstet: Du kannst 1 anderes „Cyber“-Drache- oder „Cyber“-Maschine-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Anhängender Cybern“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5835,
+  "type": "monster",
+  "name": "Schwarz Glänzender Soldat - Gesandter des Anfangs",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT und 1 FINSTERNIS Monster von deinem Friedhof verbannst. Einmal pro Spielzug kannst du 1 dieser Effekte aktivieren.\n●Wähle 1 Monster auf dem Spielfeld; verbanne es. Diese Karte kann in dem Spielzug, in dem dieser Effekt aktiviert wird, nicht angreifen.\n●Falls diese angreifende Karte ein Monster eines Gegners durch Kampf zerstört: Sie kann sofort einen zweiten Angriff durchführen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

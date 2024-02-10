@@ -1,0 +1,16 @@
+{
+  "id": 7545,
+  "type": "monster",
+  "name": "Wurm Cartaros",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Füge deiner Hand 1 „Wurm“-Monster vom Typ Reptil der Stufe 4 oder niedriger von deinem Deck hinzu.",
+  "level": 4,
+  "atk": 1200,
+  "def": 500,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

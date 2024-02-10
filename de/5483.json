@@ -1,0 +1,15 @@
+{
+  "id": 5483,
+  "type": "monster",
+  "name": "Gernia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während deiner nächsten Standby Phase, nachdem diese offene Karte, die du kontrollierst, durch einen Karteneffekt eines Gegners zerstört und auf deinen Friedhof gelegt wurde: Beschwöre sie als Spezialbeschwörung von deinem Friedhof.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

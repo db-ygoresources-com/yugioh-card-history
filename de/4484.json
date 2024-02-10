@@ -1,0 +1,15 @@
+{
+  "id": 4484,
+  "type": "monster",
+  "name": "Insektensoldaten des Himmels",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn dieses Monster ein WIND Monster angreift, erhöht sich seine ATK nur während des Damage Step um 1000 Punkte.",
+  "level": 3,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

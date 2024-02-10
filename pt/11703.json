@@ -1,0 +1,18 @@
+{
+  "id": 11703,
+  "type": "monster",
+  "name": "Domador da Besta Espiritual Zeframpilica",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando este card for Invocado por Invocação-Normal ou Pêndulo: você pode escolher 1 monstro \"Besta Espiritual\" ou \"Zefra\" no seu Cemitério, exceto \"Domador da Besta Espiritual Zeframpilica\"; Invoque-o por Invocação-Especial, mas destrua-o durante a Fase Final. Você só pode Invocar um ou mais \"Domador da Besta Espiritual Zeframpilica\" por Invocação-Especial uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Besta Espiritual\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Psíquico",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

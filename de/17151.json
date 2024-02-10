@@ -1,0 +1,16 @@
+{
+  "id": 17151,
+  "type": "monster",
+  "name": "Skelettdrache Fellgrant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Zombie-Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet; verbanne es. Falls ein oder mehr Monster als Spezialbeschwörung von einem beliebigen Friedhof beschworen werden, solange dieses Monster auf dem Spielfeld liegt (außer während des Damage Steps): Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; annulliere bis zum Ende dieses Spielzugs seine Effekte. Du kannst jeden Effekt von „Skelettdrache Fellgrant“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

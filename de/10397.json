@@ -1,0 +1,15 @@
+{
+  "id": 10397,
+  "type": "monster",
+  "name": "Inari-Feuer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst nur 1 „Inari-Feuer“ kontrollieren. Falls du ein Hexer-Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Einmal pro Spielzug, während deiner nächsten Standby Phase, nachdem diese offene Karte auf dem Spielfeld durch einen Karteneffekt zerstört und auf den Friedhof gelegt wurde: Beschwöre sie als Spezialbeschwörung von deinem Friedhof.",
+  "level": 4,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9296,
+  "type": "monster",
+  "name": "Schneller Läufer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Alle offenen Synchromonster, die du kontrollierst, erhalten 600 ATK.",
+  "level": 4,
+  "atk": 1100,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 16089,
+  "type": "monster",
+  "name": "LaSolfacorde Angelia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Enquanto você tiver uma Escala de Pêndulo ímpar na sua Zona de Pêndulo, se um Monstro Pêndulo \"Solfacorde\" seu atacar, seu oponente não pode ativar Cards de Magia/Armadilha ou seus efeitos até o final da Etapa de Dano. Durante sua Fase Principal: você pode oferecer como Tributo 1 Monstro Pêndulo \"Solfacorde\" (mesmo se estiver com a face para baixo) e, se isso acontecer, Invoque por Invocação-Especial do seu Deck 1 Monstro Pêndulo \"Solfacorde\" cuja Escala de Pêndulo seja 2 maior ou 2 menor que a desse monstro, exceto \"LaSolfacorde Angelia\". Você só pode usar este efeito de \"LaSolfacorde Angelia\" uma vez por turno.",
+  "pendEffect": "Seu oponente não pode ativar Cards de Magia/Armadilha ou efeitos de monstro quando um ou mais Monstros Pêndulo \"Solfacorde\" seus forem Invocados por Invocação-Pêndulo.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

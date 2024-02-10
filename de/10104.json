@@ -1,0 +1,15 @@
+{
+  "id": 10104,
+  "type": "monster",
+  "name": "Trübe Flamme Hippogreif",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Einmal pro Spielzug: Du kannst 1 anderes FEUER Monster als Tribut anbieten; diese Karte erhält 300 ATK.",
+  "level": 6,
+  "atk": 2100,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

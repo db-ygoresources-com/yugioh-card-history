@@ -1,0 +1,18 @@
+{
+  "id": 12394,
+  "type": "monster",
+  "name": "Carne Fantasma",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "O Fantasma da Ceia de Natal.",
+  "pendEffect": "Uma vez por turno: você pode lançar um dado de seis faces. Até o final deste turno, aumente a Escala de Pêndulo deste card por esse número (máx. 10).",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Normal"
+  ]
+}

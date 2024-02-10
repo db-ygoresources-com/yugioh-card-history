@@ -1,0 +1,16 @@
+{
+  "id": 17154,
+  "type": "monster",
+  "name": "Psi-Endbestrafer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nSolange du weniger oder gleich viele LP wie dein Gegner hast, bleibt diese als Synchrobeschwörung beschworene Karte von aktivierten Effekten deines Gegners unberührt. Einmal pro Spielzug: Du kannst 1000 LP zahlen und dann 1 Monster, das du kontrollierst, und 1 Karte, die dein Gegner kontrolliert, wählen; verbanne sie. Am Beginn der Battle Phase: Du kannst diese Karte ATK in Höhe der Differenz zwischen deinen LP und denen deines Gegners erhalten lassen.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3500,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8522,
+  "type": "monster",
+  "name": "XX-Säbel-Fulhelmritter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn ein Monster deines Gegners einen Angriff deklariert: Du kannst das angreifende Monster wählen; annulliere den Angriff. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt. Falls diese Karte ein Monster deines Gegners in Verteidigungsposition durch Kampf zerstört: Du kannst 1 „X-Säbel“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "level": 3,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

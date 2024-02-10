@@ -1,0 +1,16 @@
+{
+  "id": 10340,
+  "type": "monster",
+  "name": "Sternenvasall Paladynamo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 LICHT Monster der Stufe 4\nEinmal pro Spielzug: Du kannst 2 Xyz-Material von dieser Karte abhängen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere seine ATK zu 0 und falls du dies tust, bleiben seine Effekte annulliert. Falls diese Karte, die du kontrollierst, durch eine Karte deines Gegners (durch Kampf oder einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Ziehe 1 Karte.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

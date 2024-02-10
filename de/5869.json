@@ -1,0 +1,15 @@
+{
+  "id": 5869,
+  "type": "monster",
+  "name": "Valkyre des Magiers",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Monster, die dein Gegner kontrolliert, können keine offenen Monster vom Typ Hexer als Ziel für Angriffe wählen, außer diesem.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

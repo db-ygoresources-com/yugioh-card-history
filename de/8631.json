@@ -1,0 +1,16 @@
+{
+  "id": 8631,
+  "type": "monster",
+  "name": "Feuerameise Ascator",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 Monster der Stufe 5 in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung, aber seine Effekte werden annulliert, zusätzlich lege es während der End Phase dieses Spielzugs auf den Friedhof.",
+  "level": 3,
+  "atk": 700,
+  "def": 1300,
+  "properties": [
+    "Insekt",
+    "Empfänger",
+    "Effekt"
+  ]
+}

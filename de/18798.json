@@ -1,0 +1,16 @@
+{
+  "id": 18798,
+  "type": "monster",
+  "name": "Mannadium Glühend",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du „Visas Starfrost“ oder ein Monster mit 1500 ATK/2100 DEF kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Mannadium Glühend“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Mannadium“-Empfänger als Spezialbeschwörung von deinem Deck beschwören. Du kannst diesen Effekt von „Mannadium Glühend“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4496,
+  "type": "monster",
+  "name": "Nadelball",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 2000 Life Points zahlen, um deinem Gegner 1000 Schaden zuzufügen.",
+  "level": 2,
+  "atk": 750,
+  "def": 700,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7897,
+  "type": "monster",
+  "name": "Guerreiro Turbo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "\"Turbo Sincron\" + 1 ou mais monstros não-Reguladores\nQuando este card declarar um ataque contra um Monstro Sincro de Nível 6 ou mais: até o final da Etapa de Dano, diminua pela metade o ATK do alvo do ataque. Este card não pode ser escolhido como alvo de efeitos de monstros de Nível 6 ou menos.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Guerreiro",
+    "Sincro",
+    "Efeito"
+  ]
+}

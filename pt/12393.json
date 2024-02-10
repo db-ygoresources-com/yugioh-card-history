@@ -1,0 +1,18 @@
+{
+  "id": 12393,
+  "type": "monster",
+  "name": "Peru Tenro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "O sabor da vitória vai dominar você.",
+  "pendEffect": "Uma vez por turno: você pode lançar um dado de seis faces. Até o final deste turno, reduza a Escala de Pêndulo deste card por esse número (mín. 1).",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Besta Alada",
+    "Pêndulo",
+    "Normal"
+  ]
+}

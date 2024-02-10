@@ -1,0 +1,21 @@
+{
+  "id": 13750,
+  "type": "monster",
+  "name": "Kalliberschwert-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3+ Effektmonster\nKann nicht durch Kampf zerstört werden. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Monster in Angriffsposition wählen; ändere es in die Verteidigungsposition, zusätzlich kann diese Karte in diesem Spielzug während jeder Battle Phase einen zweiten Angriff durchführen. Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren. Einmal pro Spielzug, wenn diese Karte einen Angriff gegen ein offenes Monster deklariert: Du kannst diesen Effekt aktivieren; bis zum Ende dieses Spielzugs erhält diese Karte ATK in Höhe der Hälfte der derzeitigen ATK jenes Monsters und falls sie dies tut, werden die derzeitigen ATK jenes Monsters halbiert.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "1",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

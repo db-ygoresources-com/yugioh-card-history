@@ -1,0 +1,16 @@
+{
+  "id": 5044,
+  "type": "monster",
+  "name": "Erbarmungsloser Plünderer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "FLIPP: Jeder Spieler wirft 1 Karte ab.\nFalls diese Karte durch Kampf zerstört wird: Das Monster, das sie zerstört hat, verliert 500 ATK und DEF.",
+  "level": 3,
+  "atk": 1600,
+  "def": 100,
+  "properties": [
+    "Pflanze",
+    "Flipp",
+    "Effekt"
+  ]
+}

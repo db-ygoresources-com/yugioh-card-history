@@ -1,0 +1,15 @@
+{
+  "id": 10595,
+  "type": "monster",
+  "name": "Edler Ritter Gwalchavad",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld liegt. Solange diese Karte mit einer „Edle Waffen“-Ausrüstungszauberkarte ausgerüstet ist, wird sie ein Effektmonster mit diesem Effekt.\n●Du kannst 1 „Edler Ritter“-Monster in deinem Friedhof wählen; füge es deiner Hand hinzu und falls du dies tust, zerstöre 1 „Edle Waffen“-Ausrüstungszauberkarte, die du kontrollierst. Du kannst diesen Effekt von „Edler Ritter Gwalchavad“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

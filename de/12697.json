@@ -1,0 +1,18 @@
+{
+  "id": 12697,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Angesagter Ersatzdarsteller",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du 2 „Abgrundschauspieler“-Karten in deinen Pendelzonen hast: Du kannst diese Karte als Tribut anbieten; beschwöre 1 „Abgrundschauspieler“-Pendelmonster der Stufe 1 oder 8 als Spezialbeschwörung von deiner Hand oder offen von deinem Extra Deck. Du kannst diesen Effekt von „Abgrundschauspieler - Angesagter Ersatzdarsteller“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Wenn du ein Monster als Pendelbeschwörung beschwörst: Du kannst deiner Hand 1 offenes „Abgrundschauspieler“-Pendelmonster der Stufe 1 oder 8 von deinem Extra Deck hinzufügen.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

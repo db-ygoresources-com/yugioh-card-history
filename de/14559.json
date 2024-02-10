@@ -1,0 +1,16 @@
+{
+  "id": 14559,
+  "type": "monster",
+  "name": "T.G. Zahnradzombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 „T.G.“-Monster wählen, das du kontrollierst; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann verliert das als Ziel gewählte Monster 1000 ATK. Du kannst diesen Effekt von „T.G. Zahnradzombie“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 600,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

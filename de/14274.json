@@ -1,0 +1,15 @@
+{
+  "id": 14274,
+  "type": "monster",
+  "name": "Sternguckender Star",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte erhält einen Effekt, basierend auf deiner Main-Monsterzone, in der sie liegt.\n●Ganz links: Erhöhe ihre Stufe um 4.\n●Ganz rechts: Erhöhe ihre Stufe um 3.\n●Mitte: Erhöhe ihre Stufe um 2.\n●Andere: Erhöhe ihre Stufe um 1.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

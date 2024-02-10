@@ -1,0 +1,18 @@
+{
+  "id": 16090,
+  "type": "monster",
+  "name": "SiSolfakkord Beautia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "(Schnelleffekt): Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert, oder falls du einen geraden Pendelbereich in deiner Pendelzone hast, kannst du stattdessen 1 offene(n) Zauber/Falle wählen, den oder die dein Gegner kontrolliert; verbanne es, ihn oder sie, wenn es, er oder sie in diesem Spielzug das Spielfeld verlässt. Du kannst diesen Effekt von „SiSolfakkord Beautia“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, am Beginn des Damage Steps, falls diese Karte gegen ein Monster kämpft, dessen ATK größer oder gleich dem niedrigsten Pendelbereich in deiner Pendelzone x 300 sind: Zerstöre das Monster.",
+  "pendEffect": "Dein Gegner kann weder eine Zauber-/Fallenkarte noch einen Monstereffekt aktivieren, wenn dein oder deine „Solfakkord“-Pendelmonster als Pendelbeschwörung beschworen werden.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

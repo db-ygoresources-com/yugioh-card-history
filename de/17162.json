@@ -1,0 +1,19 @@
+{
+  "id": 17162,
+  "type": "monster",
+  "name": "Sylvanische Tanzpione",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 Pflanze-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst eine Zahl von 1 bis 3 bestimmen und so viele oberste Karten deines Decks ausgraben und falls du dies tust, kannst du bis zu 2 ausgegrabene Pflanze-Monster als Spezialbeschwörung beschwören, aber sie können nicht als Linkmaterial verwendet werden, zusätzlich lege die restlichen Karten auf den Friedhof. Du kannst 1 Pflanze-Monster, das eine Stufe hat, in deinem Friedhof wählen; die Stufen der Monster, auf die diese Karte zeigt, werden bis zum Ende dieses Spielzugs gleich der Stufe jenes Monsters. Du kannst jeden Effekt von „Sylvanische Tanzpione“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Pflanze",
+    "Link",
+    "Effekt"
+  ]
+}

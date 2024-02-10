@@ -1,0 +1,15 @@
+{
+  "id": 5238,
+  "type": "monster",
+  "name": "Antike Lampe",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während deiner Main Phase: Du kannst „Mystischer Jinn der Lampe“ als Spezialbeschwörung von deiner Hand beschwören. Diese Karte muss offen auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen. Vor der Schadensberechnung, falls diese Karte von einem Monster deines Gegners angegriffen wird und zu Beginn des Damage Steps verdeckt lag: Du kannst 1 Monster wählen, das dein Gegner kontrolliert, außer dem angreifenden Monster; das angreifende Monster greift stattdessen das gewählte Monster an und führe die Schadensberechnung durch.",
+  "level": 3,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

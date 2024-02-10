@@ -1,0 +1,15 @@
+{
+  "id": 16514,
+  "type": "monster",
+  "name": "Força da Destruição Autômata",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (do seu Cemitério) ao banir monstros Máquina do seu Cemitério cuja soma dos Níveis seja igual a 12 ou mais. Quando seu oponente ativar um card ou efeito durante a Fase de Batalha (Efeito Rápido): você pode pagar metade dos seus PV; negue a ativação e, se isso acontecer, diminua pela metade os PV do seu oponente. Se este card for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial até 3 dos seus monstros \"Autômata(o)\" banidos cuja soma dos Níveis seja igual a 12 ou menos. Você só pode usar cada efeito de \"Força da Destruição Autômata\" uma vez por turno.",
+  "level": 10,
+  "atk": 4600,
+  "def": 4100,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

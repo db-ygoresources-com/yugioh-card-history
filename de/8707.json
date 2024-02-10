@@ -1,0 +1,15 @@
+{
+  "id": 8707,
+  "type": "monster",
+  "name": "Neo-Flamvell-Säbel",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "(Diese Karte wird nicht als „Säbel“-Karte behandelt.)\nSolange dein Gegner 4 oder weniger Karten in seinem Friedhof hat, erhält diese Karte 600 ATK. Solange dein Gegner 8 oder mehr Karten in seinem Friedhof hat, verliert diese Karte 300 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

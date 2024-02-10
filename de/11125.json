@@ -1,0 +1,16 @@
+{
+  "id": 11125,
+  "type": "monster",
+  "name": "Schwarzer Illusionsmagier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 7\nDu kannst diese Karte auch als Xyz-Beschwörung beschwören, indem du ein Hexer-Xyz-Monster des Rangs 6, das du kontrollierst, als das Material verwendest. (Transferiere sein Material an diese Karte.) Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; beschwöre 1 Normales Hexer-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck. Wenn ein Normales Hexer-Monster einen Angriff deklariert: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; verbanne sie. Du kannst diesen Effekt von „Schwarzer Illusionsmagier“ nur einmal pro Spielzug verwenden.",
+  "rank": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

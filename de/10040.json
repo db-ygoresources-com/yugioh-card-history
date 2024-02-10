@@ -1,0 +1,15 @@
+{
+  "id": 10040,
+  "type": "monster",
+  "name": "Fotoklop",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte ein offenes Monster auf dem Spielfeld angreift, am Beginn des Damage Steps: Zerstöre das Monster. Seine DEF müssen höher sein als die ATK dieser Karte, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

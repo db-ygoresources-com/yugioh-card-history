@@ -1,0 +1,16 @@
+{
+  "id": 10073,
+  "type": "monster",
+  "name": "Insektor Exa-Hirschkäfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Insekt-Monster der Stufe 5\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und dann 1 Monster wählen, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet; rüste diese Karte mit dem gewählten Ziel aus. Diese Karte erhält ATK/DEF in Höhe der Hälfte der Grund-ATK/DEF der Monster, mit denen sie durch diesen Effekt ausgerüstet ist.",
+  "rank": 5,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Insekt",
+    "Xyz",
+    "Effekt"
+  ]
+}

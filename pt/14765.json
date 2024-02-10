@@ -1,0 +1,16 @@
+{
+  "id": 14765,
+  "type": "monster",
+  "name": "Dragãozela Caseira",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstro \"Dragãozela\" + 1 monstro Dragão\nUma vez por turno, durante a Fase de Apoio: você pode escolher 1 outro monstro \"Dragãozela\" que você controla; Invoque por Invocação-Especial 1 monstro \"Dragãozela\" da sua mão ou do Cemitério em Posição de Defesa, cujo Nível seja 1 a mais ou 1 a menos que o dele. Quando um ou mais outros monstros Dragão com a face para cima que você controla voltarem para a sua mão (exceto durante a Etapa de Dano): você pode escolher 1 monstro que seu oponente controla; destrua-o.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Efeito"
+  ]
+}

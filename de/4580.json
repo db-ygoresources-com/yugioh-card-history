@@ -1,0 +1,15 @@
+{
+  "id": 4580,
+  "type": "monster",
+  "name": "Hexe vom schwarzen Wald",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Füge deiner Hand 1 Monster mit 1500 oder weniger DEF von deinem Deck hinzu, aber du kannst für den Rest dieses Spielzugs weder Karten noch die Effekte von Karten mit jenem Namen aktivieren. Du kannst diesen Effekt von „Hexe vom schwarzen Wald“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

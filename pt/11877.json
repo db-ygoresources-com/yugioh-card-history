@@ -1,0 +1,16 @@
+{
+  "id": 11877,
+  "type": "monster",
+  "name": "Mare Mare",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Não pode ser Invocado por Invocação-Especial, exceto pelo efeito de um monstro Wyrm. Durante sua Fase Principal: você pode reduzir o Nível deste card em 1 e, se isso acontecer, Invoque por Invocação-Especial 1 \"Ficha de Mini Mare Mare\" (Wyrm/ÁGUA/Nível 1/ATK 300/DEF 200). Você só pode usar este efeito de \"Mare Mare\" até três vezes por turno.",
+  "level": 7,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Wyrm",
+    "Regulador",
+    "Efeito"
+  ]
+}

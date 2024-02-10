@@ -1,0 +1,16 @@
+{
+  "id": 10000,
+  "type": "monster",
+  "name": "Edelstein-Ritter Seraphinit",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 „Edelstein-Ritter“-Monster + 1 LICHT Monster\nMuss erst als Fusionsbeschwörung mit dem oben aufgeführten Fusionsmaterial beschworen werden. Während deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung/deinem Setzen 1 Monster als Normalbeschwörung beschwören/setzen. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.)",
+  "level": 5,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

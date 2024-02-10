@@ -1,0 +1,16 @@
+{
+  "id": 8709,
+  "type": "monster",
+  "name": "Genex-Verbündeter Vogelmensch",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 offenes Monster, das du kontrollierst, auf die Hand zurückgeben; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, aber verbanne sie, wenn sie das Spielfeld verlässt, zusätzlich erhält sie 500 ATK, falls das zurückgegebene Monster auf dem Spielfeld WIND war.",
+  "level": 3,
+  "atk": 1400,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

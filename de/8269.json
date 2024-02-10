@@ -1,0 +1,15 @@
+{
+  "id": 8269,
+  "type": "monster",
+  "name": "Totenkopf-Flamme",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug kannst du 1 „Brennender Totenkopf“ als Spezialbeschwörung von deiner Hand beschwören. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Battle Phase durchführen. Du kannst deiner Hand 1 „Brennender Totenkopf“ von deinem Friedhof hinzufügen, anstatt in deiner Draw Phase ein normales Ziehen durchzuführen.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

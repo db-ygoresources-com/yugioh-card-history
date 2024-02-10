@@ -1,0 +1,16 @@
+{
+  "id": 9920,
+  "type": "monster",
+  "name": "Insektor Exa-Käfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 6\nWenn diese Karte als Xyz-Beschwörung beschworen wird: Du kannst 1 Monster in einem beliebigen Friedhof wählen; rüste diese Karte mit dem gewählten Ziel aus. Diese Karte erhält ATK/DEF in Höhe der Hälfte der Grund-ATK/DEF des Monsters, mit dem sie durch diesen Effekt ausgerüstet ist. Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und dann 1 offene Karte auf jeder Spielfeldseite wählen; lege die gewählten Ziele auf den Friedhof.",
+  "rank": 6,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Xyz",
+    "Effekt"
+  ]
+}

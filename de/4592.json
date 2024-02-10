@@ -1,0 +1,16 @@
+{
+  "id": 4592,
+  "type": "monster",
+  "name": "Greenkappa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 2 gesetzte Zauber-/Fallenkarten auf dem Spielfeld; zerstöre die gewählten Ziele.",
+  "level": 3,
+  "atk": 650,
+  "def": 900,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

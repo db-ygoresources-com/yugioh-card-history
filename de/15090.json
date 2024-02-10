@@ -1,0 +1,15 @@
+{
+  "id": 15090,
+  "type": "monster",
+  "name": "Maschinenwesen Luftangreifer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst 1 anderes „Maschinenwesen“-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 Maschine-Monster wählen, das du kontrollierst; beschwöre 1 „Maschinenwesen“-Monster mit einem unterschiedlichen Namen und der gleichen oder einer niedrigeren Stufe als das Monster als Spezialbeschwörung von deinem Deck und falls du dies tust, zerstöre das als Ziel gewählte Monster. Du kannst jeden Effekt von „Maschinenwesen Luftangreifer“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1500,
+  "def": 2600,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

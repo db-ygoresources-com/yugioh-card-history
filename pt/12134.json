@@ -1,0 +1,18 @@
+{
+  "id": 12134,
+  "type": "monster",
+  "name": "Dinonévoa Pteran",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Quando este card destruir um monstro do oponente em batalha: você pode adicionar 1 card \"Dinonévoa\" do seu Deck à sua mão.",
+  "pendEffect": "Se outro(s) card(s) \"Dinonévoa\" que você controla seria(m) destruído(s) em batalha ou por um efeito de card do oponente, em vez disso, você pode destruir este card.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

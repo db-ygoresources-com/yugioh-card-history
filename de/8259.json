@@ -1,0 +1,16 @@
+{
+  "id": 8259,
+  "type": "monster",
+  "name": "Jurassier-Velphito",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Dinosaurier\nDie ATK und DEF dieser Karte entsprechen der Summe der Grund-ATK der Synchromaterialmonster, die für ihre Synchrobeschwörung benutzt wurden. Falls diese Karte ein Monster in verdeckter Verteidigungsposition angreift, kannst du das Monster sofort durch den Effekt dieser Karte zerstören, ohne es aufzudecken und ohne Schadensberechnung.",
+  "level": 5,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Dinosaurier",
+    "Synchro",
+    "Effekt"
+  ]
+}

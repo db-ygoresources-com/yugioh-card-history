@@ -1,0 +1,15 @@
+{
+  "id": 7266,
+  "type": "monster",
+  "name": "Wolkian - Regenwolkenmann",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht durch Kampf zerstört werden. Falls sich diese Karte in offener Verteidigungsposition befindet, zerstöre sie. Du kannst eine beliebige Anzahl WASSER Monster als Tribut für die Tributbeschwörung dieser Karte anbieten. Falls diese Karte als Tributbeschwörung beschworen wird: Lege 1 Nebel-Zählmarke für jedes WASSER Monster, das du als Tribut angeboten hast, darauf. Diese Karte erhält für jede Nebel-Zählmarke auf dem Spielfeld 500 ATK.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

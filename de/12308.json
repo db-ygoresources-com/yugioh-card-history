@@ -1,0 +1,16 @@
+{
+  "id": 12308,
+  "type": "monster",
+  "name": "Rotäugiger Toon-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nicht in dem Spielzug angreifen, in dem sie beschworen wurde. Solange du „Toon-Welt“ kontrollierst und dein Gegner keine Toon-Monster kontrolliert, kann diese Karte deinen Gegner direkt angreifen. Einmal pro Spielzug: Du kannst 1 Toon-Monster als Spezialbeschwörung von deiner Hand beschwören, außer „Rotäugiger Toon-Drache“, ungeachtet seiner Beschwörungsbedingungen.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Toon",
+    "Effekt"
+  ]
+}

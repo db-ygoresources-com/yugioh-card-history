@@ -1,0 +1,16 @@
+{
+  "id": 9297,
+  "type": "monster",
+  "name": "Barriereresonator",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "(Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 Empfänger wählen, den du kontrollierst; in diesem Spielzug kann er nicht durch Kampf zerstört werden, zusätzlich erhältst du keinen Kampfschaden aus Angriffen, an denen er beteiligt ist.",
+  "level": 1,
+  "atk": 300,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

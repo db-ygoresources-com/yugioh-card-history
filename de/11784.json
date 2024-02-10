@@ -1,0 +1,18 @@
+{
+  "id": 11784,
+  "type": "monster",
+  "name": "Weisheitsaugen-Magier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte abwerfen und dann 1 Karte in deiner Pendelzone wählen, deren derzeitiger Pendelbereich sich von ihrem Grund-Pendelbereich unterscheidet; ihr Pendelbereich wird bis zum Ende dieses Spielzugs gleich ihrem Grund-Pendelbereich.",
+  "pendEffect": "Falls du eine „Magier“- oder „Künstlerkumpel“-Karte in deiner anderen Pendelzone hast: Du kannst diese Karte zerstören und falls du dies tust, lege 1 „Magier“-Pendelmonster von deinem Deck in deine Pendelzone, außer „Weisheitsaugen-Magier“.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

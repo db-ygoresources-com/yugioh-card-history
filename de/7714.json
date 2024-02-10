@@ -1,0 +1,16 @@
+{
+  "id": 7714,
+  "type": "monster",
+  "name": "Meister der Gedanken",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 800 Life Points zahlen und 1 Monster vom Typ Psi außer „Meister der Gedanken“ als Tribut anbieten, um 1 Monster der Stufe 4 oder niedriger vom Typ Psi als Spezialbeschwörung von deinem Deck in die offene Angriffsposition zu beschwören.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

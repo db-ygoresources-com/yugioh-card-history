@@ -1,0 +1,16 @@
+{
+  "id": 6800,
+  "type": "monster",
+  "name": "Außerirdischer Grau",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Lege 1 A-Zählmarke auf 1 offenes Monster auf der Spielfeldseite deines Gegners. (Falls ein Monster mit einer A-Zählmarke gegen ein Monster kämpft, dessen Kartenname „Außerirdische“ enthält, verringere nur während der Schadensberechnung seine ATK und DEF um 300 Punkte für jede A-Zählmarke.) Nachdem diese Karte aufgedeckt wurde und wenn sie als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, ziehe 1 Karte von deinem Deck.",
+  "level": 2,
+  "atk": 300,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

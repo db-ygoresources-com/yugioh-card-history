@@ -1,0 +1,15 @@
+{
+  "id": 8595,
+  "type": "monster",
+  "name": "Shire, Lichtverpflichteter Geist",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte erhält 300 ATK für jedes „Lichtverpflichtet“-Monster mit einem unterschiedlichen Namen in deinem Friedhof. Während jeder deiner End Phasen: Lege die obersten 2 Karten deines Decks auf den Friedhof.",
+  "level": 3,
+  "atk": 400,
+  "def": 1400,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

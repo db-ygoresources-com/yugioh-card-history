@@ -1,0 +1,16 @@
+{
+  "id": 8293,
+  "type": "monster",
+  "name": "Strahlende Pixie",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte für die Synchrobeschwörung eines LICHT Synchromonsters auf den Friedhof gelegt wird: Du erhältst 1000 Life Points.",
+  "level": 1,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

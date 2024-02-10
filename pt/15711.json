@@ -1,0 +1,18 @@
+{
+  "id": 15711,
+  "type": "monster",
+  "name": "Parametalmorfose Melcaster",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Se este card no campo for destruído em batalha ou por um efeito de card: você pode adicionar 1 Monstro Pêndulo \"Metalmorfose\" com a face para cima do seu Deck Adicional à sua mão, exceto \"Parametalmorfose Melcaster\", mas você não pode ativá-lo, ou cards com o mesmo nome, para colocá-lo nas Zonas de Pêndulo, pelo resto deste turno, exceto por efeitos de card. Você só pode usar este efeito de \"Parametalmorfose Melcaster\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 outro card com a face para cima que você controla; destrua-o e, se isso acontecer, Baixe 1 Magia/Armadilha \"Metalmorfose\" diretamente do seu Deck.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psíquico",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

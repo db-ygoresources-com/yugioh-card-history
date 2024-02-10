@@ -1,0 +1,16 @@
+{
+  "id": 18814,
+  "type": "monster",
+  "name": "Agnitier-Kerze",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte deiner Hand hinzugefügt wird, außer durch Ziehen: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Agnitier-Kerze“ nur einmal pro Spielzug verwenden. Einmal pro Kette, bis zu dreimal pro Spielzug, falls ein Monster auf deinen Friedhof gelegt wird (außer während des Damage Steps): Du kannst die Stufe dieser Karte um 1 erhöhen oder verringern.",
+  "level": 4,
+  "atk": 1700,
+  "def": 0,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

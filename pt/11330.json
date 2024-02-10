@@ -1,0 +1,18 @@
+{
+  "id": 11330,
+  "type": "monster",
+  "name": "D/D Cavaleiro Orgulhoso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode adicionar 1 Monstro Pêndulo de TREVAS com a face para cima do seu Deck Adicional à sua mão.",
+  "pendEffect": "Uma vez por turno: você pode pagar 500 PV e, depois, escolher 1 monstro com a face para cima que seu oponente controla; ele perde 500 de ATK (mesmo que este card deixe o campo). A não ser que você tenha um card \"D/D\" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 5.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2000,
+  "def": 700,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

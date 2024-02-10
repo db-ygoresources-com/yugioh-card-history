@@ -1,0 +1,16 @@
+{
+  "id": 4475,
+  "type": "monster",
+  "name": "Ninja Armado",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "VIRE: Destrói 1 Card de Magia no Campo. Se o alvo deste card está com a face para baixo, vire a face para cima. Se for um Card de Magia é destruído. Se não, coloque-o novamente com a face para baixo. O card virado não é Activado.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Guerreiro",
+    "Virar",
+    "Efeito"
+  ]
+}

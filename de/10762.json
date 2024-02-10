@@ -1,0 +1,15 @@
+{
+  "id": 10762,
+  "type": "monster",
+  "name": "Vampirgrazie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn ein oder mehr Zombie-Monster der Stufe 5 oder höher durch den Effekt eines Zombie-Monsters als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange diese Karte in deinem Friedhof liegt: Du kannst 2000 LP zahlen; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof. Du kannst diesen Effekt von „Vampirgrazie“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 Kartentyp (Monster, Zauber oder Falle) deklarieren; dein Gegner legt 1 Karte des deklarierten Typs von seinem Deck auf den Friedhof.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

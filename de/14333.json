@@ -1,0 +1,19 @@
+{
+  "id": 14333,
+  "type": "monster",
+  "name": "Wilder Flammen-Schwertkämpfer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2 Monster mit unterschiedlichen Namen\nAlle Krieger-Monster auf dem Spielfeld erhalten 500 ATK. Falls diese als Linkbeschwörung beschworene Karte durch Kampf oder einen Karteneffekt eines Gegners zerstört wird, solange sie in der Monsterzone ihres Besitzers liegt: Du kannst 1 Krieger-Nichtlink-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber verbanne es, wenn es das Spielfeld verlässt. Du kannst diesen Effekt von „Wilder Flammen-Schwertkämpfer“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 1300,
+  "properties": [
+    "Krieger",
+    "Link",
+    "Effekt"
+  ]
+}

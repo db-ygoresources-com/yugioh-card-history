@@ -1,0 +1,16 @@
+{
+  "id": 8409,
+  "type": "monster",
+  "name": "Verbündeter der Gerechtigkeit Umlaufleser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Schnelleffekt): Du kannst diese Karte auf den Friedhof abwerfen und dann bis zu 2 LICHT Monster im Friedhof deines Gegners wählen; verbanne die gewählten Ziele.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

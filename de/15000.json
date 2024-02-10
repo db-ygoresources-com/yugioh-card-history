@@ -1,0 +1,15 @@
+{
+  "id": 15000,
+  "type": "monster",
+  "name": "Tiefseewachposten",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte auf den Friedhof gelegt wird, um den Effekt eines WASSER Monsters zu aktivieren: Du kannst deinen Gegner bis zur End Phase 1 Karte von seiner Hand offen verbannen lassen. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst die obersten 2 Karten deines Decks auf den Friedhof legen und dann 1 WASSER Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Tiefseewachposten“; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Tiefseewachposten“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 400,
+  "def": 2000,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

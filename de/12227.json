@@ -1,0 +1,18 @@
+{
+  "id": 12227,
+  "type": "monster",
+  "name": "D/D-Gelehrter Copernicus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „D/D“- oder „Dunkler Vertrag“-Karte von deinem Deck auf den Friedhof legen, außer „D/D-Gelehrter Copernicus“. Du kannst diesen Effekt von „D/D-Gelehrter Copernicus“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „D/D“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal, solange diese Karte in deiner Pendelzone liegt, kannst du einen aktivierten Zaubereffekt annullieren, der dir Schaden zufügen würde, dann zerstöre diese Karte.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

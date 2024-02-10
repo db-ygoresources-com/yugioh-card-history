@@ -1,0 +1,15 @@
+{
+  "id": 5230,
+  "type": "monster",
+  "name": "Dunkler Gelehrter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand oder deinem Deck) beschworen werden, indem du 1 „Dunkler Magier“ als Tribut anbietest, sofort nachdem du den Effekt von „Zeitzauberer“ angewendet hast, wobei du den Münzwurf richtig vorausgesagt hast. Wenn auf diese Art als Spezialbeschwörung beschworen: Füge deiner Hand 1 Zauberkarte von deinem Deck hinzu.",
+  "level": 9,
+  "atk": 2800,
+  "def": 3200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

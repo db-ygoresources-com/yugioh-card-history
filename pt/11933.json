@@ -1,0 +1,18 @@
+{
+  "id": 11933,
+  "type": "monster",
+  "name": "Mago do Olho-Dharma",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Enquanto este card Invocado por Invocação-Pêndulo estiver no campo, Monstros Pêndulo \"Mago\" que você controla não podem ser destruídos por efeitos de card do seu oponente durante o turno em que este card foi Invocado por Invocação-Pêndulo.",
+  "pendEffect": "Uma vez por turno: você pode revelar 1 Monstro Pêndulo da sua mão e, depois, escolher 1 card \"Mago\" nas suas Zonas de Pêndulo; até o final deste turno, a Escala de Pêndulo do alvo se torna a mesma que a do Monstro Pêndulo revelado (mesmo que este card deixe o campo).",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

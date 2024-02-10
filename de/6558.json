@@ -1,0 +1,15 @@
+{
+  "id": 6558,
+  "type": "monster",
+  "name": "Gorz der Gesandte der Finsternis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn du Schaden von einer Karte erhältst, die deinem Gegner gehört: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du darfst keine Karten kontrollieren, um diesen Effekt zu aktivieren und aufzulösen. Wenn diese Karte durch ihren Effekt als Spezialbeschwörung beschworen wird: Aktiviere den entsprechenden Effekt, basierend auf dem Typ des Schadens.\n●Kampfschaden: Beschwöre 1 „Gesandter der Finsternis-Spielmarke“ (Fee/LICHT/Stufe 7/ATK ?/DEF ?) als Spezialbeschwörung. Ihre ATK und DEF entsprechen jeweils der Menge des Kampfschadens, den du erhalten hast.\n●Effektschaden: Füge deinem Gegner Schaden in Höhe des Schadens zu, den du erhalten hast.",
+  "level": 7,
+  "atk": 2700,
+  "def": 2500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

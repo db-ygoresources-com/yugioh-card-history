@@ -1,0 +1,15 @@
+{
+  "id": 19162,
+  "type": "monster",
+  "name": "Dragão do Buraco Negro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser destruído por efeitos de card. Você só pode usar cada um dos seguintes efeitos de \"Dragão do Buraco Negro\" uma vez por turno. Se um ou mais monstros no campo forem destruídos por um efeito de card que não os escolha como alvo (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial do Cemitério (se ele estava lá quando o monstro foi destruído) ou da mão (mesmo se ele não estava). Se este card for Invocado por Invocação-Especial: você pode ativar este efeito; durante a Fase Final deste turno, adicione 1 \"Buraco Negro\" do seu Deck à sua mão.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

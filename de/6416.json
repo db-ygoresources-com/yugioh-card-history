@@ -1,0 +1,15 @@
+{
+  "id": 6416,
+  "type": "monster",
+  "name": "Mechanischer Hund",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Solange du keine Karten in deiner Hand hast, kann dein Gegner keine Zauberkarten aktivieren.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

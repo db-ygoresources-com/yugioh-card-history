@@ -1,0 +1,18 @@
+{
+  "id": 13392,
+  "type": "monster",
+  "name": "Besta Mítica Chacal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Você pode remover 3 Marcadores de Magia do seu campo e oferecer este card como Tributo; Invoque por Invocação-Especial 1 Monstro de Efeito \"Besta Mítica\" do seu Deck, exceto \"Besta Mítica Chacal\".",
+  "pendEffect": "Se você não tiver nenhum card na sua outra Zona de Pêndulo: você pode escolher 1 card com a face para cima que você controla no qual você possa colocar um Marcador de Magia; destrua este card e, se isso acontecer, coloque 1 Marcador de Magia nesse card. Você só pode usar este efeito de \"Besta Mítica Chacal\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 1,
+  "atk": 0,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

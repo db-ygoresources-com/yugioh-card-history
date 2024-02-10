@@ -1,0 +1,18 @@
+{
+  "id": 11301,
+  "type": "monster",
+  "name": "EM 실버 크로우",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "①: 이 카드의 공격 선언시에 발동한다. 자신 필드의 \"EM(엔터메이트)\" 몬스터의 공격력은 배틀 페이즈 종료시까지 300 올린다.",
+  "pendEffect": "①: 자신 필드의 \"EM(엔터메이트)\" 몬스터의 공격력은 300 올린다.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "야수족",
+    "펜듈럼",
+    "효과"
+  ]
+}

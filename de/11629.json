@@ -1,0 +1,17 @@
+{
+  "id": 11629,
+  "type": "monster",
+  "name": "Schnellsynchron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 „Synchron“-Monster von deinem Deck auf den Friedhof legen und dann 1 dieser Effekte aktivieren;\n●Erhöhe die Stufe dieser Karte um die Stufe des gelegten Monsters.\n●Verringere die Stufe dieser Karte um die Stufe des gelegten Monsters.\nWährend der Main Phase deines Gegners kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, führe eine Synchrobeschwörung durch und verwende dafür diese Karte, die du kontrollierst. Du kannst „Schnellsynchron“ nur einmal pro Spielzug als Synchrobeschwörung beschwören.",
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

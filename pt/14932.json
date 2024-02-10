@@ -1,0 +1,19 @@
+{
+  "id": 14932,
+  "type": "monster",
+  "name": "Portador da União",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstros com o mesmo Tipo ou Atributo\nNão pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Você pode escolher 1 monstro com a face para cima que você controla; equipe 1 monstro da sua mão ou do Deck a ele com seu mesmo Tipo ou Atributo original. O monstro equipado ganha 1000 de ATK. Se você o equipou com um card do Deck, pelo resto deste turno, você não pode Invocar monstros por Invocação-Especial com o nome desse Card de Equipamento. Você só pode usar este efeito de \"Portador da União\" uma vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Máquina",
+    "Link",
+    "Efeito"
+  ]
+}

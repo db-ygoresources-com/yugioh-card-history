@@ -1,0 +1,16 @@
+{
+  "id": 11259,
+  "type": "monster",
+  "name": "Saffira, Königin der Drachen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Hymne des Lichts“ als Ritualbeschwörung beschwören. Während der End Phase, falls diese Karte in diesem Spielzug als Ritualbeschwörung beschworen wurde, oder falls ein LICHT Monster in diesem Spielzug von der Hand oder dem Deck auf den Friedhof gelegt wurde, solange diese Karte offen auf dem Spielfeld lag: Du kannst 1 dieser Effekte aktivieren;\n●Ziehe 2 Karten, dann wirf 1 Karte ab.\n●Wirf 1 zufällige Karte von der Hand deines Gegners ab.\n●Füge deiner Hand 1 LICHT Monster von deinem Friedhof hinzu.\nDu kannst diesen Effekt von „Saffira, Königin der Drachen“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Drache",
+    "Ritual",
+    "Effekt"
+  ]
+}

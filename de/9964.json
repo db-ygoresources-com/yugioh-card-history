@@ -1,0 +1,16 @@
+{
+  "id": 9964,
+  "type": "monster",
+  "name": "Nummer 7: Glücklicher Schlaks",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "3 Monster der Stufe 7\nDu kannst 1 Xyz-Material von dieser Karte abhängen; wirf zweimal einen sechsseitigen Würfel und die ATK dieser Karte werden zur größeren gewürfelten Zahl x 700, dann, falls die Summe der gewürfelten Zahlen genau 7 war, kannst du einen dieser Effekte ausführen.\n●Lege alle anderen Karten auf dem Spielfeld auf den Friedhof.\n●Beschwöre 1 Monster als Spezialbeschwörung von deiner Hand oder von einem beliebigen Friedhof.\n●Ziehe 3 Karten, dann wirf 2 Karten ab.",
+  "rank": 7,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Fee",
+    "Xyz",
+    "Effekt"
+  ]
+}

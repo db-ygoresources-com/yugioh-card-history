@@ -1,0 +1,16 @@
+{
+  "id": 16510,
+  "type": "monster",
+  "name": "Escudeiro Pinguim",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Não pode ser usado como Matéria Sincro, exceto para a Invocação-Sincro de um monstro de ÁGUA. Se um monstro for Baixado no seu campo (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão e, depois, você pode reduzir o Nível dele em 1 ou 2. Você pode escolher 1 monstro com a face para baixo em Posição de Defesa que você controla; coloque-o com a face para cima em Posição de Defesa e, se isso acontecer, seus efeitos são negados a não ser que seja um monstro \"Pinguim\". Você só pode usar cada efeito de \"Escudeiro Pinguim\" uma vez por turno.",
+  "level": 5,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Regulador",
+    "Efeito"
+  ]
+}

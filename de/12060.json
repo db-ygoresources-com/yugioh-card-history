@@ -1,0 +1,15 @@
+{
+  "id": 12060,
+  "type": "monster",
+  "name": "Roter Renner",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird, solange du keine anderen Monster kontrollierst: Du kannst 1 Unterweltler-Empfänger der Stufe 3 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören. Du kannst diesen Effekt von „Roter Renner“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

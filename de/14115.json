@@ -1,0 +1,16 @@
+{
+  "id": 14115,
+  "type": "monster",
+  "name": "Cyberse-Quantendrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nSolange du ein Linkmonster kontrollierst, können Monster, die dein Gegner kontrolliert, Monster, die du kontrollierst, nicht als Angriffsziel wählen, außer diesem, zusätzlich kann dein Gegner Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, außer diesem. Einmal pro Spielzug, am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst das Monster des Gegners auf die Hand zurückgeben, zusätzlich kann diese Karte sofort einen zweiten Angriff durchführen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Synchro",
+    "Effekt"
+  ]
+}

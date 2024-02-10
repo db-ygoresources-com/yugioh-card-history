@@ -1,0 +1,15 @@
+{
+  "id": 7205,
+  "type": "monster",
+  "name": "Flint-Schloss",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Flint“ in der Zauber- & Fallenzone wählen; rüste diese Karte damit aus. Während deiner Main Phase: Du kannst 1 „Flint“, mit dem diese Karte ausgerüstet ist, und 1 offenes Monster auf dem Spielfeld, außer dieser Karte, wählen; rüste das als Ziel gewählte Monster mit dem „Flint“ aus. Diese Karte kann nur mit 1 „Flint“ ausgerüstet sein. Solange diese Karte mit „Flint“ ausgerüstet ist, bleibt sie vom Effekt von „Flint“ unberührt und kann nicht durch Kampf zerstört werden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

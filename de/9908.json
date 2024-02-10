@@ -1,0 +1,15 @@
+{
+  "id": 9908,
+  "type": "monster",
+  "name": "Dark Blade, der Kapitän der bösen Welt",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 FINSTERNIS Monster von deinem Friedhof verbannen, um 1 LICHT Monster der Stufe 4 oder niedriger zu wählen, das dein Gegner kontrolliert; rüste diese Karte damit aus. (Diese Karte kann durch diesen Effekt zu jeder Zeit nur mit 1 Monster ausgerüstet sein.) Falls diese Karte auf dem Spielfeld zerstört würde, wird stattdessen das Monster zerstört, das sie durch diesen Effekt ausrüstet.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

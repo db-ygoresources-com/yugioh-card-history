@@ -1,0 +1,16 @@
+{
+  "id": 8108,
+  "type": "monster",
+  "name": "Geomantikerin der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal, solange diese Karte offen auf dem Spielfeld liegt: Du kannst 1 Karte abwerfen und 1 Eigenschaft deklarieren; Monster mit der deklarierten Eigenschaft können diese Karte nicht als Angriffsziel wählen.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

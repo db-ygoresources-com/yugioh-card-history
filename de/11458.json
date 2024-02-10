@@ -1,0 +1,18 @@
+{
+  "id": 11458,
+  "type": "monster",
+  "name": "D/D-Zerberus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Pendelbeschwörung von der Hand beschworen wird, solange du ein „D/D“-Monster außer „D/D-Zerberus“ kontrollierst: Du kannst 1 Permanente Zauberkarte in deinem Friedhof wählen; füge sie deiner Hand hinzu.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „D/D“-Monster wählen, das du kontrollierst; ändere seine Stufe zu 4 und falls du dies tust, erhält es 400 ATK und DEF (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

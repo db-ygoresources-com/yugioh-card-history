@@ -1,0 +1,19 @@
+{
+  "id": 14194,
+  "type": "monster",
+  "name": "Harpyien-Dirigentin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 WIND Monster\nDer Name dieser Karte wird zu „Harpyie“, solange sie auf dem Spielfeld oder im Friedhof liegt. Du kannst jeden der folgenden Effekte von „Harpyien-Dirigentin“ nur einmal pro Spielzug verwenden.\n●Falls ein oder mehr „Harpyie“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 1 Zauber/Falle zerstören, den oder die du kontrollierst.\n●Falls ein anderes offenes „Harpyie“-Monster, das du kontrollierst, auf deine Hand zurückgegeben wird (außer während des Damage Steps): Du kannst 1 als Spezialbeschwörung beschworenes Monster wählen, das dein Gegner kontrolliert; gib es auf die Hand zurück.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Link",
+    "Effekt"
+  ]
+}

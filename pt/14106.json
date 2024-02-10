@@ -1,0 +1,15 @@
+{
+  "id": 14106,
+  "type": "monster",
+  "name": "Esguicho de Lula",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Uma vez por turno, quando este card for escolhido como alvo de um ataque por um monstro do oponente: você pode mover este card que você controla para outra das suas Zonas de Monstros Principais e, depois, Invoque por Invocação-Especial 1 \"Ficha de Tinta de Lula\" (Aqua/ÁGUA/Nível 2/ATK ?/DEF 0). O ATK desta Ficha se torna o ATK desse monstro do oponente. Enquanto este card estiver na sua Zona de Monstros Principal mais à esquerda ou mais à direita, os monstros do seu oponente com ATK menor ou igual à DEF deste card não podem escolhê-lo como alvo de ataques.",
+  "level": 2,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Efeito"
+  ]
+}

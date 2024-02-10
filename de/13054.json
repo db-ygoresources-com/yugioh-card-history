@@ -1,0 +1,18 @@
+{
+  "id": 13054,
+  "type": "monster",
+  "name": "Oberster König Drache Buntäugig",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 2 „Oberster König Drache“-Monster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls dein Pendelmonster gegen ein Monster eines Gegners kämpft, wird der Kampfschaden verdoppelt, den es deinem Gegner zufügt. Während der Battle Phase (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; beschwöre bis zu 2 „Oberster König Drache“- und/oder „Oberster König Tor“-Pendelmonster, außer „Oberster König Drache Buntäugig“, als Spezialbeschwörung offen von deinem Extra Deck in die Verteidigungsposition.",
+  "pendEffect": "Du kannst 1 „Oberster König Drache“-Monster als Tribut anbieten; zerstöre diese Karte und falls du dies tust, füge deiner Hand 1 Pendelmonster mit 1500 oder weniger ATK von deinem Deck hinzu.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

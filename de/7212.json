@@ -1,0 +1,15 @@
+{
+  "id": 7212,
+  "type": "monster",
+  "name": "Rasiermesserechse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Solange du ein anderes Monster vom Typ Reptil kontrollierst, falls diese Karte ein Monster angreift, das sich verdeckt in Verteidigungsposition befindet, zerstöre das Monster sofort mit dem Effekt dieser Karte, ohne es aufzudecken oder Schadensberechnung.",
+  "level": 3,
+  "atk": 1500,
+  "def": 300,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

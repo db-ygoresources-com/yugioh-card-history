@@ -1,0 +1,16 @@
+{
+  "id": 11992,
+  "type": "monster",
+  "name": "Graulien Drache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 Empfänger-Monster vom Typ Aqua + 1 oder mehr Nicht-Empfänger-Monster\nWenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst Karten wählen, die dein Gegner kontrolliert, bis zur Anzahl der WASSER Monster, die für die Synchrobeschwörung dieser Karte verwendet wurden; zerstöre sie. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 anderes WASSER Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte werden annulliert. Du kannst jeden Effekt von „Graulien Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Synchro",
+    "Effekt"
+  ]
+}

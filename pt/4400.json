@@ -1,0 +1,15 @@
+{
+  "id": 4400,
+  "type": "monster",
+  "name": "Escorpião de Aço",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Um monstro que não seja do Tipo Máquina, que esteja atacando \"Escorpião de Aço\" é destruído na End Phase do 2º turno do seu adversário depois do turno do ataque.",
+  "level": 1,
+  "atk": 250,
+  "def": 300,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

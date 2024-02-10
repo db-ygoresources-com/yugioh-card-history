@@ -1,0 +1,15 @@
+{
+  "id": 14583,
+  "type": "monster",
+  "name": "Dunkler Geist der Bosheit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen und dann 1 Unterweltler-Monster der Stufe 8 in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte werden annulliert. Falls ein oder mehr Unterweltler-Monster der Stufe 8 auf deinen Friedhof gelegt werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte deiner Hand hinzufügen. Du kannst jeden Effekt von „Dunkler Geist der Bosheit“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1600,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

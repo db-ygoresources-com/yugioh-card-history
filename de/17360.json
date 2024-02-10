@@ -1,0 +1,15 @@
+{
+  "id": 17360,
+  "type": "monster",
+  "name": "Liebliches Labrynth von der Silberburg",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dein Gegner kann als Reaktion auf die Aktivierung deiner Normalen Fallenkarten keine Monstereffekte aktivieren. Du kannst jeden der folgenden Effekte von „Liebliches Labrynth von der Silberburg“ nur einmal pro Spielzug verwenden. Du kannst 1 Normale Falle in deinem Friedhof wählen; setze sie auf deine Spielfeldseite, aber sie kann nicht aktiviert werden, es sei denn, du kontrollierst ein Unterweltler-Monster. Falls ein oder mehr andere Monster das Spielfeld durch deinen Normalen Falleneffekt verlassen (außer während des Damage Steps): Du kannst 1 Karte in der Hand deines Gegners (zufällig bestimmt) oder auf seiner Spielfeldseite zerstören.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4976,
+  "type": "monster",
+  "name": "Kiseitai",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn ein Monster deines Gegners diese Karte in verdeckter Verteidigungsposition angreift, wird diese Karte zu einer Ausrüstungszauberkarte und das angreifende Monster mit dieser Karte ausgerüstet. (Berechnungen des Kampfschadens werden abgebrochen.) Behandle diese Karte als Ausrüstungszauberkarte. Erhöhe in jeder Standby Phase deines Gegners deine Life Points um die Hälfte der ATK des Monsters, das mit dieser Karte ausgerüstet ist.",
+  "level": 2,
+  "atk": 300,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

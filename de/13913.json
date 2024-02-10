@@ -1,0 +1,15 @@
+{
+  "id": 13913,
+  "type": "monster",
+  "name": "Mystrick Huldra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Karte abwerfen; führe den folgenden Effekt aus, basierend auf dem Typ der abgeworfenen Karte.\n●Monster: Füge deiner Hand 1 Falle von deinem Friedhof hinzu.\n●Zauber: Füge deiner Hand 1 Monster von deinem Friedhof hinzu.\n●Falle: Füge deiner Hand 1 Zauber von deinem Friedhof hinzu.\nDu kannst diesen Effekt von „Mystrick Huldra“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1500,
+  "def": 2400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

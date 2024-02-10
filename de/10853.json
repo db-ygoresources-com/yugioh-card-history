@@ -1,0 +1,15 @@
+{
+  "id": 10853,
+  "type": "monster",
+  "name": "Wachpinguin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn du Schaden von einem Karteneffekt erhältst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhältst du LP in Höhe des Schadens, den du erhalten hast.",
+  "level": 4,
+  "atk": 0,
+  "def": 1200,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

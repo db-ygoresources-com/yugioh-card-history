@@ -1,0 +1,18 @@
+{
+  "id": 11786,
+  "type": "monster",
+  "name": "Risebell, o Invocador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Risebell, um gentil irmão mais velho, cuida bem de Saambell, sua irmã mais jovem. Todo começo de tarde ele lê um Livro Mágico com sua irmã, uma rotina harmoniosa que traz um sorriso a todos.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo; aumente o Nível dele em 1 (mesmo que este card deixe o campo).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Psíquico",
+    "Pêndulo",
+    "Normal"
+  ]
+}

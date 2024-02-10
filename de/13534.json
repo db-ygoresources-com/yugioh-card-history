@@ -1,0 +1,16 @@
+{
+  "id": 13534,
+  "type": "monster",
+  "name": "Venschrecken Kriegsherr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit einem beliebigen „Venschrecken“-Ritualzauber als Ritualbeschwörung beschwören. Du kannst 1 „Venschrecken“-Karte von deinem Friedhof verbannen und 1 Kartentyp (Monster, Zauber oder Falle) deklarieren; für den Rest dieses Spielzugs kann dein Gegner weder Karten noch Effekte des Typs aktivieren. Falls diese als Ritualbeschwörung beschworene Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Ritualmonster von deinem Deck hinzufügen und falls du dies tust, lege 1 „Venschrecken“-Monster von deinem Deck auf den Friedhof. Du kannst jeden Effekt von „Venschrecken Kriegsherr“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2700,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Ritual",
+    "Effekt"
+  ]
+}

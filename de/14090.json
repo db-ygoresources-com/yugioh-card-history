@@ -1,0 +1,15 @@
+{
+  "id": 14090,
+  "type": "monster",
+  "name": "Wachdrache Garmides",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein oder mehr Normale Monster auf deinen Friedhof gelegt werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Drache-Monster von deiner Hand auf den Friedhof legen; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Wachdrache Garmides“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

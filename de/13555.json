@@ -1,0 +1,15 @@
+{
+  "id": 13555,
+  "type": "monster",
+  "name": "Trickstar Corobane",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du keine Monster kontrollierst oder alle Monster, die du kontrollierst, „Trickstar“-Monster sind: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während des Damage Steps, wenn dein „Trickstar“-Monster gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; das Monster, das du kontrollierst, erhält bis zum Ende dieses Spielzugs ATK in Höhe seiner Grund-ATK. Du kannst nur 1 Effekt von „Trickstar Corobane“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8102,
+  "type": "monster",
+  "name": "Naturia-Rosenpeitsche",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Dein Gegner kann in jedem Spielzug nur 1 Zauber-/Fallenkarte aktivieren.",
+  "level": 3,
+  "atk": 400,
+  "def": 1700,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

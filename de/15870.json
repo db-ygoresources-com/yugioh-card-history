@@ -1,0 +1,15 @@
+{
+  "id": 15870,
+  "type": "monster",
+  "name": "Sternendrache in sternenklarer Nacht",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung von der Hand beschworen wird: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie. Kann weder durch Kampf mit einem FINSTERNIS Monster noch durch die Effekte von FINSTERNIS Monstern zerstört werden. Einmal pro Spielzug, am Beginn des Damage Steps, falls diese Karte ein Monster eines Gegners angreift: Du kannst das Monster des Gegners bis zur End Phase verbannen, zusätzlich kann diese Karte sofort einen zweiten Angriff durchführen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2300,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

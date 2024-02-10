@@ -1,0 +1,16 @@
+{
+  "id": 5781,
+  "type": "monster",
+  "name": "Lord da Chama Lendária",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Este card não pode ser Invocado a não ser por Invocação-Ritual com o Card de Magia de Ritual \"Provação Incandescente\". Também deve oferecer como Tributo monstros cuja soma dos Níveis seja igual ou maior que 7, do Campo ou da sua mão. Cada vez que você ou o seu adversário activam 1 Card de Magia, ponha 1 Contador Mágico neste card. Remova 3 Contadores Mágicos deste card para destruir todos os monstros no Campo exceto este card.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Ritual",
+    "Efeito"
+  ]
+}

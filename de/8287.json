@@ -1,0 +1,15 @@
+{
+  "id": 8287,
+  "type": "monster",
+  "name": "Finsterlord Asmodeus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung vom Deck oder Friedhof beschworen werden. Einmal pro Spielzug: Du kannst 1 Monster vom Typ Fee von deinem Deck auf den Friedhof legen. Falls diese Karte, die du kontrollierst, zerstört und auf deinen Friedhof gelegt wird: Beschwöre 1 „Asmo-Spielmarke“ (Typ Fee/FINSTERNIS/Stufe 5/ATK 1800/DEF 1300) und 1 „Deus-Spielmarke“ (Typ Fee/FINSTERNIS/Stufe 3/ATK 1200/DEF 1200) als Spezialbeschwörung. Die „Asmo-Spielmarke“ kann nicht durch Karteneffekte zerstört werden. Die „Deus-Spielmarke“ kann nicht durch Kampf zerstört werden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4250,
+  "type": "monster",
+  "name": "Steinschmelzer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Ein in den Lavagruben geborenes Monster, das extreme Hitze erzeugt, die die Feinde zum Schmelzen bringt.",
+  "level": 3,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "Fels",
+    "Normal"
+  ]
+}

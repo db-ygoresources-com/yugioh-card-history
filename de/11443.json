@@ -1,0 +1,18 @@
+{
+  "id": 11443,
+  "type": "monster",
+  "name": "D/D/D-Untergangskönig Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, falls ein oder mehr Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst 1 der Monster wählen; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des Monsters. Diese Karte kann während des Spielzugs, in dem dieser Effekt aktiviert wird, deinen Gegner nicht direkt angreifen. Kann nicht durch Zauber-/Falleneffekte zerstört werden, die diese Karte nicht als Ziel wählen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „D/D“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 800 ATK (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

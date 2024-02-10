@@ -1,0 +1,15 @@
+{
+  "id": 8019,
+  "type": "monster",
+  "name": "Arkanitmagier/Angriffsmodus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer mit „Angriffsmodus aktivieren“. Wenn diese Karte als Spezialbeschwörung beschworen wird, lege 2 Zauberzählmarken auf diese Karte. Diese Karte erhält 1000 ATK für jede Zauberzählmarke auf dieser Karte. Du kannst 2 Zauberzählmarken von dieser Karte entfernen, um alle Karten zu zerstören, die dein Gegner kontrolliert. Wenn diese Karte auf dem Spielfeld zerstört wird, kannst du 1 „Arkanitmagier“ als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 9,
+  "atk": 900,
+  "def": 2300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13655,
+  "type": "monster",
+  "name": "Donpa, Scharfschützen-Fellsöldner",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während deiner Main Phase: Du kannst 1 „Fellsöldner“-Monster als Spezialbeschwörung von deiner Hand beschwören, außer „Donpa, Scharfschützen-Fellsöldner“. Falls ein „Fellsöldner“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst 1 offene Karte auf dem Spielfeld wählen; zerstöre sie. Du kannst jeden Effekt von „Donpa, Scharfschützen-Fellsöldner“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

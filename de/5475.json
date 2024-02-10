@@ -1,0 +1,16 @@
+{
+  "id": 5475,
+  "type": "monster",
+  "name": "Toon-Maskierter Hexenmeister",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nicht in dem Spielzug angreifen, in dem sie beschworen wurde. Falls „Toon-Welt“ auf dem Spielfeld zerstört wird, zerstöre diese Karte. Solange du „Toon-Welt“ kontrollierst und dein Gegner keine Toon-Monster kontrolliert, kann diese Karte deinen Gegner direkt angreifen. Falls diese Karte deinem Gegner Kampfschaden zufügt: Ziehe 1 Karte.",
+  "level": 4,
+  "atk": 900,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Toon",
+    "Effekt"
+  ]
+}

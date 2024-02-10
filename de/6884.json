@@ -1,0 +1,15 @@
+{
+  "id": 6884,
+  "type": "monster",
+  "name": "Barrierenstatue des Infernos",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kein Spieler kann Monster als Spezialbeschwörung beschwören, außer FEUER Monstern.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12418,
+  "type": "monster",
+  "name": "Stab des Magiers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 Zauber/Falle, der oder die „Dunkler Magier“ erwähnt, von deinem Deck hinzufügen. Während des Spielzugs deines Gegners, falls du eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktivierst, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst 1 Hexer-Monster als Tribut anbieten; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Stab des Magiers“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1600,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

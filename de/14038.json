@@ -1,0 +1,16 @@
+{
+  "id": 14038,
+  "type": "monster",
+  "name": "Tengu, der geflügelte Mayakashi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDu kannst nur 1 „Tengu, der geflügelte Mayakashi“ kontrollieren. Du kannst jeden dieser Effekte von „Tengu, der geflügelte Mayakashi“ nur einmal pro Spielzug verwenden.\n●Falls ein Synchromonster, das dir gehört und dessen Grund-Stufe 9 ist, durch Kampf oder einen Karteneffekt eines Gegners zerstört wird, solange sich diese Karte im Friedhof befindet: Du kannst 1 anderes Zombie-Monster von deinem Friedhof verbannen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung.\n●Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 Zauber/Falle zerstören, den oder die dein Gegner kontrolliert.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

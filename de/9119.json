@@ -1,0 +1,16 @@
+{
+  "id": 9119,
+  "type": "monster",
+  "name": "Roter Nova-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Empfänger + „Rotdrachen-Erzunterweltler“\nErhält für jeden Empfänger in deinem Friedhof 500 ATK. Kann nicht durch Karteneffekte eines Gegners zerstört werden. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst das angreifende Monster wählen; verbanne diese Karte und falls du dies tust, annulliere jenen Angriff. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug durch ihren Effekt verbannt wurde: Beschwöre diese verbannte Karte als Spezialbeschwörung.",
+  "level": 12,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

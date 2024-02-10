@@ -1,0 +1,16 @@
+{
+  "id": 6030,
+  "type": "monster",
+  "name": "Wüstentapir",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Bringe 1 offenes Monster in die verdeckte Verteidigungsposition. Du kannst keine „Wüstentapir“-Karte wählen.",
+  "level": 3,
+  "atk": 900,
+  "def": 300,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7799,
+  "type": "monster",
+  "name": "Magisches Exemplar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 2 Zauberzählmarken auf diese Karte, wenn der Zauber aufgelöst wird. Einmal pro Spielzug: Du kannst eine beliebige Anzahl Zauberzählmarken von dieser Karte entfernen; beschwöre 1 Hexer-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof, dessen Stufe der Anzahl der Zauberzählmarken entspricht, die du entfernt hast.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

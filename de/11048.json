@@ -1,0 +1,15 @@
+{
+  "id": 11048,
+  "type": "monster",
+  "name": "Sylvanisches Killöwenmaul",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte vom Spielfeld oder der Hand auf den Friedhof gelegt wird: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof. Lege sie andernfalls unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof. Lege sie andernfalls unter dein Deck.",
+  "level": 1,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

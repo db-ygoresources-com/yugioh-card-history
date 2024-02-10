@@ -1,0 +1,16 @@
+{
+  "id": 11824,
+  "type": "monster",
+  "name": "Verlorener Paradiesvogel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte erhält 100 ATK und DEF für jedes Empfänger-Monster in deinem Friedhof. Einmal pro Spielzug: Du kannst 1 Empfänger-Monster von deiner Hand auf den Friedhof legen und dann 1 Monster wählen, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle darüber.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Empfänger",
+    "Effekt"
+  ]
+}

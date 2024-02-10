@@ -1,0 +1,15 @@
+{
+  "id": 13740,
+  "type": "monster",
+  "name": "Salven-Amor",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst eine Zahl von 1 bis 3 bestimmen und dann so viele oberste Karten von deinem Deck auf den Friedhof legen; erhöhe die Stufe dieser Karte bis zum Ende dieses Spielzugs um die Anzahl der auf diese Art auf den Friedhof gelegten Karten. Falls diese Karte, die du kontrollierst, durch eine Karte eines Gegners zerstört und auf deinen Friedhof gelegt wird: Du erhältst 1500 LP. Du kannst jeden Effekt von „Salven-Amor“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

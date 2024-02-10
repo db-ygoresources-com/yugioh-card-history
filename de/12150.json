@@ -1,0 +1,18 @@
+{
+  "id": 12150,
+  "type": "monster",
+  "name": "Zweifelndes Zebra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 nicht verwendete Monsterzone oder Zauber- & Fallenzone bestimmen; solange diese Karte offen in der Monsterzone liegt, kann die Zone nicht verwendet werden.",
+  "pendEffect": "Einmal pro Spielzug, während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst 1 nicht verwendete Monsterzone oder Zauber- & Fallenzone bestimmen; solange diese Karte in der Pendelzone liegt, kann die bestimmte Zone nicht verwendet werden.",
+  "pendScale": 7,
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13914,
+  "type": "monster",
+  "name": "Diana, der Lichtgeist",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während der End Phase deines Gegners: Du erhältst 1000 LP.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

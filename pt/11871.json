@@ -1,0 +1,18 @@
+{
+  "id": 11871,
+  "type": "monster",
+  "name": "Dragodies, o Guerreiro Edificado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card na Zona de Monstros do seu dono for destruído por um ataque ou efeito de card do seu oponente: você pode adicionar 1 monstro do Tipo Guerreiro ou Mago com 2000 ou menos de ATK do seu Deck à sua mão, exceto \"Dragodies, o Guerreiro Edificado\", durante a Fase Final deste turno.",
+  "pendEffect": "No começo da Etapa de Dano, se um monstro que você controla batalhar um monstro com a face para cima do oponente: você pode descartar 1 card; o ATK e DEF do monstro batalhante do oponente se tornam metade do seu ATK e DEF atuais (mesmo que este card deixe o campo).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

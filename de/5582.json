@@ -1,0 +1,16 @@
+{
+  "id": 5582,
+  "type": "monster",
+  "name": "Pechschwarzer Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, kannst du deine „Dunkelklinge“-Karte mit dieser Karte als Ausrüstungszauberkarte ausrüsten ODER sie als Union-Ausrüstung ausklinken und als Spezialbeschwörung in offener Angriffsposition auf deiner Spielfeldseite beschwören. Wenn diese Karte durch ihren Effekt ein Monster ausrüstet, erhöhe die ATK und DEF des ausgerüsteten Monsters um 400 Punkte und wenn das ausgerüstete Monster ein Monster, das sich in Verteidigungsposition befindet, angreift und seine ATK größer als die DEF des gegnerischen Monsters ist, füge die Differenz den Life Points deines Gegners als Kampfschaden zu. (1 Monster kann nur mit 1 Union-Monster zurzeit ausgerüstet sein. Wenn das Monster, das mit dieser Karte ausgerüstet ist, als Ergebnis eines Kampfes zerstört wird, zerstöre stattdessen diese Karte.)",
+  "level": 3,
+  "atk": 900,
+  "def": 600,
+  "properties": [
+    "Drache",
+    "Union",
+    "Effekt"
+  ]
+}

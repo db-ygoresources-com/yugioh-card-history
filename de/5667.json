@@ -1,0 +1,16 @@
+{
+  "id": 5667,
+  "type": "monster",
+  "name": "Schwarze Katze mit weißem Schwanz",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Gib 2 Monsterkarten auf der Spielfeldseite deines Gegners und 1 Monsterkarte auf deiner Spielfeldseite auf die Hand ihrer Besitzer zurück.",
+  "level": 2,
+  "atk": 800,
+  "def": 500,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

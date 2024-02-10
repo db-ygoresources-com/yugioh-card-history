@@ -1,0 +1,15 @@
+{
+  "id": 9454,
+  "type": "monster",
+  "name": "Chaosjägerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn dein Gegner ein Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Dein Gegner kann keine Karten verbannen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

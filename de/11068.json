@@ -1,0 +1,15 @@
+{
+  "id": 11068,
+  "type": "monster",
+  "name": "Sternenstaubon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du eine beliebige Anzahl „Staubon“-Monster, die du kontrollierst, auf den Friedhof legst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Die ATK und DEF dieser Karte werden jeweils gleich der Anzahl der Monster, die du für ihre Beschwörung auf den Friedhof gelegt hast, x 1000. Dein Gegner kann weder Monster als Flipp- oder Spezialbeschwörung beschwören noch gesetzte Zauber-/Fallenkarten auf dem Spielfeld aktivieren. Falls du mehr Monster als dein Gegner kontrollierst, zerstöre diese Karte.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

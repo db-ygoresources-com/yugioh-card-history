@@ -1,0 +1,15 @@
+{
+  "id": 8758,
+  "type": "monster",
+  "name": "Der in der Tiefe hausende Drache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Lege während der Standby Phase jedes Spielers 1 Ozean-Zählmarke auf diese Karte. Wenn diese Karte vom Spielfeld entfernt wird, erhalten alle Monster vom Typ Fisch und Seeschlange, die du kontrollierst, bis zur End Phase 200 ATK für jede Ozean-Zählmarke auf dieser Karte.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1400,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

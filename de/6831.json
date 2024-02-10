@@ -1,0 +1,15 @@
+{
+  "id": 6831,
+  "type": "monster",
+  "name": "Cyberfinsternis Zacke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Wähle 1 Drache-Monster der Stufe 3 oder niedriger in deinem Friedhof; rüste diese Karte mit dem Drache-Monster aus. Diese Karte erhält ATK in Höhe der Grund-ATK des Monsters, mit dem sie durch diesen Effekt ausgerüstet ist. Diese Karte kann direkt angreifen. Falls sie dies durch diesen Effekt tut, werden ihre ATK nur während der Schadensberechnung halbiert. Falls diese Karte durch Kampf zerstört würde, zerstöre stattdessen das ausrüstende Monster.",
+  "level": 4,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

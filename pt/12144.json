@@ -1,0 +1,18 @@
+{
+  "id": 12144,
+  "type": "monster",
+  "name": "Ariadne Guia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card for destruído em batalha ou por um efeito de card: você pode revelar 3 Armadilhas de Resposta do seu Deck, seu oponente seleciona 1 para você adicionar à sua mão e você embaralha o resto de volta no seu Deck.",
+  "pendEffect": "Aplique esses efeitos.\n●Você não paga PV para ativar Cards de Armadilha de Resposta.\n●Você não descarta para ativar Cards de Armadilha de Resposta.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10053,
+  "type": "monster",
+  "name": "Insektor Ohrenkriecher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Solange diese Karte ein Monster ausrüstet, erhält das Monster ATK und DEF in Höhe der ATK und DEF dieser Karte. Wenn diese Karte auf den Friedhof gelegt wird, solange sie ein Monster ausrüstet: Das Monster, mit dem diese Karte ausgerüstet war, erhält bis zur End Phase 1000 ATK.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

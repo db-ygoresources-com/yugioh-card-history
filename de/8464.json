@@ -1,0 +1,16 @@
+{
+  "id": 8464,
+  "type": "monster",
+  "name": "Abgestimmter Magier",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte offen auf dem Spielfeld liegt, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Diese Karte wird als Empfänger-Monster behandelt.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Hexer",
+    "Zwilling",
+    "Effekt"
+  ]
+}

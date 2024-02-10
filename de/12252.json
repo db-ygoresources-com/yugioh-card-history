@@ -1,0 +1,16 @@
+{
+  "id": 12252,
+  "type": "monster",
+  "name": "Blauäugiger Zwillingsausbruch-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Blauäugiger w. Drache“ + „Blauäugiger w. Drache“\nMuss entweder als Fusionsbeschwörung beschworen werden, oder als Spezialbeschwörung beschworen werden, indem du die oben aufgeführten Monster, die du kontrollierst, auf den Friedhof legst. Kann nicht durch Kampf zerstört werden. Diese Karte kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen. Am Ende des Damage Steps, wenn diese Karte ein Monster eines Gegners angreift, aber das Monster des Gegners nicht durch den Kampf zerstört wurde: Du kannst das Monster des Gegners verbannen.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

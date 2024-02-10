@@ -1,0 +1,10 @@
+{
+  "id": 17470,
+  "type": "spell",
+  "name": "Ziffernstörung",
+  "englishAttribute": "spell",
+  "localizedAttribute": "ZAUBER",
+  "effectText": "Während der Schadensberechnung, falls ein Monster kämpft, solange ein Monster mit 1000 oder mehr ATK auf dem Spielfeld liegt: Die ATK aller Monster, die sich derzeit auf dem Spielfeld befinden, werden für jede 1000 ATK, die sie haben, um 1000 reduziert, zusätzlich werden ihre DEF für jede 1000 DEF, die sie haben, um 1000 reduziert. Falls diese Karte zerstört wird: Wende die obigen ATK/DEF-Anpassungen bis zum Ende dieses Spielzugs auf alle Monster an, die sich derzeit auf dem Spielfeld befinden.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Permanent"
+}

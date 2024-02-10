@@ -1,0 +1,19 @@
+{
+  "id": 13929,
+  "type": "monster",
+  "name": "Galaxieaugen-Soneruptdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 LICHT Monster, darunter ein Monster mit 2000 oder mehr ATK\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Photon“- oder „Galaxie“-Monster in deinem Friedhof wählen; füge es deiner Hand hinzu. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 „Photon“-Karte und 1 „Galaxie“-Karte abwerfen ODER 1 „Galaxieaugen-Photonendrache“ abwerfen, und dann 1 als Spezialbeschwörung beschworenes Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst jeden Effekt von „Galaxieaugen-Soneruptdrache“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

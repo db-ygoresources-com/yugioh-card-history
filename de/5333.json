@@ -1,0 +1,15 @@
+{
+  "id": 5333,
+  "type": "monster",
+  "name": "Drachentyrann",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während deiner Battle Phase, falls dein Gegner nach dem ersten Angriff dieser Karte ein Monster kontrolliert, kann diese Karte einen zweiten Angriff durchführen. Annulliere jeden Falleneffekt, der diese Karte auf dem Spielfeld als Ziel wählt, und falls du dies tust, zerstöre jene Falle. Diese Karte kann nicht als Spezialbeschwörung vom Friedhof beschworen werden, es sei denn, du bietest 1 Drache-Monster als Tribut an.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

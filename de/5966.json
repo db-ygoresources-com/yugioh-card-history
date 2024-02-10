@@ -1,0 +1,15 @@
+{
+  "id": 5966,
+  "type": "monster",
+  "name": "Atomarer Leuchtkäfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Der Spieler, der diese offene Karte auf dem Spielfeld als Ergebnis eines Kampfes zerstört, erhält 1000 Punkte Schaden.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

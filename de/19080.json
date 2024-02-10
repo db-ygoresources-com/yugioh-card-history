@@ -1,0 +1,15 @@
+{
+  "id": 19080,
+  "type": "monster",
+  "name": "Finis Terrae, Turm der Nekrowelt",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du ein Monster der Stufe 10 kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Finis Terrae, Turm der Nekrowelt“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 offene Karte auf dem Spielfeld wählen; jene Karte kann in diesem Spielzug nicht durch Karteneffekte zerstört werden. Du kannst diesen Effekt von „Finis Terrae, Turm der Nekrowelt“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

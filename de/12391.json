@@ -1,0 +1,15 @@
+{
+  "id": 12391,
+  "type": "monster",
+  "name": "Super-Anti-Kaiju-Kriegsmaschine Mecha-Dogoran",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, solange dein Gegner ein „Kaiju“-Monster kontrolliert. Du kannst nur 1 „Kaiju“-Monster kontrollieren. Einmal pro Spielzug: Du kannst 2 Kaiju-Zählmarken von irgendwo auf dem Spielfeld entfernen; rüste diese Karte mit 1 „Kaiju“-Monster von deiner Hand oder deinem Friedhof aus. Diese Karte erhält ATK in Höhe der Summe der Grund-ATK der „Kaiju“-Monster, mit denen sie durch diesen Effekt ausgerüstet ist.",
+  "level": 8,
+  "atk": -1,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

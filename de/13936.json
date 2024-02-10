@@ -1,0 +1,19 @@
+{
+  "id": 13936,
+  "type": "monster",
+  "name": "Bäuchiger Blitzbeschwörer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Donner-Monster\n Einmal pro Spielzug eines Gegners (Schnelleffekt): Du kannst 1 Karte abwerfen und dann 1 Donner-Monster in deinem Friedhof wählen, außer einem Linkmonster; beschwöre es als Spezialbeschwörung in deine Zone, auf die diese Karte zeigt.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Donner",
+    "Link",
+    "Effekt"
+  ]
+}

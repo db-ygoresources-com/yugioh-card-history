@@ -1,0 +1,10 @@
+{
+  "id": 17470,
+  "type": "spell",
+  "name": "Obstruir Dígitos",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Durante o cálculo de dano, se um monstro batalhar enquanto um monstro com 1000 ou mais de ATK estiver no campo: o ATK de todos os monstros atualmente no campo é reduzido em 1000 para cada 1000 de ATK que eles tiverem e, além disso, suas DEF são reduzidas em 1000 para cada 1000 de DEF que eles tiverem. Se este card for destruído: até o final deste turno, aplique os ajustes de ATK/DEF acima a todos os monstros atualmente no campo.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Contínua"
+}

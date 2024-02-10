@@ -1,0 +1,15 @@
+{
+  "id": 11189,
+  "type": "monster",
+  "name": "Mão Mágica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando seu oponente adicionar um ou mais cards do Deck dele para a mão dele, exceto ao comprá-los (exceto durante a Etapa de Dano): você pode enviar esse(s) card(s) para o Cemitério e, se isso acontecer, cause 800 de dano ao seu oponente. Este efeito só pode ser usado uma vez enquanto este card estiver com a face para cima no campo.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

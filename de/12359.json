@@ -1,0 +1,15 @@
+{
+  "id": 12359,
+  "type": "monster",
+  "name": "Tapferer Archendrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst so viele offene Zauber/Fallen, die dein Gegner kontrolliert, wie möglich verbannen und falls du dies tust, erhält diese Karte für jede verbannte Karte 200 ATK/DEF. Einmal pro Spielzug, während der Standby Phase, falls sich diese Karte im Friedhof befindet, weil sie im letzten Spielzug dorthin gelegt wurde: Du kannst 1 Drache-Monster der Stufe 7 oder 8 in deinem Friedhof wählen, außer „Tapferer Archendrache“; beschwöre es als Spezialbeschwörung.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

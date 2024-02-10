@@ -1,0 +1,16 @@
+{
+  "id": 7696,
+  "type": "monster",
+  "name": "Gerümpelkrieger",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Gerümpelsynchronisierer“ + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Sie erhält ATK in Höhe der Summe der ATK aller Monster der Stufe 2 oder niedriger, die du derzeit kontrollierst.",
+  "level": 5,
+  "atk": 2300,
+  "def": 1300,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

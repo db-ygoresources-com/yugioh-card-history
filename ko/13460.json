@@ -1,0 +1,19 @@
+{
+  "id": 13460,
+  "type": "monster",
+  "name": "코드 토커",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "효과 몬스터 2장\n①: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 수 × 500 올린다. ②: 이 카드의 링크 앞에 몬스터가 존재하는 한, 이 카드는 전투 및 상대 효과로는 파괴되지 않는다.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1300,
+  "properties": [
+    "사이버스족",
+    "링크",
+    "효과"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17413,
+  "type": "monster",
+  "name": "Albaz der Aschfahle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Gefallener von Albaz“, solange sie auf dem Spielfeld oder im Friedhof liegt. Solange ein Fusionsmonster der Stufe 8 in deinem Friedhof liegt, erhält diese Karte für jedes Monster in deinem Friedhof 200 ATK, zusätzlich kann dein Gegner andere Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen. Falls ein oder mehr Monster, die du kontrollierst, das Spielfeld durch einen Karteneffekt eines Gegners verlassen, solange diese Karte und ein Fusionsmonster in deinem Friedhof liegen (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Albaz der Aschfahle“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

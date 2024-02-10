@@ -1,0 +1,19 @@
+{
+  "id": 12883,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Dominoschmetterling",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines WIND Synchromonsters vom Typ Drache oder Maschine. Falls diese als Spezialbeschwörung vom Extra Deck beschworene Karte als Material für eine Synchrobeschwörung verwendet wird, verbanne sie.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer WIND Monstern. Dieser Effekt kann nicht annulliert werden. Du kannst 1 WIND Monster abwerfen und dann 1 deiner verbannten WIND Monster wählen; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Geschwindigkeitsroid Dominoschmetterling“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 100,
+  "def": 300,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

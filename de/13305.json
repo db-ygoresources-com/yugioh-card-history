@@ -1,0 +1,15 @@
+{
+  "id": 13305,
+  "type": "monster",
+  "name": "Unterbrechungsbeschränker",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn du Kampfschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhält sie ATK in Höhe des Schadens, den du erhalten hast. Einmal pro Spielzug, während der Schadensberechnung, wenn ein anderes Monster in Verteidigungsposition, das du kontrollierst, von einem Monster eines Gegners angegriffen wird (Schnelleffekt): Du kannst diesen Effekt aktivieren; während dieser Schadensberechnung werden die DEF deines angegriffenen Monsters gleich den DEF dieser Karte, zusätzlich kann es durch den Kampf nicht zerstört werden.",
+  "level": 6,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

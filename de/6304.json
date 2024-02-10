@@ -1,0 +1,15 @@
+{
+  "id": 6304,
+  "type": "monster",
+  "name": "Maschinenwesen Scharfschütze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Monster können keine „Maschinenwesen“-Monster angreifen, außer „Maschinenwesen Scharfschütze“.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

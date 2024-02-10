@@ -1,0 +1,16 @@
+{
+  "id": 14356,
+  "type": "monster",
+  "name": "Zeitdieb Wiederholer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 4\nEinmal pro Spielzug, während der Standby Phase: Du kannst die oberste Karte des Decks deines Gegners als Material an diese Karte anhängen. (Schnelleffekt): Du kannst bis zu 3 unterschiedliche Typen Material von dieser Karte abhängen, dann führe die folgenden Effekte aus, abhängig davon, was abgehängt wurde.\n●Monster: Verbanne diese Karte bis zur End Phase.\n●Zauber: Ziehe 1 Karte.\n●Falle: Lege 1 offene Karte, die dein Gegner kontrolliert, aufs Deck.\nDu kannst diesen Effekt von „Zeitdieb Wiederholer“ nur einmal pro Spielzug verwenden.",
+  "rank": 4,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Psi",
+    "Xyz",
+    "Effekt"
+  ]
+}

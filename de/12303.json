@@ -1,0 +1,18 @@
+{
+  "id": 12303,
+  "type": "monster",
+  "name": "Amorphage Goliath",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kein Spieler kann Monster als Spezialbeschwörung vom Extra Deck beschwören, außer „Amorphage“-Monstern.",
+  "pendEffect": "Solange du ein „Amorphage“-Monster kontrollierst, wird jede Karte, die auf den Friedhof gelegt wird, stattdessen verbannt, außer „Amorphage“-Karten. Einmal pro Spielzug, während deiner Standby Phase, biete 1 Monster als Tribut an oder zerstöre diese Karte.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2750,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

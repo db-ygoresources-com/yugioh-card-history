@@ -1,0 +1,16 @@
+{
+  "id": 9437,
+  "type": "monster",
+  "name": "Schwarzflügel - Jin der Regenschatten",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte gegen ein offenes Monster mit DEF kleiner oder gleich den ATK dieser Karte kämpft, zerstöre das Monster am Beginn des Damage Steps (ohne Schadensberechnung).",
+  "level": 1,
+  "atk": 600,
+  "def": 500,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

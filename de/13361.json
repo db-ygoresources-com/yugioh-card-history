@@ -1,0 +1,19 @@
+{
+  "id": 13361,
+  "type": "monster",
+  "name": "Hallohallo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Hallo Hallo mit dem Kopf aus Stroh,\nEingeweide raus, bist trotzdem froh.\nSuchst nach Süßem oder Saurem,\npass auf, sonst brennt dein Säcklein lichterloh.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; wirf einen sechsseitigen Würfel und die Stufe des Monsters wird bis zum Ende dieses Spielzugs dieselbe wie das Ergebnis.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Empfänger",
+    "Normal"
+  ]
+}

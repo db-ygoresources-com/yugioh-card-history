@@ -1,0 +1,16 @@
+{
+  "id": 11362,
+  "type": "monster",
+  "name": "Schattenpuppe Hund",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 „Schattenpuppe“-Karte in deinem Friedhof wählen; füge sie deiner Hand hinzu.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 Monster auf dem Spielfeld wählen; ändere seine Kampfposition. (Die Effekte von Flippmonstern werden dabei nicht aktiviert, außer denen von „Schattenpuppe“-Monstern.) Du kannst nur 1 Effekt von „Schattenpuppe Hund“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

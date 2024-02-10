@@ -1,0 +1,16 @@
+{
+  "id": 4617,
+  "type": "monster",
+  "name": "Hiros Schattenspäher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Dein Gegner zieht 3 Karten. Beide Spieler schauen sich die Karten an. Alle Zauberkarten unter den gezogenen Karten werden auf den Friedhof abgeworfen.",
+  "level": 2,
+  "atk": 650,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

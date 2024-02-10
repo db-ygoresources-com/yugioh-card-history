@@ -1,0 +1,19 @@
+{
+  "id": 12783,
+  "type": "monster",
+  "name": "Buntäugiger Wutdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster vom Typ Drache der Stufe 7\nFalls du Stufe 7 als Pendelbeschwörung beschwören kannst, kannst du diese offene Karte in deinem Extra Deck als Pendelbeschwörung beschwören. Falls diese Karte in der Monsterzone zerstört wird: Du kannst sie in deine Pendelzone legen. Falls diese Karte als Xyz-Beschwörung beschworen und dafür ein Xyz-Monster als Material verwendet wird, erhält sie diese Effekte.\n●Sie kann während jeder Battle Phase einen zweiten Angriff durchführen.\n●Einmal pro Spielzug: Du kannst 1 Xyz-Material von ihr abhängen; zerstöre so viele Karten, die dein Gegner kontrolliert, wie möglich und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs für jede 200 ATK.",
+  "pendEffect": "Einmal pro Spielzug, falls du keine Karten in deiner anderen Pendelzone hast: Du kannst 1 Pendelmonster von deinem Deck in deine Pendelzone legen.",
+  "pendScale": 1,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7114,
+  "type": "monster",
+  "name": "Himmelsplage Invincil",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Falls du diese Karte als Tributbeschwörung beschwörst, indem du 1 der folgenden Monster als Tribut anbietest, erhält diese Karte den entsprechenden Effekt:\n●LICHT Monster vom Typ Fee: Annulliere die Effekte aller Zauberkarten.\n●FINSTERNIS Monster vom Typ Unterweltler: Annulliere die Effekte aller Fallenkarten.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

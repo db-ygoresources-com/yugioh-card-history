@@ -1,0 +1,15 @@
+{
+  "id": 16501,
+  "type": "monster",
+  "name": "Wanderbrise und Tukkan",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese offene Karte das Spielfeld verlassen würde, verbanne sie stattdessen. Du kannst jeden der folgenden Effekte von „Wanderbrise und Tukkan“ nur einmal pro Spielzug verwenden und kannst während des Spielzugs, in dem du einen der Effekte aktivierst, keine Spezialbeschwörungen durchführen. Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 deiner verbannten „Wanderbrise“-Karten wählen; füge sie deiner Hand hinzu, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Geflügeltes Ungeheuer-Monster als Normalbeschwörung beschwören. Falls ein Geflügeltes Ungeheuer-Monster als Normalbeschwörung auf deine Spielfeldseite beschworen wird, solange diese Karte verbannt ist: Du kannst diese Karte deiner Hand hinzufügen.",
+  "level": 1,
+  "atk": 500,
+  "def": 1300,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

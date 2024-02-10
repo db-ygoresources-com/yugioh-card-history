@@ -1,0 +1,16 @@
+{
+  "id": 11884,
+  "type": "monster",
+  "name": "Spiegelkraftdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Muss mit „Kralle des Critias“ als Spezialbeschwörung beschworen werden, verwende dafür „Spiegelkraft“. Wenn ein oder mehr Monster, die du kontrollierst, als Ziel für einen Angriff oder einen Karteneffekt eines Gegners gewählt werden (außer während des Damage Steps): Du kannst alle Karten zerstören, die dein Gegner kontrolliert.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12304,
+  "type": "monster",
+  "name": "Dinonebel Spinos",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 anderes „Dinonebel“-Monster als Tribut anbieten und dann 1 dieser Effekte aktivieren;\n●Diese Karte kann deinen Gegner in diesem Spielzug direkt angreifen.\n●Diese Karte kann während jeder Battle Phase in diesem Spielzug einen zweiten Angriff durchführen.",
+  "pendEffect": "Falls ein oder mehr andere „Dinonebel“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

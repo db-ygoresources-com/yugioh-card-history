@@ -1,0 +1,16 @@
+{
+  "id": 13237,
+  "type": "monster",
+  "name": "Krawler Dendrit",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst 1 Monster von deinem Deck auf den Friedhof legen.\nFalls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt eines Gegners verlässt: Du kannst 2 „Krawler“-Monster mit unterschiedlichen Namen als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören, außer „Krawler Dendrit“. Du kannst jeden Effekt von „Krawler Dendrit“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1300,
+  "def": 600,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

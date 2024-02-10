@@ -1,0 +1,15 @@
+{
+  "id": 14741,
+  "type": "monster",
+  "name": "Nibiru, das Urwesen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Main Phase, falls dein Gegner in diesem Spielzug 5 oder mehr Monster als Normal- oder Spezialbeschwörung beschworen hat (Schnelleffekt): Du kannst so viele offene Monster auf dem Spielfeld als Tribut anbieten wie möglich und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann beschwöre 1 „Urwesen-Spielmarke“ (Fels/LICHT/Stufe 11/ATK ?/DEF ?) als Spezialbeschwörung auf die Spielfeldseite deines Gegners. (ATK/DEF dieser Spielmarke sind gleich der Summe der Grund-ATK/DEF der als Tribut angebotenen Monster.) Du kannst diesen Effekt von „Nibiru, das Urwesen“ nur einmal pro Spielzug verwenden.",
+  "level": 11,
+  "atk": 3000,
+  "def": 600,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11517,
+  "type": "monster",
+  "name": "Kabuki-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug, vor der Schadensberechnung, falls dein Monster ein Monster deines Gegners angegriffen hat: Du kannst die Kampfposition des Monsters ändern, das dein Gegner kontrolliert. Einmal pro Spielzug, vor der Schadensberechnung, falls ein Monster deines Gegners dein Monster angegriffen hat: Du kannst die Kampfposition des Monsters ändern, das du kontrollierst.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

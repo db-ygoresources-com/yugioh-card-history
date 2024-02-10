@@ -1,0 +1,16 @@
+{
+  "id": 13251,
+  "type": "monster",
+  "name": "Selbstzerstörungsameise",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Jeder Spieler erhält 1000 Schaden.\nFalls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Füge deinem Gegner 1000 Schaden zu. Du kannst jeden Effekt von „Selbstzerstörungsameise“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

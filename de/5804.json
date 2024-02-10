@@ -1,0 +1,15 @@
+{
+  "id": 5804,
+  "type": "monster",
+  "name": "Perfekter Maschinenkönig",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Erhöhe die ATK dieser Karte um 500 Punkte für jedes Monster vom Typ Maschine auf dem Spielfeld, außer dieser Karte.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

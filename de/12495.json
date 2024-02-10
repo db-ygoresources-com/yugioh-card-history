@@ -1,0 +1,15 @@
+{
+  "id": 12495,
+  "type": "monster",
+  "name": "Wachposten-Steinsoldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls alle Monster, die du kontrollierst, Typ Fels sind (min. 1), solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Wachposten-Steinsoldat“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1300,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

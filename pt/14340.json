@@ -1,0 +1,18 @@
+{
+  "id": 14340,
+  "type": "monster",
+  "name": "Velocidaroide Hexadisco",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Os dois duelistas sofrem qualquer dano de batalha dos ataques envolvendo este card. Qualquer dano de batalha das batalhas envolvendo este card são diminuídos pela metade. Se este card for destruído na Zona de Pêndulo: você pode Invocar por Invocação-Especial com a face para cima 1 Monstro Pêndulo \"Velocidaroide\" do seu Deck Adicional.",
+  "pendEffect": "Você pode escolher 1 dos seus Monstros Sincro de VENTO que estiverem banidos ou no seu Cemitério; devolva-o para o Deck Adicional. Você só pode usar este efeito de \"Velocidaroide Hexadisco\" uma vez por turno.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15020,
+  "type": "monster",
+  "name": "Union-Fahrer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du entweder: 1 offenes Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Solange diese Karte ein Monster ausrüstet: Du kannst diese Ausrüstungskarte verbannen; rüste das Monster, das mit dieser Karte ausgerüstet war, mit 1 geeigneten Union-Monster der Stufe 4 oder niedriger von deinem Deck aus. Du kannst diesen Effekt von „Union-Fahrer“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

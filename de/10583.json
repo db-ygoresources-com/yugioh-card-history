@@ -1,0 +1,15 @@
+{
+  "id": 10583,
+  "type": "monster",
+  "name": "Magidolce Kükolade",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte, die dir gehört, durch eine Karte deines Gegners (entweder durch Kampf oder durch einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Mische diese Karte ins Deck. Einmal pro Spielzug, wenn die Kampfposition von „Magidolce“-Monstern, die du kontrollierst, geändert wird (und jetzt offen ist), solange diese Karte offen auf dem Spielfeld liegt (außer während des Damage Steps): Du kannst 1 Monster auf dem Spielfeld wählen; ändere es in die offene Verteidigungsposition und falls du dies tust und es kein „Magidolce“-Monster ist, kann es nicht angreifen, zusätzlich werden seine Effekte annulliert.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

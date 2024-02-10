@@ -1,0 +1,19 @@
+{
+  "id": 13087,
+  "type": "monster",
+  "name": "Ib die Weltkelch-Priesterin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster mit unterschiedlichen Typen und Eigenschaften\nDiese gelinkte Karte kann weder durch Kampf noch durch Karteneffekte zerstört werden. Dein Gegner kann diese gelinkte Karte nicht als Ziel für Karteneffekte wählen. Falls ein oder mehr Monster, auf die diese Karte zeigt, durch einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte auf den Friedhof legen. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 „Weltkelch“-Monster als Spezialbeschwörung von deiner Hand beschwören.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

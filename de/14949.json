@@ -1,0 +1,21 @@
+{
+  "id": 14949,
+  "type": "monster",
+  "name": "Tenyi-Geist - Sahasrara",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Wyrm-Monster\nSolange du ein offenes Nichteffekt-Monster kontrollierst, können Monster, die dein Gegner kontrolliert, Effektmonster nicht als Angriffsziel wählen, zusätzlich kann dein Gegner Effektmonster auf dem Spielfeld nicht als Ziel für Karteneffekte wählen. (Schnelleffekt): Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert; beschwöre 1 „Tenyi-Geist-Spielmarke“ (Wyrm/LICHT/Stufe 4/ATK ?/DEF 0) als Spezialbeschwörung. Die ATK dieser Spielmarke werden gleich den Grund-ATK des als Ziel gewählten Monsters. Du kannst diesen Effekt von „Tenyi-Geist - Sahasrara“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "9",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Wyrm",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11362,
+  "type": "monster",
+  "name": "Sabujo Sombraneco",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "VIRE: Você pode escolher 1 card \"Sombraneco\" no seu Cemitério; adicione-o à sua mão.\nSe este card for enviado para o Cemitério por um efeito de card: você pode escolher 1 monstro no campo; mude a posição de batalha dele. (Os efeitos de monstros de Virar não são ativados neste momento, exceto os efeitos de monstros \"Sombraneco\".) Você só pode usar 1 efeito de \"Sabujo Sombraneco\" por turno e apenas uma vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 900,
+  "properties": [
+    "Mago",
+    "Virar",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11960,
+  "type": "monster",
+  "name": "Camaramágico Plushfogo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Se este card no campo for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 monstro \"Camaramágico\" da sua mão ou Deck, exceto \"Camaramágico Plushfogo\".",
+  "pendEffect": "Se um ou mais monstros \"Camaramágico\" que você controla forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo e, depois, sofra 500 de dano. Você só pode usar este efeito de \"Camaramágico Plushfogo\" uma vez por turno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

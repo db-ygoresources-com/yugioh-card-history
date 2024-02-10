@@ -1,0 +1,15 @@
+{
+  "id": 12130,
+  "type": "monster",
+  "name": "Zerstörungsschwert des Roboterbusters",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 „Buster-Klingenkämpfer“ wählen, den du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder Spielfeldseite aus. Solange diese Karte ein Monster ausrüstet, können die Effekte von Zauber-/Fallenkarten, die bereits offen auf der Spielfeldseite deines Gegners liegen, nicht aktiviert werden. Du kannst diese Ausrüstungskarte auf den Friedhof legen; das Monster, das mit dieser Karte ausgerüstet war, erhält bis zum Ende dieses Spielzugs 1000 ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

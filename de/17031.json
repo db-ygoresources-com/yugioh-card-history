@@ -1,0 +1,15 @@
+{
+  "id": 17031,
+  "type": "monster",
+  "name": "Chronikmagier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein oder mehr Monster mit 2500 Grund-ATK oder -DEF als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Dunkler Magier“ oder „Blauäugiger w. Drache“ in deiner Monsterzone wählen; er erhält bis zum Ende dieses Spielzugs 2500 ATK/DEF. Du kannst jeden Effekt von „Chronikmagier“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9973,
+  "type": "monster",
+  "name": "D.D. Telepath Sternenspatz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Es kann nur 1 „D.D. Telepath Sternenspatz“ auf dem Spielfeld liegen. Dein Gegner kann keine anderen Monster, die du kontrollierst, als Ziel für Effekte oder Angriffe wählen. Wenn ein Monster deines Gegners einen direkten Angriff deklariert, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof in die offene Verteidigungsposition beschwören. Falls sie auf diese Weise beschworen wird, verbanne sie, wenn sie das Spielfeld verlässt.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

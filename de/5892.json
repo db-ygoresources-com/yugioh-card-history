@@ -1,0 +1,15 @@
+{
+  "id": 5892,
+  "type": "monster",
+  "name": "Insektenprinzessin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Alle Insekt-Monster, die dein Gegner kontrolliert, werden in die Angriffsposition geändert. Falls diese Karte ein Insekt-Monster durch Kampf zerstört: Diese Karte erhält 500 ATK.",
+  "level": 6,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14268,
+  "type": "monster",
+  "name": "Weltvermächtnis-Wachdrache Mardark",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Alle Monster, die dein Gegner kontrolliert, verlieren für jedes Drache-Monster, das du kontrollierst, 500 ATK/DEF. Du kannst jeden der folgenden Effekte von „Weltvermächtnis-Wachdrache Mardark“ nur einmal pro Spielzug verwenden.\n●Du kannst 2 Normale Monster von deiner Hand oder deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand.\n●Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst deiner Hand 1 Monster der Stufe 9 mit einem unterschiedlichen Grund-Typ und einer unterschiedlichen Grund-Eigenschaft als diese Karte von deinem Friedhof hinzufügen.",
+  "level": 9,
+  "atk": 2600,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

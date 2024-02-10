@@ -1,0 +1,15 @@
+{
+  "id": 6696,
+  "type": "monster",
+  "name": "Voltanis der Schiedsrichter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Nachdem eine deiner Konterfallenkarten aktiviert und aufgelöst wurde, kannst du diese Karte als Spezialbeschwörung beschwören, indem du alle Monster auf deiner Spielfeldseite als Tribut anbietest. Falls diese Karte auf diese Weise als Spezialbeschwörung beschworen wird, kannst du Karten auf der gegnerischen Spielfeldseite bis zur Anzahl der als Tribut angebotenen Monster vom Typ Fee zerstören.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1400,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

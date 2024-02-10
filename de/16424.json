@@ -1,0 +1,16 @@
+{
+  "id": 16424,
+  "type": "monster",
+  "name": "Nummer 4: Tarnkappen-Kragenkrake",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 WASSER Monster der Stufe 4\nAlle offenen Monster auf dem Spielfeld werden zu WASSER. Einmal pro Spielzug, während der Main Phase (Schnelleffekt): Du kannst 1 WASSER Monster zerstören, das dein Gegner kontrolliert, und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der ATK zu, die es auf dem Spielfeld hatte. Falls diese als Xyz-Beschwörung beschworene Karte zerstört wird: Du kannst eine Anzahl „Tarnkappen-Kragenkraken-Brut“ bis zur Anzahl des Materials, das diese Karte hatte, als Spezialbeschwörung von deinem Extra Deck beschwören, dann kannst du an jedes der als Spezialbeschwörung beschworenen Monster bis zu 1 WASSER Monster von deinem Friedhof als Material anhängen.",
+  "rank": 4,
+  "atk": 1900,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Xyz",
+    "Effekt"
+  ]
+}

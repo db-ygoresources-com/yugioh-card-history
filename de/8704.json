@@ -1,0 +1,16 @@
+{
+  "id": 8704,
+  "type": "monster",
+  "name": "Neo-Flamvell-Igel",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte durch Kampf zerstört wird: Wähle 1 Karte im Friedhof deines Gegners; verbanne sie. Falls diese Karte auf dem Spielfeld durch einen Karteneffekt zerstört wird: Wähle 1 FEUER Monster mit 200 oder weniger DEF in deinem Friedhof, außer „Neo-Flamvell-Igel“; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

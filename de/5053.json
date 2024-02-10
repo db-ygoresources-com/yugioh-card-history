@@ -1,0 +1,16 @@
+{
+  "id": 5053,
+  "type": "monster",
+  "name": "Sonischer Blockierer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Dein Gegner kann bis zum Ende der End Phase des nächsten Spielzugs keine Zauberkarten aktivieren.",
+  "level": 2,
+  "atk": 350,
+  "def": 650,
+  "properties": [
+    "Maschine",
+    "Flipp",
+    "Effekt"
+  ]
+}

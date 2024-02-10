@@ -1,0 +1,15 @@
+{
+  "id": 10305,
+  "type": "monster",
+  "name": "Madonner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 LICHT Monster vom Typ Donner der Stufe 4 als zusätzliche Normalbeschwörung von deiner Hand beschwören, außer „Madonner“.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

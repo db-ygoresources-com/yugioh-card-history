@@ -1,0 +1,15 @@
+{
+  "id": 6701,
+  "type": "monster",
+  "name": "Flammende Hiita",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 anderes FEUER Monster als Tribut anbieten; beschwöre 1 FEUER Monster als Spezialbeschwörung von deiner Hand, aber zerstöre es, wenn eine offene „Flammende Hiita“, die du kontrollierst, das Spielfeld verlässt.",
+  "level": 4,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

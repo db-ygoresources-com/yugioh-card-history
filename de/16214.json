@@ -1,0 +1,15 @@
+{
+  "id": 16214,
+  "type": "monster",
+  "name": "Schutzgeist Loagaeth",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 Monster auf dem Spielfeld wählen; es kann in diesem Spielzug nicht durch Kampf zerstört werden. Du kannst jeden der folgenden Effekte von „Schutzgeist Loagaeth“ nur einmal pro Spielzug verwenden. Falls ein Effekt eines Fee-Monsters, das du kontrollierst, aktiviert wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst 1 offene Karte, die dein Gegner kontrolliert, und 1 Monster in Angriffsposition, das du kontrollierst, wählen; verbanne jene Karte des Gegners und falls du dies tust, ändere dein Monster in die Verteidigungsposition.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

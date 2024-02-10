@@ -1,0 +1,15 @@
+{
+  "id": 15983,
+  "type": "monster",
+  "name": "Dunkel-Aufrichtig",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase: Du kannst diese offene Karte auf die Hand zurückgeben. Während des Damage Steps, wenn dein FINSTERNIS Monster gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; jenes Monster des Gegners verliert bis zum Ende dieses Spielzugs ATK in Höhe seiner eigenen ATK.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1900,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

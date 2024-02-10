@@ -1,0 +1,16 @@
+{
+  "id": 11003,
+  "type": "monster",
+  "name": "Panzerdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Maschine-Monster + 1 Drache-Monster\nFalls diese Karte zerstört und auf den Friedhof gelegt wird: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2600,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

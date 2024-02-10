@@ -1,0 +1,16 @@
+{
+  "id": 14185,
+  "type": "monster",
+  "name": "Lunalicht Schwerttänzerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 „Lunalicht“-Monster\nMuss als Fusionsbeschwörung beschworen werden. Erhält 200 ATK für jedes Ungeheuer-Krieger-Monster, das verbannt ist oder sich in den Friedhöfen befindet. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Während deiner Main Phase, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusionsmonster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 3000 ATK. Du kannst diesen Effekt von „Lunalicht Schwerttänzerin“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

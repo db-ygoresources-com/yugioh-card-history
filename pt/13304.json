@@ -1,0 +1,18 @@
+{
+  "id": 13304,
+  "type": "monster",
+  "name": "D/D/D Zero Maxwell, o Rei da Supervisão",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Antes do cálculo de dano, se este card atacar um monstro em Posição de Defesa do oponente: você pode mudar a DEF desse monstro do oponente para 0 até o final da Etapa de Dano. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. Você não sofre dano de batalha das batalhas envolvendo este card.",
+  "pendEffect": "Você pode escolher 1 monstro com a face para cima no campo; sua DEF se torna 0 até o final deste turno (mesmo que este card deixe o campo). Você só pode usar este efeito de \"D/D/D Zero Maxwell, o Rei da Supervisão\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

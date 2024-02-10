@@ -1,0 +1,16 @@
+{
+  "id": 14538,
+  "type": "monster",
+  "name": "Streitwagen der Walküren",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug kannst du entweder: 1 Fee-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Wenn das ausgerüstete Monster einen Angriff deklariert: Du kannst es 500 ATK erhalten lassen. (Dieser ATK-Zugewinn hält sogar an, falls diese Karte das Spielfeld verlässt.)",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Union",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6334,
+  "type": "monster",
+  "name": "Weißer Ninja",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Wähle 1 Monster in Verteidigungsposition auf dem Spielfeld; zerstöre jenes gewählte Ziel.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

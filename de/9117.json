@@ -1,0 +1,16 @@
+{
+  "id": 9117,
+  "type": "monster",
+  "name": "Sternschnuppen-Drache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger-Synchromonster + „Sternenstaubdrache“\nEinmal pro Spielzug: Du kannst die obersten 5 Karten deines Decks ausgraben, mische sie zurück, zusätzlich entspricht die maximale Anzahl der Angriffe dieser Karte pro Battle Phase in diesem Spielzug der Anzahl der ausgegrabenen Empfänger-Monster. Einmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird, die oder der eine oder mehr Karten auf dem Spielfeld zerstören würde (Schnelleffekt): Du kannst den Effekt annullieren und falls du dies tust, zerstöre sie. Einmal pro Spielzug, wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst das angreifende Monster wählen; verbanne diese Karte und falls du dies tust, annulliere den Angriff. Während der nächsten End Phase: Beschwöre diese durch diesen Effekt verbannte Karte als Spezialbeschwörung.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

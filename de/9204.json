@@ -1,0 +1,15 @@
+{
+  "id": 9204,
+  "type": "monster",
+  "name": "Naturia-Ananas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Alle offenen Monster, die du kontrollierst, werden zu Pflanze-Monstern. Einmal pro Spielzug, während deiner Standby Phase, falls du keine offene „Naturia-Ananas“ kontrollierst und keine Monster außer Pflanze oder Ungeheuer in deinem Friedhof hast: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören. Du darfst weder Zauber noch Fallen kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

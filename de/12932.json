@@ -1,0 +1,18 @@
+{
+  "id": 12932,
+  "type": "monster",
+  "name": "Oberster König Tor Unendlichkeit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 andere offene Karte wählen, die du kontrollierst; zerstöre sowohl sie als auch diese Karte und falls du dies tust, beschwöre 1 Drache-Xyz- oder -Pendelmonster als Spezialbeschwörung von deinem Extra Deck, aber seine ATK/DEF werden zu 0, seine Effekte werden annulliert, zusätzlich kann es nicht als Material für eine Synchro- oder Xyz-Beschwörung verwendet werden. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls du ein Monster kontrollierst, kannst du keine Pendelbeschwörungen durchführen. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug, falls du „Oberster König Z-ARC“ kontrollierst: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; du erhältst LP in Höhe seiner ATK.",
+  "pendScale": 13,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

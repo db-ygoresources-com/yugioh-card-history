@@ -1,0 +1,15 @@
+{
+  "id": 13883,
+  "type": "monster",
+  "name": "Astraghuls",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, aber seine Effekte werden annulliert, zusätzlich verbanne es während der End Phase. Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen und die Stufe der offenen Monster, die du derzeit kontrollierst, wird bis zum Ende dieses Spielzugs gleich dem Ergebnis.",
+  "level": 5,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8807,
+  "type": "monster",
+  "name": "Trigon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, kannst du ein Monster vom Typ Maschine, das du kontrollierst, mit dieser Karte als Ausrüstungskarte ausrüsten ODER diese Karte ausklinken, um sie als Spezialbeschwörung in die offene Angriffsposition zu beschwören. Solange diese Karte durch diesen Effekt ein Monster ausrüstet, falls das ausgerüstete Monster ein Monster deines Gegners durch Kampf zerstört, wähle 1 LICHT Monster der Stufe 4 oder niedriger vom Typ Maschine in deinem Friedhof und beschwöre es als Spezialbeschwörung. (Ein Monster kann zu jeder Zeit nur mit 1 Union-Monster ausgerüstet sein. Falls das ausgerüstete Monster zerstört werden würde, zerstöre stattdessen diese Karte.)",
+  "level": 3,
+  "atk": 500,
+  "def": 1700,
+  "properties": [
+    "Drache",
+    "Union",
+    "Effekt"
+  ]
+}

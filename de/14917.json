@@ -1,0 +1,16 @@
+{
+  "id": 14917,
+  "type": "monster",
+  "name": "Satellitensynchron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein oder mehr Monster als Spezialbeschwörung von deinem Friedhof beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls du ein Synchromonster mit „Krieger“, „Synchron“ oder „Sternenstaub“ in seinem Grund-Namen auf deiner Spielfeldseite oder in deinem Friedhof hast: Du kannst die Stufe dieser Karte bis zum Ende dieses Spielzugs zu 4 werden lassen. Du kannst jeden Effekt von „Satellitensynchron“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 700,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

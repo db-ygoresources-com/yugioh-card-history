@@ -1,0 +1,15 @@
+{
+  "id": 9581,
+  "type": "monster",
+  "name": "Zorn der Tiefsee",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte erhält 500 ATK und DEF für jedes Monster vom Typ Fisch, Seeschlange oder Aqua in deinem Friedhof.",
+  "level": 5,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 17789,
+  "type": "monster",
+  "name": "Turbo-befleckter Hot Rod GT19",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "FLIPP: Du kannst eine Stufe von 1 bis 9 deklarieren; diese Karte wird bis zum Ende dieses Spielzugs zu jener Stufe.\nNachdem diese Karte aufgedeckt wurde, während einer beliebigen Main Phase (Schnelleffekt): Du kannst 1 anderes offenes Monster auf einer beliebigen Spielfeldseite wählen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Monster als Synchrobeschwörung und verwende dafür nur diese Karte und jenes gewählte Ziel. Du kannst nur 1 Effekt von „Turbo-befleckter Hot Rod GT19“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Flipp",
+    "Empfänger",
+    "Effekt"
+  ]
+}

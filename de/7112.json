@@ -1,0 +1,15 @@
+{
+  "id": 7112,
+  "type": "monster",
+  "name": "Himmelsplage Enrise",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer indem du 3 LICHT Monster vom Typ Fee und 1 FINSTERNIS Monster vom Typ Unterweltler in deinem Friedhof aus dem Spiel entfernst. Einmal pro Spielzug kannst du 1 offenes Monster auf dem Spielfeld aus dem Spiel entfernen. Falls du diesen Effekt aktivierst, kann diese Karte während dieses Spielzugs nicht angreifen.",
+  "level": 8,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

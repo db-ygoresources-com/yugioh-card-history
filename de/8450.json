@@ -1,0 +1,15 @@
+{
+  "id": 8450,
+  "type": "monster",
+  "name": "Finstere Spinne",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug kannst du die Stufe von 1 offenen Monster vom Typ Insekt, das du kontrollierst, bis zur End Phase um 2 erhöhen.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

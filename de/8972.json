@@ -1,0 +1,16 @@
+{
+  "id": 8972,
+  "type": "monster",
+  "name": "Geladenes Zweihorn",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger-Monster vom Typ Ungeheuer + 1 oder mehr Nicht-Empfänger-Monster\nFalls diese Karte durch eine Karte deines Gegners zerstört wird (entweder durch Kampf oder durch einen Karteneffekt), legen beide Spieler die obersten 7 Karten ihrer Decks auf den Friedhof.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer",
+    "Synchro",
+    "Effekt"
+  ]
+}

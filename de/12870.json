@@ -1,0 +1,16 @@
+{
+  "id": 12870,
+  "type": "monster",
+  "name": "Raubpflanze Drachostapelia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Fusionsmonster + 1 FINSTERNIS Monster\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; lege 1 Raubtier-Zählmarke darauf und falls es Stufe 2 oder höher ist, wird es zu Stufe 1, solange es eine Raubtier-Zählmarke hat. Annulliere die aktivierten Effekte von Monstern deines Gegners, die Raubtier-Zählmarken haben.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1900,
+  "properties": [
+    "Pflanze",
+    "Fusion",
+    "Effekt"
+  ]
+}

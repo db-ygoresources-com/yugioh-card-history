@@ -1,0 +1,16 @@
+{
+  "id": 17142,
+  "type": "monster",
+  "name": "Umkehrdose",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Ändere so viele andere Monster auf dem Spielfeld in die verdeckte Verteidigungsposition wie möglich, dann gib so viele offene Zauber/Fallen vom Spielfeld auf die Hand zurück wie möglich, dann kann jeder Spieler Zauber/Fallen von seiner Hand bis zu der Anzahl setzen, die durch diesen Effekt auf seine Hand zurückgegeben wurden. Du kannst diesen Effekt von „Umkehrdose“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 800,
+  "def": 900,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

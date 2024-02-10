@@ -1,0 +1,15 @@
+{
+  "id": 18450,
+  "type": "monster",
+  "name": "Minairuka",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn der Effekt eines WASSER Monsters aktiviert wird (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst 1 offenes Fisch-, Seeschlange- oder Aqua-Monster verbannen, das du kontrollierst, und dann 1 offene Karte auf dem Spielfeld wählen; annulliere bis zum Ende des Spielzugs deines Gegners ihre Effekte. Du kannst jeden Effekt von „Minairuka“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

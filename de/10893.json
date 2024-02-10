@@ -1,0 +1,15 @@
+{
+  "id": 10893,
+  "type": "monster",
+  "name": "Photonen-Sprenger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst die ATK dieser Karte bis zu deiner nächsten Standby Phase zum Doppelten ihrer Grund-ATK werden lassen. Diese Karte kann in dem Spielzug, in dem du diesen Effekt aktivierst, nicht angreifen.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

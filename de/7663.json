@@ -1,0 +1,15 @@
+{
+  "id": 7663,
+  "type": "monster",
+  "name": "Austernmeister",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird, außer wenn sie durch Kampf zerstört wurde: Beschwöre 1 „Austern-Spielmarke“ (Fisch/WASSER/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung.",
+  "level": 3,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

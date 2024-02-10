@@ -1,0 +1,16 @@
+{
+  "id": 9121,
+  "type": "monster",
+  "name": "Schrott-Zwillingsdrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 „Schrott“-Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 Karte, die du kontrollierst, und 2 Karten, die dein Gegner kontrolliert, wählen; zerstöre die, die du kontrollierst, und falls du dies tust, gib die, die dein Gegner kontrolliert, auf die Hand zurück. Falls diese Karte, die dir gehört, durch eine Karte deines Gegners zerstört und auf deinen Friedhof gelegt wird: Wähle 1 „Schrott“-Nichtsynchro-Monster in deinem Friedhof; beschwöre es als Spezialbeschwörung.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

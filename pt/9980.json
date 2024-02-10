@@ -1,0 +1,15 @@
+{
+  "id": 9980,
+  "type": "monster",
+  "name": "Espírito Meca-Mola",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro você deve Invocá-lo por Invocação-Especial (da sua mão) ao ter apenas monstros do Tipo Máquina em seu Cemitério (mín. 1). Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla; seu ATK se torna 0 até a Fase Final.",
+  "level": 8,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

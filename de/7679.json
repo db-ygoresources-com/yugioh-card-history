@@ -1,0 +1,16 @@
+{
+  "id": 7679,
+  "type": "monster",
+  "name": "Straßenkrieger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Straßensynchron“ + 2 oder mehr Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 Monster vom Typ Krieger oder Maschine der Stufe 2 oder niedriger als Spezialbeschwörung von deinem Deck beschwören.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

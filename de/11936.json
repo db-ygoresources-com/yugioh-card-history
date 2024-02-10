@@ -1,0 +1,19 @@
+{
+  "id": 11936,
+  "type": "monster",
+  "name": "Edeldrachen-Magier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines Drache-Synchromonsters. Falls diese Karte als Synchromaterial verwendet wird, lege diese Karte unters Deck, es sei denn, alles andere Synchromaterial sind „Buntäugig“-Monster. Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 „Buntäugig“-Monster der Stufe 7 oder höher wählen, das du kontrollierst; verringere seine Stufe um 3 und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung.",
+  "pendEffect": "Zerstöre diese Karte, es sei denn, du hast eine „Magier“-Karte in deiner anderen Pendelzone.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 700,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

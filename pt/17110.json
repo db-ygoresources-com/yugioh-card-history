@@ -1,0 +1,18 @@
+{
+  "id": 17110,
+  "type": "monster",
+  "name": "Valet Camarartista de Olhos Anômalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 monstro \"Camarartista\" ou \"Olhos Anômalos\" do seu Deck para o Cemitério, exceto \"Valet Camarartista de Olhos Anômalos\" e, se isso acontecer, até o final deste turno, o Nível deste card se torna o mesmo que o desse monstro. Você só pode usar este efeito de \"Valet Camarartista de Olhos Anômalos\" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno, quando um monstro do oponente declarar um ataque: você pode fazer com que esse monstro do oponente perca 300 de ATK para cada Monstro Pêndulo com a face para cima no seu Deck Adicional.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11602,
+  "type": "monster",
+  "name": "Defensor Cristalino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Se um monstro \"Fera Cristalina\" que você controla batalhar um monstro do oponente, durante o cálculo de dano (Efeito Rápido): você pode oferecer este card como Tributo da sua mão ou do campo com a face para cima; o ATK/DEF do seu monstro que estiver batalhando se torna o dobro do seu ATK/DEF originais, apenas durante esse cálculo de dano, mas ele é destruído no final desta Etapa de Dano.",
+  "pendEffect": "A cada turno, na primeira vez que um ou mais monstros \"Cristalino(a) Definitivo(a)\" e/ou um ou mais cards \"Fera Cristalina\" que você controla seriam destruídos por um efeito de card nesse turno, eles não são destruídos.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

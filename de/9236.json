@@ -1,0 +1,16 @@
+{
+  "id": 9236,
+  "type": "monster",
+  "name": "Brisynchron",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird, erhält das Synchromonster, das diese Karte als Synchromaterial verwendet hat, bis zum Ende dieses Spielzugs 600 ATK, aber seine Effekte werden solange annulliert.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1100,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

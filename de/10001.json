@@ -1,0 +1,16 @@
+{
+  "id": 10001,
+  "type": "monster",
+  "name": "Edelstein-Ritter Meisterdiamant",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "3 „Edelstein-Ritter“-Monster\nMuss zuerst als Fusionsbeschwörung beschworen werden. Diese Karte erhält 100 ATK für jedes „Edelstein“-Monster in deinem Friedhof. Einmal pro Spielzug: Du kannst 1 „Edelstein-Ritter“-Fusionsmonster der Stufe 7 oder niedriger von deinem Friedhof verbannen; bis zur End Phase wird der Name dieser Karte derselbe wie der des Monsters und ersetze diesen Effekt durch die Grundeffekte des Monsters.",
+  "level": 9,
+  "atk": 2900,
+  "def": 2500,
+  "properties": [
+    "Fels",
+    "Fusion",
+    "Effekt"
+  ]
+}

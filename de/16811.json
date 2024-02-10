@@ -1,0 +1,15 @@
+{
+  "id": 16811,
+  "type": "monster",
+  "name": "Eisjade Kosmochlor",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls eine offene Karte in einer Spielfeldzone liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Eisjade Kosmochlor“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Solange „Eisjade-Cenote Enion-Wiege“ auf dem Spielfeld liegt, können die Effekte von Monstern, die dein Gegner kontrolliert, nur in dem Spielzug aktiviert werden, in dem sie beschworen wurden. Falls dein „Eisjade“-Monster gegen ein Monster eines Gegners kämpft, verliert jenes Monster des Gegners nur während jener Schadensberechnung 1000 ATK.",
+  "level": 10,
+  "atk": 1500,
+  "def": 3000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

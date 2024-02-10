@@ -1,0 +1,18 @@
+{
+  "id": 13393,
+  "type": "monster",
+  "name": "Besta Mítica Garuda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Quando seu oponente Invocar um ou mais monstros por Invocação-Normal ou Especial (exceto durante a Etapa de Dano): você pode remover 3 Marcadores de Magia do seu campo; Invoque este card por Invocação-Especial da sua mão e, depois, devolva esse(s) monstro(s) Invocados pelo oponente para a mão. Você só pode usar este efeito de \"Besta Mítica Garuda\" uma vez por turno.",
+  "pendEffect": "Se você não tiver nenhum card na sua outra Zona de Pêndulo: você pode escolher 1 outra Magia/Armadilha no campo; destrua tanto ela como este card. Você só pode usar este efeito de \"Besta Mítica Garuda\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14439,
+  "type": "monster",
+  "name": "Endymion, der mächtige Meister der Magie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, wenn eine Zauber-/Fallenkarte oder ein Zauber-/Falleneffekt aktiviert wird (Schnelleffekt): Du kannst 1 Karte mit einer Zauberzählmarke, die du kontrollierst, auf die Hand zurückgeben und falls du dies tust, annulliere die Aktivierung und falls du dies tust, zerstöre sie. Dann kannst du dieselbe Anzahl Zauberzählmarken, die auf der zurückgegebenen Karte lagen, auf diese Karte legen. Solange auf dieser Karte eine Zauberzählmarke liegt, kann dein Gegner sie nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden. Wenn diese Karte mit einer Zauberzählmarke durch Kampf zerstört wird: Du kannst deiner Hand 1 Normalen Zauber von deinem Deck hinzufügen.",
+  "pendEffect": "Du kannst 6 Zauberzählmarken von deiner Spielfeldseite entfernen; beschwöre diese Karte als Spezialbeschwörung von der Pendelzone, dann zähle die Anzahl der Karten, die du kontrollierst und die eine Zauberzählmarke haben können, zerstöre bis zu so viele Karten auf dem Spielfeld und falls du dies tust, lege Zauberzählmarken in Höhe der Anzahl der zerstörten Karten auf diese Karte. Du kannst diesen Effekt von „Endymion, der mächtige Meister der Magie“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2800,
+  "def": 1700,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

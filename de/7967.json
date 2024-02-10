@@ -1,0 +1,16 @@
+{
+  "id": 7967,
+  "type": "monster",
+  "name": "Wurm Millidith",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Du kannst ein Monster, das dein Gegner kontrolliert, mit dieser Karte als Ausrüstungskarte ausrüsten. Füge dem Beherrscher des ausgerüsteten Monsters während jeder Standby Phase 400 Schaden zu.",
+  "level": 4,
+  "atk": 400,
+  "def": 1600,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

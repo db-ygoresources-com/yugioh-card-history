@@ -1,0 +1,15 @@
+{
+  "id": 10763,
+  "type": "monster",
+  "name": "Pumprinzessin, Geisterprinzessin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese offene Karte in einer Monsterzone zerstört wird, kannst du sie offen als Permanenten Zauber in deine Zauber- & Fallenzone legen, statt sie auf den Friedhof zu legen. Solange diese Karte durch diesen Effekt als Permanenter Zauber behandelt wird, während jeder Standby Phase: Lege 1 Kürbiszählmarke auf diese Karte. Alle Monster, die dein Gegner kontrolliert, verlieren für jede Kürbiszählmarke auf dieser Karte 100 ATK/DEF.",
+  "level": 3,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5587,
+  "type": "monster",
+  "name": "Zweiter Goblin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, kannst du deine „Riesenork“-Karte mit dieser Karte als Ausrüstungszauberkarte ausrüsten ODER sie als Union-Ausrüstung ausklinken und als Spezialbeschwörung in offener Angriffsposition auf deiner Spielfeldseite beschwören. Wenn diese Karte durch ihren Effekt ein Monster ausrüstet, kannst du die Position des ausgerüsteten Monsters einmal pro Spielzug, während deiner Main Phase, ändern. (1 Monster kann nur mit 1 Union-Monster zurzeit ausgerüstet sein. Wenn das Monster, das mit dieser Karte ausgerüstet ist, als Ergebnis eines Kampfes zerstört wird, zerstöre stattdessen diese Karte.)",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Union",
+    "Effekt"
+  ]
+}

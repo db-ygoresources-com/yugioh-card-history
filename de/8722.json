@@ -1,0 +1,15 @@
+{
+  "id": 8722,
+  "type": "monster",
+  "name": "Naturia-Traubenkraut",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn dein Gegner eine oder mehr Karten zieht (außer während der Draw Phase oder des Damage Steps): Du kannst diese Karte vom Spielfeld auf den Friedhof legen; ziehe 2 Karten.",
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

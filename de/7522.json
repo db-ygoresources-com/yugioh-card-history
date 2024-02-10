@@ -1,0 +1,15 @@
+{
+  "id": 7522,
+  "type": "monster",
+  "name": "Böser Drache Ananta",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung beschworen werden, indem du alle Reptil-Monster verbannst, die du kontrollierst und die in deinem Friedhof liegen. Die ATK/DEF dieser Karte werden gleich der Anzahl der Monster, die für ihre Spezialbeschwörung verbannt wurden, x 600. Einmal pro Spielzug, während deiner End Phase: Wähle 1 Karte auf dem Spielfeld; zerstöre das gewählte Ziel.",
+  "level": 8,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

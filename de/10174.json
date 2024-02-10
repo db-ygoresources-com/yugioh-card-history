@@ -1,0 +1,16 @@
+{
+  "id": 10174,
+  "type": "monster",
+  "name": "Superdimensionaler Roboter-Galaxiezerstörer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "3 Monster der Stufe 10\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; zerstöre alle Zauber/Fallen, die dein Gegner kontrolliert. Dein Gegner kann als Reaktion auf die Aktivierung dieses Effekts keine Zauber-/Fallenkarten aktivieren.",
+  "rank": 10,
+  "atk": 5000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

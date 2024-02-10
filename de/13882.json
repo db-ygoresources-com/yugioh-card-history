@@ -1,0 +1,16 @@
+{
+  "id": 13882,
+  "type": "monster",
+  "name": "Manifestation des Erzunterweltlers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Herbeigerufener Totenkopf“ + 1 FINSTERNIS Monster\nDer Name dieser Karte wird auf dem Spielfeld zu „Herbeigerufener Totenkopf“, aber sie wird weiterhin als „Erzunterweltler“-Karte behandelt. Alle „Herbeigerufener Totenkopf“, die du kontrollierst, erhalten 500 ATK. Falls diese als Fusionsbeschwörung beschworene Karte, die du kontrollierst, durch eine Karte eines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 „Herbeigerufener Totenkopf“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

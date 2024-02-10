@@ -1,0 +1,15 @@
+{
+  "id": 8030,
+  "type": "monster",
+  "name": "Besouro Cruza-Espadas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Enquanto você controlar outro monstro Inseto, se um monstro Inseto que você controla atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Inseto",
+    "Efeito"
+  ]
+}

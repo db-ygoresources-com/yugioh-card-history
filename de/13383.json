@@ -1,0 +1,16 @@
+{
+  "id": 13383,
+  "type": "monster",
+  "name": "Tinwinkel-Eindringling",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst deiner Hand 1 „Tinwinkel“-Karte von deinem Deck hinzufügen.\nWenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Tinwinkel“-Karte von deinem Deck auf den Friedhof legen. Falls ein oder mehr Monster als Spezialbeschwörung auf deine Spielfeldseite in die verdeckte Verteidigungsposition beschworen werden, solange diese Karte in deinem Friedhof liegt: Beschwöre diese Karte als Spezialbeschwörung in die verdeckte Verteidigungsposition (dies ist nicht optional). Du kannst jeden Effekt von „Tinwinkel-Eindringling“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2200,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

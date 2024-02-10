@@ -1,0 +1,15 @@
+{
+  "id": 5891,
+  "type": "monster",
+  "name": "Stachelfee",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Dein Gegner kann keine Insekt-Monster angreifen. Falls diese Karte gegen ein Monster gekämpft hat, am Ende des Damage Steps: Ändere jenes Monster in die Verteidigungsposition.",
+  "level": 4,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

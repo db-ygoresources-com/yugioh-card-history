@@ -1,0 +1,16 @@
+{
+  "id": 5525,
+  "type": "monster",
+  "name": "Kobrakrug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Beschwöre 1 „Giftschlangen-Spielmarke“ (Typ Reptil/ERDE/Stufe 3/ATK 1200/DEF 1200) als Spezialbeschwörung auf deiner Spielfeldseite. Wenn diese „Giftschlangen-Spielmarke“ als Ergebnis eines Kampfes zerstört wird, füge den Life Points deines Gegners 500 Punkte Schaden zu.",
+  "level": 2,
+  "atk": 600,
+  "def": 300,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

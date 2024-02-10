@@ -1,0 +1,15 @@
+{
+  "id": 9889,
+  "type": "monster",
+  "name": "Wasserrüstungs-Ninja",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert, falls sich ein anderes „Ninja“-Monster in deinem Friedhof befindet: Du kannst diese Karte von deinem Friedhof verbannen, um das angreifende Monster zu wählen; annulliere den Angriff.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

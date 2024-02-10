@@ -1,0 +1,16 @@
+{
+  "id": 8708,
+  "type": "monster",
+  "name": "Genex-Verbündeter Chemiker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 Eigenschaft benennen und diese Karte abwerfen, um 1 offenes „Genex“-Monster zu wählen, das du kontrollierst. Das Monster wird zu der benannten Eigenschaft. Du kannst diesen Effekt während der Spielzüge beider Spieler aktivieren.",
+  "level": 2,
+  "atk": 200,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11052,
+  "type": "monster",
+  "name": "Geistertrick-Kriegswolf",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Wenn diese Karte aufgedeckt wird: Füge deinem Gegner 100 Schaden für jede gesetzte Karte auf dem Spielfeld zu. Du kannst diesen Effekt von „Geistertrick-Kriegswolf“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

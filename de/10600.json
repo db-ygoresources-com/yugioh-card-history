@@ -1,0 +1,16 @@
+{
+  "id": 10600,
+  "type": "monster",
+  "name": "Totemvogel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 WIND Monster der Stufe 3\nWenn eine Zauber-/Fallenkarte aktiviert wird (Schnelleffekt): Du kannst 2 Material von dieser Karte abhängen; annulliere die Aktivierung und falls du dies tust, zerstöre sie. Diese Karte verliert 300 ATK, solange sie kein Material hat.",
+  "rank": 3,
+  "atk": 1900,
+  "def": 1400,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Xyz",
+    "Effekt"
+  ]
+}

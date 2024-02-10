@@ -1,0 +1,16 @@
+{
+  "id": 10329,
+  "type": "monster",
+  "name": "Bruderschaft der Feuerfaust - Geist",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines Ungeheuer-Krieger-Monsters. Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 FEUER Monster der Stufe 3 mit 200 oder weniger DEF in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung in die Verteidigungsposition und falls du dies tust, können Monster, die du kontrollierst, für den Rest dieses Spielzugs nicht angreifen, außer Ungeheuer-Krieger-Monstern. Du kannst diesen Effekt von „Bruderschaft der Feuerfaust - Geist“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

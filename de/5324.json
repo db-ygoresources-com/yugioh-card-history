@@ -1,0 +1,15 @@
+{
+  "id": 5324,
+  "type": "monster",
+  "name": "Der Jäger mit 7 Waffen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Nenne 1 Monstertyp, wenn diese Karte als Normalbeschwörung beschworen wird. Erhöhe die ATK dieser Karte nur während der Schadensberechnung um 1000 Punkte, wenn sie gegen ein Monster des genannten Typs kämpft.",
+  "level": 3,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

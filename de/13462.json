@@ -1,0 +1,18 @@
+{
+  "id": 13462,
+  "type": "monster",
+  "name": "Buntäugiger Revolutionsdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Pendelbeschwörung (von deiner Hand) beschworen werden, oder als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Drache-Monster (1 Fusions-, 1 Synchro- und 1 Xyz-) als Tribut anbietest. Du kannst diese Karte abwerfen und 500 LP zahlen: Füge deiner Hand 1 Drache-Pendelmonster der Stufe 8 oder niedriger von deinem Deck hinzu. Erhält ATK/DEF in Höhe der Hälfte der LP deines Gegners. Einmal pro Spielzug: Du kannst die Hälfte deiner LP zahlen; mische alle anderen Karten vom Spielfeld und den Friedhöfen ins Deck.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer Drache-Monstern. Dieser Effekt kann nicht annulliert werden. Du kannst 1 Drache-Fusions-, Drache-Synchro- oder Drache-Xyz-Monster in deinem Friedhof wählen; zerstöre diese Karte und falls du dies tust, beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

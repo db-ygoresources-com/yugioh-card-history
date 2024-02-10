@@ -1,0 +1,19 @@
+{
+  "id": 16010,
+  "type": "monster",
+  "name": "Lyna, Lichtverzaubererin in strahlend",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster, darunter ein LICHT Monster\n(Diese Karte wird immer als „Vertrauten“-Karte behandelt.)\nDu kannst 1 LICHT Monster im Friedhof deines Gegners wählen; beschwöre es als Spezialbeschwörung in deine Zone, auf die diese Karte zeigt. Falls diese als Linkbeschwörung beschworene Karte durch Kampf zerstört wird oder durch einen Karteneffekt eines Gegners zerstört wird, solange sie in der Monsterzone ihres Besitzers liegt: Du kannst deiner Hand 1 LICHT Monster mit 1500 oder weniger DEF von deinem Deck hinzufügen. Du kannst jeden Effekt von „Lyna, Lichtverzaubererin in strahlend“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

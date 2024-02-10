@@ -1,0 +1,19 @@
+{
+  "id": 11809,
+  "type": "monster",
+  "name": "Lüster-Pendel, der Drachobezwinger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Fusions-, Synchro- und Xyz-Monster können nicht als Spezialbeschwörung mit dieser Karte als Material beschworen werden, außer „Drachobezwinger“-Monstern.",
+  "pendEffect": "Einmal pro Spielzug, falls du eine Karte in deiner anderen Pendelzone hast: Du kannst die Karte zerstören und falls du dies tust, füge deiner Hand 1 Karte mit demselben Namen wie die Karte von deinem Deck hinzu.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1850,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

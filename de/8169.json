@@ -1,0 +1,16 @@
+{
+  "id": 8169,
+  "type": "monster",
+  "name": "Apparatearme",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Wähle 1 „Morphtronisch“-Zauberkarte oder -Fallenkarte in deinem Friedhof und füge sie deiner Hand hinzu.",
+  "level": 2,
+  "atk": 200,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Flipp",
+    "Effekt"
+  ]
+}

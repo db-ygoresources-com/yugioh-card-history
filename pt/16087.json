@@ -1,0 +1,18 @@
+{
+  "id": 16087,
+  "type": "monster",
+  "name": "FaSolfacorde Fancia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Enquanto você tiver uma Escala de Pêndulo ímpar na sua Zona de Pêndulo, se um Monstro Pêndulo \"Solfacorde\" seu seria destruído em batalha, em vez disso, você pode destruir este card. Durante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo \"Solfacorde\" do seu Deck ao seu Deck Adicional com a face para cima, exceto \"FaSolfacorde Fancia\". Você só pode usar este efeito de \"FaSolfacorde Fancia\" uma vez por turno.",
+  "pendEffect": "A Invocação-Pêndulo dos seus Monstros Pêndulo \"Solfacorde\" não pode ser negada.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1600,
+  "def": 400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

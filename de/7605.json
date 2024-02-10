@@ -1,0 +1,16 @@
+{
+  "id": 7605,
+  "type": "monster",
+  "name": "Batteriemann Mikrozelle",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Beschwöre 1 „Batteriemann“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck, außer „Batteriemann Mikrozelle“. Nachdem diese Karte aufgedeckt wurde, wenn sie durch Kampf zerstört und auf den Friedhof gelegt wird, ziehe 1 Karte.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Donner",
+    "Flipp",
+    "Effekt"
+  ]
+}

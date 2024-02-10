@@ -1,0 +1,16 @@
+{
+  "id": 11565,
+  "type": "monster",
+  "name": "Dragão Pêndulo de Olhos Rúnicos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "\"Dragão Pêndulo de Olhos Anômalos\" + 1 monstro do Tipo Mago\nSe este card foi Invocado por Invocação-Fusão usando um ou mais monstros Invocados por Invocação-Pêndulo no campo como Matéria de Fusão, ele não pode ser afetado por efeitos de card do seu oponente neste turno. Aplique o efeito apropriado, dependendo do Nível original do monstro usado como Matéria de Fusão que não tenha sido \"Dragão Pêndulo de Olhos Anômalos\".\n●Nível 4 ou menos: Este card pode realizar até 2 ataques contra monstros durante cada Fase de Batalha.\n●Nível 5 ou mais: Este card pode realizar até 3 ataques contra monstros durante cada Fase de Batalha.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16277,
+  "type": "monster",
+  "name": "Kriegsfels-Mammud",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du keine Monster kontrollierst oder alle Monster, die du kontrollierst, Krieger-Monster sind, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Falls dein ERDE Krieger-Monster kämpft, nach der Schadensberechnung: Du kannst 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; zerstöre ihn oder sie, dann erhalten alle „Kriegsfels“-Monster, die du derzeit kontrollierst, bis zum Ende des Spielzugs deines Gegners 200 ATK. Du kannst diesen Effekt von „Kriegsfels-Mammud“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

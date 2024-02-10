@@ -1,0 +1,16 @@
+{
+  "id": 16385,
+  "type": "monster",
+  "name": "Nekrosynchron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Blumensynchronisierer“, solange sie auf dem Spielfeld oder im Friedhof liegt. Du kannst jeden der folgenden Effekte von „Nekrosynchron“ nur einmal pro Spielzug verwenden. Du kannst 1 anderes offenes Monster wählen, das du kontrollierst; erhöhe seine Stufe bis zum Ende dieses Spielzugs um 2. Falls diese Karte als Synchromaterial für ein WIND Monster auf den Friedhof gelegt wird: Du kannst 1 Pflanze-Monster der Stufe 1 als Spezialbeschwörung von deinem Deck beschwören.",
+  "level": 2,
+  "atk": 200,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

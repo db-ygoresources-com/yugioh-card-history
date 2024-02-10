@@ -1,0 +1,16 @@
+{
+  "id": 15517,
+  "type": "monster",
+  "name": "Flammedler Ritter-Hauptmann Oliver",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nWenn diese Karte einen Angriff deklariert, solange sie ausgerüstet ist: Du kannst 1 offene Karte auf dem Spielfeld wählen; zerstöre sie. Während deiner Main Phase, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst 1 Krieger-Monster wählen, das du kontrollierst; beschwöre diese Karte als Spezialbeschwörung als Empfänger von deinem Friedhof und falls du dies tust, rüste diese Karte mit dem Monster, das du kontrollierst, als Ausrüstungszauber aus, der ihr 500 ATK gibt. Du kannst diesen Effekt von „Flammedler Ritter-Hauptmann Oliver“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9980,
+  "type": "monster",
+  "name": "Uhrwerk-Geist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du nur Monster vom Typ Maschine in deinem Friedhof hast (min. 1). Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden bis zur End Phase zu 0.",
+  "level": 8,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

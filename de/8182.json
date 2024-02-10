@@ -1,0 +1,15 @@
+{
+  "id": 8182,
+  "type": "monster",
+  "name": "Meister Gig",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du 1000 Life Points zahlen, um Monster, die dein Gegner kontrolliert, in Höhe der Anzahl der offenen Monster vom Typ Psi, die du kontrollierst, zu zerstören.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1400,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7064,
+  "type": "monster",
+  "name": "Mosaikmanticore",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während der Standby Phase deines nächsten Spielzugs, nachdem du diese offene Karte als Tributbeschwörung aufs Spielfeld beschworen hast: Beschwöre so viele Monster wie möglich als Spezialbeschwörung vom Friedhof, die für ihre Tributbeschwörung verwendet wurden. Sie können keinen Angriff deklarieren und ihre Effekte werden annulliert.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19727,
+  "type": "monster",
+  "name": "Ultimativer Flammen-Schwertkämpfer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "„Flammen-Schwertkämpfer“ + „Kampfflammen-Drache“\nDu kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es und falls du dies tust, füge deinem Gegner 500 Schaden zu. Dies ist ein Schnelleffekt, falls diese Karte mit einer Ausrüstungskarte ausgerüstet ist. Am Beginn des Damage Steps, falls diese Karte kämpft: Du kannst die ATK dieser Karte bis zum Ende dieses Spielzugs verdoppeln, aber falls du dies tust, zerstöre sie während der End Phase dieses Spielzugs. Du kannst jeden Effekt von „Ultimativer Flammen-Schwertkämpfer“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

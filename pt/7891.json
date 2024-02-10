@@ -1,0 +1,16 @@
+{
+  "id": 7891,
+  "type": "monster",
+  "name": "Saltador Psíquico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno: você pode pagar 1000 PV e, depois, escolher 1 monstro com a face para cima que seu oponente controla e 1 monstro do Tipo Psíquico que você controla, exceto \"Saltador Psíquico\"; troque o controle desses alvos e, se isso acontecer, suas posições de batalha não podem ser mudadas neste turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 1500,
+  "properties": [
+    "Psíquico",
+    "Regulador",
+    "Efeito"
+  ]
+}

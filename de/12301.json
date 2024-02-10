@@ -1,0 +1,18 @@
+{
+  "id": 12301,
+  "type": "monster",
+  "name": "Amorphage Stolz",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Pendelbeschwörung beschworen oder aufgedeckt wird, kann kein Spieler Monster als Spezialbeschwörung vom Extra Deck beschwören, solange diese Karte offen auf dem Spielfeld liegt, außer „Amorphage“-Monstern.",
+  "pendEffect": "Solange du ein „Amorphage“-Monster kontrollierst, erhält kein Spieler Effektschaden. Einmal pro Spielzug, während deiner Standby Phase, biete 1 Monster als Tribut an oder zerstöre diese Karte.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1750,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

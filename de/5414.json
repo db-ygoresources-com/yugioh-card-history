@@ -1,0 +1,16 @@
+{
+  "id": 5414,
+  "type": "monster",
+  "name": "Dunkler Staubgeist",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Während der End Phase des Spielzugs, in dem diese Karte als Normalbeschwörung beschworen oder aufgedeckt wird: Gib sie auf die Hand zurück. Wenn diese Karte als Normalbeschwörung beschworen oder aufgedeckt wird: Zerstöre alle anderen offenen Monster auf dem Spielfeld.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Spirit",
+    "Effekt"
+  ]
+}

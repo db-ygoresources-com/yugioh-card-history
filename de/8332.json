@@ -1,0 +1,16 @@
+{
+  "id": 8332,
+  "type": "monster",
+  "name": "Erzunterweltler Zombieschädel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Seuchenverbreitender Zombie“ + 2+ Zombie-Nicht-Empfänger-Monster\nZombie-Monster, die du kontrollierst, können nicht durch Karteneffekte zerstört werden.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

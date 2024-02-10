@@ -1,0 +1,15 @@
+{
+  "id": 16198,
+  "type": "monster",
+  "name": "Die Iris-Schwertseele",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Main Phase, falls ein Monster, dessen Effekte annulliert sind, auf dem Spielfeld liegt (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 dieser Effekte aktivieren, basierend darauf, woher sie als Spezialbeschwörung beschworen wurden;\n●Hand: Beschwöre 1 Monster als Spezialbeschwörung von deiner Hand.\n●Deck: Ziehe 2 Karten.\n●Extra Deck: Zerstöre 1 jener Monster, die als Spezialbeschwörung vom Extra Deck beschworen wurden.\nDu kannst jeden Effekt von „Die Iris-Schwertseele“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10487,
+  "type": "monster",
+  "name": "Kleine Fee",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Bis zu zweimal pro Spielzug: Du kannst 1 Karte von deiner Hand auf den Friedhof legen; erhöhe die Stufe dieser Karte um 1.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

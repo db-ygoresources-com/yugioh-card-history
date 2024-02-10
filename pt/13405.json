@@ -1,0 +1,15 @@
+{
+  "id": 13405,
+  "type": "monster",
+  "name": "Inspetor Prancha",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal ou Especial se você controlar um monstro. Nenhum duelista pode ativar efeitos de monstro a não ser que o número de efeitos de monstro que esse duelista tenha ativado previamente no turno em questão seja menor que o número de tipos de card de monstro atualmente no campo (Ritual, Fusão, Sincro, Xyz, Pêndulo e Link). (Se a ativação de um efeito foi negada, ela ainda conta para o número total do turno. Conte apenas os efeitos que foram ativados enquanto este monstro estava com a face para cima no campo.)",
+  "level": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

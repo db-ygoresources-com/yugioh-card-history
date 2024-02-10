@@ -1,0 +1,16 @@
+{
+  "id": 4608,
+  "type": "monster",
+  "name": "Pinguinsoldat",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Du kannst bis zu 2 Monster auf dem Spielfeld wählen; gib jene gewählten Ziele auf die Hand zurück.",
+  "level": 2,
+  "atk": 750,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Flipp",
+    "Effekt"
+  ]
+}

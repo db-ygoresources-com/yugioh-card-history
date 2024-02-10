@@ -1,0 +1,16 @@
+{
+  "id": 12319,
+  "type": "monster",
+  "name": "Lunalicht Panthertänzerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Lunalicht Katzentänzerin“ + 1 „Lunalicht“-Monster\nMuss erst als Fusionsbeschwörung mit dem oben aufgeführten Fusionsmaterial beschworen werden. Kann nicht durch Karteneffekte deines Gegners zerstört werden. Einmal pro Spielzug, während deiner Main Phase 1: Du kannst diesen Effekt aktivieren; für den Rest dieses Spielzugs wird jedes Monster, das dein Gegner kontrolliert, das erste Mal, dass es durch Kampf zerstört würde, nicht zerstört, zusätzlich kann diese Karte alle Monster, die dein Gegner kontrolliert, in diesem Spielzug zweimal angreifen. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört: Diese Karte erhält bis zum Ende der Battle Phase 200 ATK.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

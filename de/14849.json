@@ -1,0 +1,16 @@
+{
+  "id": 14849,
+  "type": "monster",
+  "name": "Megalith Aratron",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte mit einer „Megalith“-Karte als Ritualbeschwörung beschwören. Während der Main Phase (Schnelleffekt): Du kannst diese Karte abwerfen; beschwöre 1 „Megalith“-Ritualmonster als Ritualbeschwörung von deiner Hand, indem du Monster von deiner Hand oder Spielfeldseite als Tribut anbietest, deren gemeinsame Stufe größer oder gleich seiner Stufe ist. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der eine Karte, die du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst 1 Ritualmonster von deinem Friedhof unters Deck legen und falls du dies tust, annulliere die Aktivierung und falls du dies tust, zerstöre sie. Du kannst jeden Effekt von „Megalith Aratron“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Fels",
+    "Ritual",
+    "Effekt"
+  ]
+}

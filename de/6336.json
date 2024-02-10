@@ -1,0 +1,16 @@
+{
+  "id": 6336,
+  "type": "monster",
+  "name": "Eria, die Wasserverzaubererin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Wähle 1 WASSER Monster, das dein Gegner kontrolliert; übernimm die Kontrolle über das gewählte Ziel, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

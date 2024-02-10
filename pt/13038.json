@@ -1,0 +1,18 @@
+{
+  "id": 13038,
+  "type": "monster",
+  "name": "Diabrete de Dentes Comedor de Algodão",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Especial: você pode causar 200 de dano ao seu oponente para cada monstro \"Peladura\" no seu Cemitério. Você só pode usar este efeito de \"Diabrete de Dentes Comedor de Algodão\" uma vez por turno.",
+  "pendEffect": "Todos os Monstros de Fusão que você controla ganham 300 de ATK. Uma vez por turno, se um ou mais Monstros de Fusão \"Peladura\" forem Invocados por Invocação-Fusão no seu campo (exceto durante a Etapa de Dano): você pode comprar 1 card.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

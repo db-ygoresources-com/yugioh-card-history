@@ -1,0 +1,16 @@
+{
+  "id": 12065,
+  "type": "monster",
+  "name": "Roter Wyrm",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1 oder mehr Nicht-Empfänger-Monster\nWährend des Spielzugs eines beliebigen Spielers, falls ein Monster mit höheren ATK als diese als Synchrobeschwörung beschworene Karte auf dem Spielfeld liegt: Du kannst das 1 offene Monster auf dem Spielfeld zerstören, das die höchsten ATK hat (bei Gleichstand bestimmst du eins). Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

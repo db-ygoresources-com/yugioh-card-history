@@ -1,0 +1,15 @@
+{
+  "id": 9708,
+  "type": "monster",
+  "name": "Sephylon, o Senhor do Tempo Definitivo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao ter 10 ou mais monstros no seu Cemitério. Uma vez por turno: você pode Invocar por Invocação-Especial 1 monstro Fada de Nível 8 ou mais da sua mão ou do Cemitério, mas seus efeitos são negados e, além disso, seu ATK de torna 4000.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Fada",
+    "Efeito"
+  ]
+}

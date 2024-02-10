@@ -1,0 +1,15 @@
+{
+  "id": 7211,
+  "type": "monster",
+  "name": "Wüstentwister",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 WIND und 1 ERDE Monster von deinem Friedhof verbannst. Einmal pro Spielzug: Du kannst 1 Karte abwerfen und dann 1 Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

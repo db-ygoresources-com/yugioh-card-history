@@ -1,0 +1,15 @@
+{
+  "id": 17433,
+  "type": "monster",
+  "name": "Kurikara Gottheitsinkarnation",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du alle offenen Monster auf dem Spielfeld, deren Effekte in diesem Spielzug in der Monsterzone deines Gegners aktiviert wurden, als Tribut anbietest. Erhält für jedes Monster, das als Tribut angeboten wurde, um diese Karte als Spezialbeschwörung zu beschwören, 1500 ATK. Während deiner End Phase: Du kannst 1 Monster im Friedhof deines Gegners wählen; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite. Du kannst diesen Effekt von „Kurikara Gottheitsinkarnation“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

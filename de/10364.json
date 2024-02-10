@@ -1,0 +1,15 @@
+{
+  "id": 10364,
+  "type": "monster",
+  "name": "ZW - Blitzklinge",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 „Utopia“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder deiner Spielfeldseite aus. Es erhält 1200 ATK. Solange diese Karte ein Monster ausrüstet, können offene „ZW -“-Karten, die du kontrollierst, nicht durch Karteneffekte deines Gegners zerstört werden. Falls ein Monster, das mit dieser Karte ausgerüstet ist, durch einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Du kannst nur 1 offene „ZW - Blitzklinge“ kontrollieren.",
+  "level": 5,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14114,
+  "type": "monster",
+  "name": "Kalliberlade-Wilddrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst diese Karte mit 1 Linkmonster von deinem Friedhof ausrüsten und falls du dies tust, lege Kalliber-Zählmarken in Höhe der Linkzahl jenes Linkmonsters auf diese Karte. Diese Karte erhält ATK in Höhe der Hälfte der ATK des Monsters, mit dem sie durch ihren Effekt ausgerüstet ist. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 Kalliber-Zählmarke von dieser Karte entfernen; annulliere die Aktivierung. Du kannst diesen Effekt von „Kalliberlade-Wilddrache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

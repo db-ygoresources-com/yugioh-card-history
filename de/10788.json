@@ -1,0 +1,17 @@
+{
+  "id": 10788,
+  "type": "monster",
+  "name": "Puralis, der violette Pyrotil",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger- + 1 Nicht-Empfänger-Monster\nWenn diese Karte vom Spielfeld auf den Friedhof gelegt wird: Alle Monster, die dein Gegner derzeit kontrolliert, verlieren 500 ATK.",
+  "level": 2,
+  "atk": 800,
+  "def": 1400,
+  "properties": [
+    "Reptil",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

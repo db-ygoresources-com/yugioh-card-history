@@ -1,0 +1,19 @@
+{
+  "id": 17806,
+  "type": "monster",
+  "name": "Schmierfink aus der Unterwelt",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Effektmonster\nDiese Karte kann in dem Spielzug, in dem sie als Linkbeschwörung beschworen wurde, nicht als Linkmaterial verwendet werden. Falls ein oder mehr Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 1 Unterweltler-Monster als Tribut anbieten. Du kannst 1 Unterweltler-Monster in deinem Friedhof wählen, außer „Schmierfink aus der Unterwelt“; wirf 1 Karte ab und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Unterweltler-Monstern. Du kannst diesen Effekt von „Schmierfink aus der Unterwelt“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

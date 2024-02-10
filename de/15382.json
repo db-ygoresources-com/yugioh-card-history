@@ -1,0 +1,16 @@
+{
+  "id": 15382,
+  "type": "monster",
+  "name": "Nummer 3: Numeron-Tor Trini",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "3 Monster der Stufe 1\nKann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst 1 Material von dieser Karte abhängen; verdopple bis zum Ende dieses Spielzugs die ATK aller „Numeron“-Monster, die du derzeit kontrollierst.",
+  "rank": 1,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

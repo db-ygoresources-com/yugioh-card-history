@@ -1,0 +1,18 @@
+{
+  "id": 12137,
+  "type": "monster",
+  "name": "Dinonévoa Rex",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Se este card atacar, no final da Etapa de Dano: você pode oferecer como Tributo 1 outro monstro \"Dinonévoa\" e, depois, ativar 1 desses efeitos;\n●Este card pode atacar um monstro do oponente novamente em seguida e, se ele atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.\n●Embaralhe no Deck 1 card da mão do seu oponente (aleatório) ou do lado do campo dele e, depois, este card ganha 100 de ATK.",
+  "pendEffect": "Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de card ativado que escolhe como alvo outro(s) card(s) \"Dinonévoa\" que você controla e, depois, destrua este card.",
+  "pendScale": 6,
+  "level": 5,
+  "atk": 2400,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

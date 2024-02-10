@@ -1,0 +1,22 @@
+{
+  "id": 15741,
+  "type": "monster",
+  "name": "Unterweltgöttin der geschlossenen Welt",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "4+ Effektmonster\nDu kannst auch 1 Monster, das dein Gegner kontrolliert, als Material verwenden, um diese Karte als Linkbeschwörung zu beschwören. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst die Effekte aller offenen Monster annullieren, die dein Gegner derzeit kontrolliert. Diese als Linkbeschwörung beschworene Karte bleibt von aktivierten Effekten deines Gegners unberührt, es sei denn, sie wählen diese Karte als Ziel. Einmal pro Spielzug, wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der ein oder mehr Monster als Spezialbeschwörung vom Friedhof beschwört (Schnelleffekt): Du kannst die Aktivierung annullieren.",
+  "linkRating": 5,
+  "linkArrows": [
+    "8",
+    "9",
+    "6",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

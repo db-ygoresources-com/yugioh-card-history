@@ -1,0 +1,15 @@
+{
+  "id": 11684,
+  "type": "monster",
+  "name": "Superstarker Samurai Seelenbrecher-Handschuh",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst 1 „Superstarker Samurai“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder Spielfeldseite aus. Es erhält 400 DEF. Während des Damage Steps eines beliebigen Spielers, wenn ein „Superstarker Samurai“-Monster in Verteidigungsposition, das du kontrollierst, gegen ein Monster deines Gegners kämpft und du keine Zauber-/Fallenkarten in deinem Friedhof hast: Du kannst diese Karte von deiner Hand auf den Friedhof legen; die DEF deines kämpfenden Monsters werden bis zum Ende dieses Spielzugs zum Doppelten seiner Grund-DEF.",
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

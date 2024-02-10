@@ -1,0 +1,15 @@
+{
+  "id": 8742,
+  "type": "monster",
+  "name": "Gepanzerte Biene",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; halbiere die ATK des gewählten Ziels bis zur End Phase.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

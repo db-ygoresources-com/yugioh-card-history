@@ -1,0 +1,15 @@
+{
+  "id": 9892,
+  "type": "monster",
+  "name": "Insektor Ameise",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 3 erhöht, zusätzlich erhält es ATK und DEF in Höhe der ATK und DEF dieser Karte. Falls das ausgerüstete Monster zerstört würde, kannst du stattdessen diese Ausrüstungskarte zerstören.",
+  "level": 3,
+  "atk": 200,
+  "def": 600,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

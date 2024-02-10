@@ -1,0 +1,18 @@
+{
+  "id": 16213,
+  "type": "monster",
+  "name": "Inteligência Anti-humana ME-PSY-YA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode revelar este card na sua mão; adicione 1 outro Monstro Pêndulo da sua mão, ou 1 card da sua Zona de Pêndulo, ao Deck Adicional do seu dono com a face para cima e, se isso acontecer, Invoque este card por Invocação-Especial. Você só pode usar este efeito de \"Inteligência Anti-humana ME-PSY-YA\" uma vez por turno. Se um ou mais outros monstros forem Invocados por Invocação-Normal ou Especial enquanto você controlar este card: envie esse(s) monstro(s) para o Cemitério durante a Fase Final deste turno.",
+  "pendEffect": "Qualquer card enviado para o Cemitério, em vez disso, é banido, exceto Cards de Monstro.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Ciberso",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

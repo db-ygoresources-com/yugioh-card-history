@@ -1,0 +1,21 @@
+{
+  "id": 14624,
+  "type": "monster",
+  "name": "Topologik-Zeroboros",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Effektmonster\nDu kannst keine Monster in eine Extra-Monsterzone beschwören/setzen, auf die diese Karte zeigt. Erhält 200 ATK für jede verbannte Karte. Falls ein anderes Monster als Spezialbeschwörung in eine Zone, auf die ein Linkmonster zeigt, beschworen wird, solange sich dieses Monster auf dem Spielfeld befindet: Verbanne alle Karten auf dem Spielfeld. Einmal pro Spielzug, während der Standby Phase des nächsten Spielzugs, nachdem diese Karte durch ihren eigenen Effekt verbannt wurde: Beschwöre diese verbannte Karte als Spezialbeschwörung.",
+  "linkRating": 4,
+  "linkArrows": [
+    "7",
+    "9",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

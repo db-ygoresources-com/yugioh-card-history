@@ -1,0 +1,15 @@
+{
+  "id": 4022,
+  "type": "monster",
+  "name": "Mago do Tempo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno: você pode lançar uma moeda e escolher cara ou coroa. Se você ganhar, destrua todos os monstros que seu oponente controla. Se você perder, destrua tantos monstros que você controla quanto possível e, se isso acontecer, sofra dano igual à metade do ATK total que esses monstros destruídos tinham enquanto estavam com a face para cima no campo.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

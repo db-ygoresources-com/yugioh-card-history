@@ -1,0 +1,16 @@
+{
+  "id": 6475,
+  "type": "monster",
+  "name": "W-Flügelkatapult",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du: 1 „V-Tigerflieger“ wählen, den du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Das ausgerüstete Monster erhält 400 ATK/DEF.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

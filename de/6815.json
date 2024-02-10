@@ -1,0 +1,15 @@
+{
+  "id": 6815,
+  "type": "monster",
+  "name": "Spielzeugmagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte als Zauber verdeckt in deine Zauber- & Fallenzone setzen. Während der End Phase, falls diese gesetzte Karte in deiner Zauber- & Fallenzone in diesem Spielzug durch den Karteneffekt eines Gegners zerstört und auf den Friedhof gelegt wurde: Beschwöre diese Karte als Spezialbeschwörung. Falls diese Karte als Flippbeschwörung beschworen wird: Zerstöre Zauber und Fallen auf dem Spielfeld in Höhe der Anzahl „Spielzeugmagier“ auf dem Spielfeld.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

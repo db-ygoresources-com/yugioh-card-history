@@ -1,0 +1,18 @@
+{
+  "id": 16219,
+  "type": "monster",
+  "name": "Saambell, die Sternenbinderin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls ein Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst 1 Monster mit derselben Stufe wie diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst diesen Effekt von „Saambell, die Sternenbinderin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du eine Pendelmonsterkarte mit derselben Stufe wie diese Karte in deiner anderen Pendelzone hast: Du kannst die Karte in deiner anderen Pendelzone zerstören und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Saambell, die Sternenbinderin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

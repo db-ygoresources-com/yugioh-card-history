@@ -1,0 +1,15 @@
+{
+  "id": 7436,
+  "type": "monster",
+  "name": "Der Rechner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Die ATK dieser Karte entsprechen der Summe der Stufen aller offenen Monster, die du kontrollierst, x 300.",
+  "level": 2,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

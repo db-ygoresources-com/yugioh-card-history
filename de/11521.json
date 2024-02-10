@@ -1,0 +1,18 @@
+{
+  "id": 11521,
+  "type": "monster",
+  "name": "Künstlerkumpel Feuermähnenlöwe",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug, falls ein Pendelmonster, das du kontrollierst, ein Monster deines Gegners durch Kampf zerstört, nach der Schadensberechnung: Du kannst das Monster, das du kontrollierst, bis zum Ende der Battle Phase 200 ATK erhalten lassen und falls du dies tust, kann es sofort einen zweiten Angriff durchführen.",
+  "pendEffect": "Wenn ein Pendelmonster, das du kontrollierst, durch Kampf zerstört wird: Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

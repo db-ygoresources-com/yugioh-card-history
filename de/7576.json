@@ -1,0 +1,15 @@
+{
+  "id": 7576,
+  "type": "monster",
+  "name": "Wunderflipper",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du einen „Wunderflipper“ kontrollierst, kannst du diese Karte nicht beschwören. Dein Gegner kann keine anderen offenen Monster als Ziel eines Angriffs wählen. Falls diese Karte durch Kampf zerstört wird, beschwöre sie am Ende der Battle Phase als Spezialbeschwörung auf die Spielfeldseite deines Gegners. Falls diese Karte durch den Effekt einer Zauber- oder Fallenkarte zerstört wird, zerstöre 1 Monster, das dein Gegner kontrolliert.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

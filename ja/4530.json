@@ -1,0 +1,16 @@
+{
+  "id": 4530,
+  "type": "monster",
+  "name": "スター・ボーイ",
+  "nameRuby": "スター・ボーイ",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "このカードがフィールド上に表側表示で存在する限り、フィールド上に表側表示で存在する水属性モンスターの攻撃力は５００ポイントアップし、炎属性モンスターの攻撃力は４００ポイントダウンする。",
+  "level": 2,
+  "atk": 550,
+  "def": 500,
+  "properties": [
+    "水族",
+    "効果"
+  ]
+}

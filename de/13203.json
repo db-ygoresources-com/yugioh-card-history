@@ -1,0 +1,20 @@
+{
+  "id": 13203,
+  "type": "monster",
+  "name": "Drei-Gatter-Zauberer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Monster, außer Spielmarken\nDiese Karte erhält diese Effekte, basierend auf der Anzahl der Monster, mit denen sie kreuzgelinkt ist.\n●1+: Falls ein Monster, das mit dieser Karte kreuzgelinkt ist, gegen ein Monster deines Gegners kämpft, wird der Kampfschaden verdoppelt, den es deinem Gegner zufügt.\n●2+: Einmal pro Spielzug: Du kannst 1 Karte auf dem Spielfeld wählen; verbanne sie.\n●3: Einmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, verbanne die Karte.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "4",
+    "6"
+  ],
+  "atk": 2200,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

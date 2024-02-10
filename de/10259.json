@@ -1,0 +1,15 @@
+{
+  "id": 10259,
+  "type": "monster",
+  "name": "Winziger Pinguin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird, nachdem sie aufgedeckt wurde: Wähle 1 „Pinguin“-Monster in deinem Friedhof, außer „Winziger Pinguin“; beschwöre das gewählte Ziel als Spezialbeschwörung in die offene Angriffsposition oder die verdeckte Verteidigungsposition.",
+  "level": 1,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

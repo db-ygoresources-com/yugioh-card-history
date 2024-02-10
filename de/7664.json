@@ -1,0 +1,16 @@
+{
+  "id": 7664,
+  "type": "monster",
+  "name": "Dharc, der finstere Zauberer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Verzaubererin“-Karte behandelt.) \nFLIPP: Übernimm die Kontrolle über 1 FINSTERNIS Monster, das dein Gegner kontrolliert, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

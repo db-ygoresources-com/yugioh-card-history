@@ -1,0 +1,18 @@
+{
+  "id": 11788,
+  "type": "monster",
+  "name": "Xiangsheng-Magierin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Dein Gegner erhält keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Einmal pro Spielzug: Du kannst 1 anderes offenes Monster wählen, das du kontrollierst; die ATK dieser Karte werden bis zum Ende dieses Spielzugs gleich den derzeitigen ATK des Monsters.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Xyz-Monster, das du kontrollierst, und 1 Monster der Stufe 5 oder höher, das du kontrollierst, wählen; der Rang des Xyz-Monsters wird bis zum Ende dieses Spielzugs gleich der Stufe des Monsters der Stufe 5 oder höher (selbst falls diese Karte das Spielfeld verlässt). Solange du mehr Karten kontrollierst als dein Gegner, wird der Pendelbereich dieser Karte zu 4.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

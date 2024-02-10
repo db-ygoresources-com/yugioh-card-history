@@ -1,0 +1,18 @@
+{
+  "id": 11975,
+  "type": "monster",
+  "name": "Feueritter Veteran",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Dieser grimmige Anführer der Leibwächter ist für Kavalier verantwortlich und gehört zu den wenigen, die sich über ihr Draufgängertum beschweren, insbesondere vor Galan, der ihn als einziger versteht.",
+  "pendEffect": "Falls du eine „Feueritter“-Karte in deiner anderen Pendelzone hast: Du kannst beide Karten in deinen Pendelzonen zerstören und falls du dies tust, füge deiner Hand 1 FEUER Monster vom Typ Krieger von deinem Deck oder Friedhof hinzu.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 1300,
+  "def": 2700,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Normal"
+  ]
+}

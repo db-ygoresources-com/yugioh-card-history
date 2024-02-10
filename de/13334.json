@@ -1,0 +1,20 @@
+{
+  "id": 13334,
+  "type": "monster",
+  "name": "Witterungsmalerin Regenbogen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "3 „Witterung“-Monster\nWenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwören würde (Schnelleffekt): Du kannst diese als Linkbeschwörung beschworene Karte auf den Friedhof legen; annulliere die Beschwörung und falls du dies tust, zerstöre die Monster. Einmal pro Spielzug, während der Standby Phase des Spielzugs, nachdem diese Karte vom Spielfeld verbannt wurde, um den Effekt einer „Witterung“-Karte zu aktivieren: Du kannst diese verbannte Karte als Spezialbeschwörung beschwören. „Witterung“-Effektmonster, auf die diese Karte zeigt, erhalten den folgenden Effekt.\n●Wenn eine Karte oder ein Effekt aktiviert wird (Schnelleffekt): Du kannst diese Karte verbannen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

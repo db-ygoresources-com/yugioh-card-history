@@ -1,0 +1,15 @@
+{
+  "id": 8314,
+  "type": "monster",
+  "name": "Schaurige Motte",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Jeder Spieler kann nur einmal pro Spielzug Monster als Spezialbeschwörung beschwören.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2300,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

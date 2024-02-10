@@ -1,0 +1,16 @@
+{
+  "id": 7668,
+  "type": "monster",
+  "name": "Königin der Dornen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Pflanze\nJeder Spieler muss für jedes Monster, das er als Normal- oder Spezialbeschwörung von seiner Hand beschwört, 1000 LP zahlen, außer für Monster vom Typ Pflanze.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Pflanze",
+    "Synchro",
+    "Effekt"
+  ]
+}

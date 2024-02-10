@@ -1,0 +1,15 @@
+{
+  "id": 5258,
+  "type": "monster",
+  "name": "Traumkobold",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte von einem Monster deines Gegners angegriffen wird, wähle 1 andere Monsterkarte auf deiner Spielfeldseite und bestimme diese als neues Ziel des Angriffs und führe anschließend die Schadensberechnung durch.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

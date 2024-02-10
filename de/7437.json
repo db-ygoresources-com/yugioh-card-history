@@ -1,0 +1,15 @@
+{
+  "id": 7437,
+  "type": "monster",
+  "name": "Meereskoala",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; ändere seine ATK bis zum Ende dieses Spielzugs zu 0. Du musst ein Monster vom Typ Ungeheuer (außer dieser Karte) kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 2,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

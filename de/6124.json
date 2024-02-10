@@ -1,0 +1,16 @@
+{
+  "id": 6124,
+  "type": "monster",
+  "name": "Hade-Hane",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst bis zu 3 Monster auf dem Spielfeld auf die Hand ihrer Besitzer zurückgeben.",
+  "level": 5,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8465,
+  "type": "monster",
+  "name": "Kreuzritter von Endymion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Einmal pro Spielzug: Du kannst 1 offene Karte auf dem Spielfeld wählen, auf die du eine Zauberzählmarke legen kannst; lege 1 Zauberzählmarke darauf und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs 600 ATK.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Zwilling",
+    "Effekt"
+  ]
+}

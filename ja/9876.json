@@ -1,0 +1,16 @@
+{
+  "id": 9876,
+  "type": "monster",
+  "name": "ダークロン",
+  "nameRuby": "ダークロン",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "このカードが召喚に成功した時に発動できる。自分フィールド上に表側表示で存在するモンスターはエンドフェイズ時までレベルが１つ上がり闇属性になる。",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "悪魔族",
+    "効果"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5380,
+  "type": "monster",
+  "name": "Hino-Kagu-Tsuchi",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte kehrt in der End Phase des Spielzugs, in dem sie als Normalbeschwörung beschworen oder aufgedeckt wurde, auf die Hand ihres Besitzers zurück. Falls diese Karte deinem Gegner Kampfschaden zufügt, wirft er während seiner nächsten Draw Phase alle Karten von seiner Hand ab, bevor er zieht.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2900,
+  "properties": [
+    "Pyro",
+    "Spirit",
+    "Effekt"
+  ]
+}

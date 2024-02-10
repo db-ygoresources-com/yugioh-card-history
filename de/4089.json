@@ -1,0 +1,16 @@
+{
+  "id": 4089,
+  "type": "monster",
+  "name": "Schloss d. dunklen Illusionen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Erhöht die ATK und DEF aller offenen Monster vom Typ Zombie um 200 Punkte. Solange diese Karte offen auf dem Spielfeld liegt, erhöht sich in jeder Standby Phase des Spielers, der diese Karte kontrolliert, die ATK und DEF aller Monster vom Typ Zombie um je 200 Punkte. Dieser Effekt hält bis zum vierten Zug nach Aktivierung der Karte an.",
+  "level": 4,
+  "atk": 920,
+  "def": 1930,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

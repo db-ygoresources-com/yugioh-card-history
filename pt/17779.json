@@ -1,0 +1,18 @@
+{
+  "id": 17779,
+  "type": "monster",
+  "name": "Pégaso Majestade, o Dracossassino",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Majespectro\".)\n(Efeito Rápido): você pode descartar este card; pelo resto deste turno, seu oponente não pode escolher monstros \"Dracossassino\" que você controla como alvo de efeitos de card e, além disso, eles não podem ser destruídos pelos efeitos de card do seu oponente. Se este card for Invocado por Invocação-Especial pelo efeito de um card \"Dracossassino\", ou Invocado por Invocação-Pêndulo: você pode adicionar 1 Magia de Campo do seu Deck à sua mão e, depois, descarte 1 card. Você só pode usar este efeito de \"Pégaso Majestade, o Dracossassino\" uma vez por turno.",
+  "pendEffect": "Se você tiver um card \"Dracossassino\" ou \"Majespectro\" na sua outra Zona de Pêndulo: você pode adicionar do seu Deck à sua mão 1 Monstro Pêndulo \"Dracossassino\" com um nome original diferente que o desse card e, depois, você pode destruir 1 card na sua Zona de Pêndulo. Você só pode usar este efeito de \"Pégaso Majestade, o Dracossassino\" uma vez por turno.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

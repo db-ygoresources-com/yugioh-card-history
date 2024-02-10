@@ -1,0 +1,16 @@
+{
+  "id": 15099,
+  "type": "monster",
+  "name": "Steinbefreier Prüfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls nur dein Gegner ein Monster kontrolliert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während deiner Main Phase: Du kannst die obersten 5 Karten deines Decks ausgraben und falls du dies tust, kannst du 1 ausgegrabenes Fels-Nicht-Empfänger-Monster der Stufe 4 oder niedriger als Spezialbeschwörung beschwören, zusätzlich lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck. Du kannst jeden Effekt von „Steinbefreier Prüfer“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 700,
+  "properties": [
+    "Fels",
+    "Empfänger",
+    "Effekt"
+  ]
+}

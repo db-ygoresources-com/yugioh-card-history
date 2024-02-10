@@ -1,0 +1,15 @@
+{
+  "id": 18809,
+  "type": "monster",
+  "name": "Rettungs-ASS Verhinderer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst 1 „Rettungs-ASS“-Karte von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls du ein anderes „Rettungs-ASS“-Monster kontrollierst (Schnelleffekt): Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert; ändere es in die verdeckte Verteidigungsposition. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 deiner verbannten „Rettungs-ASS“-Monster wählen, außer einem Monster der Stufe 8; beschwöre es als Spezialbeschwörung. Du kannst jeden Effekt von „Rettungs-ASS Verhinderer“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

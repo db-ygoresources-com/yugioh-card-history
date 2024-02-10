@@ -1,0 +1,16 @@
+{
+  "id": 13539,
+  "type": "monster",
+  "name": "F.A. Werkstatt auf Rädern",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDiese Karte erhält ATK in Höhe ihrer Stufe x 300. Jedes Mal, wenn eine „F.A.“-Zauber-/Fallenkarte oder ein „F.A.“-Zauber-/Falleneffekt aktiviert wird: Du kannst die Stufe dieser Karte um 1 erhöhen. Diese Karte erhält die folgenden Effekte, abhängig von ihrer derzeitigen Stufe.\n●Stufe 11 oder höher: Kann weder durch Kampf noch durch Karteneffekte zerstört werden.\n●Stufe 13 oder höher: Einmal pro Spielzug: Du kannst 1 „F.A.“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "level": 9,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

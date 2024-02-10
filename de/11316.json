@@ -1,0 +1,15 @@
+{
+  "id": 11316,
+  "type": "monster",
+  "name": "Verhängnisstern-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Karte abwerfen und dann 1 Karte in der Pendelzone eines beliebigen Spielers wählen; zerstöre die Karte und falls du dies tust, ziehe 1 Karte.",
+  "level": 4,
+  "atk": 1800,
+  "def": 300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

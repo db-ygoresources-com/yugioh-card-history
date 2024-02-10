@@ -1,0 +1,15 @@
+{
+  "id": 8015,
+  "type": "monster",
+  "name": "Morphtronisches Brett",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "●Solange in Angriffsposition: „Morphtronisch“-Monster, die du kontrollierst, können deinen Gegner direkt angreifen.\n●Solange in Verteidigungsposition: Andere „Morphtronisch“-Monster, die du kontrollierst, können nicht durch Kampf zerstört werden.",
+  "level": 3,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8003,
+  "type": "monster",
+  "name": "Tentáculos Rosas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser Invocado por Invocação-Especial. No começo da sua Fase de Batalha, para cada monstro Planta que seu oponente controla atualmente, este card ganha 1 ataque adicional durante cada Fase de Batalha neste turno. Sempre que este card destruir um monstro Planta em batalha: cause 300 de dano ao seu oponente.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Planta",
+    "Efeito"
+  ]
+}

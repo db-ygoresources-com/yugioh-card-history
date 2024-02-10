@@ -1,0 +1,15 @@
+{
+  "id": 7788,
+  "type": "monster",
+  "name": "Täuschungsfrosch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Der Name dieser Karte wird zu „Des Frosch“, solange sie auf dem Spielfeld liegt. Monster, die dein Gegner kontrolliert, können keine Monster als Angriffziel wählen, außer diesem. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Frosch“-Monster von deinem Deck oder Friedhof hinzufügen, außer „Täuschungsfrosch“.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13131,
+  "type": "monster",
+  "name": "Buntäugiger Giftdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Hungergift“-Monster + 1 „Buntäugig“-Monster\nMuss als Fusionsbeschwörung beschworen werden und kann dann als Pendelbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; bis zur End Phase erhält diese Karte ATK in Höhe seiner ATK und falls sie dies tut, wird der Name dieser Karte derselbe wie der Grund-Name des Monsters und ersetze diesen Effekt durch die Grund-Effekte des Monsters. Falls diese Karte in der Monsterzone zerstört wird: Du kannst 1 Monster als Spezialbeschwörung von deiner Pendelzone beschwören und falls du dies tust, lege diese Karte in deine Pendelzone.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 Fusionsmonster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs für jedes Monster, das dein Gegner kontrolliert, 1000 ATK.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7670,
+  "type": "monster",
+  "name": "Verfluchte Feige",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Wähle 2 gesetzte Zauber-/Fallenkarten auf dem Spielfeld; solange diese Karte im Friedhof liegt, können die gesetzten Karten nicht aktiviert werden.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

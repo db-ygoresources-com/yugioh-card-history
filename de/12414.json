@@ -1,0 +1,15 @@
+{
+  "id": 12414,
+  "type": "monster",
+  "name": "Rote Wache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Karte oder einen Effekt aktiviert, solange du ein „Rotdrachen-Erzunterweltler“-Monster kontrollierst: Du kannst diese Karte von deiner Hand auf den Friedhof legen; in diesem Spielzug können Monster, die du kontrollierst, nicht durch Karteneffekte deines Gegners zerstört werden.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

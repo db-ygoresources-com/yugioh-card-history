@@ -1,0 +1,16 @@
+{
+  "id": 10940,
+  "type": "monster",
+  "name": "Bujintei Tsukuyomi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 LICHT Monster der Stufe 4\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; lege deine gesamte Hand (min. 1 Karte) auf den Friedhof und falls du dies tust, ziehe 2 Karten. Wenn diese Karte, die du kontrolliert hast, solange sie offen lag, das Spielfeld durch einen Karteneffekt deines Gegners verlässt: Du kannst eine Anzahl „Bujin“-Ungeheuer-Krieger-Monster der Stufe 4 bis zur Anzahl des Xyz-Materials, das diese Karte auf dem Spielfeld hatte, in deinem Friedhof wählen; beschwöre die gewählten Ziele als Spezialbeschwörung. Du kannst nur 1 „Bujintei Tsukuyomi“ kontrollieren.",
+  "rank": 4,
+  "atk": 1800,
+  "def": 2300,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

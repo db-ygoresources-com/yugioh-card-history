@@ -1,0 +1,16 @@
+{
+  "id": 11708,
+  "type": "monster",
+  "name": "Geisteroger und Schneehase",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn der Effekt eines Monsters auf dem Spielfeld aktiviert wird oder wenn der Effekt eines/r Zaubers/Falle aktiviert wird, der oder die bereits offen auf dem Spielfeld liegt (Schnelleffekt): Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; zerstöre jene Karte auf dem Spielfeld. Du kannst diesen Effekt von „Geisteroger und Schneehase“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

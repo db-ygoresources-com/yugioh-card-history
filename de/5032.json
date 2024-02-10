@@ -1,0 +1,15 @@
+{
+  "id": 5032,
+  "type": "monster",
+  "name": "Waldgeist",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Lege 1 Ausrüstungskarte, mit der dieses Monster ausgerüstet ist, auf den Friedhof, um den Life Points deines Gegners 500 Punkte Schaden zuzufügen.",
+  "level": 3,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

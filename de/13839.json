@@ -1,0 +1,18 @@
+{
+  "id": 13839,
+  "type": "monster",
+  "name": "Buntäugiger Phantasma-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du 2 Karten in deinen Pendelzonen und ein offenes „Buntäugig“-Pendelmonster in deinem Extra Deck hast: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Pendelbeschwörungen durchführen. Während der Schadensberechnung, falls diese Karte ein Monster eines Gegners angreift: Du kannst jenes Monster des Gegners nur während der Schadensberechnung für jedes offene Pendelmonster in deinem Extra Deck 1000 ATK verlieren lassen. Du kannst jeden Effekt von „Buntäugiger Phantasma-Drache“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 Karte abwerfen; füge deiner Hand 1 offenes Drache-Pendelmonster von deinem Extra Deck hinzu. Du kannst diesen Effekt von „Buntäugiger Phantasma-Drache“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12624,
+  "type": "monster",
+  "name": "Schmuckkästchen der Pandora",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange du keine Karten in deinem Extra Deck hast, ziehe 2 Karten anstatt 1 für dein normales Ziehen während deiner Draw Phase.",
+  "pendEffect": "Solange du keine Karten in deinem Extra Deck hast: Du kannst 1 Karte in der Pendelzone deines Gegners wählen; zerstöre sie und falls du dies tust, lege diese Karte in die Pendelzone deines Gegners.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Pendel",
+    "Effekt"
+  ]
+}

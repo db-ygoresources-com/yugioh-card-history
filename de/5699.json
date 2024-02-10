@@ -1,0 +1,15 @@
+{
+  "id": 5699,
+  "type": "monster",
+  "name": "Trugbild-Ritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch „Dunkelglanz-Ritter“ als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Diese Karte erhält nur während der Schadensberechnung ATK in Höhe der Grund-ATK des Monsters deines Gegners, gegen das sie kämpft. Während der End Phase eines Spielzugs, in dem diese Karte angegriffen hat oder angegriffen wurde: Verbanne diese Karte.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

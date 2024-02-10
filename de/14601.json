@@ -1,0 +1,16 @@
+{
+  "id": 14601,
+  "type": "monster",
+  "name": "Raubpflanze Triphyoverutum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 FINSTERNIS Monster auf dem Spielfeld\nErhält ATK in Höhe der Summe der Grund-ATK aller anderen Monster mit einer Raubtier-Zählmarke auf dem Spielfeld. Du kannst jeden der folgenden Effekte von „Raubpflanze Triphyoverutum“ nur einmal pro Spielzug verwenden.\n●Wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung von seinem Extra Deck beschwört, solange du diese als Fusionsbeschwörung beschworene Karte kontrollierst (Schnelleffekt): Du kannst die Beschwörung annullieren und falls du dies tust, zerstöre jene Monster.\n●Falls dein Gegner ein Monster mit einer oder mehr Raubtier-Zählmarken kontrolliert: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof in die Verteidigungsposition beschwören.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Pflanze",
+    "Fusion",
+    "Effekt"
+  ]
+}

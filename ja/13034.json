@@ -1,0 +1,19 @@
+{
+  "id": 13034,
+  "type": "monster",
+  "name": "リンク・スパイダー",
+  "nameRuby": "リンク・スパイダー",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "通常モンスター１体\n①：１ターンに１度、自分メインフェイズに発動できる。手札からレベル４以下の通常モンスター１体をこのカードのリンク先となる自分フィールドに特殊召喚する。",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "サイバース族",
+    "リンク",
+    "効果"
+  ]
+}

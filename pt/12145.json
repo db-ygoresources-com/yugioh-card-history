@@ -1,0 +1,16 @@
+{
+  "id": 12145,
+  "type": "monster",
+  "name": "Al-Lumi'raj",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Todos os monstros no campo perdem ATK e DEF igual ao seu próprio Nível/Classe x 300.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Wyrm",
+    "Regulador",
+    "Efeito"
+  ]
+}

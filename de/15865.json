@@ -1,0 +1,18 @@
+{
+  "id": 15865,
+  "type": "monster",
+  "name": "Sonnenranken-Wache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Normales Pflanze-Monster\nFalls ein „Sonnenavalon“-Linkmonster, das du kontrollierst, das Spielfeld durch einen Karteneffekt verlässt: Zerstöre diese Karte. Wenn ein Angriff deklariert wird, an dem diese Karte, die mit einem „Sonnenavalon“-Linkmonster verlinkt ist, und ein Monster eines Gegners beteiligt sind: Du kannst diesen Effekt aktivieren; der Schaden, den du aus dem Kampf erhältst, wird halbiert. Wenn diese Karte durch Kampf zerstört wird: Beende die Battle Phase nach dem Damage Step.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Pflanze",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14068,
+  "type": "monster",
+  "name": "Gefahr! Hundemann!",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte in deiner Hand vorzeigen; dein Gegner bestimmt zufällig 1 Karte von deiner gesamten Hand, dann wirfst du die bestimmte Karte ab. Dann, falls die abgeworfene Karte nicht „Gefahr! Hundemann!“ war, beschwöre 1 „Gefahr! Hundemann!“ als Spezialbeschwörung von deiner Hand und falls du dies tust, ziehe 1 Karte. Falls diese Karte abgeworfen wird: Du kannst alle offenen Monster, die dein Gegner derzeit kontrolliert, bis zum Ende dieses Spielzugs 1000 ATK verlieren lassen. Du kannst diesen Effekt von „Gefahr! Hundemann!“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

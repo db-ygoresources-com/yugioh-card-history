@@ -1,0 +1,19 @@
+{
+  "id": 14199,
+  "type": "monster",
+  "name": "Schrott-Lindwurm",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster, darunter ein „Schrott“-Monster\nDu kannst 1 „Schrott“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, dann zerstöre 1 Karte, die du kontrollierst. Falls ein anderes offenes „Schrott“-Monster durch einen Karteneffekt zerstört wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst 1 „Schrott“-Monster als Spezialbeschwörung von deinem Deck beschwören, dann zerstöre 1 Karte auf dem Spielfeld. Du kannst jeden Effekt von „Schrott-Lindwurm“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1700,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

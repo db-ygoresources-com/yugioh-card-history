@@ -1,0 +1,15 @@
+{
+  "id": 5419,
+  "type": "monster",
+  "name": "Heuschreckenschwarm",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Falls diese Karte als Flippbeschwörung beschworen wird: Wähle 1 Zauber/Falle, den oder die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 3,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

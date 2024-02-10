@@ -1,0 +1,18 @@
+{
+  "id": 17349,
+  "type": "monster",
+  "name": "Nazuki der Vaylantz-Ninja",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 anderes Monster in einer beliebigen Main-Monsterzone wählen; bewege jenes Monster in eine (waagerecht) benachbarte Monsterzone. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Du kannst 1 „Vaylantz“-Monsterkarte in deiner Zauber- & Fallenzone wählen; beschwöre sie als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte. Du kannst jeden Effekt von „Nazuki der Vaylantz-Ninja“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls „Vaylantz-Welt - Shinra Bansho“ in einer Spielfeldzone liegt oder falls du ein WASSER „Vaylantz“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören. Du kannst diesen Effekt von „Nazuki der Vaylantz-Ninja“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

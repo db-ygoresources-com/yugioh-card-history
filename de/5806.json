@@ -1,0 +1,15 @@
+{
+  "id": 5806,
+  "type": "monster",
+  "name": "Riesen-Rex",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht direkt angreifen. Falls diese Karte verbannt wird: Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, erhält diese Karte für jedes deiner verbannten Dinosaurier-Monster 200 ATK. Du kannst diesen Effekt von „Riesen-Rex“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

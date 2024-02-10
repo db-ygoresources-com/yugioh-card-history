@@ -1,0 +1,16 @@
+{
+  "id": 8098,
+  "type": "monster",
+  "name": "Jurassier-Monoloph",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte kann alle Monster, die dein Gegner kontrolliert, einmal angreifen.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Dinosaurier",
+    "Empfänger",
+    "Effekt"
+  ]
+}

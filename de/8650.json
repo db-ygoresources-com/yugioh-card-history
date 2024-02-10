@@ -1,0 +1,16 @@
+{
+  "id": 8650,
+  "type": "monster",
+  "name": "Garlandolf, König der Zerstörung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nur mit der Ritualzauberkarte „Ritual der Zerstörung“ als Ritualbeschwörung beschworen werden. Wenn diese Karte als Ritualbeschwörung beschworen wird, zerstöre alle anderen offenen Monster auf dem Spielfeld mit DEF kleiner oder gleich den ATK dieser Karte. Diese Karte erhält 100 ATK für jedes Monster, das durch diesen Effekt zerstört wird.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1400,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Effekt"
+  ]
+}

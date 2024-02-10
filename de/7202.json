@@ -1,0 +1,16 @@
+{
+  "id": 7202,
+  "type": "monster",
+  "name": "Verdammungsschamane",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Einmal pro Spielzug: Du kannst 1 Monster vom Typ Unterweltler als Spezialbeschwörung von deiner Hand oder dem Friedhof eines beliebigen Spielers beschwören. Wenn diese Karte das Spielfeld verlässt, zerstöre alle Monster vom Typ Unterweltler, die durch diesen Effekt als Spezialbeschwörung beschworen wurden.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Zwilling",
+    "Effekt"
+  ]
+}

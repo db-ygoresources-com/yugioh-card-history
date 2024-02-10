@@ -1,0 +1,16 @@
+{
+  "id": 5138,
+  "type": "monster",
+  "name": "Bombardierkäfer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Nimm 1 Monsterkarte, die verdeckt in Verteidigungsposition auf der Spielfeldseite deines Gegners liegt, auf und schau sie dir an. Wenn es eine Effektmonsterkarte ist, zerstöre sie (ihr Flippeffekt wird nicht aktiviert). Wenn es keine Effektmonsterkarte ist, lege sie in ihre ursprüngliche Position zurück.",
+  "level": 2,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

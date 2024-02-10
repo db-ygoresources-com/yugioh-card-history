@@ -1,0 +1,15 @@
+{
+  "id": 10245,
+  "type": "monster",
+  "name": "Die Gerechtigkeit der Prophezeiung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während deiner End Phase, falls du in diesem Spielzug bereits eine „Magiebuch“-Zauberkarte aktiviert hast: Du kannst diese Karte vom Spielfeld verbannen; füge deiner Hand 1 LICHT oder FINSTERNIS Monster vom Typ Hexer der Stufe 5 oder höher und 1 „Magiebuch“-Zauberkarte von deinem Deck hinzu. Du kannst den Effekt von „Die Gerechtigkeit der Prophezeiung“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8453,
+  "type": "monster",
+  "name": "Spyder-Spinne",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte ein Monster deines Gegners in Verteidigungsposition durch Kampf zerstört, kannst du 1 Monster der Stufe 4 oder niedriger vom Typ Insekt von deinem Friedhof wählen und als Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

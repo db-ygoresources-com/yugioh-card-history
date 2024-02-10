@@ -1,0 +1,19 @@
+{
+  "id": 13699,
+  "type": "monster",
+  "name": "Pentest-Käfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Effektmonster\nFalls dein gelinktes Monster ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

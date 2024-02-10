@@ -1,0 +1,16 @@
+{
+  "id": 8034,
+  "type": "monster",
+  "name": "Außerirdischer Ammonit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Außerirdisch“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber zerstöre es während der End Phase.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Reptil",
+    "Empfänger",
+    "Effekt"
+  ]
+}

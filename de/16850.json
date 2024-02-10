@@ -1,0 +1,16 @@
+{
+  "id": 16850,
+  "type": "monster",
+  "name": "Der Zombievampir",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Monster der Stufe 8\nFalls du ein oder mehr Monster mit einer Stufe, die dein Gegner besitzt, für die Xyz-Beschwörung dieser Karte verwendest, behandle sie als Stufe 8. Kein Spieler kann diese Karte als Ziel für Effekte von als Spezialbeschwörung beschworenen Monstern wählen, außer von jenen Monstern, die als Spezialbeschwörung vom Friedhof beschworen wurden. Du kannst 1 Material von dieser Karte abhängen; jeder Spieler legt die obersten 4 Karten seines Decks auf den Friedhof, dann, falls durch diesen Effekt Monster auf einen beliebigen Friedhof gelegt wurden, kannst du 1 jener Monster als Spezialbeschwörung auf deine Spielfeldseite beschwören. Du kannst diesen Effekt von „Der Zombievampir“ nur einmal pro Spielzug verwenden.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Effekt"
+  ]
+}

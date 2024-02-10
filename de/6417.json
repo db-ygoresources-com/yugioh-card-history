@@ -1,0 +1,15 @@
+{
+  "id": 6417,
+  "type": "monster",
+  "name": "Cyber Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Zu Beginn deiner Draw Phase, falls du keine Karten in deiner Hand hast, ziehe 1 Karte zusätzlich zu deinem normalen Ziehen. Während deiner End Phase, falls du 1 oder mehrere Karten in deiner Hand hast, zerstöre diese Karte.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

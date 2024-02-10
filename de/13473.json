@@ -1,0 +1,15 @@
+{
+  "id": 13473,
+  "type": "monster",
+  "name": "Desperado-Pistolendrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein oder mehr offene FINSTERNIS Maschine-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Einmal pro Spielzug, während der Battle Phase (Schnelleffekt): Du kannst 3 Mal eine Münze werfen; zerstöre offene Monster auf dem Spielfeld bis zur Anzahl von Kopf, dann, falls das Ergebnis 3 Mal Kopf war, ziehe 1 Karte. Diese Karte kann nicht in dem Spielzug angreifen, in dem dieser Effekt aktiviert wird. Falls diese Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Monster der Stufe 7 oder niedriger, das einen Münzwurfeffekt hat, von deinem Deck hinzufügen.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

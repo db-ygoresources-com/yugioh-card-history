@@ -1,0 +1,16 @@
+{
+  "id": 16510,
+  "type": "monster",
+  "name": "Pinguinknappe",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines WASSER Monsters. Falls ein Monster auf deine Spielfeldseite gesetzt wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du ihre Stufe um 1 oder 2 verringern. Du kannst 1 Monster in verdeckter Verteidigungsposition wählen, das du kontrollierst; ändere es in die offene Verteidigungsposition und falls du dies tust, werden seine Effekte annulliert, es sei denn, es ist ein „Pinguin“-Monster. Du kannst jeden Effekt von „Pinguinknappe“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

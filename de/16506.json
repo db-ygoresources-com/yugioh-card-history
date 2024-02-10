@@ -1,0 +1,16 @@
+{
+  "id": 16506,
+  "type": "monster",
+  "name": "Reptilianische Coatl",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du ein FINSTERNIS Reptil-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls dein Gegner eine Anzahl Monster mit 0 ATK kontrolliert, kannst du bis zu dieselbe Anzahl „Reptilianisch“-Monster als Spezialbeschwörung von deiner Hand beschwören. Du kannst diesen Effekt von „Reptilianische Coatl“ nur einmal pro Spielzug verwenden. Falls diese Karte, die du kontrollierst, als Synchromaterial für ein Reptil-Monster verwendet würde, kannst du sie als Nicht-Empfänger behandeln.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Empfänger",
+    "Effekt"
+  ]
+}

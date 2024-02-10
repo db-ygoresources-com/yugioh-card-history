@@ -1,0 +1,16 @@
+{
+  "id": 7700,
+  "type": "monster",
+  "name": "Nitrosynchron",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte für die Synchrobeschwörung eines „Nitro“-Synchromonsters auf den Friedhof gelegt wird: Ziehe 1 Karte.",
+  "level": 2,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

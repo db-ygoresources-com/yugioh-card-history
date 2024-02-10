@@ -1,0 +1,16 @@
+{
+  "id": 11489,
+  "type": "monster",
+  "name": "Nekroz vom Entscheidungspanzer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte mit einer beliebigen „Nekroz“-Ritualzauberkarte als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden, ohne Monster der Stufe 10 zu verwenden, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Du kannst jeden dieser Effekte von „Nekroz vom Entscheidungspanzer“ nur einmal pro Spielzug verwenden.\n●Während des Spielzugs eines beliebigen Spielers: Du kannst diese Karte abwerfen und dann 1 „Nekroz“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 1000 ATK und DEF.\n●Du kannst 1 gesetzte Karte wählen, die dein Gegner kontrolliert; zerstöre sie und falls du dies tust, verbanne sie.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2300,
+  "properties": [
+    "Drache",
+    "Ritual",
+    "Effekt"
+  ]
+}

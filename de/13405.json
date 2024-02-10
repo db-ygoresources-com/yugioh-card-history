@@ -1,0 +1,15 @@
+{
+  "id": 13405,
+  "type": "monster",
+  "name": "Inspektor Boarder",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normal- oder Spezialbeschwörung beschworen werden, falls du ein Monster kontrollierst. Kein Spieler kann Monstereffekte aktivieren, es sei denn, die Anzahl der Monstereffekte, die jener Spieler in jenem Spielzug bereits aktiviert hat, ist kleiner als die Anzahl der Monsterkartentypen, die derzeit auf dem Spielfeld liegen (Ritual-, Fusion-, Synchro-, Xyz-, Pendel- und Linkmonster). (Falls die Aktivierung eines Effekts annulliert wurde, zählt er trotzdem für die Anzahl für jenen Spielzug. Zähle nur Effekte, die aktiviert wurden, solange dieses Monster offen auf dem Spielfeld lag.)",
+  "level": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

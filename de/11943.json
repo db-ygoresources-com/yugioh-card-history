@@ -1,0 +1,15 @@
+{
+  "id": 11943,
+  "type": "monster",
+  "name": "Dystopia der Mutlose",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 4 offene Monster der Stufe 1, die du kontrollierst, auf den Friedhof legst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Andere Monster, die du kontrollierst, können nicht angreifen. Während des Battle Steps eines beliebigen Spielers, einmal pro Kampf, an dem diese Karte beteiligt ist: Du kannst 1 Monster der Stufe 1 von deinem Friedhof verbannen; bis zum Ende des Damage Steps bleibt diese Karte von den Effekten anderer Karten unberührt, zusätzlich kann sie nicht durch Kampf zerstört werden.",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

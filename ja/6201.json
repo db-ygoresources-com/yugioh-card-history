@@ -1,0 +1,17 @@
+{
+  "id": 6201,
+  "type": "monster",
+  "name": "魔装機関車 デコイチ",
+  "nameRuby": "まそうきかんしゃ　デコイチ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "リバース：カードを１枚ドローする。自分フィールド上に「魔貨物車両 ボコイチ」が表側表示で存在する場合、さらにその枚数分カードをドローする。",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "機械族",
+    "リバース",
+    "効果"
+  ]
+}

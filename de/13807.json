@@ -1,0 +1,15 @@
+{
+  "id": 13807,
+  "type": "monster",
+  "name": "Hexe Trude",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls „Goldenes Schloss von Stromberg“ in einer Spielfeldzone liegt, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Einmal pro Spielzug, falls „Goldenes Schloss von Stromberg“ in einer Spielfeldzone liegt: Du kannst 1 Karte auf dem Spielfeld wählen, außer dieser; zerstöre sie und falls du dies tust, kann diese Karte in diesem Spielzug während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen. Wenn diese Karte ein Monster durch Kampf zerstört: Du kannst 1 offenes Monster wählen, das du kontrollierst; es erhält 400 ATK.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

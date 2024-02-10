@@ -1,0 +1,17 @@
+{
+  "id": 16466,
+  "type": "monster",
+  "name": "Repetiteur do Mar Profundo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "\"Diva do Mar Profundo\" + 1+ monstros não-Reguladores\nUma vez por turno (Efeito Rápido): você pode descartar 1 monstro de ÁGUA de Nível 4 ou menos; este card ganha 800 de ATK até o final deste turno. Se este card Invocado por Invocação-Sincro for enviado para o seu Cemitério: você pode escolher 1 monstro de ÁGUA de Nível 5 ou mais no seu Cemitério, exceto \"Repetiteur do Mar Profundo\"; Invoque-o por Invocação-Especial em Posição de Defesa e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros de ÁGUA. Você só pode usar este efeito de \"Repetiteur do Mar Profundo\" uma vez por turno.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Serpente Marinha",
+    "Sincro",
+    "Regulador",
+    "Efeito"
+  ]
+}

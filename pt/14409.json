@@ -1,0 +1,15 @@
+{
+  "id": 14409,
+  "type": "monster",
+  "name": "Fazticeira Madame Verre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Durante o cálculo de dano, se um monstro Mago seu batalhar um monstro do oponente (Efeito Rápido): você pode revelar qualquer número de Magias com nomes diferentes na sua mão e, se isso acontecer, até o final deste turno, seu monstro que está batalhando ganha 1000 de ATK/DEF para cada card revelado. (Efeito Rápido): você pode descartar 1 Magia; até o final deste turno, negue os efeitos de todos os monstros com a face para cima que seu oponente controla atualmente. Você só pode usar cada efeito de \"Fazticeira Madame Verre\" uma vez por turno.",
+  "level": 8,
+  "atk": 1000,
+  "def": 2800,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

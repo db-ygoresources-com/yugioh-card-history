@@ -1,0 +1,15 @@
+{
+  "id": 8029,
+  "type": "monster",
+  "name": "Wüstenbeschützer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte erhält 300 DEF für jede Zauber- und Fallenkarte auf dem Spielfeld. Falls ein Monster vom Typ Insekt, das du kontrollierst, zerstört werden würde, kannst du stattdessen diese Karte zerstören.",
+  "level": 4,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

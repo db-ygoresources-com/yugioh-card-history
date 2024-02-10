@@ -1,0 +1,18 @@
+{
+  "id": 12277,
+  "type": "monster",
+  "name": "Vagaluxe Camarartista",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se um monstro \"Camarartista\" ou \"Olhos Anômalos\" que você controla atacar, seu oponente não pode ativar nenhum Card de Magia/Armadilha até o final da Etapa de Dano.",
+  "pendEffect": "Uma vez por turno, quando um monstro do oponente declarar um ataque: você pode oferecer como Tributo 1 monstro \"Camarartista\"; negue o ataque e, depois, encerre a Fase de Batalha.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Inseto",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

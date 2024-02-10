@@ -1,0 +1,15 @@
+{
+  "id": 13217,
+  "type": "monster",
+  "name": "Compilador Defeituoso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno, se você sofreria dano de um efeito de card do oponente, em vez disso, coloque 1 Marcador de Defeito neste card (máx. 1). Uma vez por turno (Efeito Rápido): você pode remover 1 Marcador de Defeito deste card e, depois, escolher 1 monstro Ciberso que você controla; ele ganha 800 de ATK até o final deste turno.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Ciberso",
+    "Efeito"
+  ]
+}

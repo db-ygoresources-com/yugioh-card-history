@@ -1,0 +1,15 @@
+{
+  "id": 6410,
+  "type": "monster",
+  "name": "Van'Dalgyon der finstere Drachenherrscher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Nachdem eine Konterfallenkarte, die du kontrollierst, die Aktivierung von Karten oder Effekten deines Gegners annulliert hat, kannst du diese Karte als Spezialbeschwörung von deiner Hand beschwören. Aktiviere dann die entsprechenden Effekte, basierend auf den Typen der annullierten Karten:\n●Zauber: Füge deinem Gegner 1500 Schaden zu.\n●Falle: Wähle 1 Karte, die dein Gegner kontrolliert, und zerstöre sie.\n●Effektmonster: Wähle 1 Monster in deinem Friedhof und beschwöre es als Spezialbeschwörung.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13516,
+  "type": "monster",
+  "name": "Dragão Dínamo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros \"Foguette\"\nUma vez por turno: você pode escolher 1 outro monstro com a face para cima no campo; ele ganha 500 de ATK/DEF. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste efeito. Se este card Invocado por Invocação-Link for destruído em batalha ou por um efeito de card e enviado para o Cemitério: você pode escolher 1 outro monstro Dragão no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar este efeito de \"Dragão Dínamo\" uma vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Dragão",
+    "Link",
+    "Efeito"
+  ]
+}

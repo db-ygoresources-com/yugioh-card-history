@@ -1,0 +1,15 @@
+{
+  "id": 6660,
+  "type": "monster",
+  "name": "Schicksals-HELD - Diamond Dude",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Normaler Zauber ist, lege sie auf den Friedhof, andernfalls lege sie unter dein Deck. Während der Main Phase deines nächsten Spielzugs kannst du den Effekt jenes Zaubers in deinem Friedhof aktivieren (selbst falls du diese offene Karte nicht mehr kontrollierst).",
+  "level": 4,
+  "atk": 1400,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

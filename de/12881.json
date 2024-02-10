@@ -1,0 +1,18 @@
+{
+  "id": 12881,
+  "type": "monster",
+  "name": "Künstlerkumpel Ballade",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls dein „Künstlerkumpel“-Monster angegriffen hat, nach der Schadensberechnung: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; das gewählte Ziel verliert ATK in Höhe der ATK des „Künstlerkumpel“-Monsters.",
+  "pendEffect": "Einmal pro Spielzug, am Beginn des Damage Steps, wenn dein „Künstlerkumpel“-Monster gegen ein offenes Monster deines Gegners kämpft: Du kannst das Monster deines Gegners 600 ATK verlieren lassen (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Pflanze",
+    "Pendel",
+    "Effekt"
+  ]
+}

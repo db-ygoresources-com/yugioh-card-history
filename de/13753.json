@@ -1,0 +1,19 @@
+{
+  "id": 13753,
+  "type": "monster",
+  "name": "Wiederherstellungspunkt-Wache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Cyberse-Monster\nEinmal pro Spielzug, falls ein anderes Linkmonster als Linkbeschwörung beschworen wird: Diese Karte kann für den Rest dieses Spielzugs weder durch Kampf noch durch Karteneffekte zerstört werden. Falls ein Linkmonster, das mit dieser Karte als Material als Linkbeschwörung beschworen wurde, durch einen Karteneffekt eines Gegners zerstört wird, solange diese Karte im Friedhof liegt (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Wiederherstellungspunkt-Wache“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

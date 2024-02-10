@@ -1,0 +1,16 @@
+{
+  "id": 17247,
+  "type": "monster",
+  "name": "Wecke deinen Elementar-HELDEN",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Elementar-HELD“-Fusionsmonster + 1+ Krieger-Monster\nMuss als Fusionsbeschwörung beschworen werden. Erhält für jedes Material, das für die Beschwörung dieser Karte verwendet wurde, 300 ATK. Diese Karte kann in jeder Battle Phase eine Anzahl Angriffe auf Monster bis zur Anzahl der Fusionsmonster durchführen, die als Material für ihre Beschwörung verwendet wurden. Nach der Schadensberechnung, falls diese Karte gegen ein Monster gekämpft hat: Zerstöre jenes Monster und falls du dies tust, füge deinem Gegner Schaden in Höhe seiner Grund-ATK zu. Falls diese als Fusionsbeschwörung beschworene Karte zerstört wird: Beschwöre 1 Krieger-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

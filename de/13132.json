@@ -1,0 +1,19 @@
+{
+  "id": 13132,
+  "type": "monster",
+  "name": "D/D/D-Super-Untergangskönig Heller Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „D/D“-Empfänger + 1+ „D/D/D“-Nicht-Empfänger-Monster\nDein Gegner kann Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen. Falls ein anderes Monster als Normal- oder Spezialbeschwörung beschworen wird, solange sich dieses Monster auf dem Spielfeld befindet (außer während des Damage Steps): Du kannst deinen Gegner 1 Pendelmonster bestimmen lassen, das er kontrolliert, und die Effekte aller anderen Monster, die er derzeit kontrolliert, bleiben annulliert. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Monster deines Gegners einen Angriff deklariert: Du kannst 1 „D/D/D“-Synchromonster wählen, das du kontrollierst; zerstöre so viele Monster, die dein Gegner kontrolliert und deren DEF kleiner oder gleich den ATK des gewählten Monsters sind, wie möglich und falls du dies tust, füge deinem Gegner für jedes zerstörte Monster 1000 Schaden zu.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

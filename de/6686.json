@@ -1,0 +1,15 @@
+{
+  "id": 6686,
+  "type": "monster",
+  "name": "Babyspieldrache der Harpyien",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Erhält Effekte basierend auf der Anzahl der „Harpyie“-Monster, die du kontrollierst, außer „Babyspieldrache der Harpyien“.\n●1+: Dein Gegner kann „Harpyie“-Monster, die du kontrollierst, nicht als Ziel für Angriffe wählen, außer „Babyspieldrache der Harpyien“.\n●2+: Verdopple die Grund-ATK/DEF dieser Karte.\n●3+: Einmal pro Spielzug: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 4,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

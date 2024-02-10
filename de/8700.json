@@ -1,0 +1,15 @@
+{
+  "id": 8700,
+  "type": "monster",
+  "name": "Transformationssphäre",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster in offener Verteidigungsposition wählen, das dein Gegner kontrolliert; wirf 1 Karte ab und rüste diese Karte mit dem gewählten Ziel aus. (Diese Karte kann durch diesen Effekt zu jeder Zeit nur mit 1 Monster ausgerüstet sein.) Diese Karte erhält die ATK des ausgerüsteten Monsters. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert. Während der End Phase: Das Monster, das diese Karte durch ihren Effekt ausrüstet, wird als Spezialbeschwörung auf die Spielfeldseite deines Gegners in die offene Verteidigungsposition beschworen.",
+  "level": 3,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10304,
+  "type": "monster",
+  "name": "Padonner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 LICHT Monster vom Typ Donner der Stufe 4 als zusätzliche Normalbeschwörung von deiner Hand beschwören, außer „Padonner“.",
+  "level": 4,
+  "atk": 1300,
+  "def": 600,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6287,
+  "type": "monster",
+  "name": "Fluch des Vampirs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 500 LP zahlen; beschwöre sie während der Standby Phase des nächsten Spielzugs als Spezialbeschwörung. Falls du dies tust: Sie erhält 500 ATK.",
+  "level": 6,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

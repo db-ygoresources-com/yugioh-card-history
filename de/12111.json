@@ -1,0 +1,18 @@
+{
+  "id": 12111,
+  "type": "monster",
+  "name": "Künstlerkumpel Affeyboard",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte abwerfen; zeige 1 „Künstlerkumpel“- oder „Buntäugig“-Monster in deiner Hand vor und falls du dies tust, verringere für den Rest dieses Spielzugs die Stufen der Monster mit dem Namen in deiner Hand um 1 (selbst nachdem sie beschworen/gesetzt wurden).",
+  "pendEffect": "Der Pendelbereich dieser Karte wird zu 4, es sei denn, du hast eine „Künstlerkumpel“-Karte in deiner anderen Pendelzone. Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst deiner Hand 1 „Künstlerkumpel“-Monster der Stufe 4 oder niedriger von deinem Deck hinzufügen. Du kannst diesen Effekt von „Künstlerkumpel Affeyboard“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 1000,
+  "def": 2400,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

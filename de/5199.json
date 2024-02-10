@@ -1,0 +1,16 @@
+{
+  "id": 5199,
+  "type": "monster",
+  "name": "Feuerzauberer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "FLIPP: Wähle zufällig 2 Karten aus deiner Hand und entferne sie aus dem Spiel, um den Life Points deines Gegners 800 Punkte Schaden zuzufügen.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

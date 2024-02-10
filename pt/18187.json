@@ -1,0 +1,16 @@
+{
+  "id": 18187,
+  "type": "monster",
+  "name": "Círculo das Fadas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nDurante sua Fase Principal, você pode Invocar por Invocação-Normal 1 monstro Inseto ou Planta em adição à sua Invocação-Normal/Baixar (padrão). (Você só pode se aproveitar deste efeito uma vez por turno.) Quando um monstro for destruído em batalha envolvendo um monstro Inseto ou Planta seu, e enviado para o Cemitério: você pode escolher 1 desses monstros destruídos; cause dano ao seu oponente igual à metade do ATK dele e, depois, ganhe PV igual ao dano causado ao seu oponente. Você só pode usar este efeito de \"Círculo das Fadas\" uma vez por turno.",
+  "level": 7,
+  "atk": 2200,
+  "def": 2500,
+  "properties": [
+    "Planta",
+    "Sincro",
+    "Efeito"
+  ]
+}

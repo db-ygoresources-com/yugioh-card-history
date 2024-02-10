@@ -1,0 +1,10 @@
+{
+  "id": 8227,
+  "type": "trap",
+  "name": "Angriff der in die Enge getriebenen Ratte",
+  "englishAttribute": "trap",
+  "localizedAttribute": "FALLE",
+  "effectText": "Falls ein Normales Monster der Stufe 3 oder niedriger kämpft, das du kontrollierst, kannst du während des Damage Steps Life Points in Vielfachen von 100 zahlen. Die ATK des Monsters deines Gegners werden bis zur End Phase um die Anzahl der Life Points reduziert, die du gezahlt hast. (Du kannst nicht mehr Life Points zahlen als die ATK des Monsters deines Gegners.)",
+  "englishProperty": "continuous",
+  "localizedProperty": "Permanent"
+}

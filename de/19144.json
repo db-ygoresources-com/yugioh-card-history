@@ -1,0 +1,19 @@
+{
+  "id": 19144,
+  "type": "monster",
+  "name": "Oberster König Drachenlichtgewürm",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 offenes „Oberster König Drache“- oder „Oberster König Tor“-Pendelmonster von deinem Extra Deck hinzufügen, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 „Oberster König Drache“-Monster als Synchro- oder Xyz-Beschwörung beschwören. Falls ein oder mehr offene Pendelmonster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden, solange sich diese Karte offen in deinem Extra Deck befindet: Du kannst diese Karte deiner Hand hinzufügen. Du kannst jeden Effekt von „Oberster König Drachenlichtgewürm“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls ein oder mehr Monster als Spezialbeschwörung beschworen werden und du „Oberster König Z-ARC“ und ein anderes Pendelmonster kontrollierst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, dann kannst du die Stufe und Eigenschaft entweder dieser Karte oder 1 Pendelmonsters, das du kontrollierst, dieselbe Stufe und Eigenschaft wie die des anderen werden lassen. Du kannst diesen Effekt von „Oberster König Drachenlichtgewürm“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

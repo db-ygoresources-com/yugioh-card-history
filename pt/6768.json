@@ -1,0 +1,15 @@
+{
+  "id": 6768,
+  "type": "monster",
+  "name": "Golfinho Aqua Neoespacial",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Uma vez por turno: você pode descartar 1 card; olhe a mão do seu oponente e selecione 1 monstro. Se você controlar um monstro com ATK igual ou maior que o ATK do card selecionado, destrua o card selecionado e, se isso acontecer, cause 500 de dano ao seu oponente. Caso contrário, sofra 500 de dano.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

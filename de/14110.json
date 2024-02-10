@@ -1,0 +1,16 @@
+{
+  "id": 14110,
+  "type": "monster",
+  "name": "Trickstar-Band Süße Gitarre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Trickstar“-Linkmonster + 1 „Trickstar“-Monster\nEffektschaden, der deinem Gegner durch deine „Trickstar“-Linkmonster zugefügt wird, die mit dieser Karte verlinkt sind, wird verdoppelt. Falls dein Gegner Schaden durch den Effekt eines „Trickstar“-Monsters erhält: Diese Karte erhält ATK in Höhe des Schadens, den er erhalten hat. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug angegriffen hat: Die ATK, die diese Karte durch diesen Effekt erhalten hat, werden auf 0 zurückgesetzt, dann kannst du deiner Hand 1 „Trickstar“-Monster von deinem Friedhof hinzufügen.",
+  "level": 7,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

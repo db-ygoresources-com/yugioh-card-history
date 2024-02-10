@@ -1,0 +1,15 @@
+{
+  "id": 14654,
+  "type": "monster",
+  "name": "Luna, der Finsternisgeist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 FINSTERNIS Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während deiner Standby Phase: Füge deinem Gegner 500 Schaden zu.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

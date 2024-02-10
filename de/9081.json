@@ -1,0 +1,15 @@
+{
+  "id": 9081,
+  "type": "monster",
+  "name": "Nadelsoldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Synchromaterialmonster für ein Synchromonster benutzt wird, füge während eines Kampfes zwischen dem Synchromonster und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK des Synchromonsters, deinem Gegner die Differenz als Kampfschaden zu.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

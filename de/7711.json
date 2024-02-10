@@ -1,0 +1,15 @@
+{
+  "id": 7711,
+  "type": "monster",
+  "name": "Handschellendrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte durch Kampf mit einem angreifenden Monster, das dein Gegner kontrolliert, zerstört und auf den Friedhof gelegt wird, kannst du das Monster mit dieser Karte ausrüsten. Das ausgerüstete Monster verliert 1800 ATK. Wenn es zerstört und diese Karte auf den Friedhof gelegt wird, kannst du diese Karte als Spezialbeschwörung beschwören.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

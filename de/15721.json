@@ -1,0 +1,15 @@
+{
+  "id": 15721,
+  "type": "monster",
+  "name": "Feenbogenschützin Ingunar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht in dem Spielzug angreifen, in dem sie als Spezialbeschwörung beschworen wurde. Falls diese Karte durch den Effekt eines Pflanze-Monsters als Spezialbeschwörung beschworen wird: Du kannst 1 Pflanze-Monster der Stufe 6 oder höher in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von Pflanze-Monstern. Du kannst diesen Effekt von „Feenbogenschützin Ingunar“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

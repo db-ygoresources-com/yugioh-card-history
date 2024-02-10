@@ -1,0 +1,16 @@
+{
+  "id": 4734,
+  "type": "monster",
+  "name": "Sereia Toon",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) enquanto você controlar \"Mundo Toon\". Não pode atacar no turno em que for Invocado por Invocação-Especial. Você deve pagar 500 PV para declarar um ataque com este monstro. Se \"Mundo Toon\" no campo for destruído, destrua este card. Pode atacar diretamente seu oponente, a não ser que ele controle um monstro Toon e, nesse caso, este card deve escolher um monstro Toon como alvo dos seus ataques.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Toon",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17144,
+  "type": "monster",
+  "name": "Verzehrender Sarcoughagus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte durch Kampf mit einem Monster eines Gegners zerstört wird: Du kannst die Kontrolle über jenes Monster des Gegners übernehmen und falls du dies tust, wird es zu einem Zombie-Monster, zusätzlich werden seine ATK/DEF zu 0. Wenn dein Zombie-Monster durch Kampf mit einem Monster eines Gegners zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; übernimm die Kontrolle über jenes Monster des Gegners und falls du dies tust, wird es zu einem Zombie-Monster, zusätzlich werden seine ATK/DEF zu 0. Du kannst diesen Effekt von „Verzehrender Sarcoughagus“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

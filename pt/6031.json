@@ -1,0 +1,15 @@
+{
+  "id": 6031,
+  "type": "monster",
+  "name": "Jogador de Areia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Lance uma moeda 3 vezes. Se os 3 resultados forem Caras, destrúa todos os monstros no Campo do seu adversário. Se os 3 resultados forem Coroa, destrúa todos os monstros no seu Campo. Este efeito apenas pode ser usado uma vez por turno, durante a sua Main Phase.",
+  "level": 3,
+  "atk": 300,
+  "def": 1600,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

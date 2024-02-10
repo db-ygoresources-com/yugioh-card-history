@@ -1,0 +1,16 @@
+{
+  "id": 9295,
+  "type": "monster",
+  "name": "D.D. Kobold",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 offenes Monster verbannst, das du kontrollierst. Falls du diese Karte auf diese Art beschwörst, während deiner nächsten Standby Phase: Lege das verbannte Monster aufs Spielfeld zurück.",
+  "level": 1,
+  "atk": 0,
+  "def": 100,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

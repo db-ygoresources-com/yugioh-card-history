@@ -1,0 +1,18 @@
+{
+  "id": 14448,
+  "type": "monster",
+  "name": "D/D-Arche",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte durch einen Karteneffekt zerstört wird: Du kannst 1 offenes „D/D“-Pendelmonster als Spezialbeschwörung von deinem Extra Deck beschwören, außer „D/D-Arche“, aber seine Effekte werden annulliert. Du kannst diesen Effekt von „D/D-Arche“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 als Pendelbeschwörung beschworenes Monster wählen, das dein Gegner kontrolliert; zerstöre sowohl das Monster als auch diese Karte. Du kannst diesen Effekt von „D/D-Arche“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11974,
+  "type": "monster",
+  "name": "Feueritterin Kavalier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Die vielgepriesenen Waffen dieser pinkfarbenen Feueritterin haben ihren Feinden wie ihren Verbündeten gleichermaßen viel Schaden zugefügt, aufgrund ihrer Erfolge beschweren sich jedoch nur wenige.",
+  "pendEffect": "Falls du eine „Feueritter“-Karte in deiner anderen Pendelzone hast: Du kannst beide Karten in deinen Pendelzonen zerstören und falls du dies tust, füge deiner Hand 1 FEUER Monster vom Typ Krieger von deinem Deck oder Friedhof hinzu.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Normal"
+  ]
+}

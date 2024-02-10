@@ -1,0 +1,16 @@
+{
+  "id": 17396,
+  "type": "monster",
+  "name": "Libromant Fireburst",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst diese Karte mit einer „Libromant“-Karte als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wurde, indem ein oder mehr Monster auf dem Spielfeld verwendet wurden, kann sie nicht durch Kampf zerstört werden, zusätzlich wird der Kampfschaden verdoppelt, den sie deinem Gegner zufügt. Diese Karte kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen. Wenn ein Monster einen Angriff deklariert: Du kannst 1 „Libromant“-Ritualmonster von deinem Friedhof verbannen; diese Karte erhält 200 ATK.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Cyberse",
+    "Ritual",
+    "Effekt"
+  ]
+}

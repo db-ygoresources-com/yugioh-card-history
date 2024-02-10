@@ -1,0 +1,15 @@
+{
+  "id": 10920,
+  "type": "monster",
+  "name": "Oráculo do Coveiro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode oferecer como Tributo 3 monstros ou 1 monstro \"do Coveiro\" para Invocar este card por Invocação-Tributo (mas não Baixar). Quando este card for Invocado por Invocação-Tributo: você pode ativar quaisquer desses efeitos, até o número de monstros \"do Coveiro\" oferecidos como Tributo para sua Invocação, e resolvê-los em sequência;\n●Este card ganha ATK igual à soma dos Níveis que todos os monstros oferecidos como Tributo para sua Invocação-Tributo tinham no campo x 100.\n●Destrua todos os monstros Baixados que seu oponente controla.\n●Todos os monstros que seu oponente controla atualmente perdem 2000 de ATK/DEF.",
+  "level": 10,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

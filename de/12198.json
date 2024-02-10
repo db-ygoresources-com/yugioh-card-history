@@ -1,0 +1,15 @@
+{
+  "id": 12198,
+  "type": "monster",
+  "name": "Die Phantomritter des Uralten Schleiers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in Angriffsposition befindet: Du kannst 1 FINSTERNIS Monster auf dem Spielfeld wählen; ändere diese Karte in die Verteidigungsposition und falls du dies tust, erhält jenes Monster bis zum Ende des Spielzugs deines Gegners 800 ATK/DEF. Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Die Phantomritter“-Karte von deinem Deck hinzu, außer „Die Phantomritter des Uralten Schleiers“. Du kannst jeden Effekt von „Die Phantomritter des Uralten Schleiers“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

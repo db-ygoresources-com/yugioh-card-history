@@ -1,0 +1,16 @@
+{
+  "id": 5520,
+  "type": "monster",
+  "name": "Katze des Unglücks",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Bestimme 1 Falle von deinem Deck und lege sie auf dein Deck oder, falls „Tal der Toten“ auf dem Spielfeld liegt, kannst du die Falle stattdessen deiner Hand hinzufügen.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

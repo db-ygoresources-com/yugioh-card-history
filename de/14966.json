@@ -1,0 +1,16 @@
+{
+  "id": 14966,
+  "type": "monster",
+  "name": "Naelschattenpuppe Ariel",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Du kannst 1 deiner verbannten „Schattenpuppe“-Monster wählen; beschwöre es als Spezialbeschwörung in die offene oder verdeckte Verteidigungsposition.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst bis zu 3 Karten in den Friedhöfen wählen; verbanne sie. Du kannst nur 1 Effekt von „Naelschattenpuppe Ariel“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Psi",
+    "Flipp",
+    "Effekt"
+  ]
+}

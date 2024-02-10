@@ -1,0 +1,15 @@
+{
+  "id": 6806,
+  "type": "monster",
+  "name": "Kosmischer Horror Gangi'el",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du ein Monster von deiner Spielfeldseite als Tribut anbietest, das dein Gegner besitzt, kann diese Karte mit 1 Tribut als Normalbeschwörung beschworen werden. Einmal pro Spielzug kannst du 1 A-Zählmarke auf ein Monster auf der Spielfeldseite deines Gegners legen. (Falls ein Monster mit einer A-Zählmarke gegen ein Monster kämpft, dessen Kartenname „Außerirdische“ enthält, verringere nur während der Schadensberechnung seine ATK und DEF um 300 Punkte für jede A-Zählmarke.)",
+  "level": 7,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

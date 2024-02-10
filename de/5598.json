@@ -1,0 +1,15 @@
+{
+  "id": 5598,
+  "type": "monster",
+  "name": "Großer Phantomdieb",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte deinem Gegner Kampfschaden zufügt: Deklariere 1 Kartennamen; sieh dir die Hand deines Gegners an und falls du dies tust, wirf alle Karten mit dem Namen in seiner Hand ab.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7817,
+  "type": "monster",
+  "name": "Nebeltal-Windmeister",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug, falls beide Spieler 5 oder mehr Karten auf der Hand haben, kannst du diesen Effekt aktivieren, um beide Spieler Karten von ihrer Hand auf den Friedhof legen zu lassen, bis sie nur noch 4 Karten haben.",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

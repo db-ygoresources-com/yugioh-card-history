@@ -1,0 +1,15 @@
+{
+  "id": 10903,
+  "type": "monster",
+  "name": "Marefolha Silvestre",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode selecionar um número entre 1 ou 2 e, depois, escavar esse número de cards do topo do seu Deck, enviar quaisquer monstros escavados do Tipo Planta para o Cemitério e, além disso, colocar os outros cards no fundo do seu Deck em qualquer ordem. Se este card for escavado do Deck e enviado para o Cemitério por um efeito de card: você pode escolher 1 monstro no campo; destrua o alvo.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Planta",
+    "Efeito"
+  ]
+}

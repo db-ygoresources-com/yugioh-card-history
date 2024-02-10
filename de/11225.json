@@ -1,0 +1,15 @@
+{
+  "id": 11225,
+  "type": "monster",
+  "name": "Mozarta die musikalische Maestra",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 LICHT Monster vom Typ Fee als Spezialbeschwörung von deiner Hand beschwören. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine anderen Monster als Spezialbeschwörung beschwören, außer LICHT Monstern.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

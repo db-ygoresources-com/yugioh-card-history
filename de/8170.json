@@ -1,0 +1,16 @@
+{
+  "id": 8170,
+  "type": "monster",
+  "name": "Zerrissener",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nicht als Synchromaterialmonster benutzt werden, außer für die Synchrobeschwörung eines Synchromonsters vom Typ Krieger. Falls das Synchromonster angreift, das diese Karte als Synchromaterialmonster benutzt hat, kann dein Gegner bis zum Ende des Damage Steps keine Fallenkarten aktivieren.",
+  "level": 2,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

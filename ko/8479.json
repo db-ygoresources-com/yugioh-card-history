@@ -1,0 +1,16 @@
+{
+  "id": 8479,
+  "type": "monster",
+  "name": "엑스플로시브 매지션",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "튜너 ＋ 튜너 이외의 마법사족 몬스터 1장 이상\n자신 필드 위에 존재하는 마력 카운터를 2개 제거하는 것으로, 상대 필드 위에 존재하는 마법/함정 카드 1장을 선택하고 파괴한다.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "마법사족",
+    "싱크로",
+    "효과"
+  ]
+}

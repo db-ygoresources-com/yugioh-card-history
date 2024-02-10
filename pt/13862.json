@@ -1,0 +1,18 @@
+{
+  "id": 13862,
+  "type": "monster",
+  "name": "Ator do Abismo - Doce Madonna",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Ganha 100 de ATK para cada Magia \"Script do Abismo\" no seu Cemitério. Você só pode usar cada um dos seguintes efeitos de \"Ator do Abismo - Doce Madonna\" uma vez por turno.\n●Quando um Monstro Pêndulo que você controla for destruído em batalha: você pode Invocar este card por Invocação-Especial da sua mão.\n●Se um Card de Magia \"Script do Abismo\" ou seus efeitos forem ativados: você pode Invocar por Invocação-Especial 1 Monstro Pêndulo \"Ator do Abismo\" de Nível 4 ou menos do seu Deck, mas devolva-o para a mão durante a Fase Final.",
+  "pendEffect": "Você pode pagar 1000 PV; adicione 1 Monstro Pêndulo \"Ator do Abismo\" do seu Deck à sua mão, exceto \"Ator do Abismo - Doce Madonna\" e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto Monstros Pêndulo \"Ator do Abismo\" (mesmo que este card deixe o campo). Você só pode usar este efeito de \"Ator do Abismo - Doce Madonna\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 1800,
+  "def": 2500,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

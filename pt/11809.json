@@ -1,0 +1,19 @@
+{
+  "id": 11809,
+  "type": "monster",
+  "name": "Pêndulo Luster, o Dracossassino",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você não pode Invocar Monstros de Fusão, Sincro ou Xyz por Invocação-Especial usando este card como matéria, exceto monstros \"Dracossassino\".",
+  "pendEffect": "Uma vez por turno, se você tiver um card na sua outra Zona de Pêndulo: você pode destruir esse card e, se isso acontecer, adicione 1 card do seu Deck à sua mão, com o mesmo nome que esse card.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1850,
+  "def": 0,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

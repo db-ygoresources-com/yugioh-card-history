@@ -1,0 +1,19 @@
+{
+  "id": 13133,
+  "type": "monster",
+  "name": "D/D/D-Super-Untergangskönig Dunkler Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 „D/D/D“-Monster der Stufe 8\nKann nicht als Pendelbeschwörung beschworen werden. Wenn diese Karte als Xyz-Beschwörung beschworen wird: Du kannst 1 offenes „D/D“-Pendelmonster von deinem Extra Deck als Material an diese Karte anhängen. Pendelmonster, die du kontrollierst, können nicht durch Karteneffekte zerstört werden. Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und dann Monster wählen, die dein Gegner kontrolliert, in Höhe der Anzahl der Pendelmonster, die du kontrollierst; zerstöre sie. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Einmal pro Spielzug, falls du eine „D/D“-Karte in deiner anderen Pendelzone hast: Du kannst 1 „D/D/D“-Xyz-Monster als Spezialbeschwörung von deinem Extra Deck beschwören, außer „D/D/D-Super-Untergangskönig Dunkler Armageddon“.",
+  "pendScale": 1,
+  "rank": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

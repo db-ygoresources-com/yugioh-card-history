@@ -1,0 +1,16 @@
+{
+  "id": 15001,
+  "type": "monster",
+  "name": "Tiefseesängerin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte und 1 WASSER Monster abwerfen; sieh dir die Hand deines Gegners an und verbanne 1 Karte von seiner Hand offen bis zur End Phase. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst die obersten 3 Karten deines Decks auf den Friedhof legen und dann 1 WASSER Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Tiefseesängerin“; lege es auf oder unters Deck. Du kannst jeden Effekt von „Tiefseesängerin“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1500,
+  "properties": [
+    "Seeschlange",
+    "Empfänger",
+    "Effekt"
+  ]
+}

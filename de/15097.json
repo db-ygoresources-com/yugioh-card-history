@@ -1,0 +1,16 @@
+{
+  "id": 15097,
+  "type": "monster",
+  "name": "Steinbefreier Sucher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du ein „Steinbefreier“-Monster kontrollierst, außer „Steinbefreier Sucher“: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während deiner Main Phase: Du kannst die obersten 5 Karten deines Decks ausgraben und falls du dies tust, kannst du 1 ausgegrabenes Fels-Nicht-Empfänger-Monster der Stufe 4 oder niedriger als Spezialbeschwörung beschwören, zusätzlich lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck. Du kannst jeden Effekt von „Steinbefreier Sucher“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Fels",
+    "Empfänger",
+    "Effekt"
+  ]
+}

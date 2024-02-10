@@ -1,0 +1,15 @@
+{
+  "id": 10047,
+  "type": "monster",
+  "name": "Priesterlicher Drache von Asar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 LICHT Monster vom Typ Drache und 1 Normales Monster vom Typ Drache von deinem Friedhof verbannst. Falls diese offene Karte auf dem Spielfeld zerstört würde, kannst du stattdessen 1 offenes „Priesterlich“-Monster als Tribut anbieten, außer dieser Karte.",
+  "level": 7,
+  "atk": 2600,
+  "def": 700,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

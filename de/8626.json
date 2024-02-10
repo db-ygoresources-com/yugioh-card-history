@@ -1,0 +1,15 @@
+{
+  "id": 8626,
+  "type": "monster",
+  "name": "Reptilianischer Diener",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Zerstöre diese Karte, falls andere offene Monster, außer dieser Karte, auf dem Spielfeld liegen. Zerstöre diese Karte, wenn sie als Ziel für den Effekt einer Zauber- oder Fallenkarte gewählt wird. Kein Spieler kann Monster als Normalbeschwörung beschwören, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

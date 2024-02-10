@@ -1,0 +1,15 @@
+{
+  "id": 5773,
+  "type": "monster",
+  "name": "Springer der Schatten, Erzunterweltler",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug, während deiner Standby Phase, musst du 900 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der diese Karte als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 3 würfelst, und falls du dies tust, zerstöre jene Karte. Kampfschaden, den diese Karte deinem Gegner zufügt, wird halbiert.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

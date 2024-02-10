@@ -1,0 +1,15 @@
+{
+  "id": 9893,
+  "type": "monster",
+  "name": "Insektor Hundertfüßler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Falls eine oder mehr Ausrüstungskarten auf deinen Friedhof gelegt werden, solange sie diese Karte ausrüsten (außer während des Damage Steps): Du kannst deiner Hand 1 „Insektor“-Karte von deinem Deck hinzufügen. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 3 erhöht.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

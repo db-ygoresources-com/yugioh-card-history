@@ -1,0 +1,15 @@
+{
+  "id": 8587,
+  "type": "monster",
+  "name": "Affenmagier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Einmal pro Spielzug, falls sich diese Karte in der offenen Angriffsposition befindet: Du kannst 1 Monster von deiner Hand auf den Friedhof legen, um 1 Monster in offener Verteidigungsposition zu wählen, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle darüber. Es kann seine Kampfposition in diesem Spielzug nicht ändern.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15269,
+  "type": "monster",
+  "name": "Draschbär-Lampe",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Wyrm-Monster abwerfen; diese Karte erhält bis zum Ende dieses Spielzugs 1000 DEF. Einmal pro Kampf, während der Schadensberechnung, falls diese Karte in Angriffsposition gegen ein Monster in Angriffsposition kämpft (Schnelleffekt): Du kannst für die Schadensberechnung die DEF jeder Karte verwenden.",
+  "level": 4,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

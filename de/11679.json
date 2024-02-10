@@ -1,0 +1,18 @@
+{
+  "id": 11679,
+  "type": "monster",
+  "name": "Künstlerkumpel Ziehechse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein anderes offenes Monster, das du kontrollierst, durch einen Angriff oder einen Karteneffekt deines Gegners zerstört wird: Du kannst Karten in Höhe der Anzahl der „Künstlerkumpel“-Monster ziehen, die du derzeit kontrollierst. Du kannst diesen Effekt von „Künstlerkumpel Ziehechse“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du eine „Künstlerkumpel“-Karte in deiner anderen Pendelzone hast, außer „Künstlerkumpel Ziehechse“: Du kannst diese Karte zerstören und falls du dies tust, ziehe 1 Karte. Du kannst diesen Effekt von „Künstlerkumpel Ziehechse“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Reptil",
+    "Pendel",
+    "Effekt"
+  ]
+}

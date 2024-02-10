@@ -1,0 +1,16 @@
+{
+  "id": 10132,
+  "type": "monster",
+  "name": "ダメージ・メイジ",
+  "nameRuby": "ダメージ・メイジ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "カードの効果によって自分がダメージを受けた時に発動できる。このカードを手札から特殊召喚し、受けたダメージの数値分だけ自分のライフポイントを回復する。",
+  "level": 3,
+  "atk": 600,
+  "def": 1200,
+  "properties": [
+    "魔法使い族",
+    "効果"
+  ]
+}

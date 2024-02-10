@@ -1,0 +1,15 @@
+{
+  "id": 6745,
+  "type": "monster",
+  "name": "Rescueroid",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange diese Karte offen auf deiner Spielfeldseite liegt und wenn ein Monster auf deiner Spielfeldseite, dessen Kartenname „roid“ enthält, als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, kannst du dieses Monster auf die Hand zurückgeben.",
+  "level": 6,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

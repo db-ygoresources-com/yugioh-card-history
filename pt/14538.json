@@ -1,0 +1,16 @@
+{
+  "id": 14538,
+  "type": "monster",
+  "name": "Valquíria-Carruagem",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Uma vez por turno, você pode: escolha 1 monstro Fada que você controla; equipe este card no alvo, OU: desequipe este card e Invoque-o por Invocação-Especial. Se o monstro equipado seria destruído em batalha ou por um efeito de card, em vez disso, destrua este card. Quando o monstro equipado declarar um ataque: você pode fazer com que ele ganhe 500 de ATK. (Este ganho de ATK permanece mesmo que este card deixe o campo.)",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Fada",
+    "Union",
+    "Efeito"
+  ]
+}

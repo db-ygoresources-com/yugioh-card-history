@@ -1,0 +1,16 @@
+{
+  "id": 7968,
+  "type": "monster",
+  "name": "Wurm Noble",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Falls diese Karte durch den Angriff eines Monsters deines Gegners aufgedeckt wird, füge deinem Gegner Schaden in Höhe der Hälfte der ATK des angreifenden Monsters zu.",
+  "level": 6,
+  "atk": 1500,
+  "def": 2400,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

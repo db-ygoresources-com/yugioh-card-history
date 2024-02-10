@@ -1,0 +1,15 @@
+{
+  "id": 10019,
+  "type": "monster",
+  "name": "Aufzieh-Hai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn ein „Aufzieh“-Monster als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Einmal pro Spielzug: Du kannst 1 dieser Effekte aktivieren.\n●Erhöhe die Stufe dieser Karte bis zur End Phase um 1.\n●Reduziere die Stufe dieser Karte bis zur End Phase um 1.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

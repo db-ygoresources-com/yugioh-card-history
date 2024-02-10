@@ -1,0 +1,15 @@
+{
+  "id": 16837,
+  "type": "monster",
+  "name": "Glänzendes Piecephilia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst 1 Piece-Zählmarke auf diese Karte legen (max. 4), dann kannst du den folgenden Effekt ausführen, basierend auf der Anzahl der Piece-Zählmarken auf ihr.\n●1: Lege 1 Monster von deinem Deck auf dein Deck.\n●2: Ziehe 1 Karte.\n●3: Füge deiner Hand 1 Monster von deinem Deck hinzu.\n●4: Füge deiner Hand 1 Karte von deinem Deck hinzu.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

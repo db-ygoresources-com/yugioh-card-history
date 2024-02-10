@@ -1,0 +1,15 @@
+{
+  "id": 13217,
+  "type": "monster",
+  "name": "Defekter Compiler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug, falls du Schaden von einem Karteneffekt eines Gegners erhalten würdest, lege stattdessen 1 Defekt-Zählmarke auf diese Karte (max. 1). Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Defekt-Zählmarke von dieser Karte entfernen und dann 1 Cyberse-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 800 ATK.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

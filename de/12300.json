@@ -1,0 +1,18 @@
+{
+  "id": 12300,
+  "type": "monster",
+  "name": "Amorphage Zorn",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Pendelbeschwörung beschworen oder aufgedeckt wird, kann kein Spieler Monster als Spezialbeschwörung vom Extra Deck beschwören, solange diese Karte offen auf dem Spielfeld liegt, außer „Amorphage“-Monstern.",
+  "pendEffect": "Solange du ein „Amorphage“-Monster kontrollierst, kann kein Spieler Monster als Tribut anbieten, außer „Amorphage“-Monstern. Einmal pro Spielzug, während deiner Standby Phase, biete 1 Monster als Tribut an oder zerstöre diese Karte.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1650,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

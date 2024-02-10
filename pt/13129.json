@@ -1,0 +1,19 @@
+{
+  "id": 13129,
+  "type": "monster",
+  "name": "Sincron Camarartista de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card, Invocado por Invocação-Especial do Deck Adicional, for usado como Matéria Sincro, bana-o. Quando este card for Invocado por Invocação-Normal: você pode escolher 1 monstro \"Camarartista\" ou \"Olhos Anômalos\" de Nível 3 ou menos no seu Cemitério; Invoque-o por Invocação-Especial, mas ele tem seus efeitos negados. Uma vez por turno: você pode escolher 1 card na sua Zona de Pêndulo; Invoque-o por Invocação-Especial, mas ele tem seus efeitos negados (se houver) e, se isso acontecer, imediatamente depois que este efeito resolver, Invoque por Invocação-Sincro 1 Monstro Sincro usando apenas esse monstro e este card.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro \"Camarartista\" ou \"Olhos Anômalos\" que você controla; neste turno, esse monstro com a face para cima é considerado como um Regulador e, além disso, o Nível dele se torna 1 (mesmo que este card deixe o campo).",
+  "pendScale": 6,
+  "level": 2,
+  "atk": 200,
+  "def": 600,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

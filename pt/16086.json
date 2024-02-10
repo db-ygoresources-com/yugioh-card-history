@@ -1,0 +1,18 @@
+{
+  "id": 16086,
+  "type": "monster",
+  "name": "MiSolfacorde Eliteia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Enquanto você tiver uma Escala de Pêndulo par na sua Zona de Pêndulo, você não sofre dano das batalhas envolvendo seus Monstros Pêndulo \"Solfacorde\". Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 Magia/Armadilha que seu oponente controla; devolva-a para a mão. Você só pode usar este efeito de \"MiSolfacorde Eliteia\" uma vez por turno.",
+  "pendEffect": "A Invocação-Pêndulo dos seus Monstros Pêndulo \"Solfacorde\" não pode ser negada.",
+  "pendScale": 6,
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

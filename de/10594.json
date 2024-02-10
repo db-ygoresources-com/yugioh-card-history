@@ -1,0 +1,15 @@
+{
+  "id": 10594,
+  "type": "monster",
+  "name": "Mecha-Phantomungeheuer Warnschildkröte",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Die Stufe dieser Karte wird um die gemeinsame Stufe aller „Mecha-Phantomungeheuer-Spielmarken“ erhöht, die du kontrollierst. Solange du eine Spielmarke kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden. In jedem Spielzug wird die erste „Mecha-Phantomungeheuer-Spielmarke“, die du kontrollierst und die durch Kampf zerstört würde, nicht zerstört.",
+  "level": 3,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

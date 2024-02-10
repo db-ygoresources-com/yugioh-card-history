@@ -1,0 +1,15 @@
+{
+  "id": 9891,
+  "type": "monster",
+  "name": "Insektor Hornisse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 3 erhöht, zusätzlich erhält es ATK/DEF in Höhe der ATK/DEF dieser Karte. Solange diese Karte ein Monster ausrüstet: Du kannst diese Ausrüstungskarte auf den Friedhof legen und dann 1 Karte auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

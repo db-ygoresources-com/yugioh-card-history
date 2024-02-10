@@ -1,0 +1,20 @@
+{
+  "id": 17160,
+  "type": "monster",
+  "name": "Espantagarra Tri-Heart",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "3 Monstros de Efeito\nDeve ser Invocado por Invocação-Link. Todos os monstros com a face para cima no campo são colocados em Posição de Defesa. Não é afetado pelos efeitos ativados de monstros em Posição de Defesa. Uma vez por turno, se este card estiver na Zona de Monstros Adicional: você pode escolher 1 monstro \"Espantagarra\" de Nível 3 no seu Cemitério; Invoque-o por Invocação-Especial e, se isso acontecer, adicione 1 monstro \"Espantagarra\" do seu Deck à sua mão e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros \"Espantagarra\".",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Besta-Guerreira",
+    "Link",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5775,
+  "type": "monster",
+  "name": "Turm des Todes, Erzunterweltler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug, während deiner Standby Phase, musst du 500 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der diese Karte als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 3 würfelst, und falls du dies tust, zerstöre jene Karte. Wenn „König des Schreckens, Erzunterweltler“, den du kontrollierst, zerstört und auf den Friedhof gelegt wird (selbst während des Damage Steps) (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann jenen „König des Schreckens, Erzunterweltler“ in deinem Friedhof wählen; beschwöre ihn als Spezialbeschwörung.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

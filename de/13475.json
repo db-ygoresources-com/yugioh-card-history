@@ -1,0 +1,10 @@
+{
+  "id": 13475,
+  "type": "trap",
+  "name": "Protonenstrahl",
+  "englishAttribute": "trap",
+  "localizedAttribute": "FALLE",
+  "effectText": "Einmal pro Spielzug, falls ein aktivierter Karteneffekt Münzen wirft, sofort nachdem er aufgelöst wurde, wende die folgenden Effekte an, abhängig von der Anzahl von Kopf.\n●1+: Füge deinem Gegner 500 Schaden zu.\n●2+: Zerstöre 1 Karte, die dein Gegner kontrolliert.\n●3+: Sieh dir die Hand deines Gegners an und wirf 1 Karte von seiner Hand ab.\nWenn ein Effekt aktiviert wird, der 2 Mal oder öfter eine Münze wirft: Du kannst diese Karte vom Friedhof verbannen; behandle alle Ergebnisse als Kopf.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Permanent"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7735,
+  "type": "monster",
+  "name": "Rotdrachen-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nNach der Schadensberechnung, falls diese Karte ein Monster eines Gegners in Verteidigungsposition angegriffen hat: Zerstöre alle Monster in Verteidigungsposition, die dein Gegner kontrolliert. Einmal pro Spielzug, während deiner End Phase: Zerstöre alle anderen Monster, die du kontrollierst und die in diesem Spielzug keinen Angriff deklariert haben. Diese Karte muss offen auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

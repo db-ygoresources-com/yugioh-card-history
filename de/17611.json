@@ -1,0 +1,18 @@
+{
+  "id": 17611,
+  "type": "monster",
+  "name": "Amazonische Silberschwert-Meisterin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen. Falls ein oder mehr „Amazonisch“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Amazonische Silberschwert-Meisterin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "„Amazonisch“-Monster, die du kontrollierst, erhalten ATK in Höhe ihrer Stufe x 100. Wenn ein Angriff deklariert wird, an dem dein „Amazonisch“-Monster beteiligt ist: Du kannst 1 „Amazonisch“-Zauber/Falle in deinem Friedhof wählen; füge ihn oder sie deiner Hand hinzu. Du kannst diesen Effekt von „Amazonische Silberschwert-Meisterin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

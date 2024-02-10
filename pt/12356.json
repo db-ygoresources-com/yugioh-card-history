@@ -1,0 +1,15 @@
+{
+  "id": 12356,
+  "type": "monster",
+  "name": "Pequena Maga Limão",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno: você pode oferecer como Tributo 1 monstro \"Pequena Maga\", exceto \"Pequena Maga Limão\"; adicione 1 monstro do Tipo Mago do seu Deck à sua mão. Uma vez por turno, se este card for alvo de um ataque: você pode Invocar por Invocação-Especial 1 monstro do Tipo Mago da sua mão, mas seus efeitos (se houverem) são negados e, depois, mude o alvo do ataque para ele e, se isso acontecer, o ATK do monstro atacante se torna metade do seu ATK atual.",
+  "level": 2,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

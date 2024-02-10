@@ -1,0 +1,17 @@
+{
+  "id": 7888,
+  "type": "monster",
+  "name": "C・コイル",
+  "nameRuby": "チェーン・コイル",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "自分フィールド上に存在する「C」と名のついたモンスター１体を選択して発動する。そのモンスターの攻撃力・守備力は３００ポイントアップする。この効果は１ターンに１度しか使用できない。",
+  "level": 3,
+  "atk": 1100,
+  "def": 1600,
+  "properties": [
+    "機械族",
+    "チューナー",
+    "効果"
+  ]
+}

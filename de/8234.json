@@ -1,0 +1,15 @@
+{
+  "id": 8234,
+  "type": "monster",
+  "name": "Sagenhafte Krus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte auf den Friedhof abgeworfen wird: Wähle 1 anderes „Sagenhaft“-Monster der Stufe 4 oder niedriger in deinem Friedhof; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 2,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

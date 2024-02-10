@@ -1,0 +1,16 @@
+{
+  "id": 10408,
+  "type": "monster",
+  "name": "Trübe Flamme Basiltrice",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2 oder mehr (max. 5) FEUER Monster der Stufe 6\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen, um 1 Monster zu wählen, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet; verbanne das gewählte Ziel. Diese Karte erhält Effekte basierend auf der Anzahl des an sie angelegten Xyz-Materials.\n●3 oder mehr: Diese Karte erhält 200 ATK und DEF für jedes an sie angelegte Xyz-Material.\n●4 oder mehr: Diese Karte kann nicht als Ziel für die Karteneffekte deines Gegners gewählt werden.\n●5: Diese Karte kann nicht durch Karteneffekte zerstört werden.",
+  "rank": 6,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Pyro",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10149,
+  "type": "monster",
+  "name": "Der Wagen der Prophezeiung",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Magiebuch“-Zauberkarte abwerfen, um 1 Monster vom Typ Hexer in deinem Friedhof zu wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

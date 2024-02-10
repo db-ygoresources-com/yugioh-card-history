@@ -1,0 +1,16 @@
+{
+  "id": 17442,
+  "type": "monster",
+  "name": "Venschrecken Aasfresser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit einem beliebigen „Venschrecken“-Ritualzauber als Ritualbeschwörung beschwören. Während der Main Phase (Schnelleffekt): Du kannst 1 anderes Zombie-Monster als Tribut anbieten; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des als Tribut angebotenen Monsters. Falls du „Revenschrecken Schlächter“ kontrollierst und diese Karte sich in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Venschrecken Aasfresser“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Ritual",
+    "Effekt"
+  ]
+}

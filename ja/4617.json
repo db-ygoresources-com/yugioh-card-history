@@ -1,0 +1,17 @@
+{
+  "id": 4617,
+  "type": "monster",
+  "name": "悪魔の偵察者",
+  "nameRuby": "あくまのていさつしゃ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "リバース：相手はデッキからカードを３枚ドローする。この効果でドローしたカードをお互いに確認し、その中から魔法カードを全て墓地へ捨てる。",
+  "level": 2,
+  "atk": 650,
+  "def": 500,
+  "properties": [
+    "悪魔族",
+    "リバース",
+    "効果"
+  ]
+}

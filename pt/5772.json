@@ -1,0 +1,15 @@
+{
+  "id": 5772,
+  "type": "monster",
+  "name": "Peão Vil Arquidemônio",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno, durante sua Fase de Apoio, você deve pagar 500 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha este card como alvo, lance um dado de seis faces e negue esse efeito se o resultado for um 3 e, se isso acontecer, destrua esse card. Os monstros do seu oponente não podem atacar nenhum monstro \"Arquidemônio\" que você controla, exceto \"Peão Vil Arquidemônio\".",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13973,
+  "type": "monster",
+  "name": "Urteil, Drache des Himmels",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls du diese Karte als Synchrobeschwörung beschwörst, muss alles Material dieselbe Eigenschaft haben. Einmal pro Spielzug, falls du 4 oder mehr Empfänger mit unterschiedlichen Namen in deinem Friedhof hast und diese als Synchrobeschwörung beschworene Karte kontrollierst: Du kannst die Hälfte deiner LP zahlen; zerstöre alle anderen Karten auf dem Spielfeld, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Drache-Monstern. Einmal pro Spielzug, während deiner End Phase: Verbanne die obersten 4 Karten deines Decks.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

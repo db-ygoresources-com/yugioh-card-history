@@ -1,0 +1,20 @@
+{
+  "id": 15318,
+  "type": "monster",
+  "name": "Dragão Taotie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2+ monstros Invocados por Invocação-Especial do Deck Adicional\nEste card ganha efeitos de acordo com o tipo de card (Fusão/Sincro/Xyz) das matérias usadas para sua Invocação-Link.\n●Fusão: Seu oponente não pode ativar efeitos de monstro durante a Fase de Batalha.\n●Sincro: Seu oponente não pode ativar Cards e efeitos de Magia/Armadilha durante sua Fase Principal.\n●Xyz: Seu oponente não pode ativar os efeitos de cards no Cemitério durante sua Fase Principal ou Fase de Batalha.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Wyrm",
+    "Link",
+    "Efeito"
+  ]
+}

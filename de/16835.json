@@ -1,0 +1,15 @@
+{
+  "id": 16835,
+  "type": "monster",
+  "name": "Verrückter Hacker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während der End Phase: Du kannst diese Karte verbannen, die du kontrollierst; übernimm die Kontrolle über 1 Monster mit den niedrigsten ATK, das dein Gegner kontrolliert (bei Gleichstand bestimmst du eins), aber solange es offen auf deiner Spielfeldseite liegt, können seine Effekte nicht aktiviert werden, zusätzlich kannst du keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Linkmonstern. Du kannst jeden Effekt von „Verrückter Hacker“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

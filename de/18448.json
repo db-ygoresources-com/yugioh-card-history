@@ -1,0 +1,19 @@
+{
+  "id": 18448,
+  "type": "monster",
+  "name": "Himmelsjäger-Ass - Azalea",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 LICHT und/oder FINSTERNIS Monster\nMuss als Linkbeschwörung beschworen werden. Du kannst nur einmal pro Spielzug ein oder mehr „Himmelsjäger-Ass - Azalea“ als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie, dann, falls du 3 oder weniger Zauber in deinem Friedhof hast, lege diese Karte auf den Friedhof. Einmal pro Spielzug, am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst 1 Zauber von deinem Friedhof verbannen; zerstöre jenes Monster des Gegners.",
+  "linkRating": 2,
+  "linkArrows": [
+    "7",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

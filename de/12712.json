@@ -1,0 +1,18 @@
+{
+  "id": 12712,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Superstar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird, können Zauber-/Fallenkarten und Zauber-/Falleneffekte deines Gegners nicht aktiviert werden. Einmal pro Spielzug: Du kannst 1 „Abgrundskript“-Zauber direkt von deinem Deck setzen, aber er wird während der End Phase auf den Friedhof gelegt.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Abgrundschauspieler“-Monster als Tribut anbieten und dann 1 „Abgrundskript“-Zauber in deinem Friedhof wählen; füge ihn deiner Hand hinzu.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

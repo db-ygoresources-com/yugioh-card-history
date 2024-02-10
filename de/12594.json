@@ -1,0 +1,18 @@
+{
+  "id": 12594,
+  "type": "monster",
+  "name": "Künstlerkumpel Robbenaal",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 gesetzte Zauber-/Fallenkarte wählen, die dein Gegner kontrolliert; die gesetzte Karte kann in diesem Spielzug nicht aktiviert werden. Kein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; die Effekte des offenen Monsters bleiben bis zum Ende dieses Spielzugs annulliert (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Fisch",
+    "Pendel",
+    "Effekt"
+  ]
+}

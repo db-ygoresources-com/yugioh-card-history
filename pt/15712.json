@@ -1,0 +1,18 @@
+{
+  "id": 15712,
+  "type": "monster",
+  "name": "Metalmorfose Voraz",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Enquanto este card estiver na sua mão: você pode escolher 2 cards com a face para cima que você controla, incluindo um card \"Metalmorfose\"; destrua-os e, se isso acontecer, Invoque este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Especial pelo efeito de um card \"Metalmorfose\": você pode escolher 1 monstro que seu oponente controla ou no Cemitério dele; bana-o. Você só pode usar cada efeito de monstro de \"Metalmorfose Voraz\" uma vez por turno.",
+  "pendEffect": "Se um ou mais monstros que você controla forem destruídos por um efeito de card (exceto durante a Etapa de Dano): você pode adicionar 1 card \"Metalmorfose\" do seu Cemitério à sua mão, exceto \"Metalmorfose Voraz\". Você só pode usar este efeito de \"Metalmorfose Voraz\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 9,
+  "atk": 2900,
+  "def": 1900,
+  "properties": [
+    "Psíquico",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10321,
+  "type": "monster",
+  "name": "Legendärer Drache des Weißen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "notes": "*Kann nicht in offiziellen Duellen verwendet werden.",
+  "effectText": "3 Monster der Stufe 8\nMuss als Xyz-Beschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Falls diese Karte deinen Gegner direkt angreift und seine LP auf 0 reduziert, solange ein Xyz-Material, das ursprünglich Typ Drache war, an sie angehängt ist, gewinnst du das Match.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Effekt"
+  ]
+}

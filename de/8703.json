@@ -1,0 +1,16 @@
+{
+  "id": 8703,
+  "type": "monster",
+  "name": "Neo-Flamvell-Ursprung",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du ein „Flamvell“-Monster kontrollierst, außer „Neo-Flamvell-Ursprung“, und dein Gegner 3 oder weniger Karten in seinem Friedhof hat, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.",
+  "level": 2,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

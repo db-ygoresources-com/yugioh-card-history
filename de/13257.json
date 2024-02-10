@@ -1,0 +1,15 @@
+{
+  "id": 13257,
+  "type": "monster",
+  "name": "Muskelsanitäter",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein Spieler Schaden aus einem Kampf, an dem diese Karte beteiligt ist, erhalten würde, erhält er stattdessen so viele LP.",
+  "level": 4,
+  "atk": 2200,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

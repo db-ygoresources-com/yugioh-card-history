@@ -1,0 +1,16 @@
+{
+  "id": 5703,
+  "type": "monster",
+  "name": "Beschwörer der Waffenkammer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Füge deiner Hand 1 „Wächter“-Karte von deinem Deck hinzu, außer „Keltischer Wächter“, „Geflügelter Drache, Festungswächter #1“, „Geflügelter Drache, Festungswächter #2“, „Wächter des Labyrinths“, „Sumpfkampfwächter“, „Lavakampfwächter“, „Strafe des Wächters“, „Kinderwächter“, „Fusionswächter“ und „Grabwächter“-Karten.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

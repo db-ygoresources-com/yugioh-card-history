@@ -1,0 +1,18 @@
+{
+  "id": 12285,
+  "type": "monster",
+  "name": "Lunalicht Tiger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Lunalicht“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Lunalicht Tiger“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Lunalicht“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber es kann nicht angreifen, seine Effekte werden annulliert, zusätzlich wird es während der End Phase zerstört.",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

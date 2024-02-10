@@ -1,0 +1,15 @@
+{
+  "id": 13213,
+  "type": "monster",
+  "name": "F.A. Amo Sônico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Ganha ATK igual ao seu Nível x 300. Não pode ser destruído em batalha com um monstro do oponente cujo Nível/Classe original seja menor que o Nível deste card. Sempre que um Card ou efeito de Magia/Armadilha \"F.A.\" for ativado: você pode aumentar em 1 o Nível deste card. Se este card for de Nível 7 ou mais, ele pode realizar até 2 ataques contra monstros durante cada Fase de Batalha.",
+  "level": 4,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

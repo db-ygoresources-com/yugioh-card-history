@@ -1,0 +1,16 @@
+{
+  "id": 6037,
+  "type": "monster",
+  "name": "혼을 부르는 자",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "리버스 : 자신의 묘지에서 레벨 3 이하의 일반 몬스터 1장을 자신 필드 위에 특수 소환할 수 있다.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "마법사족",
+    "리버스",
+    "효과"
+  ]
+}

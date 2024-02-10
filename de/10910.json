@@ -1,0 +1,15 @@
+{
+  "id": 10910,
+  "type": "monster",
+  "name": "Geistertrick-Skelett",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Wenn diese Karte aufgedeckt wird: Verbanne eine Anzahl oberste Karten vom Deck deines Gegners verdeckt bis zur Anzahl der „Geistertrick“-Monster, die du kontrollierst. Du kannst diesen Effekt von „Geistertrick-Skelett“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1100,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

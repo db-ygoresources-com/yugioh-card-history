@@ -1,0 +1,16 @@
+{
+  "id": 9508,
+  "type": "monster",
+  "name": "Gerümpelberserker",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "„Gerümpelsynchronisierer“ + 1 oder mehr Nicht-Empfänger-Monster\nDu kannst 1 „Gerümpel“-Monster von deinem Friedhof verbannen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; das gewählte Ziel verliert ATK in Höhe der ATK des verbannten Monsters. Am Beginn des Damage Steps, falls diese Karte ein Monster in Verteidigungsposition angreift: Zerstöre das Monster.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

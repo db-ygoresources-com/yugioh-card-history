@@ -1,0 +1,18 @@
+{
+  "id": 19383,
+  "type": "monster",
+  "name": "Duralume, vaalmonikansche Heidenheilige",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Effektmonster\nKann nicht als Linkbeschwörung beschworen werden, es sei denn, du hast 3 oder mehr Resonanz-Zählmarken auf Fee-Monsterkarten in deiner Pendelzone. Du kannst „Duralume, vaalmonikansche Heidenheilige“ nur einmal pro Spielzug als Spezialbeschwörung beschwören. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst Monster, die dein Gegner kontrolliert, bis zur Anzahl der Resonanz-Zählmarken in deiner Pendelzone wählen; zerstöre sie. Du kannst 3 Resonanz-Zählmarken von deiner Pendelzone entfernen; diese Karte kann in diesem Spielzug während jeder Battle Phase bis zu 3 Angriffe durchführen.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

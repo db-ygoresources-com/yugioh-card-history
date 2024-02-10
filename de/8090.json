@@ -1,0 +1,16 @@
+{
+  "id": 8090,
+  "type": "monster",
+  "name": "Antiker Feendrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nWährend deiner Main Phase: Du kannst 1 Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand beschwören. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Battle Phase durchführen. Während deiner Main Phase: Du kannst so viele Karten in den Spielfeldzonen wie möglich zerstören (min. 1) und falls du dies tust, erhältst du 1000 LP, dann kannst du deiner Hand 1 Spielfeldzauber mit einem unterschiedlichen Namen als die zerstörten Karten von deinem Deck hinzufügen. Du kannst jeden Effekt von „Antiker Feendrache“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2100,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

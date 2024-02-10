@@ -1,0 +1,15 @@
+{
+  "id": 13010,
+  "type": "monster",
+  "name": "Ultimativleiter-Tyranno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 Dinosaurier-Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während der Main Phase (Schnelleffekt): Du kannst 1 Monster in deiner Hand oder auf deiner Spielfeldseite zerstören und falls du dies tust, ändere alle offenen Monster, die dein Gegner kontrolliert, in die verdeckte Verteidigungsposition. Diese Karte kann alle Monster, die dein Gegner kontrolliert, je einmal angreifen. Am Beginn des Damage Steps, falls diese Karte ein Monster in Verteidigungsposition angreift: Du kannst deinem Gegner 1000 Schaden zufügen und falls du dies tust, lege jenes Monster in Verteidigungsposition auf den Friedhof.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3200,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

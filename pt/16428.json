@@ -1,0 +1,19 @@
+{
+  "id": 16428,
+  "type": "monster",
+  "name": "Dragão Venimigo Faminto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 monstro de TREVAS + 1 Monstro Pêndulo\nVocê pode escolher 1 monstro com a face para cima que seu oponente controla; até a Fase Final, o nome deste card se torna o nome original desse monstro e troque este efeito pelo efeito original desse monstro e, depois, esse monstro perde 500 de ATK/DEF, seus efeitos são negados e, além disso, cause 500 de dano ao seu oponente. Você só pode usar este efeito de \"Dragão Venimigo Faminto\" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Sempre que um ou mais cards forem enviados do campo para o Cemitério, coloque 1 Marcador de Venimigo neste card para cada card enviado. Todos os monstros no campo, exceto monstros Dragão de TREVAS, perdem 200 de ATK para cada Marcador de Venimigo no campo. Uma vez por turno, você pode reduzir a 0 o dano de batalha que sofrer.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6181,
+  "type": "monster",
+  "name": "Schwerer Unterstützungs-Mech",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug kannst du: 1 Maschine-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Ein Monster, das mit dieser Karte ausgerüstet ist, erhält 500 ATK/DEF, zusätzlich, falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

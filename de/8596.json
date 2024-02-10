@@ -1,0 +1,16 @@
+{
+  "id": 8596,
+  "type": "monster",
+  "name": "Rinyan, Lichtverpflichteter Schlingel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Wähle 1 „Lichtverpflichtet“-Monster in deinem Friedhof; mische das gewählte Ziel in dein Deck, dann ziehe 1 Karte.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

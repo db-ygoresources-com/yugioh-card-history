@@ -1,0 +1,16 @@
+{
+  "id": 11080,
+  "type": "monster",
+  "name": "Geistertrick-Süßerboss",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 2\nSolange du ein anderes „Geistertrick“-Monster kontrollierst, können Monster deines Gegners diese Karte nicht als Angriffsziel wählen. Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und dann 1 Monster, dessen ATK kleiner oder gleich den kombinierten ATK aller „Geistertrick“-Monster auf dem Spielfeld sind, auf dem Spielfeld wählen; zerstöre es und falls du dies tust, kann seine Monsterkartenzone nicht verwendet werden, solange du ein „Geistertrick“-Monster kontrollierst.",
+  "rank": 2,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8526,
+  "type": "monster",
+  "name": "Kartenwache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Lege 1 Wache-Zählmarke darauf. Diese Karte erhält 300 ATK für jede Wache-Zählmarke auf ihr. Einmal pro Spielzug: Du kannst 1 andere offene Karte wählen, die du kontrollierst; entferne 1 Wache-Zählmarke von dieser Karte und falls du dies tust, lege 1 Wache-Zählmarke auf das gewählte Ziel. (Falls die Karte jemals zerstört würde, entferne stattdessen 1 Wache-Zählmarke von ihr.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

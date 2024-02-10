@@ -1,0 +1,18 @@
+{
+  "id": 15867,
+  "type": "monster",
+  "name": "Sonnenranken-Drescher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Normales Pflanze-Monster\nFalls ein „Sonnenavalon“-Linkmonster, das du kontrollierst, das Spielfeld durch einen Karteneffekt verlässt: Zerstöre diese Karte. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Sonnenavalon“-Linkmonster auf dem Spielfeld wählen; diese Karte erhält ATK in Höhe der Linkzahl des Monsters x 800. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst das Monster als Spezialbeschwörung in deine Zone beschwören, auf die ein Linkmonster zeigt, aber annulliere seine Effekte.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Pflanze",
+    "Link",
+    "Effekt"
+  ]
+}

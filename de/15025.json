@@ -1,0 +1,16 @@
+{
+  "id": 15025,
+  "type": "monster",
+  "name": "Magischer Hund",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 offene/n Zauber/Falle wählen, den oder die dein Gegner kontrolliert; gib ihn oder sie auf die Hand zurück und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Magischer Hund“ nur einmal pro Duell verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

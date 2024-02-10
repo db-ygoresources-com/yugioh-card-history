@@ -1,0 +1,15 @@
+{
+  "id": 10730,
+  "type": "monster",
+  "name": "Galaxiedrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht direkt angreifen und kann nur Monster vom Typ Drache angreifen. Falls diese Karte gegen ein Monster vom Typ Drache kämpft, erhält sie nur während des Damage Steps 1000 ATK, zusätzlich werden während dieser Battle Phase die Effekte des Monsters annulliert, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

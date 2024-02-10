@@ -1,0 +1,16 @@
+{
+  "id": 7873,
+  "type": "monster",
+  "name": "Planta Copiadora",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Uma vez por turno: você pode escolher 1 outro monstro do Tipo Planta no campo que tenha Nível; até o final deste turno, o Nível deste card se torna o Nível atual desse monstro.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Planta",
+    "Regulador",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14441,
+  "type": "monster",
+  "name": "Magister von Endymion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst nur einmal pro Spielzug einen oder mehr „Magister von Endymion“ als Spezialbeschwörung beschwören. Wenn diese Karte einen Angriff deklariert: Du kannst 1 Zauberzählmarke darauf legen. Einmal pro Spielzug eines Gegners (Schnelleffekt): Du kannst 3 Zauberzählmarken von deiner Spielfeldseite entfernen; beschwöre 1 Monster, auf das du eine Zauberzählmarke legen kannst, als Spezialbeschwörung von deinem Deck. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen, dann lege dieselbe Anzahl Zauberzählmarken darauf, die sie als Monster hatte.",
+  "pendEffect": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Du kannst 3 Zauberzählmarken von dieser Karte entfernen; beschwöre sowohl diese Karte als Spezialbeschwörung von deiner Pendelzone als auch 1 offenes Monster, auf das du eine Zauberzählmarke legen kannst, als Spezialbeschwörung von deinem Extra Deck und falls du dies tust, lege jeweils 1 Zauberzählmarke darauf.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

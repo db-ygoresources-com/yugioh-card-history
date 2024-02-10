@@ -1,0 +1,16 @@
+{
+  "id": 7529,
+  "type": "monster",
+  "name": "Criomante da Barreira de Gelo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Enquanto você controlar outro monstro \"Barreira de Gelo\", os monstros de Nível 4 ou mais não podem declarar ataques.",
+  "level": 2,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Regulador",
+    "Efeito"
+  ]
+}

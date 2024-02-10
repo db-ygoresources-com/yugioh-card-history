@@ -1,0 +1,19 @@
+{
+  "id": 14960,
+  "type": "monster",
+  "name": "Buntäugiger Rebellionsdrache Oberherrscher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 7\nDu kannst diese Karte auch als Xyz-Beschwörung beschwören, indem du ein „Rebellion“-Xyz-Monster, das du kontrollierst, als das Material verwendest. (Transferiere sein Material an diese Karte.) Falls du Stufe 7 als Pendelbeschwörung beschwören kannst, kannst du diese offene Karte von deinem Extra Deck als Pendelbeschwörung beschwören. Diese Karte, die mit einem Xyz-Monster des Rangs 7 als Material als Xyz-Beschwörung beschworen wurde, kann während jeder Battle Phase bis zu 3 Angriffe durchführen. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst nur einmal pro Spielzug einen oder mehr „Buntäugiger Rebellionsdrache Oberherrscher“ als Spezialbeschwörung beschwören.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören, dann beschwöre 1 „Rebellion“- oder „Die Phantomritter“-Monster als Spezialbeschwörung von deinem Extra Deck und verwende diese Karte als Material dafür (dies wird als Xyz-Beschwörung behandelt), dann kannst du 1 Karte von deiner Pendelzone als Material daran anhängen.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

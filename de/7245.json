@@ -1,0 +1,15 @@
+{
+  "id": 7245,
+  "type": "monster",
+  "name": "Finsterer Flackerdrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Ihre ATK und DEF werden zum Doppelten ihrer Grund-ATK und -DEF. Falls diese Karte ein Monster durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner Schaden in Höhe der Grund-ATK des Monsters zu.",
+  "level": 7,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

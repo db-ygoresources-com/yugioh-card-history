@@ -1,0 +1,16 @@
+{
+  "id": 18816,
+  "type": "monster",
+  "name": "Gierdose",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Führe nacheinander diese Effekte aus.\n●Grabe eine beliebige Anzahl oberste Karten deines Decks bis zur Anzahl der Karten aus, die dein Gegner kontrolliert, und falls du dies tust, füge 1 von ihnen deiner Hand hinzu, zusätzlich lege die übrigen auf den Friedhof.\n●Lege Monster bis zur Anzahl der Monster, die dein Gegner kontrolliert und die als Spezialbeschwörung vom Extra Deck beschworen wurden, von deinem Extra Deck auf den Friedhof.\nDu kannst diesen Effekt von „Gierdose“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 700,
+  "def": 800,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

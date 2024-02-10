@@ -1,0 +1,16 @@
+{
+  "id": 5523,
+  "type": "monster",
+  "name": "Eule des Glücks",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Wähle 1 Spielfeldzauberkarte aus deinem Deck, mische dein Deck und lege die gewählte Karte oben auf dein Deck. Wenn „Tal der Toten“ offen auf dem Spielfeld liegt, kannst du die gewählte Karte auf die Hand nehmen.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

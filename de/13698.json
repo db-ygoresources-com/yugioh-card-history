@@ -1,0 +1,20 @@
+{
+  "id": 13698,
+  "type": "monster",
+  "name": "Transkodier-Sprecher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Effektmonster\nSolange diese Karte kreuzgelinkt ist, erhalten sie und ihre kreuzgelinkten Monster 500 ATK, zusätzlich kann dein Gegner sie nicht als Ziel für Karteneffekte wählen. Du kannst 1 Cyberse-Linkmonster mit Link-3 oder niedriger in deinem Friedhof wählen, außer „Transkodier-Sprecher“; beschwöre es als Spezialbeschwörung in deine Zone, auf die diese Karte zeigt. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer Cyberse-Monstern. Du kannst diesen Effekt von „Transkodier-Sprecher“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "6",
+    "2"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

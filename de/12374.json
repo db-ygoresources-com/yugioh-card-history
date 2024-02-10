@@ -1,0 +1,19 @@
+{
+  "id": 12374,
+  "type": "monster",
+  "name": "Künstlerkumpel Teppichörnchen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst 1 gesetzte Karte auf dem Spielfeld wählen; zerstöre sie. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst sie in die verdeckte Verteidigungsposition ändern.",
+  "pendEffect": "Zerstöre diese Karte, es sei denn, du hast eine Karte in deiner anderen Pendelzone. Solange sich diese Karte in der Pendelzone befindet, wird aller Kampfschaden halbiert, den du erhältst.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Flipp",
+    "Effekt"
+  ]
+}

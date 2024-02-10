@@ -1,0 +1,16 @@
+{
+  "id": 7529,
+  "type": "monster",
+  "name": "빙결계의 기술자",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "①: 자신 필드에 다른 \"빙결계\" 몬스터가 존재하는 한, 레벨 4 이상의 몬스터는 공격 선언할 수 없다.",
+  "level": 2,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "물족",
+    "튜너",
+    "효과"
+  ]
+}

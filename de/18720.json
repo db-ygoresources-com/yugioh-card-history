@@ -1,0 +1,16 @@
+{
+  "id": 18720,
+  "type": "monster",
+  "name": "Xeno-Meteorier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls eine oder mehr Karten durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während deiner Main Phase: Du kannst 1 Dinosaurier-Monster in deiner Hand oder auf deiner Spielfeldseite zerstören, dann beschwöre 1 Normales Dinosaurier-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Drache-, Dinosaurier-, Seeschlange- oder Wyrm-Monstern. Du kannst jeden Effekt von „Xeno-Meteorier“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Dinosaurier",
+    "Empfänger",
+    "Effekt"
+  ]
+}

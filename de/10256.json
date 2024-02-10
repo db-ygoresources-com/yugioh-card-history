@@ -1,0 +1,16 @@
+{
+  "id": 10256,
+  "type": "monster",
+  "name": "Soltite, Metallparasit",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug kannst du: 1 offenes Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung in die offene Angriffsposition beschwören. Solange das ausgerüstete Monster durch diesen Effekt ausgerüstet ist, kann es weder als Ziel für die Monstereffekte deines Gegners gewählt noch von diesen zerstört werden. (Ein Monster kann zu jeder Zeit nur mit 1 Union-Monster ausgerüstet sein. Falls das ausgerüstete Monster durch Kampf zerstört würde, zerstöre stattdessen diese Karte.)",
+  "level": 7,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Union",
+    "Effekt"
+  ]
+}

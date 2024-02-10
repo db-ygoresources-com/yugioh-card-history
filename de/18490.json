@@ -1,0 +1,16 @@
+{
+  "id": 18490,
+  "type": "monster",
+  "name": "Sakitama",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib diese Karte auf die Hand zurück. Du kannst jeden der folgenden Effekte von „Sakitama“ nur einmal pro Spielzug verwenden. Du kannst diese Karte in deiner Hand vorzeigen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Spirit-Monster als Normalbeschwörung von deiner Hand. Falls diese Karte als Tribut angeboten wird: Wähle 1 Spirit-Monster in deinem Friedhof; füge es deiner Hand hinzu.",
+  "level": 4,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "Fee",
+    "Spirit",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7594,
+  "type": "monster",
+  "name": "Lumina, Lichtverpflichtete Beschwörerin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Karte abwerfen und dann 1 „Lichtverpflichtet“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Einmal pro Spielzug, während deiner End Phase: Lege die obersten 3 Karten deines Decks auf den Friedhof.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

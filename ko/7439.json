@@ -1,0 +1,16 @@
+{
+  "id": 7439,
+  "type": "monster",
+  "name": "모스키토 마그네",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "리버스 : 필드 위에 앞면 표시로 존재하는 기계족 몬스터를 전부 파괴한다.",
+  "level": 3,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "곤충족",
+    "리버스",
+    "효과"
+  ]
+}

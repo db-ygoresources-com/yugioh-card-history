@@ -1,0 +1,15 @@
+{
+  "id": 8452,
+  "type": "monster",
+  "name": "Preisgegebene Spinne",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du 4 oder mehr Monster vom Typ Insekt in deinem Friedhof hast, kannst du diese Karte als Tribut anbieten, um alle Monster in offener Verteidigungsposition zu zerstören, die dein Gegner kontrolliert.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

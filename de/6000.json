@@ -1,0 +1,15 @@
+{
+  "id": 6000,
+  "type": "monster",
+  "name": "Marshmallon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht durch Kampf zerstört werden. Nach der Schadensberechnung, falls diese Karte angegriffen wurde und am Beginn des Damage Steps verdeckt lag: Der angreifende Spieler erhält 1000 Schaden.",
+  "level": 3,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

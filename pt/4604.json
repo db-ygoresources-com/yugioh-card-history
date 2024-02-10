@@ -1,0 +1,15 @@
+{
+  "id": 4604,
+  "type": "monster",
+  "name": "Quimera Pequena",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Todos os monstros de FOGO no campo ganham 500 de ATK. Todos os monstros de ÁGUA no campo perdem 400 de ATK.",
+  "level": 2,
+  "atk": 600,
+  "def": 550,
+  "properties": [
+    "Besta",
+    "Efeito"
+  ]
+}

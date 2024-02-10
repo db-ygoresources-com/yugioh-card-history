@@ -1,0 +1,16 @@
+{
+  "id": 13381,
+  "type": "monster",
+  "name": "Tinwinkel-Hund",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; diese Karte erhält ATK in Höhe der Grund-ATK des gewählten Ziels, dann ändere das gewählte Ziel in die verdeckte Verteidigungsposition.\nJedes Monster, das dein Gegner kontrolliert, verliert 1000 ATK für jedes Monster, das mit ihm verlinkt ist. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 verdecktes Monster auf dem Spielfeld wählen; ändere es in die offene Verteidigungsposition.",
+  "level": 7,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

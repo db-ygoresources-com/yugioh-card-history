@@ -1,0 +1,15 @@
+{
+  "id": 8898,
+  "type": "monster",
+  "name": "젬 머천트",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "자신 필드 위에 앞면 표시로 존재하는 땅 속성의 일반 몬스터가 전투를 실행하는 데미지 스텝시에 이 카드를 패에서 묘지로 보내는 것으로, 그 몬스터의 공격력 / 수비력은 이 턴의 엔드 페이즈시까지 1000 포인트 올린다.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "마법사족",
+    "효과"
+  ]
+}

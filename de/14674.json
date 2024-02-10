@@ -1,0 +1,19 @@
+{
+  "id": 14674,
+  "type": "monster",
+  "name": "Galaxiesatelliten-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Drache-Monster\nWährend der Battle Phase (Schnelleffekt): Du kannst diese Karte von deiner Spielfeldseite oder deinem Friedhof verbannen und dann 1 „Nummer“-Xyz-Monster wählen, das du kontrollierst und dessen Grund-Eigenschaft/-Typ LICHT/Drache sind; bis zum Ende der Battle Phase werden seine ATK gleich dem Wert der „Nummer“ in seinem Namen x 100, zusätzlich wird der Kampfschaden halbiert, den dein Gegner erhält. Während der End Phase deines Gegners: Du kannst 1 Karte von deinem Deck bestimmen und auf dein Deck legen. Du kannst jeden Effekt von „Galaxiesatelliten-Drache“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4747,
+  "type": "monster",
+  "name": "Herr der Drachen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kein Spieler kann Drache-Monster auf dem Spielfeld als Ziel für Karteneffekte wählen.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

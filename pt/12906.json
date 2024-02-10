@@ -1,0 +1,18 @@
+{
+  "id": 12906,
+  "type": "monster",
+  "name": "Feiticeiro Astrógrafo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se um ou mais cards que você controla forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua mão e, depois, você pode selecionar 1 monstro no Cemitério, Deck Adicional ou que estiver banido, que tenha sido destruído neste turno, e adicionar 1 monstro com o mesmo nome do seu Deck à sua mão. Você pode banir este card que você controla, mais 4 monstros da sua mão, do campo e/ou do Cemitério (1 de cada com \"Dragão Pêndulo\", \"Dragão Xyz\", \"Dragão Sincro\" e \"Dragão Fusão\" em seus nomes); Invoque por Invocação-Especial 1 \"Rei Supremo Z-ARC\" do seu Deck Adicional. (Isso é considerado uma Invocação-Fusão.)",
+  "pendEffect": "Durante sua Fase Principal: você pode destruir este card e, se isso acontecer, pegue 1 \"Mago Observador das Estrelas\" da sua mão ou do Deck e coloque-o na sua Zona de Pêndulo ou Invoque-o por Invocação-Especial. Você só pode usar este efeito de \"Feiticeiro Astrógrafo\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

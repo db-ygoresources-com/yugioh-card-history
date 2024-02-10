@@ -1,0 +1,19 @@
+{
+  "id": 15467,
+  "type": "monster",
+  "name": "Daidaratant der Schleimriese",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster der Stufe 4\nFalls du Stufe 4 als Pendelbeschwörung beschwören kannst, kannst du diese offene Karte als Pendelbeschwörung von deinem Extra Deck beschwören. Du kannst 1 Material von dieser Karte abhängen; lege diese Karte in deine Pendelzone, dann kannst du dem Extra Deck 1 Pendelmonster von deinem Friedhof offen hinzufügen. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Daidaratant der Schleimriese“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 Xyz-Monster wählen, das du kontrollierst; hänge diese Karte als Material daran an. Du kannst diesen Effekt von „Daidaratant der Schleimriese“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 3,
+  "rank": 4,
+  "atk": 2400,
+  "def": 400,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

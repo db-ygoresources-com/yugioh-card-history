@@ -1,0 +1,15 @@
+{
+  "id": 14241,
+  "type": "monster",
+  "name": "Grosalamander Gürteltier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du eine „Grosalamander“-Karte kontrollierst: Du kannst diese Karte abwerfen und dann 1 offenes Monster auf dem Spielfeld wählen; es erhält bis zum Ende dieses Spielzugs 500 ATK. Falls du ein „Grosalamander“-Monster außer „Grosalamander Gürteltier“ kontrollierst und sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Grosalamander Gürteltier“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

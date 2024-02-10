@@ -1,0 +1,16 @@
+{
+  "id": 18183,
+  "type": "monster",
+  "name": "Eisjade-Gymir Aegirine",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 WASSER Empfänger + 1+ Nicht-Empfänger-Monster\n(Schnelleffekt): Du kannst diesen Effekt aktivieren; in diesem Spielzug können offene Monster, die du kontrollierst, durch Karteneffekte deines Gegners weder zerstört noch verbannt werden. Dann, falls du diesen Effekt als Reaktion auf die Aktivierung einer Karte oder eines Effekts deines Gegners aktiviert hast und dein Gegner eine oder mehr Karten mit jenem Namen auf seiner Spielfeldseite und/oder in seinem Friedhof hat, kannst du jene Karten verbannen. Falls eine oder mehr Karten durch einen Karteneffekt deines Gegners verbannt werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Eisjade-Gymir Aegirine“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Synchro",
+    "Effekt"
+  ]
+}

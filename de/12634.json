@@ -1,0 +1,17 @@
+{
+  "id": 12634,
+  "type": "monster",
+  "name": "Kristron Quandax",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Kette, während der Main oder Battle Phase deines Gegners kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Synchromonster als Synchrobeschwörung und verwende dafür Material einschließlich dieser Karte, die du kontrollierst. Falls diese als Synchrobeschwörung beschworene Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Kristron“-Monster in deinem Friedhof wählen, außer einem Synchromonster; beschwöre es als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 1800,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

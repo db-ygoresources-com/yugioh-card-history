@@ -1,0 +1,16 @@
+{
+  "id": 10466,
+  "type": "monster",
+  "name": "Gepanzerter Kappa",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster der Stufe 2\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; diese Karte erhält 1000 ATK oder DEF. Während des Battle Steps eines beliebigen Spielers, solange ein Angriff stattfindet, an dem dein Monster beteiligt ist: Du kannst 1 Karte abwerfen; für den Rest dieses Spielzugs können Monster, die du kontrollierst, nicht durch Kampf zerstört werden, zusätzlich erhältst du keinen Kampfschaden. Du kannst diesen Effekt von „Gepanzerter Kappa“ nur einmal pro Duell verwenden.",
+  "rank": 2,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Psi",
+    "Xyz",
+    "Effekt"
+  ]
+}

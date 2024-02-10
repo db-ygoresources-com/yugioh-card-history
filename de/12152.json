@@ -1,0 +1,16 @@
+{
+  "id": 12152,
+  "type": "monster",
+  "name": "Goyo-Kaiser",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 ERDE Synchromonster vom Typ Krieger\nWenn diese Karte oder ein Monster, das du kontrollierst und das dein Gegner besitzt, ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst das Monster als Spezialbeschwörung auf deine Spielfeldseite beschwören. Wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört, außer während des Damage Steps: Du kannst 1 ERDE Synchromonster vom Typ Krieger als Tribut anbieten; übernimm die Kontrolle über das oder die Monster. Falls diese offene Karte das Spielfeld verlässt: Gib die Kontrolle über alle Monster, die du kontrollierst, an den Besitzer zurück.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

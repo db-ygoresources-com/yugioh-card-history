@@ -1,0 +1,15 @@
+{
+  "id": 13519,
+  "type": "monster",
+  "name": "Müllsammler",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst 1 anderes Cyberse-Monster wählen, das du kontrollierst und das das Duell im Main Deck begonnen hat; gib es auf die Hand zurück und falls du dies tust, beschwöre 1 Cyberse-Monster mit derselben Stufe, aber einem unterschiedlichen Namen als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Müllsammler“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 100,
+  "def": 1900,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

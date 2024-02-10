@@ -1,0 +1,15 @@
+{
+  "id": 12873,
+  "type": "monster",
+  "name": "Unterterror-Erzfeind Verteidiger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der genau 1 gesetztes Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt, oder wenn ein gesetztes Monster, das du kontrollierst, als Angriffsziel für ein gegnerisches Monster gewählt wird: Du kannst diese Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen und dann ein anderes Monster wählen, das du kontrollierst und das ein geeignetes Ziel wäre; die Karte/der Effekt/der Angriff wählt jetzt das neue Ziel als Ziel. Solange du ein gesetztes Monster kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden.",
+  "level": 2,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

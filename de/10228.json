@@ -1,0 +1,15 @@
+{
+  "id": 10228,
+  "type": "monster",
+  "name": "Dreibeinfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 offenes Monster vom Typ Fisch, Seeschlange oder Aqua auf dem Spielfeld wählen; erhöhe seine Stufe um 1.",
+  "level": 3,
+  "atk": 300,
+  "def": 1300,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

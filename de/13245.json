@@ -1,0 +1,15 @@
+{
+  "id": 13245,
+  "type": "monster",
+  "name": "Feuerkönig Avatar Arvata",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn ein Monstereffekt aktiviert wird, solange dieses Monster auf dem Spielfeld liegt (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre 1 anderes FEUER Monster in deiner Hand oder offen auf deiner Spielfeldseite. Falls diese Karte zerstört und auf den Friedhof gelegt wird: Du kannst 1 FEUER Ungeheuer-, Ungeheuer-Krieger- oder Geflügeltes Ungeheuer-Monster in deinem Friedhof wählen, außer „Feuerkönig Avatar Arvata“; beschwöre es als Spezialbeschwörung, aber annulliere seine Effekte, zusätzlich zerstöre es während der End Phase. Du kannst jeden Effekt von „Feuerkönig Avatar Arvata“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

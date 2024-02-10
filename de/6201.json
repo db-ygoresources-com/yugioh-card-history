@@ -1,0 +1,16 @@
+{
+  "id": 6201,
+  "type": "monster",
+  "name": "Dekoichi, die Kampfdampflok",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Ziehe 1 Karte, dann ziehe 1 zusätzliche Karte für jeden offenen „Bokoichi, der Güterwagen“, den du kontrollierst.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Flipp",
+    "Effekt"
+  ]
+}

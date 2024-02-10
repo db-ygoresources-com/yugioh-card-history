@@ -1,0 +1,15 @@
+{
+  "id": 11252,
+  "type": "monster",
+  "name": "Hypnoschwester",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte erhält Effekte basierend auf der Gesamtanzahl der Karten in den Pendelzonen beider Spieler.\n●1 oder mehr: Diese Karte erhält 800 ATK und DEF.\n●2 oder mehr: Am Beginn des Damage Steps, falls diese Karte gegen ein als Pendelbeschwörung beschworenes Monster kämpft: Zerstöre das Monster.\n●3 oder mehr: Monster, die dein Gegner kontrolliert, müssen diese Karte angreifen, falls möglich.\n●4: Falls diese Karte ein Monster durch Kampf oder ihren eigenen Effekt zerstört: Ziehe 1 Karte.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

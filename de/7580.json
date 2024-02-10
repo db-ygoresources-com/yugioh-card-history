@@ -1,0 +1,15 @@
+{
+  "id": 7580,
+  "type": "monster",
+  "name": "Jinzo - Lord",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 offenen „Jinzo“, den du kontrollierst, auf den Friedhof legst. Fallenkarten und ihre Effekte auf dem Spielfeld können nicht aktiviert werden. Annulliere alle Falleneffekte auf dem Spielfeld. Einmal pro Spielzug: Du kannst so viele offene Fallen auf dem Spielfeld wie möglich zerstören und falls du dies tust, füge deinem Gegner für jede zerstörte Karte 300 Schaden zu.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

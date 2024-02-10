@@ -1,0 +1,18 @@
+{
+  "id": 13128,
+  "type": "monster",
+  "name": "Dissolvedor Camarartista de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "No começo da Etapa de Dano, se um Monstro Pêndulo seu batalhar um monstro do oponente: você pode Invocar este card por Invocação-Especial da sua mão e, se isso acontecer, seu monstro não pode ser destruído por essa batalha. Você só pode usar este efeito de \"Dissolvedor Camarartista de Olhos Anômalos\" uma vez por turno. Durante sua Fase Principal: você pode Invocar 1 Monstro de Fusão por Invocação-Fusão do seu Deck Adicional, usando monstros da sua mão, do campo e/ou das Zonas de Pêndulo, incluindo este card.",
+  "pendEffect": "Uma vez por turno, durante sua Fase Principal: você pode Invocar 1 Monstro de Fusão Dragão por Invocação-Fusão do seu Deck Adicional, usando monstros da sua mão ou do campo como Matéria de Fusão.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2000,
+  "def": 2600,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

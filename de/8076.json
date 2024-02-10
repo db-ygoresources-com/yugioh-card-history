@@ -1,0 +1,15 @@
+{
+  "id": 8076,
+  "type": "monster",
+  "name": "Victoria",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster vom Typ Drache im Friedhof deines Gegners wählen; beschwöre das gewählte Ziel als Spezialbeschwörung auf deine Spielfeldseite. Dein Gegner kann keine offenen Monster vom Typ Fee als Angriffsziel wählen, außer diesem.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

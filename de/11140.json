@@ -1,0 +1,16 @@
+{
+  "id": 11140,
+  "type": "monster",
+  "name": "Hydrotortoise, der ermächtigte Krieger",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Wähle 1 Zauber-/Fallenkarte, die dein Gegner kontrolliert; zerstöre sie.",
+  "level": 3,
+  "atk": 1400,
+  "def": 900,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

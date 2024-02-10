@@ -1,0 +1,18 @@
+{
+  "id": 11219,
+  "type": "monster",
+  "name": "Künstlerkumpel Drehkröte",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug, während deiner Battle Phase (außer während des Damage Steps): Du kannst 1 Monster wählen, das du kontrollierst; ändere seine Kampfposition und falls du dies tust, vertausche bis zum Ende dieses Spielzugs seine derzeitigen ATK und DEF.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; vertausche bis zum Ende dieses Spielzugs seine derzeitigen ATK und DEF.",
+  "pendScale": 3,
+  "level": 2,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Aqua",
+    "Pendel",
+    "Effekt"
+  ]
+}

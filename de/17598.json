@@ -1,0 +1,16 @@
+{
+  "id": 17598,
+  "type": "monster",
+  "name": "Morphtronischer Scanner",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Morphtronisch“-Monster von deiner Hand verbannst.\n●Angriffsposition: Einmal pro Spielzug, während deiner Main Phase: Du kannst deiner Hand 1 „Morphtronisch“-Zauber/Falle von deinem Deck hinzufügen, dann lege 1 Karte von deiner Hand aufs Deck.\n●Verteidigungsposition: Einmal pro Spielzug, während deiner Main Phase: Du kannst deiner Hand 1 „Morphtronisch“-Monster der Stufe 4 oder niedriger von deinem Friedhof hinzufügen, dann lege 1 Karte von deiner Hand aufs Deck.",
+  "level": 6,
+  "atk": 1500,
+  "def": 600,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

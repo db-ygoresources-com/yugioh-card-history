@@ -1,0 +1,15 @@
+{
+  "id": 6719,
+  "type": "monster",
+  "name": "Turm der Puppen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst diese Karte in die Verteidigungsposition ändern und falls du dies tust, lege 1 ERDE Krieger-Monster von deinem Deck auf deinen Friedhof. Monster, die dein Gegner kontrolliert und die angreifen können, müssen diese Karte angreifen. Einmal pro Spielzug, wenn diese Karte als Angriffsziel gewählt wird: Du kannst 1 ERDE Krieger-Monster der Stufe 6 oder höher in deinem Friedhof wählen; lege diese Karte vom Spielfeld auf den Friedhof und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung, dann ändere das Angriffsziel darauf.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

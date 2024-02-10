@@ -1,0 +1,15 @@
+{
+  "id": 6170,
+  "type": "monster",
+  "name": "Schweigsamer Magier LV8",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch „Schweigsamer Magier LV4“ als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Bleibt von den Zaubereffekten deines Gegners unberührt.",
+  "level": 8,
+  "atk": 3500,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

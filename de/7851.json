@@ -1,0 +1,16 @@
+{
+  "id": 7851,
+  "type": "monster",
+  "name": "Auferstandener König Ha Des",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Seuchenverbreitender Zombie“ + 1+ Zombie-Nicht-Empfänger-Monster\nAnnulliere die Effekte von Effektmonstern, die durch Kampf mit Zombie-Monstern zerstört werden, die du kontrollierst.",
+  "level": 6,
+  "atk": 2450,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

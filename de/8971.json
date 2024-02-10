@@ -1,0 +1,16 @@
+{
+  "id": 8971,
+  "type": "monster",
+  "name": "Donnereinhorn",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger-Monster vom Typ Ungeheuer + 1 oder mehr Nicht-Empfänger-Monster\nEinmal pro Spielzug, während deiner Main Phase, kannst du 1 offenes Monster wählen, das dein Gegner kontrolliert. Es verliert bis zur End Phase 500 ATK für jedes Monster, das du kontrollierst. Während des Spielzugs, in dem dieser Effekt aktiviert wird, kann kein anderes Monster angreifen, außer dieser Karte.",
+  "level": 5,
+  "atk": 2200,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer",
+    "Synchro",
+    "Effekt"
+  ]
+}

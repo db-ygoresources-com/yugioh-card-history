@@ -1,0 +1,15 @@
+{
+  "id": 8145,
+  "type": "monster",
+  "name": "U-Boot-Frosch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu.",
+  "level": 2,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

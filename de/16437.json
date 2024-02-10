@@ -1,0 +1,18 @@
+{
+  "id": 16437,
+  "type": "monster",
+  "name": "Gerätewesen Ventilöwe",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 „Gerätewesen“-Monster\nDiese Karte kann in dem Spielzug, in dem sie als Linkbeschwörung beschworen wurde, nicht als Linkmaterial verwendet werden. Diese Karte kann direkt angreifen. Einmal pro Spielzug, während der Schadensberechnung, falls dein Monster gegen ein Monster eines Gegners kämpft, solange diese Karte kreuzgelinkt ist (Schnelleffekt): Du kannst die ATK des Monsters des Gegners nur während der Schadensberechnung zu 0 werden lassen. Einmal pro Spielzug, während der Schadensberechnung, falls dieses Monster, das nicht kreuzgelinkt ist, gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst die ATK des Monsters des Gegners nur während der Schadensberechnung zu 0 werden lassen.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

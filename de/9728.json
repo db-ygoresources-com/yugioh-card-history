@@ -1,0 +1,15 @@
+{
+  "id": 9728,
+  "type": "monster",
+  "name": "Nadelbarsch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte auf den Friedhof gelegt wird: Wähle 1 offenes Monster, das dein Gegner kontrolliert; jenes gewählte Ziel verliert 500 ATK.",
+  "level": 3,
+  "atk": 1500,
+  "def": 100,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16838,
+  "type": "monster",
+  "name": "Mechanische Monstrosität Darton",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase: Du kannst die Differenz zwischen den derzeitigen und den Grund-ATK jedes Monsters auf dem Spielfeld überprüfen, addiere die Gesamtbeträge dieser Differenzen und lass die Grund-ATK dieses Monster bis zum Ende des nächsten Spielzugs deines Gegners gleich der Summe werden.",
+  "level": 1,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

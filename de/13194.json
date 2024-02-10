@@ -1,0 +1,15 @@
+{
+  "id": 13194,
+  "type": "monster",
+  "name": "Clinsekt",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange diese als Normalbeschwörung beschworene/gesetzte Karte offen auf dem Spielfeld liegt, erhalten alle Cyberse-Monster, die du kontrollierst, nur während deines Spielzugs 500 ATK/DEF. Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 Cyberse-Monster in deiner Hand oder offen auf deiner Spielfeldseite zerstören.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

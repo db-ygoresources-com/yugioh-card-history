@@ -1,0 +1,18 @@
+{
+  "id": 11503,
+  "type": "monster",
+  "name": "Lançaforrinco",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Esta espécie primordial sobreviveu à extinção ao desenvolver uma lança ofensiva que pode perfurar qualquer coisa, embora sua dieta ainda consista principalmente de peixe.",
+  "pendEffect": "Se um Monstro Normal que você controla atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Dinossauro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7380,
+  "type": "monster",
+  "name": "Böser HELD Malicious Fiend",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "„Böser HELD Malicious Edge“ + 1 Unterweltler-Monster der Stufe 6 oder höher\nMuss mit „Finstere Fusion“ als Spezialbeschwörung beschworen werden. Während der Battle Phase deines Gegners werden alle Monster, die er kontrolliert, in die offene Angriffsposition geändert und jedes Monster, das er kontrolliert, muss diese Karte angreifen, falls möglich.",
+  "level": 8,
+  "atk": 3500,
+  "def": 2100,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

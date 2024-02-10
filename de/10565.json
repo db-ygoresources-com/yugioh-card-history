@@ -1,0 +1,16 @@
+{
+  "id": 10565,
+  "type": "monster",
+  "name": "Magischer Totengräber",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 Hexer-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

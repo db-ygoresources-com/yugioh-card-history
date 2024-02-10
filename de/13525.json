@@ -1,0 +1,15 @@
+{
+  "id": 13525,
+  "type": "monster",
+  "name": "Segment-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte als Normalbeschwörung beschwören/setzen, ohne Tribut anzubieten, aber ihre Grund-ATK/-DEF werden halbiert. Einmal pro Spielzug, falls diese als Normalbeschwörung beschworene/gesetzte Karte auf dem Spielfeld liegt (Schnelleffekt): Du kannst diese offene Karte zerstören und falls du dies tust, zerstöre alle Monster in den Main-Monsterzonen, deren ATK kleiner oder gleich den ATK sind, die diese Karte auf dem Spielfeld hatte.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2400,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

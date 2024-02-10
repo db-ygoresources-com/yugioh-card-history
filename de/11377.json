@@ -1,0 +1,16 @@
+{
+  "id": 11377,
+  "type": "monster",
+  "name": "Herold der Endgültigkeit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Orakel des Herolds“ als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden. Wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwören würde ODER eine Zauber-/Fallenkarte oder einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 1 Fee-Monster von deiner Hand auf den Friedhof legen; annulliere die Spezialbeschwörung oder die Aktivierung und falls du dies tust, zerstöre die Karte.",
+  "level": 12,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Fee",
+    "Ritual",
+    "Effekt"
+  ]
+}

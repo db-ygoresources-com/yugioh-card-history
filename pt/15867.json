@@ -1,0 +1,18 @@
+{
+  "id": 15867,
+  "type": "monster",
+  "name": "Agressor de Solarvinhas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Monstro Normal Planta\nSe um Monstro Link \"Solaravalon\" que você controla deixar o campo devido a um efeito de card: destrua este card. Se este card for Invocado por Invocação-Especial: você pode escolher 1 Monstro Link \"Solaravalon\" no campo; este card ganha ATK igual ao Valor Link desse monstro x 800. Quando este card destruir um monstro do oponente em batalha e enviá-lo para o Cemitério: você pode Invocar esse monstro por Invocação-Especial em uma zona sua para a qual um Monstro Link apontar, mas negue seus efeitos.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Planta",
+    "Link",
+    "Efeito"
+  ]
+}

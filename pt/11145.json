@@ -1,0 +1,16 @@
+{
+  "id": 11145,
+  "type": "monster",
+  "name": "Invocador da Tartaruga Verde",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "VIRE: Escolha 1 monstro que seu oponente controla; destrua-o.",
+  "level": 3,
+  "atk": 400,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Virar",
+    "Efeito"
+  ]
+}

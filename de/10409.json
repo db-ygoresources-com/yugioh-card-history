@@ -1,0 +1,16 @@
+{
+  "id": 10409,
+  "type": "monster",
+  "name": "Nixenrüstung Abysstrite",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "3 Monster der Stufe 3\nWährend des Spielzugs eines beliebigen Spielers, wenn dein Gegner genau 1 offenes „Nixenrüstung“-Monster, das du kontrollierst, als Ziel für einen Angriff oder den Effekt eines Zaubers/einer Falle wählt, der diese Karte als Ziel gewählt haben könnte (außer während des Damage Steps): Du kannst 1 Xyz-Material von dieser Karte abhängen; der Angriff/Effekt wählt jetzt diese Karte als Ziel. Wenn diese Karte zerstört und auf den Friedhof gelegt wird: Du kannst 1 „Nixenrüstung“-Monster in deinem Friedhof wählen, außer „Nixenrüstung Abysstrite“; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "rank": 3,
+  "atk": 1600,
+  "def": 2800,
+  "properties": [
+    "Seeschlange",
+    "Xyz",
+    "Effekt"
+  ]
+}

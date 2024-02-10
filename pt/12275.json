@@ -1,0 +1,18 @@
+{
+  "id": 12275,
+  "type": "monster",
+  "name": "Fênix de Luz Camarartista de Olhos Anômalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "(Efeito Rápido): você pode oferecer este card como Tributo e, depois, escolher 1 monstro \"Camarartista\" que você controla; ele ganha 1000 de ATK até o final deste turno.",
+  "pendEffect": "Quando um monstro do oponente declarar um ataque direto enquanto você tiver um card na sua outra Zona de Pêndulo: você pode destruir o card na sua outra Zona de Pêndulo e, se isso acontecer, Invoque este card por Invocação-Especial.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Besta Alada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

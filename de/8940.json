@@ -1,0 +1,16 @@
+{
+  "id": 8940,
+  "type": "monster",
+  "name": "Einhörniger Vertrauter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte in offener Verteidigungsposition angegriffen wird, kannst du 1 Monster, das du kontrollierst, außer dieser Karte, aus dem Spiel entfernen, um diese Karte aus dem Spiel zu entfernen. Das angreifende Monster muss angreifen. Während deiner nächsten Standby Phase, falls diese Karte durch diesen Effekt aus dem Spiel entfernt wurde, kehrt diese Karte aufs Spielfeld zurück.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

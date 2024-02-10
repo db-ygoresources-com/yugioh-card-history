@@ -1,0 +1,16 @@
+{
+  "id": 8947,
+  "type": "monster",
+  "name": "Deltaflieger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug kannst du 1 anderes offenes Monster wählen, das du kontrollierst, und seine Stufe um 1 erhöhen.",
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4434,
+  "type": "monster",
+  "name": "Magier des Glaubens",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Wähle 1 Zauber in deinem Friedhof; füge jenes gewählte Ziel deiner Hand hinzu.",
+  "level": 1,
+  "atk": 300,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

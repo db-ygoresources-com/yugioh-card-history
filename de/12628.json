@@ -1,0 +1,16 @@
+{
+  "id": 12628,
+  "type": "monster",
+  "name": "Hungergift-Fusionsdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 FINSTERNIS Monster auf dem Spielfeld, außer Spielmarken\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der ATK von 1 als Spezialbeschwörung beschworenen Monster des Gegners erhalten lassen. Einmal pro Spielzug: Du kannst 1 Monster der Stufe 5 oder höher wählen, das dein Gegner kontrolliert; bis zur End Phase wird der Name dieser Karte derselbe wie der Grund-Name jenes Monsters und ersetze diesen Effekt durch die Grund-Effekte jenes Monsters. Falls diese als Fusionsbeschwörung beschworene Karte zerstört wird: Du kannst alle als Spezialbeschwörung beschworenen Monster deines Gegners zerstören.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11867,
+  "type": "monster",
+  "name": "Minerva, die erhabene Lichtverpflichtete",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 4\nDu kannst 1 Material von dieser Karte abhängen; lege die obersten 3 Karten deines Decks auf den Friedhof, dann ziehe Karten in Höhe der Anzahl der „Lichtverpflichtet“-Karten, die durch diesen Effekt auf den Friedhof gelegt wurden. Falls diese Karte durch Kampf zerstört wird oder falls diese Karte, die ihrem Besitzer gehört, durch einen Karteneffekt eines Gegners zerstört wird: Du kannst die obersten 3 Karten deines Decks auf den Friedhof legen, dann kannst du Karten auf dem Spielfeld bis zur Anzahl der „Lichtverpflichtet“-Karten zerstören, die durch diesen Effekt auf den Friedhof gelegt wurden. Du kannst jeden Effekt von „Minerva, die erhabene Lichtverpflichtete“ nur einmal pro Spielzug verwenden.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Fee",
+    "Xyz",
+    "Effekt"
+  ]
+}

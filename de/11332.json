@@ -1,0 +1,15 @@
+{
+  "id": 11332,
+  "type": "monster",
+  "name": "Künstlerkumpel Donnerhino",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Monster, die dein Gegner kontrolliert, können keine offenen „Künstlerkumpel“-Monster als Ziel für Angriffe wählen, außer diesem. Falls eine oder mehr „Künstlerkumpel“-Karten, die du kontrollierst, außer „Künstlerkumpel Donnerhino“, durch Kampf oder einen Karteneffekt zerstört würden, solange sich diese Karte in deinem Friedhof befindet, kannst du stattdessen diese Karte verbannen.",
+  "level": 3,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

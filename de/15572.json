@@ -1,0 +1,15 @@
+{
+  "id": 15572,
+  "type": "monster",
+  "name": "Myutant Arsenal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden, außer durch den Effekt einer „Myutant“-Karte. Dein Gegner kann diese Karte nicht als Ziel für Falleneffekte wählen. Du kannst jeden der folgenden Effekte von „Myutant Arsenal“ nur einmal pro Spielzug verwenden. Wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 1 Karte von deiner Hand oder Spielfeldseite verbannen und dann 1 Monster auf dem Spielfeld wählen; verbanne es. Falls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Du kannst 1 deiner verbannten „Myutant“-Zauber wählen; füge ihn deiner Hand hinzu.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

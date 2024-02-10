@@ -1,0 +1,15 @@
+{
+  "id": 10871,
+  "type": "monster",
+  "name": "Geistertrick-Ghul",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Einmal pro Spielzug, während deiner Main Phase 1: Du kannst 1 „Geistertrick“-Monster wählen, das du kontrollierst; seine ATK werden bis zum Ende des nächsten Spielzugs deines Gegners gleich den kombinierten Grund-ATK aller „Geistertrick“-Monster, die sich derzeit auf dem Spielfeld befinden, aber falls sie dies tun, kann in diesem Spielzug nur das Monster angreifen.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

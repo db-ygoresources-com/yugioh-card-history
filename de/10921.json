@@ -1,0 +1,16 @@
+{
+  "id": 10921,
+  "type": "monster",
+  "name": "Mystischer Macrocarpa-Samen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Synchromaterialmonster verwendet werden, außer für die Synchrobeschwörung eines ERDE Monsters. Du kannst 1 ERDE Monster auf dem Spielfeld wählen; verringere seine Stufe um 1. Du kannst den Effekt von „Mystischer Macrocarpa-Samen“ nur bis zu zweimal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

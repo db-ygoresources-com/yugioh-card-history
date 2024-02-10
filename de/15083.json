@@ -1,0 +1,16 @@
+{
+  "id": 15083,
+  "type": "monster",
+  "name": "Wahrsagerin des Herolds",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Fee-Monster von deinem Deck oder Extra Deck auf den Friedhof legen und falls du dies tust, erhöhe die Stufe dieser Karte bis zum Ende dieses Spielzugs um die Stufe jenes Monsters. Falls diese Karte als Tribut angeboten wird: Du kannst 1 Fee-Monster der Stufe 2 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, außer „Wahrsagerin des Herolds“. Du kannst jeden Effekt von „Wahrsagerin des Herolds“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

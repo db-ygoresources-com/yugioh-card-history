@@ -1,0 +1,15 @@
+{
+  "id": 4999,
+  "type": "monster",
+  "name": "Slifer der Himmelsdrache",
+  "englishAttribute": "divine",
+  "localizedAttribute": "GÖTTLICH",
+  "effectText": "Erfordert 3 Tribute, um als Normalbeschwörung beschworen zu werden. (Kann nicht Normal gesetzt werden.) Die Normalbeschwörung dieser Karte kann nicht annulliert werden. Wenn diese Karte als Normalbeschwörung beschworen wird, können weder Karten noch Effekte aktiviert werden. Einmal pro Spielzug, während der End Phase, falls diese Karte als Spezialbeschwörung beschworen wurde: Lege sie auf den Friedhof. Erhält für jede Karte in deiner Hand 1000 ATK/DEF. Falls ein oder mehr Monster als Normal- oder Spezialbeschwörung auf die Spielfeldseite deines Gegners in die Angriffsposition beschworen werden: Jene Monster verlieren 2000 ATK, dann, falls ihre ATK dadurch auf 0 reduziert wurden, zerstöre sie.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Göttliches Ungeheuer",
+    "Effekt"
+  ]
+}

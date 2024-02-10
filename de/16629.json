@@ -1,0 +1,15 @@
+{
+  "id": 16629,
+  "type": "monster",
+  "name": "Käferkavallerie Schuppenbomber",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls ein oder mehr Insekt-Monster als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn der Effekt eines Monsters, das dein Gegner kontrolliert, aktiviert wird (Schnelleffekt): Du kannst 1 Insekt-Monster als Tribut anbieten; zerstöre es. Du kannst jeden Effekt von „Käferkavallerie Schuppenbomber“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

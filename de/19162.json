@@ -1,0 +1,15 @@
+{
+  "id": 19162,
+  "type": "monster",
+  "name": "Schwarzes-Loch-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht durch Karteneffekte zerstört werden. Du kannst jeden der folgenden Effekte von „Schwarzes-Loch-Drache“ nur einmal pro Spielzug verwenden. Falls ein oder mehr Monster auf dem Spielfeld durch einen Karteneffekt zerstört werden, der sie nicht als Ziel wählt (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung vom Friedhof (falls sie dort lag, als die Monster zerstört wurden) oder der Hand (selbst falls nicht) beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; während der End Phase dieses Spielzugs, füge deiner Hand 1 „Schwarzes Loch“ von deinem Deck hinzu.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

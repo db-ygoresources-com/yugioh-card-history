@@ -1,0 +1,16 @@
+{
+  "id": 7056,
+  "type": "monster",
+  "name": "ネイビィロイド",
+  "nameRuby": "ネイビィロイド",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "相手が自分フィールド上の魔法・罠カードを対象に「フィールド上の魔法・罠カードを破壊する」効果を持つカードを発動した時、手札を１枚捨てる事でそのカードの発動と効果を無効にし破壊する。",
+  "level": 4,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "機械族",
+    "効果"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6106,
+  "type": "monster",
+  "name": "Bewaffneter Drache LV5",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst 1 Monster von deiner Hand auf den Friedhof legen und dann 1 Monster wählen, das dein Gegner kontrolliert und dessen ATK kleiner oder gleich den ATK des auf den Friedhof gelegten Monsters sind; zerstöre das gewählte Ziel. Während der End Phase, falls diese Karte in diesem Spielzug ein Monster durch Kampf zerstört hat: Du kannst diese Karte auf den Friedhof legen; beschwöre 1 „Bewaffneter Drache LV7“ als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1700,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

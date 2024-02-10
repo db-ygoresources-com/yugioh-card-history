@@ -1,0 +1,16 @@
+{
+  "id": 4589,
+  "type": "monster",
+  "name": "Wetterbericht",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Zerstört alle „Verräterische Schwerter“, die offen auf der Spielfeldseite deines Gegners liegen. Wenn „Verräterische Schwerter“ zerstört wird, kannst du in diesem Zug zwei Battle Phasen durchführen (oder in deinem nächsten Zug, wenn diese Karte im Zug deines Gegners aktiviert wird).",
+  "level": 4,
+  "atk": 950,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Flipp",
+    "Effekt"
+  ]
+}

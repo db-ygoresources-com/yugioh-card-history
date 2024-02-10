@@ -1,0 +1,18 @@
+{
+  "id": 18489,
+  "type": "monster",
+  "name": "Ernteengel des Schicksals",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Pendelbeschwörung beschworen wird: Du kannst deiner Hand 1 „Horn des Himmels“ von deinem Deck hinzufügen. Falls diese Karte als Tribut angeboten wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Ernteengel des Schicksals“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte zerstören und falls du dies tust, füge deiner Hand 1 „Schwarzes Horn des Himmels“ von deinem Deck hinzu. Du kannst diesen Effekt von „Ernteengel des Schicksals“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

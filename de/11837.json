@@ -1,0 +1,16 @@
+{
+  "id": 11837,
+  "type": "monster",
+  "name": "Künstlerzauberer Trapezmagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster vom Typ Hexer der Stufe 4\nDu erhältst nie Schaden, falls seine Menge kleiner oder gleich den ATK dieser Karte ist. Einmal pro Spielzug, während der Main Phase 1 eines beliebigen Spielers: Du kannst 1 Xyz-Material von dieser Karte abhängen und dann 1 Monster in offener Angriffsposition wählen, das der Zugspieler kontrolliert (außer dieser Karte); es kann während jeder Battle Phase in diesem Spielzug einen zweiten Angriff durchführen, zusätzlich zerstöre es am Ende der Battle Phase. Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird oder falls diese Karte, die dir gehört, durch einen Karteneffekt deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 „Künstlerzauberer“-Monster als Spezialbeschwörung vom Deck beschwören.",
+  "rank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

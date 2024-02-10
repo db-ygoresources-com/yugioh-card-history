@@ -1,0 +1,15 @@
+{
+  "id": 7511,
+  "type": "monster",
+  "name": "Urubonus, der Avatar der Bosheit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Monster, die dein Gegner kontrolliert, verlieren 300 ATK/DEF. Du kannst jeden der folgenden Effekte von „Urubonus, der Avatar der Bosheit“ nur einmal pro Spielzug verwenden. Du kannst 1 Reptil-Monster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst 1 Monster als Tribut anbieten; alle Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs ATK/DEF in Höhe der Grund-ATK des als Tribut angebotenen Monsters.",
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

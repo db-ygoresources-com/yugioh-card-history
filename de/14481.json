@@ -1,0 +1,15 @@
+{
+  "id": 14481,
+  "type": "monster",
+  "name": "Voltester",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Spezialbeschwörung in eine Zone beschworen wird, auf die ein Linkmonster zeigt: Zerstöre alle Linkmonster, die auf diese Karte zeigen, dann zerstöre alle anderen Monster, auf welche die Linkmonster gezeigt haben, und folge den Linkpfeilen aller der zerstörten Monster und zerstöre alles, worauf sie zeigen, und wiederhole den Prozess, bis es nichts mehr zu zerstören gibt. (Diese Karte kann durch diesen Effekt nicht zerstört werden.) Du kannst diesen Effekt von „Voltester“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7543,
+  "type": "monster",
+  "name": "Wurm Apokalypse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Wähle 1 Zauber-/Fallenkarte auf dem Spielfeld; zerstöre das gewählte Ziel.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

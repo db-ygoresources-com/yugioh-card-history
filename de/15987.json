@@ -1,0 +1,18 @@
+{
+  "id": 15987,
+  "type": "monster",
+  "name": "Tarneinsiedler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (offen von deinem Extra Deck) beschworen werden, indem du keine Karten in deinem Extra Deck hast, außer „Tarneinsiedler“. Du kannst „Tarneinsiedler“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese offene Karte in der Monsterzone das Spielfeld verlässt, verbanne sie.",
+  "pendEffect": "Falls du keine Karten in deinem Extra Deck hast, außer „Tarneinsiedler“: Du kannst diese Karte zerstören, dann ziehe 1 Karte. Du kannst diesen Effekt von „Tarneinsiedler“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

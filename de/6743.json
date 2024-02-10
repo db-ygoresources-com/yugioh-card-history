@@ -1,0 +1,15 @@
+{
+  "id": 6743,
+  "type": "monster",
+  "name": "Truckroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte ein Monster deines Gegner durch Kampf zerstört und auf den Friedhof legt: Rüste diese Karte mit dem zerstörten Monster aus. Diese Karte erhält ATK in Höhe der kombinierten ATK der Monster, die sie durch diesen Effekt ausrüsten.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

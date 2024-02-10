@@ -1,0 +1,16 @@
+{
+  "id": 13715,
+  "type": "monster",
+  "name": "Erwachen des Erzunterweltlers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Vertrag mit der Unterwelt“ als Ritualbeschwörung beschwören. Der Name dieser Karte wird auf dem Spielfeld zu „Herbeigerufener Totenkopf“, aber sie wird weiterhin als „Erzunterweltler“-Karte behandelt. Kann nicht durch Kampf zerstört werden, außer durch Kampf mit einem Ritualmonster, und kann nicht durch Monstereffekte zerstört werden, außer durch die von Ritualmonstern. Falls diese als Ritualbeschwörung beschworene Karte, die du kontrollierst, durch eine Karte eines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 „Herbeigerufener Totenkopf“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10266,
+  "type": "monster",
+  "name": "Nummer 9: Dyson-Sphäre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 9\nWährend deiner Main Phase 1, falls dein Gegner ein Monster mit höheren ATK als diese Karte kontrolliert: Du kannst 1 Material von dieser Karte abhängen; diese Karte kann in diesem Spielzug direkt angreifen. Einmal pro Battle Step, falls diese Karte mit Material angegriffen wird (Schnelleffekt): Du kannst den Angriff annullieren. Wenn diese Karte als Ziel für einen Angriff gewählt wird, solange sie kein Material hat: Du kannst 2 Monster in deinem Friedhof wählen; hänge die Monster als Material an diese Karte an.",
+  "rank": 9,
+  "atk": 2800,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

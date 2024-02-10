@@ -1,0 +1,18 @@
+{
+  "id": 13396,
+  "type": "monster",
+  "name": "Mythisches Ungeheuer Schakal-König",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 2 Zauberzählmarken auf diese Karte, wenn der Zauber aufgelöst wird. Einmal pro Spielzug, wenn ein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 2 Zauberzählmarken von deiner Spielfeldseite entfernen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.",
+  "pendEffect": "Falls du keine Karte in deiner anderen Pendelzone hast: Du kannst diese Karte zerstören und falls du dies tust, beschwöre 1 offenes „Mythisches Ungeheuer“-Pendelmonster als Spezialbeschwörung von deinem Extra Deck, außer „Mythisches Ungeheuer Schakal-König“. Du kannst diesen Effekt von „Mythisches Ungeheuer Schakal-König“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2400,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12739,
+  "type": "monster",
+  "name": "Camarartista Faz Rir",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Quando este card declarar um ataque: você pode fazer com que este card ganhe 1000 de ATK para cada monstro no campo cujo ATK atual seja maior que seu ATK original, exceto outros monstros que você controla, até o final da Fase de Batalha. Se este card for destruído em batalha ou por um efeito de card enquanto seu ATK atual for maior que seu ATK original: você pode escolher 1 monstro no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar 1 efeito de monstro de \"Camarartista Faz Rir\" por turno e apenas uma vez por turno.",
+  "pendEffect": "Uma vez por turno, se seu oponente controlar um monstro cujo ATK atual seja maior que seu ATK original: você pode ganhar 1000 PV.",
+  "pendScale": 5,
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

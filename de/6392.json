@@ -1,0 +1,15 @@
+{
+  "id": 6392,
+  "type": "monster",
+  "name": "Finsterer Katapultierer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während deiner Standby Phase, falls diese Karte in Verteidigungsposition ist, lege 1 Zählmarke auf diese Karte. Entferne eine Anzahl von Karten in Höhe der Zählmarken auf dieser Karte aus deinem Friedhof aus dem Spiel, um die gleiche Anzahl von Zauber- oder Fallenkarten auf dem Spielfeld zu zerstören. Dann entferne alle Zählmarken von dieser Karte.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

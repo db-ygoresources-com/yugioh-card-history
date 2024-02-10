@@ -1,0 +1,15 @@
+{
+  "id": 9264,
+  "type": "monster",
+  "name": "Meklord-Imperator Wisel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Wenn ein offenes Monster, das du kontrollierst, durch einen Karteneffekt zerstört und auf den Friedhof gelegt wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Andere Monster, die du kontrollierst, können keinen Angriff deklarieren. Einmal pro Spielzug: Du kannst 1 Synchromonster wählen, das dein Gegner kontrolliert; rüste diese Karte mit jenem gewählten Ziel aus. Diese Karte erhält ATK in Höhe der kombinierten ATK der Monster, mit denen sie durch diesen Effekt ausgerüstet ist. Einmal pro Spielzug, wenn dein Gegner eine Zauberkarte aktiviert (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre sie.",
+  "level": 1,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

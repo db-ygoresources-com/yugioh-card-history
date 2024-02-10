@@ -1,0 +1,16 @@
+{
+  "id": 9962,
+  "type": "monster",
+  "name": "Digvorzhak, König der Schwerindustrie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "3 Monster der Stufe 5\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; lege die obersten 3 Karten des Decks deines Gegners auf den Friedhof, dann, falls durch diesen Effekt Monster auf den Friedhof gelegt wurden, zerstöre Karten, die dein Gegner kontrolliert, bis zur Anzahl der auf den Friedhof gelegten Monster.",
+  "rank": 5,
+  "atk": 3200,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

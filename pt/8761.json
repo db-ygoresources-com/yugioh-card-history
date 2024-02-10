@@ -1,0 +1,15 @@
+{
+  "id": 8761,
+  "type": "monster",
+  "name": "Sacerdotisa do Coveiro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Enquanto não houver Magias de Campo com a face para cima, o campo é considerado como \"Necro-Vale\". Todos os monstros \"do Coveiro\" no campo ganham 200 de ATK/DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

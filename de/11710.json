@@ -1,0 +1,15 @@
+{
+  "id": 11710,
+  "type": "monster",
+  "name": "Büroboter 004",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte gegen ein Monster deines Gegners kämpft, während der Schadensberechnung (im Spielzug eines beliebigen Spielers): Du kannst diesen Effekt einmal pro Kampf aktivieren; dein Gegner erhält für den Rest dieses Spielzugs keinen Kampfschaden, zusätzlich lege 1 „Büroboter“-Monster von deinem Deck auf den Friedhof, außer „Büroboter 004“, und falls du dies tust, erhält diese Karte nur während der Schadensberechnung ATK und DEF in Höhe der Stufe des auf den Friedhof gelegten Monsters x 500. Falls diese Karte ein Monster deines Gegners durch Kampf zerstört: Du kannst 2 „Büroboter“-Monster mit unterschiedlichen Stufen als Spezialbeschwörung von deiner Hand und/oder deinem Friedhof in die Verteidigungsposition beschwören.",
+  "level": 4,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

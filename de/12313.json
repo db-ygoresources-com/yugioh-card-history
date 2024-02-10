@@ -1,0 +1,15 @@
+{
+  "id": 12313,
+  "type": "monster",
+  "name": "Gendo, der asketische Mönch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Die Effekte von Monstern in offener Angriffsposition auf dem Spielfeld können nicht aktiviert werden. Diese Karte in Verteidigungsposition kann weder als Ziel für Karteneffekte gewählt noch durch diese zerstört werden.",
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

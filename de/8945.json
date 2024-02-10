@@ -1,0 +1,15 @@
+{
+  "id": 8945,
+  "type": "monster",
+  "name": "Minenmaulwurf",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Das erste Mal in jedem Spielzug, dass diese Karte durch Kampf zerstört würde, wird sie nicht zerstört. Falls diese Karte für die Synchrobeschwörung eines Ungeheuer-Monsters auf den Friedhof gelegt wird: Ziehe 1 Karte. Falls diese offene Karte, die du kontrollierst, das Spielfeld durch einen Karteneffekt deines Gegners verlässt, verbanne sie.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

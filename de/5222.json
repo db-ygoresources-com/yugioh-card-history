@@ -1,0 +1,15 @@
+{
+  "id": 5222,
+  "type": "monster",
+  "name": "Dunkle Todesfurcht",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Unterweltler-Monster von deinem Friedhof verbannst. Während der End Phase, falls sich diese Karte in deinem Friedhof befindet, weil sie in diesem Spielzug in deiner Monsterzone durch eine Karte eines Gegners zerstört und dorthin gelegt wurde: Wähle 1 offenes Monster, das dein Gegner kontrolliert; rüste jenes gewählte Ziel mit dieser Karte aus. Solange diese Karte durch diesen Effekt ein Monster ausrüstet, übernimm die Kontrolle über jenes Monster.",
+  "level": 8,
+  "atk": 2200,
+  "def": 2800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

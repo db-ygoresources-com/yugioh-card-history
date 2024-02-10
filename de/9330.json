@@ -1,0 +1,16 @@
+{
+  "id": 9330,
+  "type": "monster",
+  "name": "Loki, Herr der Asen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Nordischer Elf“-Empfänger + 2+ Nicht-Empfänger-Monster\nEinmal pro Spielzug, wenn dein Gegner während deiner Battle Phase eine Zauber-/Fallenkarte aktiviert (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre sie. Einmal pro Spielzug, während der End Phase, falls diese offene Karte, die du kontrolliert hast, in diesem Spielzug durch eine Karte deines Gegners zerstört und auf deinen Friedhof gelegt wurde: Du kannst 1 „Nordischer Elf“-Empfänger von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung. Wenn sie auf diese Art beschworen wird: Du kannst 1 Falle in deinem Friedhof wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 10,
+  "atk": 3300,
+  "def": 3000,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

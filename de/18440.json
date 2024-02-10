@@ -1,0 +1,18 @@
+{
+  "id": 18440,
+  "type": "monster",
+  "name": "D/D/D/D-Superdimensionaler Kaiserherrscher Zero Paradox",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Wenn du ein oder mehr Monster als Pendelbeschwörung beschwörst, solange die Summe der Pendelbereiche in deinen Pendelzonen höher ist als die Summe der Stufen der als Pendelbeschwörung beschworenen Monster: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, zerstöre so viele andere Karten auf dem Spielfeld wie möglich, dann kannst du diese Karte in deine Pendelzone legen. Einmal pro Spielzug, falls ein oder mehr andere offene „D/D/D“-Monster, die du kontrollierst, das Spielfeld durch eine Zauberkarte oder einen Zaubereffekt verlassen: Die ATK dieser Karte werden zu 6000.",
+  "pendEffect": "Du kannst 1 Karte in der Pendelzone deines Gegners wählen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, lege jene Karte in deine Pendelzone, aber zerstöre sie während der End Phase des nächsten Spielzugs. Du kannst diesen Effekt von „D/D/D/D-Superdimensionaler Kaiserherrscher Zero Paradox“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 10,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

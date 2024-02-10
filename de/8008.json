@@ -1,0 +1,16 @@
+{
+  "id": 8008,
+  "type": "monster",
+  "name": "Fallenfresser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 offene Falle, die dein Gegner kontrolliert, auf den Friedhof legst.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

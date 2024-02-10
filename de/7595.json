@@ -1,0 +1,16 @@
+{
+  "id": 7595,
+  "type": "monster",
+  "name": "Ryko, Lichtverpflichteter Jäger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Führe diese Effekte (gleichzeitig) aus.\n●Du kannst 1 Karte auf dem Spielfeld zerstören.\n●Lege die obersten 3 Karten deines Decks auf den Friedhof.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

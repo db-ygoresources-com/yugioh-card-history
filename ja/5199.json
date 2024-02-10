@@ -1,0 +1,17 @@
+{
+  "id": 5199,
+  "type": "monster",
+  "name": "ファイヤーソーサラー",
+  "nameRuby": "ファイヤーソーサラー",
+  "englishAttribute": "fire",
+  "localizedAttribute": "炎属性",
+  "effectText": "リバース：自分の手札を２枚ランダムに選択しゲームから除外する。相手ライフに８００ポイントダメージを与える。",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "魔法使い族",
+    "リバース",
+    "効果"
+  ]
+}

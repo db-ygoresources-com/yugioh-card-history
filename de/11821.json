@@ -1,0 +1,15 @@
+{
+  "id": 11821,
+  "type": "monster",
+  "name": "Aromagister Bergamotte",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange du mehr LP als dein Gegner hast, falls ein Monster vom Typ Pflanze, das du kontrollierst, ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Einmal pro Spielzug, falls du LP erhältst: Diese Karte erhält bis zum Ende des Spielzugs deines Gegners 1000 ATK und DEF.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

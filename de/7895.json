@@ -1,0 +1,16 @@
+{
+  "id": 7895,
+  "type": "monster",
+  "name": "Kamerad Schwertkämpfer von Landstern",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Alle Monster vom Typ Krieger, die du kontrollierst, erhalten 400 ATK.",
+  "level": 3,
+  "atk": 500,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

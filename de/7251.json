@@ -1,0 +1,15 @@
+{
+  "id": 7251,
+  "type": "monster",
+  "name": "Der große Saturn",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung von der Hand oder vom Deck beschworen werden. Einmal pro Spielzug, während deiner Main Phase, kannst du 1 Karte abwerfen und 1000 Life Points zahlen, um diese Karte bis zur End Phase 1000 ATK erhalten zu lassen. Wenn diese Karte durch einen Karteneffekt deines Gegners zerstört und auf den Friedhof gelegt wird, erhalten beide Spieler Schaden in Höhe der ATK dieser Karte.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

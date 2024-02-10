@@ -1,0 +1,18 @@
+{
+  "id": 11700,
+  "type": "monster",
+  "name": "Zefraniu, Segredo de Yang Zing",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando este card for Invocado por Invocação-Pêndulo ou quando este card for destruído em batalha ou por um efeito de card enquanto estiver na sua Zona de Monstros: você pode adicionar 1 Magia/Armadilha \"Yang Zing\" ou \"Zefra\" do seu Deck à sua mão. Você só pode usar este efeito de \"Zefraniu, Segredo de Yang Zing\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Yang Zing\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 0,
+  "def": 2600,
+  "properties": [
+    "Wyrm",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

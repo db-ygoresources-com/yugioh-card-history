@@ -1,0 +1,15 @@
+{
+  "id": 5335,
+  "type": "monster",
+  "name": "Ryu-Geist",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während deines Battle Steps, falls diese Karte kämpft (Schnelleffekt): Du kannst 1 Drache-Monster auf den Friedhof abwerfen; diese Karte erhält bis zum Ende der Battle Phase 1000 ATK/DEF.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

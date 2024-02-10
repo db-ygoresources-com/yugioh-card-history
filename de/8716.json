@@ -1,0 +1,16 @@
+{
+  "id": 8716,
+  "type": "monster",
+  "name": "Dracheneinheit Corsesca",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn ein Monster, das mit dieser Karte ausgerüstet ist, ein Monster eines Gegners durch Kampf zerstört: Du kannst deiner Hand 1 Monster der Stufe 4 oder niedriger von deinem Deck hinzufügen, das denselben Typ und dieselbe Eigenschaft hat wie das Monster, das diese Karte ausrüstet.",
+  "level": 1,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

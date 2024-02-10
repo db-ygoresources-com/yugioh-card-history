@@ -1,0 +1,16 @@
+{
+  "id": 7710,
+  "type": "monster",
+  "name": "Juttekämpfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du 1 Monster in offener Angriffsposition, das dein Gegner kontrolliert, in die offene Verteidigungsposition ändern.",
+  "level": 2,
+  "atk": 700,
+  "def": 900,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

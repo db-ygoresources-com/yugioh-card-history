@@ -1,0 +1,16 @@
+{
+  "id": 5663,
+  "type": "monster",
+  "name": "Magischer Händler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Grabe die obersten Karten deines Decks aus, bis du eine/n Zauber/Falle ausgräbst, dann füge die Karte deiner Hand hinzu, zusätzlich lege die übrigen Karten auf den Friedhof.",
+  "level": 1,
+  "atk": 200,
+  "def": 700,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

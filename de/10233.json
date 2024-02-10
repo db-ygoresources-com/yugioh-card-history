@@ -1,0 +1,15 @@
+{
+  "id": 10233,
+  "type": "monster",
+  "name": "Sonnenwindjammer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, aber ihre Grund-ATK und -DEF werden halbiert. Während jeder deiner Standby Phasen: Erhöhe die Stufe dieser Karte um 1. Es kann nur 1 „Sonnenwindjammer“ auf dem Spielfeld liegen.",
+  "level": 5,
+  "atk": 800,
+  "def": 2400,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

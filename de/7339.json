@@ -1,0 +1,16 @@
+{
+  "id": 7339,
+  "type": "monster",
+  "name": "Bronto-Drachenrochen",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte offen auf dem Spielfeld liegt, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Die Grund-ATK dieser Karte werden zu 2300. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert. Die Kampfposition dieser Karte kann bis zum Ende deines nächsten Zuges nicht geändert werden, außer durch einen Karteneffekt.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Fisch",
+    "Zwilling",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12701,
+  "type": "monster",
+  "name": "Künstlerkumpel Goldener Reißzahn",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Alle „Künstlerkumpel“-Monster, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 200 ATK.",
+  "pendEffect": "Einmal pro Spielzug, falls dein „Künstlerkumpel“-Monster ein Monster eines Gegners durch Kampf zerstört: Füge deinem Gegner 1000 Schaden zu.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

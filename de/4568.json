@@ -1,0 +1,16 @@
+{
+  "id": 4568,
+  "type": "monster",
+  "name": "Nadelwurm",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Lege die obersten 5 Karten des Decks deines Gegners auf den Friedhof.",
+  "level": 2,
+  "atk": 750,
+  "def": 600,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

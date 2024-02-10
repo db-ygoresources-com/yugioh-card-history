@@ -1,0 +1,18 @@
+{
+  "id": 11696,
+  "type": "monster",
+  "name": "Cavaleirostelar Zefraxciton",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card for Invocado por Invocação-Normal, Virar ou Pêndulo: você pode escolher 1 outro card \"Cavaleirost\" ou \"Zefra\" nas suas Zonas de Monstro ou Zonas de Pêndulo e 1 card Baixado que seu oponente controla; destrua-os. Você só pode usar este efeito de \"Cavaleirostelar Zefraxciton\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Cavaleirost\" e \"Zefra\". Este efeito não pode ser negado.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5138,
+  "type": "monster",
+  "name": "폭탄 벌레",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "리버스 : 상대 필드 위의 뒷면 수비 표시 몬스터 카드 1장을 확인한다. 효과 몬스터일 경우는 파괴하고(리버스 효과는 발동하지 않는다), 다를 경우에는 원래대로 되돌린다.",
+  "level": 2,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "곤충족",
+    "리버스",
+    "효과"
+  ]
+}

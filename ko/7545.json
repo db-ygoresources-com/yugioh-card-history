@@ -1,0 +1,16 @@
+{
+  "id": 7545,
+  "type": "monster",
+  "name": "웜 카르타로스",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "리버스 : 자신의 덱에서 레벨 4 이하의 \"웜\"이라는 이름이 붙은 파충류족 몬스터 1장을 패에 넣는다.",
+  "level": 4,
+  "atk": 1200,
+  "def": 500,
+  "properties": [
+    "파충류족",
+    "리버스",
+    "효과"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19152,
+  "type": "monster",
+  "name": "Schlangenauge Flambergendrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst 1 offenes Monster auf dem Spielfeld oder in einem beliebigen Friedhof wählen; lege es offen als Permanenten Zauber in die Zauber- & Fallenzone seines Besitzers. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 Monsterkarte auf dem Spielfeld wählen, die als Permanenter Zauber behandelt wird; beschwöre sie als Spezialbeschwörung auf deine Spielfeldseite. Falls diese Karte von der Hand oder dem Spielfeld auf den Friedhof gelegt wird: Du kannst 2 FEUER Monster der Stufe 1 als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Schlangenauge Flambergendrache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

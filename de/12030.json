@@ -1,0 +1,18 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "Künstlerkumpel Trompanda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn dein Pendelmonster als Ziel für einen Angriff gewählt wird: Du kannst den Angriff annullieren. Du kannst diesen Effekt von „Künstlerkumpel Trompanda“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst den Pendelbereich dieser Karte um 1 erhöhen (max. 12).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

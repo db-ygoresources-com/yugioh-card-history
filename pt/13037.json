@@ -1,0 +1,18 @@
+{
+  "id": 13037,
+  "type": "monster",
+  "name": "Card Gardna Camarartista",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Ganha DEF igual à DEF original combinada de todos os outros monstros \"Camarartista\" que você controla.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima em Posição de Defesa que você controla; sua DEF se torna igual à DEF original combinada de todos os monstros com a face para cima em Posição de Defesa que você controla atualmente (mesmo que este card deixe o campo).",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Rocha",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8574,
+  "type": "monster",
+  "name": "Genex-Verbündeter Dreiarm",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Genex-Überwacher“ + 1 oder mehr Nicht-Empfänger-Monster\nDie Effekte dieser Karte hängen von den Eigenschaften ihrer Nicht-Empfänger-Synchromaterialmonster ab. Einmal pro Spielzug kannst du 1 Karte abwerfen, um einen ihrer Effekte zu aktivieren:\n●WIND: Lege 1 zufällige Karte von der Hand deines Gegners auf den Friedhof.\n●WASSER: Wähle 1 Zauber-/Fallenkarte auf dem Spielfeld und zerstöre sie.\n●FINSTERNIS: Wähle 1 offenes LICHT Monster auf dem Spielfeld, zerstöre es und ziehe 1 Karte.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

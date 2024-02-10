@@ -1,0 +1,15 @@
+{
+  "id": 11010,
+  "type": "monster",
+  "name": "Dynatherium",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Dynatherium“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Wenn er auf diese Art beschworen wird: Dein Gegner kann 1 Monster der Stufe 4 im Friedhof eines beliebigen Spielers wählen; er beschwört das gewählte Ziel als Spezialbeschwörung auf seine Spielfeldseite.",
+  "level": 4,
+  "atk": 1600,
+  "def": 600,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

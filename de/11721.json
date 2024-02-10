@@ -1,0 +1,16 @@
+{
+  "id": 11721,
+  "type": "monster",
+  "name": "Glasflügel-Synchrodrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug, wenn der Effekt eines anderen Monsters der Stufe 5 oder höher auf dem Spielfeld aktiviert wird (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre es. Einmal pro Spielzug, wenn ein Monstereffekt aktiviert wird, der 1 Monster der Stufe 5 oder höher auf dem Spielfeld (und keine anderen Karten) als Ziel wählt (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre es. Falls der Effekt dieser Karte ein Monster zerstört, erhält diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des zerstörten Monsters.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

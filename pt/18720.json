@@ -1,0 +1,16 @@
+{
+  "id": 18720,
+  "type": "monster",
+  "name": "Xeno Meteossauro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Se um ou mais cards forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua mão. Durante sua Fase Principal: você pode destruir 1 monstro Dinossauro na sua mão ou no campo e, depois, Invoque por Invocação-Especial 1 Monstro Normal Dinossauro da sua mão ou do Deck e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto monstros Dragão, Dinossauro, Serpente Marinha ou Wyrm. Você só pode usar cada efeito de \"Xeno Meteossauro\" uma vez por turno.",
+  "level": 6,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Dinossauro",
+    "Regulador",
+    "Efeito"
+  ]
+}

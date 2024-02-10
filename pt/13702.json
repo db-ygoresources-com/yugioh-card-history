@@ -1,0 +1,19 @@
+{
+  "id": 13702,
+  "type": "monster",
+  "name": "Espírito do Kendo Kai-Den",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode selecionar 1 card na sua Zona de Pêndulo e enviar para o Cemitério todos os cards que seu oponente controla na mesma coluna que esse card. Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Normal ou virado com a face para cima neste turno: devolva este card para a mão.",
+  "pendEffect": "Se um ou mais monstros forem Invocados por Invocação-Pêndulo: devolva este card da Zona de Pêndulo para a mão.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Espírito",
+    "Efeito"
+  ]
+}

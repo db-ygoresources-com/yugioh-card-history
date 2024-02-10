@@ -1,0 +1,19 @@
+{
+  "id": 14946,
+  "type": "monster",
+  "name": "Lib die Weltschlüssel-Klingenmeisterin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster\nKann nur als Linkbeschwörung beschworen werden, solange du eine „Weltvermächtnis“-Karte in deinem Friedhof hast. Du kannst jeden der folgenden Effekte von „Lib die Weltschlüssel-Klingenmeisterin“ nur einmal pro Spielzug verwenden.\n●Während deiner Main Phase: Du kannst 1 „Weltvermächtnis“-Zauber/Falle direkt von deinem Deck setzen, aber er oder sie kann in diesem Spielzug nicht aktiviert werden, solange du kein „Weltvermächtnis“-Monster in deinem Friedhof hast.\n●Falls diese als Linkbeschwörung beschworene Karte als Linkmaterial auf den Friedhof gelegt wird: Du kannst 1 Karte auf dem Spielfeld ins Deck mischen.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "1"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6540,
+  "type": "monster",
+  "name": "Bewaffneter Drache LV10",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Bewaffneter Drache LV7“ als Tribut anbietest. Du kannst 1 Karte von deiner Hand auf den Friedhof legen; zerstöre alle offenen Monster, die dein Gegner kontrolliert.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

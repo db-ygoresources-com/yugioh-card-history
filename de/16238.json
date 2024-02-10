@@ -1,0 +1,19 @@
+{
+  "id": 16238,
+  "type": "monster",
+  "name": "Eilpaparazzi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Effektmonster\nWenn ein anderes Monster, das du kontrollierst, als Angriffsziel gewählt wird: Du kannst das Angriffsziel auf diese Karte ändern und die Schadensberechnung durchführen. Wenn diese Karte durch Kampf mit einem Monster eines Gegners zerstört wird: Du kannst das Monster des Gegners zerstören und falls du dies tust, erhältst du LP in Höhe der Hälfte der Grund-ATK des Monsters. Du kannst jeden Effekt von „Eilpaparazzi“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 100,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

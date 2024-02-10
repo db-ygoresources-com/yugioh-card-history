@@ -1,0 +1,15 @@
+{
+  "id": 6742,
+  "type": "monster",
+  "name": "Decoyroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange diese Karte offen auf deiner Spielfeldseite liegt, kann dein Gegner keine offenen Monster außer „Decoyroid“ als Angriffsziel wählen.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14738,
+  "type": "monster",
+  "name": "Rauchmoskito",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während der Schadensberechnung, falls du Kampfschaden vom Angriff eines Monsters eines Gegners erhalten würdest (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, wird der Schaden halbiert, den du aus jenem Kampf erhältst, zusätzlich beende die Battle Phase nach dem Damage Step. Du kannst 1 offenes Monster wählen, das du kontrollierst; die Stufe dieser Karte wird bis zum Ende dieses Spielzugs dieselbe wie die jenes Monsters. Du kannst jeden Effekt von „Rauchmoskito“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

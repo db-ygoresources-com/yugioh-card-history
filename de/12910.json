@@ -1,0 +1,19 @@
+{
+  "id": 12910,
+  "type": "monster",
+  "name": "Weißflügel-Magierin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "(Diese Karte wird immer als „Synchrodrache“-Karte behandelt.)\nFalls diese als Pendelbeschwörung beschworene Karte für eine Synchrobeschwörung verwendet wird, verbanne sie.",
+  "pendEffect": "Einmal pro Spielzug, wenn eine aktivierte Karte oder ein aktivierter Effekt aufgelöst wird, die oder der ein FINSTERNIS Monster vom Typ Hexer, das du kontrollierst, als Ziel wählt, annulliere den Effekt, dann zerstöre diese Karte.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

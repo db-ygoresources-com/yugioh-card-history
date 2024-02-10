@@ -1,0 +1,15 @@
+{
+  "id": 6531,
+  "type": "monster",
+  "name": "Mythisches Ungeheuer Cerberus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Diese Karte erhält 500 ATK für jede Zauberzählmarke auf ihr. Am Ende der Battle Phase, falls diese Karte gekämpft hat, entferne alle Zauberzählmarken von ihr.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

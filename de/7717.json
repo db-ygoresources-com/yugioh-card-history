@@ -1,0 +1,15 @@
+{
+  "id": 7717,
+  "type": "monster",
+  "name": "Gedankenbeschützer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Der Beherrscher dieser Karte muss während jeder seiner Standby Phasen 500 Life Points zahlen. Falls er das nicht kann, zerstöre diese Karte. Monster mit 2000 oder weniger ATK, außer Monster vom Typ Psi, können nicht angreifen.",
+  "level": 3,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

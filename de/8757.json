@@ -1,0 +1,15 @@
+{
+  "id": 8757,
+  "type": "monster",
+  "name": "Drachenwache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Jedes Mal, wenn ein Monster als Normalbeschwörung beschworen oder gesetzt wird, lege 1 Drachen-Zählmarke auf diese Karte. Du kannst diese offene Karte auf den Friedhof legen, um 1 Monster vom Typ Drache als Spezialbeschwörung von deinem Deck zu beschwören, dessen Stufe kleiner oder gleich der Anzahl der Drachen-Zählmarken auf dieser Karte ist.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

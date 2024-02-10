@@ -1,0 +1,16 @@
+{
+  "id": 14062,
+  "type": "monster",
+  "name": "Rotäugiger Zombie-Nekrodrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nErhält für jedes Zombie-Monster auf dem Spielfeld und in den Friedhöfen 100 ATK/DEF. Wenn ein anderes Zombie-Monster durch Kampf zerstört wird: Du kannst 1 Zombie-Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite beschwören. Du kannst diesen Effekt von „Rotäugiger Zombie-Nekrodrache“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

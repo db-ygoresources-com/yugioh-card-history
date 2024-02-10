@@ -1,0 +1,19 @@
+{
+  "id": 17355,
+  "type": "monster",
+  "name": "Mamonaka die vereinten Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "3 „Vaylantz“-Monster\nWährend der Main Phase (Schnelleffekt): Du kannst 1 Effektmonster in der Main-Monsterzone deines Gegners wählen; lege jenes Monster des Gegners als Permanenten Zauber offen in seine Zauber- & Fallenzone in seine eigene Spalte. (Falls die Zone belegt ist, zerstöre die sie belegende Karte und falls es eine Monsterkarte ist, verliert dein Gegner LP in Höhe ihrer ATK.) Du kannst diesen Effekt von „Mamonaka die vereinten Vaylantz“ nur einmal pro Spielzug verwenden. Falls diese als Spezialbeschwörung beschworene Karte, die du kontrollierst, durch einen Karteneffekt deines Gegners zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Du kannst 1 dieser Effekte aktivieren;\n●Beschwöre diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte.\n●Bewege 1 Monster in deiner Main-Monsterzone in eine (waagerecht) benachbarte Monsterzone.\nDu kannst diesen Effekt von „Mamonaka die vereinten Vaylantz“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

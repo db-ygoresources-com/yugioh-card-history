@@ -1,0 +1,16 @@
+{
+  "id": 9494,
+  "type": "monster",
+  "name": "Telepathisches Mädchen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese aus dem Spiel entfernte Karte als Spezialbeschwörung beschworen wird, entferne die oberste Karte deines Decks verdeckt aus dem Spiel. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird, füge die aus dem Spiel entfernte Karte deiner Hand hinzu.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13704,
+  "type": "monster",
+  "name": "Revenschrecken Henker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit einem beliebigen „Venschrecken“-Ritualzauber als Ritualbeschwörung beschwören. Der Name dieser Karte wird zu „Revenschrecken Schlächter“, solange sie auf dem Spielfeld liegt. Solange diese als Ritualbeschwörung beschworene Karte auf dem Spielfeld liegt, kann dein Gegner Karten, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, außer dieser Karte. Falls diese als Ritualbeschwörung beschworene Karte durch Kampf zerstört wird, oder durch einen Karteneffekt eines Gegners zerstört wird, solange sie in der Monsterzone ihres Besitzers liegt: Du kannst deiner Hand 1 „Venschrecken“-Karte von deinem Deck hinzufügen. Du kannst diesen Effekt von „Revenschrecken Henker“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Ritual",
+    "Effekt"
+  ]
+}

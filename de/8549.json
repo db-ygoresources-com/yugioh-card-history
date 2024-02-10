@@ -1,0 +1,16 @@
+{
+  "id": 8549,
+  "type": "monster",
+  "name": "Genex-Verbündeter Fernbedienung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug kannst du 1 offenes Empfänger-Monster auf dem Spielfeld wählen. Der Name des gewählten Monsters wird bis zur End Phase als „Genex-Überwacher“ behandelt.",
+  "level": 3,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

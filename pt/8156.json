@@ -1,0 +1,15 @@
+{
+  "id": 8156,
+  "type": "monster",
+  "name": "Forte Dragão do Vento",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Não pode ser destruído em batalha por um monstro que tenha o mesmo ATK. Se este card for Invocado por Invocação-Tributo pelo Tributo de um monstro do Tipo Dragão: ele ganha ATK igual à metade do ATK original do monstro oferecido como Tributo. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

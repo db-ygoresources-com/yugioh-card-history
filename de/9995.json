@@ -1,0 +1,15 @@
+{
+  "id": 9995,
+  "type": "monster",
+  "name": "Übelschar-Golem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Nicht-FINSTERNIS Monster der Stufe 5 oder höher auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "level": 5,
+  "atk": 2150,
+  "def": 1250,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

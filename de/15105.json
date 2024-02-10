@@ -1,0 +1,16 @@
+{
+  "id": 15105,
+  "type": "monster",
+  "name": "Steinbefreier-Entstiegener - Drachit",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nWährend deiner Main Phase: Du kannst die obersten 5 Karten deines Decks ausgraben und falls du dies tust, kannst du Karten, die dein Gegner kontrolliert, bis zur Anzahl der ausgegrabenen Fels-Monster auf die Hand zurückgeben, zusätzlich lege die ausgegrabenen Karten in beliebiger Reihenfolge unter dein Deck. Wenn dein Gegner eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktiviert, solange sich ein WASSER Monster in deinem Friedhof befindet (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre sie. Du kannst jeden Effekt von „Steinbefreier-Entstiegener - Drachit“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Fels",
+    "Synchro",
+    "Effekt"
+  ]
+}

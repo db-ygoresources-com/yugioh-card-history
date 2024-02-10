@@ -1,0 +1,16 @@
+{
+  "id": 15086,
+  "type": "monster",
+  "name": "Tobender Kampfpanzer Säbelrhino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDu kannst eine beliebige Anzahl Karten abwerfen; diese Karte erhält für jede abgeworfene Karte 700 ATK. Am Ende der Battle Phase, falls diese Karte gekämpft hat: Du kannst diese Karte auf den Friedhof legen; beschwöre Monster, deren gemeinsame Stufe 7 entspricht, außer „Tobender Kampfpanzer Säbelrhino“, als Spezialbeschwörung von deinem Friedhof, aber ihre Effekte werden annulliert. Du kannst jeden Effekt von „Tobender Kampfpanzer Säbelrhino“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10111,
+  "type": "monster",
+  "name": "Fischborg-Werfer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines WASSER Synchromonsters. Falls du ein oder mehr Monster, außer „Fischborg-Werfer“, in deinem Friedhof hast und alle von ihnen WASSER sind: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Fischborg-Werfer“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Fisch",
+    "Empfänger",
+    "Effekt"
+  ]
+}

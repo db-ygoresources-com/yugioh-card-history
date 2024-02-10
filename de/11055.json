@@ -1,0 +1,16 @@
+{
+  "id": 11055,
+  "type": "monster",
+  "name": "Mecha-Phantomungeheuer O-Löwon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange du eine Spielmarke kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 „Mecha-Phantomungeheuer-Spielmarke“ (Maschine/WIND/Stufe 3/ATK 0/DEF 0) als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Mecha-Phantomungeheuer O-Löwon“ nur einmal pro Spielzug verwenden. Du kannst diese Karte von deinem Friedhof verbannen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 „Mecha-Phantomungeheuer“-Monster als Normalbeschwörung von deiner Hand.",
+  "level": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

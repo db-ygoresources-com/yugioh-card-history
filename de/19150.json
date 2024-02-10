@@ -1,0 +1,15 @@
+{
+  "id": 19150,
+  "type": "monster",
+  "name": "Schlangenauge Eiche",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 deiner FEUER Monster der Stufe 1 wählen, das verbannt ist oder sich in deinem Friedhof befindet; füge es entweder deiner Hand hinzu oder beschwöre es als Spezialbeschwörung. Du kannst 2 offene Karten, die du kontrollierst, darunter diese Karte, auf den Friedhof legen; beschwöre 1 „Schlangenauge“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Schlangenauge Eiche“. Du kannst jeden Effekt von „Schlangenauge Eiche“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 900,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

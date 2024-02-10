@@ -1,0 +1,19 @@
+{
+  "id": 16849,
+  "type": "monster",
+  "name": "D/D/D-Erfinderkönig Deus Machinex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Unterweltler-Monster der Stufe 10\nDu kannst diese Karte auch als Xyz-Beschwörung beschwören, indem du ein „D/D/D“-Monster, das du kontrollierst, als das Material verwendest. (Transferiere sein Material an diese Karte.) Du kannst nur 1 „D/D/D-Erfinderkönig Deus Machinex“ in deiner Monsterzone kontrollieren. Einmal pro Kette, wenn der Effekt einer Monsterkarte, die dein Gegner kontrolliert, aktiviert wird (Schnelleffekt): Du kannst entweder 2 Material von dieser Karte abhängen oder 1 „Dunkler Vertrag“-Karte, die du kontrollierst, zerstören und falls du dies tust, hänge jene Karte des Gegners als Material an diese Karte an. Einmal pro Spielzug, während deiner Standby Phase: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Solange du eine Karte in deiner anderen Pendelzone hast: Du kannst 1 Pendelmonster wählen, das du kontrollierst oder das sich in deinem Friedhof befindet; beschwöre die Karte in deiner anderen Pendelzone als Spezialbeschwörung und falls du dies tust, lege jenes als Ziel gewählte Pendelmonster in deine Pendelzone. Du kannst diesen Effekt von „D/D/D-Erfinderkönig Deus Machinex“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 10,
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

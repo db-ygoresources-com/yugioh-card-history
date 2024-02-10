@@ -1,0 +1,15 @@
+{
+  "id": 10051,
+  "type": "monster",
+  "name": "Insektor Glühwürmchen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Falls diese Karte mit einer „Insektor“-Karte ausgerüstet wird: Du kannst dir alle gesetzten Karten ansehen, die dein Gegner kontrolliert. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 1 erhöht, zusätzlich erhält es ATK und DEF in Höhe der ATK und DEF dieser Karte.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

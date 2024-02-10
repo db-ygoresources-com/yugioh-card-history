@@ -1,0 +1,16 @@
+{
+  "id": 14586,
+  "type": "monster",
+  "name": "Böser HELD Malicious Bane",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Böser HELD“-Monster + 1 Monster der Stufe 5 oder höher\nMuss mit „Finstere Fusion“ als Spezialbeschwörung beschworen werden. Kann weder durch Kampf noch durch Karteneffekte zerstört werden. Während deiner Main Phase: Du kannst alle Monster zerstören, die dein Gegner kontrolliert und deren ATK kleiner oder gleich denen dieser Karte sind, zusätzlich erhält diese Karte für jedes auf diese Art zerstörte Monster 200 ATK, zusätzlich kannst du für den Rest dieses Spielzugs keinen Angriff deklarieren, außer mit „HELD“-Monstern. Du kannst diesen Effekt von „Böser HELD Malicious Bane“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

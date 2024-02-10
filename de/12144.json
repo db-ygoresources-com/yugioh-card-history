@@ -1,0 +1,18 @@
+{
+  "id": 12144,
+  "type": "monster",
+  "name": "Leitende Ariadne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 3 Konterfallen von deinem Deck vorzeigen, dein Gegner bestimmt 1, die du deiner Hand hinzufügst, und du mischst die restlichen in dein Deck zurück.",
+  "pendEffect": "Wende diese Effekte an.\n●Du zahlst keine LP, um Konterfallenkarten zu aktivieren.\n●Du wirfst keine Karten ab, um Konterfallenkarten zu aktivieren.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

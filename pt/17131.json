@@ -1,0 +1,18 @@
+{
+  "id": 17131,
+  "type": "monster",
+  "name": "Predaplanta Triantis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for enviado para o Cemitério ou adicionado ao seu Deck Adicional com a face para cima porque foi usado como Matéria de Fusão: você pode selecionar monstros no campo, até o número de monstros que você controla e colocar 1 Marcador de Predador em cada um e, se isso acontecer, quaisquer desses monstros que forem de Nível 2 ou mais se tornam de Nível 1 enquanto tiverem um Marcador de Predador.",
+  "pendEffect": "Enquanto este card estiver na sua Zona de Pêndulo, se você Invocar por Invocação-Fusão um Monstro de Fusão de TREVAS, você também pode usar cards nas suas Zonas de Pêndulo como se fossem monstros no campo, como matéria para sua Invocação-Fusão.",
+  "pendScale": 8,
+  "level": 8,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Planta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

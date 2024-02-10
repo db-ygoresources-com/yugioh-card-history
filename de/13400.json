@@ -1,0 +1,16 @@
+{
+  "id": 13400,
+  "type": "monster",
+  "name": "Mahjong-Bronzemännchen-Mädchen",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Du kannst 1 Karte ziehen, dann wirf 1 Karte ab.\nEinmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern.",
+  "level": 2,
+  "atk": 200,
+  "def": 2000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12882,
+  "type": "monster",
+  "name": "Künstlerkumpel Barrakuda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers: Du kannst 1 „Künstlerkumpel“-Monster wählen, dessen derzeitige ATK nicht seinen Grund-ATK entsprechen; es erhält bis zum Ende dieses Spielzugs ATK in Höhe der Differenz. Du kannst diesen Effekt von „Künstlerkumpel Barrakuda“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug, falls dein „Künstlerkumpel“-Monster gegen ein Monster deines Gegners kämpft, vor der Schadensberechnung: Du kannst das Monster deines Gegners ATK in Höhe der Differenz zwischen seinen Grund- und seinen derzeitigen ATK verlieren lassen (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 5,
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Pflanze",
+    "Pendel",
+    "Effekt"
+  ]
+}

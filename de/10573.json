@@ -1,0 +1,15 @@
+{
+  "id": 10573,
+  "type": "monster",
+  "name": "Beißbug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls dein Gegner ein offenes Xyz-Monster kontrolliert, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Wenn du dies tust: Wähle 1 Monster, das dein Gegner kontrolliert; das Monster verliert 300 ATK.",
+  "level": 3,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

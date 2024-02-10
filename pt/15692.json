@@ -1,0 +1,15 @@
+{
+  "id": 15692,
+  "type": "monster",
+  "name": "Dragão Armado do Trovão LV10",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se este card foi Invocado por Invocação-Especial pelo efeito de um monstro \"Dragão Armado\", ele ganha os seguintes efeitos de acordo com seu ATK.\n●1+: Seu nome se torna \"Dragão Armado LV10\".\n●10+: Seu controle não pode ser trocado.\n●100+: Não pode ser destruído em batalha.\n●1000+: Uma vez por turno do oponente (Efeito Rápido): você pode enviar 1 card da sua mão para o Cemitério e, depois, escolha 1 outro card no campo; destrua-o e, se isso acontecer, este card ganha 1000 de ATK.\n●10000+: Uma vez por turno: você pode destruir todos os outros cards no campo.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

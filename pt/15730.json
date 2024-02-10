@@ -1,0 +1,19 @@
+{
+  "id": 15730,
+  "type": "monster",
+  "name": "Parametalmorfose Azortless",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "1 monstro \"Metalmorfose\" + 1 Monstro de Fusão\nSe este card for Invocado por Invocação-Especial do Deck Adicional: você pode escolher 1 card que seu oponente controla; embaralhe no Deck 2 Monstros Pêndulo com a face para cima do seu Deck Adicional e, se isso acontecer, destrua esse card. Você só pode usar este efeito de \"Parametalmorfose Azortless\" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se um ou mais cards \"Metalmorfose\" com a face para cima que você controla forem destruídos por um efeito de card (exceto durante a Etapa de Dano): você pode escolher 1 card com a face para cima no campo; destrua-o. Você só pode usar este efeito de \"Parametalmorfose Azortless\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psíquico",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

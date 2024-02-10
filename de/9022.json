@@ -1,0 +1,15 @@
+{
+  "id": 9022,
+  "type": "monster",
+  "name": "Unteroffizier Elektro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 gesetzte Karte in der Zauber- & Fallenzone deines Gegners wählen; solange diese Karte offen auf dem Spielfeld liegt, können ihre gewählten Ziele nicht aktiviert werden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

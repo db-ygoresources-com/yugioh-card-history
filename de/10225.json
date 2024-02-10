@@ -1,0 +1,15 @@
+{
+  "id": 10225,
+  "type": "monster",
+  "name": "Achacha-Chanbara",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers, wenn eine Karte oder ein Effekt aktiviert wird, die oder der bei Auflösung Schaden zufügen wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, füge deinem Gegner 400 Schaden zu.",
+  "level": 3,
+  "atk": 1400,
+  "def": 400,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

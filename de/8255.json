@@ -1,0 +1,15 @@
+{
+  "id": 8255,
+  "type": "monster",
+  "name": "Wurm Tentacles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du 1 „Wurm“-Monster vom Typ Reptil in deinem Friedhof aus dem Spiel entfernen, um dieser Karte zu erlauben, zweimal während derselben Battle Phase anzugreifen.",
+  "level": 4,
+  "atk": 1700,
+  "def": 700,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

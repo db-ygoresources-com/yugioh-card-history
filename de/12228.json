@@ -1,0 +1,19 @@
+{
+  "id": 12228,
+  "type": "monster",
+  "name": "D/D-Orthros",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn du Kampf- oder Effektschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Spezialbeschwörung auf deine Spielfeldseite beschworen wird, kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Monstern vom Typ Unterweltler.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 Zauber-/Fallenkarte auf dem Spielfeld und 1 andere „D/D“- oder „Dunkler Vertrag“-Karte, die du kontrollierst, wählen; zerstöre sie.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

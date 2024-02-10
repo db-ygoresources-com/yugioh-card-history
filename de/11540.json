@@ -1,0 +1,18 @@
+{
+  "id": 11540,
+  "type": "monster",
+  "name": "Qliphort-Monolith",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Unbehandelte Ausnahme an 0x1i-666 in qliphort.exe: Zugriffsverletzung beim Schreiben an 0x00-000\nDiesen Fehler ignorieren und fortfahren? ＜J／N＞...[ ]\nWvi Plmgzpg afn Svrortvm Yzfn rhg eviylgvm. Wrv Tvrhhvo dfiwv vmguvhhvog.",
+  "pendEffect": "Du kannst keine Monster als Spezialbeschwörung beschwören, außer „Qli“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug, während der End Phase, falls du in diesem Spielzug eine Tributbeschwörung durchgeführt hast: Du kannst eine Anzahl Karten ziehen in Höhe der Anzahl „Qli“-Monster, die du in diesem Spielzug als Tribut für Tributbeschwörungen angeboten hast.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Normal"
+  ]
+}

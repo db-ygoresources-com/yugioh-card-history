@@ -1,0 +1,18 @@
+{
+  "id": 17112,
+  "type": "monster",
+  "name": "Künstlerkumpel Klassikuriboh",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte durch ihren eigenen Pendeleffekt zerstört wird: Beende die Battle Phase. Du kannst jeden der folgenden Effekte von „Künstlerkumpel Klassikuriboh“ nur einmal pro Spielzug verwenden. Du kannst diese Karte abwerfen und dann 1 Karte in deiner Pendelzone wählen; ihr Pendelbereich wird bis zum Ende dieses Spielzugs zu 1. Wenn du Kampfschaden erhältst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Wenn ein Monster eines Gegners einen direkten Angriff deklariert, wird diese Karte zerstört.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

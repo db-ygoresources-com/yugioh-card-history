@@ -1,0 +1,18 @@
+{
+  "id": 14129,
+  "type": "monster",
+  "name": "Dragão-Guarda Pisty",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 monstro Dragão de Nível 4 ou menos\nVocê não pode Invocar monstros por Invocação-Especial, exceto monstros Dragão. Durante sua Fase Principal: você pode escolher 1 dos seus monstros Dragão que estiver banido ou no seu Cemitério; Invoque-o por Invocação-Especial em uma zona sua para a qual 2 ou mais Monstros Link apontarem. Você só pode usar este efeito de \"Dragão-Guarda Pisty\" uma vez por turno. Você só pode Invocar um ou mais \"Dragão-Guarda Pisty\" por Invocação-Especial uma vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "6"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Dragão",
+    "Link",
+    "Efeito"
+  ]
+}

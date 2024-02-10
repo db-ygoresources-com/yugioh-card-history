@@ -1,0 +1,16 @@
+{
+  "id": 11254,
+  "type": "monster",
+  "name": "Büroboter 001",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Erhält für jedes Maschine-Monster, das du kontrollierst, 500 ATK/DEF. Falls 2 oder mehr Maschine-Monster gleichzeitig als Spezialbeschwörung beschworen werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12143,
+  "type": "monster",
+  "name": "Doriado Sombrio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode selecionar 4 monstros do seu Deck (1 de TERRA, 1 de ÁGUA, 1 de FOGO e 1 de VENTO) e, depois, coloque-os no topo do Deck em qualquer ordem.",
+  "pendEffect": "Todos os monstros de TERRA, ÁGUA, FOGO e VENTO que você controla ganham 200 de ATK/DEF para cada Atributo diferente entre os monstros que você controla.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

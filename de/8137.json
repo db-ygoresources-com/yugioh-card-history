@@ -1,0 +1,16 @@
+{
+  "id": 8137,
+  "type": "monster",
+  "name": "Werkzeugdrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 3 Ausrüstungszauber von deinem Deck vorzeigen, dann fügt dein Gegner zufällig 1 von ihnen deiner Hand hinzu und du mischst die anderen Karten ins Deck. Falls diese Karte zerstört würde, solange sie mit einem oder mehr Ausrüstungszaubern ausgerüstet ist, kannst du stattdessen 1 der Karten auf den Friedhof legen.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

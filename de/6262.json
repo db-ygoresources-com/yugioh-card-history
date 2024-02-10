@@ -1,0 +1,15 @@
+{
+  "id": 6262,
+  "type": "monster",
+  "name": "Rettungskatze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte auf den Friedhof legen; beschwöre 2 Ungeheuer-Monster der Stufe 3 oder niedriger als Spezialbeschwörung von deinem Deck, aber ihre Effekte werden annulliert, zusätzlich werden sie während der End Phase zerstört. Du kannst diesen Effekt von „Rettungskatze“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

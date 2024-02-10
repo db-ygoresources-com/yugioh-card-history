@@ -1,0 +1,15 @@
+{
+  "id": 8619,
+  "type": "monster",
+  "name": "Golem mit magischem Loch",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug kannst du 1 offenes Monster wählen, das du kontrollierst. Seine ATK werden bis zur End Phase halbiert und es kann deinen Gegner in diesem Spielzug direkt angreifen. Während des Spielzugs, in dem du diesen Effekt aktivierst, kann nur das gewählte Monster angreifen.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

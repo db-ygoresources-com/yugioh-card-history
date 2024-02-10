@@ -1,0 +1,15 @@
+{
+  "id": 13067,
+  "type": "monster",
+  "name": "Dragão do Castigo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao possuir 4 ou mais monstros \"Luminoso(a)\" com nomes diferentes banidos. Uma vez por turno (Efeito Rápido): você pode pagar 1000 PV; embaralhe nos Decks, todos os cards dos Cemitérios e todos os cards banidos com a face para cima, exceto monstros \"Luminoso(a)\". Uma vez por turno, se o efeito de um monstro \"Luminoso(a)\" seu for ativado: envie os 4 cards do topo do seu Deck para o Cemitério.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

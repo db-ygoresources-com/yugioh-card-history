@@ -1,0 +1,16 @@
+{
+  "id": 11370,
+  "type": "monster",
+  "name": "Valerifaun, mystisches Ungeheuer des Waldes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst 1 Karte abwerfen und dann 1 Ungeheuer-Monster der Stufe 2 oder niedriger in deinem Friedhof wählen, außer „Valerifaun, mystisches Ungeheuer des Waldes“; beschwöre es als Spezialbeschwörung in die Angriffsposition oder die verdeckte Verteidigungsposition. Du kannst diesen Effekt von „Valerifaun, mystisches Ungeheuer des Waldes“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

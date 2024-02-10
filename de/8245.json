@@ -1,0 +1,16 @@
+{
+  "id": 8245,
+  "type": "monster",
+  "name": "Naturia-Tulpe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Jedes Mal, wenn dein Gegner eine Zauber-/Fallenkarte aktiviert, erhalten alle „Naturia“-Monster, die du kontrollierst, für den Rest dieses Spielzugs 500 ATK.",
+  "level": 2,
+  "atk": 600,
+  "def": 1500,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

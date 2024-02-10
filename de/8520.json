@@ -1,0 +1,15 @@
+{
+  "id": 8520,
+  "type": "monster",
+  "name": "Schildwurm",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte beschworen wird, wird sie in die Verteidigungsposition geändert. Lege dann für jedes offene Monster vom Typ Insekt, das du kontrollierst, die 1 oberste Karte vom Deck deines Gegners auf den Friedhof.",
+  "level": 4,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

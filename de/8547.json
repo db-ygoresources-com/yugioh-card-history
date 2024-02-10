@@ -1,0 +1,16 @@
+{
+  "id": 8547,
+  "type": "monster",
+  "name": "Der sagenhafte Rubyruda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese offene Karte, die du kontrollierst, angegriffen wird, kannst du 1 „Sagenhaft“-Monster abwerfen, um den Angriff zu annullieren.",
+  "level": 4,
+  "atk": 1100,
+  "def": 800,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

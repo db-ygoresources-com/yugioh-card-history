@@ -1,0 +1,19 @@
+{
+  "id": 17145,
+  "type": "monster",
+  "name": "Dragão-Pêndulografo de Olhos Anômalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com \"Advento do Olhos Anômalos\". Deve ser Invocado por Invocação-Ritual, ou por Invocação-Pêndulo da sua mão. Sempre que seu oponente Invocar um ou mais monstros por Invocação-Especial do Deck Adicional, cause 300 de dano a ele. Uma vez por turno, quando seu oponente ativar um Card de Magia ou seus efeitos (Efeito Rápido): você pode colocar este card na sua Zona de Pêndulo e, se isso acontecer, negue esse efeito e, depois, se você colocou este card Invocado por Invocação-Ritual na Zona de Pêndulo, você pode Invocar por Invocação-Especial 1 monstro \"Olhos Anômalos\" do seu Deck Adicional.",
+  "pendEffect": "Durante a Fase Final: você pode adicionar à sua mão 1 Magia de Ritual do seu Deck ou Cemitério e, depois, devolva este card para a mão. Você só pode usar este efeito de \"Dragão-Pêndulografo de Olhos Anômalos\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2700,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Ritual",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

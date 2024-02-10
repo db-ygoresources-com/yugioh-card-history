@@ -1,0 +1,15 @@
+{
+  "id": 10306,
+  "type": "monster",
+  "name": "Schwesdonner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 LICHT Monster vom Typ Donner der Stufe 4 mit 1600 oder weniger ATK in deinem Friedhof wählen, außer „Schwesdonner“; verbanne das gewählte Ziel. Während der End Phase dieses Spielzugs, füge die Karte deiner Hand hinzu.",
+  "level": 4,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

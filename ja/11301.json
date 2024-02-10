@@ -1,0 +1,19 @@
+{
+  "id": 11301,
+  "type": "monster",
+  "name": "EMシルバー・クロウ",
+  "nameRuby": "エンタメイトシルバー・クロウ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "①：このカードの攻撃宣言時に発動する。自分フィールドの「EM」モンスターの攻撃力はバトルフェイズ終了時まで３００アップする。",
+  "pendEffect": "①：自分フィールドの「EM」モンスターの攻撃力は３００アップする。",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "獣族",
+    "ペンデュラム",
+    "効果"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8010,
+  "type": "monster",
+  "name": "Finsterer Bastler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte, die du kontrollierst, auf den Friedhof gelegt wird, sieh dir die oberste Karte deines Decks an. Lege die Karte entweder auf oder unter dein Deck zurück.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1300,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

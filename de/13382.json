@@ -1,0 +1,16 @@
+{
+  "id": 13382,
+  "type": "monster",
+  "name": "Tinwinkel-Beschützer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst bis zu 3 Monster in verdeckter Verteidigungsposition, die du kontrollierst, in die offene Verteidigungsposition ändern, dann, falls alle die Monster „Tinwinkel“-Monster sind, kannst du deiner Hand bis zu so viele „Tinwinkel“-Karten von deinem Deck hinzufügen. Du kannst diesen Effekt von „Tinwinkel-Beschützer“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9117,
+  "type": "monster",
+  "name": "Dragão da Explosão Estelar",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Monstro Sincro Regulador + \"Dragão da Poeira Estelar\"\nUma vez por turno: você pode escavar os 5 cards do topo do seu Deck, embaralhá-los de volta no Deck e, além disso, o número máximo de ataques deste card por Fase de Batalha neste turno é igual ao número de monstros Reguladores escavados. Uma vez por turno, quando um card ou efeito for ativado que destruiria um ou mais cards no campo (Efeito Rápido): você pode negar o efeito e, se isso acontecer, destrua-o. Uma vez por turno, quando um monstro do oponente declarar um ataque: você pode escolher o monstro atacante; bana este card e, se isso acontecer, negue o ataque. Durante a próxima Fase Final: Invoque por Invocação-Especial este card banido por este efeito.",
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Sincro",
+    "Efeito"
+  ]
+}

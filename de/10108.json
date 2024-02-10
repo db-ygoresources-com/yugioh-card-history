@@ -1,0 +1,15 @@
+{
+  "id": 10108,
+  "type": "monster",
+  "name": "Schneestaubdrache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 4 Eis-Zählmarken von irgendwo auf dem Spielfeld entfernst. Andere Monster mit Eis-Zählmarken können weder angreifen noch ihre Kampfpositionen ändern.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

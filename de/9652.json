@@ -1,0 +1,15 @@
+{
+  "id": 9652,
+  "type": "monster",
+  "name": "Geisterschiff",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss zuerst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT Monster von deinem Friedhof verbannst.",
+  "level": 5,
+  "atk": 1900,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

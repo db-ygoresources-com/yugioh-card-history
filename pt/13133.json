@@ -1,0 +1,19 @@
+{
+  "id": 13133,
+  "type": "monster",
+  "name": "D/D/D Armagedom Negro, o Super Rei do Fim",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros \"D/D/D\" de Nível 8\nNão pode ser Invocado por Invocação-Pêndulo. Quando este card for Invocado por Invocação-Xyz: você pode associar 1 Monstro Pêndulo \"D/D\" com a face para cima do seu Deck Adicional a este card como matéria. Monstros Pêndulo que você controla não podem ser destruídos por efeitos de card. Uma vez por turno: você pode desassociar 1 matéria deste card e, depois, escolher monstros que seu oponente controla, igual ao número de Monstros Pêndulo que você controla; destrua-os. Se este card na sua Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno, se você tiver um card \"D/D\" na sua outra Zona de Pêndulo: você pode Invocar por Invocação-Especial 1 Monstro Xyz \"D/D/D\" do seu Deck Adicional, exceto \"D/D/D Armagedom Negro, o Super Rei do Fim\".",
+  "pendScale": 1,
+  "rank": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demônio",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

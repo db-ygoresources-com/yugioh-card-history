@@ -1,0 +1,15 @@
+{
+  "id": 10985,
+  "type": "monster",
+  "name": "Sylvanische Mikorange",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte, die du kontrollierst, durch eine Karte deines Gegners (entweder durch Kampf oder durch einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof. Lege sie andernfalls unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Alle Monster vom Typ Pflanze, die du derzeit kontrollierst, erhalten 300 ATK und DEF.",
+  "level": 3,
+  "atk": 400,
+  "def": 1100,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

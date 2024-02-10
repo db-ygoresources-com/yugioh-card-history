@@ -1,0 +1,15 @@
+{
+  "id": 12703,
+  "type": "monster",
+  "name": "Schicksals-HELD - Dynatag",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während der Schadensberechnung, wenn du Kampfschaden erhalten würdest (Schnelleffekt): Du kannst diese Karte abwerfen; lasse dich selbst keinen Kampfschaden aus dem Kampf erhalten und falls du dies tust, erhält jeder Spieler 1000 Schaden. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Schicksals-HELD“-Monster wählen, das du kontrollierst; es erhält bis zum Ende des nächsten Spielzugs deines Gegners 1000 ATK.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

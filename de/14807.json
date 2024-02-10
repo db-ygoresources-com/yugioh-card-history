@@ -1,0 +1,16 @@
+{
+  "id": 14807,
+  "type": "monster",
+  "name": "Beschwörer-Bischof",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 FEUER Krieger-Monster oder 1 Zwillingsmonster in deinem Friedhof wählen, außer „Beschwörer-Bischof“; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Beschwörer-Bischof“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Zwilling",
+    "Effekt"
+  ]
+}

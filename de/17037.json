@@ -1,0 +1,16 @@
+{
+  "id": 17037,
+  "type": "monster",
+  "name": "Hexwerkerin Vize-Madam",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Hexwerker“-Monster + 1 Hexer-Monster\nWenn eine Zauberkarte, ein Zaubereffekt oder ein Effekt eines Hexer-Nichtfusions-Monsters aktiviert wird (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren (aber du kannst jeden Effekt von „Hexwerkerin Vize-Madam“ nur einmal pro Spielzug verwenden).\n●Zerstöre 1 Karte auf dem Spielfeld.\n●Beschwöre 1 „Hexwerker“-Monster der Stufe 6 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck.\n●Füge deiner Hand 1 „Hexwerker“-Zauber/Falle von deinem Friedhof hinzu.",
+  "level": 8,
+  "atk": 2700,
+  "def": 2800,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

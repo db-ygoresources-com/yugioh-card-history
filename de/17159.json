@@ -1,0 +1,19 @@
+{
+  "id": 17159,
+  "type": "monster",
+  "name": "Jenseits des Pendels",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Effektmonster, darunter ein Pendelmonster\nFalls diese Karte als Linkbeschwörung in die Extra-Monsterzone beschworen wird: Du kannst 1200 LP zahlen; füge deiner Hand 1 Pendelmonster von deinem Deck hinzu, aber für den Rest dieses Spielzugs kannst du keine Monstereffekte aktivieren und die Effekte von Karten in deinen Pendelzonen werden annulliert, es sei denn, du führst eine Pendelbeschwörung durch, nachdem dieser Effekt aufgelöst wurde. Falls 2 Monster mit unterschiedlichen Grund-Stufen gleichzeitig als Pendelbeschwörung in die Zonen beschworen werden, auf die diese Karte zeigt: Du kannst 2 Karten auf dem Spielfeld wählen; zerstöre sie. Du kannst diesen Effekt von „Jenseits des Pendels“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

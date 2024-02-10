@@ -1,0 +1,19 @@
+{
+  "id": 12373,
+  "type": "monster",
+  "name": "EMブランコブラ",
+  "nameRuby": "エンタメイトブランコブラ",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "①：このカードは直接攻撃できる。②：このカードは攻撃した場合、バトルフェイズ終了時に守備表示になる。",
+  "pendEffect": "①：１ターンに１度、自分のモンスターが相手に戦闘ダメージを与えた時に発動できる。相手のデッキの一番上のカードを墓地へ送る。",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "爬虫類族",
+    "ペンデュラム",
+    "効果"
+  ]
+}

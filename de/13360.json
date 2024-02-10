@@ -1,0 +1,16 @@
+{
+  "id": 13360,
+  "type": "monster",
+  "name": "Samurai Zerstörer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte gegen ein Monster eines Gegners kämpft, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren, zusätzlich bleiben die Effekte des Monsters eines Gegners nur während der Battle Phase annulliert. Falls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt eines Gegners verlässt: Du kannst 1 Maschine-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1400,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

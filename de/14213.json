@@ -1,0 +1,16 @@
+{
+  "id": 14213,
+  "type": "monster",
+  "name": "Magier des Chaos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Chaosform“ als Ritualbeschwörung beschwören. Der Name dieser Karte wird zu „Dunkler Magier“, solange sie auf dem Spielfeld oder im Friedhof liegt. Einmal pro Spielzug, wenn eine Zauber-/Fallenkarte oder ein Zauber-/Falleneffekt aktiviert wird (Schnelleffekt): Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie. Falls diese als Ritualbeschwörung beschworene Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Chaos“- oder „Schwarz Glänzender Soldat“-Ritualmonster als Spezialbeschwörung von deiner Hand beschwören, außer „Magier des Chaos“, ungeachtet seiner Beschwörungsbedingungen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Ritual",
+    "Effekt"
+  ]
+}

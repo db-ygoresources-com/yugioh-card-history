@@ -1,0 +1,15 @@
+{
+  "id": 14581,
+  "type": "monster",
+  "name": "Verfluchende Todesfurcht",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Du kannst 3 deiner verbannten Unterweltler-Monster wählen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, mische jene verbannten Monster ins Deck. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug in deiner Monsterzone durch eine Karte eines Gegners zerstört und dorthin gelegt wurde: Beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof, dann kannst du Karten zerstören, die dein Gegner kontrolliert, bis zur Anzahl der offenen Zauber/Fallen mit unterschiedlichen Namen, die du kontrollierst. Du kannst jeden Effekt von „Verfluchende Todesfurcht“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

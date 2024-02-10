@@ -1,0 +1,18 @@
+{
+  "id": 13304,
+  "type": "monster",
+  "name": "D/D/D-Supervisier-König Zero Maxwell",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Vor der Schadensberechnung, falls diese Karte ein Monster eines Gegners in Verteidigungsposition angreift: Du kannst die DEF jenes Monsters des Gegners bis zum Ende des Damage Steps zu 0 ändern. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Du erhältst keinen Kampfschaden aus Kämpfen, an denen diese Karte beteiligt ist.",
+  "pendEffect": "Du kannst 1 offenes Monster auf dem Spielfeld wählen; seine DEF werden bis zum Ende dieses Spielzugs zu 0 (selbst falls diese Karte das Spielfeld verlässt). Du kannst diesen Effekt von „D/D/D-Supervisier-König Zero Maxwell“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

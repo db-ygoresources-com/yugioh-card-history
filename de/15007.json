@@ -1,0 +1,15 @@
+{
+  "id": 15007,
+  "type": "monster",
+  "name": "Alte Krieger - Furchterregender Zhang Yuan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Alle anderen „Alte Krieger“-Monster, die du kontrollierst, können nicht durch Kampf zerstört werden. Du kannst jeden der folgenden Effekte von „Alte Krieger - Furchterregender Zhang Yuan“ nur einmal pro Spielzug verwenden.\n●Am Beginn des Damage Steps, wenn dein „Alte Krieger“-Monster gegen ein offenes Monster eines Gegners kämpft: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, verliert das Monster des Gegners 1000 ATK.\n●Falls eine oder mehr Karten, die dein Gegner kontrolliert, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

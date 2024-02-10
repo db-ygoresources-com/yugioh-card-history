@@ -1,0 +1,17 @@
+{
+  "id": 12383,
+  "type": "monster",
+  "name": "Magische Kavallerie von Cxulub",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte bleibt von den aktivierten Effekten von Monstern unberührt, außer von denen von Pendelmonstern.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Dinosaurier",
+    "Pendel",
+    "Effekt"
+  ]
+}

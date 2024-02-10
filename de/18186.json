@@ -1,0 +1,19 @@
+{
+  "id": 18186,
+  "type": "monster",
+  "name": "Plünderpatrouillen-Schiff Jord",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst deiner Hand 1 „Plünderpatrouillen“-Karte von deinem Deck hinzufügen, dann, falls diese Karte mit einer „Plünderpatrouillen“-Karte ausgerüstet ist, kannst du 1 „Plünderpatrouillen“-Monster als Spezialbeschwörung von deinem Deck beschwören. Du kannst 1 „Plünderpatrouillen“-Karte in deinem Friedhof wählen; füge sie deiner Hand hinzu und falls du dies tust, lege diese Karte in deine Pendelzone. Du kannst jeden Effekt von „Plünderpatrouillen-Schiff Jord“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 Eigenschaft deklarieren; lege diese Karte ins Extra Deck zurück und falls du dies tust, beschwöre 1 „Plünderpatrouillen-Spielmarke“ (Unterweltler/Stufe 4/ATK 0/DEF 0) mit jener Eigenschaft als Spezialbeschwörung auf die Spielfeldseiten beider Spieler in die Verteidigungsposition. Du kannst diesen Effekt von „Plünderpatrouillen-Schiff Jord“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 1500,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

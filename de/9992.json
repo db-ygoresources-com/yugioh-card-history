@@ -1,0 +1,16 @@
+{
+  "id": 9992,
+  "type": "monster",
+  "name": "Übelschar-Azzathoth",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 1 als Spezialbeschwörung beschworenes Monster auf dem Spielfeld; mische das gewählte Ziel ins Deck.",
+  "level": 4,
+  "atk": 750,
+  "def": 1950,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

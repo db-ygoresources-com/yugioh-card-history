@@ -1,0 +1,15 @@
+{
+  "id": 15981,
+  "type": "monster",
+  "name": "Richterin der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du ein anderes „Eisbarriere“-Monster kontrollierst, verliert dein Gegner jedes Mal, wenn er eine Karte oder einen Effekt aktiviert, indem er LP zahlt, 500 LP. Du kannst jeden der folgenden Effekte von „Richterin der Eisbarriere“ nur einmal pro Spielzug verwenden. Du kannst 1 oder 2 „Eisbarriere“-Monster in deinem Friedhof und 1 oder 2 Karten im Friedhof deines Gegners wählen; mische sie ins Deck. Falls du ein „Eisbarriere“-Monster kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Monster in Angriffsposition auf dem Spielfeld wählen; ändere es in die Verteidigungsposition.",
+  "level": 4,
+  "atk": 1800,
+  "def": 900,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

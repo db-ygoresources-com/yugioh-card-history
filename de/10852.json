@@ -1,0 +1,15 @@
+{
+  "id": 10852,
+  "type": "monster",
+  "name": "Säbelhai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden. Zweimal pro Spielzug: Du kannst 1 Fisch-Monster auf dem Spielfeld wählen, dann aktiviere 1 dieser Effekte.\n●Erhöhe seine Stufe um 1.\n●Verringere seine Stufe um 1.\nDu kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer WASSER Monstern.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11533,
+  "type": "monster",
+  "name": "Infernoid Antra",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Infernoid“-Monster von deiner Hand oder deinem Friedhof verbannst, solange die Summe der Stufen und Ränge aller Effektmonster, die du kontrollierst, 8 oder niedriger ist, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 offene Karte wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück. Einmal pro Spielzug, während des Spielzugs deines Gegners: Du kannst 1 Monster als Tribut anbieten und dann 1 Karte im Friedhof deines Gegners wählen; verbanne sie. (Dies ist ein Schnelleffekt.)",
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

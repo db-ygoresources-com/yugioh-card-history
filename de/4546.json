@@ -1,0 +1,16 @@
+{
+  "id": 4546,
+  "type": "monster",
+  "name": "Skelengel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Ziehe 1 Karte.",
+  "level": 2,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Fee",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5051,
+  "type": "monster",
+  "name": "Seelenschere",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein oder mehr Monster auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst jeden Effekt von „Seelenschere“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 550,
+  "def": 350,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

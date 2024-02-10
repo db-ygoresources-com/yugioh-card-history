@@ -1,0 +1,16 @@
+{
+  "id": 15098,
+  "type": "monster",
+  "name": "Steinbefreier Forscherin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du ein Fels-Monster kontrollierst, außer „Steinbefreier Forscherin“: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während deiner Main Phase: Du kannst die obersten 5 Karten deines Decks ausgraben und falls du dies tust, kannst du 1 ausgegrabenes Fels-Nicht-Empfänger-Monster der Stufe 4 oder niedriger als Spezialbeschwörung beschwören, zusätzlich lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck. Du kannst jeden Effekt von „Steinbefreier Forscherin“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 100,
+  "def": 2100,
+  "properties": [
+    "Fels",
+    "Empfänger",
+    "Effekt"
+  ]
+}

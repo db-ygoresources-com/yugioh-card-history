@@ -1,0 +1,16 @@
+{
+  "id": 10000,
+  "type": "monster",
+  "name": "Cavaleiro-Gema Serafinita",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 monstro \"Cavaleiro-Gema\" + 1 monstro de LUZ\nPrimeiro deve ser Invocado por Invocação-Fusão com as Matérias de Fusão acima. Durante sua Fase Principal, você pode Invocar por Invocação-Normal/Baixar 1 monstro em adição à sua Invocação-Normal/Baixar padrão. (Você só pode se aproveitar deste efeito uma vez por turno.)",
+  "level": 5,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Fada",
+    "Fusão",
+    "Efeito"
+  ]
+}

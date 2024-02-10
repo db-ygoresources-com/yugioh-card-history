@@ -1,0 +1,16 @@
+{
+  "id": 13454,
+  "type": "monster",
+  "name": "Schlammdrache des Sumpfes",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster mit derselben Eigenschaft, aber unterschiedlichen Typen\nDein Gegner kann weder diese Karte noch Monster auf dem Spielfeld mit derselben Eigenschaft wie diese Karte als Ziel für Karteneffekte wählen. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Eigenschaft deklarieren; diese Karte wird bis zum Ende dieses Spielzugs zu jener Eigenschaft.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Wyrm",
+    "Fusion",
+    "Effekt"
+  ]
+}

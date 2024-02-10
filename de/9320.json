@@ -1,0 +1,16 @@
+{
+  "id": 9320,
+  "type": "monster",
+  "name": "Schrottwurm",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann deinen Gegner direkt angreifen. Falls diese Karte angreift, wird sie am Ende der Battle Phase zerstört. Falls diese Karte durch den Effekt einer „Schrott“-Karte zerstört und auf den Friedhof gelegt wird, kannst du 1 „Schrott“-Monster in deinem Friedhof wählen, außer „Schrottwurm“, und deiner Hand hinzufügen.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Insekt",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10734,
+  "type": "monster",
+  "name": "Colher Malívora",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando um monstro \"Malívoro(a)\" com um nome diferente for Invocado por Invocação-Normal ou Especial no seu lado do campo (exceto durante a Etapa de Dano): você pode escolher 1 monstro do Tipo Demônio de Nível 2 no seu Cemitério; Invoque o alvo por Invocação-Especial. Seus efeitos são negados. Você só pode usar o efeito de \"Colher Malívora\" uma vez por turno.",
+  "level": 2,
+  "atk": 100,
+  "def": 500,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

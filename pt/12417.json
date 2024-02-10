@@ -1,0 +1,15 @@
+{
+  "id": 12417,
+  "type": "monster",
+  "name": "Túnica do Mago",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Durante o turno do seu oponente (Efeito Rápido): você pode descartar 1 Magia/Armadilha; Invoque por Invocação-Especial 1 \"Mago Negro\" do seu Deck. Durante o turno do seu oponente, se você ativar um Card de Magia/Armadilha ou seus efeitos enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial, mas bana-o quando ele deixar o campo. Você só pode usar cada efeito de \"Túnica do Mago\" uma vez por turno.",
+  "level": 2,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

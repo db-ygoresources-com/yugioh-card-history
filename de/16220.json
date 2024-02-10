@@ -1,0 +1,16 @@
+{
+  "id": 16220,
+  "type": "monster",
+  "name": "Aeropixdrei",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster, das dein Gegner kontrolliert, in der Spalte dieser Karte wählen; bewege diese Karte, die du kontrollierst, in eine andere deiner Main-Monsterzonen und falls du dies tust, bewege jenes Monster des Gegners in seine Main-Monsterzone in der Spalte dieser Karte, dann lege 1 Verbrennung-Zählmarke darauf. (Monster mit Verbrennung-Zählmarken verlieren für jede Verbrennung-Zählmarke auf ihnen 200 ATK/DEF.)",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

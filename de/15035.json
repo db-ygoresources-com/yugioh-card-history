@@ -1,0 +1,18 @@
+{
+  "id": 15035,
+  "type": "monster",
+  "name": "Linkreuz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Linkmonster mit Link-2 oder höher\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; beschwöre eine Anzahl „Link-Spielmarken“ (Cyberse/LICHT/Stufe 1/ATK 0/DEF 0) bis zur Linkzahl des Monsters, das für die Linkbeschwörung dieser Karte verwendet wurde, als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs „Link-Spielmarken“ nicht als Linkmaterial verwenden. Du kannst diesen Effekt von „Linkreuz“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 900,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12498,
+  "type": "monster",
+  "name": "Pequena Maga Maçã",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Uma vez por turno, se este card for escolhido como alvo de um ataque: você pode Invocar por Invocação-Especial 1 monstro do Tipo Mago de Nível 5 ou menos da sua mão e, depois, mudar o alvo do ataque para ele e, se isso acontecer, o ATK do monstro atacante se torna metade do seu ATK atual. Se este card for destruído em batalha ou por um efeito de card: você pode escolher até 3 outros monstros \"Pequena Maga\" com nomes diferentes no seu Cemitério; adicione-os à sua mão.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

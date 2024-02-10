@@ -1,0 +1,15 @@
+{
+  "id": 11345,
+  "type": "monster",
+  "name": "Superstarker Samurai Seelenknall-Kanone",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst 1 „Superstarker Samurai“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder deiner Spielfeldseite aus. Es erhält 1000 DEF. Während der Battle Phase eines beliebigen Spielers, wenn dein Gegner einen Karteneffekt aktiviert, solange du ein „Superstarker Samurai“-Monster in Verteidigungsposition kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen; annulliere die Aktivierung und falls du dies tust, zerstöre sie, dann zerstöre so viele Monster auf dem Spielfeld wie möglich (min. 1) und falls du dies tust, erhalten beide Spieler 1000 Schaden.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

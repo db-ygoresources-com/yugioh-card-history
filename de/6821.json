@@ -1,0 +1,15 @@
+{
+  "id": 6821,
+  "type": "monster",
+  "name": "Drache des Lichts und der Finsternis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Solange diese Karte offen auf dem Spielfeld liegt, hat sie zusätzlich die Eigenschaft FINSTERNIS.Einmal pro Kette, während des Spielzugs eines beliebigen Spielers, wenn eine Zauberkarte, eine Fallenkarte oder ein Monstereffekt aktiviert wird: Diese Karte verliert genau 500 ATK und DEF und die Aktivierung wird annulliert. Wenn diese Karte zerstört und auf den Friedhof gelegt wird: Wähle 1 Monster in deinem Friedhof (falls möglich); zerstöre alle Karten, die du kontrollierst, und beschwöre das Monster (falls eins gewählt wurde) als Spezialbeschwörung.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

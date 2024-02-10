@@ -1,0 +1,15 @@
+{
+  "id": 8445,
+  "type": "monster",
+  "name": "Schicksalsdame Wasser",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Die ATK und DEF dieser Karte entsprechen ihrer Stufe x 300. Während jeder deiner Standby Phasen, erhöhe die Stufe dieser Karte um 1 (maximal 12). Wenn diese Karte als Spezialbeschwörung beschworen wird, solange du ein offenes „Schicksalsdame“-Monster kontrollierst, außer „Schicksalsdame Wasser“, ziehe 2 Karten.",
+  "level": 4,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

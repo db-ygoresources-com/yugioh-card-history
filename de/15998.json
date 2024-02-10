@@ -1,0 +1,16 @@
+{
+  "id": 15998,
+  "type": "monster",
+  "name": "Lavalval-Exlord",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ FEUER Nicht-Empfänger-Monster\nWenn dein Gegner einen Effekt eines Monsters auf dem Spielfeld oder in seiner Hand aktiviert (Schnelleffekt): Du kannst jenes Monster zerstören und falls du dies tust, füge deinem Gegner 1000 Schaden zu. Falls diese als Synchrobeschwörung beschworene Karte, die ihr Besitzer kontrolliert, durch eine Karte eines Gegners zerstört wird: Du kannst bis zu 3 FEUER Nichtsynchro-Monster mit 200 DEF als Spezialbeschwörung von deinem Friedhof in die Verteidigungsposition beschwören, aber annulliere ihre Effekte. Du kannst jeden Effekt von „Lavalval-Exlord“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2900,
+  "def": 200,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5415,
+  "type": "monster",
+  "name": "Königlicher Hüter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du diese Karte in die verdeckte Verteidigungsposition bringen. Wenn diese Karte aufgedeckt wird, erhält sie bis zum Ende des Spielzugs 300 ATK und DEF. (Falls sie angegriffen wurde, wird dieser Effekt nach der Schadensberechnung aufgelöst.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 1700,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16386,
+  "type": "monster",
+  "name": "Blumenbaronin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie. Einmal, solange diese Karte offen auf dem Spielfeld liegt, wenn eine Karte oder ein Effekt aktiviert wird (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre jene Karte. Du kannst den vorherigen Effekt von „Blumenbaronin“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während der Standby Phase: Du kannst 1 Monster der Stufe 9 oder niedriger in deinem Friedhof wählen; lege diese Karte ins Extra Deck zurück und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

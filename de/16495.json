@@ -1,0 +1,15 @@
+{
+  "id": 16495,
+  "type": "monster",
+  "name": "Eisjade Tinola",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 WASSER Monster in deinem Friedhof wählen; lege diese Karte vom Spielfeld auf den Friedhof und falls du dies tust, beschwöre das als Ziel gewählte Monster als Spezialbeschwörung. Falls ein oder mehr offene WASSER Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; beschwöre 1 „Eisjade“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof, außer „Eisjade Tinola“. Du kannst jeden Effekt von „Eisjade Tinola“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

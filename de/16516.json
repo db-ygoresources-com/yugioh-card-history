@@ -1,0 +1,15 @@
+{
+  "id": 16516,
+  "type": "monster",
+  "name": "Herr des himmlischen Gefängnisses",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während deiner Main Phase: Du kannst diesen Effekt aktivieren; diese Karte in deiner Hand wird bis zum Ende des Spielzugs deines Gegners vorgezeigt. Solange diese Karte durch diesen Effekt vorgezeigt ist, können gesetzte Karten auf dem Spielfeld nicht durch Karteneffekte zerstört werden. Falls eine gesetzte Zauber-/Fallenkarte aktiviert wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls du diesen Effekt aktiviert hast, solange diese Karte vorgezeigt war, kannst du 1 Zauber/Falle von deinem Deck vorzeigen und direkt setzen, aber verbanne ihn oder sie während der End Phase des nächsten Spielzugs. Du kannst nur 1 Effekt von „Herr des himmlischen Gefängnisses“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

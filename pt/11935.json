@@ -1,0 +1,18 @@
+{
+  "id": 11935,
+  "type": "monster",
+  "name": "Mago do Fosso do Dragão",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Este mago talentoso pode despertar a energia guardada nas profundezas da terra, conhecida como Fosso do Dragão. Sua visão impassível normalmente não faz muitos amigos e ele frequentemente cede aos desejos do seu pupilo.",
+  "pendEffect": "Uma vez por turno, se você tiver um card \"Mago\" na sua outra Zona de Pêndulo: você pode descartar 1 Monstro Pêndulo e, depois, escolher 1 Card de Magia/Armadilha no campo; destrua-o.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 900,
+  "def": 2700,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Normal"
+  ]
+}

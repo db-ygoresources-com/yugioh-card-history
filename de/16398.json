@@ -1,0 +1,15 @@
+{
+  "id": 16398,
+  "type": "monster",
+  "name": "Kuribi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Kuriboh“-Karte behandelt.)\nWenn diese Karte oder ein anderes „Kuriboh“-Monster, das du kontrollierst, durch Kampf zerstört wird: Du kannst deiner Hand 1 Zauber/Falle von deinem Deck hinzufügen, der oder die die Karte „Kuriboh“ in seinem oder ihrem Text aufführt. Du kannst diesen Effekt von „Kuribi“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, wenn ein Monster eines Gegners einen Angriff deklariert, solange du ein anderes „Kuriboh“-Monster kontrollierst: Du kannst die ATK aller anderen Monster, die du kontrollierst, bis zum Ende dieses Spielzugs zu 0 ändern und falls du dies tust, annulliere den Angriff.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

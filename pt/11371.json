@@ -1,0 +1,18 @@
+{
+  "id": 11371,
+  "type": "monster",
+  "name": "Hamster de Resgate",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se este card foi Invocado por Invocação-Normal neste turno e você tiver um Card de Monstro Pêndulo de Nível 5 ou menos com a face para cima no seu Deck Adicional: você pode oferecer este card como Tributo; selecione 1 Card de Monstro Pêndulo de Nível 5 ou menos com a face para cima no seu Deck Adicional e Invoque por Invocação-Especial 2 monstros do seu Deck com o mesmo nome que esse card, mas eles têm seus efeitos negados e, além disso, eles são destruídos durante a Fase Final.",
+  "pendEffect": "Você pode banir este card da sua Zona de Pêndulo; adicione 2 Cards de Monstro Pêndulo com a face para cima e com o mesmo nome do seu Deck Adicional à sua mão. Você só pode usar este efeito de \"Hamster de Resgate\" uma vez por Duelo.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

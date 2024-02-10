@@ -1,0 +1,16 @@
+{
+  "id": 10565,
+  "type": "monster",
+  "name": "Empreendedor Mágico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "VIRE: Você pode escolher 1 monstro Mago de Nível 4 ou menos no seu Cemitério; Invoque o alvo por Invocação-Especial.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Mago",
+    "Virar",
+    "Efeito"
+  ]
+}

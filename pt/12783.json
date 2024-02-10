@@ -1,0 +1,19 @@
+{
+  "id": 12783,
+  "type": "monster",
+  "name": "Dragão Furioso de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros do Tipo Dragão de Nível 7\nSe você puder Invocar por Invocação-Pêndulo de Nível 7, você pode Invocar este card com a face para cima no seu Deck Adicional por Invocação-Pêndulo. Se este card na Zona de Monstros for destruído: você pode colocá-lo na sua Zona de Pêndulo. Se este card for Invocado por Invocação-Xyz usando um Monstro Xyz como Matéria, ele ganha estes efeitos.\n●Ele pode realizar um segundo ataque durante cada Fase de Batalha.\n●Uma vez por turno: você pode desassociar 1 Matéria Xyz dele; destrua tantos cards que seu oponente controla quanto possível e, se isso acontecer, até o final deste turno, este card ganha 200 de ATK para cada um.",
+  "pendEffect": "Uma vez por turno, se você não tiver cards na sua outra Zona de Pêndulo: você pode colocar na sua Zona de Pêndulo 1 Monstro Pêndulo do seu Deck.",
+  "pendScale": 1,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

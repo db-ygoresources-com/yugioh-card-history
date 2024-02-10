@@ -1,0 +1,15 @@
+{
+  "id": 8938,
+  "type": "monster",
+  "name": "Verspieltes Opossum",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während deiner Main Phase: Du kannst diese offene Karte auf dem Spielfeld zerstören. Dein Gegner muss ein Monster mit höheren ATK als diese Karte kontrollieren, damit du diesen Effekt aktivieren und auflösen kannst. Während deiner Standby Phase, falls diese Karte durch diesen Effekt zerstört wurde: Du kannst diese Karte als Spezialbeschwörung vom Friedhof beschwören.",
+  "level": 2,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

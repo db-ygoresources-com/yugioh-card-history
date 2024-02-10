@@ -1,0 +1,16 @@
+{
+  "id": 11900,
+  "type": "monster",
+  "name": "Toon-Antiker Antriebsgolem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht in dem Spielzug angreifen, in dem sie beschworen wurde. Solange du „Toon-Welt“ kontrollierst und dein Gegner keine Toon-Monster kontrolliert, kann diese Karte deinen Gegner direkt angreifen. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber/Fallen aktivieren.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Toon",
+    "Effekt"
+  ]
+}

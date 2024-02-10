@@ -1,0 +1,15 @@
+{
+  "id": 10109,
+  "type": "monster",
+  "name": "Schneedrache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Lege 1 Eis-Zählmarke auf jedes offene Monster auf dem Spielfeld.",
+  "level": 4,
+  "atk": 1400,
+  "def": 900,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

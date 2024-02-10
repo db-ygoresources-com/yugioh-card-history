@@ -1,0 +1,15 @@
+{
+  "id": 5017,
+  "type": "monster",
+  "name": "Gebieterischer Ritter",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Alle Krieger-Monster, die du kontrollierst, erhalten 400 ATK. Falls du ein anderes Monster kontrollierst, können Monster, die dein Gegner kontrolliert, diese Karte nicht als Ziel für einen Angriff wählen.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1900,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

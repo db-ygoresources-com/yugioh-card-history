@@ -1,0 +1,15 @@
+{
+  "id": 16212,
+  "type": "monster",
+  "name": "Gletscher Aqua Madoor",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Am Beginn des Damage Steps, falls dein Normales Monster gegen ein Monster eines Gegners kämpft: Du kannst diese Karte in deiner Hand vorzeigen; wirf 1 Karte ab und falls du dies tust, kann dein Monster durch jenen Kampf nicht zerstört werden. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst 1 Normales Monster in deiner Hand vorzeigen; wirf 1 Karte ab und falls du dies tust, zerstöre jenes Monster des Gegners.",
+  "level": 6,
+  "atk": 1200,
+  "def": 3000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12480,
+  "type": "monster",
+  "name": "Dragão Persona de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno (Efeito Rápido): você pode escolher 1 monstro com a face para cima no campo que foi Invocado por Invocação-Especial do Deck Adicional; até o final deste turno, ele tem seus efeitos negados.",
+  "pendEffect": "Uma vez por turno, durante a Fase Final, se seu oponente ativou um card ou efeito neste turno que escolheu como alvo 1 Monstro Pêndulo \"Olhos Anômalos\" que você controlava (e nenhum outro card) enquanto este card estava na sua Zona de Pêndulo: Invoque este card por Invocação-Especial e, se isso acontecer, coloque 1 Monstro Pêndulo \"Olhos Anômalos\" com a face para cima do seu Deck Adicional na sua Zona de Pêndulo, exceto \"Dragão Persona de Olhos Anômalos\".",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

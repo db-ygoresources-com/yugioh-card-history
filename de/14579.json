@@ -1,0 +1,19 @@
+{
+  "id": 14579,
+  "type": "monster",
+  "name": "Progleo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster, außer Spielmarken\nWährend deiner Main Phase, falls du diese als Linkbeschwörung beschworene Karte kontrollierst: Du kannst diese Karte und 1 deiner Monster, auf das diese Karte zeigt, verbannen und dann 1 Linkmonster in einem beliebigen Friedhof wählen; beschwöre es als Spezialbeschwörung, aber verbanne es, wenn es das Spielfeld verlässt. Du kannst diesen Effekt von „Progleo“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

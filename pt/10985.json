@@ -1,0 +1,15 @@
+{
+  "id": 10985,
+  "type": "monster",
+  "name": "Leilaranja Silvestre",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Quando este card que você controla for destruído por um card do seu oponente (seja em batalha ou por um efeito de card) e enviado para o seu Cemitério: você pode escavar o card do topo do seu Deck e, se ele for um monstro do Tipo Planta, envie-o para o Cemitério. Caso contrário, coloque-o no fundo do seu Deck. Se este card for escavado do Deck e enviado para o Cemitério por um efeito de card: todos os monstros do Tipo Planta que você controla atualmente ganham 300 de ATK e DEF.",
+  "level": 3,
+  "atk": 400,
+  "def": 1100,
+  "properties": [
+    "Planta",
+    "Efeito"
+  ]
+}

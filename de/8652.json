@@ -1,0 +1,16 @@
+{
+  "id": 8652,
+  "type": "monster",
+  "name": "Bohrkrieger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "„Bohrsynchron“ + 1 oder mehr Nicht-Empfänger-Monster\nEinmal pro Spielzug, während deiner Main Phase 1: Du kannst die ATK dieser Karte halbieren und falls du dies tust, kann sie deinen Gegner in diesem Spielzug direkt angreifen. Einmal pro Spielzug: Du kannst 1 Karte abwerfen und falls du dies tust, verbanne diese Karte. Während deiner nächsten Standby Phase: Beschwöre diese durch diesen Effekt verbannte Karte als Spezialbeschwörung, dann füge deiner Hand 1 Monster von deinem Friedhof hinzu.",
+  "level": 6,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

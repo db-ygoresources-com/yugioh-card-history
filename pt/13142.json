@@ -1,0 +1,18 @@
+{
+  "id": 13142,
+  "type": "monster",
+  "name": "Ninja do Crepúsculo Kagen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode oferecer este card como Tributo e, depois, escolha 1 monstro \"Ninja\" que você controla; ele ganha 800 de ATK até o final deste turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Ninja\". Este efeito não pode ser negado. Uma vez por turno, quando um monstro \"Ninja\" seu declarar um ataque: você pode fazer com que esse monstro ganhe 1000 de ATK até o final da Etapa de Dano (mesmo que este card deixe o campo).",
+  "pendScale": 10,
+  "level": 1,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

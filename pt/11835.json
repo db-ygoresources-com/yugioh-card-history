@@ -1,0 +1,19 @@
+{
+  "id": 11835,
+  "type": "monster",
+  "name": "Dragão da Rebelião de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros Dragão de Nível 7\nSe você puder Invocar por Invocação-Pêndulo de Nível 7, você pode Invocar este card com a face para cima no seu Deck Adicional por Invocação-Pêndulo. Se este card for Invocado por Invocação-Xyz ao usar um Monstro Xyz como matéria: destrua tantos monstros de Nível 7 ou menos que seu oponente controla quanto possível e, se isso acontecer, cause 1000 de dano ao seu oponente para cada card destruído e, além disso, este card pode realizar 3 ataques durante cada Fase de Batalha neste turno. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode destruir tantos cards nas suas Zonas de Pêndulo quanto possível (mín. 1) e, se isso acontecer, coloque este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno, se você não tiver cards na sua outra Zona de Pêndulo: você pode colocar na sua Zona de Pêndulo 1 Monstro Pêndulo do seu Deck.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

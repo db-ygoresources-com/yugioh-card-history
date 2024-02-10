@@ -1,0 +1,15 @@
+{
+  "id": 10252,
+  "type": "monster",
+  "name": "Fischborg-Pflanzer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal, solange sich diese Karte im Friedhof befindet: Du kannst die oberste Karte deines Decks auf den Friedhof legen, dann, falls es ein WASSER Monster ist, beschwöre diese Karte als Spezialbeschwörung vom Friedhof. Du kannst diesen Effekt von „Fischborg-Pflanzer“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

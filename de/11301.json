@@ -1,0 +1,18 @@
+{
+  "id": 11301,
+  "type": "monster",
+  "name": "Künstlerkumpel Silberklaue",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte einen Angriff deklariert: Alle „Künstlerkumpel“-Monster, die du derzeit kontrollierst, erhalten bis zum Ende der Battle Phase 300 ATK.",
+  "pendEffect": "Alle „Künstlerkumpel“-Monster, die du kontrollierst, erhalten 300 ATK.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

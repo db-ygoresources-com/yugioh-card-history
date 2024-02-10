@@ -1,0 +1,15 @@
+{
+  "id": 13072,
+  "type": "monster",
+  "name": "Zombina",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Du kannst 1 Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Zombina“; beschwöre es als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10842,
+  "type": "monster",
+  "name": "Glühender Rotdrachen-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug, während deiner Main Phase 1: Du kannst alle anderen Monster in offener Angriffsposition auf dem Spielfeld zerstören. Andere Monster können in dem Spielzug, in dem du diesen Effekt aktivierst, nicht angreifen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

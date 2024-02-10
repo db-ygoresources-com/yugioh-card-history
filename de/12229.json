@@ -1,0 +1,16 @@
+{
+  "id": 12229,
+  "type": "monster",
+  "name": "D/D-Lamia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 „D/D“- oder „Dunkler Vertrag“-Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen, außer „D/D-Lamia“; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „D/D-Lamia“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 1900,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

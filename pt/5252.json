@@ -1,0 +1,15 @@
+{
+  "id": 5252,
+  "type": "monster",
+  "name": "Espírito das Chamas",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao banir 1 monstro de FOGO do seu Cemitério. Ganha 300 de ATK apenas durante sua Fase de Batalha.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Piro",
+    "Efeito"
+  ]
+}

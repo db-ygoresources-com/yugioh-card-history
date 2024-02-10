@@ -1,0 +1,15 @@
+{
+  "id": 10873,
+  "type": "monster",
+  "name": "Vampirgraf",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Material für eine Xyz-Beschwörung verwendet werden, außer für die Xyz-Beschwörung eines FINSTERNIS Monsters. Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 FINSTERNIS „Vampir“-Monster in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung in die Verteidigungsposition. Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Kartentyp (Monster, Zauber oder Falle) deklarieren; dein Gegner legt 1 Karte des deklarierten Typs von seinem Deck auf den Friedhof. Du kannst diesen Effekt von „Vampirgraf“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

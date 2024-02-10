@@ -1,0 +1,15 @@
+{
+  "id": 10036,
+  "type": "monster",
+  "name": "Schwalbenschwanz-Spionling",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn ein anderes Monster, das du kontrollierst, deinem Gegner Kampfschaden zufügt: Wähle 1 offenes Monster, das dein Gegner kontrolliert; es verliert ATK in Höhe des zugefügten Kampfschadens.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

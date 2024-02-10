@@ -1,0 +1,16 @@
+{
+  "id": 9256,
+  "type": "monster",
+  "name": "Flammenphönix, der brennende Bombenvogel",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Monster vom Typ Maschine + 1 Monster vom Typ Pyro\nEinmal pro Spielzug, während deiner Main Phase: Du kannst deinem Gegner 300 Schaden für jede Karte auf dem Spielfeld zufügen. Diese Karte kann nicht in dem Spielzug angreifen, in dem du diesen Effekt aktivierst.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13128,
+  "type": "monster",
+  "name": "Künstlerkumpel Buntäugiger Auflöser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Am Beginn des Damage Steps, falls dein Pendelmonster gegen ein Monster eines Gegners kämpft: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, kann dein Monster durch jenen Kampf nicht zerstört werden. Du kannst diesen Effekt von „Künstlerkumpel Buntäugiger Auflöser“ nur einmal pro Spielzug verwenden. Während deiner Main Phase: Du kannst 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dafür Monster von deiner Hand, deiner Spielfeldseite und/oder deinen Pendelzonen, darunter diese Karte.",
+  "pendEffect": "Einmal pro Spielzug, während deiner Main Phase: Du kannst 1 Drache-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dafür Monster von deiner Hand oder Spielfeldseite als Fusionsmaterial.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 2000,
+  "def": 2600,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

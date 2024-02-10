@@ -1,0 +1,16 @@
+{
+  "id": 11031,
+  "type": "monster",
+  "name": "Galaxie-Spiegelweiser",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Du erhältst 500 LP für jedes „Galaxie“-Monster in deinem Friedhof.\nWenn diese Karte zerstört und vom Spielfeld auf den Friedhof gelegt wird, nachdem sie aufgedeckt wurde: Du kannst 1 „Galaxie“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck oder Friedhof in die verdeckte Verteidigungsposition beschwören. Verbanne es, wenn es das Spielfeld verlässt.",
+  "level": 3,
+  "atk": 0,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

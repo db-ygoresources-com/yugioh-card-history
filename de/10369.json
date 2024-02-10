@@ -1,0 +1,15 @@
+{
+  "id": 10369,
+  "type": "monster",
+  "name": "Doppelhai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst die Stufen aller Monster vom Typ Fisch der Stufe 4, die du derzeit kontrollierst, um 1 reduzieren. Diese Karte kann während jeder Battle Phase einen zweiten Angriff durchführen.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

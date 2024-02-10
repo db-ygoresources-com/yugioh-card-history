@@ -1,0 +1,15 @@
+{
+  "id": 11820,
+  "type": "monster",
+  "name": "Aromagisterin Rosmarin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du mehr LP als dein Gegner hast, falls ein Pflanze-Monster angreift, das du kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Monstereffekte aktivieren. Einmal pro Spielzug, falls du LP erhältst: Wähle 1 offenes Monster auf dem Spielfeld; ändere seine Kampfposition.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

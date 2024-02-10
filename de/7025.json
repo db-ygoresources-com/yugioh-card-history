@@ -1,0 +1,15 @@
+{
+  "id": 7025,
+  "type": "monster",
+  "name": "Eismeisterin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 2 WASSER Monster als Tribut anbietest. Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; lege eine Eis-Zählmarke auf das gewählte Ziel. Du kannst diese Karte als Tribut anbieten; zerstöre alle Monster mit Eis-Zählmarken.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12408,
+  "type": "monster",
+  "name": "Akrobatischer Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls die Aktivierung einer Zauber-/Fallenkarte annulliert wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn diese Karte durch Kampf zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Wenn ein oder mehr Monster, die du kontrollierst, durch einen Karteneffekt zerstört werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören. Du kannst diesen Effekt von „Akrobatischer Magier“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 800,
+  "def": 2300,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

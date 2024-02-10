@@ -1,0 +1,16 @@
+{
+  "id": 4272,
+  "type": "monster",
+  "name": "Prinzessin von Tsurugi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Füge den Life Points deines Gegners 500 Punkte Schaden zu für jede Zauber- und Fallenkarte auf seiner Spielfeldseite.",
+  "level": 3,
+  "atk": 900,
+  "def": 700,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

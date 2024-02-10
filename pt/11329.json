@@ -1,0 +1,18 @@
+{
+  "id": 11329,
+  "type": "monster",
+  "name": "D/D Ogro Orgulhoso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode Invocar por Invocação-Especial 1 Monstro Pêndulo de TREVAS com a face para cima do seu Deck Adicional, mas ele tem seus efeitos negados e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros \"D/D\".",
+  "pendEffect": "Uma vez por turno: você pode pagar 500 PV e, depois, escolher 1 monstro \"D/D\" que você controla; ele ganha 500 de ATK (mesmo que este card deixe o campo). A não ser que você tenha um card \"D/D\" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 5.",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2300,
+  "def": 1500,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

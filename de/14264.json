@@ -1,0 +1,15 @@
+{
+  "id": 14264,
+  "type": "monster",
+  "name": "Neo-Flamvell-Dame",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "(Schnelleffekt): Du kannst 1 FEUER Monster von deiner Hand auf den Friedhof legen und dann 1 Karte im Friedhof deines Gegners wählen; verbanne die Karte. Falls eine Karte vom Friedhof deines Gegners verbannt wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst 1 FEUER Monster mit 200 oder weniger DEF von deinem Deck auf den Friedhof legen, außer „Neo-Flamvell-Dame“. Du kannst jeden Effekt von „Neo-Flamvell-Dame“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

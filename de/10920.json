@@ -1,0 +1,15 @@
+{
+  "id": 10920,
+  "type": "monster",
+  "name": "Grabwächters Orakel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 3 Monster oder 1 „Grabwächter“-Monster als Tribut anbieten, um diese Karte als Tributbeschwörung zu beschwören (aber nicht um sie zu setzen). Wenn diese Karte als Tributbeschwörung beschworen wird: Du kannst eine Anzahl dieser Effekte aktivieren und nacheinander auflösen bis zur Anzahl der „Grabwächter“-Monster, die als Tribut für ihre Beschwörung angeboten wurden;\n●Diese Karte erhält ATK in Höhe der Summe der Stufen, die alle als Tribut für ihre Tributbeschwörung angebotenen Monster auf dem Spielfeld hatten, x 100.\n●Zerstöre alle gesetzten Monster, die dein Gegner kontrolliert.\n●Alle Monster, die dein Gegner derzeit kontrolliert, verlieren 2000 ATK/DEF.",
+  "level": 10,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

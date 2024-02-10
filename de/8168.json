@@ -1,0 +1,16 @@
+{
+  "id": 8168,
+  "type": "monster",
+  "name": "Morphtronisches Mikroskop",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "●Solange in Angriffsposition: Einmal pro Spielzug kannst du 1 „Morphtronisch“-Monster der Stufe 4 als Spezialbeschwörung von deiner Hand beschwören. Zerstöre es während der End Phase.\n●Solange in Verteidigungsposition: Solange sich diese Karte in der offenen Verteidigungsposition befindet, hat sie Stufe 4.",
+  "level": 3,
+  "atk": 800,
+  "def": 1400,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

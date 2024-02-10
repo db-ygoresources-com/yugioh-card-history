@@ -1,0 +1,15 @@
+{
+  "id": 10604,
+  "type": "monster",
+  "name": "DZW - Plattenschimäre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 „Nummer C39“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder deiner Spielfeldseite aus. Das ausgerüstete Monster kann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, wenn das ausgerüstete Monster ein Monster deines Gegners angreift, aber das Monster deines Gegners nicht durch den Kampf zerstört wurde: Du kannst die ATK des Monsters deines Gegners zu 0 machen (selbst nachdem diese Karte das Spielfeld verlässt oder das Monster von Karteneffekten unberührt bleibt) und falls du dies tust, kann das ausgerüstete Monster dasselbe Monster sofort noch ein zweites Mal angreifen.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

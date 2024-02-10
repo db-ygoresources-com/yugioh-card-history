@@ -1,0 +1,16 @@
+{
+  "id": 8333,
+  "type": "monster",
+  "name": "Antiker heiliger Lindwurm",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 LICHT Empfänger- + 1 oder mehr Nicht-Empfänger-Monster\nSolange du mehr LP hast als dein Gegner, erhält diese Karte ATK in Höhe der Differenz. Solange du weniger LP hast als dein Gegner, verliert diese Karte ATK in Höhe der Differenz. Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1000 LP zahlen; beschwöre diese Karte als Spezialbeschwörung.",
+  "level": 7,
+  "atk": 2100,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Synchro",
+    "Effekt"
+  ]
+}

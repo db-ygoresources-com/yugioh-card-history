@@ -1,0 +1,19 @@
+{
+  "id": 13500,
+  "type": "monster",
+  "name": "Isolde, Dois Contos dos Nobre Cavaleiros",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstros Guerreiro\nSe este card for Invocado por Invocação-Link: você pode adicionar 1 monstro Guerreiro do seu Deck à sua mão, mas pelo resto deste turno, você não pode Invocar monstros com esse nome por Invocação-Normal/Baixar ou por Invocação-Especial, nem ativar seus efeitos de monstro. Você pode enviar qualquer número de Magias de Equipamento com nomes diferentes do seu Deck para o Cemitério; Invoque por Invocação-Especial 1 monstro Guerreiro do seu Deck, cujo Nível seja igual ao número de cards enviado para o Cemitério. Você só pode usar cada efeito de \"Isolde, Dois Contos dos Nobre Cavaleiros\" uma vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Guerreiro",
+    "Link",
+    "Efeito"
+  ]
+}

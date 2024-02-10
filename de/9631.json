@@ -1,0 +1,15 @@
+{
+  "id": 9631,
+  "type": "monster",
+  "name": "Aufzieh-Magier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls der Effekt eines „Aufzieh“-Monsters aktiviert wird, außer „Aufzieh-Magier“: Du kannst 1 „Aufzieh“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck in die offene Verteidigungsposition beschwören. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 4,
+  "atk": 600,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

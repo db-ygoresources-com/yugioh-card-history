@@ -1,0 +1,19 @@
+{
+  "id": 14050,
+  "type": "monster",
+  "name": "Avenschrecken Retter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Zombie-Monster\nDer Name dieser Karte wird zu „Revenschrecken Schlächter“, solange sie auf dem Spielfeld liegt. Du kannst jeden der folgenden Effekte von „Avenschrecken Retter“ nur einmal pro Spielzug verwenden.\n●Du kannst 1 „Venschrecken“-Karte in deinem Friedhof wählen; füge sie deiner Hand hinzu.\n●Während der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst 1 Zombie-Monster von deinem Deck auf den Friedhof legen; jenes Monster des Gegners verliert bis zum Ende dieses Spielzugs ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 200.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1600,
+  "properties": [
+    "Zombie",
+    "Link",
+    "Effekt"
+  ]
+}

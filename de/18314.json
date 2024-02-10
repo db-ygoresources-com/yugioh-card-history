@@ -1,0 +1,20 @@
+{
+  "id": 18314,
+  "type": "monster",
+  "name": "Fallenstellerin Atypus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Monster, darunter ein Insekt- oder Pflanze-Monster\nDiese als Linkbeschwörung beschworene Karte bleibt von Falleneffekten unberührt. Alle „Fallenstellerin“-Monster, die du kontrollierst, erhalten 1000 ATK, solange du eine Normale Falle in deinem Friedhof hast. Einmal pro Spielzug: Du kannst offene Karten, die dein Gegner kontrolliert, bis zur Anzahl der Insekt- und Pflanze-Monster wählen, die du kontrollierst; annulliere ihre Effekte (bis zum Ende dieses Spielzugs), dann kannst du diesen Effekt ausführen.\n●Verbanne 1 Normale Falle von deinem Friedhof und falls du dies tust, zerstöre 1 jener als Ziel gewählten offenen Karten.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Insekt",
+    "Link",
+    "Effekt"
+  ]
+}

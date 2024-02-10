@@ -1,0 +1,10 @@
+{
+  "id": 15301,
+  "type": "spell",
+  "name": "Dados Jogados",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Lance um dado de seis faces e, se você obteve um resultado de 1 ou 6, adicione 1 card do seu Deck à sua mão que requer um lance de dados. Se você lançou um número que não seja 1 ou 6, lance novamente e aplique o efeito apropriado.\n●1 ou 6: Devolva este card para a mão.\n●2, 3, 4 ou 5: Coloque este card no topo do Deck.\nVocê só pode ativar 1 \"Dados Jogados\" por turno.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Rápida"
+}

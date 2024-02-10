@@ -1,0 +1,16 @@
+{
+  "id": 14275,
+  "type": "monster",
+  "name": "Geisterschwester und gruseliger Hartriegel",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während eines beliebigen Spielzugs, außer während der End Phase (Schnelleffekt): Du kannst diese Karte abwerfen; wende in diesem Spielzug diesen Effekt an. Du kannst diesen Effekt von „Geisterschwester und gruseliger Hartriegel“ nur einmal pro Spielzug verwenden.\n●Jedes Mal, wenn dein Gegner während der Main Phase oder der Battle Phase ein oder mehr Effektmonster als Spezialbeschwörung beschwört, erhältst du LP in Höhe der ATK jenes Monsters. Falls du durch diesen Effekt keine LP erhalten hast, werden deine LP während der End Phase halbiert.",
+  "level": 3,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

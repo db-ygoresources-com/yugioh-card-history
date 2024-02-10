@@ -1,0 +1,15 @@
+{
+  "id": 10905,
+  "type": "monster",
+  "name": "Sylvanische Wacheiche",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst eine Zahl zwischen 1 und 3 bestimmen, dann so viele Karten von oben von deinem Deck ausgraben, alle ausgegrabenen Monster vom Typ Pflanze auf den Friedhof legen, zusätzlich die anderen Karten in beliebiger Reihenfolge unter dein Deck legen. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Du kannst 1 anderes Monster vom Typ Pflanze in deinem Friedhof wählen; lege das gewählte Ziel auf dein Deck.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

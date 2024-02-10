@@ -1,0 +1,16 @@
+{
+  "id": 4589,
+  "type": "monster",
+  "name": "Boletim Metereológico",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "VIRE: Destrói todos os \"Espadas da Luz Reveladora\" do seu oponente que estiverem com a face para cima no campo. Se \"Espadas da Luz Reveladora\" for destruído, você pode executar sua Fase de Batalha duas vezes neste turno (ou no seu próximo turno, se ativado durante o turno do seu oponente).",
+  "level": 4,
+  "atk": 950,
+  "def": 1500,
+  "properties": [
+    "Aqua",
+    "Virar",
+    "Efeito"
+  ]
+}

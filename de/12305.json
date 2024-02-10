@@ -1,0 +1,15 @@
+{
+  "id": 12305,
+  "type": "monster",
+  "name": "Digitalkäfer Kokondenser",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Xyz-Material für eine Xyz-Beschwörung verwendet werden, außer für die Xyz-Beschwörung eines Monsters vom Typ Insekt. Einmal pro Spielzug, falls sich diese Karte in Angriffsposition befindet: Du kannst 1 Monster vom Typ Insekt der Stufe 3 in deinem Friedhof wählen; ändere diese Karte in die Verteidigungsposition und falls du dies tust, beschwöre das Monster als Spezialbeschwörung in die Verteidigungsposition. Ein Xyz-Monster, das mit dieser Karte auf dem Spielfeld als Xyz-Material beschworen wurde, erhält diesen Effekt.\n●Falls diese Karte ein Monster in Verteidigungsposition angreift, können die Karten und Effekte deines Gegners bis zum Ende des Damage Steps nicht aktiviert werden.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

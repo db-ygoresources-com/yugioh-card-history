@@ -1,0 +1,15 @@
+{
+  "id": 6387,
+  "type": "monster",
+  "name": "Drillroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Vor der Schadensberechnung, falls diese Karte ein Monster in Verteidigungsposition angreift: Zerstöre das Monster.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

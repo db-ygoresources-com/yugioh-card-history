@@ -1,0 +1,16 @@
+{
+  "id": 12584,
+  "type": "monster",
+  "name": "C-Crashwyvern",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du: 1 LICHT Maschine-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Ein Monster, das mit dieser Karte ausgerüstet ist, bleibt von den Falleneffekten deines Gegners unberührt, zusätzlich, falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 Union-Monster als Spezialbeschwörung von deiner Hand beschwören.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

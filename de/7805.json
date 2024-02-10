@@ -1,0 +1,15 @@
+{
+  "id": 7805,
+  "type": "monster",
+  "name": "Neos Weiser",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 offenen „Elementar-HELD Neos“ und 1 offenen „Yubel“, die du kontrollierst, auf den Friedhof legst. Kann nicht durch Karteneffekte zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Füge deinem Gegner Schaden in Höhe der ATK jenes Monsters des Gegners zu, zusätzlich erhältst du LP in Höhe der DEF jenes Monsters des Gegners.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

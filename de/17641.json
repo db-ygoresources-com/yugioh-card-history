@@ -1,0 +1,15 @@
+{
+  "id": 17641,
+  "type": "monster",
+  "name": "Traumhai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Das erste Mal in jedem Spielzug, dass diese Karte durch Kampf zerstört würde, wird sie nicht zerstört. Du kannst jeden der folgenden Effekte von „Traumhai“ nur einmal pro Spielzug verwenden. Falls du keine Monster kontrollierst oder falls alle Monster, die du kontrollierst, WASSER sind: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn eine Karte oder ein Effekt, die oder der dir Schaden zufügen würde, aktiviert wird, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, mache jenen Effektschaden gegen dich zu 0. Falls diese Karte auf diese Art beschworen wird, verliert sie 1000 DEF, zusätzlich verbanne sie, wenn sie das Spielfeld verlässt.",
+  "level": 5,
+  "atk": 0,
+  "def": 2600,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

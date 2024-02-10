@@ -1,0 +1,19 @@
+{
+  "id": 12445,
+  "type": "monster",
+  "name": "Hoher Nirvana-Paladin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Synchromonster\nFür die Synchrobeschwörung dieser Karte kannst du 1 als Pendelbeschwörung beschworenes Pendelmonster, das du kontrollierst, als Empfänger behandeln. Falls diese Karte als Synchrobeschwörung beschworen und dabei ein als Pendelbeschwörung beschworenes Empfänger-Pendelmonster verwendet wird: Du kannst 1 Karte in deinem Friedhof wählen; füge sie deiner Hand hinzu. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst die LP deines Gegners halbieren. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls ein Pendelmonster angreift, das du kontrollierst, kann es für den Kampf nicht durch Kampf zerstört werden, zusätzlich erhältst du keinen Kampfschaden aus dem Kampf. Am Ende des Damage Steps, falls ein Pendelmonster, das du kontrollierst, angegriffen hat: Alle Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs ATK in Höhe der ATK des angreifenden Monsters.",
+  "pendScale": 8,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

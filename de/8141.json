@@ -1,0 +1,15 @@
+{
+  "id": 8141,
+  "type": "monster",
+  "name": "Knochenbrecher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte durch den Effekt eines Monsters vom Typ Zombie als Spezialbeschwörung von deinem Friedhof beschworen wird: Du kannst 1 Zauber-/Fallenkarte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel. Während der End Phase des Spielzug, in dem diese Karte als Spezialbeschwörung beschworen wurde: Zerstöre sie.",
+  "level": 4,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8567,
+  "type": "monster",
+  "name": "Naturia-Schmetterling",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, wenn ein Monster deines Gegners einen Angriff deklariert: Du kannst die oberste Karte deines Decks auf den Friedhof legen und falls du dies tust, annulliere den Angriff.",
+  "level": 3,
+  "atk": 500,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Empfänger",
+    "Effekt"
+  ]
+}

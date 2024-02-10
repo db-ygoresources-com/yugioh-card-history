@@ -1,0 +1,15 @@
+{
+  "id": 13649,
+  "type": "monster",
+  "name": "Vampirrotbaron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1000 LP zahlen und dann 1 Monster, das dein Gegner kontrolliert, und 1 anderes „Vampir“-Monster, das du kontrollierst, wählen; vertausche die Kontrolle über die Monster. Am Ende der Battle Phase, falls diese Karte ein oder mehr Monster durch Kampf zerstört hat: Du kannst sie als Spezialbeschwörung von den Friedhöfen auf deine Spielfeldseite beschwören.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

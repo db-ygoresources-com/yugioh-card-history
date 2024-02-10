@@ -1,0 +1,16 @@
+{
+  "id": 10329,
+  "type": "monster",
+  "name": "Irmandade do Punho de Fogo - Espírito",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser usado como Matéria Sincro, exceto para a Invocação-Sincro de um monstro Besta-Guerreira. Quando este card for Invocado por Invocação-Normal: você pode escolher 1 monstro de FOGO de Nível 3 com 200 ou menos de DEF no seu Cemitério; Invoque o alvo por Invocação-Especial em Posição de Defesa e, se isso acontecer, os monstros que você controla não podem atacar pelo resto deste turno, exceto monstros Besta-Guerreira. Você só pode usar este efeito de \"Irmandade do Punho de Fogo - Espírito\" uma vez por turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Besta-Guerreira",
+    "Regulador",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13395,
+  "type": "monster",
+  "name": "Besta Mítica Bashilisco",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Você pode remover 3 Marcadores de Magia do seu campo; devolva 1 card \"Besta Mítica\" da sua Zona de Pêndulo ou com a face para cima no seu Deck Adicional para a mão. Você só pode usar este efeito de \"Besta Mítica Bashilisco\" uma vez por turno.",
+  "pendEffect": "Se você não tiver nenhum card na sua outra Zona de Pêndulo: você pode destruir este card e, se isso acontecer, embaralhe no seu Deck Principal 1 Monstro Pêndulo Mago com a face para cima no seu Deck Adicional, exceto \"Besta Mítica Bashilisco\" e, depois, compre 1 card. Você só pode usar este efeito de \"Besta Mítica Bashilisco\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

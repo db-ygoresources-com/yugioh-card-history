@@ -1,0 +1,16 @@
+{
+  "id": 10921,
+  "type": "monster",
+  "name": "Semente Mística Macrocarpa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser usado como um Monstro Matéria Sincro, exceto para a Invocação-Sincro de um monstro de TERRA. Você pode escolher 1 monstro de TERRA no campo; reduza o Nível dele em 1. Você só pode usar o efeito de \"Semente Mística Macrocarpa\" até duas vezes por turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Planta",
+    "Regulador",
+    "Efeito"
+  ]
+}

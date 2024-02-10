@@ -1,0 +1,15 @@
+{
+  "id": 9967,
+  "type": "monster",
+  "name": "Rosaria, der stattliche gefallene Engel",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss zuerst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 Monster vom Typ Pflanze der Stufe 7 oder höher verbannst (1 von deiner Hand und 1 von deinem Friedhof). Einmal pro Spielzug: Du kannst bis zum Ende dieses Spielzugs die Effekte aller anderen offenen Karten annullieren, die sich derzeit auf dem Spielfeld befinden.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

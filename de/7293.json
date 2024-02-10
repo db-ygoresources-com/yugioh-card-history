@@ -1,0 +1,16 @@
+{
+  "id": 7293,
+  "type": "monster",
+  "name": "Magisch reflektierender Schleim",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Dein Gegner erhält den Kampfschaden, den du aus Kämpfen erhalten hättest, an denen diese Karte beteiligt ist.",
+  "level": 3,
+  "atk": 700,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Zwilling",
+    "Effekt"
+  ]
+}

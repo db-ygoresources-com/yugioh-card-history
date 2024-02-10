@@ -1,0 +1,16 @@
+{
+  "id": 11004,
+  "type": "monster",
+  "name": "Wolkenschloss",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nWenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Monster der Stufe 9 in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Monster der Stufe 8 oder niedriger können nicht in dem Spielzug angreifen, in dem sie als Normal- oder Spezialbeschwörung beschworen wurden.",
+  "level": 9,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

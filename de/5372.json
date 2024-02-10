@@ -1,0 +1,15 @@
+{
+  "id": 5372,
+  "type": "monster",
+  "name": "Gradius' Option",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 1 offene „Gradius“-Karte auf deiner Spielfeldseite wählst. Die ATK und DEF dieser Karte entsprechen stets den ATK und DEF des gewählten „Gradius“. Falls der gewählte „Gradius“ zerstört oder vom Spielfeld entfernt wird, zerstöre diese Karte.",
+  "level": 1,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

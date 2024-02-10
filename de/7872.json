@@ -1,0 +1,16 @@
+{
+  "id": 7872,
+  "type": "monster",
+  "name": "Efeumauer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Beschwöre 1 „Efeu-Spielmarke“ (Typ Pflanze/ERDE/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung in Verteidigungsposition auf die Spielfeldseite deines Gegners. Wenn diese Spielmarke zerstört wird, erhält ihr Beherrscher 300 Schaden.",
+  "level": 2,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Pflanze",
+    "Flipp",
+    "Effekt"
+  ]
+}

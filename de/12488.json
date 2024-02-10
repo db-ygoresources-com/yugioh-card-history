@@ -1,0 +1,15 @@
+{
+  "id": 12488,
+  "type": "monster",
+  "name": "Tiefäugiger weißer Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn ein oder mehr offene „Blauäugig“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört werden und du ein Monster vom Typ Drache in deinem Friedhof hast: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, füge deinem Gegner 600 Schaden für jedes Monster vom Typ Drache mit unterschiedlichem Namen in deinem Friedhof zu. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Wähle 1 Monster vom Typ Drache in deinem Friedhof; die ATK dieser Karte werden gleich denen des Monsters. Falls diese Karte auf dem Spielfeld durch einen Karteneffekt zerstört wird: Zerstöre alle Monster, die dein Gegner kontrolliert.",
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

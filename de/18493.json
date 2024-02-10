@@ -1,0 +1,18 @@
+{
+  "id": 18493,
+  "type": "monster",
+  "name": "PendeLaMond",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während deiner Main Phase: Du kannst deiner Hand bis zu 2 offene Pendelmonster mit Stufen zwischen den Pendelbereichen der 2 Karten in deinen Pendelzonen von deinem Extra Deck hinzufügen, zusätzlich für den Rest dieses Spielzugs, bis du eine Pendelbeschwörung durchführst, kannst du keine Monstereffekte aktivieren und die Effekte von Karten in deinen Pendelzonen werden annulliert. Du kannst diesen Effekt von „PendeLaMond“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst deiner Hand 1 offenes „Pendel“-Pendelmonster von deinem Extra Deck hinzufügen, dann zerstöre diese Karte. Du kannst diesen Effekt von „PendeLaMond“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 200,
+  "def": 700,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

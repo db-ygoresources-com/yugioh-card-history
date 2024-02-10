@@ -1,0 +1,15 @@
+{
+  "id": 13363,
+  "type": "monster",
+  "name": "Venschrecken Striges",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 „Venschrecken“-Karte in deiner Hand vorzeigen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Ein „Venschrecken“-Monster, das mit dieser Karte auf dem Spielfeld als Ritualbeschwörung beschworen wird, erhält den folgenden Effekt. Du kannst jeden der vorherigen Effekte von „Venschrecken Striges“ nur einmal pro Spielzug verwenden.\n●Nach der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst 1 Karte ziehen, dann wirf 1 Karte ab.",
+  "level": 2,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

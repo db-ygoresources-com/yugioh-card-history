@@ -1,0 +1,20 @@
+{
+  "id": 13931,
+  "type": "monster",
+  "name": "Longirsu, der Orcust-Koordinator",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Effektmonster, darunter ein „Orcust“-Monster\nDiese gelinkte Karte kann nicht durch Karteneffekte zerstört werden. Du kannst 2 deiner verbannten Maschine-Monster wählen; mische sie ins Deck, dann kannst du 1 gelinktes Monster, das dein Gegner kontrolliert, auf den Friedhof legen. Diese Karte kann nicht in dem Spielzug angreifen, in dem du diesen Effekt aktivierst. Du kannst diesen Effekt von „Longirsu, der Orcust-Koordinator“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "7",
+    "8",
+    "3"
+  ],
+  "atk": 2500,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

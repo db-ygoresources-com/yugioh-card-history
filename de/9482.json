@@ -1,0 +1,15 @@
+{
+  "id": 9482,
+  "type": "monster",
+  "name": "Morphtronischer Tacker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "●Solange in Angriffsposition: Dein Gegner kann kein anderes Monster als Angriffsziel wählen. Falls diese Karte durch Kampf zerstört wird, verliert das Monster, das diese Karte zerstört hat, 300 ATK.\n●Solange in Verteidigungsposition: Diese Karte kann nicht durch Kampf zerstört werden. Falls diese Karte angegriffen wird, wähle nach der Schadensberechnung 1 Monster in offener Angriffsposition, das dein Gegner kontrolliert. Ändere es in die Verteidigungsposition und diese Karte in die Angriffsposition.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

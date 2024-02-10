@@ -1,0 +1,18 @@
+{
+  "id": 8800,
+  "type": "monster",
+  "name": "Lyna, die Lichtverzaubererin",
+  "oldName": "Lyna, die Lichtverzauberin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "notes": "Kartenname geändert von „Lyna, die Lichtverzauberin\". (Gedruckte Version noch nicht verfügbar.)",
+  "effectText": "FLIPP: Übernimm die Kontrolle über 1 LICHT Monster, das dein Gegner kontrolliert, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

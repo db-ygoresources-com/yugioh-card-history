@@ -1,0 +1,16 @@
+{
+  "id": 7898,
+  "type": "monster",
+  "name": "Schwarzer Rosendrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nWenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst alle Karten auf dem Spielfeld zerstören. Einmal pro Spielzug: Du kannst 1 Pflanze-Monster von deinem Friedhof verbannen und dann 1 Monster in Verteidigungsposition wählen, das dein Gegner kontrolliert; ändere jenes gewählte Ziel in die offene Angriffsposition und falls du dies tust, werden seine ATK bis zum Ende dieses Spielzugs zu 0.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

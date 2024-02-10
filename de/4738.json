@@ -1,0 +1,16 @@
+{
+  "id": 4738,
+  "type": "monster",
+  "name": "Jigen Bakudan",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "FLIPP: Biete diese Karte während deiner Standby Phase als Tribut an, um alle Monster auf deiner Spielfeldseite zu zerstören und den Life Points deines Gegners soviel Schaden zuzufügen, wie die Hälfte der addierten ATK aller zerstörten Karten (ohne dieses Monster) beträgt.",
+  "level": 2,
+  "atk": 200,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11001,
+  "type": "monster",
+  "name": "Fischborg-Arzt",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet und alle Monster, die du kontrollierst, „Fischborg“-Monster sind (min. 1): Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Fischborg-Arzt“ nur einmal pro Spielzug verwenden. Falls du ein Monster kontrollierst, das kein „Fischborg“-Monster ist, zerstöre diese Karte.",
+  "level": 4,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

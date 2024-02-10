@@ -1,0 +1,16 @@
+{
+  "id": 7900,
+  "type": "monster",
+  "name": "Psi-Lebenstrancer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster\nEinmal pro Spielzug kannst du 1 Monster vom Typ Psi in deinem Friedhof aus dem Spiel entfernen, um 1200 Life Points zu erhalten.",
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

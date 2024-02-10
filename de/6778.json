@@ -1,0 +1,15 @@
+{
+  "id": 6778,
+  "type": "monster",
+  "name": "Rallis, der Sternenvogel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Erhöhe die ATK dieser Karte um die Stufe des Monsters, gegen das es kämpft, x 200 Punkte nur während des Damage Steps. Falls diese Karte angreift, wird sie am Ende des Damage Steps aus dem Spiel entfernt und lege sie am Beginn der Battle Phase deines nächsten Spielzugs in offener Angriffsposition auf deine Spielfeldseite zurück.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

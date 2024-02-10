@@ -1,0 +1,15 @@
+{
+  "id": 12245,
+  "type": "monster",
+  "name": "Kozmo-Delta-Shuttle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Kozmo“-Monster von deinem Deck auf den Friedhof legen und dann 1 offenes Monster auf dem Spielfeld wählen; es verliert ATK und DEF in Höhe der Stufe des auf den Friedhof gelegten Monsters x 100. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 „Kozmo“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

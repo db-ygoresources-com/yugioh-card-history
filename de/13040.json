@@ -1,0 +1,15 @@
+{
+  "id": 13040,
+  "type": "monster",
+  "name": "Cyberse-Zauberer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster eines Gegners in Angriffsposition wählen; ändere es in die Verteidigungsposition und falls du dies tust, für den Rest dieses Spielzugs, können deine Monster nicht angreifen, außer um das Monster anzugreifen, und falls dein Cyberse-Monster ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

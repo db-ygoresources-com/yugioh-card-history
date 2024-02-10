@@ -1,0 +1,15 @@
+{
+  "id": 7884,
+  "type": "monster",
+  "name": "Verfolgender Jäger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn ein Monster in Verteidigungsposition durch Kampf zerstört und auf den Friedhof gelegt wird, füge deinem Gegner 500 Schaden zu.",
+  "level": 3,
+  "atk": 1400,
+  "def": 600,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

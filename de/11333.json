@@ -1,0 +1,18 @@
+{
+  "id": 11333,
+  "type": "monster",
+  "name": "Künstlerkumpel Cheermaulwurf",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst 1 Monster wählen, dessen derzeitige ATK nicht seinen Grund-ATK entsprechen; führe den entsprechenden Effekt aus. Du kannst diesen Effekt von „Künstlerkumpel Cheermaulwurf“ nur einmal pro Spielzug verwenden.\n●Falls die derzeitigen ATK des Monsters höher sind als seine Grund-ATK, erhält es 1000 ATK.\n●Falls die derzeitigen ATK des Monsters niedriger sind als seine Grund-ATK, verliert es 1000 ATK.",
+  "pendEffect": "Alle Pendelmonster, die du kontrollierst, erhalten 300 ATK.",
+  "pendScale": 5,
+  "level": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

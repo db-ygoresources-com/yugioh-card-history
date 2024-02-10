@@ -1,0 +1,15 @@
+{
+  "id": 9470,
+  "type": "monster",
+  "name": "Der flammende Mars",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 3 andere Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine anderen Monster als Spezialbeschwörung beschwören. Während deiner Main Phase 1: Du kannst alle anderen Monster, die du kontrollierst, auf den Friedhof legen; füge deinem Gegner für jedes auf den Friedhof gelegte Monster 500 Schaden zu. Du kannst diesen Effekt von „Der flammende Mars“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

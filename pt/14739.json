@@ -1,0 +1,18 @@
+{
+  "id": 14739,
+  "type": "monster",
+  "name": "D/D Maligno",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode atacar a não ser que você controle outro monstro \"D/D\". Durante a Fase Principal do seu oponente (Efeito Rápido): você pode escolher 1 monstro Invocado por Invocação-Pêndulo com a face para cima que seu oponente controla; até o final deste turno, negue os efeitos desse monstro com a face para cima. Você só pode usar este efeito de \"D/D Maligno\" uma vez por turno.",
+  "pendEffect": "Uma vez, enquanto este card estiver na sua Zona de Pêndulo, quando seu oponente Invocar um ou mais monstros por Invocação-Pêndulo (exceto durante a Etapa de Dano): você pode ativar este efeito; neste turno, esse monstro Invocado por Invocação-Pêndulo não pode atacar e, além disso, seus efeitos são negados.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

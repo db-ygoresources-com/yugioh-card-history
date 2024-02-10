@@ -1,0 +1,18 @@
+{
+  "id": 11872,
+  "type": "monster",
+  "name": "Dragonox, der ermächtigte Krieger",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Karte abwerfen und dann 1 Monster vom Typ Krieger oder Hexer mit 2000 oder weniger ATK in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die verdeckte Verteidigungsposition.",
+  "pendEffect": "Wenn ein Monster deines Gegners einen Angriff deklariert: Du kannst diese Karte zerstören, dann beende die Battle Phase.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

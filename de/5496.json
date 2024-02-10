@@ -1,0 +1,15 @@
+{
+  "id": 5496,
+  "type": "monster",
+  "name": "Lava-Golem",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) auf die Spielfeldseite deines Gegners beschworen werden, indem du 2 Monster, die er kontrolliert, als Tribut anbietest. Du kannst in dem Spielzug, in dem du diese Karte als Spezialbeschwörung beschwörst, kein Monster als Normalbeschwörung beschwören/setzen. Einmal pro Spielzug, während deiner Standby Phase: Du erhältst 1000 Schaden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10251,
+  "type": "monster",
+  "name": "Schneemann-Maschine",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte beschworen wird: Du kannst eine Anzahl Eis-Zählmarken in Höhe der Anzahl der WASSER Monster, die du kontrollierst, auf offene Monster legen, die dein Gegner kontrolliert, und dann, falls du durch diesen Effekt 3 oder mehr Eis-Zählmarken auf Monster gelegt hast, kannst du 1 Karte zerstören, die dein Gegner kontrolliert.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5424,
+  "type": "monster",
+  "name": "Würfelkrug",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Beide Spieler werfen einen sechsseitigen Würfel. Der Spieler mit dem niedrigeren Ergebnis erhält Schaden in Höhe des Ergebnisses seines Gegners x 500. Wenn der Gewinner allerdings eine 6 gewürfelt hat, erhält der Verlierer 6000 Schaden. Falls beide Ergebnisse gleich sind, würfeln beide Spieler noch einmal.",
+  "level": 3,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

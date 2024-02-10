@@ -1,0 +1,15 @@
+{
+  "id": 5777,
+  "type": "monster",
+  "name": "König des Schreckens, Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normal- oder Flippbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Erzunterweltler“-Monster. Einmal pro Spielzug, während deiner Standby Phase, musst du 800 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der diese Karte als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 2 oder 5 würfelst, und falls du dies tust, zerstöre jene Karte. Annulliere die Effekte von Effektmonstern, die durch Kampf mit dieser Karte zerstört werden (einschließlich im Friedhof).",
+  "level": 4,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

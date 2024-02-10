@@ -1,0 +1,16 @@
+{
+  "id": 16217,
+  "type": "monster",
+  "name": "Untergangsbringer Psychopompos",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Spezialbeschwörung beschworen wird: Führe diesen Effekt aus, basierend darauf, ob dein Gegner mehr Monster oder mehr Zauber und Fallen in seinem Friedhof hat. (Falls mehr Monster, verbanne diese Karte und falls du dies tust, verbannt dein Gegner 1 Monster von seinem Friedhof. Falls mehr Zauber und Fallen, lege diese Karte auf den Friedhof und falls du dies tust, legt dein Gegner 1 Monster, das er kontrolliert, auf den Friedhof.) Während der End Phase des nächsten Spielzugs, nachdem diese Karte verbannt wurde: Du kannst diese verbannte Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Untergangsbringer Psychopompos“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7180,
+  "type": "monster",
+  "name": "ヴェノム・スネーク",
+  "nameRuby": "ヴェノム・スネーク",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "１ターンに１度だけ、相手フィールド上モンスター１体にヴェノムカウンターを１つ置く事ができる。この効果を使用したターンこのモンスターは攻撃宣言をする事ができない。",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "爬虫類族",
+    "効果"
+  ]
+}

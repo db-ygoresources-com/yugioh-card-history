@@ -1,0 +1,15 @@
+{
+  "id": 15502,
+  "type": "monster",
+  "name": "Alfa, o Mestre das Bestas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) enquanto o ATK total de todos os monstros que seu oponente controla for maior que o de todos os monstros que você controla. Você pode escolher qualquer número de monstros Besta, Besta-Guerreira e/ou Besta Alada que você controla; devolva-os para a mão e, depois, devolva monstros com a face para cima que seu oponente controla para a mão, igual ao número de cards que você devolveu para a mão e, além disso, pelo resto deste turno, \"Alfa, o Mestre das Bestas\" que você controla não pode atacar diretamente. Você só pode usar este efeito de \"Alfa, o Mestre das Bestas\" uma vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Besta",
+    "Efeito"
+  ]
+}

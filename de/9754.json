@@ -1,0 +1,16 @@
+{
+  "id": 9754,
+  "type": "monster",
+  "name": "Wildes Langohr",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Füge deinem Gegner 1000 Schaden für jedes offene Normale Monster zu, das du kontrollierst, außer Spielmarken.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1900,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

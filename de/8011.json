@@ -1,0 +1,16 @@
+{
+  "id": 8011,
+  "type": "monster",
+  "name": "Schwarzflügel - Gale der Wirbelwind",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du ein „Schwarzflügel“-Monster außer „Schwarzflügel - Gale der Wirbelwind“ kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; die ATK/DEF jenes gewählten Ziels werden zur Hälfte seiner derzeitigen ATK/DEF.",
+  "level": 3,
+  "atk": 1300,
+  "def": 400,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

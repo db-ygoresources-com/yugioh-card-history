@@ -1,0 +1,18 @@
+{
+  "id": 16213,
+  "type": "monster",
+  "name": "Menschenjagende Intelligenz ME-PSY-YA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte in deiner Hand vorzeigen; füge 1 anderes Pendelmonster von deiner Hand oder 1 Karte von deiner Pendelzone dem Extra Deck seines oder ihres Besitzers offen hinzu und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Menschenjagende Intelligenz ME-PSY-YA“ nur einmal pro Spielzug verwenden. Falls ein oder mehr andere Monster als Normal- oder Spezialbeschwörung beschworen werden, solange du diese Karte kontrollierst: Lege die Monster während der End Phase dieses Spielzugs auf den Friedhof.",
+  "pendEffect": "Jede Karte, die auf den Friedhof gelegt wird, wird stattdessen verbannt, außer Monsterkarten.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Cyberse",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5258,
+  "type": "monster",
+  "name": "환영의 요정",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "이 카드가 상대 몬스터로부터 공격을 받은 경우, 다른 자신의 몬스터 1장이 공격을 받은 것으로 하여, 데미지 계산을 실행한다.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "식물족",
+    "효과"
+  ]
+}

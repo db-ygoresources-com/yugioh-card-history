@@ -1,0 +1,15 @@
+{
+  "id": 7210,
+  "type": "monster",
+  "name": "Frost-und-Flammen-Drache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 FEUER und 2 WASSER Monster von deinem Friedhof verbannst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 Karte abwerfen, um 1 Monster auf dem Spielfeld zu wählen; zerstöre das gewählte Ziel.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

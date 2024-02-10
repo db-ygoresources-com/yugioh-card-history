@@ -1,0 +1,16 @@
+{
+  "id": 8331,
+  "type": "monster",
+  "name": "Turbokanone",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "„Turborakete“ + 1 oder mehr Nicht-Empfänger-Monster\nEinmal pro Spielzug kannst du 1 offenes Monster auf dem Spielfeld zerstören und seinem Beherrscher Schaden in Höhe der Hälfte seiner ATK zufügen.",
+  "level": 3,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

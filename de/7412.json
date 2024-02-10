@@ -1,0 +1,16 @@
+{
+  "id": 7412,
+  "type": "monster",
+  "name": "Gepanzerter Cybern",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug kannst du: 1 „Cyber Drache“, den du kontrollierst, oder 1 Fusionsmonster, das du kontrollierst und das „Cyber Drache“ als Fusionsmaterial aufführt, wählen; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Einmal pro Spielzug, solange diese Karte ein Monster durch diesen Effekt ausrüstet: Du kannst 1 offenes Monster auf dem Spielfeld wählen; das ausgerüstete Monster verliert genau 1000 ATK (selbst falls diese Karte das Spielfeld verlässt) und falls es dies tut, zerstöre das gewählte Ziel. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

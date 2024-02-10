@@ -1,0 +1,17 @@
+{
+  "id": 5034,
+  "type": "monster",
+  "name": "Cipher-Soldat",
+  "oldName": "Kinetischer Soldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "notes": "Kartenname geändert von „Kinetischer Soldat\" am 18-11-2016.",
+  "effectText": "Falls diese Karte gegen ein Monster vom Typ Krieger kämpft, während der Schadensberechnung: Diese Karte erhält nur während der Schadensberechnung 2000 ATK und DEF.",
+  "level": 3,
+  "atk": 1350,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

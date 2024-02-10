@@ -1,0 +1,16 @@
+{
+  "id": 18173,
+  "type": "monster",
+  "name": "Dimensionaler Allotrop Varis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht durch Kampf mit einem Monster mit demselben Typ oder derselben Eigenschaft wie diese Karte zerstört werden. Du kannst 1 Monstertyp und 1 Eigenschaft deklarieren; diese Karte wird bis zum Ende des Spielzugs deines Gegners zu jenem Typ und jener Eigenschaft. Du kannst diesen Effekt von „Dimensionaler Allotrop Varis“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

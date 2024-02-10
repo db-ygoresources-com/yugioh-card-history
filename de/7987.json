@@ -1,0 +1,16 @@
+{
+  "id": 7987,
+  "type": "monster",
+  "name": "Waffe aus der Waffenkammer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug kannst du: 1 Monster auf dem Spielfeld wählen; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung in die Angriffsposition beschwören. Solange das gewählte Ziel durch diesen Effekt ausgerüstet ist, erhält es 1000 ATK. Falls das gewählte Ziel ein Monster durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner Schaden in Höhe der Grund-ATK des zerstörten Monsters zu.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

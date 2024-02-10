@@ -1,0 +1,15 @@
+{
+  "id": 8322,
+  "type": "monster",
+  "name": "Magikatze",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte für die Synchrobeschwörung eines Synchromonsters vom Typ Hexer auf den Friedhof gelegt wird, kannst du 1 Zauberkarte von deinem Friedhof auf dein Deck zurücklegen.",
+  "level": 2,
+  "atk": 600,
+  "def": 500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14573,
+  "type": "monster",
+  "name": "Kampfwespe - Hellebarde der Sturmangriff",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Insekt-Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Kampf, während der Schadensberechnung, falls diese Karte ein Monster eines Gegners mit gleich viel oder höheren ATK angreift (Schnelleffekt): Du kannst die ATK des Monsters des Gegners nur während der Schadensberechnung halbieren. Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst deinem Gegner für jedes „Kampfwespe“-Monster, das du kontrollierst, 200 Schaden zufügen. Du kannst diesen Effekt von „Kampfwespe - Hellebarde der Sturmangriff“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "Insekt",
+    "Synchro",
+    "Effekt"
+  ]
+}

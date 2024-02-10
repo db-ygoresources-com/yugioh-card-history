@@ -1,0 +1,15 @@
+{
+  "id": 9894,
+  "type": "monster",
+  "name": "Insektor Libelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Falls eine oder mehr Ausrüstungskarten auf deinen Friedhof gelegt werden, solange sie diese Karte ausrüsten (außer während des Damage Steps): Du kannst 1 „Insektor“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Insektor Libelle“. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 3 erhöht.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

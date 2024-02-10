@@ -1,0 +1,16 @@
+{
+  "id": 19146,
+  "type": "monster",
+  "name": "Visas Samsara",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Der Name dieser Karte wird zu „Visas Starfrost“, solange sie auf dem Spielfeld oder im Friedhof liegt. Du kannst eine beliebige Anzahl deiner „Visas“-Monster wählen, die verbannt sind, in deinem Friedhof und/oder auf deiner Spielfeldseite liegen; mische jene „Visas“-Monster ins Deck und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, erhält sie für jedes Monster mit einem unterschiedlichen Grund-Namen, das du gemischt hast, 400 ATK. Du kannst diesen Effekt von „Visas Samsara“ nur einmal pro Spielzug verwenden. Falls diese Karte, die du kontrollierst, als Synchromaterial verwendet würde, kannst du sie als Nicht-Empfänger behandeln.",
+  "level": 4,
+  "atk": 1500,
+  "def": 2100,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

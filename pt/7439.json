@@ -1,0 +1,16 @@
+{
+  "id": 7439,
+  "type": "monster",
+  "name": "Mosquito Magnético",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VIRE: Destrua todos os monstros Máquina no campo.",
+  "level": 3,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "Inseto",
+    "Virar",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7571,
+  "type": "monster",
+  "name": "Athena",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein oder mehr andere Fee-Monster beschworen werden: Füge deinem Gegner 600 Schaden zu. Einmal pro Spielzug: Du kannst 1 offenes Fee-Monster, das du kontrollierst, außer „Athena“, auf den Friedhof legen und dann 1 Fee-Monster in deinem Friedhof wählen, außer „Athena“; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 7,
+  "atk": 2600,
+  "def": 800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

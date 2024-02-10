@@ -1,0 +1,16 @@
+{
+  "id": 11000,
+  "type": "monster",
+  "name": "Felis, Lichtverpflichteter Bogenschütze",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Falls diese Karte durch einen Monstereffekt vom Deck auf deinen Friedhof gelegt wird: Beschwöre sie als Spezialbeschwörung. Du kannst diese Karte als Tribut anbieten und dann 1 Monster wählen, das dein Gegner kontrolliert; zerstöre jenes gewählte Ziel, dann lege die obersten 3 Karten deines Decks auf den Friedhof.",
+  "level": 4,
+  "atk": 1100,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

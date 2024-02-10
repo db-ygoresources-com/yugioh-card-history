@@ -1,0 +1,18 @@
+{
+  "id": 11968,
+  "type": "monster",
+  "name": "Vektor-Pendel, der Drachoberherr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dieser Oberherr hat mit seiner Armee aus Drachounterweltlern eine gesamte Welt überrannt und alles Leben darauf mithilfe seiner Drachenalchemie in seine schrecklichen Knechte verwandelt. Der Quell seiner Macht ist unbekannt und wahrscheinlich aus einer anderen Dimension.",
+  "pendEffect": "Annulliere alle Karteneffekte in den Pendelzonen deines Gegners.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1850,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Normal"
+  ]
+}

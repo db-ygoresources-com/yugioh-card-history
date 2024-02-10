@@ -1,0 +1,18 @@
+{
+  "id": 16818,
+  "type": "monster",
+  "name": "D/D-Greif",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du ein „D/D“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Falls diese Karte als Pendelbeschwörung beschworen wird: Du kannst 1 „D/D“- oder „Dunkler Vertrag“-Karte abwerfen; ziehe 1 Karte. Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst deiner Hand 1 „D/D“-Karte von deinem Deck hinzufügen, außer „D/D-Greif“. Du kannst jeden Effekt von „D/D-Greif“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 Unterweltler-Monster wählen, das du kontrollierst; es erhält für jede/n „Dunkler Vertrag“-Zauber/Falle mit unterschiedlichem Namen, der oder die sich derzeit auf deiner Spielfeldseite oder in deinem Friedhof befindet, (bis zum Ende dieses Spielzugs) 500 ATK, dann zerstöre diese Karte. Du kannst diesen Effekt von „D/D-Greif“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

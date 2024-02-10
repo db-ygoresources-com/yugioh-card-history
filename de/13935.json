@@ -1,0 +1,21 @@
+{
+  "id": 13935,
+  "type": "monster",
+  "name": "Agavendrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Monster, außer Spielmarken\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst diese Effekte nacheinander ausführen, abhängig von den Typen der Monster in den Friedhöfen (überspringe alle, die nicht zutreffen). Du kannst diesen Effekt von „Agavendrache“ nur einmal pro Spielzug verwenden.\n●Füge deinem Gegner für jeden Drachen 100 Schaden zu.\n●Diese Karte erhält für jeden Dinosaurier 200 ATK.\n●Alle Monster, die dein Gegner derzeit kontrolliert, verlieren für jede Seeschlange 300 ATK.\n●Du erhältst für jeden Wyrm 400 LP.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Wyrm",
+    "Link",
+    "Effekt"
+  ]
+}

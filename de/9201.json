@@ -1,0 +1,15 @@
+{
+  "id": 9201,
+  "type": "monster",
+  "name": "Edler Ritter Johanna",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte angreift, verliert sie nur während des Damage Steps 300 ATK. Falls diese Karte, die dir gehört, durch eine Karte deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 Krieger-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1300,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

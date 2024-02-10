@@ -1,0 +1,18 @@
+{
+  "id": 14739,
+  "type": "monster",
+  "name": "D/D-Übel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht angreifen, es sei denn, du kontrollierst ein anderes „D/D“-Monster. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 offenes als Pendelbeschwörung beschworenes Monster wählen, das dein Gegner kontrolliert; annulliere die Effekte des offenen Monsters bis zum Ende dieses Spielzugs. Du kannst diesen Effekt von „D/D-Übel“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal, solange diese Karte in deiner Pendelzone liegt, wenn dein Gegner ein oder mehr Monster als Pendelbeschwörung beschwört (außer während des Damage Steps): Du kannst diesen Effekt aktivieren; in diesem Spielzug können die als Pendelbeschwörung beschworenen Monster nicht angreifen, zusätzlich werden ihre Effekte annulliert.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9207,
+  "type": "monster",
+  "name": "Psi-Albtraum",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Psi\nEinmal pro Spielzug, während deiner Main Phase, kannst du 1 zufällige Karte in der Hand deines Gegners bestimmen und raten, welchen Typ sie hat (Monster, Zauber oder Falle). Falls du richtig geraten hast, erhält diese Karte bis zur End Phase deines Gegners 1000 ATK.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4923,
+  "type": "monster",
+  "name": "Speer-Idiot",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wenn diese Karte, nachdem sie geflippt wurde, vom Spielfeld auf den Friedhof gelegt wird, beschwört jeder Spieler 1 Monster aus dem eigenen Friedhof als Spezialbeschwörung, offen in Angriffsposition oder verdeckt in Verteidigungsposition.",
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

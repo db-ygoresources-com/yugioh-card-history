@@ -1,0 +1,17 @@
+{
+  "id": 6683,
+  "type": "monster",
+  "name": "サーチライトメン",
+  "nameRuby": "サーチライトメン",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "リバース：このターン相手プレイヤーはフィールド上にカードをセットする事ができない。",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "機械族",
+    "リバース",
+    "効果"
+  ]
+}

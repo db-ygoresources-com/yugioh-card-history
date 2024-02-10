@@ -1,0 +1,15 @@
+{
+  "id": 12358,
+  "type": "monster",
+  "name": "Pequena Maga Chocolate",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Uma vez por turno: você pode descartar 1 monstro Mago; compre 1 card. Uma vez por turno, se este card for escolhido como alvo de um ataque: você pode escolher 1 monstro Mago no seu Cemitério, exceto \"Pequena Maga Chocolate\"; Invoque-o por Invocação-Especial e, depois, mude o alvo do ataque para ele e, se isso acontecer, o ATK do monstro atacante se torna metade do seu ATK atual.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

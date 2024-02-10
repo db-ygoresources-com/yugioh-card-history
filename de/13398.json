@@ -1,0 +1,15 @@
+{
+  "id": 13398,
+  "type": "monster",
+  "name": "Artefakt Mjöllnir",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte von deiner Hand als Zauber in deine Zauber- & Fallenzone setzen. Während des Spielzugs deines Gegners, falls diese gesetzte Karte in der Zauber- & Fallenzone zerstört und auf deinen Friedhof gelegt wird: Beschwöre sie als Spezialbeschwörung. Falls diese Karte während des Spielzugs deines Gegners als Spezialbeschwörung beschworen wird: Wähle 1 „Artefakt“-Monster in deinem Friedhof; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, zusätzlich kannst du bis zum Ende des nächsten Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Artefakt“-Monstern. Du kannst diesen Effekt von „Artefakt Mjöllnir“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1300,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

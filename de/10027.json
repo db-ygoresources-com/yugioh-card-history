@@ -1,0 +1,15 @@
+{
+  "id": 10027,
+  "type": "monster",
+  "name": "Tasuke-Ritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn ein Monster deines Gegners einen Angriff deklariert, solange du keine Karten in deiner Hand hast und diese Karte in deinem Friedhof liegt: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören, dann die Battle Phase beenden. Du kannst diesen Effekt von „Tasuke-Ritter“ nur einmal pro Duell verwenden.",
+  "level": 4,
+  "atk": 1700,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

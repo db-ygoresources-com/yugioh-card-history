@@ -1,0 +1,15 @@
+{
+  "id": 9880,
+  "type": "monster",
+  "name": "Schocktopus",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte durch Kampf mit einem Monster deines Gegners zerstört und auf den Friedhof gelegt wird: Du kannst das Monster deines Gegners mit dieser Karte ausrüsten. Die ATK des Monsters werden zu 0, zusätzlich kann es seine Kampfposition nicht ändern.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5959,
+  "type": "monster",
+  "name": "Raketenspringer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn die einzigen Karten auf der Spielfeldseite deines Gegners Monster sind, die sich in Verteidigungsposition befinden, kann diese Karte die Life Points deines Gegners direkt angreifen.",
+  "level": 3,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

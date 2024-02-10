@@ -1,0 +1,15 @@
+{
+  "id": 17361,
+  "type": "monster",
+  "name": "Labrynth-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Erhält für jede Normale Falle mit einem unterschiedlichen Namen in deinem Friedhof 400 ATK. Monster deines Gegners können Unterweltler-Monster nicht als Angriffsziel wählen, außer „Labrynth-Erzunterweltler“. Du kannst jeden der folgenden Effekte von „Labrynth-Erzunterweltler“ nur einmal pro Spielzug verwenden. Falls eine Fallenkarte aktiviert wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Normale Falle, die nur aktiviert werden kann, wenn ein Angriff deklariert wird, von deinem Deck setzen.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

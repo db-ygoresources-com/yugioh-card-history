@@ -1,0 +1,15 @@
+{
+  "id": 16383,
+  "type": "monster",
+  "name": "Blumenweise",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 Monster, das du kontrollierst, und 1 Karte auf dem Spielfeld wählen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, zerstöre sie. Falls diese Karte vom Spielfeld auf deinen Friedhof gelegt wird: Du kannst 1 anderes Monster in deinem Friedhof wählen; mische es ins Deck, dann füge deiner Hand 1 Pflanze-Monster der Stufe 1 von deinem Deck oder Friedhof hinzu. Du kannst jeden Effekt von „Blumenweise“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2900,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

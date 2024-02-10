@@ -1,0 +1,16 @@
+{
+  "id": 7667,
+  "type": "monster",
+  "name": "Nesseln",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese offene Karte zerstört werden würde, kannst du stattdessen 1 offenes Monster vom Typ Pflanze zerstören, das du kontrollierst.",
+  "level": 2,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

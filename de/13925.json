@@ -1,0 +1,16 @@
+{
+  "id": 13925,
+  "type": "monster",
+  "name": "Frequenzweichen-Schimäre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Cyberse-Monster\nEinmal pro Spielzug: Du kannst 1 Cyberse-Monster als Tribut anbieten; Zauber-/Fallenkarten und ihre Effekte können nicht während der Battle Phase dieses Spielzugs aktiviert werden. Falls diese als Fusionsbeschwörung beschworene Karte auf deinen Friedhof gelegt wird: Du kannst 1 „Cynet-Fusion“ und 1 Cyberse-Monster in deinem Friedhof wählen, außer dieser Karte, füge sie deiner Hand hinzu. Du kannst diesen Effekt von „Frequenzweichen-Schimäre“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Cyberse",
+    "Fusion",
+    "Effekt"
+  ]
+}

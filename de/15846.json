@@ -1,0 +1,16 @@
+{
+  "id": 15846,
+  "type": "monster",
+  "name": "Lavalval-Salamander",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ FEUER Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 2 Karten ziehen, dann, falls du ein FEUER Monster in deiner Hand hast, lege 2 Karten von deiner Hand auf den Friedhof, darunter ein FEUER Monster. Zeige andernfalls deine gesamte Hand vor und mische sie ins Deck. Du kannst diesen Effekt von „Lavalval-Salamander“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 FEUER Monster von deinem Friedhof verbannen; ändere offene Monster, die dein Gegner kontrolliert, bis zur Anzahl der „Laval“-Monster, die du kontrollierst, in die verdeckte Verteidigungsposition.",
+  "level": 7,
+  "atk": 2600,
+  "def": 200,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

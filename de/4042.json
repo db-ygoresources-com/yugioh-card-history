@@ -1,0 +1,15 @@
+{
+  "id": 4042,
+  "type": "monster",
+  "name": "Schlangenhaare",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Ein Monster mit einem Kopf voller giftiger Schlangen. Ein Blick von diesem Monster kann einen Gegner zu Stein erstarren lassen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Normal"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 16089,
+  "type": "monster",
+  "name": "LaSolfakkord Angelia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange du einen ungeraden Pendelbereich in deiner Pendelzone hast, falls dein „Solfakkord“-Pendelmonster angreift, kann dein Gegner bis zum Ende des Damage Steps weder Zauber-/Fallenkarten noch -effekte aktivieren. Während deiner Main Phase: Du kannst 1 „Solfakkord“-Pendelmonster als Tribut anbieten (selbst falls es verdeckt ist) und falls du dies tust, beschwöre 1 „Solfakkord“-Pendelmonster, dessen Pendelbereich 2 höher oder 2 niedriger als der des Monsters ist, als Spezialbeschwörung von deinem Deck, außer „LaSolfakkord Angelia“. Du kannst diesen Effekt von „LaSolfakkord Angelia“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Dein Gegner kann weder eine Zauber-/Fallenkarte noch einen Monstereffekt aktivieren, wenn dein oder deine „Solfakkord“-Pendelmonster als Pendelbeschwörung beschworen werden.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

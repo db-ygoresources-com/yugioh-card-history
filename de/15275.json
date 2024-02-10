@@ -1,0 +1,17 @@
+{
+  "id": 15275,
+  "type": "monster",
+  "name": "Flammedler Ritter-Hauptmann Roland",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; während der End Phase dieses Spielzugs lege 1 Ausrüstungszauber von deinem Deck auf den Friedhof, dann füge deiner Hand 1 Krieger-Monster von deinem Deck hinzu. Während der Main Phase, falls sich diese Karte in deinem Friedhof befindet (Schnelleffekt): Du kannst 1 Krieger-Monster wählen, das du kontrollierst; rüste das Monster, das du kontrollierst, mit dieser Karte als Ausrüstungszauber aus, der ihm 500 ATK gibt. Du kannst jeden Effekt von „Flammedler Ritter-Hauptmann Roland“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

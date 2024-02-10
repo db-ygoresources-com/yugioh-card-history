@@ -1,0 +1,16 @@
+{
+  "id": 10002,
+  "type": "monster",
+  "name": "Blech-Erzherzog",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "3 Monster der Stufe 4\nEinmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 Xyz-Material von dieser Karte abhängen und dann 1 Monster wählen, das dein Gegner kontrolliert; ändere seine Kampfposition. (Die Effekte von Flippmonstern werden nicht aktiviert.)",
+  "rank": 4,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

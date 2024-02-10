@@ -1,0 +1,16 @@
+{
+  "id": 13924,
+  "type": "monster",
+  "name": "Donnerdrachen-Titan",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "3 „Donnerdrache“-Monster\nMuss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung beschworen werden, indem du 1 Donner-Monster von deiner Hand und 1 Donner-Fusionsmonster, das du kontrollierst, verbannst, außer „Donnerdrachen-Titan“ (in diesem Fall wird „Polymerisation“ nicht verwendet). Wenn der Effekt eines Donner-Monsters in der Hand aktiviert wird, selbst während des Damage Steps (Schnelleffekt): Du kannst 1 Karte auf dem Spielfeld zerstören. Falls diese Karte durch einen Karteneffekt zerstört würde, kannst du stattdessen 2 Karten von deinem Friedhof verbannen.",
+  "level": 10,
+  "atk": 3200,
+  "def": 3200,
+  "properties": [
+    "Donner",
+    "Fusion",
+    "Effekt"
+  ]
+}

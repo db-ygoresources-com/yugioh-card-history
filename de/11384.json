@@ -1,0 +1,16 @@
+{
+  "id": 11384,
+  "type": "monster",
+  "name": "Herold des Bogenlichts",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nMonster, die von der Hand oder dem Main Deck auf den Friedhof gelegt werden, werden stattdessen verbannt. Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte. Falls diese Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Ritualmonster oder 1 Ritualzauber von deinem Deck hinzufügen.",
+  "level": 4,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Synchro",
+    "Effekt"
+  ]
+}

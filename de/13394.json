@@ -1,0 +1,18 @@
+{
+  "id": 13394,
+  "type": "monster",
+  "name": "Mythisches Ungeheuer Medusa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Einmal pro Spielzug, während der Battle Phase (Schnelleffekt): Du kannst 2 Zauberzählmarken von deiner Spielfeldseite entfernen und dann 1 offenes Monster auf dem Spielfeld wählen; seine ATK/DEF werden bis zum Ende dieses Spielzugs gleich der Hälfte seiner derzeitigen ATK/DEF.",
+  "pendEffect": "Falls du keine Karte in deiner anderen Pendelzone hast: Du kannst 1 Monster in deinem Friedhof wählen, auf das du eine Zauberzählmarke legen kannst; zerstöre diese Karte und falls du dies tust, beschwöre das Monster als Spezialbeschwörung und falls du dies tust, lege 1 Zauberzählmarke darauf. Du kannst diesen Effekt von „Mythisches Ungeheuer Medusa“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

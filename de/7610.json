@@ -1,0 +1,16 @@
+{
+  "id": 7610,
+  "type": "monster",
+  "name": "DUCKER Mobile Kanone",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Wähle 1 Monster der Stufe 4 in deinem Friedhof; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Flipp",
+    "Effekt"
+  ]
+}

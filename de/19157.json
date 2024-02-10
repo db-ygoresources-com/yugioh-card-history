@@ -1,0 +1,16 @@
+{
+  "id": 19157,
+  "type": "monster",
+  "name": "Watthunfisch",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann direkt angreifen. Du kannst jeden der folgenden Effekte von „Watthunfisch“ nur einmal pro Spielzug verwenden. Am Ende des Damage Steps, falls dein Monster deinem Gegner Kampfschaden zufügt: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt: Du kannst diese Karte auf dem Spielfeld und 1 oder mehr Nicht-Empfänger-Monster von deiner Hand und/oder offen von deiner Spielfeldseite als Tribut anbieten und 1 „Watt“-Synchromonster, dessen Stufe der Summe der Stufen jener als Tribut angebotenen Monster entspricht, als Spezialbeschwörung von deinem Extra Deck beschwören.",
+  "level": 4,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Donner",
+    "Empfänger",
+    "Effekt"
+  ]
+}

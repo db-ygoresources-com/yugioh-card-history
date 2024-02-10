@@ -1,0 +1,18 @@
+{
+  "id": 11788,
+  "type": "monster",
+  "name": "Mago Xiangsheng",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Seu oponente não sofre dano de batalha de ataques envolvendo este card. Uma vez por turno: você pode escolher 1 outro monstro com a face para cima que você controla; até o final deste turno, o ATK deste card se torna igual ao ATK atual desse monstro.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 Monstro Xyz com a face para cima que você controla e 1 monstro de Nível 5 ou mais que você controla; até o final deste turno, a Classe desse Monstro Xyz se torna igual ao Nível desse monstro de Nível 5 ou mais (mesmo que este card deixe o campo). Enquanto você controlar mais cards que o seu oponente, a Escala de Pêndulo deste card se torna 4.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

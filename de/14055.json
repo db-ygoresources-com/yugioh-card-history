@@ -1,0 +1,16 @@
+{
+  "id": 14055,
+  "type": "monster",
+  "name": "Tatsunekro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls dieses als Normalbeschwörung beschworene/gesetzte Monster als Synchromaterial verwendet würde, kann 1 Monster in deiner Hand als 1 des anderen Materials verwendet werden. Falls du dies tust, wird alles Material für die Beschwörung verbannt, anstatt auf den Friedhof gelegt zu werden. Du kannst keine Monster als Spezialbeschwörung beschwören, außer Zombie-Monstern.",
+  "level": 3,
+  "atk": 500,
+  "def": 1700,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

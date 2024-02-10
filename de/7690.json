@@ -1,0 +1,16 @@
+{
+  "id": 7690,
+  "type": "monster",
+  "name": "Frequenzmagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird, lege 1 Zauberzählmarke darauf (max. 1). Du kannst 1 Zauberzählmarke von dieser Karte entfernen, um 1 offenes Monster, das du kontrollierst, bis zur End Phase 500 ATK erhalten zu lassen.",
+  "level": 2,
+  "atk": 800,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

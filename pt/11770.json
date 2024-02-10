@@ -1,0 +1,18 @@
+{
+  "id": 11770,
+  "type": "monster",
+  "name": "Dragoons Marinhos de Draconia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Espreitando-se silenciosamente das profundezas do mar, as tropas de elite de operação secreta da marinha do Império de Draconia travam uma batalha incessante contra o odiado Principado de Dinon nas margens opostas do oceano.",
+  "pendEffect": "Quando um monstro for destruído em batalha: você pode Invocar por Invocação-Especial 1 Monstro Normal da sua mão. Você só pode usar este efeito de \"Dragoons Marinhos de Draconia\" uma vez por turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 200,
+  "def": 2100,
+  "properties": [
+    "Serpente Marinha",
+    "Pêndulo",
+    "Normal"
+  ]
+}

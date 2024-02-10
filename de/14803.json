@@ -1,0 +1,15 @@
+{
+  "id": 14803,
+  "type": "monster",
+  "name": "Flammedler Ritter - Roland",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "(Schnelleffekt): Du kannst 1 offenes Monster wählen, das du kontrollierst; rüste jenes gewählte Ziel mit dieser Karte von deiner Hand als Ausrüstungszauber aus, der jener Karte 500 ATK gibt. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst deiner Hand 1 FEUER Krieger-Monster, außer „Flammedler Ritter - Roland“, oder 1 Ausrüstungszauber von deinem Deck hinzufügen. Du kannst jeden Effekt von „Flammedler Ritter - Roland“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

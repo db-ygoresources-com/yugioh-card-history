@@ -1,0 +1,18 @@
+{
+  "id": 17113,
+  "type": "monster",
+  "name": "Künstlerkumpel Sanfrüde",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte zerstört wird: Du kannst 1 „Künstlerkumpel“-Pendelmonster von deinem Deck in deine Pendelzone legen, außer „Künstlerkumpel Sanfrüde“. Falls diese Karte sich offen in deinem Extra Deck befindet: Du kannst 1 Pendelmonster abwerfen; füge diese Karte deiner Hand hinzu, dann kannst du 1 „Künstlerkumpel“- oder „Buntäugig“-Karte von deiner Pendelzone auf die Hand zurückgeben. Du kannst nur 1 Effekt von „Künstlerkumpel Sanfrüde“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "pendEffect": "Falls „Künstlerkumpel Damenge“ in deiner anderen Pendelzone liegt und du keine Monster oder nur Pendelmonster kontrollierst: Du kannst deiner Hand 1 „Buntäugig“-Karte von deinem Deck hinzufügen. Du kannst diesen Effekt von „Künstlerkumpel Sanfrüde“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

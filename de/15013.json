@@ -1,0 +1,15 @@
+{
+  "id": 15013,
+  "type": "monster",
+  "name": "Harr, Generaider-Boss der Stürme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst nur 1 „Harr, Generaider-Boss der Stürme“ kontrollieren. Einmal pro Spielzug, falls dein Gegner seiner Hand eine oder mehr Karten vom Deck hinzufügt, außer während der Draw Phase (Schnelleffekt): Du kannst deinen Gegner 1 Monster von seiner Hand oder Spielfeldseite auf den Friedhof legen lassen (er bestimmt). Wenn eine Karte oder ein Effekt aktiviert wird (Schnelleffekt): Du kannst 2 „Generaider“- und/oder Hexer-Monster als Tribut anbieten; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte. Du kannst diesen Effekt von „Harr, Generaider-Boss der Stürme“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

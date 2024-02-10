@@ -1,0 +1,16 @@
+{
+  "id": 10269,
+  "type": "monster",
+  "name": "Die Kaiserin der Prophezeiung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster vom Typ Hexer der Stufe 5\nDiese Karte erhält 300 ATK für jedes Xyz-Material, das an Monster, die du kontrollierst, angehängt ist. Einmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; mische dein Deck, dann grabe die obersten 5 Karten deines Decks aus, zerstöre Monster auf dem Spielfeld bis zur Anzahl der ausgegrabenen „Magiebuch“-Karten, zusätzlich lege danach die ausgegrabenen Karten in beliebiger Reihenfolge auf das Deck.",
+  "rank": 5,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12360,
+  "type": "monster",
+  "name": "Felgrand, o Divino Senhor Dragão",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card for Invocado por Invocação-Especial do Cemitério: você pode escolher 1 monstro que seu oponente controla ou no Cemitério dele; bana-o e, se isso acontecer, este card ganha ATK e DEF igual ao Nível/Classe original do monstro banido x 100. Se este card destruir um monstro do oponente em batalha: você pode escolher 1 monstro do Tipo Dragão de Nível 7 ou 8 no Cemitério, exceto \"Felgrand, o Divino Senhor Dragão\"; Invoque-o por Invocação-Especial no seu campo.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2800,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}

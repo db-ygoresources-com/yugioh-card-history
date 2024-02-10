@@ -1,0 +1,16 @@
+{
+  "id": 17794,
+  "type": "monster",
+  "name": "Tränenklage Rulkallos",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "„Tränenklage Kitkallos“ + 1 „Tränenklage“-Monster\nAndere Aqua-Monster, die du kontrollierst, können nicht durch Kampf zerstört werden. Du kannst jeden der folgenden Effekte von „Tränenklage Rulkallos“ nur einmal pro Spielzug verwenden. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder einen Effekt enthält, der ein oder mehr Monster als Spezialbeschwörung beschwört (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre sie, dann lege 1 „Tränenklage“-Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof. Falls diese als Fusionsbeschwörung beschworene Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung beschwören.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Fusion",
+    "Effekt"
+  ]
+}

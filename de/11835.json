@@ -1,0 +1,19 @@
+{
+  "id": 11835,
+  "type": "monster",
+  "name": "Buntäugiger Rebellionsdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Drache-Monster der Stufe 7\nFalls du Stufe 7 als Pendelbeschwörung beschwören kannst, kannst du diese offene Karte in deinem Extra Deck als Pendelbeschwörung beschwören. Falls diese Karte als Xyz-Beschwörung beschworen wird, indem ein Xyz-Monster als Material verwendet wird: Zerstöre so viele Monster der Stufe 7 oder niedriger, die dein Gegner kontrolliert, wie möglich, und falls du dies tust, füge deinem Gegner für jede zerstörte Karte 1000 Schaden zu, zusätzlich kann diese Karte während jeder Battle Phase in diesem Spielzug 3 Angriffe durchführen. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst so viele Karten in deiner Pendelzone zerstören wie möglich (min. 1) und falls du dies tust, lege diese Karte in deine Pendelzone.",
+  "pendEffect": "Einmal pro Spielzug, falls du keine Karte in deiner anderen Pendelzone hast: Du kannst 1 Pendelmonster von deinem Deck in deine Pendelzone legen.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Pendel",
+    "Effekt"
+  ]
+}

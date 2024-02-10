@@ -1,0 +1,16 @@
+{
+  "id": 4468,
+  "type": "monster",
+  "name": "Unsterblicher des Donners",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Erhöhe deine Life Points um 3000 Punkte. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird, verlierst du 5000 Life Points.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Donner",
+    "Flipp",
+    "Effekt"
+  ]
+}

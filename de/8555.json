@@ -1,0 +1,16 @@
+{
+  "id": 8555,
+  "type": "monster",
+  "name": "Der sagenhafte Katsith",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte auf den Friedhof abgeworfen wird: Wähle 1 offene Karte auf dem Spielfeld; zerstöre das gewählte Ziel.",
+  "level": 1,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

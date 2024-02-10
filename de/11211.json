@@ -1,0 +1,18 @@
+{
+  "id": 11211,
+  "type": "monster",
+  "name": "Foucaults Kanone",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Eine mechanisierte Lebensform, die durch die Raumzeit streift. Aber das Merkwürdigste ist, dass ihre Erinnerungen f...st v...lig ver...unden sind. Wo...an li...t das? Wei...rt sie s...ch, mani...iert zu we...en?",
+  "pendEffect": "Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst 1 offene Zauber-/Fallenkarte auf dem Spielfeld wählen; zerstöre sie.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Normal"
+  ]
+}

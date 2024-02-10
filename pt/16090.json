@@ -1,0 +1,18 @@
+{
+  "id": 16090,
+  "type": "monster",
+  "name": "SiSolfacorde Beautia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "(Efeito Rápido): você pode escolher 1 Monstro de Efeito que seu oponente controla, ou, se você tiver uma Escala de Pêndulo par na sua Zona de Pêndulo, em vez disso, você pode escolher 1 Magia/Armadilha com a face para cima que seu oponente controla; neste turno, bana-o(a) quando ele(a) deixar o campo. Você só pode usar este efeito de \"SiSolfacorde Beautia\" uma vez por turno. Uma vez por turno, no começo da Etapa de Dano, se este card batalhar um monstro com um ATK igual ou maior que a menor Escala de Pêndulo na sua Zona de Pêndulo x 300: destrua esse monstro.",
+  "pendEffect": "Seu oponente não pode ativar Cards de Magia/Armadilha ou efeitos de monstro quando um ou mais Monstros Pêndulo \"Solfacorde\" seus forem Invocados por Invocação-Pêndulo.",
+  "pendScale": 2,
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

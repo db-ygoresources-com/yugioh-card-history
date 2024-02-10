@@ -1,0 +1,15 @@
+{
+  "id": 7421,
+  "type": "monster",
+  "name": "Finsterer bewaffneter Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du genau 3 FINSTERNIS Monster in deinem Friedhof hast. Du kannst 1 FINSTERNIS Monster von deinem Friedhof verbannen und dann 1 Karte auf dem Spielfeld wählen; zerstöre jenes gewählte Ziel.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

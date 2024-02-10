@@ -1,0 +1,16 @@
+{
+  "id": 18800,
+  "type": "monster",
+  "name": "Flammedler Ritter Ricciardetto",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst diese Karte von deiner Hand oder deinem Friedhof verbannen; beschwöre 1 FEUER Krieger-Monster der Stufe 4 oder niedriger als Spezialbeschwörung als Empfänger von deiner Hand. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 FEUER Krieger-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Flammedler Ritter Ricciardetto“; beschwöre es als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Krieger-Monstern. Du kannst nur 1 Effekt von „Flammedler Ritter Ricciardetto“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "level": 1,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

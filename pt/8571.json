@@ -1,0 +1,15 @@
+{
+  "id": 8571,
+  "type": "monster",
+  "name": "Bruxo da Barreira de Gelo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Enquanto você controlar outro monstro \"Barreira de Gelo\", os dois duelistas devem Baixar Cards de Magia antes de ativá-los e não podem ativá-los até seu próximo turno.",
+  "level": 3,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

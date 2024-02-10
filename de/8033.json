@@ -1,0 +1,15 @@
+{
+  "id": 8033,
+  "type": "monster",
+  "name": "Außerirdischer Oberherr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 2 A-Zählmarken von irgendwo auf dem Spielfeld entfernen, um diese Karte als Spezialbeschwörung von deiner Hand zu beschwören. Einmal pro Spielzug kannst du 1 A-Zählmarke auf jedes offene Monster legen, das dein Gegner kontrolliert. (Falls ein Monster mit A-Zählmarken gegen ein „Außerirdisch“-Monster kämpft, verliert es nur während der Schadensberechung 300 ATK und DEF für jede A-Zählmarke.) Du kannst nur 1 „Außerirdischer Oberherr“ kontrollieren.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13141,
+  "type": "monster",
+  "name": "Ninja do Crepúsculo Jogen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode revelar 1 card \"Ninjitsu\" na sua mão; Invoque este card por Invocação-Especial da sua mão. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante.",
+  "pendEffect": "Se um monstro \"Ninja\" seu atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

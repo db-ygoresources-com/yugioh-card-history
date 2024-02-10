@@ -1,0 +1,16 @@
+{
+  "id": 15022,
+  "type": "monster",
+  "name": "Geistertrauernde und Mondeskälte",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls dein Gegner ein oder mehr Monster offen als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst diese Karte abwerfen und dann 1 jener offenen Monster wählen; annulliere bis zum Ende dieses Spielzugs seine Effekte, zusätzlich erhält der Beherrscher jenes offenen Monsters Schaden in Höhe seiner Grund-ATK, falls es in diesem Spielzug das Spielfeld verlässt. Du kannst diesen Effekt von „Geistertrauernde und Mondeskälte“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

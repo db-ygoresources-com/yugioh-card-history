@@ -1,0 +1,18 @@
+{
+  "id": 15711,
+  "type": "monster",
+  "name": "Parametallfose-Melcaster",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst deiner Hand 1 offenes „Metallfose“-Pendelmonster von deinem Extra Deck hinzufügen, außer „Parametallfose-Melcaster“, aber du kannst für den Rest dieses Spielzugs weder das Pendelmonster noch Karten mit seinem Namen aktivieren, um sie in die Pendelzonen zu legen, außer durch einen Karteneffekt. Du kannst diesen Effekt von „Parametallfose-Melcaster“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 andere offene Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, setze 1 „Metallfose“-Zauber/Falle direkt von deinem Deck.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psi",
+    "Pendel",
+    "Effekt"
+  ]
+}

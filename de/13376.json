@@ -1,0 +1,15 @@
+{
+  "id": 13376,
+  "type": "monster",
+  "name": "Linkgurt-Wanddrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Wenn du eine Linkbeschwörung durchführst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, lege 2 Zählmarken darauf. Falls ein Monster als Linkbeschwörung beschworen wird: Entferne 2 dieser Zählmarken von dieser Karte (oder alle, falls es weniger als 2 gibt). Einmal pro Spielzug, während jeder Standby Phase: Lege 1 dieser Zählmarken auf diese Karte. Kein Monster kann als Linkbeschwörung beschworen werden, es sei denn, diese Karte hat mindestens so viele dieser Zählmarken wie die Linkzahl des Monsters. Monster können nicht angreifen, außer Linkmonstern.",
+  "level": 6,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

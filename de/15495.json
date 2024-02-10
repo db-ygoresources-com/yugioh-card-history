@@ -1,0 +1,15 @@
+{
+  "id": 15495,
+  "type": "monster",
+  "name": "Ewig infernaler Beschwörer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange du keine Karten in deiner Hand hast, verlieren Monster, die dein Gegner kontrolliert, 800 ATK. Solange du keine Karten in deiner Hand hast und sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Ewig infernaler Beschwörer“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

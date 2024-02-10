@@ -1,0 +1,16 @@
+{
+  "id": 7300,
+  "type": "monster",
+  "name": "Außerirdischer Hypno",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte offen auf dem Spielfeld liegt, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n● Während deiner Main Phase kannst du 1 Monster mit einer oder mehreren A-Zählmarken wählen, das dein Gegner kontrolliert, und die Kontrolle darüber übernehmen, solange diese Karte auf dem Spielfeld liegt. Während jeder deiner End Phasen, entferne 1 A-Zählmarke von jedem kontrollierten Monster. Falls alle A-Zählmarken von einem dieser Monster entfernt sind, zerstöre es.",
+  "level": 4,
+  "atk": 1600,
+  "def": 700,
+  "properties": [
+    "Reptil",
+    "Zwilling",
+    "Effekt"
+  ]
+}

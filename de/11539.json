@@ -1,0 +1,15 @@
+{
+  "id": 11539,
+  "type": "monster",
+  "name": "Infernoid Onuncu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 3 „Infernoid“-Monster von deiner Hand oder deinem Friedhof verbannst, solange die Summe der Stufen und Ränge aller Effektmonster, die du kontrollierst, 8 oder niedriger ist, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst alle anderen Monster auf dem Spielfeld zerstören. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers, wenn eine Zauber-/Fallenkarte oder ein Zauber-/Falleneffekt aktiviert wird: Du kannst 1 Monster als Tribut anbieten; annulliere die Aktivierung und falls du dies tust, verbanne die Karte.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

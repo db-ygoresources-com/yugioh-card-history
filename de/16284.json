@@ -1,0 +1,15 @@
+{
+  "id": 16284,
+  "type": "monster",
+  "name": "Pfahlbewaffneter Drache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst 1 anderes WIND Drache-Monster oder 1 anderes Drache-Monster der Stufe 7 oder höher von deiner Hand auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst 1 „Bewaffnete/r Drache“-Monster von deiner Hand oder deinem Deck auf den Friedhof legen, außer „Pfahlbewaffneter Drache“, und dann 1 offenes Monster wählen, das du kontrollierst; das als Ziel gewählte Monster erhält bis zum Ende dieses Spielzugs ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 300, zusätzlich kannst du in diesem Spielzug nur mit 1 Monster angreifen. Du kannst jeden Effekt von „Pfahlbewaffneter Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

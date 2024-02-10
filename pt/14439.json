@@ -1,0 +1,18 @@
+{
+  "id": 14439,
+  "type": "monster",
+  "name": "Endymion, o Poderoso Mestre da Magia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, quando um Card ou efeito de Magia/Armadilha for ativado (Efeito Rápido): você pode devolver para a mão 1 card que você controla com um Marcador de Magia e, se isso acontecer, negue a ativação e, se isso acontecer, destrua-o. Depois, você pode colocar neste card o mesmo número de Marcadores de Magia que o card devolvido tinha. Enquanto este card tiver um Marcador de Magia, seu oponente não pode escolher este card como alvo de efeitos de card e, além disso, ele não pode ser destruído pelos efeitos de card do seu oponente. Quando este card com um Marcador de Magia for destruído em batalha: você pode adicionar 1 Magia Normal do seu Deck à sua mão.",
+  "pendEffect": "Você pode remover 6 Marcadores de Magia do seu campo; Invoque este card por Invocação-Especial da Zona de Pêndulo e, depois, conte o número de cards que você controla que podem ter Marcadores de Magia, destrua até esse número de cards no campo e, se isso acontecer, coloque Marcadores de Magia neste card igual ao número de cards destruídos. Você só pode usar este efeito de \"Endymion, o Poderoso Mestre da Magia\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2800,
+  "def": 1700,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

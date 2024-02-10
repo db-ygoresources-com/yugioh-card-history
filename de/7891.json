@@ -1,0 +1,16 @@
+{
+  "id": 7891,
+  "type": "monster",
+  "name": "Psispringer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1000 LP zahlen und dann 1 offenes Monster, das dein Gegner kontrolliert, und 1 Monster vom Typ Psi, das du kontrollierst, außer „Psispringer“, wählen; vertausche die Kontrolle über die beiden gewählten Ziele und falls du dies tust, können ihre Kampfpositionen in diesem Spielzug nicht geändert werden.",
+  "level": 2,
+  "atk": 100,
+  "def": 1500,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

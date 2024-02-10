@@ -1,0 +1,18 @@
+{
+  "id": 17114,
+  "type": "monster",
+  "name": "Künstlerkumpel Damenge",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte und 1 „Künstlerkumpel“-Monster abwerfen, außer „Künstlerkumpel Damenge“; ziehe 2 Karten. Falls diese Karte in deinem Friedhof liegt und du eine „Buntäugig“-Karte oder „Künstlerkumpel Sanfrüde“ kontrollierst: Du kannst diese Karte in deine Pendelzone legen. Du kannst nur 1 Effekt von „Künstlerkumpel Damenge“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Angriff deklariert wird, an dem dein Monster und ein Monster eines Gegners beteiligt sind: Du kannst 1 Pendelmonster abwerfen; jenes Monster des Gegners verliert bis zum Ende dieses Spielzugs 1000 ATK.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

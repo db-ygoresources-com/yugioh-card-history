@@ -1,0 +1,16 @@
+{
+  "id": 7207,
+  "type": "monster",
+  "name": "Phantomgrille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Lege 1 verdecktes Monster vom Spielfeld auf das Deck seines Besitzers zurück.",
+  "level": 2,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

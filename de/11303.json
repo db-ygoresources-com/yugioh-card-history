@@ -1,0 +1,15 @@
+{
+  "id": 11303,
+  "type": "monster",
+  "name": "Primitiver Schmetterling",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Einmal pro Spielzug: Du kannst die Stufen aller Monster vom Typ Insekt, die du derzeit kontrollierst, um 1 erhöhen.",
+  "level": 5,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

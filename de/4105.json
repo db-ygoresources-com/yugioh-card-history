@@ -1,0 +1,15 @@
+{
+  "id": 4105,
+  "type": "monster",
+  "name": "Pumpking, Geisterkönig",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn „Schloss d. dunklen Illusionen“ offen auf dem Spielfeld liegt, erhöhen sich ATK und DEF dieser Karte um 100 Punkte. Solange „Schloss d. dunklen Illusionen“ offen auf dem Spielfeld liegt, erhöht sich in jeder Standby Phase des Spielers, der Pumpking, Geisterkönig kontrolliert, seine ATK und DEF um je 100 Punkte. Dieser Effekt hält bis zum vierten Zug nach Aktivierung der Karte an.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

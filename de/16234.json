@@ -1,0 +1,16 @@
+{
+  "id": 16234,
+  "type": "monster",
+  "name": "Voloferniges, der finsterste Drachen-Untergangsreiter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 7\nEinmal pro Spielzug: Du kannst 2 Material von dieser Karte abhängen und dann 1 offene Karte auf dem Spielfeld wählen; zerstöre sie und falls du ein Monster zerstört hast, kannst du 1 offenes Monster, das du kontrollierst, bis zum Ende des nächsten Spielzugs ATK in Höhe der Grund-Stufe / des Grund-Rangs des zerstörten Monsters x 300 erhalten lassen. Diese Karte kann nicht in dem Spielzug angreifen, in dem du diesen Effekt aktivierst. Dies ist ein Schnelleffekt, falls diese Karte ein Drache-Monster als Material hat, aber kann nicht im Damage Step aktiviert werden.",
+  "rank": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Effekt"
+  ]
+}

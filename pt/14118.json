@@ -1,0 +1,16 @@
+{
+  "id": 14118,
+  "type": "monster",
+  "name": "Shiranui Escudeirosaga",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nVocê só pode Invocar um ou mais \"Shiranui Escudeirosaga\" por Invocação-Especial uma vez por turno. Uma vez por turno: você pode banir 1 monstro com a face para cima que você controla ou no seu Cemitério e, depois, aplique esses efeitos, em sequencia, dependendo do que era o monstro antes de ser banido, caso fosse algum desses.\n●Zumbi: Você pode fazer com que todos os monstros que você controla ganhem 300 de ATK.\n●FOGO: Você pode destruir 1 Magia/Armadilha no campo.\n●Sincro: Você pode destruir 1 monstro no campo.",
+  "level": 7,
+  "atk": 2100,
+  "def": 0,
+  "properties": [
+    "Zumbi",
+    "Sincro",
+    "Efeito"
+  ]
+}

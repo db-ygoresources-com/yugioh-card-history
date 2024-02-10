@@ -1,0 +1,16 @@
+{
+  "id": 5139,
+  "type": "monster",
+  "name": "4-sterniger Marienkäfer der Verdammung",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Zerstöre alle Monster der Stufe 4, die dein Gegner kontrolliert.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

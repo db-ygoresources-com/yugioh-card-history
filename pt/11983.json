@@ -1,0 +1,18 @@
+{
+  "id": 11983,
+  "type": "monster",
+  "name": "Robô-secretário 006",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro no campo; mude sua posição de batalha. Este card ganha 500 de ATK para cada monstro \"Robô-secretário\" com a face para cima no seu Deck Adicional. Se este card na Zona de Pêndulo for destruído: você pode escolher 1 card \"Robô-secretário\" no seu Cemitério; adicione o alvo à sua mão. Você só pode usar este efeito de \"Robô-secretário 006\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Robô-secretário\". Este efeito não pode ser negado.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

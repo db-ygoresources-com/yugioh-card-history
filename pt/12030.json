@@ -1,0 +1,18 @@
+{
+  "id": 12030,
+  "type": "monster",
+  "name": "Camarartista Trumpanda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando um Monstro Pêndulo seu for escolhido como alvo de um ataque: você pode negar o ataque. Você só pode usar este efeito de \"Camarartista Trumpanda\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno: você pode aumentar a Escala de Pêndulo deste card em 1 (máx. 12).",
+  "pendScale": 3,
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Besta",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

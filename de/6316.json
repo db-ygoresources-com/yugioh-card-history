@@ -1,0 +1,15 @@
+{
+  "id": 6316,
+  "type": "monster",
+  "name": "Antikes Antriebsungeheuer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Annulliere die Effekte eines Monsters eines Gegners, das durch Kampf mit dieser Karte zerstört wird (einschließlich im Friedhof).",
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

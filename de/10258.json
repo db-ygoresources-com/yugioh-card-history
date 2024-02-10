@@ -1,0 +1,15 @@
+{
+  "id": 10258,
+  "type": "monster",
+  "name": "Haus-Staubon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese offene Karte auf dem Spielfeld durch eine Karte deines Gegners zerstört (entweder durch Kampf und sie lag am Beginn des Damage Steps offen oder durch einen Karteneffekt) und auf den Friedhof gelegt wird: Du kannst eine beliebige Anzahl „Staubon“-Monster von deiner Hand und/oder deinem Deck als Spezialbeschwörung auf beliebige Spielfeldseiten beschwören, aber du musst auf jede Spielfeldseite die gleiche Anzahl Monster als Spezialbeschwörung beschwören.",
+  "level": 1,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

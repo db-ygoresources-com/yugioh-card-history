@@ -1,0 +1,15 @@
+{
+  "id": 16419,
+  "type": "monster",
+  "name": "ZW - Sylphidflügel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst nur 1 „ZW - Sylphidflügel“ kontrollieren. Du kannst 1 „Utopia“-Monster wählen, das du kontrollierst; rüste es mit dieser Karte von deiner Hand oder Spielfeldseite aus. Es erhält 800 ATK. Einmal pro Spielzug, falls durch einen aktivierten Effekt deines Gegners ein oder mehr Monster als Spezialbeschwörung beschworen werden: Du kannst das ausgerüstete Monster 1600 ATK erhalten lassen. (Dieser ATK-Erhalt hält sogar an, falls diese Karte das Spielfeld verlässt oder das Monster von Karteneffekten nicht mehr berührt wird.) Falls du den Effekt des ausgerüsteten Monsters aktivierst, indem du sein Material abhängst, kannst du diese Karte statt 1 des Materials auf den Friedhof legen.",
+  "level": 4,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

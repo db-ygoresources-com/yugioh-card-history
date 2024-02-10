@@ -1,0 +1,15 @@
+{
+  "id": 12358,
+  "type": "monster",
+  "name": "Schokoladen-Magier-Mädchen",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Hexer-Monster abwerfen; ziehe 1 Karte. Einmal pro Spielzug, falls diese Karte als Ziel für einen Angriff gewählt wird: Du kannst 1 Hexer-Monster in deinem Friedhof wählen, außer „Schokoladen-Magier-Mädchen“; beschwöre es als Spezialbeschwörung, dann ändere das Angriffsziel darauf und falls du dies tust, werden die ATK des angreifenden Monsters gleich der Hälfte seiner derzeitigen ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

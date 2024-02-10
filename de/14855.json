@@ -1,0 +1,20 @@
+{
+  "id": 14855,
+  "type": "monster",
+  "name": "Feuerphönix @Ignister",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2+ Cyberse-Monster\nWährend der Schadensberechnung, falls diese Karte angreift: Du kannst deinem Gegner Schaden in Höhe der ATK dieser Karte zufügen und falls du dies tust, erhält dein Gegner aus dem Kampf keinen Kampfschaden. Falls diese Karte durch einen Karteneffekt zerstört wird: Du kannst 1 Monster zerstören, das dein Gegner kontrolliert. Während der nächsten Standby Phase, nachdem diese als Linkbeschwörung beschworene Karte zerstört und auf den Friedhof gelegt wurde: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Feuerphönix @Ignister“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2300,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

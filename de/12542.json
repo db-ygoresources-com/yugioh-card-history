@@ -1,0 +1,15 @@
+{
+  "id": 12542,
+  "type": "monster",
+  "name": "Händchen haltender Dschinn",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Monster, die dein Gegner kontrolliert, können keine Monster als Angriffsziel wählen, außer diesem. Erhält DEF in Höhe der Summe der Grund-DEF aller anderen Monster in offener Verteidigungsposition, die du kontrollierst.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

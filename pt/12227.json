@@ -1,0 +1,18 @@
+{
+  "id": 12227,
+  "type": "monster",
+  "name": "D/D Copernicus, o Erudito",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 card \"D/D\" ou \"Pacto Obscuro\" do seu Deck para o Cemitério, exceto \"D/D Copernicus, o Erudito\". Você só pode usar este efeito de \"D/D Copernicus, o Erudito\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"D/D\". Este efeito não pode ser negado. Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de Magia ativado que causaria dano a você e, depois, destrua este card.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

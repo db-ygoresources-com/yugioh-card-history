@@ -1,0 +1,18 @@
+{
+  "id": 10593,
+  "type": "monster",
+  "name": "Azuräugiger silberner Drache",
+  "oldName": "Himmelblauäugiger silberner Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "notes": "Kartenname geändert von „Himmelblauäugiger silberner Drache\" am 06-10-2016.",
+  "effectText": "1 Empfänger + 1 oder mehr Normale Nicht-Empfänger-Monster\nFalls diese Karte als Spezialbeschwörung beschworen wird: Monster vom Typ Drache, die du derzeit kontrollierst, können bis zum Ende des nächsten Spielzugs weder als Ziel für Karteneffekte gewählt noch durch diese zerstört werden. Einmal pro Spielzug, während deiner Standby Phase: Du kannst 1 Normales Monster in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 9,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14007,
+  "type": "monster",
+  "name": "Streifenpolizistin aus der Unterwelt",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster\nFalls diese Karte mit 2 FINSTERNIS Monstern mit unterschiedlichen Namen als Material als Linkbeschwörung beschworen wird, erhält sie diesen Effekt.\n●Du kannst 1 Monster als Tribut anbieten und dann 1 offene Karte auf dem Spielfeld wählen; lege 1 Patrouillen-Zählmarke darauf. Du kannst diesen Effekt von „Streifenpolizistin aus der Unterwelt“ nur einmal pro Spielzug verwenden. (Falls eine Karte mit einer Patrouillen-Zählmarke durch Kampf oder einen Karteneffekt zerstört würde, entferne stattdessen 1 Patrouillen-Zählmarke von ihr.)",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

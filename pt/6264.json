@@ -1,0 +1,16 @@
+{
+  "id": 6264,
+  "type": "monster",
+  "name": "Dragão Metralhadora",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "\"Dragão Revólver\" + \"Dragão Solta Fogo\"\nUma vez por turno: você pode lançar uma moeda 3 vezes e destruir tantos monstros no campo quanto for possível, mas não mais que o número de Caras.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Fusão",
+    "Efeito"
+  ]
+}

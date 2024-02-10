@@ -1,0 +1,15 @@
+{
+  "id": 12403,
+  "type": "monster",
+  "name": "Künstlerkumpel Aufblastapir",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während der Schadensberechnung (im Spielzug eines beliebigen Spielers), falls ein Monster, das du kontrollierst, gegen ein Monster deines Gegners kämpft: Du kannst diese Karte abwerfen; kein Spieler erhält aus dem Kampf Kampfschaden. Wenn ein Monster deines Gegners einen direkten Angriff deklariert, solange sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Künstlerkumpel“-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung in die Verteidigungsposition. Du kannst diesen Effekt von „Künstlerkumpel Aufblastapir“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

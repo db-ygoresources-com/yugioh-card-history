@@ -1,0 +1,16 @@
+{
+  "id": 10060,
+  "type": "monster",
+  "name": "Absorptionskrug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Zerstöre alle gesetzten Zauber/Fallen auf dem Spielfeld, dann zieht jeder Spieler für jede Karte, die er kontrolliert hat und die durch diesen Effekt zerstört wurde, 1 Karte. Du kannst in diesem Spielzug keine Karten setzen.",
+  "level": 3,
+  "atk": 600,
+  "def": 500,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

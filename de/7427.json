@@ -1,0 +1,16 @@
+{
+  "id": 7427,
+  "type": "monster",
+  "name": "Gigapflanze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie zu einem Effektmonster mit diesem Effekt wird.\n●Einmal pro Spielzug: Du kannst 1 Insekt- oder Pflanze-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Pflanze",
+    "Zwilling",
+    "Effekt"
+  ]
+}

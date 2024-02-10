@@ -1,0 +1,15 @@
+{
+  "id": 8405,
+  "type": "monster",
+  "name": "Zauberbrecherin der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Eisbarriere“-Monster von deiner Hand auf den Friedhof legen; kein Spieler kann bis zum Ende deines nächsten Spielzugs Zauberkarten aktivieren, solange dieses Monster offen auf dem Spielfeld liegt.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

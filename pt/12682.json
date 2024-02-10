@@ -1,0 +1,15 @@
+{
+  "id": 12682,
+  "type": "monster",
+  "name": "Algo Mágico",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. O Nível deste card aumenta pelo número de Marcadores de Magia sobre ele. Você pode remover 3 Marcadores de Magia deste card e, depois, escolher 1 Magia Rápida no seu Cemitério; Baixe esse card na sua Zona de Magias & Armadilhas. Você só pode usar este efeito de \"Algo Mágico\" uma vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1300,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

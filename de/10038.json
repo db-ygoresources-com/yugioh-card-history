@@ -1,0 +1,15 @@
+{
+  "id": 10038,
+  "type": "monster",
+  "name": "Riesenbohrer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst die Stufen aller Monster vom Typ Maschine, die du derzeit kontrollierst, um 1 erhöhen. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Falls diese Karte angreift, wird sie am Ende des Damage Steps in die Verteidigungsposition geändert.",
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

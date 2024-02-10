@@ -1,0 +1,16 @@
+{
+  "id": 12293,
+  "type": "monster",
+  "name": "Meister mit den blauen Augen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 LICHT Empfänger der Stufe 1 in deinem Friedhof wählen; füge ihn deiner Hand hinzu. Du kannst diese Karte von deinem Friedhof ins Deck mischen und dann 1 Effektmonster wählen, das du kontrollierst; lege es auf den Friedhof und falls du dies tust, beschwöre 1 „Blauäugig“-Monster als Spezialbeschwörung von deinem Friedhof, außer dem auf den Friedhof gelegten Monster. Du kannst diesen Effekt von „Meister mit den blauen Augen“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 300,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

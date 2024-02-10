@@ -1,0 +1,16 @@
+{
+  "id": 8575,
+  "type": "monster",
+  "name": "Das sagenhafte Einhorn",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Sagenhaft“-Empfänger + 1+ Nicht-Empfänger-Monster\nSolange du und dein Gegner dieselbe Anzahl Karten in der Hand haben, annulliere alle Karten und Effekte, die von deinem Gegner aktiviert werden, und falls du dies tust, zerstöre die Karten.",
+  "level": 4,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Synchro",
+    "Effekt"
+  ]
+}

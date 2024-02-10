@@ -1,0 +1,16 @@
+{
+  "id": 5582,
+  "type": "monster",
+  "name": "Dragão Negro como Azeviche",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno, durante a sua Main Phase, você pode equipar este card a \"Lâmina Sombria\" como um Card de Magia de Equipamento, OU separar o Equipamento e Invocar, por Invocação-Especial, este card em Posição de Ataque com a face para cima. Quando este card é equipado pelo efeito deste card, aumente o ATK/DEF do monstro equipado em 400 pontos, e quando ataca com um ATK superior ao DEF dum monstro em Posição de Defesa, inflija a diferença aos Life Points do seu adversário como dano de batalha. (1 monstro pode ser equipado apenas por 1 Monstro de Union de cada vez. Se o monstro equipado com este card é destruído como resultado de um combate, em vez disso destrúa este card.)",
+  "level": 3,
+  "atk": 900,
+  "def": 600,
+  "properties": [
+    "Dragão",
+    "Union",
+    "Efeito"
+  ]
+}

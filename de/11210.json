@@ -1,0 +1,17 @@
+{
+  "id": 11210,
+  "type": "monster",
+  "name": "Funkelnder Ritter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Die Macht des Pendels manifestiert sich bei diesem Ritter durch ein strahlendes Funkeln.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Normal"
+  ]
+}

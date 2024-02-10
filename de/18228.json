@@ -1,0 +1,16 @@
+{
+  "id": 18228,
+  "type": "monster",
+  "name": "Tapfere feuerrote Ordensritterin Bradamante",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "(Diese Karte wird immer als „Flammedler Ritter“-Karte behandelt.)\nDu kannst diese Karte abwerfen und dann 1 Krieger-Monster wählen, das du kontrollierst; rüste es mit 1 Ausrüstungszauber von deinem Deck aus, mit dem es ausgerüstet werden kann. Wenn diese Karte, die nicht mit einer Ausrüstungskarte ausgerüstet ist, durch Kampf mit einem Monster eines Gegners zerstört und auf den Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, rüste diese Karte mit jenem Monster aus, das dein Gegner kontrolliert. Du kannst jeden Effekt von „Tapfere feuerrote Ordensritterin Bradamante“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

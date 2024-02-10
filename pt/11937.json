@@ -1,0 +1,18 @@
+{
+  "id": 11937,
+  "type": "monster",
+  "name": "Mago do Dragão Tolo",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 Monstro Pêndulo \"Mago\" ou monstro \"Olhos Anômalos\" no seu Cemitério, exceto \"Mago do Dragão Tolo\"; adicione-o à sua mão. Você só pode usar este efeito de \"Mago do Dragão Tolo\" uma vez por turno.",
+  "pendEffect": "Se você tiver um card \"Mago\" na sua outra Zona de Pêndulo: você pode adicionar 1 Monstro Pêndulo \"Mago\" ou \"Olhos Anômalos\" com a face para cima do seu Deck Adicional à sua mão, exceto \"Mago do Dragão Tolo\". Você só pode usar este efeito de \"Mago do Dragão Tolo\" uma vez por turno.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

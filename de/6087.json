@@ -1,0 +1,15 @@
+{
+  "id": 6087,
+  "type": "monster",
+  "name": "Androsphinx",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn „Lichtpyramide“ offen auf dem Spielfeld liegt, kannst du 500 Life Points zahlen, um diese Karte als Spezialbeschwörung zu beschwören. Diese Karte kann in dem Spielzug, in dem sie als Normal- oder Spezialbeschwörung beschworen wurde, nicht angreifen. Diese Karte kann nicht als Spezialbeschwörung vom Friedhof beschworen werden. Wenn diese Karte ein Monster, das sich in Verteidigungsposition befindet, als Ergebnis eines Kampfes zerstört, füge den Life Points deines Gegners Schaden in Höhe der Hälfte der ATK des zerstörten Monsters zu.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8761,
+  "type": "monster",
+  "name": "Grabwächters Priesterin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange es keinen offenen Spielfeldzauber gibt, wird das Spielfeld als „Tal der Toten“ behandelt. Alle „Grabwächter“-Monster auf dem Spielfeld erhalten 200 ATK/DEF.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

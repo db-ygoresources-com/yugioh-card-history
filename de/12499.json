@@ -1,0 +1,15 @@
+{
+  "id": 12499,
+  "type": "monster",
+  "name": "Kiwi-Magier-Mädchen",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers: Du kannst diese Karte abwerfen; „Magier-Mädchen“-Monster, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 300 ATK und DEF für jedes „Magier-Mädchen“-Monster mit unterschiedlichem Namen auf dem Spielfeld und in den Friedhöfen. Monster vom Typ Hexer, die du kontrollierst, können nicht durch Karteneffekte zerstört werden und dein Gegner kann sie nicht als Ziel für Karteneffekte wählen.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

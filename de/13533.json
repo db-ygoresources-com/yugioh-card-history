@@ -1,0 +1,19 @@
+{
+  "id": 13533,
+  "type": "monster",
+  "name": "Kuro-Obi Karategeist",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst alle Zauber/Fallen, die dein Gegner kontrolliert, in derselben Spalte wie die Karten in deinen Pendelzonen auf den Friedhof legen. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib diese Karte auf die Hand zurück.",
+  "pendEffect": "Falls ein oder mehr Monster als Pendelbeschwörung beschworen werden: Gib diese Karte von der Pendelzone auf die Hand zurück.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Spirit",
+    "Effekt"
+  ]
+}

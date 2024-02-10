@@ -1,0 +1,19 @@
+{
+  "id": 14485,
+  "type": "monster",
+  "name": "Magicalibra",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Uma balança senciente. Ela mantém o equilíbrio do universo, mas ocasionalmente coloca as estrelas do lado errado.",
+  "pendEffect": "Você pode declarar um Nível de 1 a 6 e, depois, escolher 2 monstros com a face para cima que você controla; até o final deste turno, reduza o Nível de 1 desses monstros pelo valor declarado e, se isso acontecer, aumente o Nível do outro pelo mesmo valor (mesmo que este card deixe o campo). Você só pode usar este efeito de \"Magicalibra\" uma vez por turno.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Regulador",
+    "Normal"
+  ]
+}

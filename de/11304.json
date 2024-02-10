@@ -1,0 +1,16 @@
+{
+  "id": 11304,
+  "type": "monster",
+  "name": "Gerümpeldübel",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte an Stelle von 1 beliebigen „Synchron“-Empfänger für eine Synchrobeschwörung verwenden. Einmal pro Spielzug: Du kannst 1 Karte abwerfen und dann 1 „Gerümpel“-Nicht-Empfänger-Monster in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung und falls du dies tust, sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Synchromonster, das ein „Synchron“-Empfänger als Material erwähnt, als Synchrobeschwörung und verwende dafür nur jenes Monster und diese Karte. Dieses Synchromaterial wird verbannt, anstatt auf den Friedhof gelegt zu werden.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

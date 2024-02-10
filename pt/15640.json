@@ -1,0 +1,16 @@
+{
+  "id": 15640,
+  "type": "monster",
+  "name": "Drytron Meteonis Draconids",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com \"Drytron Meteonis\". Seu oponente não pode escolher este card como alvo de efeitos de monstro. Se a soma dos Níveis dos monstros usados para sua Invocação-Ritual for 2 ou menos, este card pode atacar todos os monstros Invocados por Invocação-Especial que seu oponente controla uma vez cada. Durante o turno do seu oponente (Efeito Rápido): você pode banir monstros do seu Cemitério cujo ATK combinado seja exatamente igual a 2000 ou 4000 e, depois, escolha 1 card com a face para cima que seu oponente controla para cada 2000 de ATK desse total; envie esse(s) card(s) para o Cemitério. Você só pode usar este efeito de \"Drytron Meteonis Draconids\" uma vez por turno.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Máquina",
+    "Ritual",
+    "Efeito"
+  ]
+}

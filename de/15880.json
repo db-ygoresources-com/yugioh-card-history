@@ -1,0 +1,15 @@
+{
+  "id": 15880,
+  "type": "monster",
+  "name": "Schalenritter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst diese Karte in die Verteidigungsposition ändern und falls du dies tust, füge deinem Gegner 500 Schaden zu. Falls diese Karte durch Kampf zerstört oder durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Fels-Monster der Stufe 8 von deinem Deck hinzufügen oder falls sich „Fossilfusion“ in deinem Friedhof befindet, kannst du es stattdessen als Spezialbeschwörung beschwören. Für den Rest dieses Spielzugs kannst du weder Karten noch die Effekte von Karten mit demselben Namen wie die Karte aktivieren. Du kannst diesen Effekt von „Schalenritter“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

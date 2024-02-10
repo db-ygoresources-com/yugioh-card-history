@@ -1,0 +1,16 @@
+{
+  "id": 15617,
+  "type": "monster",
+  "name": "Vahram, Magistus-Göttlichkeitsdrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nSolange diese Karte eine Ausrüstungskarte ist, kann das ausgerüstete Monster nicht durch Zauber-/Falleneffekte deines Gegners zerstört werden. Du kannst jeden der folgenden Effekte von „Vahram, Magistus-Göttlichkeitsdrache“ nur einmal pro Spielzug verwenden. Falls diese als Synchrobeschwörung beschworene Karte zerstört wird: Du kannst alle offenen Karten zerstören, die dein Gegner kontrolliert. Am Beginn des Damage Steps, falls das Monster, das mit dieser Karte ausgerüstet ist, gegen ein Monster eines Gegners kämpft: Du kannst das Monster des Gegners zerstören.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2900,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

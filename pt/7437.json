@@ -1,0 +1,15 @@
+{
+  "id": 7437,
+  "type": "monster",
+  "name": "Coala Marinho",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno: você pode escolher 1 monstro que seu oponente controla; até o final deste turno, mude o ATK dele para 0. Você deve controlar um monstro do Tipo Besta (que não seja este card) para ativar e resolver este efeito.",
+  "level": 2,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Besta",
+    "Efeito"
+  ]
+}

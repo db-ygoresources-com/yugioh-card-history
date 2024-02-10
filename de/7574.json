@@ -1,0 +1,15 @@
+{
+  "id": 7574,
+  "type": "monster",
+  "name": "Aufrichtig",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während deiner Main Phase: Du kannst diese offene Karte vom Spielfeld auf die Hand zurückgeben. Während des Damage Steps, wenn ein LICHT Monster kämpft, das du kontrollierst (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; jenes Monster erhält bis zum Ende dieses Spielzugs ATK in Höhe der ATK des Monsters des Gegners, gegen das es kämpft.",
+  "level": 4,
+  "atk": 1100,
+  "def": 1900,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

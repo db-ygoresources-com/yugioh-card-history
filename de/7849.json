@@ -1,0 +1,16 @@
+{
+  "id": 7849,
+  "type": "monster",
+  "name": "Seuchenverbreitender Zombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Karte von deiner Hand auf das Deck legen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

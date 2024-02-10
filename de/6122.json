@@ -1,0 +1,16 @@
+{
+  "id": 6122,
+  "type": "monster",
+  "name": "Adligenfresserkäfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Zerstöre 2 Monster auf dem Spielfeld.",
+  "level": 5,
+  "atk": 900,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

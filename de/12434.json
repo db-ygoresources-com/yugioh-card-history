@@ -1,0 +1,16 @@
+{
+  "id": 12434,
+  "type": "monster",
+  "name": "Amaterasu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normal- oder Spezialbeschwörung beschworen werden. Während des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der dieses verdeckte Monster als Ziel wählt: Du kannst diese Karte in die offene Verteidigungsposition ändern; ziehe 1 Karte. Falls diese Karte aufgedeckt wird: Verbanne alle anderen Karten auf dem Spielfeld. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug aufgedeckt wurde: Gib sie auf die Hand zurück.",
+  "level": 9,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Fee",
+    "Spirit",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10589,
+  "type": "monster",
+  "name": "Reiter der Sturmwinde",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 Normales Drache-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder Spielfeldseite aus. Falls ein mit dieser Karte ausgerüstetes Monster ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Falls ein mit dieser Karte ausgerüstetes Monster zerstört würde, zerstöre stattdessen diese Karte.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

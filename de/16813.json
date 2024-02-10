@@ -1,0 +1,15 @@
+{
+  "id": 16813,
+  "type": "monster",
+  "name": "Eisjade-Schöpfung Eisvogel",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 WASSER Monster wählen, das du kontrollierst; rüste es mit dieser Karte von deiner Hand oder Spielfeldseite aus. Ein „Eisjade“-Monster, das mit dieser Karte ausgerüstet ist, kann angreifen, solange es in Verteidigungsposition liegt. Falls es dies tut, verwende seine DEF für die Schadensberechnung. Solange diese Karte ein Monster ausrüstet: Du kannst 1 Monster wählen, das dein Gegner kontrolliert und dessen ATK kleiner oder gleich den DEF des ausgerüsteten Monsters sind; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, gib jenes als Ziel gewählte Monster auf die Hand zurück. Du kannst diesen Effekt von „Eisjade-Schöpfung Eisvogel“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

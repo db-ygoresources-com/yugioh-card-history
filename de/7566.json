@@ -1,0 +1,15 @@
+{
+  "id": 7566,
+  "type": "monster",
+  "name": "Goldener fliegender Fisch",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 anderes Monster vom Typ Fisch als Tribut anbieten und dann 1 Karte auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

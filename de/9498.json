@@ -1,0 +1,15 @@
+{
+  "id": 9498,
+  "type": "monster",
+  "name": "Schweigender Psi-Kleriker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Flippbeschwörung beschworen wird: Ändere sie in die Verteidigungsposition. Einmal pro Spielzug: Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 Monster vom Typ Psi in deinem Friedhof wählen; verbanne das gewählte Ziel. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Wähle 1 durch den Effekt dieser Karte verbanntes Monster; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 3,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

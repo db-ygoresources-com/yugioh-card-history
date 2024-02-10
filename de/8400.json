@@ -1,0 +1,15 @@
+{
+  "id": 8400,
+  "type": "monster",
+  "name": "Naturia-Fruchtfliege",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Alle Monster, die dein Gegner kontrolliert, verlieren für jedes „Naturia“-Monster, das du kontrollierst, 300 ATK/DEF. Einmal pro Spielzug: Du kannst 1 Monster mit 0 DEF wählen, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle über das gewählte Ziel.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

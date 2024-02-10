@@ -1,0 +1,16 @@
+{
+  "id": 8118,
+  "type": "monster",
+  "name": "Jurassier-Giganoto",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Dinosaurier\nAlle offenen „Jurassier“-Monster, die du kontrollierst, erhalten 200 ATK für jedes „Jurassier“-Monster in deinem Friedhof.",
+  "level": 7,
+  "atk": 2100,
+  "def": 1800,
+  "properties": [
+    "Dinosaurier",
+    "Synchro",
+    "Effekt"
+  ]
+}

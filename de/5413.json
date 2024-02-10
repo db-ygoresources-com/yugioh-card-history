@@ -1,0 +1,16 @@
+{
+  "id": 5413,
+  "type": "monster",
+  "name": "Giftige Mumie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Füge den Life Points deines Gegners 500 Punkte Schaden zu.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Flipp",
+    "Effekt"
+  ]
+}

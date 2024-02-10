@@ -1,0 +1,18 @@
+{
+  "id": 12714,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Komparsen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Tribut anbieten; lege 1 „Abgrundschauspieler“-Pendelmonster von deinem Deck in deine Pendelzone, zusätzlich kannst du für den Rest dieses Spielzugs weder Monster als Spezialbeschwörung beschwören, außer „Abgrundschauspieler“-Monstern, noch den Pendeleffekt von „Abgrundschauspieler - Komparsen“ aktivieren. Du kannst diesen Effekt von „Abgrundschauspieler - Komparsen“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls dein Gegner ein Monster kontrolliert: Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören. Du kannst diesen Effekt von „Abgrundschauspieler - Komparsen“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 3,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7358,
+  "type": "monster",
+  "name": "Shutendoji",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 dieser Effekte aktivieren.\n●Verbanne 2 Zombie-Monster von deinem Friedhof; ziehe 1 Karte.\n●Wähle 1 deiner verbannten Zombie-Monster; lege das gewählte Ziel auf dein Deck.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

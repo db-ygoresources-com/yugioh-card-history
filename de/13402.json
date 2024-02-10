@@ -1,0 +1,15 @@
+{
+  "id": 13402,
+  "type": "monster",
+  "name": "Geistervogel der Betörung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte erhält einen Effekt, basierend auf deiner Main-Monsterzone, in der sie liegt.\n●Ganz links: Erhält 1000 ATK/DEF.\n●Ganz rechts: Kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.\n●Mitte: Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden.\n●Andere: Die Effekte von Monstern in dieser Spalte können nicht aktiviert werden.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1500,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Effekt"
+  ]
+}

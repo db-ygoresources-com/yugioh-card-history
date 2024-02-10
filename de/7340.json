@@ -1,0 +1,16 @@
+{
+  "id": 7340,
+  "type": "monster",
+  "name": "Il Blud",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Einmal pro Spielzug: Du kannst 1 Zombie-Monster als Spezialbeschwörung von deiner Hand oder einem beliebigen Friedhof beschwören, aber falls diese Karte das Spielfeld verlässt, zerstöre alle Zombie-Monster, die durch diesen Effekt als Spezialbeschwörung beschworen wurden.",
+  "level": 6,
+  "atk": 2100,
+  "def": 800,
+  "properties": [
+    "Zombie",
+    "Zwilling",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 12828,
+  "type": "monster",
+  "name": "Glasflügel-Schnelldrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ WIND Nicht-Empfänger-Monster\n(Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert und das als Spezialbeschwörung vom Extra Deck beschworen wurde; bis zum Ende dieses Spielzugs ändere seine ATK zu 0, zusätzlich annulliere die Effekte des offenen Monsters. Du kannst diesen Effekt von „Glasflügel-Schnelldrache“ nur einmal pro Spielzug verwenden. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Du kannst 1 offenen „Geschwindigkeitsroid“-Empfänger und 1 offenes Nicht-Empfänger-Monster, das du kontrollierst, deren gemeinsame Stufe 7 beträgt, auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Pendelzone. Du kannst diesen Effekt von „Glasflügel-Schnelldrache“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

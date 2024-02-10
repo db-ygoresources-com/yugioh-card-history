@@ -1,0 +1,15 @@
+{
+  "id": 13063,
+  "type": "monster",
+  "name": "Jain, Zwielichtverpflichteter General",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Lichtverpflichtet“-Monster von deiner Hand oder deinem Friedhof verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; es verliert bis zum Ende dieses Spielzugs ATK und DEF in Höhe der Stufe des verbannten Monsters x 300. Einmal pro Spielzug, falls der Effekt eines anderen deiner „Lichtverpflichtet“-Monster aktiviert wird: Lege die obersten 2 Karten deines Decks auf den Friedhof.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

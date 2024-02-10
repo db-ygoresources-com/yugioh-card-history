@@ -1,0 +1,15 @@
+{
+  "id": 8801,
+  "type": "monster",
+  "name": "Wattgiraffe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann direkt angreifen. Falls diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt: Dein Gegner kann bis zum Ende dieses Spielzugs weder Karten noch Effekte aktivieren.",
+  "level": 4,
+  "atk": 1200,
+  "def": 100,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

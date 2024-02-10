@@ -1,0 +1,15 @@
+{
+  "id": 15389,
+  "type": "monster",
+  "name": "Eiszeitungeheuer Blizzardwolf",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn ein Monster einen Angriff deklariert: Du kannst den Angriff annullieren und falls du dies tust, beschwöre 1 WASSER Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand, außer „Eiszeitungeheuer Blizzardwolf“. Am Beginn der Battle Phase deines Gegners, falls sich diese Karte in deinem Friedhof befindet und du keine Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung in die Angriffsposition beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Eiszeitungeheuer Blizzardwolf“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

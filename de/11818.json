@@ -1,0 +1,15 @@
+{
+  "id": 11818,
+  "type": "monster",
+  "name": "Aromagisterin Jasmin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während deiner Main Phase, solange du mehr LP als dein Gegner hast, kannst du zusätzlich zu deiner Normalbeschwörung/deinem Setzen 1 Pflanze-Monster als Normalbeschwörung beschwören, außer „Aromagisterin Jasmin“. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Einmal pro Spielzug, falls du LP erhältst: Ziehe 1 Karte.",
+  "level": 2,
+  "atk": 100,
+  "def": 1900,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

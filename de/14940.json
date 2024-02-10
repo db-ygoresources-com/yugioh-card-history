@@ -1,0 +1,20 @@
+{
+  "id": 14940,
+  "type": "monster",
+  "name": "Mecha-Phantomungeheuer Auroradon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2+ Maschine-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; beschwöre 3 „Mecha-Phantomungeheuer-Spielmarken“ (Maschine/WIND/Stufe 3/ATK 0/DEF 0) als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Linkbeschwörungen durchführen. Einmal pro Spielzug: Du kannst bis zu 3 Monster als Tribut anbieten und dann 1 dieser Effekte ausführen, basierend auf der als Tribut angebotenen Anzahl;\n●1: Zerstöre 1 Karte auf dem Spielfeld.\n●2: Beschwöre 1 „Mecha-Phantomungeheuer“-Monster als Spezialbeschwörung von deinem Deck.\n●3: Füge deiner Hand 1 Falle von deinem Friedhof hinzu.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "2",
+    "3"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

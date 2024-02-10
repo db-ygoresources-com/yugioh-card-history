@@ -1,0 +1,15 @@
+{
+  "id": 7150,
+  "type": "monster",
+  "name": "Seuchenwolf",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst die ATK dieser Karte bis zum Ende dieses Spielzugs zum Doppelten ihrer Grund-ATK werden lassen. Einmal pro Spielzug, während der End Phase, falls dieser Effekt aktiviert wurde: Zerstöre diese Karte.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

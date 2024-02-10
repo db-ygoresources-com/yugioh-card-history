@@ -1,0 +1,16 @@
+{
+  "id": 7294,
+  "type": "monster",
+  "name": "Antiker Antriebsritter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Zwilling",
+    "Effekt"
+  ]
+}

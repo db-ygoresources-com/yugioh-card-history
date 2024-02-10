@@ -1,0 +1,17 @@
+{
+  "id": 5371,
+  "type": "monster",
+  "name": "ファイバーポッド",
+  "nameRuby": "ファイバーポッド",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "リバース：お互いの手札・フィールド上・墓地のカードを全て持ち主のデッキに加えてシャッフルする。その後、お互いにデッキからカードを５枚ドローする。",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "植物族",
+    "リバース",
+    "効果"
+  ]
+}

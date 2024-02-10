@@ -1,0 +1,15 @@
+{
+  "id": 7856,
+  "type": "monster",
+  "name": "Paladin des verfluchten Drachen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Zombie-Monster der Stufe 4 oder niedriger im Friedhof deines Gegners wählen, das durch Kampf zerstört wurde; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

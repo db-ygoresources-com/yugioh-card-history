@@ -1,0 +1,15 @@
+{
+  "id": 10984,
+  "type": "monster",
+  "name": "Sylvanischer Klingenverteidiger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof. Lege sie andernfalls unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen.",
+  "level": 4,
+  "atk": 1900,
+  "def": 700,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

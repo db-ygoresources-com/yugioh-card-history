@@ -1,0 +1,18 @@
+{
+  "id": 18440,
+  "type": "monster",
+  "name": "D/D/D/D Paradoxo Zero, o Imperador Soberano Superdimensional",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por seu próprio efeito. Quando você Invocar um ou mais monstros por Invocação-Pêndulo, enquanto a soma das Escalas de Pêndulo nas suas Zonas de Pêndulo for maior que a soma dos Níveis dos monstros Invocados por Invocação-Pêndulo: você pode Invocar este card por Invocação-Especial da sua mão e, se isso acontecer, destrua tantos outros cards no campo quanto possível e, depois, você pode colocar este card na sua Zona de Pêndulo. Uma vez por turno, se um ou mais outros monstros \"D/D/D\" com a face para cima que você controla deixarem o campo por um Card de Magia ou seus efeitos: o ATK deste card se torna 6000.",
+  "pendEffect": "Você pode escolher 1 card na Zona de Pêndulo do seu oponente; Invoque este card por Invocação-Especial e, se isso acontecer, coloque esse card na sua Zona de Pêndulo, mas destrua-o durante a Fase Final do próximo turno. Você só pode usar este efeito de \"D/D/D/D Paradoxo Zero, o Imperador Soberano Superdimensional\" uma vez por turno.",
+  "pendScale": 10,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

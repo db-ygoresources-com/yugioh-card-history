@@ -1,0 +1,15 @@
+{
+  "id": 6293,
+  "type": "monster",
+  "name": "Vampiro Gênesis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao banir 1 \"Senhor dos Vampiros\" que você controla. Uma vez por turno: você pode descartar 1 monstro Zumbi para o Cemitério e, depois, escolha 1 monstro Zumbi no seu Cemitério com um Nível menor que o do monstro Zumbi descartado; Invoque o alvo por Invocação-Especial.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Zumbi",
+    "Efeito"
+  ]
+}

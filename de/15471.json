@@ -1,0 +1,16 @@
+{
+  "id": 15471,
+  "type": "monster",
+  "name": "Toon-Harpyie",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte kann nicht in dem Spielzug angreifen, in dem sie beschworen wurde. Falls du „Toon-Welt“ kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls du ein anderes Toon-Monster kontrollierst, kannst du 1 Zauber/Falle zerstören, den oder die dein Gegner kontrolliert. Du kannst diesen Effekt von „Toon-Harpyie“ nur einmal pro Spielzug verwenden. Solange du „Toon-Welt“ kontrollierst und dein Gegner keine Toon-Monster kontrolliert, kann diese Karte direkt angreifen.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Toon",
+    "Effekt"
+  ]
+}

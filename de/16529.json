@@ -1,0 +1,16 @@
+{
+  "id": 16529,
+  "type": "monster",
+  "name": "Reptilianische Melusine",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Reptil-Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wurde und nur Reptil-Monster dafür als Material verwendet wurden, kann sie weder durch Kampf noch durch Karteneffekte zerstört werden. Einmal pro Kette, wenn dein Gegner einen Monstereffekt aktiviert, außer während des Damage Steps (Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere seine ATK zu 0. Falls diese als Synchrobeschwörung beschworene Karte, die du kontrollierst, durch eine Karte eines Gegners auf deinen Friedhof gelegt wird: Du kannst deiner Hand 1 Reptil-Monster von deinem Deck hinzufügen.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2800,
+  "properties": [
+    "Reptil",
+    "Synchro",
+    "Effekt"
+  ]
+}

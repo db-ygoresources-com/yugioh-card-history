@@ -1,0 +1,15 @@
+{
+  "id": 15502,
+  "type": "monster",
+  "name": "Alpha, Bestienmeister",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, solange die Summe der ATK aller Monster, die dein Gegner kontrolliert, höher ist als jene aller Monster, die du kontrollierst. Du kannst eine beliebige Anzahl Ungeheuer-, Ungeheuer-Krieger- und/oder Geflügeltes Ungeheuer-Monster wählen, die du kontrollierst; gib sie auf die Hand zurück, dann gib offene Monster, die dein Gegner kontrolliert, in Höhe der Anzahl der Karten, die du auf die Hand zurückgegeben hast, auf die Hand zurück, zusätzlich kann „Alpha, Bestienmeister“, den du kontrollierst, für den Rest dieses Spielzugs nicht direkt angreifen. Du kannst diesen Effekt von „Alpha, Bestienmeister“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

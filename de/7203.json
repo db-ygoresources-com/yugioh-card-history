@@ -1,0 +1,16 @@
+{
+  "id": 7203,
+  "type": "monster",
+  "name": "König Pyron",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof ist. Solange diese Karte offen auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Einmal pro Spielzug kannst du deinem Gegner 1000 Schaden zufügen.",
+  "level": 5,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Pyro",
+    "Zwilling",
+    "Effekt"
+  ]
+}

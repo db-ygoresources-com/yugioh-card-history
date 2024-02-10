@@ -1,0 +1,15 @@
+{
+  "id": 18812,
+  "type": "monster",
+  "name": "Albtraum-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst die Kontrolle über jenes Monster des Gegners übernehmen. Einmal pro Spielzug, am Beginn des Damage Steps, falls ein anderes Monster angreift: Du kannst 1 Karte auf dem Spielfeld zerstören.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Typ Illusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7083,
+  "type": "monster",
+  "name": "Vulkanischer Streuschuss",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte auf den Friedhof gelegt wird: Füge deinem Gegner 500 Schaden zu. Falls diese Karte durch den Effekt einer „Glutbeschleuniger“-Karte auf den Friedhof gelegt wird: Du kannst 2 „Vulkanischer Streuschuss“ von deiner Hand und/oder deinem Deck auf den Friedhof legen; zerstöre alle Monster, die dein Gegner kontrolliert.",
+  "level": 2,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

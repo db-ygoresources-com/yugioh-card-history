@@ -1,0 +1,16 @@
+{
+  "id": 4740,
+  "type": "monster",
+  "name": "Tausendäugiges Opfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Aufgegeben“ + „Tausendäugiger Abgott“\nAndere Monster auf dem Spielfeld können weder ihre Kampfposition ändern noch angreifen. Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem gewählten Ziel aus (max. 1). Die ATK/DEF dieser Karte werden dieselben wie die des ausrüstenden Monsters. Falls diese Karte durch Kampf zerstört würde, zerstöre stattdessen das ausrüstende Monster.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

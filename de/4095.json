@@ -1,0 +1,15 @@
+{
+  "id": 4095,
+  "type": "monster",
+  "name": "Katapult-Schildkröte",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 Monster als Tribut anbieten; füge deinem Gegner Schaden in Höhe der Hälfte der ATK des als Tribut angebotenen Monsters auf dem Spielfeld zu.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

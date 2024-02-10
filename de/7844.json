@@ -1,0 +1,15 @@
+{
+  "id": 7844,
+  "type": "monster",
+  "name": "Baumotter",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 1000 ATK. Du musst ein Monster vom Typ Ungeheuer (außer dieser Karte) kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 2,
+  "atk": 1200,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

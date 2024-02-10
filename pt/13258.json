@@ -1,0 +1,21 @@
+{
+  "id": 13258,
+  "type": "monster",
+  "name": "Dragão Callibregado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "3+ Monstros de Efeito\nNenhum duelista pode escolher este card como alvo de efeitos de monstro. Uma vez por turno (Efeito Rápido): você pode escolher 1 monstro com a face para cima no campo; ele perde 500 de ATK/DEF. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste efeito. No começo da Etapa de Dano, se este card atacar um monstro do oponente: você pode colocar esse monstro do oponente em uma zona para a qual este card apontar e tomar o controle dele, mas envie-o para o Cemitério durante a Fase Final do próximo turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Dragão",
+    "Link",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 16428,
+  "type": "monster",
+  "name": "Hungernder Venemy-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 FINSTERNIS Monster + 1 Pendelmonster\nDu kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; bis zur End Phase wird der Name dieser Karte derselbe wie der Grund-Name des Monsters und ersetze diesen Effekt durch die Grund-Effekte des Monsters, dann verliert das Monster 500 ATK/DEF, seine Effekte werden annulliert, zusätzlich füge deinem Gegner 500 Schaden zu. Du kannst diesen Effekt von „Hungernder Venemy-Drache“ nur einmal pro Spielzug verwenden. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Jedes Mal, wenn eine oder mehr Karten vom Spielfeld auf den Friedhof gelegt werden, lege für jede gelegte Karte 1 Venemy-Zählmarke auf diese Karte. Alle Monster auf dem Spielfeld, außer FINSTERNIS Drache-Monstern, verlieren für jede Venemy-Zählmarke auf dem Spielfeld 200 ATK. Einmal pro Spielzug kannst du den Kampfschaden, den du erhältst, auf 0 reduzieren.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

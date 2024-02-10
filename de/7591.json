@@ -1,0 +1,15 @@
+{
+  "id": 7591,
+  "type": "monster",
+  "name": "Jain, Lichtverpflichteter Paladin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte ein Monster deines Gegners angreift, erhält sie nur während des Damage Steps 300 ATK. Einmal pro Spielzug, während deiner End Phase: Lege die obersten 2 Karten deines Decks auf den Friedhof.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11565,
+  "type": "monster",
+  "name": "Runenäugiger Pendeldrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Buntäugiger Pendeldrache“ + 1 Monster vom Typ Hexer\nFalls diese Karte mit einem oder mehr als Pendelbeschwörung beschworenen Monstern auf dem Spielfeld als Fusionsmaterial als Fusionsbeschwörung beschworen wurde, bleibt sie in diesem Spielzug von Karteneffekten deines Gegners unberührt. Führe den entsprechenden Effekt aus, abhängig von der Grundstufe des als Fusionsmaterial verwendeten Monsters, das nicht „Buntäugiger Pendeldrache“ war.\n●Stufe 4 oder niedriger: Diese Karte kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.\n●Stufe 5 oder höher: Diese Karte kann während jeder Battle Phase bis zu 3 Angriffe gegen Monster durchführen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

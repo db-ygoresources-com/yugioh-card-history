@@ -1,0 +1,16 @@
+{
+  "id": 13923,
+  "type": "monster",
+  "name": "Donnerdrachen-Koloss",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Donnerdrache“ + 1 Donner-Monster\nMuss entweder als Fusionsbeschwörung beschworen werden oder während des Spielzugs, in dem der Effekt eines Donner-Monsters in der Hand aktiviert wurde, als Spezialbeschwörung beschworen werden, indem du 1 Donner-Effekt-Nichtfusions-Monster als Tribut anbietest (in diesem Fall wird „Polymerisation“ nicht verwendet). Karten können der Hand deines Gegners nicht vom Main Deck hinzugefügt werden, außer durch Ziehen. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 Donner-Monster von deinem Friedhof verbannen.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2400,
+  "properties": [
+    "Donner",
+    "Fusion",
+    "Effekt"
+  ]
+}

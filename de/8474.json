@@ -1,0 +1,16 @@
+{
+  "id": 8474,
+  "type": "monster",
+  "name": "Göttliche Anmut - Nordwemko",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nur mit der Ritualzauberkarte „Ritual der Anmut“ als Ritualbeschwörung beschworen werden. Wenn diese Karte als Ritualbeschwörung beschworen wird, wähle eine Anzahl offener Karten auf dem Spielfeld (außer dieser Karte) kleiner oder gleich der Anzahl der Monster, die du für die Ritualbeschwörung benutzt hast. Solange mindestens eine der gewählten Karten offen auf dem Spielfeld liegt, kann diese Karte nicht durch Karteneffekte zerstört werden.",
+  "level": 7,
+  "atk": 2700,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Ritual",
+    "Effekt"
+  ]
+}

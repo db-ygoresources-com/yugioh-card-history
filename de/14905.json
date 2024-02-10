@@ -1,0 +1,16 @@
+{
+  "id": 14905,
+  "type": "monster",
+  "name": "Die Dunklen Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Dunkler Magier“ oder „Dunkles Magier-Mädchen“ + 1 Hexer-Monster\nEinmal pro Spielzug, falls eine Zauber-/Fallenkarte oder ein Zauber-/Falleneffekt aktiviert wird (außer während des Damage Steps): Du kannst 1 Karte ziehen, dann, falls es ein/e Zauber/Falle war, kannst du ihn oder sie setzen, und falls es ein Schnellzauber oder eine Falle war, kannst du ihn oder sie in diesem Spielzug aktivieren. Falls diese Karte zerstört wird: Du kannst sowohl 1 „Dunkler Magier“ als auch 1 „Dunkles Magier-Mädchen“ als Spezialbeschwörung von deiner Hand, deinem Deck und/oder deinem Friedhof beschwören.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

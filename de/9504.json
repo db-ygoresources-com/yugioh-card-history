@@ -1,0 +1,15 @@
+{
+  "id": 9504,
+  "type": "monster",
+  "name": "Tauschkröte",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug kannst du 1 Monster vom Typ Aqua als Tribut anbieten, um 1 „Frosch“-Monster in deinem Friedhof zu wählen. Beschwöre das Monster als Spezialbeschwörung von deinem Friedhof.",
+  "level": 1,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

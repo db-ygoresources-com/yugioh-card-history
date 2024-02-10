@@ -1,0 +1,16 @@
+{
+  "id": 13842,
+  "type": "monster",
+  "name": "Blauäugiger Chaosdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Chaosform“ als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden. Falls diese Karte mit „Blauäugiger w. Drache“ als Ritualbeschwörung beschworen wurde, wenn sie einen Angriff deklariert: Du kannst die Kampfposition von so vielen Monstern, die dein Gegner kontrolliert, wie möglich ändern und falls du dies tust, werden die ATK/DEF der geänderten Monster zu 0, zusätzlich, falls diese Karte in diesem Spielzug ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Ritual",
+    "Effekt"
+  ]
+}

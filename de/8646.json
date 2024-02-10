@@ -1,0 +1,15 @@
+{
+  "id": 8646,
+  "type": "monster",
+  "name": "Cyber Drache Zwei",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Der Name dieser Karte wird zu „Cyber Drache“, solange sie im Friedhof liegt. Einmal pro Spielzug: Du kannst 1 Zauber in deiner Hand vorzeigen; der Name dieser Karte wird bis zur End Phase zu „Cyber Drache“. Falls diese Karte ein Monster eines Gegners angreift, erhält sie nur während des Damage Steps 300 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

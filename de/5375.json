@@ -1,0 +1,16 @@
+{
+  "id": 5375,
+  "type": "monster",
+  "name": "Yata-Garasu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Während der End Phase des Spielzugs, in dem diese Karte als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib sie auf die Hand zurück. Falls diese Karte deinem Gegner Kampfschaden zufügt: Überspringe die Draw Phase seines nächsten Spielzugs.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Spirit",
+    "Effekt"
+  ]
+}

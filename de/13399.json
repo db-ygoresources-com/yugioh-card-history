@@ -1,0 +1,16 @@
+{
+  "id": 13399,
+  "type": "monster",
+  "name": "Greifer-Angler",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt: Du kannst 1 Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

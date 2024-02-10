@@ -1,0 +1,15 @@
+{
+  "id": 8756,
+  "type": "monster",
+  "name": "Kaktus-Türsteher",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Solange ein anderes Pflanze-Monster auf dem Spielfeld liegt, kann kein Spieler Monster als Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 1800,
+  "def": 300,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7263,
+  "type": "monster",
+  "name": "Fossildrache Schädelgios",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Fels-Monster + 1 Monster der Stufe 7 oder höher im Friedhof deines Gegners\nMuss erst durch „Fossilfusion“ als Spezialbeschwörung beschworen werden. Vor der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst die derzeitigen ATK und DEF jenes Monsters des Gegners bis zum Ende jenes Damage Steps vertauschen. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Falls diese als Fusionsbeschwörung beschworene Karte gegen ein Monster eines Gegners kämpft, wird der Kampfschaden verdoppelt, den sie deinem Gegner zufügt.",
+  "level": 8,
+  "atk": 3500,
+  "def": 0,
+  "properties": [
+    "Fels",
+    "Fusion",
+    "Effekt"
+  ]
+}

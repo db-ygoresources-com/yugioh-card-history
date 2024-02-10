@@ -1,0 +1,15 @@
+{
+  "id": 11338,
+  "type": "monster",
+  "name": "Elegy die musikalische Diva",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Als Spezialbeschwörung beschworene „Musikalisch“-Monster, die du kontrollierst, können nicht durch Karteneffekte zerstört werden. Falls diese Karte als Spezialbeschwörung beschworen wurde, erhalten alle Monster vom Typ Fee, die du kontrollierst, 300 ATK.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

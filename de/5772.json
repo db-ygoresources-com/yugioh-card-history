@@ -1,0 +1,15 @@
+{
+  "id": 5772,
+  "type": "monster",
+  "name": "Bauer der Widerwärtigkeit, Erzunterweltler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, während deiner Standby Phase, musst du 500 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der diese Karte als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 3 würfelst, und falls du dies tust, zerstöre jene Karte. Monster deines Gegners können keine „Erzunterweltler“-Monster, die du kontrollierst, angreifen, außer „Bauer der Widerwärtigkeit, Erzunterweltler“.",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

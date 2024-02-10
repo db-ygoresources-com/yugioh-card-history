@@ -1,0 +1,15 @@
+{
+  "id": 9111,
+  "type": "monster",
+  "name": "Kettenhund",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines Monsters vom Typ Ungeheuer. Falls sich diese Karte im Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, verbanne sie, wenn sie das Spielfeld verlässt. Du musst genau 2 Monster vom Typ Ungeheuer kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1100,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

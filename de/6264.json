@@ -1,0 +1,16 @@
+{
+  "id": 6264,
+  "type": "monster",
+  "name": "Gatlinggewehr-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Pistolendrache“ + „Rückstoß-Drache“\nEinmal pro Spielzug: Du kannst 3 Mal eine Münze werfen und so viele Monster auf dem Spielfeld wie möglich zerstören, aber nicht mehr als die Anzahl Kopf.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13975,
+  "type": "monster",
+  "name": "Imperador do Caos, o Dragão do Armagedom",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou do Deck Adicional) ao banir 1 monstro de LUZ e 1 de TREVAS do seu Cemitério. Você só pode Invocar \"Imperador do Caos, o Dragão do Armagedom\" por Invocação-Especial uma vez por turno desta forma. Uma vez por turno: você pode pagar metade dos seus PV; envie tantos cards que você controla quanto possível para o Cemitério, exceto da Zona de Monstros Adicional e, se isso acontecer, envie cards que seu oponente controla para o Cemitério, até o número dos seus cards enviados para o Cemitério e, depois, cause 300 de dano ao seu oponente para cada card enviado para o Cemitério dele pelo efeito deste card. Se este card com a face para cima Invocado por Invocação-Especial deixar o campo, devolva-o para o fundo do Deck.",
+  "pendEffect": "Você pode pagar 1000 PV e, depois, escolha 1 dos seus monstros Dragão banidos; destrua este card e, se isso acontecer, adicione esse monstro à sua mão. Você só pode usar este efeito de \"Imperador do Caos, o Dragão do Armagedom\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

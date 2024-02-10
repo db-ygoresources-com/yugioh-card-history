@@ -1,0 +1,16 @@
+{
+  "id": 12451,
+  "type": "monster",
+  "name": "Schwarzer Hochmagier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Hexer-Monster der Stufe 7\nSolange diese Karte Material hat, kannst du während des Spielzugs deines Gegners eine Schnellzauberkarte oder eine Fallenkarte von deiner Hand aktivieren, indem du bei der Aktivierung 1 Material von dieser Karte abhängst. Falls diese als Xyz-Beschwörung beschworene Karte durch Kampf zerstört und auf den Friedhof gelegt wird oder falls diese als Xyz-Beschwörung beschworene Karte, die du kontrollierst, durch einen Karteneffekt eines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 FINSTERNIS Hexer-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, dann kannst du 1 Karte auf dem Spielfeld zerstören.",
+  "rank": 7,
+  "atk": 2300,
+  "def": 2800,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 16849,
+  "type": "monster",
+  "name": "D/D/D Deus Machinex, o Rei Inventor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros Demônio de Nível 10\nVocê também pode Invocar este card por Invocação-Xyz usando um monstro \"D/D/D\" que você controla como matéria. (Transfira as matérias dele para este card.) Você só pode controlar 1 \"D/D/D Deus Machinex, o Rei Inventor\" na sua Zona de Monstros. Uma vez por Corrente, quando um Card de Monstro que seu oponente controla ativar seu efeito (Efeito Rápido): você pode desassociar 2 matérias deste card, ou destruir 1 card \"Pacto Obscuro\" que você controla e, se isso acontecer, associe esse card do oponente a este card como matéria. Uma vez por turno, durante sua Fase de Apoio: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Enquanto você tiver um card na sua outra Zona de Pêndulo: você pode escolher 1 Monstro Pêndulo que você controla ou no seu Cemitério; Invoque por Invocação-Especial o card na sua outra Zona de Pêndulo e, se isso acontecer, coloque esse Monstro Pêndulo alvo na sua Zona de Pêndulo. Você só pode usar este efeito de \"D/D/D Deus Machinex, o Rei Inventor\" uma vez por turno.",
+  "pendScale": 10,
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Demônio",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

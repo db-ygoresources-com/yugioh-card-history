@@ -1,0 +1,16 @@
+{
+  "id": 7959,
+  "type": "monster",
+  "name": "Flamvell-Baby",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 FEUER Monster wählen, das du kontrollierst; das gewählte Ziel erhält 400 ATK.",
+  "level": 1,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

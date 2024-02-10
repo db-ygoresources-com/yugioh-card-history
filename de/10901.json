@@ -1,0 +1,15 @@
+{
+  "id": 10901,
+  "type": "monster",
+  "name": "Sylvanische Schotenwache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof. Lege sie andernfalls unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Du kannst 1 Monster vom Typ Pflanze der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Du kannst diesen Effekt von „Sylvanische Schotenwache“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 400,
+  "def": 100,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

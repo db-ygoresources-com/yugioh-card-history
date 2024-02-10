@@ -1,0 +1,18 @@
+{
+  "id": 18161,
+  "type": "monster",
+  "name": "Abgrundschauspieler - Freiheitsautorin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Spezialbeschwörung von der Pendelzone beschworen wird: Der Besitzer dieser Karte zeigt 3 „Abgrundskript“-Zauber von seinem Deck vor, sein Gegner bestimmt zufällig 1, die der Besitzer dieser Karte auf seine Spielfeldseite setzt (aber der Besitzer zerstört sie während der End Phase), zusätzlich mische den Rest ins Deck. Falls diese Karte zerstört wird: Du kannst 1 „Abgrundskript“-Zauber von deinem Friedhof ins Deck mischen. Du kannst jeden Effekt von „Abgrundschauspieler - Freiheitsautorin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Wenn ein Monster einen Angriff deklariert: Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung auf die Spielfeldseite deines Gegners. Du kannst diesen Effekt von „Abgrundschauspieler - Freiheitsautorin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

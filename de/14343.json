@@ -1,0 +1,19 @@
+{
+  "id": 14343,
+  "type": "monster",
+  "name": "Hungernder Venemy-Letaldosis-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 FINSTERNIS Pendelmonster\nJedes Mal, wenn eine oder mehr Karten vom Spielfeld auf den Friedhof gelegt werden, lege für jede gelegte Karte 1 Venemy-Zählmarke auf diese Karte. Alle Monster auf dem Spielfeld, außer FINSTERNIS Drache-Monstern, verlieren für jede Venemy-Zählmarke auf dem Spielfeld 200 ATK. Einmal pro Spielzug, während deiner Main Phase: Du kannst bis zum Ende dieses Spielzugs die Effekte aller offenen Monster annullieren, die dein Gegner derzeit kontrolliert. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Einmal pro Spielzug, während deiner Main Phase: Du kannst 1 Venemy-Zählmarke auf jedes offene Monster legen, das dein Gegner kontrolliert. Alle Monster auf dem Spielfeld, außer FINSTERNIS Drache-Monstern, verlieren für jede Venemy-Zählmarke auf dem Spielfeld 200 ATK.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

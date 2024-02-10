@@ -1,0 +1,15 @@
+{
+  "id": 10444,
+  "type": "monster",
+  "name": "Coachsoldat Bellwolf",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst 1 FEUER Ungeheuer-Krieger-Monster der Stufe 4 in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, aber annulliere seine Effekte. Du kannst diesen Effekt von „Coachsoldat Bellwolf“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16104,
+  "type": "monster",
+  "name": "Ursártico Septentrion",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Não pode ser Invocado por Invocação-Sincro. Deve ser Invocado por Invocação-Especial (do seu Deck Adicional) ao enviar 2 monstros que você controla com 7 Níveis de diferença para o Cemitério (1 Regulador de Nível 8 ou mais e 1 Monstro Sincro não-Regulador). Negue os efeitos dos monstros com a face para cima sem um Nível que foram Invocados por Invocação-Especial do Deck Adicional. Se seu oponente Invocar um ou mais monstros por Invocação-Especial (exceto durante a Etapa de Dano): você pode adicionar 1 card \"Ursártico(a)\" do seu Deck à sua mão. Você só pode usar este efeito de \"Ursártico Septentrion\" uma vez por turno.",
+  "level": 7,
+  "atk": 3000,
+  "def": 700,
+  "properties": [
+    "Besta-Guerreira",
+    "Sincro",
+    "Efeito"
+  ]
+}

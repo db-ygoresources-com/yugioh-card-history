@@ -1,0 +1,15 @@
+{
+  "id": 6245,
+  "type": "monster",
+  "name": "Mammut mit großen Stoßzähnen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Monster, die dein Gegner kontrolliert, können in dem Spielzug, in dem sie beschworen werden, nicht angreifen.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

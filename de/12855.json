@@ -1,0 +1,19 @@
+{
+  "id": 12855,
+  "type": "monster",
+  "name": "Harmonisierer-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung vom Extra Deck beschworen werden. Kann nicht als Material für eine Fusions-, Synchro- oder Xyz-Beschwörung verwendet werden, es sei denn, alles andere Material sind „Magier“-Pendelmonster. Wenn diese Karte als Pendelbeschwörung von der Hand beschworen wird: Du kannst 1 „Magier“-Pendelmonster als Spezialbeschwörung von deinem Deck in die Verteidigungsposition beschwören, außer „Harmonisierer-Magier“, aber annulliere seine Effekte, zusätzlich verbanne es, wenn es das Spielfeld verlässt. Du kannst diesen Effekt von „Harmonisierer-Magier“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Alle Monster, die du kontrollierst, erhalten für jedes offene „Magier“-Pendelmonster mit einem unterschiedlichen Namen in deinem Extra Deck 100 ATK und DEF.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

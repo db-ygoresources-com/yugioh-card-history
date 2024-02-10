@@ -1,0 +1,19 @@
+{
+  "id": 14122,
+  "type": "monster",
+  "name": "Update-Störer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "2 Cyberse-Monster der Stufe 2 oder höher\nEinmal pro Kampf, während der Schadensberechnung, falls dein Cyberse-Monster kämpft (Schnelleffekt): Du kannst diesen Effekt aktivieren; annulliere bis zum Ende des Damage Steps alle anderen Karteneffekte auf dem Spielfeld, die Schadensberechnung für diesen Kampf verwendet die Grund-ATK/DEF jedes Monsters, zusätzlich, falls ein Monster eines Gegners durch diesen Kampf zerstört und auf den Friedhof gelegt wird, füge deinem Gegner 1000 Schaden zu. Falls diese Karte als Linkmaterial auf den Friedhof gelegt wird: Das Linkmonster kann während jeder Battle Phase in diesem Spielzug einen zweiten Angriff durchführen.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "4"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

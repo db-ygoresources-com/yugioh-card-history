@@ -1,0 +1,18 @@
+{
+  "id": 12401,
+  "type": "monster",
+  "name": "Künstlerkumpel Gongatze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, wenn ein Angriff deklariert wird, an dem ein Monster, das du kontrollierst, und ein Monster deines Gegners beteiligt sind: Du kannst diesen Effekt aktivieren; du erhältst aus dem Kampf keinen Kampfschaden.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Monster deines Gegners einen direkten Angriff deklariert: Du kannst diesen Effekt aktivieren; du erhältst aus dem Kampf keinen Kampfschaden (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 2,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

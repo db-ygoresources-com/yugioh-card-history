@@ -1,0 +1,16 @@
+{
+  "id": 10661,
+  "type": "monster",
+  "name": "Herold des reinen Lichts",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 2\nDu kannst 1 Material von dieser Karte abhängen und dann 1 Monster in deinem Friedhof wählen; füge es deiner Hand hinzu, dann mische 1 Karte von deiner Hand ins Deck. Du kannst den Effekt von „Herold des reinen Lichts“ nur einmal pro Spielzug verwenden.",
+  "rank": 2,
+  "atk": 600,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Xyz",
+    "Effekt"
+  ]
+}

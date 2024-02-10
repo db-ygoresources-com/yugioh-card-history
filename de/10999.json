@@ -1,0 +1,15 @@
+{
+  "id": 10999,
+  "type": "monster",
+  "name": "Getriebriaufbohrer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 ERDE Monster vom Typ Maschine der Stufe 4 von deinem Deck hinzufügen, außer „Getriebriaufbohrer“, zusätzlich kannst du für den Rest dieses Spielzugs weder Angriffe deklarieren noch Monster als Spezialbeschwörung beschwören, außer Monstern vom Typ Maschine.",
+  "level": 4,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

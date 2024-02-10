@@ -1,0 +1,15 @@
+{
+  "id": 13463,
+  "type": "monster",
+  "name": "Altergeist Multitäuscher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du eine Fallenkarte aktivierst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Altergeist“-Monster als Spezialbeschwörung von deinem Deck in die Verteidigungsposition beschwören, außer „Altergeist Multitäuscher“. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer „Altergeist“-Monstern. Du kannst jeden Effekt von „Altergeist Multitäuscher“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8815,
+  "type": "monster",
+  "name": "Schwarz geflügelter Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls du Schaden von einem Karteneffekt erhalten würdest, lege stattdessen 1 Schwarzfeder-Zählmarke auf diese Karte. Diese Karte verliert für jede Schwarzfeder-Zählmarke auf ihr 700 ATK. Einmal pro Spielzug: Du kannst alle Schwarzfeder-Zählmarken von dieser Karte entfernen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; jenes gewählte Ziel verliert 700 ATK für jede entfernte Schwarzfeder-Zählmarke und falls es dies tut, füge deinem Gegner Schaden in Höhe der ATK zu, die durch diesen Effekt verloren wurden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1600,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

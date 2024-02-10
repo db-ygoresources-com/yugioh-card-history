@@ -1,0 +1,15 @@
+{
+  "id": 15267,
+  "type": "monster",
+  "name": "Lebloser Blattfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte beschworen wird: Du kannst 1 Fisch-Monster von deinem Deck auf den Friedhof legen, außer „Lebloser Blattfisch“. Du kannst diese Karte von deinem Friedhof verbannen und dann 3 Fisch-Monster in deinem Friedhof wählen; mische die Monster in dein Deck, dann ziehe 1 Karte. Du kannst jeden Effekt von „Lebloser Blattfisch“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1600,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

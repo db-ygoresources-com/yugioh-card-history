@@ -1,0 +1,18 @@
+{
+  "id": 12147,
+  "type": "monster",
+  "name": "Büroboter 007",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte erhält 500 ATK für jede „Büroboter“-Karte in deinem Friedhof. Monster, die dein Gegner kontrolliert, können keine offenen „Büroboter“-Monster als Angriffsziel wählen, außer diesem. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Büroboter“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 10,
+  "level": 7,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

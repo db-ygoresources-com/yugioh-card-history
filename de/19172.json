@@ -1,0 +1,19 @@
+{
+  "id": 19172,
+  "type": "monster",
+  "name": "Buntäugiger Arcray-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "4 Drache-Monster (1 Fusions-, 1 Synchro-, 1 Xyz- und 1 Pendel-)\n(Diese Karte wird immer als „Oberster König Z-ARC“ behandelt.)\nDiese verdeckte Karte im Extra Deck muss erst entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung beschworen werden, indem du 1 FINSTERNIS „Oberster König Z-ARC“ der Stufe 12 als Tribut anbietest. Falls diese Karte als Spezialbeschwörung vom Extra Deck beschworen wird: Du kannst 1 Pendelmonster von deinem Deck in deine Pendelzone legen. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls du 2 Karten in deinen Pendelzonen hast: Du kannst diese Karte als Spezialbeschwörung beschwören, dann kannst du diesen Effekt ausführen.\n●Mische 1 Karte von deiner Pendelzone ins Deck, dann, falls sie deinem Extra Deck hinzugefügt wurde, kannst du sie als Spezialbeschwörung beschwören, ungeachtet ihrer Beschwörungsbedingungen. Du kannst diesen Effekt von „Buntäugiger Arcray-Drache“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 13,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

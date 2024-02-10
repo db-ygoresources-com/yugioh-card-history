@@ -1,0 +1,18 @@
+{
+  "id": 11630,
+  "type": "monster",
+  "name": "Dragoons de Draconia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Armado com mosquetes e lanças de ferro, essas tropas montadas terrestres do Império de Draconia são temidas pelo Reino Réptil e outras nações fronteiriças.",
+  "pendEffect": "Uma vez por turno, se um Monstro Normal que você controla destruir um monstro do oponente em batalha, depois do cálculo de dano: você pode adicionar 1 Monstro Normal de Nível 4 ou mais do seu Deck à sua mão.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Besta-Guerreira",
+    "Pêndulo",
+    "Normal"
+  ]
+}

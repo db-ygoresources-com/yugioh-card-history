@@ -1,0 +1,15 @@
+{
+  "id": 14095,
+  "type": "monster",
+  "name": "Shiranui-Schwertmeister",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet und du 2 oder mehr „Shiranui“-Monster mit unterschiedlichen Namen kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Falls diese Karte verbannt wird: Du kannst 1 Zombie-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 600 ATK. Du kannst jeden Effekt von „Shiranui-Schwertmeister“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 600,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

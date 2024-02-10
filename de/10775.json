@@ -1,0 +1,15 @@
+{
+  "id": 10775,
+  "type": "monster",
+  "name": "Risebell der Sternbeeinflusser",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 offenes Monster auf dem Spielfeld wählen; erhöhe seine Stufe um 1.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4507,
+  "type": "monster",
+  "name": "Menschenfresserkäfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Wähle 1 Monster auf dem Spielfeld; zerstöre es.",
+  "level": 2,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

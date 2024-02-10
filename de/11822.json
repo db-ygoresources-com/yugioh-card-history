@@ -1,0 +1,16 @@
+{
+  "id": 11822,
+  "type": "monster",
+  "name": "Aromakrug",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte aufgedeckt wird, kann sie nicht durch Kampf zerstört werden, solange sie offen auf dem Spielfeld liegt. Falls diese Karte aufgedeckt wird, während der End Phase jedes Spielers: Du erhältst 500 LP.",
+  "level": 1,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

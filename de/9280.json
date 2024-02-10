@@ -1,0 +1,15 @@
+{
+  "id": 9280,
+  "type": "monster",
+  "name": "Zauberstein-Magier Karood",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug, wenn der Effekt einer anderen Monsterkarte aktiviert wird, solange keine Magischer-Stein-Zählmarke auf dieser Karte liegt, lege 1 Magischer-Stein-Zählmarke auf diese Karte (max. 1). Diese Karte erhält 300 DEF für jede Magischer-Stein-Zählmarke auf dieser Karte. Einmal pro Spielzug kannst du 1 Magischer-Stein-Zählmarke von deiner Spielfeldseite entfernen, um 1 Karte im Friedhof deines Gegners zu wählen und aus dem Spiel zu entfernen.",
+  "level": 3,
+  "atk": 800,
+  "def": 1900,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

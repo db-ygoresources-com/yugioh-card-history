@@ -1,0 +1,15 @@
+{
+  "id": 18324,
+  "type": "monster",
+  "name": "Schatten-Leichenfledderer des Labyrinths",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte abwerfen; füge deiner Hand 1 „Labyrinthmauer“-Karte von deinem Deck hinzu. Am Beginn des Damage Steps, falls ein Monster deines Gegners kämpft, solange du eine „Labyrinthmauer“-Karte kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen; zerstöre jenes Monster des Gegners. Du kannst jeden Effekt von „Schatten-Leichenfledderer des Labyrinths“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

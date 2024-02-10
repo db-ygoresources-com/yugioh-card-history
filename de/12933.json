@@ -1,0 +1,18 @@
+{
+  "id": 12933,
+  "type": "monster",
+  "name": "Oberster König Drachenfinstergewürm",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Oberster König Tor“-Pendelmonster von deinem Deck hinzufügen. Falls sich diese Karte in deinem Friedhof befindet und du keine Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Oberster König Drachenfinstergewürm“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug, falls du keine Monster kontrollierst: Du kannst 1 „Oberster König Tor“-Pendelmonster von deinem Deck in deine Pendelzone legen, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Pendelbeschwörung beschwören, außer FINSTERNIS Monstern.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

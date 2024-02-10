@@ -1,0 +1,19 @@
+{
+  "id": 14200,
+  "type": "monster",
+  "name": "Kampf-Shogun der Sechs Samurai",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Krieger-Monster, darunter ein „Sechs Samurai“-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Karte abwerfen; füge deiner Hand 1 Karte, die einen Effekt hat, der eine oder mehr Bushido-Zählmarken legt, von deinem Deck hinzu. Du kannst diesen Effekt von „Kampf-Shogun der Sechs Samurai“ nur einmal pro Spielzug verwenden. Jedes Mal, wenn ein oder mehr „Sechs Samurai“-Monster als Normal- oder Spezialbeschwörung in eine oder mehr Zonen beschworen werden, auf die diese Karte zeigt, lege 1 Bushido-Zählmarke auf diese Karte. Erhält für jede Bushido-Zählmarke auf deiner Spielfeldseite 100 ATK.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Krieger",
+    "Link",
+    "Effekt"
+  ]
+}

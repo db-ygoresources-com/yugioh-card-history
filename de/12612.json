@@ -1,0 +1,18 @@
+{
+  "id": 12612,
+  "type": "monster",
+  "name": "Seltmetallfose-Wismurüstung",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst deiner Hand während der End Phase dieses Spielzugs 1 „Metallfose“-Monster von deinem Deck hinzufügen. Du kannst diesen Effekt von „Seltmetallfose-Wismurüstung“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 andere offene Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, setze 1 „Metallfose“-Zauber/Falle direkt von deinem Deck.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Psi",
+    "Pendel",
+    "Effekt"
+  ]
+}

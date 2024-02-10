@@ -1,0 +1,15 @@
+{
+  "id": 11365,
+  "type": "monster",
+  "name": "Lindorescer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se um monstro que você controla batalhar um monstro do oponente, durante o cálculo de dano: até o final da Etapa de Dano, o ATK de cada monstro nessa batalha se torna igual à DEF dele.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Wyrm",
+    "Efeito"
+  ]
+}

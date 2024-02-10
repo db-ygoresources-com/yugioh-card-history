@@ -1,0 +1,16 @@
+{
+  "id": 9477,
+  "type": "monster",
+  "name": "Machtresonator",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese offene Karte, die du kontrollierst, auf den Friedhof legen und dann 1 offenes Monster wählen, das du kontrollierst; falls es in diesem Spielzug angreift, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren, die ein oder mehr Monster als Ziel wählen.",
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

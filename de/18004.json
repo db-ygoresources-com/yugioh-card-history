@@ -1,0 +1,16 @@
+{
+  "id": 18004,
+  "type": "monster",
+  "name": "Epurrely Glücksgefühl",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 2\nAm Ende des Damage Steps, falls diese Karte gekämpft hat: Du kannst deiner Hand 1 „Purrely“-Karte von deinem Deck hinzufügen, zusätzlich, falls diese Karte „Glückliche Purrely-Erinnerung“ als Material hat, kannst du die ATK von 1 offenem Monster auf dem Spielfeld halbieren. Bis zu dreimal pro Spielzug, wenn du eine „Purrely“-Schnellzauberkarte aktivierst (Schnelleffekt): Du kannst jene Karte auf dem Spielfeld als Material an diese Karte anhängen, dann kannst du 1 Zauber/Falle, den oder die dein Gegner kontrolliert, auf die Hand zurückgeben.",
+  "rank": 2,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "Fee",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11875,
+  "type": "monster",
+  "name": "Canicentauro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Uma vez por turno, se este card batalhar um monstro do oponente, durante o cálculo de dano (no turno de qualquer duelista): você pode enviar 1 monstro do Tipo Besta, Besta-Guerreira ou Besta Alada da sua mão ou do Deck para o Cemitério e, se isso acontecer, até o final da Fase de Batalha, este card ganha ATK igual ao Nível do monstro enviado x 100.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Besta-Guerreira",
+    "Efeito"
+  ]
+}

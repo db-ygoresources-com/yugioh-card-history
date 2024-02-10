@@ -1,0 +1,16 @@
+{
+  "id": 12163,
+  "type": "monster",
+  "name": "Aegaion die Meeresburg",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster der Stufe 8\nWährend des Spielzugs eines beliebigen Spielers: Du kannst 1 zufälliges verdecktes Monster vom Extra Deck deines Gegners offen verbannen und falls du dies tust, werden die ATK dieser Karte gleich denen des verbannten Monsters. Während des Spielzugs eines beliebigen Spielers: Du kannst 1 Xyz-Material von dieser Karte abhängen und dann 1 der verbannten Fusions-, Synchro- oder Xyz-Monster deines Gegners wählen; lege es ins Extra Deck zurück und falls du dies tust, zerstöre 1 Monster mit demselben Monsterkartentyp (Fusion, Synchro oder Xyz), das dein Gegner kontrolliert. Du kannst jeden Effekt von „Aegaion die Meeresburg“ nur einmal pro Spielzug verwenden.",
+  "rank": 8,
+  "atk": -1,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

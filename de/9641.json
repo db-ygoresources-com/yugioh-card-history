@@ -1,0 +1,15 @@
+{
+  "id": 9641,
+  "type": "monster",
+  "name": "Zeit-Flüchtling",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers: Du kannst diese Karte abwerfen und dann 1 Monster vom Typ Psi wählen, das du kontrollierst; verbanne es bis zu deiner nächsten Standby Phase.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 16084,
+  "type": "monster",
+  "name": "DoSolfakkord Cutia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Solange du einen geraden Pendelbereich in deiner Pendelzone hast, erhalten „Solfakkord“-Pendelmonster, die du kontrollierst, ATK in Höhe von 100 x ihres eigenen Pendelbereichs. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Solfakkord“-Pendelmonster von deinem Deck hinzufügen, außer „DoSolfakkord Cutia“. Du kannst diesen Effekt von „DoSolfakkord Cutia“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Pendelbeschwörungen deiner „Solfakkord“-Pendelmonster können nicht annulliert werden.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

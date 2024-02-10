@@ -1,0 +1,16 @@
+{
+  "id": 16233,
+  "type": "monster",
+  "name": "Chronomale Vimana",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 5\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster auf dem Spielfeld und 1 Xyz-Monster oder „Chronomal“-Monster in deinem Friedhof wählen; jenes Monster auf dem Spielfeld erhält (bis zum Ende dieses Spielzugs) die Hälfte der ATK jenes Monsters im Friedhof, dann hänge jenes Monster vom Friedhof als Material an diese Karte an. Einmal pro Spielzug, wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 2 Material von dieser Karte abhängen; annulliere die Aktivierung.",
+  "rank": 5,
+  "atk": 2300,
+  "def": 2600,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

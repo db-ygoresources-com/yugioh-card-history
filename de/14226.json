@@ -1,0 +1,20 @@
+{
+  "id": 14226,
+  "type": "monster",
+  "name": "Cyberse-Verzauberer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Monster\nFalls du diese Karte kontrollierst, die mit „Cyberse-Zauberer“ als Material als Linkbeschwörung beschworen wurde (Schnelleffekt): Du kannst 1 Monster wählen, das dein Gegner kontrolliert; ändere seine Kampfposition und falls du dies tust, annulliere bis zum Ende des Spielzugs seine Effekte. Falls diese Karte durch Kampf zerstört wird oder falls diese Karte, die ihrem Besitzer gehört, durch einen Karteneffekt eines Gegners zerstört wird: Du kannst 1 „Cyberse-Zauberer“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören. Du kannst jeden Effekt von „Cyberse-Verzauberer“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2400,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19413,
+  "type": "monster",
+  "name": "Vermögende Berganbeterin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls dein Gegner ein Monster der Stufe 6 oder niedriger kontrolliert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls du mehr Karten in deiner Hand hast als dein Gegner: Du kannst die Kampfposition aller Monster auf dem Spielfeld ändern, alle anderen Insekt-Monster auf dem Spielfeld werden zur selben Eigenschaft und Stufe wie diese Karte, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Insekt-Monstern. Falls diese Karte zerstört wird: Du kannst deiner Hand 1 Insekt-Monster der Stufe 8 oder höher von deinem Deck hinzufügen. Du kannst jeden Effekt von „Vermögende Berganbeterin“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

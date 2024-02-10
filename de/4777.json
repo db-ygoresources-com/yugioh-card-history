@@ -1,0 +1,16 @@
+{
+  "id": 4777,
+  "type": "monster",
+  "name": "Beißschuhe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Ändere die Angriffs- oder Verteidigungsposition eines offenen Monsters auf dem Spielfeld. Die Karte muss offen bleiben.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

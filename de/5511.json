@@ -1,0 +1,16 @@
+{
+  "id": 5511,
+  "type": "monster",
+  "name": "Grabwächters Wache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 1 Monster, das dein Gegner kontrolliert; gib das gewählte Ziel auf die Hand zurück.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1900,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

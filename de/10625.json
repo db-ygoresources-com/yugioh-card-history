@@ -1,0 +1,16 @@
+{
+  "id": 10625,
+  "type": "monster",
+  "name": "Mecha-Phantomungeheuer Trällbluran",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte für die Synchrobeschwörung eines Monsters vom Typ Maschine auf den Friedhof gelegt wird: Beschwöre 1 „Mecha-Phantomungeheuer-Spielmarke“ (Typ Maschine/WIND/Stufe 3/ATK 0/DEF 0) als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine anderen Monster als Spezialbeschwörung beschwören, außer WIND Monstern. Solange du eine Spielmarke kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden. Du kannst 1 anderes „Mecha-Phantomungeheuer“-Monster als Tribut anbieten; erhöhe die Stufe dieser Karte um 1. Du kannst nur 1 Effekt von „Mecha-Phantomungeheuer Trällbluran“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

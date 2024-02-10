@@ -1,0 +1,16 @@
+{
+  "id": 6112,
+  "type": "monster",
+  "name": "Rafflesia-Verführung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Übernimm die Kontrolle über 1 offenes Monster auf der Spielfeldseite deines Gegners bis zum Ende des Spielzugs.",
+  "level": 2,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Pflanze",
+    "Flipp",
+    "Effekt"
+  ]
+}

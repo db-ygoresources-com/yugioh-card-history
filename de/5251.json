@@ -1,0 +1,15 @@
+{
+  "id": 5251,
+  "type": "monster",
+  "name": "Seele der Reinheit und des Lichts",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 2 LICHT Monster in deinem Friedhof aus dem Spiel entfernst. Alle Monster, die dein Gegner kontrolliert, verlieren nur während seiner Battle Phase 300 ATK.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

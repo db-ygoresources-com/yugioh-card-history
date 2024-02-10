@@ -1,0 +1,15 @@
+{
+  "id": 13552,
+  "type": "monster",
+  "name": "Photonenvorstoßer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein „Photon“-Monster auf dem Spielfeld liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Photonenvorstoßer“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Erhält 1000 ATK, falls ein anderes „Photon“-Monster auf dem Spielfeld liegt.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11789,
+  "type": "monster",
+  "name": "Künstlerkumpel Kamelhöcker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte durch Kampf zerstört wird: Du kannst das Monster, das diese Karte zerstört hat, 800 ATK verlieren lassen.",
+  "pendEffect": "Einmal pro Spielzug, während deiner Main Phase 1: Du kannst 1 offenes Monster wählen, das du kontrollierst; die Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs 800 DEF und falls sie dies tun, falls das als Ziel gewählte Monster in diesem Spielzug ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. (Diese Effekte dauern sogar an, falls diese Karte das Spielfeld verlässt.)",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

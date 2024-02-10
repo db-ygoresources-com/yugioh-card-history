@@ -1,0 +1,15 @@
+{
+  "id": 12388,
+  "type": "monster",
+  "name": "Planeta Obscuro de Kozmo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Você deve Invocá-lo por Invocação-Especial (da sua mão) ao banir monstros \"Kozmo\" da sua mão cuja soma dos Níveis seja igual a 10 ou mais e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Não pode ser escolhido como alvo de efeitos de card do oponente. Durante o turno de qualquer duelista, quando um Card de Magia for ativado: você pode banir 1 monstro \"Kozmo\" do seu Cemitério; negue a ativação e, se isso acontecer, destrua esse card. Se este card for destruído em batalha ou por um efeito de card e enviado para o Cemitério: você pode banir este card do seu Cemitério; adicione 1 monstro \"Kozmo\" de Nível 9 ou menos do seu Deck à sua mão.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

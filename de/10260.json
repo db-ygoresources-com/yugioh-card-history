@@ -1,0 +1,15 @@
+{
+  "id": 10260,
+  "type": "monster",
+  "name": "Fehlende Stärke",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du keine anderen Monster kontrollierst: Du kannst diese Karte als Tribut anbieten, um 1 Monster zu wählen, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle über das gewählte Ziel. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Spezialbeschwörungen und keine Battle Phase durchführen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5826,
+  "type": "monster",
+  "name": "Hexendoktor des Chaos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 1 Monsterkarte aus deinem oder dem gegnerischen Friedhof und entferne sie aus dem Spiel.",
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

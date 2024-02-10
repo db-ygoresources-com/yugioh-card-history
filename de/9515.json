@@ -1,0 +1,16 @@
+{
+  "id": 9515,
+  "type": "monster",
+  "name": "Psigenie-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger vom Typ Psi + 2 oder mehr Nicht-Empfänger-Monster vom Typ Psi\nEinmal pro Spielzug kannst du 1 Monster vom Typ Psi in deinem Friedhof wählen und aus dem Spiel entfernen. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird, beschwöre so viele Monster wie möglich als Spezialbeschwörung, die durch diesen Effekt aus dem Spiel entfernt wurden.",
+  "level": 9,
+  "atk": 3300,
+  "def": 3000,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

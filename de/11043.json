@@ -1,0 +1,15 @@
+{
+  "id": 11043,
+  "type": "monster",
+  "name": "Artefakt Aigis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte als Zauberkarte von deiner Hand in deine Zauber- & Fallenzone setzen. Während des Spielzugs deines Gegners, falls diese gesetzte Karte in der Zauber- & Fallenzone zerstört und auf deinen Friedhof gelegt wird: Beschwöre sie als Spezialbeschwörung. Falls diese Karte während des Spielzugs deines Gegners als Spezialbeschwörung beschworen wird: „Artefakt“-Monster, die du kontrollierst, können bis zum Ende dieses Spielzugs weder als Ziel für Karteneffekte deines Gegners gewählt noch von diesen zerstört werden.",
+  "level": 5,
+  "atk": 1200,
+  "def": 2500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12713,
+  "type": "monster",
+  "name": "Ator do Abismo - Novato Insolente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Na primeira vez que este card seria destruído em batalha ou por um efeito de card a cada turno, ele não é destruído. Se este card for destruído em batalha, ou se este card na Zona de Monstros do seu dono for destruído por um efeito de card do oponente: você pode Invocar por Invocação-Especial 1 monstro \"Ator do Abismo\" de Nível 4 ou menos do seu Deck, exceto \"Ator do Abismo - Novato Insolente\". Se este card na Zona de Pêndulo for destruído: você pode escolher 1 monstro de Nível 4 ou menos que seu oponente controla; destrua-o.",
+  "pendEffect": "Se um ou mais monstros \"Ator do Abismo\" que você controla seriam destruídos em batalha ou por um efeito de card do oponente, em vez disso, você pode destruir este card.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

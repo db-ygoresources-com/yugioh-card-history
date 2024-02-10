@@ -1,0 +1,16 @@
+{
+  "id": 6263,
+  "type": "monster",
+  "name": "Gehirnentführer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Behandele diese Karte als eine Ausrüstungskarte und rüste ein Monster auf der Spielfeldseite deines Gegners damit aus. Übernimm die Kontrolle über das Monster, das mit dieser Karte ausgerüstet wird. Erhöhe die Life Points deines Gegners in jeder seiner Standby Phasen um 500 Punkte.",
+  "level": 2,
+  "atk": 200,
+  "def": 900,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

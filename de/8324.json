@@ -1,0 +1,15 @@
+{
+  "id": 8324,
+  "type": "monster",
+  "name": "Weißes Potan",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du ein offenes Empfänger-Monster kontrollierst, kann diese Karte nicht durch Kampf zerstört werden. Wenn ein offenes Empfänger-Monster, das du kontrollierst, durch Kampf zerstört und auf den Friedhof gelegt wird, füge deinem Gegner 500 Schaden zu.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

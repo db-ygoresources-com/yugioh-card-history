@@ -1,0 +1,15 @@
+{
+  "id": 7180,
+  "type": "monster",
+  "name": "베놈 스네이크",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "1턴에 1번만, 상대 필드 위 몬스터 1장에 베놈 카운터를 1개 놓을 수 있다. 이 효과를 사용한 턴에 이 몬스터는 공격 선언을 할 수 없다.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "파충류족",
+    "효과"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12933,
+  "type": "monster",
+  "name": "Rei Supremo Dragão Wurmescuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Monstro Pêndulo \"Rei Supremo Portal\" do seu Deck à sua mão. Se este card estiver no seu Cemitério e você não controlar nenhum monstro: você pode Invocar este card por Invocação-Especial. Você só pode usar cada efeito de \"Rei Supremo Dragão Wurmescuro\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno, se você não controlar nenhum monstro: você pode colocar 1 Monstro Pêndulo \"Rei Supremo Portal\" do seu Deck na sua Zona de Pêndulo e, além disso, você não pode Invocar monstros por Invocação-Pêndulo pelo resto deste turno, exceto monstros de TREVAS.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

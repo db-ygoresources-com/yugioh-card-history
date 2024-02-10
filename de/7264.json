@@ -1,0 +1,15 @@
+{
+  "id": 7264,
+  "type": "monster",
+  "name": "Wolkian - Auge des Taifuns",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht durch Kampf zerstört werden. Falls sich diese Karte in offener Verteidigungsposition befindet, zerstöre sie. Falls diese Karte einen Angriff deklariert: Ändere die Kampfpositionen aller offenen Monster, außer „Wolkian“-Monstern.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

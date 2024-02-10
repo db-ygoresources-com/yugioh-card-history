@@ -1,0 +1,15 @@
+{
+  "id": 16497,
+  "type": "monster",
+  "name": "Ad Libitum von Despia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während deiner Main Phase: Du kannst alle Monster, die sich derzeit auf dem Spielfeld befinden, bis zum Ende des Spielzugs des Gegners ATK in Höhe ihrer eigenen Stufe x 100 erhalten lassen. Falls diese Karte in deiner Hand oder auf deiner Spielfeldseite als Fusionsmaterial verwendet und auf den Friedhof gelegt oder verbannt wird: Du kannst 1 deiner „Despia“-Monster oder Fusionsmonster der Stufe 8 oder höher wählen, das verbannt ist oder sich in deinem Friedhof befindet, außer „Ad Libitum von Despia“; beschwöre es als Spezialbeschwörung. Du kannst jeden Effekt von „Ad Libitum von Despia“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9886,
+  "type": "monster",
+  "name": "Umkehrbursche",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nur Monster in verdeckter Verteidigungsposition angreifen. Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Falls diese Karte ein Monster in verdeckter Verteidigungsposition angegriffen hat, am Beginn des Damage Steps: Du kannst das verdeckte Monster zerstören.",
+  "level": 4,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

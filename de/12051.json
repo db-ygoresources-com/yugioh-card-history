@@ -1,0 +1,15 @@
+{
+  "id": 12051,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Menko",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert, solange sich diese Karte in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung in die Angriffsposition beschwören und falls du dies tust, ändere alle offenen Monster, die dein Gegner kontrolliert, in die Verteidigungsposition.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

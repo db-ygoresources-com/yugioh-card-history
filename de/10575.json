@@ -1,0 +1,15 @@
+{
+  "id": 10575,
+  "type": "monster",
+  "name": "Gentlemander",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Monster deines Gegners können keine Monster angreifen, außer diesem.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

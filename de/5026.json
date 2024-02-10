@@ -1,0 +1,15 @@
+{
+  "id": 5026,
+  "type": "monster",
+  "name": "Jungfer des Wassers",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange es keinen offenen Spielfeldzauber gibt, wird das Spielfeld als „Umi“ behandelt.",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

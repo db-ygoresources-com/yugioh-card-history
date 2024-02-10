@@ -1,0 +1,17 @@
+{
+  "id": 9118,
+  "type": "monster",
+  "name": "Formelsynchron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1 Nicht-Empfänger-Monster\nWenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Karte ziehen. Einmal pro Kette, während der Main Phase deines Gegners, kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, führe eine Synchrobeschwörung durch und verwende dafür diese Karte, die du kontrollierst.",
+  "level": 2,
+  "atk": 200,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

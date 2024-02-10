@@ -1,0 +1,15 @@
+{
+  "id": 6603,
+  "type": "monster",
+  "name": "Baumfrosch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug, während deiner Standby Phase, falls sich diese Karte in deinem Friedhof befindet und du keinen „Baumfrosch“ kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören. Du darfst keine Zauber-/Fallenkarten kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

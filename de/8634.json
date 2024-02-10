@@ -1,0 +1,16 @@
+{
+  "id": 8634,
+  "type": "monster",
+  "name": "Supay",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte durch einen Karteneffekt vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 „Orakel der Sonne“ als Spezialbeschwörung von deinem Deck beschwören und falls du dies tust, verdopple seine ATK, zusätzlich gib es während der End Phase dieses Spielzugs auf die Hand zurück.",
+  "level": 1,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7198,
+  "type": "monster",
+  "name": "Lustiger Rattenfänger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof ist. Solange diese Karte offen auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:\n●Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt, ziehe 1 Karte.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Fee",
+    "Zwilling",
+    "Effekt"
+  ]
+}

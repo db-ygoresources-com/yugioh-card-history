@@ -1,0 +1,16 @@
+{
+  "id": 7206,
+  "type": "monster",
+  "name": "Gravitationskugel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Ändere die Kampfpositionen aller offenen Monster, die dein Gegner kontrolliert.",
+  "level": 3,
+  "atk": 1100,
+  "def": 700,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5782,
+  "type": "monster",
+  "name": "Zorc, Dunkler Meister",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Vertrag mit dem Dunklen Meister“ als Ritualbeschwörung beschwören. Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen, dann zerstöre alle Monster, die dein Gegner kontrolliert, falls du eine 1 oder 2 gewürfelt hast, zerstöre 1 Monster, das dein Gegner kontrolliert, falls du eine 3, 4 oder 5 gewürfelt hast, oder zerstöre alle Monster, die du kontrollierst, falls du eine 6 gewürfelt hast.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10505,
+  "type": "monster",
+  "name": "Mecha-Phantomungeheuer Tarnkappenrochen",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte deinem Gegner Kampfschaden zufügt: Beschwöre 1 „Mecha-Phantomungeheuer-Spielmarke“ (Typ Maschine/WIND/Stufe 3/ATK 0/DEF 0) als Spezialbeschwörung. Die Stufe dieser Karte wird um die gemeinsame Stufe aller „Mecha-Phantomungeheuer-Spielmarken“ erhöht, die du kontrollierst. Solange du eine Spielmarke kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden. Einmal pro Spielzug: Du kannst 1 Spielmarke als Tribut anbieten und dann 1 Zauber-/Fallenkarte auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "level": 3,
+  "atk": 100,
+  "def": 2100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

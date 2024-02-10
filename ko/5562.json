@@ -1,0 +1,15 @@
+{
+  "id": 5562,
+  "type": "monster",
+  "name": "드릴라고",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "상대 필드 위에 공격력 1600 이상의 앞면 표시 몬스터밖에 존재하지 않을 경우, 이 몬스터는 상대 플레이어에게 직접 공격을 할 수 있다.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1100,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

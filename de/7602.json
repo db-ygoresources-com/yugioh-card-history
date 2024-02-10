@@ -1,0 +1,15 @@
+{
+  "id": 7602,
+  "type": "monster",
+  "name": "Einhornfrosch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte kann deinen Gegner direkt angreifen. Wenn diese Karte erfolgreich direkt angreift, falls du ein anderes Froschmonster außer „Schleimfrosch“ oder „Einhornfrosch“ kontrollierst, kannst du 1 Zauber- oder Fallenkarte zerstören, die dein Gegner kontrolliert.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

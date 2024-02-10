@@ -1,0 +1,16 @@
+{
+  "id": 10938,
+  "type": "monster",
+  "name": "Alsei, o Alto Protetor Silvestre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstros de Nível 8\nUma vez por turno: você pode declarar 1 nome de card; escave o card do topo do seu Deck e, se ele for o card declarado, adicione-o à sua mão. Caso contrário, envie-o para o Cemitério. Se um ou mais cards forem enviados do seu Deck para o Cemitério por um efeito de card (exceto durante a Etapa de Dano): você pode desassociar 1 matéria deste card e, depois, escolha 1 card no campo; coloque o alvo no topo ou no fundo do Deck. Você só pode usar este efeito de \"Alsei, o Alto Protetor Silvestre\" uma vez por turno.",
+  "rank": 8,
+  "atk": 2300,
+  "def": 3200,
+  "properties": [
+    "Planta",
+    "Xyz",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12353,
+  "type": "monster",
+  "name": "Keltischer Wärter für edle Waffen",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht angreifen, solange du Karten in deiner Hand hast. Einmal pro Spielzug: Du kannst 1 „Keltisch“-Monster als Spezialbeschwörung von deiner Hand beschwören. Wenn diese angreifende Karte deinem Gegner Kampfschaden zufügt: Du kannst Karten in Höhe der Anzahl der „Keltisch“-Monster ziehen, die du kontrollierst.",
+  "level": 4,
+  "atk": 2100,
+  "def": 700,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

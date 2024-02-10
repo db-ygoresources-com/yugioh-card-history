@@ -1,0 +1,18 @@
+{
+  "id": 11315,
+  "type": "monster",
+  "name": "Drachenhornjägerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Sie braucht die Hörner, um eine Arznei für ihr Dorf herzustellen, das unter einer Seuche leidet. Noch weiß sie nicht, dass die Drachen ihr Dorf verbrannt und dem Erdboden gleichgemacht haben, nachdem sie aus ihrer Höhle vertrieben wurden.",
+  "pendEffect": "Alle Normalen Monster erhalten 200 ATK. Du erhältst keinen Kampfschaden aus Kämpfen, an denen Normale Monster, die du kontrollierst, beteiligt sind.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Normal"
+  ]
+}

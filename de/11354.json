@@ -1,0 +1,18 @@
+{
+  "id": 11354,
+  "type": "monster",
+  "name": "Qliphort-Träger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Falls diese Karte als Normalbeschwörung beschworen wird, ohne Tribut anzubieten, oder sie als Spezialbeschwörung beschworen wird, wird ihre Stufe zu 4 und ihre Grund-ATK werden zu 1800. Falls diese Karte als Normalbeschwörung beschworen/gesetzt wird, bleibt sie von aktivierten Effekten von Monstern unberührt, deren Grundstufe/-rang niedriger ist als die derzeitige Stufe dieser Karte. Falls diese Karte als Tribut angeboten wird: Du kannst 1 Monster auf dem Spielfeld wählen; gib es auf die Hand zurück.",
+  "pendEffect": "Du kannst keine Monster als Spezialbeschwörung beschwören, außer „Qli“-Monstern. Dieser Effekt kann nicht annulliert werden. Alle „Qli“-Monster, die du kontrollierst, erhalten 300 ATK.",
+  "pendScale": 1,
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

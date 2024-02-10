@@ -1,0 +1,16 @@
+{
+  "id": 5628,
+  "type": "monster",
+  "name": "Dunkler Paladin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Dunkler Magier“ + „Buster-Klingenkämpfer“\nMuss als Fusionsbeschwörung beschworen werden. Wenn eine Zauberkarte aktiviert wird (Schnelleffekt): Du kannst 1 Karte abwerfen; annulliere die Aktivierung und falls du dies tust, zerstöre sie. Diese Karte muss offen auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen. Erhält für jedes Drache-Monster auf dem Spielfeld und im Friedhof 500 ATK.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11009,
+  "type": "monster",
+  "name": "Lautloser Wobby",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners beschwören. Wenn sie auf diese Art beschworen wird: Ziehe 1 Karte und falls du dies tust, erhält dein Gegner 2000 Life Points. Du kannst diesen Effekt von „Lautloser Wobby“ nur einmal pro Spielzug verwenden. Die maximale Handgröße des Beherrschers dieser Karte wird zu 3.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9199,
+  "type": "monster",
+  "name": "Blumen-Chevalier",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "„Blumensynchronisierer“ + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug, während deines Spielzugs, wenn dein Gegner eine Zauber-/Fallenkarte aktiviert (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre die Karte.",
+  "level": 8,
+  "atk": 2700,
+  "def": 2300,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

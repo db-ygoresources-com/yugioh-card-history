@@ -1,0 +1,16 @@
+{
+  "id": 11234,
+  "type": "monster",
+  "name": "Schattenpuppe Squamata",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 Monster auf dem Spielfeld wählen; zerstöre es.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 „Schattenpuppe“-Karte von deinem Deck auf den Friedhof legen, außer „Schattenpuppe Squamata“. Du kannst nur 1 Effekt von „Schattenpuppe Squamata“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

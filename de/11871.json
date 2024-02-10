@@ -1,0 +1,18 @@
+{
+  "id": 11871,
+  "type": "monster",
+  "name": "Dragodies, der ermächtigte Krieger",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte in der Monsterzone ihres Besitzers durch einen Angriff oder Karteneffekt deines Gegners zerstört wird: Du kannst deiner Hand während der End Phase dieses Spielzugs 1 Monster vom Typ Krieger oder Hexer mit 2000 oder weniger ATK von deinem Deck hinzufügen, außer „Dragodies, der ermächtigte Krieger“.",
+  "pendEffect": "Am Beginn des Damage Steps, falls ein Monster, das du kontrollierst, gegen ein offenes Monster deines Gegners kämpft: Du kannst 1 Karte abwerfen; die ATK und DEF des kämpfenden Monsters deines Gegners werden gleich der Hälfte seiner derzeitigen ATK und DEF (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

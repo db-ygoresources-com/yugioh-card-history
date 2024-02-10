@@ -1,0 +1,15 @@
+{
+  "id": 8133,
+  "type": "monster",
+  "name": "Zauberauslöscher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 offenen Zauber auf dem Spielfeld wählen; entferne 1 Zauberzählmarke von irgendwo auf dem Spielfeld und falls du dies tust, gib das gewählte Ziel auf die Hand zurück.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

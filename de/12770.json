@@ -1,0 +1,15 @@
+{
+  "id": 12770,
+  "type": "monster",
+  "name": "Märchenschweif - Wittchen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kein Spieler kann Monster auf dem Spielfeld als Ziel für Zauberkarten oder -effekte wählen, außer diesem. Einmal pro Spielzug: Du kannst 1 Zauber abwerfen; rüste diese Karte mit 1 Ausrüstungszauber von deiner Hand, deinem Deck oder deinem Friedhof aus, aber gib den Ausrüstungszauber während der End Phase auf die Hand zurück.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

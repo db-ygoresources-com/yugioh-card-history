@@ -1,0 +1,15 @@
+{
+  "id": 15477,
+  "type": "monster",
+  "name": "Chaos-Valkyre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Du kannst 1 LICHT oder FINSTERNIS Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte verbannt wird: Du kannst 1 LICHT oder FINSTERNIS Monster von deinem Deck auf den Friedhof legen, aber für den Rest dieses Spielzugs kannst du weder Karten noch die Effekte von Karten mit demselben Namen wie jene Karte aktivieren. Du kannst jeden Effekt von „Chaos-Valkyre“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1050,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

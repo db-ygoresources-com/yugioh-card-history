@@ -1,0 +1,18 @@
+{
+  "id": 11218,
+  "type": "monster",
+  "name": "Künstlerkumpel Kaleidoskorp",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; in diesem Spielzug kann es alle als Spezialbeschwörung beschworenen Monster, die dein Gegner kontrolliert, einmal angreifen.",
+  "pendEffect": "Alle LICHT Monster, die du kontrollierst, erhalten 300 ATK.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "Insekt",
+    "Pendel",
+    "Effekt"
+  ]
+}

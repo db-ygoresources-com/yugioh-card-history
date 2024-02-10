@@ -1,0 +1,15 @@
+{
+  "id": 12307,
+  "type": "monster",
+  "name": "Digitalkäfer Netzlöter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Xyz-Material für eine Xyz-Beschwörung verwendet werden, außer für die Xyz-Beschwörung eines Monsters vom Typ Insekt. Einmal pro Spielzug: Du kannst 1 Monster in offener Angriffsposition wählen, das du kontrollierst; ändere es in die Verteidigungsposition und falls du dies tust, beschwöre 1 Monster vom Typ Insekt der Stufe 3 als Spezialbeschwörung von deiner Hand in die Verteidigungsposition. Ein Xyz-Monster, das mit dieser Karte auf dem Spielfeld als Xyz-Material beschworen wurde, erhält diesen Effekt.\n●Falls es als Xyz-Beschwörung beschworen wird: Die DEF aller offenen Monster, die dein Gegner kontrolliert, werden zu 0, zusätzlich ändere sie in die Verteidigungsposition.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

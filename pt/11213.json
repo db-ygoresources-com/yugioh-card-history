@@ -1,0 +1,18 @@
+{
+  "id": 11213,
+  "type": "monster",
+  "name": "Dragão Pêndulo de Olhos Anômalos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card batalhar um monstro do oponente, qualquer dano de batalha que este card causar ao seu oponente é dobrado.",
+  "pendEffect": "Você pode reduzir a 0 o dano de batalha que você sofrer de um ataque envolvendo um Monstro Pêndulo que você controla. Durante sua Fase Final: você pode destruir este card e, se isso acontecer, adicione 1 Monstro Pêndulo com 1500 ou menos de ATK do seu Deck à sua mão. Você só pode usar cada Efeito de Pêndulo de \"Dragão Pêndulo de Olhos Anômalos\" uma vez por turno.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

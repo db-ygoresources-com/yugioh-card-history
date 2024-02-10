@@ -1,0 +1,18 @@
+{
+  "id": 11873,
+  "type": "monster",
+  "name": "Aether, der böse ermächtigende Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster auf dem Spielfeld wählen; verbanne es.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Ermächtigte Krieger“-Monster von deinem Friedhof verbannen und dann 1 Karte auf dem Spielfeld wählen; zerstöre sie.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 2300,
+  "def": 1600,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

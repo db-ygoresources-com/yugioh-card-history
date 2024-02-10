@@ -1,0 +1,18 @@
+{
+  "id": 11608,
+  "type": "monster",
+  "name": "Symphonischer Krieger Gita-a-arre",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Symphonischer Krieger“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "pendEffect": "Du kannst 1 Karte abwerfen; beschwöre 1 „Symphonischer Krieger“-Monster als Spezialbeschwörung von deinem Deck, außer „Symphonischer Krieger Gita-a-arre“. Du kannst diesen Effekt von „Symphonischer Krieger Gita-a-arre“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1500,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

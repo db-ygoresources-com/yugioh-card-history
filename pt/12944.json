@@ -1,0 +1,18 @@
+{
+  "id": 12944,
+  "type": "monster",
+  "name": "Zefraath",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (com a face para cima do seu Deck Adicional) ao oferecer como Tributo todos os monstros que você controla, incluindo pelo menos 3 monstros \"Zefra\", e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Depois de Invocar este card por Invocação-Especial, você pode conduzir 1 Invocação-Pêndulo de um ou mais monstros \"Zefra\" durante sua Fase Principal neste turno, em adição à sua Invocação-Pêndulo. (Você só pode se aproveitar deste efeito uma vez por turno.) Uma vez por turno: você pode oferecer 1 monstro como Tributo; Invoque por Invocação-Especial 1 monstro \"Zefra\" do seu Deck.",
+  "pendEffect": "Durante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo \"Zefra\" do seu Deck ao seu Deck Adicional com a face para cima e, se isso acontecer, até o final deste turno, a Escala de Pêndulo deste card se torna a mesma que a desse Monstro Pêndulo. Você só pode usar este efeito de \"Zefraath\" uma vez por turno.",
+  "pendScale": 5,
+  "level": 11,
+  "atk": 3450,
+  "def": 2950,
+  "properties": [
+    "Rocha",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

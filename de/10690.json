@@ -1,0 +1,15 @@
+{
+  "id": 10690,
+  "type": "monster",
+  "name": "Chronomaler Sonnenmonolith",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 „Chronomal“-Monster wählen, das du kontrollierst; seine Stufe wird zu 6. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer „Chronomal“-Monstern.",
+  "level": 6,
+  "atk": 600,
+  "def": 600,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

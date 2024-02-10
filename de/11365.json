@@ -1,0 +1,15 @@
+{
+  "id": 11365,
+  "type": "monster",
+  "name": "Lindblüte",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls ein Monster, das du kontrollierst, gegen ein Monster deines Gegners kämpft, während der Schadensberechnung: Die ATK jedes Monsters in dem Kampf werden bis zum Ende des Damage Steps gleich seinen derzeitigen DEF.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

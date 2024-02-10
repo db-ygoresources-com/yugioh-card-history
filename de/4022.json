@@ -1,0 +1,15 @@
+{
+  "id": 4022,
+  "type": "monster",
+  "name": "Zeitzauberer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst eine Münze werfen und das Ergebnis voraussagen. Falls du richtig vorausgesagt hast, zerstöre alle Monster, die dein Gegner kontrolliert. Falls du falsch vorausgesagt hast, zerstöre so viele Monster, die du kontrollierst, wie möglich und falls du dies tust, erhältst du Schaden in Höhe der Hälfte der Summe der ATK, die jene zerstörten Monster hatten, solange sie offen auf dem Spielfeld lagen.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

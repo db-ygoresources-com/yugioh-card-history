@@ -1,0 +1,19 @@
+{
+  "id": 12228,
+  "type": "monster",
+  "name": "D/D Orthros",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando você sofrer dano de batalha ou de efeito: você pode Invocar este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Especial no seu campo, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros do Tipo Demônio.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 Card de Magia/Armadilha no campo e 1 outro card \"D/D\" ou \"Pacto Obscuro\" que você controla; destrua-os.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1800,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

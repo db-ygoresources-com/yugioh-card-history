@@ -1,0 +1,18 @@
+{
+  "id": 12143,
+  "type": "monster",
+  "name": "Finstere Doriado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 4 Monster von deinem Deck bestimmen (1 ERDE, 1 WASSER, 1 FEUER und 1 WIND), dann lege sie in beliebiger Reihenfolge auf das Deck.",
+  "pendEffect": "Alle ERDE, WASSER, FEUER und WIND Monster, die du kontrollierst, erhalten für jede unterschiedliche Eigenschaft unter den Monstern, die du kontrollierst, 200 ATK/DEF.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

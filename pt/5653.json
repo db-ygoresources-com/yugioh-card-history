@@ -1,0 +1,15 @@
+{
+  "id": 5653,
+  "type": "monster",
+  "name": "Marioneta Mágica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando esse Card de Magia resolver. Ganha 200 de ATK para cada Marcador de Magia nele. Você pode remover 2 Marcadores de Magia deste card e, depois, escolha 1 monstro no campo; destrua-o.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

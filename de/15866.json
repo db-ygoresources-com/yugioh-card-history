@@ -1,0 +1,18 @@
+{
+  "id": 15866,
+  "type": "monster",
+  "name": "Sonnenranken-Heiler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Normales Pflanze-Monster\nFalls ein „Sonnenavalon“-Linkmonster, das du kontrollierst, das Spielfeld durch einen Karteneffekt verlässt: Zerstöre diese Karte. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Sonnenavalon“-Linkmonster auf dem Spielfeld wählen; du erhältst LP in Höhe seiner Linkzahl x 300. Wenn dein Pflanze-Linkmonster deinem Gegner Kampfschaden zufügt: Du kannst 600 LP erhalten.",
+  "linkRating": 1,
+  "linkArrows": [
+    "8"
+  ],
+  "atk": 600,
+  "properties": [
+    "Pflanze",
+    "Link",
+    "Effekt"
+  ]
+}

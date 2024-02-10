@@ -1,0 +1,16 @@
+{
+  "id": 4769,
+  "type": "monster",
+  "name": "Parasiten-Parazid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Mische diese Karte offen ins Deck deines Gegners.\nFalls du diese Karte ziehst, nachdem sie deinem Deck durch ihren Effekt hinzugefügt wurde: Beschwöre sie als Spezialbeschwörung in die Verteidigungsposition und falls du dies tust, erhältst du 1000 Schaden. Alle Monster, die der Spieler kontrolliert, der diese Karte durch ihren Effekt beschworen hat, werden zu Insekt-Monstern.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

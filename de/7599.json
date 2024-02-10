@@ -1,0 +1,15 @@
+{
+  "id": 7599,
+  "type": "monster",
+  "name": "Urteilsdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 4 oder mehr „Lichtverpflichtet“-Monster mit unterschiedlichen Namen in deinem Friedhof hast. Du kannst 1000 LP zahlen; zerstöre alle anderen Karten auf dem Spielfeld. Einmal pro Spielzug, während deiner End Phase: Lege die obersten 4 Karten deines Decks auf den Friedhof.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

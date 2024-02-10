@@ -1,0 +1,16 @@
+{
+  "id": 17794,
+  "type": "monster",
+  "name": "Lagrimentiara Rulkallos",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "\"Lagrimentiara Kitkallos\" + 1 monstro \"Lagrimentiara\"\nOutros monstros Aqua que você controla não podem ser destruídos em batalha. Você só pode usar cada um dos seguintes efeitos de \"Lagrimentiara Rulkallos\" uma vez por turno. Quando seu oponente ativar um card ou efeito que inclua um efeito que Invoque um ou mais monstros por Invocação-Especial (Efeito Rápido): você pode negar a ativação e, se isso acontecer, destrua-o e, depois, envie para o Cemitério 1 card \"Lagrimentiara\" da sua mão ou do campo com a face para cima. Se este card Invocado por Invocação-Fusão for enviado para o Cemitério por um efeito de card: você pode Invocar este card por Invocação-Especial.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Aqua",
+    "Fusão",
+    "Efeito"
+  ]
+}

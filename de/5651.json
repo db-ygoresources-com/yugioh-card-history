@@ -1,0 +1,16 @@
+{
+  "id": 5651,
+  "type": "monster",
+  "name": "Rachsüchtiger alter Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 1 Monster, das dein Gegner kontrolliert; zerstöre jenes gewählte Ziel.",
+  "level": 2,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

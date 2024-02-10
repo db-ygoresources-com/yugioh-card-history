@@ -1,0 +1,15 @@
+{
+  "id": 6386,
+  "type": "monster",
+  "name": "Steamroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte ein Monster deines Gegners angreift, erhält diese Karte nur während des Damage Steps 500 ATK. Falls diese Karte von einem Monster deines Gegners angegriffen wird, verliert diese Karte nur während des Damage Steps 500 ATK.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

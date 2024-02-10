@@ -1,0 +1,15 @@
+{
+  "id": 8270,
+  "type": "monster",
+  "name": "Brennender Totenkopf",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte als Spezialbeschwörung von deiner Hand beschworen wird, füge deinem Gegner 1000 Schaden zu. Du kannst diese offene Karte, die du kontrollierst, aus dem Spiel entfernen, um 1 aus dem Spiel entfernte „Totenkopf-Flamme“ auf den Friedhof ihres Besitzers zurückzulegen.",
+  "level": 3,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12410,
+  "type": "monster",
+  "name": "D/D Sábio Nikola",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card na Zona de Pêndulo for destruído: você pode escolher 1 monstro \"D/D/D\" que você controla; devolva-o para a mão e, se isso acontecer, coloque até 2 Monstros Pêndulo \"D/D\" com a face para cima do seu Deck Adicional nas suas Zonas de Pêndulo, mas eles não podem ativar seus Efeitos de Pêndulo neste turno. Você só pode usar este efeito de \"D/D Sábio Nikola\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"D/D\". Este efeito não pode ser negado. Uma vez por turno: você pode descartar 1 monstro \"D/D/D\" e, depois, escolher 1 monstro \"D/D\" de Nível 6 ou menos que você controla; ele ganha 2000 de ATK e DEF até o final deste turno (mesmo que este card deixe o campo).",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

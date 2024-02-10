@@ -1,0 +1,15 @@
+{
+  "id": 6895,
+  "type": "monster",
+  "name": "Wütender Rhynos",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kann sich diese Karte in eine benachbarte freie Monsterkartenzone bewegen. Falls diese Karte das Monster in seiner eigenen Spalte angreift, erhält diese Karte während des Damage Steps 500 ATK.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

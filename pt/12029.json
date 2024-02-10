@@ -1,0 +1,18 @@
+{
+  "id": 12029,
+  "type": "monster",
+  "name": "Guerreiro Sinfônico Miccro",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Você pode Invocar este card por Invocação-Especial (da sua mão) ao remover 3 Marcadores Sinfônicos do seu campo. Depois que você Invocar este card por Invocação-Normal ou Especial, você pode Invocar por Invocação-Normal 1 monstro durante sua Fase Principal neste turno, em adição à sua Invocação-Normal/Baixar (padrão). (Você só pode se aproveitar deste efeito uma vez por turno.)",
+  "pendEffect": "A não ser que você tenha um card \"Guerreiro Sinfónico\" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 4. Uma vez por turno, durante sua Fase Final: você pode escolher 1 dos seus monstros \"Guerreiro Sinfónico\" banidos; adicione-o à sua mão.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2300,
+  "def": 1100,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

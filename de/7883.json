@@ -1,0 +1,15 @@
+{
+  "id": 7883,
+  "type": "monster",
+  "name": "Suchschläger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte ein Monster in verdeckter Verteidigungsposition angreift, kannst du das Monster sofort durch den Effekt dieser Karte zerstören, ohne es aufzudecken und ohne Schadensberechnung. Falls du dies tust, wird diese Karte am Ende der Battle Phase in die Verteidigungsposition geändert. Die Kampfposition dieser Karte kann bis zum Ende deines nächsten Spielzugs nicht geändert werden, außer durch einen Karteneffekt.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

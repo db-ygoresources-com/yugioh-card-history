@@ -1,0 +1,16 @@
+{
+  "id": 13738,
+  "type": "monster",
+  "name": "Schrecklicher Steppke der Schikanen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 Unterweltler-Monster von deinem Deck auf den Friedhof legen.\nFalls diese Karte von der Hand oder dem Deck auf den Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung in die verdeckte Verteidigungsposition beschwören. Du kannst jeden Effekt von „Schrecklicher Steppke der Schikanen“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

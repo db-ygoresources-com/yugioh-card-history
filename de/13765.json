@@ -1,0 +1,19 @@
+{
+  "id": 13765,
+  "type": "monster",
+  "name": "Winziger Hexenlehrling",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 FINSTERNIS Monster\nAlle FINSTERNIS Monster auf dem Spielfeld erhalten 500 ATK/DEF, zusätzlich verlieren alle LICHT Monster auf dem Spielfeld 400 ATK/DEF. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 FINSTERNIS Monster in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Winziger Hexenlehrling“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1400,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

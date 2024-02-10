@@ -1,0 +1,17 @@
+{
+  "id": 6037,
+  "type": "monster",
+  "name": "魂を呼ぶ者",
+  "nameRuby": "たましいをよぶもの",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "リバース：自分の墓地からレベル３以下の通常モンスター１体を自分フィールド上に特殊召喚する事ができる。",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "魔法使い族",
+    "リバース",
+    "効果"
+  ]
+}

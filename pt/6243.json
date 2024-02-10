@@ -1,0 +1,15 @@
+{
+  "id": 6243,
+  "type": "monster",
+  "name": "Gatinho Erva-Gato",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Este card não pode ser atacado se existir outro monstro do Tipo Besta no seu Campo. Torne o DEF de 1 monstro no Campo do seu adversário, em Posição de Defesa, 0 até à End Phase. Este efeito pode ser usado apenas uma vez por turno.",
+  "level": 2,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Besta",
+    "Efeito"
+  ]
+}

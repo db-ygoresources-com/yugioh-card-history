@@ -1,0 +1,15 @@
+{
+  "id": 5420,
+  "type": "monster",
+  "name": "Riesige Axt-Mumie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte einmal im Spielzug während deiner Main Phase in die verdeckte Verteidigungsposition bringen. Falls ein Monster auf der Spielfeldseite deines Gegners dieses Monster, das sich verdeckt in Verteidigungsposition befindet, angreift und die ATK des angreifenden Monsters kleiner ist als die DEF dieses Monsters, zerstöre das angreifende Monster.",
+  "level": 5,
+  "atk": 1700,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

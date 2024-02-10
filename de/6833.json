@@ -1,0 +1,16 @@
+{
+  "id": 6833,
+  "type": "monster",
+  "name": "Cyberfinsternis Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Cyberfinsternis Horn“ + „Cyberfinsternis Zacke“ + „Cyberfinsternis Knochen“\nMuss als Fusionsbeschwörung beschworen werden. Falls diese Karte als Spezialbeschwörung beschworen wird: Wähle 1 Drache-Monster in deinem Friedhof; rüste diese Karte mit dem gewählten Ziel aus. Diese Karte erhält ATK in Höhe der Grund-ATK des Monsters, mit dem sie durch diesen Effekt ausgerüstet ist. Erhält für jedes Monster in deinem Friedhof 100 ATK. Falls diese Karte durch Kampf zerstört würde, zerstöre stattdessen das ausrüstende Monster.",
+  "level": 8,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

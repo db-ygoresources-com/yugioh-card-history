@@ -1,0 +1,15 @@
+{
+  "id": 10765,
+  "type": "monster",
+  "name": "Vampirjäger",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Am Beginn des Damage Steps, falls diese Karte gegen ein FINSTERNIS Monster kämpft: Zerstöre jenes Monster.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

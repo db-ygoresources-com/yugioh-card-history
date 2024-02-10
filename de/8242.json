@@ -1,0 +1,15 @@
+{
+  "id": 8242,
+  "type": "monster",
+  "name": "Naturia-Libelle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht durch Kampf mit einem Monster zerstört werden, das 2000 oder mehr ATK hat. Erhält für jedes „Naturia“-Monster in deinem Friedhof 200 ATK.",
+  "level": 4,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

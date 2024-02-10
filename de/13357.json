@@ -1,0 +1,16 @@
+{
+  "id": 13357,
+  "type": "monster",
+  "name": "Dunkler Magier, der Drachenritter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Dunkler Magier“ + 1 Drache-Monster\nDer Name dieser Karte wird zu „Dunkler Magier“, solange sie auf dem Spielfeld oder im Friedhof liegt. Dein Gegner kann Zauber/Fallen, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, zusätzlich können sie nicht durch Karteneffekte deines Gegners zerstört werden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

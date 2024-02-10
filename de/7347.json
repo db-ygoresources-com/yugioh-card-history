@@ -1,0 +1,15 @@
+{
+  "id": 7347,
+  "type": "monster",
+  "name": "Famose Venus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Alle Nicht-Fee-Monster verlieren 500 ATK/DEF. Die Aktivierung und die Effekte von Zauber-/Fallenkarten, die auf deiner Spielfeldseite aktiviert werden, können nicht annulliert werden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12276,
+  "type": "monster",
+  "name": "Künstlerkumpel Buntäugiges Einhorn",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Künstlerkumpel“-Monster in deinem Friedhof wählen; du erhältst LP in Höhe seiner ATK.",
+  "pendEffect": "Einmal, solange sich diese Karte in deiner Pendelzone befindet, wenn dein „Buntäugig“-Monster einen Angriff deklariert: Du kannst 1 anderes „Künstlerkumpel“-Monster wählen, das du kontrollierst; das angreifende Monster erhält bis zum Ende der Battle Phase ATK in Höhe der Grund-ATK des als Ziel gewählten Monsters auf dem Spielfeld (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

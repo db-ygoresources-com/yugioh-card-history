@@ -1,0 +1,16 @@
+{
+  "id": 11254,
+  "type": "monster",
+  "name": "Robô-secretário 001",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Ganha 500 de ATK/DEF para cada monstro Máquina que você controla. Se 2 ou mais monstros Máquina forem Invocados por Invocação-Especial ao mesmo tempo, enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Regulador",
+    "Efeito"
+  ]
+}

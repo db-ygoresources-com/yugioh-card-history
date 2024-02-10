@@ -1,0 +1,15 @@
+{
+  "id": 7558,
+  "type": "monster",
+  "name": "Gaia-Platte der Erdriese",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung beschwören, indem du 2 Monster vom Typ Fels in deinem Friedhof aus dem Spiel entfernst. Während deiner Standby Phase, entferne 1 Monster vom Typ Fels in deinem Friedhof aus dem Spiel oder lege diese Karte auf den Friedhof. Halbiere die ATK und DEF jedes Monsters, das mit dieser Karte kämpft.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

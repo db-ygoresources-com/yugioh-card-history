@@ -1,0 +1,15 @@
+{
+  "id": 4557,
+  "type": "monster",
+  "name": "Dunkler Elf",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dieses Monster kann nur angreifen, wenn der Spieler, der es kontrolliert, 1000 Life Points bezahlt.",
+  "level": 4,
+  "atk": 2000,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

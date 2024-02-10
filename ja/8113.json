@@ -1,0 +1,17 @@
+{
+  "id": 8113,
+  "type": "monster",
+  "name": "ワーム・オペラ",
+  "nameRuby": "ワーム・オペラ",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "リバース：「ワーム」と名のついた爬虫類族モンスター以外の、フィールド上の全てのモンスターの攻撃力は５００ポイントダウンする。",
+  "level": 2,
+  "atk": 400,
+  "def": 800,
+  "properties": [
+    "爬虫類族",
+    "リバース",
+    "効果"
+  ]
+}

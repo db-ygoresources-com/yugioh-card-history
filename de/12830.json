@@ -1,0 +1,15 @@
+{
+  "id": 12830,
+  "type": "monster",
+  "name": "Raubpflanze Schlauchpflanzameise",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Nach der Schadensberechnung, falls diese Karte gegen ein Monster deines Gegners gekämpft hat: Du kannst das Monster deines Gegners zerstören. Falls diese Karte durch Kampf zerstört wird oder falls diese Karte auf dem Spielfeld durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Raubp“-Karte von deinem Deck hinzufügen, außer „Raubpflanze Schlauchpflanzameise“. Du kannst diesen Effekt von „Raubpflanze Schlauchpflanzameise“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

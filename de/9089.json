@@ -1,0 +1,15 @@
+{
+  "id": 9089,
+  "type": "monster",
+  "name": "Synchrosoldat",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase 1, kannst du 1 offenes Synchromonster wählen, das du kontrollierst. Entferne das offene Synchromonster, das du kontrollierst, aus dem Spiel und füge deinem Gegner 600 Schaden zu. Falls du diesen Effekt benutzt, kehrt das aus dem Spiel entfernte Monster während deiner nächsten Standby Phase aufs Spielfeld zurück.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

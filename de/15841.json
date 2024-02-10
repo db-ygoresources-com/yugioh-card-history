@@ -1,0 +1,15 @@
+{
+  "id": 15841,
+  "type": "monster",
+  "name": "Millenniumssucher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn du 1000 oder mehr Kampf- oder Effektschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst 1 Monster im Friedhof deines Gegners wählen, außer einem Monster mit ? ATK; dein Gegner kann 1 Monster von seinem Deck bestimmen, außer einem Monster mit ? ATK. Falls er keins bestimmt oder falls das als Ziel gewählte Monster höhere ATK hat als das bestimmte Monster, beschwöre das als Ziel gewählte Monster als Spezialbeschwörung auf deine Spielfeldseite und falls du dies tust, mische das bestimmte Monster ins Deck zurück. Andernfalls fügt dein Gegner das bestimmte Monster der Hand hinzu. Du kannst jeden Effekt von „Millenniumssucher“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

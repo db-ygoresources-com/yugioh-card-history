@@ -1,0 +1,15 @@
+{
+  "id": 19725,
+  "type": "monster",
+  "name": "Salamandra, der fliegende Flammendrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Solange diese Karte „Flammen-Schwertkämpfer“ oder ein Monster, das ihn erwähnt, ausrüstet, erhält das ausgerüstete Monster 700 ATK. Du kannst jeden der folgenden Effekte von „Salamandra, der fliegende Flammendrache“ nur einmal pro Spielzug verwenden. Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 Krieger-Monster wählen, das du kontrollierst; rüste jenes Monster, das du kontrollierst, mit dieser Karte als Ausrüstungszauber aus. Falls diese Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Salamandra“-Zauber/Falle von deinem Deck hinzufügen.",
+  "level": 2,
+  "atk": 700,
+  "def": 1600,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

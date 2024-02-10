@@ -1,0 +1,15 @@
+{
+  "id": 6703,
+  "type": "monster",
+  "name": "Batteriemann D",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange diese Karte offen auf deiner Spielfeldseite liegt, kann dein Gegner kein Monster vom Typ Donner als Angriffsziel bestimmen (außer „Batteriemann D“).",
+  "level": 1,
+  "atk": 0,
+  "def": 1900,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

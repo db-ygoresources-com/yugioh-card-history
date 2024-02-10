@@ -1,0 +1,19 @@
+{
+  "id": 14856,
+  "type": "monster",
+  "name": "Strickschaf",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster mit unterschiedlichen Namen\nFalls ein Monster als Spezialbeschwörung in eine Zone beschworen wird, auf die diese Karte zeigt: Du kannst die folgenden Effekte nacheinander ausführen, basierend auf den Kartentypen der Monster, auf die diese Karte zeigt.\n●Ritual: Ziehe 2 Karten, dann wirf 2 Karten ab.\n●Fusion: Beschwöre 1 Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Friedhof.\n●Synchro: Alle Monster, die du kontrollierst, erhalten 700 ATK.\n●Xyz: Alle Monster, die dein Gegner kontrolliert, verlieren 700 ATK.\nDu kannst diesen Effekt von „Strickschaf“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 700,
+  "properties": [
+    "Ungeheuer",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14487,
+  "type": "monster",
+  "name": "Kalliberlade-eXlade-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 FINSTERNIS Drache-Monster der Stufe 4\nKein Spieler kann diese als Xyz-Beschwörung beschworene Karte als Ziel für Monstereffekte wählen, außer für seine eigenen. Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und dann 1 offenes Monster auf dem Spielfeld wählen; es verliert 600 ATK/DEF, dann kannst du 1 „Kalliber“-Monster als Spezialbeschwörung von deinem Friedhof beschwören, aber verbanne es während der End Phase, zusätzlich kannst du für den Rest dieses Spielzugs weder andere Monster als Spezialbeschwörung beschwören noch direkt angreifen.",
+  "rank": 4,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Xyz",
+    "Effekt"
+  ]
+}

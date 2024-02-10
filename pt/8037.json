@@ -1,0 +1,16 @@
+{
+  "id": 8037,
+  "type": "monster",
+  "name": "Hiper Destruidor Psíquico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 Regulador + 1 ou mais monstros não-Reguladores do Tipo Psíquico\nSe este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente. No final da Etapa de Dano, se este card atacou um monstro em Posição de Defesa e a DEF desse monstro for menor que o ATK deste card (use os valores originais se o outro monstro não estiver mais no campo): ganhe PV igual a esse excesso.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Psíquico",
+    "Sincro",
+    "Efeito"
+  ]
+}

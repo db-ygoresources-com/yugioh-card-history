@@ -1,0 +1,15 @@
+{
+  "id": 10241,
+  "type": "monster",
+  "name": "Nixenrüstung Abysslunge",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Dein Gegner kann keine offenen WASSER Monster als Ziel für Angriffe wählen, außer diesem. Alle WASSER Monster, die du kontrollierst, erhalten 300 ATK.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

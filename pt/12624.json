@@ -1,0 +1,18 @@
+{
+  "id": 12624,
+  "type": "monster",
+  "name": "Caixa de Joias de Pandora",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Enquanto você não tiver cards no seu Deck Adicional, compre 2 cards em vez de 1 em sua compra normal durante sua Fase de Compra.",
+  "pendEffect": "Enquanto você não tiver cards no seu Deck Adicional: você pode escolher 1 card na Zona de Pêndulo do seu oponente; destrua-o e, se isso acontecer, coloque este card na Zona de Pêndulo do seu oponente.",
+  "pendScale": 4,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Wyrm",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

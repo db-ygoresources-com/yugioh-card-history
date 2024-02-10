@@ -1,0 +1,16 @@
+{
+  "id": 13466,
+  "type": "monster",
+  "name": "Millenniumäugiges Opfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Aufgegeben“ + 1 Effektmonster\nEinmal pro Spielzug, wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet; rüste diese Karte, die du kontrollierst, mit jenem gewählten Ziel aus. Diese Karte erhält ATK/DEF in Höhe der jenes ausrüstenden Monsters. Monster mit dem Grund-Namen jenes ausrüstenden Monsters können nicht angreifen, zusätzlich werden ihre Effekte auf dem Spielfeld und ihre aktivierten Effekte annulliert.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

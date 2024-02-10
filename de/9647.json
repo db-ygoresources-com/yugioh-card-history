@@ -1,0 +1,15 @@
+{
+  "id": 9647,
+  "type": "monster",
+  "name": "Getriebriano",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte als Tribut anbieten und dann 1 Monster vom Typ Maschine der Stufe 4 in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte werden annulliert.",
+  "level": 3,
+  "atk": 500,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

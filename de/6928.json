@@ -1,0 +1,15 @@
+{
+  "id": 6928,
+  "type": "monster",
+  "name": "Kalte Zauberin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 Karte abwerfen, um 1 offenes Monster auf dem Spielfeld zu wählen; lege eine Eis-Zählmarke auf das gewählte Ziel. Diese Karte erhält 300 ATK für jede Eis-Zählmarke auf dem Spielfeld.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

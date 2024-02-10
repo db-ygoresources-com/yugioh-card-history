@@ -1,0 +1,15 @@
+{
+  "id": 5774,
+  "type": "monster",
+  "name": "Läufer der Finsternis, Erzunterweltler",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug, während deiner Standby Phase, musst du 500 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der ein „Erzunterweltler“-Monster, das du kontrollierst, als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 1, 3 oder 6 würfelst, und falls du dies tust, zerstöre jene Karte.",
+  "level": 3,
+  "atk": 300,
+  "def": 1400,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

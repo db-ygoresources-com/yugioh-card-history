@@ -1,0 +1,15 @@
+{
+  "id": 5592,
+  "type": "monster",
+  "name": "Union-Reiter",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst ein Union-Monster, das sich gerade als Monster auf der Spielfeldseite deines Gegners befindet, nehmen und diese Karte damit ausrüsten. Diese Karte kann nur mit 1 Union-Monster ausgerüstet sein. Das Union-Monster, mit dem diese Karte ausgerüstet ist, kann durch das Benutzen seines Effekts nicht zurück in ein Monster umgewandelt werden.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

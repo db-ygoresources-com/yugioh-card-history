@@ -1,0 +1,18 @@
+{
+  "id": 17778,
+  "type": "monster",
+  "name": "Zünder Phönix, der Drachobezwinger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "(Diese Karte wird immer als „Feueritter“-Karte behandelt.)\nFalls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Drachobezwinger“- oder „Feueritter“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Zünder Phönix, der Drachobezwinger“, und falls du dies tust, wird es als Empfänger behandelt. Du kannst diesen Effekt von „Zünder Phönix, der Drachobezwinger“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst 1 offenes Pendelmonster von deinem Extra Deck ins Deck mischen, dann füge deiner Hand 1 „Drachobezwinger“- oder „Feueritter“-Nichtpendel-Monster von deinem Deck hinzu. Du kannst diesen Effekt von „Zünder Phönix, der Drachobezwinger“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1900,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

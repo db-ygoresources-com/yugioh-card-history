@@ -1,0 +1,15 @@
+{
+  "id": 10033,
+  "type": "monster",
+  "name": "Klingen-Rausschmeißer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, falls diese Karte angreift und dein Gegner am Ende des Damage Steps ein Monster kontrolliert: Du kannst 1 Karte abwerfen; diese Karte kann während dieser Battle Phase noch einmal ein Monster deines Gegners angreifen.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5776,
+  "type": "monster",
+  "name": "Rainha Infernal Arquidemônio",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Uma vez por turno, durante sua Fase de Apoio, você deve pagar 500 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha este card como alvo, lance um dado de seis faces e negue esse efeito se o resultado for um 2 ou 5 e, se isso acontecer, destrua esse card. Uma vez por turno, durante a Fase de Apoio: escolha 1 monstro \"Arquidemônio\" no campo; ele ganha 1000 de ATK até o final deste turno.",
+  "level": 4,
+  "atk": 900,
+  "def": 1500,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8603,
+  "type": "monster",
+  "name": "Untergrund-Spinnentier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 FINSTERNIS Empfänger- + 1 Nicht-Empfänger-Monster vom Typ Insekt\nFalls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber- oder Fallenkarten aktivieren. Einmal pro Spielzug kannst du 1 offenes Monster wählen, das dein Gegner kontrolliert, und diese Karte damit ausrüsten. Falls diese Karte durch Kampf zerstört werden würde, kannst du stattdessen das Monster zerstören, das diese Karte durch ihren Effekt ausrüstet. (Diese Karte kann zu jeder Zeit nur mit 1 Monster ausgerüstet sein.)",
+  "level": 6,
+  "atk": 2400,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Synchro",
+    "Effekt"
+  ]
+}

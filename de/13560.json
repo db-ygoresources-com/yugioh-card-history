@@ -1,0 +1,15 @@
+{
+  "id": 13560,
+  "type": "monster",
+  "name": "Degradierungssprenger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 Cyberse-Monster von deinem Friedhof verbannst. Du kannst 1 Monster wählen, das dein Gegner kontrolliert und das höhere ATK als diese Karte hat (Schnelleffekt); verbanne es bis zur End Phase. Du kannst diesen Effekt von „Degradierungssprenger“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

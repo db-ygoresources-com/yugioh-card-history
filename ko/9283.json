@@ -1,0 +1,15 @@
+{
+  "id": 9283,
+  "type": "monster",
+  "name": "사이킥 블로커",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "1턴에 1번, 카드명을 1개 선언하고 발동한다. 다음 상대 턴 종료시까지 서로 선언된 카드를 플레이할 수 없다.",
+  "level": 4,
+  "atk": 1200,
+  "def": 300,
+  "properties": [
+    "사이킥족",
+    "효과"
+  ]
+}

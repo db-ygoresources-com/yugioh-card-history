@@ -1,0 +1,15 @@
+{
+  "id": 6082,
+  "type": "monster",
+  "name": "Leuchtender blauäugiger Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Blauäugiger ultimativer Drache“ als Tribut anbietest. Erhält 300 ATK für jedes Drache-Monster in deinem Friedhof. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte als Ziel wählt (Schnelleffekt): Du kannst den Effekt annullieren.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

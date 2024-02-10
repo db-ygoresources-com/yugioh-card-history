@@ -1,0 +1,18 @@
+{
+  "id": 11630,
+  "type": "monster",
+  "name": "Dragoner aus Draconia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Diese berittenen Landtruppen des Reiches von Draconia sind mit Musketen und Eisenspeeren bewaffnet und werden vom Königreich Reptier und anderen angrenzenden Nationen gefürchtet.",
+  "pendEffect": "Einmal pro Spielzug, falls ein Normales Monster, das du kontrollierst, ein Monster deines Gegners durch Kampf zerstört, nach der Schadensberechnung: Du kannst deiner Hand 1 Normales Monster der Stufe 4 oder höher von deinem Deck hinzufügen.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Pendel",
+    "Normal"
+  ]
+}

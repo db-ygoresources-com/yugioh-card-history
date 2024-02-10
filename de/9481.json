@@ -1,0 +1,16 @@
+{
+  "id": 9481,
+  "type": "monster",
+  "name": "Morphtronische Leuchte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "●Solange in Angriffsposition: Jeglicher Effektschaden, den du von Karteneffekten deines Gegners erhalten würdest, wird stattdessen deinem Gegner zugefügt.\n●Solange in Verteidigungsposition: Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird, erhältst du in diesem Spielzug keinen Kampfschaden.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

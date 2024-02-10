@@ -1,0 +1,18 @@
+{
+  "id": 16088,
+  "type": "monster",
+  "name": "SolSolfacorde Gracia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Enquanto você tiver uma Escala de Pêndulo par na sua Zona de Pêndulo, se um Monstro Pêndulo \"Solfacorde\" seu atacar, seu oponente não pode ativar efeitos de monstro até o final da Etapa de Dano. Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Magia/Armadilha \"Solfacorde\" do seu Deck à sua mão. Você só pode usar este efeito de \"SolSolfacorde Gracia\" uma vez por turno.",
+  "pendEffect": "Seu oponente não pode ativar Cards de Magia/Armadilha ou efeitos de monstro quando um ou mais Monstros Pêndulo \"Solfacorde\" seus forem Invocados por Invocação-Pêndulo.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

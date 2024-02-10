@@ -1,0 +1,15 @@
+{
+  "id": 17229,
+  "type": "monster",
+  "name": "Felsschuppen",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; rüste diese Karte mit dem offenen Monster aus. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners mit demselben Typ und derselben Eigenschaft wie die Monsterkarte kämpft, mit der sie durch den Effekt dieser Karte ausgerüstet ist: Du kannst das Monster des Gegners zerstören. Du kannst jeden Effekt von „Felsschuppen“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1600,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11602,
+  "type": "monster",
+  "name": "Kristallhüter",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls ein „Kristallungeheuer“-Monster, das du kontrollierst, gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst diese Karte von deiner Hand oder offen von deiner Spielfeldseite als Tribut anbieten; die ATK/DEF deines kämpfenden Monsters werden nur während jener Schadensberechnung zum Doppelten seiner Grund-ATK/DEF, aber es wird am Ende dieses Damage Steps zerstört.",
+  "pendEffect": "Das erste Mal in jedem Spielzug, dass ein oder mehr „Ultimativer Kristall“-Monster und/oder „Kristallungeheuer“-Karten, die du kontrollierst, in jenem Spielzug durch einen Karteneffekt zerstört würden, werden sie nicht zerstört.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

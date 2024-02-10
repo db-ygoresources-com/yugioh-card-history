@@ -1,0 +1,16 @@
+{
+  "id": 14905,
+  "type": "monster",
+  "name": "Os Magos Negros",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "\"Mago Negro\" ou \"Pequena Maga Negra\" + 1 monstro Mago\nUma vez por turno, se um Card de Magia/Armadilha ou seus efeitos forem ativados (exceto durante a Etapa de Dano): você pode comprar 1 card e, depois, se era uma Magia/Armadilha, você pode Baixá-la e, se era uma Armadilha ou Magia Rápida, você pode ativá-la neste turno. Se este card for destruído: você pode Invocar por Invocação-Especial tanto 1 \"Mago Negro\" quanto 1 \"Pequena Maga Negra\" da sua mão, do Deck e/ou do Cemitério.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Mago",
+    "Fusão",
+    "Efeito"
+  ]
+}

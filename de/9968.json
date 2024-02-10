@@ -1,0 +1,15 @@
+{
+  "id": 9968,
+  "type": "monster",
+  "name": "Ma'at",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT Monster vom Typ Drache und 1 LICHT Monster vom Typ Fee, die du kontrollierst, auf den Friedhof legst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 3 Kartennamen benennen; grabe die obersten 3 Karten deines Decks aus, füge alle von ihnen, die du benannt hast, deiner Hand hinzu, zusätzlich lege die übrigen Karten auf den Friedhof. Die ATK und DEF dieser Karte werden jeweils gleich der Anzahl der Karten, die du durch diesen Effekt deiner Hand hinzugefügt hast, x 1000.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

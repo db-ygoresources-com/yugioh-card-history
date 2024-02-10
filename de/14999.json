@@ -1,0 +1,15 @@
+{
+  "id": 14999,
+  "type": "monster",
+  "name": "Tiefseehandwerkerin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte deiner Hand durch den Effekt eines WASSER Monsters vom Deck oder Friedhof hinzugefügt wird: Du kannst diese Karte vorzeigen; sieh dir die Hand deines Gegners an. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst die oberste Karte deines Decks auf den Friedhof legen und dann 1 WASSER Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Tiefseehandwerkerin“; beschwöre es als Spezialbeschwörung, aber annulliere seine Effekte. Du kannst jeden Effekt von „Tiefseehandwerkerin“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

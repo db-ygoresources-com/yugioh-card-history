@@ -1,0 +1,16 @@
+{
+  "id": 8318,
+  "type": "monster",
+  "name": "Fischborg-Strahlschütze",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du ein offenes WASSER Monster der Stufe 3 oder niedriger kontrollierst: Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof. Falls diese Karte als Synchromaterialmonster verwendet wird, müssen alle anderen Synchromaterialmonster WASSER sein.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Fisch",
+    "Empfänger",
+    "Effekt"
+  ]
+}

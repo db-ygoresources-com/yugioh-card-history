@@ -1,0 +1,16 @@
+{
+  "id": 7894,
+  "type": "monster",
+  "name": "Sagenhafter Rabe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst eine beliebige Anzahl Karten abwerfen und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs für jede abgeworfene Karte 1 Stufe und 400 ATK.",
+  "level": 2,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

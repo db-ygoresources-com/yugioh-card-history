@@ -1,0 +1,15 @@
+{
+  "id": 13316,
+  "type": "monster",
+  "name": "Magischer Musketier Doc",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während des Spielzugs eines beliebigen Spielers kannst du „Magische/r Musket“-Zauber-/Fallenkarten von deiner Hand aktivieren. Falls eine Zauber-/Fallenkarte in der Spalte dieser Karte aktiviert wird: Du kannst deiner Hand 1 „Magische/r Musket“-Karte von deinem Friedhof hinzufügen, aber keine Karte mit demselben Namen wie die aktivierte Karte. Du kannst diesen Effekt von „Magischer Musketier Doc“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

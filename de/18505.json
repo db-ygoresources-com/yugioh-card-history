@@ -1,0 +1,16 @@
+{
+  "id": 18505,
+  "type": "monster",
+  "name": "Despianische Luluwalilith",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger der Stufe 4 + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug, falls eine oder mehr Karten das Extra Deck verlassen (außer während des Damage Steps): Du kannst alle Monster, die du derzeit kontrollierst, (dauerhaft) 500 ATK erhalten lassen, dann kannst du die Effekte von 1 offenen Karte auf dem Spielfeld bis zum Ende dieses Spielzugs annullieren. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst 1 LICHT Hexer-Monster, dessen ATK seinen eigenen DEF entsprechen, als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. Du kannst diesen Effekt von „Despianische Luluwalilith“ nur einmal pro Spielzug verwenden.",
+  "level": 12,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 13372,
+  "type": "monster",
+  "name": "Aussperr-Wache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn ein Monster eines Gegners einen direkten Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Angriffsposition beschwören und falls du dies tust, kann es in diesem Spielzug nicht durch Kampf zerstört werden. Wenn ein Effekt eines Monsters, das dein Gegner kontrolliert, aktiviert wird, der 1 Cyberse-Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt (Schnelleffekt): Du kannst die Effekte sowohl des Cyberse-Monsters, das du kontrollierst, als auch des Monsters eines Gegners bis zum Ende dieses Spielzugs annullieren.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7966,
+  "type": "monster",
+  "name": "Wurm Linx",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Während jeder End Phase, falls diese Karte offen liegt, ziehe 1 Karte.",
+  "level": 2,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10175,
+  "type": "monster",
+  "name": "Der Hierophant der Prophezeiung",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster vom Typ Hexer der Stufe 7\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; zerstöre Zauber-/Fallenkarten, die dein Gegner kontrolliert, bis zur Anzahl „Magiebuch“-Zauberkarten in deinem Friedhof.",
+  "rank": 7,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

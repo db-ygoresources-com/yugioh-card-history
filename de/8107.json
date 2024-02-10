@@ -1,0 +1,15 @@
+{
+  "id": 8107,
+  "type": "monster",
+  "name": "Pilgerer der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht durch Kampf mit einem Monster zerstört werden, das 1900 oder mehr ATK hat.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

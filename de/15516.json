@@ -1,0 +1,16 @@
+{
+  "id": 15516,
+  "type": "monster",
+  "name": "Ewig infernaler Verhängnis-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1 offene Karte auf dem Spielfeld wählen; annulliere (bis zum Ende dieses Spielzugs) ihre Effekte, dann, falls du keine Karten in deiner Hand hast, kannst du sie zerstören. Solange du keine Karten in deiner Hand hast, falls diese Karte gegen ein Monster eines Gegners kämpft, wird der Kampfschaden verdoppelt, den diese Karte deinem Gegner zufügt. Ein FINSTERNIS Synchromonster, das mit dieser Karte als Material beschworen wurde, kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1600,
+  "properties": [
+    "Unterweltler",
+    "Synchro",
+    "Effekt"
+  ]
+}

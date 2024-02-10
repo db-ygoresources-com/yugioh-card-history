@@ -1,0 +1,15 @@
+{
+  "id": 6526,
+  "type": "monster",
+  "name": "Wach-Gottesanbeterin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst 1000 LP zahlen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition, aber solange sie offen in der Monsterzone liegt, kannst du keine Monster als Spezialbeschwörung beschwören, außer Insekt-Monstern. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 Insekt-Monster wählen, das du kontrollierst; ändere seine Kampfposition. Du kannst jeden Effekt von „Wach-Gottesanbeterin“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2400,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

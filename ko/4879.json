@@ -1,0 +1,16 @@
+{
+  "id": 4879,
+  "type": "monster",
+  "name": "엄격한 노마술사",
+  "englishAttribute": "light",
+  "localizedAttribute": "빛",
+  "effectText": "리버스 : 필드 위의 뒷면 표시의 카드를 전부 앞면으로 한 후, 원래대로 되돌린다. 이 때 앞면으로 된 카드의 효과는 발동하지 않는다.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "마법사족",
+    "리버스",
+    "효과"
+  ]
+}

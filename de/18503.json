@@ -1,0 +1,19 @@
+{
+  "id": 18503,
+  "type": "monster",
+  "name": "Superstarker Samurai Kommandant Shanawo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDiese Karte kann angreifen, solange sie sich in offener Verteidigungsposition befindet. Falls sie dies tut, verwende ihre DEF für die Schadensberechnung. Einmal pro Spielzug, während der Battle Phase, falls du diese als Synchrobeschwörung beschworene Karte kontrollierst (Schnelleffekt): Du kannst 1 „Superstarker Samurai“-Monsterkarte als Spezialbeschwörung von deinem Friedhof oder offen von deiner Zauber- & Fallenzone beschwören, dann kannst du diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung beschwören, dann, falls du keine Zauber/Fallen in deinem Friedhof hast, ändere die ATK jenes Monsters des Gegners zu 0, zusätzlich annulliere seine Effekte. Du kannst diesen Effekt von „Superstarker Samurai Kommandant Shanawo“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

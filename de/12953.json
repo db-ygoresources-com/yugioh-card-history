@@ -1,0 +1,19 @@
+{
+  "id": 12953,
+  "type": "monster",
+  "name": "Oberster König Z-ARC",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "4 Drache-Monster (1 Fusions-, 1 Synchro-, 1 Xyz- und 1 Pendel-)\nMuss als Fusionsbeschwörung beschworen werden. Falls diese Karte als Spezialbeschwörung beschworen wird: Zerstöre alle Karten, die dein Gegner kontrolliert. Kann nicht durch Karteneffekte deines Gegners zerstört werden. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst 1 „Oberster König Drache“-Monster als Spezialbeschwörung von deinem Deck oder Extra Deck beschwören. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Die Effekte von Fusions-, Synchro- und Xyz-Monstern, die dein Gegner kontrolliert, können nicht aktiviert werden. Einmal pro Spielzug, wenn der Hand deines Gegners eine oder mehr Karten von seinem Main Deck hinzugefügt werden (außer während der Draw Phase oder des Damage Steps): Du kannst die Karten zerstören.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7947,
+  "type": "monster",
+  "name": "Naturia-Blatt",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn dein Gegner eine Zauber-/Fallenkarte aktiviert (Schnelleffekt): Du kannst 1 „Naturia“-Monster und diese Karte als Tribut anbieten; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.",
+  "level": 1,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

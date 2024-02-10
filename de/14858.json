@@ -1,0 +1,18 @@
+{
+  "id": 14858,
+  "type": "monster",
+  "name": "Schwerkraftbeherrscher",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Nichtlink-Monster in einer Extra-Monsterzone\nDiese Karte kann in dem Spielzug, in dem sie als Linkbeschwörung beschworen wurde, nicht als Linkmaterial verwendet werden. Diese Karte in der Extra-Monsterzone kann nicht durch Kampf mit einem Monster in der Main-Monsterzone zerstört werden. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners in der Extra-Monsterzone kämpft: Du kannst sowohl das Monster des Gegners als auch diese Karte ins Deck zurücklegen.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Psi",
+    "Link",
+    "Effekt"
+  ]
+}

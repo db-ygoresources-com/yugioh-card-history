@@ -1,0 +1,15 @@
+{
+  "id": 6692,
+  "type": "monster",
+  "name": "Herold des violetten Lichts",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn dein Gegner eine Fallenkarte aktiviert (Schnelleffekt): Du kannst diese Karte und 1 anderes Fee-Monster von deiner Hand auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre sie.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

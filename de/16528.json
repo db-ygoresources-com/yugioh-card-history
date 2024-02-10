@@ -1,0 +1,16 @@
+{
+  "id": 16528,
+  "type": "monster",
+  "name": "Schwertseelen-Oberherrscher - Chengying",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFür jede verbannte Karte erhält diese Karte 100 ATK/DEF und Monster, die dein Gegner kontrolliert, verlieren 100 ATK/DEF. Falls diese Karte durch einen Karteneffekt zerstört würde, kannst du stattdessen 1 Karte von deinem Friedhof verbannen. Falls eine oder mehr Karten verbannt werden (außer während des Damage Steps): Du kannst je 1 Karte von sowohl der Spielfeldseite als auch dem Friedhof deines Gegners verbannen. Du kannst diesen Effekt von „Schwertseelen-Oberherrscher - Chengying“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Synchro",
+    "Effekt"
+  ]
+}

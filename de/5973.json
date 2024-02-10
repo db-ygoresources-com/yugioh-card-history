@@ -1,0 +1,15 @@
+{
+  "id": 5973,
+  "type": "monster",
+  "name": "Goblinkönig",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange du ein anderes Unterweltler-Monster kontrollierst, können Monster diese Karte nicht angreifen. Die ATK/DEF dieser Karte werden gleich der Anzahl der anderen Unterweltler-Monster auf dem Spielfeld x 1000.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

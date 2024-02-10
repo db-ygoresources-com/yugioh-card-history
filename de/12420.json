@@ -1,0 +1,18 @@
+{
+  "id": 12420,
+  "type": "monster",
+  "name": "Metallfose-Stahlen",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kalte Stahlkörper treffen auf brennende Metallmaschinen und Mensch und Maschine vereinigen sich. Verbrenn die Seele - Metallfose-Fusion!",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 andere offene Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, setze 1 „Metallfose“-Zauber/Falle direkt von deinem Deck.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Psi",
+    "Pendel",
+    "Normal"
+  ]
+}

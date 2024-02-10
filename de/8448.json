@@ -1,0 +1,15 @@
+{
+  "id": 8448,
+  "type": "monster",
+  "name": "Solitär-Magierin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du 1 offenes „Schicksalsdame“-Monster, das du kontrollierst, und 1 anderes offenes Monster auf dem Spielfeld wählen. Reduziere die Stufe des gewählten „Schicksalsdame“-Monsters um 3 und zerstöre das andere gewählte Monster.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

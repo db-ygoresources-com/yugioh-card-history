@@ -1,0 +1,16 @@
+{
+  "id": 15270,
+  "type": "monster",
+  "name": "Megalith Phul",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte mit einer „Megalith“-Karte als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wird: Du kannst 1 Ritualmonster in deinem Friedhof wählen; die Stufe dieser Karte wird dieselbe wie die Stufe des gewählten Ziels, dann füge das gewählte Ziel deiner Hand hinzu. Während der Main Phase (Schnelleffekt): Du kannst diesen Effekt aktivieren; beschwöre 1 „Megalith“-Ritualmonster als Ritualbeschwörung von deiner Hand oder deinem Deck, indem du Monster von deiner Hand oder Spielfeldseite als Tribut anbietest, deren gemeinsame Stufe größer oder gleich der Stufe des Ritualmonsters ist. Du kannst jeden Effekt von „Megalith Phul“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Ritual",
+    "Effekt"
+  ]
+}

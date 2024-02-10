@@ -1,0 +1,16 @@
+{
+  "id": 10884,
+  "type": "monster",
+  "name": "Michael, der Erz-Lichtverpflichtete",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger- + 1 oder mehr LICHT Nicht-Empfänger-Monster\nEinmal pro Spielzug: Du kannst 1000 LP zahlen und dann 1 Karte auf dem Spielfeld wählen; verbanne das gewählte Ziel. Wenn diese Karte zerstört wird: Du kannst eine beliebige Anzahl anderer „Lichtverpflichtet“-Monster in deinem Friedhof wählen; mische sie ins Deck und falls du dies tust, erhältst du für jede zurückgegebene Karte 300 LP. Einmal pro Spielzug, während deiner End Phase: Lege die obersten 3 Karten deines Decks auf den Friedhof.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

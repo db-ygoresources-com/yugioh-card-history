@@ -1,0 +1,15 @@
+{
+  "id": 13800,
+  "type": "monster",
+  "name": "Orgoth, o Implacável",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno, durante sua Fase Principal: você pode lançar um dado de seis faces 3 vezes e este card ganha ATK/DEF igual ao total x 100 (até o final do turno do seu oponente) e, depois, se 2 dos resultados foram o mesmo, aplique o efeito apropriado. Se todos os 3 foram o mesmo, aplique todos esses efeitos.\n●1 ou 2: Até o final do turno do seu oponente, este card não pode ser destruído em batalha ou por efeitos de card.\n●3 ou 4: Compre 2 cards.\n●5 ou 6: Este card pode atacar diretamente neste turno.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2450,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

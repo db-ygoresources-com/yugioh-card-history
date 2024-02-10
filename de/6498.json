@@ -1,0 +1,15 @@
+{
+  "id": 6498,
+  "type": "monster",
+  "name": "B.E.S. Tetran",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Lege 3 Zählmarken auf diese Karte, wenn du sie als Normalbeschwörung beschwörst. Diese Karte wird nicht als Ergebnis eines Kampfes zerstört. Falls diese Karte mit einem Monster kämpft, entferne am Ende des Damage Steps 1 Zählmarke von dieser Karte. Falls diese Karte ohne Zählmarken kämpft, zerstöre diese Karte am Ende des Damage Steps. Entferne außerdem 1 Zählmarke von dieser Karte, um 1 Zauber- oder Fallenkarte auf dem Spielfeld zu zerstören. Du kannst diesen Effekt nur einmal pro Spielzug benutzen.",
+  "level": 6,
+  "atk": 1800,
+  "def": 2300,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

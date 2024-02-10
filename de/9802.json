@@ -1,0 +1,15 @@
+{
+  "id": 9802,
+  "type": "monster",
+  "name": "Leuchtsterndrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; erhöhe die Stufe des gewählten Ziels bis zum Ende dieses Spielzugs um 2.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

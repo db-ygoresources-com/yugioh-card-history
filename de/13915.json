@@ -1,0 +1,15 @@
+{
+  "id": 13915,
+  "type": "monster",
+  "name": "Verfluchte Hexe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 „Verboten“-Schnellzauber von deinem Deck hinzufügen. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; beschwöre 1 Fee-Monster der Stufe 4 als Spezialbeschwörung von deinem Deck, außer „Verfluchte Hexe“. Du kannst jeden Effekt von „Verfluchte Hexe“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

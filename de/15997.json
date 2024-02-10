@@ -1,0 +1,17 @@
+{
+  "id": 15997,
+  "type": "monster",
+  "name": "Gartenrosenflora",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDu kannst 1 Karte in der Spielfeldzone wählen; zerstöre sie, dann beschwöre 1 „Rose-Spielmarke“ (Pflanze/FINSTERNIS/Stufe 2/ATK 800/DEF 800) als Spezialbeschwörung auf die Spielfeldseite ihres Beherrschers in die Angriffsposition, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Synchromonstern. Du kannst diesen Effekt von „Gartenrosenflora“ nur einmal pro Spielzug verwenden. Einmal pro Kette, während der Main Phase deines Gegners, kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, führe eine Synchrobeschwörung durch und verwende dafür diese Karte, die du kontrollierst.",
+  "level": 5,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Pflanze",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

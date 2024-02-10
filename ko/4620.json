@@ -1,0 +1,15 @@
+{
+  "id": 4620,
+  "type": "monster",
+  "name": "사냥 거미",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "거미 줄로 함정을 쳐서 먹이를 사냥한다. 함정에 걸려든 것들은 절대 놓치지않고 먹어치운다.",
+  "level": 5,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "곤충족",
+    "일반"
+  ]
+}

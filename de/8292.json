@@ -1,0 +1,15 @@
+{
+  "id": 8292,
+  "type": "monster",
+  "name": "Kuribon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Schadensberechnung, falls diese Karte von einem Monster deines Gegners angegriffen wird: Du kannst diesen Effekt aktivieren; du erhältst keinen Kampfschaden aus dem Kampf, dein Gegner erhält LP in Höhe der ATK des angreifenden Monsters, zusätzlich gibst du diese Karte auf deine Hand zurück.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

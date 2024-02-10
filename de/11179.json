@@ -1,0 +1,15 @@
+{
+  "id": 11179,
+  "type": "monster",
+  "name": "Torblocker",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Annulliere die Effekte der Spielfeldzauber deines Gegners. Dein Gegner kann keine Zählmarken auf Karten auf dem Spielfeld legen. Dein Gegner kann keine anderen Monster, die du kontrollierst, als Ziel für Karteneffekte wählen.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

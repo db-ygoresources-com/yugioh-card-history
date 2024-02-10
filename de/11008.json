@@ -1,0 +1,15 @@
+{
+  "id": 11008,
+  "type": "monster",
+  "name": "Gimmick-Marionette Schattenfühler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht durch Kampf zerstört werden. Wenn du Kampfschaden durch einen direkten Angriff deines Gegners erhältst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof in die offene Angriffsposition beschwören und falls du dies tust, erhältst du 1000 Schaden. Du kannst diesen Effekt von „Gimmick-Marionette Schattenfühler“ nur einmal pro Spielzug verwenden. Falls diese Karte ein Xyz-Material ist und auf den Friedhof gelegt würde, verbanne sie stattdessen.",
+  "level": 8,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

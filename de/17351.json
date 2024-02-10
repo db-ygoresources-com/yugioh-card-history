@@ -1,0 +1,18 @@
+{
+  "id": 17351,
+  "type": "monster",
+  "name": "Vaylantz-Sprengbaron",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du diese als Spezialbeschwörung beschworene Karte kontrollierst: Du kannst 1 anderes „Vaylantz“-Monster in deiner Main-Monsterzone wählen; bewege jenes Monster, das du kontrollierst, in eine (waagerecht) benachbarte Monsterzone. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Du kannst 1 Karte in der Pendelzone eines beliebigen Spielers wählen; lege sie als Permanenten Zauber offen in ihre benachbarte Zauber- & Fallenzone. Du kannst jeden Effekt von „Vaylantz-Sprengbaron“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Nicht-„Vaylantz“-Monster als Spezialbeschwörung beschwören, außer vom Extra Deck. Du kannst diesen Effekt von „Vaylantz-Sprengbaron“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

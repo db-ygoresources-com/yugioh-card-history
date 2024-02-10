@@ -1,0 +1,16 @@
+{
+  "id": 13545,
+  "type": "monster",
+  "name": "Weißaura-Monozeros",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 WASSER Empfänger + 1+ Nicht-Empfänger-Monster\nWenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Fisch-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber es kann in diesem Spielzug nicht angreifen. Du kannst diesen Effekt von „Weißaura-Monozeros“ nur einmal pro Spielzug verwenden. Falls diese Karte, die du kontrollierst, durch eine Karte deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 anderes WASSER Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, wird sie als Empfänger behandelt.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1500,
+  "properties": [
+    "Fisch",
+    "Synchro",
+    "Effekt"
+  ]
+}

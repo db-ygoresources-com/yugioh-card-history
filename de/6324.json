@@ -1,0 +1,15 @@
+{
+  "id": 6324,
+  "type": "monster",
+  "name": "Megafels-Drache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer indem du Monster vom Typ Fels in deinem Friedhof aus dem Spiel entfernst. Die Grund-ATK und -DEF dieser Karte wird zur Anzahl der Monster vom Typ Fels, die du entfernt hast, als du diese Karte als Spezialbeschwörung beschworen hattest, x 700 Punkte.",
+  "level": 7,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

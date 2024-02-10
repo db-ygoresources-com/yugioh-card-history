@@ -1,0 +1,15 @@
+{
+  "id": 7049,
+  "type": "monster",
+  "name": "Freya, Geist des Sieges",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange du ein Monster vom Typ Fee außer „Freya, Geist des Sieges“ kontrollierst, können Monster deines Gegners diese Karte nicht als Angriffsziel wählen. Alle Monster vom Typ Fee, die du kontrollierst, erhalten 400 ATK und DEF.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

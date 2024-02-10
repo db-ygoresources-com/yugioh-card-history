@@ -1,0 +1,15 @@
+{
+  "id": 8002,
+  "type": "monster",
+  "name": "매직 리액터 AID",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "상대가 마법 카드를 발동했을 때 발동할 수 있다. 그 마법 카드를 파괴하고, 상대 라이프에 800 포인트 데미지를 준다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

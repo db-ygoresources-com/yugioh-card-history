@@ -1,0 +1,18 @@
+{
+  "id": 12716,
+  "type": "monster",
+  "name": "Ator do Abismo - Esperança Selvagem",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Uma vez por turno: até o final deste turno, você pode fazer com que este card ganhe 100 de ATK para cada monstro \"Ator do Abismo\" com nomes diferentes que você controla atualmente. Se este card for destruído em batalha ou por um efeito de card: você pode adicionar 1 card \"Ator do Abismo\" do seu Deck à sua mão, exceto \"Ator do Abismo - Esperança Selvagem\". Você só pode usar este efeito de \"Ator do Abismo - Esperança Selvagem\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 card \"Ator do Abismo\" na sua Zona de Pêndulo; sua Escala de Pêndulo se torna 9 até o final deste turno e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros \"Ator do Abismo\" (mesmo que este card deixe o campo).",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

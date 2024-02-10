@@ -1,0 +1,16 @@
+{
+  "id": 6467,
+  "type": "monster",
+  "name": "Homem-Alado da Chama Brilhante, o HERÓI do Elemento",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Homem-Alado das Chamas, o HERÓI do Elemento\" + \"Sparkman, o HERÓI do Elemento\"\nDeve ser Invocado por Invocação-Fusão. Ganha 300 de ATK para cada card \"HERÓI do Elemento\" no seu Cemitério. Se este card destruir um monstro em batalha e enviá-lo para o Cemitério: cause dano ao seu oponente igual ao ATK original desse monstro no Cemitério.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Guerreiro",
+    "Fusão",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8641,
+  "type": "monster",
+  "name": "Triturador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno: você pode enviar 1 monstro do Tipo Máquina da sua mão para o Cemitério e, depois, escolher 1 monstro que seu oponente controla com um Nível menor ou igual ao do monstro que foi enviado para o Cemitério; destrua o alvo.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

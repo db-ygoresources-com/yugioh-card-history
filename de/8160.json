@@ -1,0 +1,15 @@
+{
+  "id": 8160,
+  "type": "monster",
+  "name": "Heckenschutz",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während der Schadensberechnung im Spielzug eines beliebigen Spielers, wenn ein Monster, das du kontrollierst, angreift oder angegriffen wird: Du kannst diese Karte von deiner Hand auf den Friedhof legen; halbiere bis zum Ende dieses Spielzugs die ATK des Monsters, das du kontrollierst, aber das Monster kann durch diesen Kampf nicht zerstört werden.",
+  "level": 3,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

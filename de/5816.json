@@ -1,0 +1,16 @@
+{
+  "id": 5816,
+  "type": "monster",
+  "name": "Karmesinroter Ninja",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Wähle 1 Fallenkarte auf dem Spielfeld; zerstöre das gewählte Ziel. (Falls das Ziel gesetzt ist, zeige es vor und zerstöre es, falls es eine Fallenkarte ist. Lege es andernfalls in seine ursprüngliche Position zurück.)",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

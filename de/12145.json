@@ -1,0 +1,16 @@
+{
+  "id": 12145,
+  "type": "monster",
+  "name": "Al-Lumi'raj",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Alle Monster auf dem Spielfeld verlieren ATK und DEF in Höhe ihrer Stufe/ihres Rangs x 300.",
+  "level": 3,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Wyrm",
+    "Empfänger",
+    "Effekt"
+  ]
+}

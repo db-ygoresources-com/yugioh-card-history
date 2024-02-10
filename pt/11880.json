@@ -1,0 +1,16 @@
+{
+  "id": 11880,
+  "type": "monster",
+  "name": "Timaeus, o Cavaleiro do Destino",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Cavaleiro Lendário Timaeus\" + \"Cavaleiro Lendário Critias\" + \"Cavaleiro Lendário Hermos\"\nDeve ser Invocado por Invocação-Especial (do seu Deck Adicional) ao enviar os cards acima que você controla para o Cemitério. (Você não usa \"Polimerização\".) Não é afetado por outros efeitos de card. Uma vez por batalha, se este card batalhar, durante o cálculo de dano (Efeito Rápido): você pode fazer com que o ATK/DEF deste card se tornem iguais ao ATK do monstro no campo com o maior ATK (em caso de empate, você seleciona). Quando este card for destruído em batalha: você pode Invocar por Invocação-Especial 3 monstros \"Cavaleiro Lendário\" da sua mão, do Deck e/ou do Cemitério, ignorando suas condições de Invocação.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Guerreiro",
+    "Fusão",
+    "Efeito"
+  ]
+}

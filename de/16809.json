@@ -1,0 +1,15 @@
+{
+  "id": 16809,
+  "type": "monster",
+  "name": "Blauäugiger Jetdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Andere Karten, die du kontrollierst, können nicht durch Karteneffekte deines Gegners zerstört werden. Du kannst jeden der folgenden Effekte von „Blauäugiger Jetdrache“ nur einmal pro Spielzug verwenden und du kannst sie nur aktivieren, solange „Blauäugiger w. Drache“ auf deiner Spielfeldseite oder in deinem Friedhof liegt. Falls eine oder mehr Karten auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung vom Friedhof (falls sie dort lag, als die Karte zerstört wurde) oder der Hand (selbst falls nicht) beschwören. Am Beginn des Damage Steps, falls diese Karte kämpft: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

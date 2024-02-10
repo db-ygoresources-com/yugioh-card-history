@@ -1,0 +1,15 @@
+{
+  "id": 8964,
+  "type": "monster",
+  "name": "Schlosskatze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird, kannst du 1 Monster vom Typ Ungeheuer der Stufe 1 in deinem Friedhof wählen und als Spezialbeschwörung in die offene Verteidigungsposition beschwören. Seine Effekte werden annulliert.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

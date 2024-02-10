@@ -1,0 +1,15 @@
+{
+  "id": 13559,
+  "type": "monster",
+  "name": "Link-Streamer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn ein oder mehr Cyberse-Monster als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange dieses Monster auf dem Spielfeld liegt (außer während des Damage Steps): Du kannst 1 „Daten-Spielmarke“ (Cyberse/LICHT/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Link-Streamer“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

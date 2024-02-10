@@ -1,0 +1,16 @@
+{
+  "id": 4108,
+  "type": "monster",
+  "name": "Maske der Finsternis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 1 Falle in deinem Friedhof; füge jenes gewählte Ziel deiner Hand hinzu.",
+  "level": 2,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

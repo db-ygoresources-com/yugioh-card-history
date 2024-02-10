@@ -1,0 +1,16 @@
+{
+  "id": 11877,
+  "type": "monster",
+  "name": "Mare Mare",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden, außer durch den Effekt eines Wyrm-Monsters. Während deiner Main Phase: Du kannst die Stufe dieser Karte um 1 reduzieren und falls du dies tust, beschwöre 1 „Mini-Mare-Mare-Spielmarke“ (Wyrm/WASSER/Stufe 1/ATK 300/DEF 200) als Spezialbeschwörung. Du kannst diesen Effekt von „Mare Mare“ nur bis zu dreimal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Wyrm",
+    "Empfänger",
+    "Effekt"
+  ]
+}

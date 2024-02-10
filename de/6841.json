@@ -1,0 +1,15 @@
+{
+  "id": 6841,
+  "type": "monster",
+  "name": "Antiker Antriebsingenieur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Annulliere Falleneffekte, die diese Karte als Ziel wählen, und falls du dies tust, zerstöre die Fallenkarte. Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Am Ende des Damage Steps, falls diese Karte angegriffen hat: Wähle 1 Zauber/Falle, den oder die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 5,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7828,
+  "type": "monster",
+  "name": "Wurm Falke",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Ändere alle offenen „Wurm“-Monster vom Typ Reptil, die du kontrollierst, in die verdeckte Verteidigungsposition, außer dieser Karte.",
+  "level": 2,
+  "atk": 500,
+  "def": 800,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

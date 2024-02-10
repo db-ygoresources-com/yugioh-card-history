@@ -1,0 +1,16 @@
+{
+  "id": 16515,
+  "type": "monster",
+  "name": "Inseto Devorador de Homens Imitador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "VIRE: Escolha 1 monstro no campo; destrua-o e, se isso acontecer, este card ganha ATK igual ao ATK original desse monstro e, depois, você pode mudar o Tipo deste card para o Tipo original desse monstro.\nNão pode ser destruído em batalha. Não pode ser destruído pelos efeitos de monstros com seu mesmo Tipo.",
+  "level": 4,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Inseto",
+    "Virar",
+    "Efeito"
+  ]
+}

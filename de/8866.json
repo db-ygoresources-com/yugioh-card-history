@@ -1,0 +1,16 @@
+{
+  "id": 8866,
+  "type": "monster",
+  "name": "Elementar-HELD Neos Knight",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Elementar-HELD Neos“ + 1 Krieger-Monster\nMuss als Fusionsbeschwörung beschworen werden. Diese Karte erhält ATK in Höhe der Hälfte der Grund-ATK des Krieger-Fusionsmaterials, das für ihre Fusionsbeschwörung verwendet wurde, außer „Elementar-HELD Neos“. Kann während jeder Battle Phase einen zweiten Angriff durchführen. Dein Gegner erhält keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

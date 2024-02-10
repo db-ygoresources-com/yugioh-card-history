@@ -1,0 +1,16 @@
+{
+  "id": 5325,
+  "type": "monster",
+  "name": "Schattenbändiger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)\nFLIPP: Wähle 1 Monster vom Typ Unterweltler, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle über das gewählte Ziel.",
+  "level": 3,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

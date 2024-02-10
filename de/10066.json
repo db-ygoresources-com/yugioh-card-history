@@ -1,0 +1,16 @@
+{
+  "id": 10066,
+  "type": "monster",
+  "name": "Photonenstoß-Rausschmeißer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 6\nEinmal pro Spielzug, während des Spielzugs eines beliebigen Spielers, wenn ein Monstereffekt auf der Spielfeldseite deines Gegners aktiviert wird: Du kannst 1 Xyz-Material von dieser Karte abhängen; annulliere den Effekt und falls du dies tust, füge deinem Gegner 1000 Schaden zu.",
+  "rank": 6,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13532,
+  "type": "monster",
+  "name": "Espírito do Sumô Yoko-Zuna",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando este card for Invocado por Invocação-Normal: você pode enviar para o Cemitério todos os monstros que seu oponente controla nas mesmas colunas que os cards nas suas Zonas de Pêndulo. Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Normal ou virado com a face para cima neste turno: devolva este card para a mão.",
+  "pendEffect": "Se um ou mais monstros forem Invocados por Invocação-Pêndulo: devolva este card da Zona de Pêndulo para a mão.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Espírito",
+    "Efeito"
+  ]
+}

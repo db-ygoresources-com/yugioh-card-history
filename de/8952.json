@@ -1,0 +1,16 @@
+{
+  "id": 8952,
+  "type": "monster",
+  "name": "Schrottungeheuer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte in offener Verteidigungsposition als Ziel für einen Angriff gewählt wird, am Ende der Battle Phase: Zerstöre diese Karte. Falls diese Karte durch den Effekt einer „Schrott“-Karte zerstört und auf den Friedhof gelegt wird: Du kannst 1 „Schrott“-Monster in deinem Friedhof wählen, außer „Schrottungeheuer“; füge das gewählte Ziel deiner Hand hinzu.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

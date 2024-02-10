@@ -1,0 +1,15 @@
+{
+  "id": 6802,
+  "type": "monster",
+  "name": "Außerirdischer Schädel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst 1 offenes Monster der Stufe 3 oder niedriger auf der Spielfeldseite deines Gegners als Tribut anbieten, um diese Karte auf die Spielfeldseite deines Gegners als Spezialbeschwörung zu beschwören. Falls du dieses Monster auf diese Weise als Spezialbeschwörung beschwörst, lege 1 A-Zählmarke auf diese Karte und du kannst im selben Spielzug kein Monster als Normalbeschwörung beschwören oder setzen. (Falls ein Monster mit einer A-Zählmarke gegen ein Monster kämpft, dessen Kartenname „Außerirdische“ enthält, verringere nur während der Schadensberechnung seine ATK und DEF um 300 Punkte für jede A-Zählmarke.)",
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5305,
+  "type": "monster",
+  "name": "Geflügelter Scherge",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Biete diese Karte offen als Tribut an. Wähle 1 offenes Monster vom Typ Unterweltler auf dem Spielfeld und erhöhe seine ATK und DEF um 700 Punkte, solange es offen auf dem Spielfeld liegt.",
+  "level": 2,
+  "atk": 700,
+  "def": 700,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

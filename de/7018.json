@@ -1,0 +1,15 @@
+{
+  "id": 7018,
+  "type": "monster",
+  "name": "Metallschütze",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird, lege 2 Zählmarken darauf. Diese Karte erhält 800 ATK für jede dieser Spielmarken, die darauf liegen. Falls diese Karte durch einen Karteneffekt zerstört werden würde, entferne stattdessen 1 Zählmarke von dieser Karte.",
+  "level": 5,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

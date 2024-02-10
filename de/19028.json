@@ -1,0 +1,16 @@
+{
+  "id": 19028,
+  "type": "monster",
+  "name": "Kampf-Motorrad",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nDas erste Mal in jedem Spielzug, dass diese Karte durch einen Karteneffekt eines Gegners zerstört würde, wird sie nicht zerstört. Einmal pro Spielzug, während der Battle Phase deines Gegners (Schnelleffekt): Du kannst 1 Karte abwerfen; diese Karte erhält ATK in Höhe der Hälfte der Summe der ATK aller anderen Monster, die du derzeit kontrollierst, dann lege 1 Zählmarke auf diese Karte, zusätzlich können Monster deines Gegners für den Rest dieses Spielzugs keine Monster als Angriffsziel wählen, außer diesem. Falls diese Karte mit einer Zählmarke durch Kampf zerstört wird: Zerstöre alle Monster, die du kontrollierst.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Effekt"
+  ]
+}

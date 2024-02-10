@@ -1,0 +1,18 @@
+{
+  "id": 12909,
+  "type": "monster",
+  "name": "Mago de Presa Negra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Dragão Xyz\".)\nSe este card for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro de TREVAS do Tipo Mago no seu Cemitério; Invoque-o por Invocação-Especial.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla; seu ATK se torna metade do seu ATK atual (até o final deste turno) e, depois, destrua este card.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

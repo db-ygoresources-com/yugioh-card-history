@@ -1,0 +1,16 @@
+{
+  "id": 14260,
+  "type": "monster",
+  "name": "Psi-Reflektor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Angriffsmodus aktivieren“ oder 1 Karte, die ihn erwähnt, von deinem Deck hinzufügen, außer „Psi-Reflektor“. Du kannst 1 „Angriffsmodus aktivieren“ in deiner Hand vorzeigen und dann 1 Monster in deinem Friedhof wählen, das ihn erwähnt, außer „Psi-Reflektor“; beschwöre es als Spezialbeschwörung und falls du dies tust, erhöhe seine Stufe um bis zu 4. Du kannst jeden Effekt von „Psi-Reflektor“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

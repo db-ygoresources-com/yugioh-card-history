@@ -1,0 +1,16 @@
+{
+  "id": 4090,
+  "type": "monster",
+  "name": "Sensenmann der Karten",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 1 Fallenkarte auf dem Spielfeld und zerstöre sie. Wenn die gewählte Karte verdeckt ist, decke die entsprechende Karte auf. Ist die Karte eine Fallenkarte, wird sie zerstört. Ist die Karte eine Zauberkarte, wird sie wieder verdeckt.",
+  "level": 5,
+  "atk": 1380,
+  "def": 1930,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15071,
+  "type": "monster",
+  "name": "Wachgeist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst 1 Monster wählen, das du kontrollierst; es kann in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden. Während der End Phase, falls diese Karte derzeit verbannt ist und in diesem Spielzug verbannt wurde: Du kannst diese Karte deiner Hand hinzufügen. Du kannst jeden Effekt von „Wachgeist“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

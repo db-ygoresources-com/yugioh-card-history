@@ -1,0 +1,18 @@
+{
+  "id": 12393,
+  "type": "monster",
+  "name": "Milder Truthahn",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Der Geschmack des Sieges wird dich überwältigen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen. Verringere den Pendelbereich dieser Karte bis zum Ende dieses Spielzugs um die gewürfelte Zahl (min. 1).",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Pendel",
+    "Normal"
+  ]
+}

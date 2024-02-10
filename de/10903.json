@@ -1,0 +1,15 @@
+{
+  "id": 10903,
+  "type": "monster",
+  "name": "Sylvanischer Blattmarschall",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst entweder 1 oder 2 bestimmen, dann so viele Karten von oben von deinem Deck ausgraben, alle ausgegrabenen Monster vom Typ Pflanze auf den Friedhof legen, zusätzlich die anderen Karten in beliebiger Reihenfolge unter dein Deck legen. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Du kannst 1 Monster auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "level": 3,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

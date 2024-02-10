@@ -1,0 +1,15 @@
+{
+  "id": 7560,
+  "type": "monster",
+  "name": "Tethys, Göttin des Lichts",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn du ein oder mehr Fee-Monster ziehst (außer während des Damage Steps): Du kannst 1 der Monster vorzeigen; ziehe 1 Karte. Diese Karte muss offen auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7298,
+  "type": "monster",
+  "name": "Geist der Sechs Samurai",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du: Wähle 1 offenes „Sechs Samurai“-Monster, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Klinke diese Karte aus und beschwöre sie als Spezialbeschwörung in die offene Angriffsposition. Solange diese Karte durch diesen Effekt ein Monster ausrüstet, erhält das ausgerüstete Monster 500 ATK und DEF. Falls das ausgerüstete Monster ein Monster deines Gegners durch Kampf zerstört: Ziehe 1 Karte. (Ein Monster kann zu jeder Zeit nur mit 1 Union-Monster ausgerüstet sein. Falls das ausgerüstete Monster zerstört würde, zerstöre stattdessen diese Karte.)",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Union",
+    "Effekt"
+  ]
+}

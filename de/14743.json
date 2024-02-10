@@ -1,0 +1,19 @@
+{
+  "id": 14743,
+  "type": "monster",
+  "name": "Binärer Schwertkämpfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Normale Monster\nDiese Karte erhält diese Effekte, basierend auf der Anzahl der Monster, mit denen diese Karte kreuzgelinkt ist.\n●1+: Wenn diese Karte einen Angriff gegen ein Monster eines Gegners deklariert: Du kannst diesen Effekt aktivieren; diese Karte kann in diesem Spielzug während jeder Battle Phase einen zweiten Angriff durchführen, zusätzlich, falls diese Karte in diesem Spielzug gegen ein Monster eines Gegners kämpft, kann jenes Monster des Gegners durch jenen Kampf nicht zerstört werden.\n●2: Nach der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst jenes Monster des Gegners verbannen.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

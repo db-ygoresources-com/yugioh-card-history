@@ -1,0 +1,15 @@
+{
+  "id": 6031,
+  "type": "monster",
+  "name": "Spieler im Wüstensand",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wirf eine Münze dreimal. Wenn du bei allen 3 Würfen Kopf bekommst, zerstöre alle Monster auf der Spielfeldseite deines Gegners. Wenn du bei allen 3 Würfen Zahl bekommst, zerstöre alle Monster auf deiner Spielfeldseite. Du kannst den Effekt dieser Karte nur einmal pro Spielzug, in deiner Main Phase, benutzen.",
+  "level": 3,
+  "atk": 300,
+  "def": 1600,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

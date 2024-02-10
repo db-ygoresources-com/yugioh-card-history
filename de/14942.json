@@ -1,0 +1,19 @@
+{
+  "id": 14942,
+  "type": "monster",
+  "name": "Artefakt Dagda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster mit unterschiedlichen Namen\nWenn ein Effekt einer anderen Karte auf dem Spielfeld aktiviert wird (Schnelleffekt): Du kannst 1 „Artefakt“-Monster von deiner Hand oder deinem Deck als Zauber in deine Zauber- & Fallenzone setzen, aber zerstöre es während der nächsten End Phase deines Gegners. Während des Spielzugs deines Gegners, falls diese als Linkbeschwörung beschworene Karte zerstört wird: Du kannst 1 „Artefakt“-Monster als Spezialbeschwörung von deinem Friedhof in die Verteidigungsposition beschwören. Du kannst jeden Effekt von „Artefakt Dagda“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

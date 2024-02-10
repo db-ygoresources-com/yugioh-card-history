@@ -1,0 +1,15 @@
+{
+  "id": 6832,
+  "type": "monster",
+  "name": "Cyberfinsternis Knochen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Wähle 1 Drache-Monster der Stufe 3 oder niedriger in deinem Friedhof; rüste diese Karte mit dem Drache-Monster aus. Diese Karte erhält ATK in Höhe der Grund-ATK des Monsters, mit dem sie durch diesen Effekt ausgerüstet ist. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört: Füge deinem Gegner 300 Schaden zu. Falls diese Karte durch Kampf zerstört würde, zerstöre stattdessen das ausrüstende Monster.",
+  "level": 4,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

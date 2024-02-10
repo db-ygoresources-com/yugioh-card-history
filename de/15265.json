@@ -1,0 +1,15 @@
+{
+  "id": 15265,
+  "type": "monster",
+  "name": "Donnerhand",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein oder mehr offene Monster mit 1600 Grund-ATK oder -DEF, die du kontrollierst, durch Kampf oder einen Karteneffekt eines Gegners zerstört und auf den Friedhof gelegt werden, solange sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören (aber verbanne sie, wenn sie das Spielfeld verlässt) und falls du dies tust, zerstöre 1 Karte, die dein Gegner kontrolliert. Du kannst diesen Effekt von „Donnerhand“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1600,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

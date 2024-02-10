@@ -1,0 +1,15 @@
+{
+  "id": 12597,
+  "type": "monster",
+  "name": "Raubpflanze Aalkannenpflanze",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte erhält 200 ATK für jede Raubtier-Zählmarke auf dem Spielfeld. Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört: Du kannst diese Karte mit dem Monster ausrüsten. Einmal pro Spielzug: Du kannst 1 Monsterkarte wählen, mit der diese Karte durch den Effekt dieser Karte ausgerüstet ist; zerstöre sie und falls du dies tust, erhältst du LP in Höhe ihrer Grund-ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1000,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

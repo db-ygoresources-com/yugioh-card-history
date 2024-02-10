@@ -1,0 +1,16 @@
+{
+  "id": 8037,
+  "type": "monster",
+  "name": "Hyperpsychischer Sprenger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Psi\nFalls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Am Ende des Damage Steps, falls diese Karte ein Monster in Verteidigungsposition angegriffen hat und die DEF des Monsters niedriger sind als die ATK dieser Karte (verwende die Grundwerte des anderen Monsters, falls es sich nicht mehr auf dem Spielfeld befindet): Du erhältst LP in Höhe des Überschusses.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

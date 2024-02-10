@@ -1,0 +1,15 @@
+{
+  "id": 8004,
+  "type": "monster",
+  "name": "Geschützturmkrieger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 Monster vom Typ Krieger als Tribut anbietest, und falls du dies tust, erhält sie ATK in Höhe der Grund-ATK des als Tribut angebotenen Monsters.",
+  "level": 5,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

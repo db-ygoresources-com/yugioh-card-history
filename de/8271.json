@@ -1,0 +1,15 @@
+{
+  "id": 8271,
+  "type": "monster",
+  "name": "Totenkopf-Begleiter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte am Ende der Battle Phase offen auf dem Spielfeld liegt: Zerstöre diese offene Karte. Du kannst diese Karte von deiner Hand auf den Friedhof legen; beschwöre bis zu 2 Monster vom Typ Zombie, deren ATK-Summe genau 2000 ist, als Spezialbeschwörung von deiner Hand.",
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

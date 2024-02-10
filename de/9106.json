@@ -1,0 +1,15 @@
+{
+  "id": 9106,
+  "type": "monster",
+  "name": "Watteichhörnchen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann während jeder Battle Phase zweimal angreifen. Falls diese Karte kämpft, annulliere nach der Schadensberechnung die Effekte der Monster, gegen die sie gekämpft hat (einschließlich Monstern im Friedhof).",
+  "level": 3,
+  "atk": 700,
+  "def": 100,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

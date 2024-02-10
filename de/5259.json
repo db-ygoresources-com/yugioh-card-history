@@ -1,0 +1,16 @@
+{
+  "id": 5259,
+  "type": "monster",
+  "name": "Nachschub",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Nimm 2 Fusionsmaterial-Monster auf deine Hand zurück, die als Ergebnis einer Fusionsbeschwörung auf den Friedhof gelegt wurden.",
+  "level": 4,
+  "atk": 1300,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

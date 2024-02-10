@@ -1,0 +1,15 @@
+{
+  "id": 4931,
+  "type": "monster",
+  "name": "Kotodama",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se houver monstros com a face para cima com o mesmo nome no campo, destrua esses monstros. (Se um monstro com o mesmo nome que outro monstro que já estiver com a face para cima no campo for Invocado ou virado com a face para cima, o novo monstro com a face para cima é destruído. Se eles forem Invocados ou virados com a face para cima ao mesmo tempo, todos são destruídos).",
+  "level": 3,
+  "atk": 0,
+  "def": 1600,
+  "properties": [
+    "Fada",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7712,
+  "type": "monster",
+  "name": "Montagedrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 andere Monster von deiner Hand auf den Friedhof legst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Die ATK dieser Karte werden gleich der Summe der Grundstufen der auf den Friedhof gelegten Monster x 300.",
+  "level": 8,
+  "atk": -1,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

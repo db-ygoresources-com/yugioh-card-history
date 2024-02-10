@@ -1,0 +1,16 @@
+{
+  "id": 12061,
+  "type": "monster",
+  "name": "Roter Resonator",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand beschwören. Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster auf dem Spielfeld wählen; du erhältst LP in Höhe seiner ATK. Du kannst diesen Effekt von „Roter Resonator“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 600,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

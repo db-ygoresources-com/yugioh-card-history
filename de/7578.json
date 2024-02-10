@@ -1,0 +1,15 @@
+{
+  "id": 7578,
+  "type": "monster",
+  "name": "Vulkanische Königin",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) auf die Spielfeldseite deines Gegners beschworen werden, indem du 1 Monster als Tribut anbietest, das er kontrolliert. Du kannst in dem Spielzug, in dem du diese Karte als Spezialbeschwörung beschwörst, kein Monster als Normalbeschwörung beschwören/setzen. Einmal pro Spielzug: Du kannst 1 andere Karte, die du kontrollierst, auf den Friedhof legen; füge deinem Gegner 1000 Schaden zu. Einmal pro Spielzug, während deiner End Phase: Biete 1 anderes Monster als Tribut an oder du erhältst 1000 Schaden.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

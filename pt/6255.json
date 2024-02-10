@@ -1,0 +1,15 @@
+{
+  "id": 6255,
+  "type": "monster",
+  "name": "Abare Ushioni",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Lance uma moeda. Se ganhar, inflija 1000 pontos de dano aos Life Points do seu adversário. Se perder, você recebe 1000 pontos de dano. Você pode usar este efeito apenas uma vez por turno, durante a Main Phase.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Besta-Guerreira",
+    "Efeito"
+  ]
+}

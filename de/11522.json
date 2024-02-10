@@ -1,0 +1,18 @@
+{
+  "id": 11522,
+  "type": "monster",
+  "name": "Künstlerkumpel Partnatter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das du kontrollierst; es erhält 300 ATK für jedes „Künstlerkumpel“-Monster, das du derzeit kontrollierst. Monster der Stufe 5 oder niedriger können nicht angreifen.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 300 ATK für jede „Künstlerkumpel“-Karte, die du derzeit kontrollierst.",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Reptil",
+    "Pendel",
+    "Effekt"
+  ]
+}

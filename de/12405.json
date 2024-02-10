@@ -1,0 +1,18 @@
+{
+  "id": 12405,
+  "type": "monster",
+  "name": "Künstlerkumpel Schrubbulldogge",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Spezialbeschwörung vom Extra Deck beschworen wird: Du kannst diesen Effekt aktivieren; für den Rest dieses Spielzugs können Pendelmonster, die du kontrollierst und die als Spezialbeschwörung vom Extra Deck beschworen wurden, nicht durch Karteneffekte zerstört werden.",
+  "pendEffect": "Falls ein oder mehr offene Nichtpendel-Monster, die du kontrollierst und die als Spezialbeschwörung vom Extra Deck beschworen wurden, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "pendScale": 5,
+  "level": 6,
+  "atk": 2300,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer",
+    "Pendel",
+    "Effekt"
+  ]
+}

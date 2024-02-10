@@ -1,0 +1,15 @@
+{
+  "id": 11033,
+  "type": "monster",
+  "name": "Heliosphärendrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange dein Gegner 4 oder weniger Karten in seiner Hand hat und diese Karte das einzige Monster ist, das du kontrollierst, kann dein Gegner keinen Angriff deklarieren. Einmal pro Spielzug, falls du ein Monster vom Typ Drache der Stufe 8 kontrollierst: Du kannst diese Karte bis zum Ende dieses Spielzugs zu Stufe 8 werden lassen.",
+  "level": 4,
+  "atk": 0,
+  "def": 1900,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8571,
+  "type": "monster",
+  "name": "Hexenmeister der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du ein anderes „Eisbarriere“-Monster kontrollierst, müssen beide Spieler Zauberkarten setzen, bevor sie diese aktivieren können, und sie können diese bis zu ihrem nächsten Spielzug nicht aktivieren.",
+  "level": 3,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8116,
+  "type": "monster",
+  "name": "Wurm Rakuyeh",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nur in dem Spielzug angreifen, in dem sie aufgedeckt wurde. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die verdeckte Verteidigungsposition geändert.",
+  "level": 4,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

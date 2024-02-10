@@ -1,0 +1,16 @@
+{
+  "id": 5589,
+  "type": "monster",
+  "name": "Des Dendle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, kannst du deine „Blutsaugendes Knabenkraut“-Karte mit dieser Karte als Ausrüstungszauberkarte ausrüsten ODER sie als Union-Ausrüstung ausklinken und als Spezialbeschwörung in offener Angriffsposition auf deiner Spielfeldseite beschwören. Wenn diese Karte durch ihren Effekt ein Monster ausrüstet, jedesmal, wenn das ausgerüstete Monster 1 Monster deines Gegners als Ergebnis eines Kampfes zerstört, beschwöre 1 „Böse Pflanze-Spielmarke“ (Typ Pflanze/ERDE/Stufe 1/ATK 800/DEF 800) als Spezialbeschwörung. (1 Monster kann nur mit 1 Union-Monster zurzeit ausgerüstet sein. Wenn das Monster, das mit dieser Karte ausgerüstet ist, als Ergebnis eines Kampfes zerstört wird, zerstöre stattdessen diese Karte.)",
+  "level": 4,
+  "atk": 300,
+  "def": 2000,
+  "properties": [
+    "Pflanze",
+    "Union",
+    "Effekt"
+  ]
+}

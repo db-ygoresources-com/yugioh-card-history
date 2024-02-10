@@ -1,0 +1,18 @@
+{
+  "id": 13462,
+  "type": "monster",
+  "name": "Dragão da Revolução de Olhos Anômalos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Pêndulo (da sua mão), ou ser Invocado por Invocação-Especial (da sua mão) ao oferecer 3 monstros Dragão como Tributo (1 Fusão, 1 Sincro e 1 Xyz). Você pode descartar este card e pagar 500 PV: adicione 1 Monstro Pêndulo Dragão de Nível 8 ou menos do seu Deck à sua mão. Ganha ATK/DEF igual à metade dos PV do seu oponente. Uma vez por turno: você pode pagar metade dos seus PV; embaralhe nos Decks todos os outros cards do campo e dos Cemitérios.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros Dragão. Este efeito não pode ser negado. Você pode escolher 1 Monstro de Fusão, Sincro ou Xyz Dragão no seu Cemitério; destrua este card e, se isso acontecer, Invoque o alvo por Invocação-Especial.",
+  "pendScale": 12,
+  "level": 12,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

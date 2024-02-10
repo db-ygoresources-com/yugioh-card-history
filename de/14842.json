@@ -1,0 +1,15 @@
+{
+  "id": 14842,
+  "type": "monster",
+  "name": "Aufschlag-Amor",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Bleibt von den aktivierten Effekten von Monstern unberührt, außer denen von Monstern, deren Stufe kleiner oder gleich der dieser Karte ist. Du kannst bis zu 3 Karten von deinem Friedhof verbannen; erhöhe die Stufe dieser Karte bis zum Ende dieses Spielzugs um die Anzahl. Du kannst diesen Effekt von „Aufschlag-Amor“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

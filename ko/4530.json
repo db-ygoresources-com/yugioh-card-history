@@ -1,0 +1,15 @@
+{
+  "id": 4530,
+  "type": "monster",
+  "name": "스타 보이",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "이 카드가 필드 위에 앞면 표시로 존재하는 한, 모든 물 속성 몬스터의 공격력은 500 포인트 올린다. 화염 속성 몬스터의 공격력은 400 포인트 내린다.",
+  "level": 2,
+  "atk": 550,
+  "def": 500,
+  "properties": [
+    "물족",
+    "효과"
+  ]
+}

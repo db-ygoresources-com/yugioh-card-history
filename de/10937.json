@@ -1,0 +1,16 @@
+{
+  "id": 10937,
+  "type": "monster",
+  "name": "Gorgonischer Wächter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster vom Typ Fels der Stufe 3\nEinmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 Xyz-Material von dieser Karte abhängen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden zu 0 und falls sie das werden, werden seine Effekte annulliert. Diese Effekte dauern bis zum Ende dieses Spielzugs an. Einmal pro Spielzug: Du kannst 1 Monster mit 0 ATK auf dem Spielfeld wählen; zerstöre es.",
+  "rank": 3,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Fels",
+    "Xyz",
+    "Effekt"
+  ]
+}

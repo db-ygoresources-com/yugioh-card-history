@@ -1,0 +1,16 @@
+{
+  "id": 7532,
+  "type": "monster",
+  "name": "Nebeltal-Soldat",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat, das nicht zerstört wurde: Gib das Monster des Gegners auf die Hand zurück. Du musst diese offene Karte kontrollieren, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 4,
+  "atk": 1700,
+  "def": 300,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

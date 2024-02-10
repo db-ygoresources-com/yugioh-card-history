@@ -1,0 +1,15 @@
+{
+  "id": 14251,
+  "type": "monster",
+  "name": "Firewall-Wächter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Material für die Linkbeschwörung eines Cyberse-Monsters auf den Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Wenn ein Angriff deklariert wird, an dem dein Linkmonster und ein Linkmonster eines Gegners beteiligt sind: Du kannst diese Karte von deinem Friedhof verbannen; annulliere den Angriff und falls du dies tust, bis zum Ende dieses Spielzugs, werden die Grund-ATK des Monsters des Gegners zu 0, zusätzlich bleibt es von anderen Karteneffekten unberührt, außer von seinen eigenen. Du kannst jeden Effekt von „Firewall-Wächter“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

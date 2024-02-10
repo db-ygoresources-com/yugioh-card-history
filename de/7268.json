@@ -1,0 +1,15 @@
+{
+  "id": 7268,
+  "type": "monster",
+  "name": "Wolkian - Toxische Wolke",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird, falls sie am Beginn des Damage Steps offen lag: Zerstöre das Monster, das sie zerstört hat, und falls du dies tust, füge deinem Gegner 800 Schaden zu.",
+  "level": 3,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

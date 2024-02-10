@@ -1,0 +1,16 @@
+{
+  "id": 5779,
+  "type": "monster",
+  "name": "Lunatite, Metallparasit",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase, kannst du ein offenes Monster auf deiner Spielfeldseite mit dieser Karte als Ausrüstungszauberkarte ausrüsten ODER sie als Union-Ausrüstung ausklinken und als Spezialbeschwörung in offener Angriffsposition auf deiner Spielfeldseite beschwören. Wenn diese Karte durch ihren Effekt ein Monster ausrüstet, bleibt das ausgerüstete Monster von jeglichen Zauberkarten, die dein Gegner kontrolliert, unberührt. (1 Monster kann nur mit 1 Union-Monster zurzeit ausgerüstet sein. Wenn das Monster, das mit dieser Karte ausgerüstet ist, als Ergebnis eines Kampfes zerstört wird, zerstöre stattdessen diese Karte.)",
+  "level": 7,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Union",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8955,
+  "type": "monster",
+  "name": "Wattkampffisch",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt, wirft dein Gegner 1 Karte seiner Wahl ab.",
+  "level": 2,
+  "atk": 100,
+  "def": 0,
+  "properties": [
+    "Donner",
+    "Empfänger",
+    "Effekt"
+  ]
+}

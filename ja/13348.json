@@ -1,0 +1,23 @@
+{
+  "id": 13348,
+  "type": "monster",
+  "name": "革命の鉄騎士",
+  "nameRuby": "かくめいのてつきし",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "notes": "※公式のデュエルでは使用できません。",
+  "effectText": "機械族の効果モンスター３体以上\nこのカードはリンク召喚でしか特殊召喚できない。EXリンク状態のこのカードが直接攻撃で相手のLPを０にした場合、このカードのコントローラーはマッチに勝利する。",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2400,
+  "properties": [
+    "機械族",
+    "リンク",
+    "効果"
+  ]
+}

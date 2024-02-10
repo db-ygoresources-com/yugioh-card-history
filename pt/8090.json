@@ -1,0 +1,16 @@
+{
+  "id": 8090,
+  "type": "monster",
+  "name": "Dragão Fada Antigo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Regulador + 1+ monstros não-Reguladores\nDurante sua Fase Principal: você pode Invocar por Invocação-Especial 1 monstro de Nível 4 ou menos da sua mão. Você não pode conduzir sua Fase de Batalha no turno em que ativar este efeito. Durante sua Fase Principal: você pode destruir tantos cards nas Zonas do Campo quanto possível (mín. 1) e, se isso acontecer, ganhe 1000 PV e, depois, você pode adicionar 1 Magia de Campo com um nome diferente que o do(s) card(s) destruído(s) do seu Deck à sua mão. Você só pode usar cada efeito de \"Dragão Fada Antigo\" uma vez por turno.",
+  "level": 7,
+  "atk": 2100,
+  "def": 3000,
+  "properties": [
+    "Dragão",
+    "Sincro",
+    "Efeito"
+  ]
+}

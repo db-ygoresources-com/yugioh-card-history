@@ -1,0 +1,15 @@
+{
+  "id": 6481,
+  "type": "monster",
+  "name": "Wasserdrache",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss mit „H2O-Verbindung“ als Spezialbeschwörung beschworen werden. Die ATK von FEUER Monstern und Pyro-Monstern auf dem Spielfeld werden zu 0. Wenn diese Karte zerstört und auf den Friedhof gelegt wird: Du kannst 2 „Hydrogeddon“ und 1 „Oxygeddon“ in deinem Friedhof wählen; beschwöre sie als Spezialbeschwörung.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

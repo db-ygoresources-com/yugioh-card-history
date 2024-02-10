@@ -1,0 +1,15 @@
+{
+  "id": 6089,
+  "type": "monster",
+  "name": "Theinen die Große Sphinx",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, sondern nur, indem du 500 Life Points zahlst, wenn sowohl „Androsphinx“ als auch „Teleia die Sphinx“ gleichzeitig auf deiner Spielfeldseite zerstört werden; dann kannst du diese Karte als Spezialbeschwörung aus deiner Hand oder deinem Deck beschwören. Wenn diese Karte erfolgreich als Spezialbeschwörung beschworen wird, zahle 500 Life Points, um die ATK dieser Karte bis zum Ende der End Phase um 3000 Punkte zu erhöhen.",
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

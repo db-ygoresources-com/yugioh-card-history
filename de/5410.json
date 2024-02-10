@@ -1,0 +1,15 @@
+{
+  "id": 5410,
+  "type": "monster",
+  "name": "Vampirlord",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte deinem Gegner Kampfschaden zufügt: Deklariere 1 Kartentyp (Monster, Zauber oder Falle); dein Gegner legt 1 Karte jenes Typs von seinem Deck auf den Friedhof. Einmal pro Spielzug, während deiner nächsten Standby Phase, nachdem diese Karte, die dir gehört, durch einen Karteneffekt eines Gegners zerstört und auf deinen Friedhof gelegt wurde: Beschwöre diese Karte als Spezialbeschwörung vom Friedhof.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

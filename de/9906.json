@@ -1,0 +1,15 @@
+{
+  "id": 9906,
+  "type": "monster",
+  "name": "Chow Len, der Prophet",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug: Du kannst entweder Zauber oder Falle deklarieren und dann 1 gesetzte Karte in der Zauber- & Fallenzone deines Gegners wählen; sieh dir jenes gewählte Ziel an und falls es den deklarierten Kartentyp hat, kann jene Karte in diesem Spielzug nicht aktiviert werden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

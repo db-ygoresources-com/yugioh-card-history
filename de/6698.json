@@ -1,0 +1,16 @@
+{
+  "id": 6698,
+  "type": "monster",
+  "name": "Wirbelwind-Wiesel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Dein Gegner kann für den Rest dieses Spielzugs keine Zauber- oder Fallenkarten aktivieren.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

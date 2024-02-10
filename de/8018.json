@@ -1,0 +1,15 @@
+{
+  "id": 8018,
+  "type": "monster",
+  "name": "Hyperpsychischer Sprenger/Angriffsmodus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer mit „Angriffsmodus aktivieren“. Falls diese Karte gegen ein Monster kämpft, füge deinem Gegner am Ende des Damage Steps Schaden in Höhe der DEF des Monsters zu und du erhältst Life Points in Höhe seiner ATK. Wenn diese Karte auf dem Spielfeld zerstört wird, kannst du 1 „Hyperpsychischer Sprenger“ als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

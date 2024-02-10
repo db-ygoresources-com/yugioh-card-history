@@ -1,0 +1,15 @@
+{
+  "id": 7669,
+  "type": "monster",
+  "name": "Schachtelhalm",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird, beschwöre 1 „Schachtelhalm-Spielmarke“ (Typ Pflanze/WIND/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung in Verteidigungsposition auf die Spielfeldseite deines Gegners. Wenn diese Spielmarke durch Kampf mit einem Monster vom Typ Pflanze zerstört wird, legt ihr Beherrscher 1 Karte von seiner Hand auf den Friedhof.",
+  "level": 2,
+  "atk": 400,
+  "def": 500,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4490,
+  "type": "monster",
+  "name": "Ameba",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn die Kontrolle über diese offene Karte auf dem Spielfeld auf deinen Gegner übergeht, füge den Life Points deines Gegners 2000 Punkte Schaden zu. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 1,
+  "atk": 300,
+  "def": 350,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

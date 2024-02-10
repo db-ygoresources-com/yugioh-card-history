@@ -1,0 +1,16 @@
+{
+  "id": 14064,
+  "type": "monster",
+  "name": "Shinobi Nekro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls ein anderes Zombie-Monster als Spezialbeschwörung von deinem Friedhof beschworen wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst 1 Karte ziehen, dann wirf 1 Karte ab. Falls diese Karte im Friedhof offen verbannt wird, um einen Effekt zu aktivieren, oder durch einen Effekt: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Shinobi Nekro“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 800,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

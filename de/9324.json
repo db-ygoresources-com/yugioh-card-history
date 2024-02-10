@@ -1,0 +1,16 @@
+{
+  "id": 9324,
+  "type": "monster",
+  "name": "Symphonischer Krieger Bäs-s-se",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Einmal pro Spielzug kannst du 1 offenes „Symphonischer Krieger“-Monster auf dem Spielfeld wählen. Erhöhe seine Stufe um die Anzahl der Karten in deiner Hand; diese Erhöhung hält bis zur End Phase an. Du kannst diese Karte in deinem Friedhof aus dem Spiel entfernen, um 1 offenes „Symphonischer Krieger“-Monster zu wählen, das du kontrollierst, und seine Stufe um die Anzahl der Karten in deiner Hand zu erhöhen; diese Erhöhung hält bis zur End Phase an.",
+  "level": 1,
+  "atk": 600,
+  "def": 400,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

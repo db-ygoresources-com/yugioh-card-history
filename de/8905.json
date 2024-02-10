@@ -1,0 +1,15 @@
+{
+  "id": 8905,
+  "type": "monster",
+  "name": "Laval-Brenner",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du 3 oder mehr „Laval“-Monster mit unterschiedlichen Namen in deinem Friedhof hast, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

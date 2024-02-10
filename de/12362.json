@@ -1,0 +1,15 @@
+{
+  "id": 12362,
+  "type": "monster",
+  "name": "Wächter von Fellgrant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst diese Karte mit 1 Monster vom Typ Drache der Stufe 7 oder 8 von deiner Hand oder deinem Friedhof ausrüsten. Diese Karte erhält ATK und DEF in Höhe der Hälfte der ATK und DEF des Monsters, mit dem sie durch diesen Effekt ausgerüstet ist. Du kannst 1 Monster und diese Karte als Tribut anbieten und dann 1 Monster vom Typ Drache der Stufe 7 oder 8 in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "level": 4,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

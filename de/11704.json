@@ -1,0 +1,18 @@
+{
+  "id": 11704,
+  "type": "monster",
+  "name": "Geistungeheuer-Zähmerin Zefrawendi",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normal- oder Pendelbeschwörung beschworen wird: Du kannst deiner Hand 1 offenes „Zefra“-Monster von deinem Extra Deck hinzufügen, außer „Geistungeheuer-Zähmerin Zefrawendi“. Du kannst nur einmal pro Spielzug ein oder mehr „Geistungeheuer-Zähmerin Zefrawendi“ als Spezialbeschwörung beschwören.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Geistungeheuer“- und „Zefra“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Psi",
+    "Pendel",
+    "Effekt"
+  ]
+}

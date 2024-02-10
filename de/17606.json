@@ -1,0 +1,15 @@
+{
+  "id": 17606,
+  "type": "monster",
+  "name": "Agido der alte Wachposten",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls eine oder mehr Karten von der Hand oder dem Deck auf den Friedhof deines Gegners gelegt werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 ERDE Fee-Monster der Stufe 4 als Spezialbeschwörung von deinem Friedhof beschwören, außer „Agido der alte Wachposten“. Falls diese Karte von der Hand oder dem Deck auf den Friedhof gelegt wird: Du kannst diesen Effekt aktivieren; jeder Spieler legt die obersten 5 Karten seines Decks auf den Friedhof (oder sein gesamtes Deck, falls es weniger als 5 enthält), dann, falls sich „Austausch des Geistes“ in deinem Friedhof befindet, kannst du 5 weitere oberste Karten des Decks eines beliebigen Spielers auf den Friedhof legen. Du kannst jeden Effekt von „Agido der alte Wachposten“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

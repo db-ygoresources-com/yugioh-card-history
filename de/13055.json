@@ -1,0 +1,16 @@
+{
+  "id": 13055,
+  "type": "monster",
+  "name": "Raubpflanze Banksioger",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 Monster deines Gegners mit einer Raubtier-Zählmarke als Tribut anbietest. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Lege 1 Raubtier-Zählmarke auf jedes offene Monster, das dein Gegner kontrolliert, und falls du dies tust, werden alle der Monster, die Stufe 2 oder höher sind, zu Stufe 1, solange sie eine Raubtier-Zählmarke haben.",
+  "level": 6,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

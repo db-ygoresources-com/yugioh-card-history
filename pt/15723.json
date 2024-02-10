@@ -1,0 +1,19 @@
+{
+  "id": 15723,
+  "type": "monster",
+  "name": "Giclope Gigatrovão",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se este card, Invocado por Invocação-Especial do Deck Adicional, for usado como Matéria Sincro, bana-o. Se este card for Invocado por Invocação-Normal: você pode mudar sua posição de batalha. Você só pode usar cada um dos seguintes efeitos de \"Giclope Gigatrovão\" uma vez por turno. Se a posição de batalha deste card for mudada: você pode escolher 1 Magia/Armadilha com a face para cima no campo; destrua-a. Se este card for destruído na Zona de Pêndulo: você pode devolver 1 card da sua Zona de Pêndulo para a mão.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 Monstro Pêndulo que você controla e 1 monstro que seu oponente controla; mude suas posições de batalha.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1400,
+  "def": 1700,
+  "properties": [
+    "Trovão",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8386,
+  "type": "monster",
+  "name": "Finsterlord Desire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Spezialbeschwörung beschworen werden. Du kannst diese Karte als Tributbeschwörung beschwören, indem du 1 Monster vom Typ Fee als Tribut anbietest. Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; diese Karte verliert genau 1000 ATK und falls sie das tut, lege das gewählte Ziel auf den Friedhof.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

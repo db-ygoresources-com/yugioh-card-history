@@ -1,0 +1,18 @@
+{
+  "id": 12148,
+  "type": "monster",
+  "name": "Büroboter 008",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Karte erhält 500 ATK für jede „Büroboter“-Karte in deinem Friedhof. Dein Gegner kann keine offenen „Büroboter“-Karten als Ziel für Karteneffekte wählen, außer dieser. Diese Karte kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Büroboter“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

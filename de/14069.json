@@ -1,0 +1,15 @@
+{
+  "id": 14069,
+  "type": "monster",
+  "name": "Gefahr! Mottenmann!",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte in deiner Hand vorzeigen; dein Gegner bestimmt zufällig 1 Karte von deiner gesamten Hand, dann wirfst du die bestimmte Karte ab. Dann, falls die abgeworfene Karte nicht „Gefahr! Mottenmann!“ war, beschwöre 1 „Gefahr! Mottenmann!“ als Spezialbeschwörung von deiner Hand und falls du dies tust, ziehe 1 Karte. Falls diese Karte abgeworfen wird: Du kannst beide Spieler 1 Karte ziehen lassen, dann werfen beide Spieler 1 Karte ab. Du kannst diesen Effekt von „Gefahr! Mottenmann!“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 400,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

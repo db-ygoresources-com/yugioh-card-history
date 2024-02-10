@@ -1,0 +1,18 @@
+{
+  "id": 11934,
+  "type": "monster",
+  "name": "Mago do Pulso do Dragão",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Este jovem mago tem o dom de ver as linhas naturais de energia que cruzam a terra, que seu povo chama de Pulso do Dragão. Sua exuberância e perícia lhe conferem muito prestígio com seu mentor, O \"Mago do Fosso do Dragão\".",
+  "pendEffect": "Uma vez por turno, se você tiver um card \"Mago\" na sua outra Zona de Pêndulo: você pode descartar 1 Monstro Pêndulo e, depois, escolher 1 monstro com a face para cima no campo; destrua-o.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1800,
+  "def": 900,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Normal"
+  ]
+}

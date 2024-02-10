@@ -1,0 +1,16 @@
+{
+  "id": 7253,
+  "type": "monster",
+  "name": "Fossilkrieger Schädelkönig",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Fels-Monster + 1 Monster der Stufe 7 oder höher\nMuss erst durch „Fossilfusion“ als Spezialbeschwörung beschworen werden. Diese Karte kann während jeder Battle Phase einen zweiten Angriff durchführen. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 Monster im Friedhof deines Gegners wählen; wirf 1 Karte ab und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung auf deine Spielfeldseite. Du kannst diesen Effekt von „Fossilkrieger Schädelkönig“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1300,
+  "properties": [
+    "Fels",
+    "Fusion",
+    "Effekt"
+  ]
+}

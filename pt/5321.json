@@ -1,0 +1,16 @@
+{
+  "id": 5321,
+  "type": "monster",
+  "name": "Guarda Misterioso",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "VIRE: Escolha 1 monstro com a face para cima no campo e, se você controlar um monstro Guerreiro, você pode escolher 1 monstro adicional com a face para cima no campo; coloque o primeiro alvo no topo do Deck e, depois, devolva o alvo adicional (se houver) para a mão se você ainda controlar um monstro Guerreiro.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Mago",
+    "Virar",
+    "Efeito"
+  ]
+}

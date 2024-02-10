@@ -1,0 +1,16 @@
+{
+  "id": 11635,
+  "type": "monster",
+  "name": "Malacoda, Niederherrscher des Brennenden Abgrunds",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Das Gute und das Böse des Brennenden Abgrunds“ als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 „Brennenden Abgrund“-Monster von deiner Hand auf den Friedhof legen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; das gewählte Ziel verliert bis zum Ende dieses Spielzugs ATK und DEF in Höhe der ATK und DEF des „Brennenden Abgrund“-Monsters, das auf diese Art auf den Friedhof gelegt wurde. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 Karte auf dem Spielfeld wählen; lege sie auf den Friedhof.",
+  "level": 6,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Effekt"
+  ]
+}

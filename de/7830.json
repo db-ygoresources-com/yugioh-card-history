@@ -1,0 +1,16 @@
+{
+  "id": 7830,
+  "type": "monster",
+  "name": "Wurm Hoffnung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Wenn diese Karte durch den Angriff eines Monsters deines Gegners aufgedeckt wird, ziehe 1 Karte. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird, lege 1 Karte von deiner Hand auf den Friedhof.",
+  "level": 1,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

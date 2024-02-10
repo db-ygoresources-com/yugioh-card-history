@@ -1,0 +1,16 @@
+{
+  "id": 4969,
+  "type": "monster",
+  "name": "Verwandlungskrug #2",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Mische alle Monster auf dem Spielfeld ins Deck. Dann gräbt jeder Spieler die obersten Karten seines Decks aus, bis er dieselbe Anzahl Monster ausgegraben hat, die er in sein Main Deck gemischt hat. Beschwört alle ausgegrabenen Monster der Stufe 4 oder niedriger als Spezialbeschwörung in die verdeckte Verteidigungsposition, zusätzlich legt die übrigen Karten auf den Friedhof.",
+  "level": 3,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

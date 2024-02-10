@@ -1,0 +1,16 @@
+{
+  "id": 8195,
+  "type": "monster",
+  "name": "Dreiköpfiger Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger-Monster vom Typ Drache + 1 oder mehr Nicht-Empfänger-Monster vom Typ Drache\nMuss als Synchrobeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Wenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst bis zu 2 andere Karten wählen, die du kontrollierst; zerstöre die gewählten Ziele und falls du dies tust, erhält diese Karte während jeder Battle Phase in diesem Spielzug für jede zerstörte Karte 1 zusätzlichen Angriff.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2800,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

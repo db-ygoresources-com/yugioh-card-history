@@ -1,0 +1,16 @@
+{
+  "id": 8257,
+  "type": "monster",
+  "name": "Wurm Victory",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Zerstöre alle offenen Monster auf dem Spielfeld, außer „Wurm“-Monstern vom Typ Reptil. Diese Karte erhält 500 ATK für jedes „Wurm“-Monster vom Typ Reptil in deinem Friedhof.",
+  "level": 7,
+  "atk": 0,
+  "def": 2500,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

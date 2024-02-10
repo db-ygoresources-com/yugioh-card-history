@@ -1,0 +1,19 @@
+{
+  "id": 14197,
+  "type": "monster",
+  "name": "Außerirdischer Schocksoldat M-Frame",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Reptil-Monster\n(Schnelleffekt): Du kannst 1 Monster abwerfen; lege A-Zählmarken in Höhe seiner Grund-Stufe auf ein oder mehr offene Monster auf dem Spielfeld, verteilt wie du möchtest. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst Reptil-Nichtlink-Monster mit unterschiedlichen Namen bis zur Anzahl der Monster mit A-Zählmarken, die dein Gegner kontrolliert, als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Außerirdischer Schocksoldat M-Frame“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1900,
+  "properties": [
+    "Reptil",
+    "Link",
+    "Effekt"
+  ]
+}

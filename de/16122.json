@@ -1,0 +1,16 @@
+{
+  "id": 16122,
+  "type": "monster",
+  "name": "Stagseglerin Romarin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "(Schnelleffekt): Du kannst 1 offenes Monster wählen, das du kontrollierst; lege 1 anderes Pflanze-Monster, das du kontrollierst, auf den Friedhof und falls du dies tust, wird das als Ziel gewählte Monster das nächste Mal in diesem Spielzug, wenn es durch Kampf oder einen Karteneffekt zerstört würde, nicht zerstört. Falls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 Pflanze-Monster der Stufe 5 oder niedriger von deinem Deck oder Extra Deck auf den Friedhof legen. Du kannst jeden Effekt von „Stagseglerin Romarin“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 300,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

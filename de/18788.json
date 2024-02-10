@@ -1,0 +1,16 @@
+{
+  "id": 18788,
+  "type": "monster",
+  "name": "Radsynchron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte, die du kontrollierst, als Synchromaterial verwendet wird, kannst du sie als Nicht-Empfänger behandeln. Du kannst jeden der folgenden Effekte von „Radsynchron“ nur einmal pro Spielzug verwenden. Während deiner Main Phase kannst du: Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Monster der Stufe 4 oder niedriger als Normalbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Synchromonstern. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Synchromonster wählen, das du kontrollierst; verringere seine Stufe um bis zu 4.",
+  "level": 5,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

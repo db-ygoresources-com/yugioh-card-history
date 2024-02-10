@@ -1,0 +1,16 @@
+{
+  "id": 12775,
+  "type": "monster",
+  "name": "Windhexe - Kristallglocke",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "„Windhexe - Winterglocke“ + 1 „Windhexe“-Monster\nDu kannst 1 Monster im Friedhof eines beliebigen Spielers wählen; bis zur End Phase wird der Name dieser Karte derselbe wie der Grund-Name des gewählten Ziels und ersetze diesen Effekt durch die Grund-Effekte des gewählten Ziels. Falls diese Karte, die dir gehört, durch eine Karte deines Gegners (durch Kampf oder einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 „Windhexe - Winterglocke“ und 1 „Windhexe“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre sie als Spezialbeschwörung. Du kannst jeden Effekt von „Windhexe - Kristallglocke“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

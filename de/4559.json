@@ -1,0 +1,15 @@
+{
+  "id": 4559,
+  "type": "monster",
+  "name": "Pilzmann #2",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte offen auf dem Spielfeld liegt, verursacht sie bei dem Spieler, der sie kontrolliert, in jeder seiner Standby Phasen 300 Punkte Schaden. Die Kontrolle dieser Karte geht auf den Gegner über, wenn der Spieler, der sie kontrolliert, in seiner End Phase 500 Life Points bezahlt.",
+  "level": 3,
+  "atk": 1250,
+  "def": 800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

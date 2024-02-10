@@ -1,0 +1,18 @@
+{
+  "id": 12295,
+  "type": "monster",
+  "name": "Pêndulo Lector, o Dracosuserano",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "No começo da Etapa de Dano, se este card batalhar um Monstro Pêndulo: destrua tanto esse monstro como este card.",
+  "pendEffect": "Negue os efeitos de Monstros Pêndulo com a face para cima enquanto seu oponente os controlar.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1950,
+  "def": 0,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

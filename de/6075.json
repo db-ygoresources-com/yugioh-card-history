@@ -1,0 +1,15 @@
+{
+  "id": 6075,
+  "type": "monster",
+  "name": "Gesicht des Todes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Mische alle verbannten Karten ins Deck. Diese Karte erhält für jede Karte, die durch diesen Effekt ins Main Deck gemischt wird, 100 ATK. Falls diese Karte verbannt wird: Jeder Spieler verbannt die obersten 5 Karten seines Decks (oder sein gesamtes Deck, falls weniger als 5).",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

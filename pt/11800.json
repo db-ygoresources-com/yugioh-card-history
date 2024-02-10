@@ -1,0 +1,15 @@
+{
+  "id": 11800,
+  "type": "monster",
+  "name": "Camaramágico Come Chamas",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Durante o turno de qualquer duelista, quando um card ou efeito que causaria dano a você for ativado: você pode ativar este efeito; você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros \"Camaramágico\" e, além disso, Invoque este card por Invocação-Especial da sua mão e, se isso acontecer, transforme em 0 esse dano de efeito a você. Se Invocado desta forma, bana-o quando ele deixar o campo. Se este card for Invocado por Invocação-Normal ou Especial: cada duelista sofre 500 de dano.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

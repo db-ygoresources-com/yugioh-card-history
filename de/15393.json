@@ -1,0 +1,15 @@
+{
+  "id": 15393,
+  "type": "monster",
+  "name": "Gerätewesen Dosentroll",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du ein „Gerätewesen“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls ein anderes „Gerätewesen Dosentroll“ als Spezialbeschwörung auf deine Spielfeldseite beschworen wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst 1 „Gerätewesen Dosentroll“ als Spezialbeschwörung von deinem Deck beschwören. Du kannst jeden Effekt von „Gerätewesen Dosentroll“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

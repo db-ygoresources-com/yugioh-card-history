@@ -1,0 +1,15 @@
+{
+  "id": 8455,
+  "type": "monster",
+  "name": "Reptilianische Gorgon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte ein Monster angreift, nach der Schadensberechnung: Die ATK des Monsters werden zu 0, zusätzlich kann es seine Kampfposition nicht ändern.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

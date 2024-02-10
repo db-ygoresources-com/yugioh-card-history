@@ -1,0 +1,15 @@
+{
+  "id": 7247,
+  "type": "monster",
+  "name": "Köderdrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Ziel für einen Angriff gewählt wird: Wähle 1 Drache-Monster der Stufe 7 oder höher in deinem Friedhof; beschwöre es als Spezialbeschwörung und falls du dies tust, ändere das Angriffsziel darauf und führe die Schadensberechnung durch.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

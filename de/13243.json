@@ -1,0 +1,15 @@
+{
+  "id": 13243,
+  "type": "monster",
+  "name": "Metaphysischer Vollstrecker",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 5 „Metaphys“-Karten mit unterschiedlichen Namen von deinem Friedhof und/oder offen von deiner Spielfeldseite verbannst. Kann durch Karteneffekte weder zerstört noch verbannt werden. Einmal pro Spielzug, falls dein Gegner mehr Karten kontrolliert als du: Du kannst 1 deiner verbannten „Metaphys“-Monster wählen; beschwöre es als Spezialbeschwörung, aber verbanne es während der End Phase des nächsten Spielzugs.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

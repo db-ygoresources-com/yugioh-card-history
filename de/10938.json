@@ -1,0 +1,16 @@
+{
+  "id": 10938,
+  "type": "monster",
+  "name": "Alsei, der sylvanische Oberbeschützer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 8\nEinmal pro Spielzug: Du kannst 1 Kartennamen deklarieren; grabe die oberste Karte deines Decks aus und falls es die deklarierte Karte ist, füge sie deiner Hand hinzu. Lege sie andernfalls auf den Friedhof. Falls eine oder mehr Karten durch einen Karteneffekt von deinem Deck auf den Friedhof gelegt werden (außer während des Damage Steps): Du kannst 1 Material von dieser Karte abhängen und dann 1 Karte auf dem Spielfeld wählen; lege jenes gewählte Ziel entweder aufs oder unters Deck. Du kannst diesen Effekt von „Alsei, der sylvanische Oberbeschützer“ nur einmal pro Spielzug verwenden.",
+  "rank": 8,
+  "atk": 2300,
+  "def": 3200,
+  "properties": [
+    "Pflanze",
+    "Xyz",
+    "Effekt"
+  ]
+}

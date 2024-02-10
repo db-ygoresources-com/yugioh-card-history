@@ -1,0 +1,15 @@
+{
+  "id": 10919,
+  "type": "monster",
+  "name": "Xamã do Coveiro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Ganha 200 de DEF para cada monstro \"do Coveiro\" no seu Cemitério. Negue todos os efeitos de monstro que ativam no Cemitério, exceto de monstros \"do Coveiro\". Enquanto \"Necro-Vale\" estiver no campo, seu oponente não pode ativar Cards de Magia de Campo e, além disso, Cards de Magia de Campo não podem ser destruídos por efeitos de card do seu oponente.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10444,
+  "type": "monster",
+  "name": "Soldado Técnico Uivo de Lobo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Você pode escolher 1 monstro Besta-Guerreira de FOGO de Nível 4 no seu Cemitério; Invoque-o por Invocação-Especial em Posição de Defesa, mas negue seus efeitos. Você só pode usar este efeito de \"Soldado Técnico Uivo de Lobo\" uma vez por turno.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Besta-Guerreira",
+    "Efeito"
+  ]
+}

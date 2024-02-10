@@ -1,0 +1,15 @@
+{
+  "id": 8420,
+  "type": "monster",
+  "name": "Golemdrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Dein Gegner kann keine offenen Monster vom Typ Drache als Angriffsziel wählen, außer diesem.",
+  "level": 4,
+  "atk": 200,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

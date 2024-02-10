@@ -1,0 +1,15 @@
+{
+  "id": 13660,
+  "type": "monster",
+  "name": "Bravo, o Lutador de Peluguel",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Durante sua Fase Principal: você pode Invocar por Invocação-Especial 1 monstro \"de Peluguel\" da sua mão, exceto \"Bravo, o Lutador de Peluguel\". Se um monstro \"de Peluguel\" for Invocado por Invocação-Especial no seu campo enquanto você controlar este monstro (exceto durante a Etapa de Dano): você pode fazer com que todos os monstros \"de Peluguel\" atualmente no campo ganhem 500 de ATK/DEF até o final deste turno. Você só pode usar cada efeito de \"Bravo, o Lutador de Peluguel\" uma vez por turno.",
+  "level": 4,
+  "atk": 1900,
+  "def": 200,
+  "properties": [
+    "Réptil",
+    "Efeito"
+  ]
+}

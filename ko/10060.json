@@ -1,0 +1,16 @@
+{
+  "id": 10060,
+  "type": "monster",
+  "name": "앱소브 포드",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "리버스 : 필드 위에 세트된 마법 / 함정 카드를 전부 파괴한다. 파괴된 카드의 컨트롤러는, 파괴된 수만큼 덱에서 카드를 드로우한다. 이 턴에, 자신은 카드를 세트할 수 없다.",
+  "level": 3,
+  "atk": 600,
+  "def": 500,
+  "properties": [
+    "암석족",
+    "리버스",
+    "효과"
+  ]
+}

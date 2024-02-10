@@ -1,0 +1,15 @@
+{
+  "id": 8909,
+  "type": "monster",
+  "name": "Vylon-Lader",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Alle offenen LICHT Monster, die du kontrollierst, erhalten 300 ATK für jede Ausrüstungskarte, mit der diese Karte ausgerüstet ist.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

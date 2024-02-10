@@ -1,0 +1,15 @@
+{
+  "id": 16215,
+  "type": "monster",
+  "name": "Diplomann des Meisters",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Tributbeschwörung beschworen wird: Du kannst 1 Monster in deinem Friedhof und 1 offenes Monster, das dein Gegner kontrolliert, wählen; rüste jenes Monster des Gegners mit dem Monster von deinem Friedhof aus. Solange das Monster durch diesen Effekt ausgerüstet ist, verliert es ATK in Höhe der ATK jenes Monsters, mit dem es ausgerüstet ist. Dein Gegner kann die Effekte von Monstern, die er kontrolliert und die mit Ausrüstungskarten in deinen Zauber- & Fallenzonen ausgerüstet sind, nicht aktivieren.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

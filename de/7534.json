@@ -1,0 +1,16 @@
+{
+  "id": 7534,
+  "type": "monster",
+  "name": "Flamvell-Magier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Erhält 400 ATK, solange du ein „Verbündeter der Gerechtigkeit“-Monster kontrollierst.",
+  "level": 4,
+  "atk": 1400,
+  "def": 200,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

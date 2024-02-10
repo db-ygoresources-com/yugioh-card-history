@@ -1,0 +1,15 @@
+{
+  "id": 7024,
+  "type": "monster",
+  "name": "엘리멘틀 히어로 레이디 오브 파이어",
+  "englishAttribute": "fire",
+  "localizedAttribute": "화염",
+  "effectText": "자신 턴의 엔드 페이즈시, 자신 필드 위에 앞면 표시로 존재하는 \"엘리멘틀 히어로\"라는 이름이 붙은 몬스터의 수 × 200 포인트 데미지를 상대 라이프에 준다.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1000,
+  "properties": [
+    "화염족",
+    "효과"
+  ]
+}

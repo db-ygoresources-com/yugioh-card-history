@@ -1,0 +1,15 @@
+{
+  "id": 4250,
+  "type": "monster",
+  "name": "마그맨",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "마그마 속에서 태어난 몬스터. 접근하는 자는 뜨거운 열로 순식간에 녹여버린다.",
+  "level": 3,
+  "atk": 900,
+  "def": 1000,
+  "properties": [
+    "암석족",
+    "일반"
+  ]
+}

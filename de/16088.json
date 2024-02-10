@@ -1,0 +1,18 @@
+{
+  "id": 16088,
+  "type": "monster",
+  "name": "SolSolfakkord Gracia",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du einen geraden Pendelbereich in deiner Pendelzone hast, falls dein „Solfakkord“-Pendelmonster angreift, kann dein Gegner bis zum Ende des Damage Steps keine Monstereffekte aktivieren. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Solfakkord“-Zauber/Falle von deinem Deck hinzufügen. Du kannst diesen Effekt von „SolSolfakkord Gracia“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Dein Gegner kann weder eine Zauber-/Fallenkarte noch einen Monstereffekt aktivieren, wenn dein oder deine „Solfakkord“-Pendelmonster als Pendelbeschwörung beschworen werden.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

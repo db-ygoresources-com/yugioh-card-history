@@ -1,0 +1,21 @@
+{
+  "id": 14297,
+  "type": "monster",
+  "name": "Mekk-Ritter Crusadia Avramax",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Monster, die als Spezialbeschwörung vom Extra Deck beschworen wurden\nSolange diese als Linkbeschwörung beschworene Karte auf dem Spielfeld liegt, kann dein Gegner diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich können seine Monster keine Monster als Angriffsziel wählen, außer diesem. Einmal pro Kampf, während der Schadensberechnung, falls diese Karte gegen ein als Spezialbeschwörung beschworenes Monster kämpft (Schnelleffekt): Du kannst diese Karte nur während jener Schadensberechnung ATK in Höhe der ATK jenes Monsters des Gegners erhalten lassen. Falls diese als Linkbeschwörung beschworene Karte, die du kontrollierst, durch eine Karte eines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 Karte auf dem Spielfeld ins Deck mischen.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

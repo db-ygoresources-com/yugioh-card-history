@@ -1,0 +1,18 @@
+{
+  "id": 12277,
+  "type": "monster",
+  "name": "Künstlerkumpel Glühluchs",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein „Künstlerkumpel“- oder „Buntäugig“-Monster angreift, das du kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren.",
+  "pendEffect": "Einmal pro Spielzug, wenn ein Monster deines Gegners einen Angriff deklariert: Du kannst 1 „Künstlerkumpel“-Monster als Tribut anbieten; annulliere den Angriff, dann beende die Battle Phase.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 1600,
+  "properties": [
+    "Insekt",
+    "Pendel",
+    "Effekt"
+  ]
+}

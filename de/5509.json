@@ -1,0 +1,16 @@
+{
+  "id": 5509,
+  "type": "monster",
+  "name": "Grabwächters Spion",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Beschwöre 1 „Grabwächter“-Monster mit 1500 oder weniger ATK als Spezialbeschwörung von deinem Deck.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

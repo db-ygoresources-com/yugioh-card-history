@@ -1,0 +1,16 @@
+{
+  "id": 9377,
+  "type": "monster",
+  "name": "Vylon Stella",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte von der Monsterkartenzone auf den Friedhof gelegt wird: Du kannst 500 Life Points zahlen und dann 1 offenes Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus. Am Ende des Damage Steps, falls das ausgerüstete Monster gegen ein Monster deines Gegners gekämpft hat: Zerstöre das Monster deines Gegners.",
+  "level": 3,
+  "atk": 1400,
+  "def": 200,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

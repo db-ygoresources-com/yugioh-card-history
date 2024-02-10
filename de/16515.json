@@ -1,0 +1,16 @@
+{
+  "id": 16515,
+  "type": "monster",
+  "name": "Imitierender Menschenfresserkäfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Wähle 1 Monster auf dem Spielfeld; zerstöre es und falls du dies tust, erhält diese Karte ATK in Höhe der Grund-ATK jenes Monsters, dann kannst du den Typ dieser Karte in den Grund-Typ jenes Monsters ändern.\nKann nicht durch Kampf zerstört werden. Kann nicht durch die Effekte von Monstern mit demselben Typ zerstört werden.",
+  "level": 4,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

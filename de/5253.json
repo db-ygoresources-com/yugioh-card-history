@@ -1,0 +1,15 @@
+{
+  "id": 5253,
+  "type": "monster",
+  "name": "Wassergeist",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 WASSER Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während der Standby Phase deines Gegners: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere die Kampfposition jenes gewählten Ziels und falls du dies tust, kann es für den Rest dieses Spielzugs seine Kampfposition nicht ändern.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

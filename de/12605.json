@@ -1,0 +1,16 @@
+{
+  "id": 12605,
+  "type": "monster",
+  "name": "Kristron Quan",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während der Main Phase oder Battle Phase deines Gegners: Du kannst 1 Nicht-Empfänger-Monster als Spezialbeschwörung von deiner Hand beschwören, aber seine Effekte bleiben annulliert (falls es welche hat), und falls du dies tust, sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Synchromonster vom Typ Maschine als Synchrobeschwörung und verwende dafür nur das Monster und diese Karte. (Dies ist ein Schnelleffekt.) Du kannst diesen Effekt von „Kristron Quan“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

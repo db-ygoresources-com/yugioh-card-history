@@ -1,0 +1,19 @@
+{
+  "id": 15467,
+  "type": "monster",
+  "name": "Daidaratant, o Gigante de Gosma",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "2 monstros de Nível 4\nSe você puder Invocar por Invocação-Pêndulo de Nível 4, você pode Invocar este card com a face para cima do seu Deck Adicional por Invocação-Pêndulo. Você pode desassociar 1 matéria deste card; coloque este card na sua Zona de Pêndulo e, depois, você pode adicionar 1 Monstro Pêndulo do seu Cemitério para o Deck Adicional com a face para cima. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Daidaratant, o Gigante de Gosma\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 Monstro Xyz que você controla; associe este card a ele como matéria. Você só pode usar este efeito de \"Daidaratant, o Gigante de Gosma\" uma vez por turno.",
+  "pendScale": 3,
+  "rank": 4,
+  "atk": 2400,
+  "def": 400,
+  "properties": [
+    "Zumbi",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

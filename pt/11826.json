@@ -1,0 +1,18 @@
+{
+  "id": 11826,
+  "type": "monster",
+  "name": "Arquidemônio Excêntruque",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode oferecer este card como Tributo e, depois, escolha 1 monstro no campo; destrua-o. Você só pode usar este efeito de \"Arquidemônio Excêntruque\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 outra Magia/Armadilha no campo; destrua tanto ela como este card. Você só pode usar este efeito de \"Arquidemônio Excêntruque\" uma vez por turno.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15829,
+  "type": "monster",
+  "name": "Offenbarerin der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du ein anderes „Eisbarriere“-Monster kontrollierst, kann dein Gegner keine Tributbeschwörungen durchführen. Du kannst jeden der folgenden Effekte von „Offenbarerin der Eisbarriere“ nur einmal pro Spielzug verwenden. Du kannst 1 Karte abwerfen; beschwöre 1 „Eisbarriere“-Empfänger als Spezialbeschwörung von deinem Deck, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer WASSER Monstern. Falls du eine oder mehr Karten von deiner Hand auf den Friedhof abwerfen oder legen würdest, um den Effekt eines „Eisbarriere“-Monsters zu aktivieren, kannst du statt 1 der Karten diese Karte von deinem Friedhof verbannen.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

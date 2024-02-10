@@ -1,0 +1,19 @@
+{
+  "id": 12883,
+  "type": "monster",
+  "name": "Velocidaroide Borboleta Dominó",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Não pode ser usado como uma Matéria Sincro, exceto para a Invocação Sincro de um Monstro Sincro de VENTO do Tipo Dragão ou Máquina. Se este card, Invocado por Invocação-Especial do Deck Adicional, for usado como uma Matéria para uma Invocação-Sincro, bana-o.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros de VENTO. Este efeito não pode ser negado. Você pode descartar 1 monstro de VENTO e, depois, escolher 1 de seus monstros de VENTO banidos; adicione-o à sua mão. Você só pode usar este efeito de \"Velocidaroide Borboleta Dominó\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 100,
+  "def": 300,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

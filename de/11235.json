@@ -1,0 +1,16 @@
+{
+  "id": 11235,
+  "type": "monster",
+  "name": "Schattenpuppe Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück.\nFalls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie. Du kannst nur 1 Effekt von „Schattenpuppe Drache“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 4,
+  "atk": 1900,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

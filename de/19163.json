@@ -1,0 +1,15 @@
+{
+  "id": 19163,
+  "type": "monster",
+  "name": "UFOLicht",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Dein Gegner kann diese Karte auf dem Spielfeld nicht als Ziel für Karteneffekte wählen, außer während der Battle Phase. Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Während der End Phase: Du kannst 1 Karte ziehen, dann musst du eine beliebige Anzahl Karten von deiner Hand (min. 1) verbannen und falls du dies tust, erhält diese Karte für jede 500 ATK. Du kannst diesen Effekt von „UFOLicht“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Typ Illusion",
+    "Effekt"
+  ]
+}

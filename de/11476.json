@@ -1,0 +1,18 @@
+{
+  "id": 11476,
+  "type": "monster",
+  "name": "Yosenju Shinchu L",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Ändere sie in die Verteidigungsposition. Dein Gegner kann keine „Yosenju“-Monster, die du kontrollierst, als Ziel für Karteneffekte wählen, außer diesem.",
+  "pendEffect": "Falls ein oder mehr „Yosenju“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Fels",
+    "Pendel",
+    "Effekt"
+  ]
+}

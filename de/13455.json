@@ -1,0 +1,17 @@
+{
+  "id": 13455,
+  "type": "monster",
+  "name": "Martialischer Metallmarschierer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Empfänger in deinem Friedhof wählen; beschwöre ihn als Spezialbeschwörung in die Verteidigungsposition, aber annulliere seine Effekte. Du kannst diesen Effekt von „Martialischer Metallmarschierer“ nur einmal pro Spielzug verwenden. Ein Synchromonster, das diese Karte als Material verwendet hat, wird als Empfänger behandelt, solange es offen auf dem Spielfeld liegt.",
+  "level": 3,
+  "atk": 500,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10654,
+  "type": "monster",
+  "name": "Drehaugen-Schlagzeugdrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster vom Typ Maschine der Stufe 8\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen; sie erhält bis zum Ende des nächsten Spielzugs deines Gegners 1000 ATK. Falls diese Karte zerstört wird, solange sie Xyz-Material hat: Du kannst 1 „Superverteidigungsroboter“-Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof, dann kannst du 1 „Superverteidigungsroboter“-Monster von deinem Friedhof als Xyz-Material an diese Karte anhängen.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

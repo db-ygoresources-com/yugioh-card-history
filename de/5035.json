@@ -1,0 +1,16 @@
+{
+  "id": 5035,
+  "type": "monster",
+  "name": "Maul des Dunklen Untergangs",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "FLIPP: Übernimm die Kontrolle über 1 Monster auf der Spielfeldseite deines Gegners bis zum Ende des Spielzugs, in dem der Effekt dieser Karte aktiviert wurde. Wenn das kontrollierte Monster angreift, kann es die Life Points deines Gegners direkt angreifen.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5773,
+  "type": "monster",
+  "name": "Arquidemônio Cavaleiro das Trevas",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Uma vez por turno, durante sua Fase de Apoio, você deve pagar 900 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha este card como alvo, lance um dado de seis faces e negue esse efeito se o resultado for um 3 e, se isso acontecer, destrua esse card. Qualquer dano de batalha que este card causar ao seu oponente é diminuído pela metade.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

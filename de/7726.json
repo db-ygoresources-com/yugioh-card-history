@@ -1,0 +1,15 @@
+{
+  "id": 7726,
+  "type": "monster",
+  "name": "Ungeheuer des Pharao",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte für eine Synchrobeschwörung auf den Friedhof gelegt wird: Du kannst 1 Zombie-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "level": 3,
+  "atk": 400,
+  "def": 600,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

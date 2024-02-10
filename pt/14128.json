@@ -1,0 +1,18 @@
+{
+  "id": 14128,
+  "type": "monster",
+  "name": "Dragão-Guarda Elpy",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 monstro Dragão de Nível 4 ou menos\nVocê não pode Invocar monstros por Invocação-Especial, exceto monstros Dragão. Durante sua Fase Principal: você pode Invocar por Invocação-Especial 1 monstro Dragão da sua mão ou do Deck em uma zona sua para a qual 2 ou mais Monstros Link apontarem. Você só pode usar este efeito de \"Dragão-Guarda Elpy\" uma vez por turno. Você só pode Invocar um ou mais \"Dragão-Guarda Elpy\" por Invocação-Especial uma vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "4"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Dragão",
+    "Link",
+    "Efeito"
+  ]
+}

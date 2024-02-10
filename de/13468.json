@@ -1,0 +1,15 @@
+{
+  "id": 13468,
+  "type": "monster",
+  "name": "Parasiten-Paranoid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "(Schnelleffekt): Du kannst 1 offenes Monster auf dem Spielfeld wählen; rüste jenes gewählte Ziel mit dieser Karte von deiner Hand aus. Das ausgerüstete Monster wird zu einem Insekt-Monster, kann keine Insekt-Monster angreifen, zusätzlich werden seine Effekte annulliert, die aktiviert werden, indem ein oder mehr Insekt-Monster als Ziel gewählt werden. Du kannst diesen Effekt von „Parasiten-Paranoid“ nur einmal pro Spielzug verwenden. Falls diese Ausrüstungskarte auf den Friedhof gelegt wird: Du kannst 1 Insekt-Monster der Stufe 7 oder höher als Spezialbeschwörung von deiner Hand beschwören, ungeachtet seiner Beschwörungsbedingungen.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

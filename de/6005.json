@@ -1,0 +1,15 @@
+{
+  "id": 6005,
+  "type": "monster",
+  "name": "Rückkehrzombie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während deiner Standby Phase: Du kannst 500 Life Points zahlen; füge diese Karte deiner Hand von deinem Friedhof hinzu. Du darfst keine Karten in deiner Hand haben, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1600,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

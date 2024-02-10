@@ -1,0 +1,18 @@
+{
+  "id": 15398,
+  "type": "monster",
+  "name": "Utensilhor Aspilefante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 monstro \"Utensilhor\"\nNão pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Pode atacar diretamente enquanto não estiver co-linkado. Você pode enviar 1 card da sua mão para o Cemitério e, depois, escolha 1 card que seu oponente controla; destrua-o. Se este card estiver co-linkado: você pode escolher 1 monstro na Zona de Monstros Principal do seu oponente; destrua-o. Você só pode usar 1 efeito de \"Utensilhor Aspilefante\" por turno e apenas uma vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "9"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Máquina",
+    "Link",
+    "Efeito"
+  ]
+}

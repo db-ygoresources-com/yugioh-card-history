@@ -1,0 +1,16 @@
+{
+  "id": 5514,
+  "type": "monster",
+  "name": "墓守の監視者",
+  "nameRuby": "はかもりのかんししゃ",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "相手プレイヤーが自らの手札を捨てる効果を含むカードを発動した時、このカードを手札から墓地に送る事で、その発動と効果を無効にしてそのカードを破壊する。",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "魔法使い族",
+    "効果"
+  ]
+}

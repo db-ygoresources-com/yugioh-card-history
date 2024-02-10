@@ -1,0 +1,16 @@
+{
+  "id": 8654,
+  "type": "monster",
+  "name": "Monddrache Quilla",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Supay“ + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Angriffsziel gewählt wird: Du erhältst LP in Höhe der Hälfte der ATK des angreifenden Monsters. Falls diese Karte auf dem Spielfeld zerstört wird: Du kannst 1 „Sonnendrache Inti“ in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

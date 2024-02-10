@@ -1,0 +1,15 @@
+{
+  "id": 13067,
+  "type": "monster",
+  "name": "Bestrafungsdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem dir 4 oder mehr verbannte „Lichtverpflichtet“-Monster mit unterschiedlichen Namen gehören. Einmal pro Spielzug (Schnelleffekt): Du kannst 1000 LP zahlen; mische alle Karten in den Friedhöfen und alle offenen verbannten Karten, außer „Lichtverpflichtet“-Monstern, ins Deck. Einmal pro Spielzug, falls der Effekt deines „Lichtverpflichtet“-Monster aktiviert wird: Lege die obersten 4 Karten deines Decks auf den Friedhof.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2600,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

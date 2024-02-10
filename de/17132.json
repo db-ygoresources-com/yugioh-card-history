@@ -1,0 +1,19 @@
+{
+  "id": 17132,
+  "type": "monster",
+  "name": "Symphonischer Krieger Gi-i-itarre",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls „Symph-Verstärkofeuer“ in deiner Spielfeldzone liegt: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Karte in deiner Pendelzone wählen; gib sie auf die Hand zurück. Du kannst jeden Effekt von „Symphonischer Krieger Gi-i-itarre“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 andere „Symphonischer Krieger“-Karte wählen, die du kontrollierst; gib sowohl jene Karte als auch diese Karte auf die Hand zurück. Du kannst diesen Effekt von „Symphonischer Krieger Gi-i-itarre“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1100,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

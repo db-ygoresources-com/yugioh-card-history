@@ -1,0 +1,16 @@
+{
+  "id": 15321,
+  "type": "monster",
+  "name": "Goldhaar, die Plünderpatrouillen-Novizin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 andere „Plünderpatrouillen“-Monsterkarte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung, aber du kannst für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Plünderpatrouillen“-Monstern. Du kannst jeden Effekt von „Goldhaar, die Plünderpatrouillen-Novizin“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

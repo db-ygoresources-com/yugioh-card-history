@@ -1,0 +1,19 @@
+{
+  "id": 13122,
+  "type": "monster",
+  "name": "Buntäugiger Flügeldrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 FINSTERNIS Empfänger + 1 „Glasflügel“-Nicht-Empfänger-Monster\nFalls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst nur 1 der folgenden Effekte von „Buntäugiger Flügeldrache“ pro Spielzug verwenden und in jenem Spielzug nur einmal.\n●Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs seine Effekte.\n●Während der Battle Phase, falls du diese als Synchrobeschwörung beschworene Karte kontrollierst (Schnelleffekt): Du kannst alle Monster der Stufe 5 oder höher zerstören, die dein Gegner kontrolliert.",
+  "pendEffect": "Einmal pro Spielzug, vor der Schadensberechnung, falls dein Monster gegen ein Monster eines Gegners kämpft: Du kannst dein Monster bis zum Ende des Damage Steps ATK in Höhe der ATK des Monsters des Gegners erhalten lassen.",
+  "pendScale": 10,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8030,
+  "type": "monster",
+  "name": "Kreuzschwertkäfer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange du ein anderes Insekt-Monster kontrollierst, falls ein Insekt-Monster, das du kontrollierst, ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

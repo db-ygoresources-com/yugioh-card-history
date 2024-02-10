@@ -1,0 +1,18 @@
+{
+  "id": 12409,
+  "type": "monster",
+  "name": "D/D Sábio Thomas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode escolher 1 card \"D/D\" na sua Zona de Pêndulo; destrua esse card e, se isso acontecer, Invoque por Invocação-Especial do seu Deck 1 monstro \"D/D/D\" de Nível 8 em Posição de Defesa, mas pelo resto deste turno, seus efeitos (se houver) são negados e, além disso, qualquer dano de batalha que seu oponente sofrer é diminuído pela metade. Você só pode usar este efeito de \"D/D Sábio Thomas\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo \"D/D\" com a face para cima do seu Deck Adicional à sua mão. Você só pode usar este efeito de \"D/D Sábio Thomas\" uma vez por turno.",
+  "pendScale": 6,
+  "level": 8,
+  "atk": 1800,
+  "def": 2600,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11487,
+  "type": "monster",
+  "name": "Nekroz von Valkyrus",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte mit einem beliebigen „Nekroz“-Ritualzauber als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden, ohne Monster der Stufe 8 zu verwenden. Du kannst jeden dieser Effekte von „Nekroz von Valkyrus“ nur einmal pro Spielzug verwenden.\n●Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst 1 „Nekroz“-Karte von deinem Friedhof verbannen und diese Karte abwerfen; annulliere den Angriff, dann beende die Battle Phase.\n●Während deiner Main Phase: Du kannst bis zu 2 Monster von deiner Hand und/oder Spielfeldseite als Tribut anbieten und falls du dies tust, ziehe dieselbe Anzahl Karten, die du als Tribut angeboten hast.",
+  "level": 8,
+  "atk": 2900,
+  "def": 1700,
+  "properties": [
+    "Hexer",
+    "Ritual",
+    "Effekt"
+  ]
+}

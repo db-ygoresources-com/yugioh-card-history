@@ -1,0 +1,19 @@
+{
+  "id": 13421,
+  "type": "monster",
+  "name": "Zukleine Schimäre",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2 FEUER Monster\nAlle FEUER Monster auf dem Spielfeld erhalten 500 ATK/DEF, zusätzlich verlieren alle WASSER Monster auf dem Spielfeld 400 ATK/DEF. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 FEUER Monster in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Zukleine Schimäre“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1400,
+  "properties": [
+    "Ungeheuer",
+    "Link",
+    "Effekt"
+  ]
+}

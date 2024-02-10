@@ -1,0 +1,15 @@
+{
+  "id": 4498,
+  "type": "monster",
+  "name": "Hoshiningen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Alle LICHT Monster auf dem Spielfeld erhalten 500 ATK, zusätzlich verlieren alle FINSTERNIS Monster auf dem Spielfeld 400 ATK.",
+  "level": 2,
+  "atk": 500,
+  "def": 700,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

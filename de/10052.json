@@ -1,0 +1,15 @@
+{
+  "id": 10052,
+  "type": "monster",
+  "name": "Insektor Marienkäfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 2 erhöht, zusätzlich erhält es ATK/DEF in Höhe der ATK/DEF dieser Karte. Solange diese Karte ein Monster ausrüstet: Du kannst diese Ausrüstungskarte auf den Friedhof legen und dann 1 offenes Monster wählen, das du kontrollierst; erhöhe die Stufe des gewählten Ziels um 1 oder 2.",
+  "level": 2,
+  "atk": 500,
+  "def": 100,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

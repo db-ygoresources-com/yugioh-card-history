@@ -1,0 +1,17 @@
+{
+  "id": 16466,
+  "type": "monster",
+  "name": "Tiefsee-Korrepetitorin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "„Tiefseetaucher“ + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 WASSER Monster der Stufe 4 oder niedriger abwerfen; diese Karte erhält bis zum Ende dieses Spielzugs 800 ATK. Falls diese als Synchrobeschwörung beschworene Karte auf deinen Friedhof gelegt wird: Du kannst 1 WASSER Monster der Stufe 5 oder höher in deinem Friedhof wählen, außer „Tiefsee-Korrepetitorin“; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer WASSER Monstern. Du kannst diesen Effekt von „Tiefsee-Korrepetitorin“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Seeschlange",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

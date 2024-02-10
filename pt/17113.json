@@ -1,0 +1,18 @@
+{
+  "id": 17113,
+  "type": "monster",
+  "name": "Gentrude Camarartista",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for destruído: você pode colocar 1 Monstro Pêndulo \"Camarartista\" do seu Deck na sua Zona de Pêndulo, exceto \"Gentrude Camarartista\". Se este card estiver com a face para cima no seu Deck Adicional: você pode descartar 1 Monstro Pêndulo; adicione este card à sua mão e, depois, você pode devolver 1 card \"Camarartista\" ou \"Olhos Anômalos\" da sua Zona de Pêndulo para a mão. Você só pode usar 1 efeito de \"Gentrude Camarartista\" por turno e apenas uma vez por turno.",
+  "pendEffect": "Se \"Damange Camarartista\" estiver na sua outra Zona de Pêndulo e você não controlar nenhum monstro ou apenas Monstros Pêndulo: você pode adicionar 1 card \"Olhos Anômalos\" do seu Deck à sua mão. Você só pode usar este efeito de \"Gentrude Camarartista\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

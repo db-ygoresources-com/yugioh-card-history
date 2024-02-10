@@ -1,0 +1,18 @@
+{
+  "id": 11813,
+  "type": "monster",
+  "name": "Cavaleirardor Paladino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Este Cavaleirardor tem a reputação de um pensador com a cabeça tranquila. Mas a verdade é que suas emoções só demoram um pouco mais para esquentar.",
+  "pendEffect": "Se você tiver um card \"Cavaleirardor\" na sua outra Zona de Pêndulo: você pode destruir os dois cards nas suas Zonas de Pêndulo e, se isso acontecer, adicione 1 monstro de FOGO do Tipo Guerreiro do seu Deck ou Cemitério à sua mão.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1400,
+  "def": 1900,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

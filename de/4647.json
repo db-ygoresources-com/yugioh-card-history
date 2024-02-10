@@ -1,0 +1,16 @@
+{
+  "id": 4647,
+  "type": "monster",
+  "name": "Thronangreifer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Wähle 1 Monster auf der Spielfeldseite deines Gegners. Tausche die Kontrolle über das gewählte Monster und diese Karte. Dieser Effekt kann nicht in der Battle Phase aktiviert werden.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1700,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

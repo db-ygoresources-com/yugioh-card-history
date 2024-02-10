@@ -1,0 +1,16 @@
+{
+  "id": 17596,
+  "type": "monster",
+  "name": "Telefon Morfotrônico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "●Posição de Ataque: Uma vez por turno, durante sua Fase Principal: você pode lançar um dado de seis faces e ganhar PV igual ao resultado x 100 e, depois, você pode Invocar por Invocação-Especial 1 monstro \"Morfotrônico(a)\" do seu Cemitério com um Nível igual ou menor que o resultado.\n●Posição de Defesa: Uma vez por turno, durante sua Fase Principal: você pode lançar um dado de seis faces, escavar esse número de cards do topo do seu Deck (ou tantos quanto puder) e, se isso acontecer, você pode enviar 1 card \"Morfotrônico(a)\" escavado para o Cemitério e, além disso, coloque o resto de volta no topo ou no fundo do Deck em qualquer ordem.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Regulador",
+    "Efeito"
+  ]
+}

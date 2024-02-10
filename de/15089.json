@@ -1,0 +1,15 @@
+{
+  "id": 15089,
+  "type": "monster",
+  "name": "Maschinenwesen Zitadelle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. (Schnelleffekt): Du kannst 1 Maschine-Monster wählen, das du kontrollierst; zerstöre das Maschine-Monster und alle Monster mit weniger oder gleich viel ATK, die dein Gegner kontrolliert. Falls ein oder mehr offene ERDE Maschine-Monster, die du kontrollierst, außer „Maschinenwesen Zitadelle“, durch Kampf oder einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Maschinenwesen Zitadelle“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8571,
+  "type": "monster",
+  "name": "빙결계의 파술사",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "①: 자신 필드에 다른 \"빙결계\" 몬스터가 존재하는 한, 서로 마법 카드는 세트하지 않으면 발동할 수 없으며, 세트한 플레이어의 다음 자신 턴이 올 때까지 발동할 수 없다.",
+  "level": 3,
+  "atk": 400,
+  "def": 1000,
+  "properties": [
+    "마법사족",
+    "효과"
+  ]
+}

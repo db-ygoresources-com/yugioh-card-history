@@ -1,0 +1,16 @@
+{
+  "id": 6325,
+  "type": "monster",
+  "name": "Dummy-Golem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Dein Gegner wählt 1 Monster, das er kontrolliert. Tausche die Kontrolle über das gewählte Monster und diese Karte.",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Fels",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 16532,
+  "type": "monster",
+  "name": "Pitch-Amor",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Erhöhe oder verringere die Stufe dieser Karte um die Stufe, die der als Material verwendete Empfänger auf dem Spielfeld hatte. Diese Karte erhält ATK in Höhe ihrer Stufe x 400. Falls diese als Synchrobeschwörung beschworene Karte als Synchromaterial auf den Friedhof gelegt wird: Füge deinem Gegner Schaden in Höhe der Stufe des neu als Synchrobeschwörung beschworenen Monsters x 100 zu und falls du dies tust, kannst du deiner Hand 1 Monster der Stufe 8 oder niedriger mit 600 DEF von deinem Deck hinzufügen. Du kannst diesen Effekt von „Pitch-Amor“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 0,
+  "def": 600,
+  "properties": [
+    "Fee",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

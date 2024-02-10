@@ -1,0 +1,15 @@
+{
+  "id": 5417,
+  "type": "monster",
+  "name": "Dezard der Große",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn dieses Monster die folgende Anzahl von Monstern als Ergebnis eines Kampfes zerstört, werden die folgenden Effekte in dieser Reihenfolge aktiviert:\n1. Monster: Solange diese Karte offen auf dem Spielfeld liegt, annulliere die Aktivierungen und die Effekte aller Zauber- und Fallenkarten, die diese Karte als Ziel bestimmen, und zerstöre diese Karten.\n2. Monster: Du kannst 1 „Fushioh Richie“-Karte als Spezialbeschwörung aus deiner Hand oder aus deinem Deck beschwören, indem du diese Karte in deiner Main Phase als Tribut anbietest.",
+  "level": 6,
+  "atk": 1900,
+  "def": 2300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

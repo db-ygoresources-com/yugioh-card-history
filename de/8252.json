@@ -1,0 +1,16 @@
+{
+  "id": 8252,
+  "type": "monster",
+  "name": "Dunkeltau der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls alle offenen Monster, die du kontrollierst, Stufe 2 oder niedriger sind, kann diese Karte deinen Gegner direkt angreifen.",
+  "level": 2,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

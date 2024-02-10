@@ -1,0 +1,15 @@
+{
+  "id": 18815,
+  "type": "monster",
+  "name": "Verhängnisstern Ulka",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn genau 1 Monster, das du kontrollierst, (und keine anderen Monster) das Spielfeld durch einen Karteneffekt eines Gegners verlässt (außer während des Damage Steps): Du kannst diese Karte von deiner Hand oder deinem Friedhof verbannen; falls jenes Monster im Friedhof liegt oder offen verbannt ist, beschwöre es als Spezialbeschwörung, andernfalls beschwöre diese verbannte Karte als Spezialbeschwörung. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst diese Karte bis zum Ende des nächsten Spielzugs 1500 ATK erhalten lassen. Du kannst jeden Effekt von „Verhängnisstern Ulka“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 400,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

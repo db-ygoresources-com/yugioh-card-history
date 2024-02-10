@@ -1,0 +1,15 @@
+{
+  "id": 5048,
+  "type": "monster",
+  "name": "Flammentänzer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Dieses Monster bewegt sich vorwärts, während es ein brennendes Seil schwingt.",
+  "level": 2,
+  "atk": 550,
+  "def": 450,
+  "properties": [
+    "Pyro",
+    "Normal"
+  ]
+}

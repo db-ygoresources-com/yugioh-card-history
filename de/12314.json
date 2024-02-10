@@ -1,0 +1,15 @@
+{
+  "id": 12314,
+  "type": "monster",
+  "name": "Büroboter 009",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase 1: Du kannst diese Karte bis zum Ende des Spielzugs deines Gegners ATK in Höhe der Summe der ATK aller „Büroboter“-Monster, die du derzeit kontrollierst, außer „Büroboter 009“, erhalten lassen. Nur diese Karte kann in dem Spielzug angreifen, in dem dieser Effekt aktiviert wird. Falls diese Karte kämpft, können die Karten und Effekte deines Gegners bis zum Ende des Damage Steps nicht aktiviert werden. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 „Büroboter“-Karte zerstören, die du kontrollierst.",
+  "level": 9,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

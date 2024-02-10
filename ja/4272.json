@@ -1,0 +1,17 @@
+{
+  "id": 4272,
+  "type": "monster",
+  "name": "剣の女王",
+  "nameRuby": "つるぎのじょおう",
+  "englishAttribute": "wind",
+  "localizedAttribute": "風属性",
+  "effectText": "リバース：相手フィールド上に存在する魔法・罠カードの数×５００ポイントダメージを相手ライフに与える。",
+  "level": 3,
+  "atk": 900,
+  "def": 700,
+  "properties": [
+    "戦士族",
+    "リバース",
+    "効果"
+  ]
+}

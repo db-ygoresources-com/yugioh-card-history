@@ -1,0 +1,16 @@
+{
+  "id": 17777,
+  "type": "monster",
+  "name": "Naturia-Kamelie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Naturia“-Karte von deinem Deck auf den Friedhof legen. Falls du ein oder mehr Monster als Tribut anbieten würdest, um den Effekt eines „Naturia“-Monsters zu aktivieren, kannst du stattdessen die obersten 2 Karten deines Decks auf den Friedhof legen. Falls dein Gegner ein Monster als Normal- oder Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 „Naturia“-Monster als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Naturia-Kamelie“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

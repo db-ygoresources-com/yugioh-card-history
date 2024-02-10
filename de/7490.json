@@ -1,0 +1,15 @@
+{
+  "id": 7490,
+  "type": "monster",
+  "name": "Feuersoldat",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte beschworen wird, kannst du sie auf den Friedhof legen, um deinem Gegner 1000 Schaden zuzufügen.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

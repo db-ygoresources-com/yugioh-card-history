@@ -1,0 +1,15 @@
+{
+  "id": 11200,
+  "type": "monster",
+  "name": "Vampirverführerin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, wenn diese Karte oder ein „Vampir“-Monster als Normalbeschwörung auf deine Spielfeldseite beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert und dessen ATK höher sind als die dieser Karte; rüste diese Karte damit aus. Diese Karte erhält ATK in Höhe der kombinierten Grund-ATK der Monster, mit denen sie durch diesen Effekt ausgerüstet ist. Falls diese Karte auf den Friedhof gelegt wird, solange sie durch diesen Effekt mit einer oder mehr Karten ausgerüstet ist: Beschwöre diese Karte als Spezialbeschwörung.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

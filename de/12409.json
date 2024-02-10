@@ -1,0 +1,18 @@
+{
+  "id": 12409,
+  "type": "monster",
+  "name": "D/D-Gelehrter Thomas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 „D/D“-Karte in deiner Pendelzone wählen; zerstöre die Karte und falls du dies tust, beschwöre 1 „D/D/D“-Monster der Stufe 8 als Spezialbeschwörung von deinem Deck in die Verteidigungsposition, aber für den Rest dieses Spielzugs werden seine Effekte (falls es welche hat) annulliert, zusätzlich wird Kampfschaden, den dein Gegner erhält, halbiert. Du kannst diesen Effekt von „D/D-Gelehrter Thomas“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst deiner Hand 1 offenes „D/D“-Pendelmonster von deinem Extra Deck hinzufügen. Du kannst diesen Effekt von „D/D-Gelehrter Thomas“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 6,
+  "level": 8,
+  "atk": 1800,
+  "def": 2600,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

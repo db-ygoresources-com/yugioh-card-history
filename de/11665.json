@@ -1,0 +1,15 @@
+{
+  "id": 11665,
+  "type": "monster",
+  "name": "Würfelo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen und solange dieses Monster offen auf dem Spielfeld liegt, kann kein Spieler Monster mit derselben Stufe wie das Ergebnis als Normal- oder Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 600,
+  "def": 1900,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

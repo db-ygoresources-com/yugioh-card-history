@@ -1,0 +1,21 @@
+{
+  "id": 13258,
+  "type": "monster",
+  "name": "Kalliberlade-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3+ Effektmonster\nKein Spieler kann diese Karte als Ziel für Monstereffekte wählen. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster auf dem Spielfeld wählen; es verliert 500 ATK/DEF. Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren. Am Beginn des Damage Steps, falls diese Karte ein Monster eines Gegners angreift: Du kannst das Monster des Gegners in eine Zone legen, auf die diese Karte zeigt, und die Kontrolle darüber übernehmen, aber lege es während der End Phase des nächsten Spielzugs auf den Friedhof.",
+  "linkRating": 4,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

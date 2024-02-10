@@ -1,0 +1,16 @@
+{
+  "id": 12743,
+  "type": "monster",
+  "name": "Windhexe - Schneeglocke",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls du 2 oder mehr WIND Monster kontrollierst und keine Nicht-WIND Monster: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Ein WIND Synchromonster, das mit dieser Karte als Synchromaterial beschworen wurde, kann nicht durch Karteneffekte deines Gegners zerstört werden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 16204,
+  "type": "monster",
+  "name": "Gizmek Inaba, der hoppelnde Hase von Hakuto",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Maschine-Monster, dessen ATK seinen eigenen DEF entsprechen, als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Maschine-Monster wählen, das du kontrollierst und dessen ATK seinen eigenen DEF entsprechen; in diesem Spielzug kannst du keine Angriffe deklarieren, außer mit jenem Monster, zusätzlich werden seine ATK/DEF gleich der Summe der Grund-ATK aller Maschine-Monster, die du derzeit kontrollierst und deren ATK ihren eigenen DEF entsprechen. Du kannst diesen Effekt von „Gizmek Inaba, der hoppelnde Hase von Hakuto“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 50,
+  "def": 50,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

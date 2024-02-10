@@ -1,0 +1,16 @@
+{
+  "id": 14109,
+  "type": "monster",
+  "name": "Mantrawichtel Kelchschleim",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Mantrawichtel-Anfang“ als Ritualbeschwörung beschwören. Du kannst diese Karte in deiner Hand vorzeigen; wirf 1 Karte ab und falls du dies tust, beschwöre 1 „Mantrawichtel“-Monster als Spezialbeschwörung von deinem Deck, zusätzlich verlierst du während der End Phase 2500 LP, falls du in diesem Spielzug kein Ritualmonster als Spezialbeschwörung beschworen hast, nachdem du diesen Effekt aufgelöst hast. Du kannst 1 „Mantrawichtel“-Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen und dann 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst nur 1 Effekt von „Mantrawichtel Kelchschleim“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Aqua",
+    "Ritual",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6255,
+  "type": "monster",
+  "name": "Abare Ushioni",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wirf eine Münze und wähle Kopf oder Zahl. Falls du richtig vorausgesagt hast, füge den Life Points deines Gegners 1000 Punkte Schaden zu. Falls nicht, erhältst du 1000 Punkte Schaden. Du kannst den Effekt dieser Karte nur einmal pro Spielzug, während deiner Main Phase, benutzen.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 14091,
+  "type": "monster",
+  "name": "Wachdrache Promineses",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen und dann 1 Drache-Monster wählen, das du kontrollierst; es erhält bis zum Ende des Spielzugs deines Gegners 500 ATK/DEF. Falls ein oder mehr Normale Monster auf deinen Friedhof gelegt werden, solange sich diese Karte im Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Wachdrache Promineses“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

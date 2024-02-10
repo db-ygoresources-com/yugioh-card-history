@@ -1,0 +1,16 @@
+{
+  "id": 13182,
+  "type": "monster",
+  "name": "Cyberfinsternis Dunkelheitsdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "5 „Cyberfinsternis“-Effektmonster\nMuss erst als Fusionsbeschwörung beschworen werden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst diese Karte mit 1 Drache- oder Maschine-Monster von deinem Friedhof ausrüsten. Diese Karte erhält ATK in Höhe der Grund-ATK des Monsters, mit dem sie durch diesen Effekt ausgerüstet ist. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.",
+  "level": 10,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

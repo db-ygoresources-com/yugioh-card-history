@@ -1,0 +1,15 @@
+{
+  "id": 7418,
+  "type": "monster",
+  "name": "Finsterer Horus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug, nachdem eine Zauberkarte aufgelöst wurde, die während der Main Phase deines Gegners aktiviert wurde: Du kannst 1 FINSTERNIS Monster der Stufe 4 in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Diese Karte muss offen auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

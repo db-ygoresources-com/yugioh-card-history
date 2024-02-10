@@ -1,0 +1,19 @@
+{
+  "id": 13268,
+  "type": "monster",
+  "name": "Mistar Sternenboy",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 WASSER Monster\nAlle WASSER Monster auf dem Spielfeld erhalten 500 ATK und DEF, zusätzlich verlieren alle FEUER Monster auf dem Spielfeld 400 ATK und DEF. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 WASSER Monster in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Mistar Sternenboy“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1400,
+  "properties": [
+    "Aqua",
+    "Link",
+    "Effekt"
+  ]
+}

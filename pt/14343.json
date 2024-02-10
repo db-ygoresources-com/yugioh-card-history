@@ -1,0 +1,19 @@
+{
+  "id": 14343,
+  "type": "monster",
+  "name": "Dragão Dose Letal do Venimigo Faminto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "3 Monstros Pêndulo de TREVAS\nSempre que um ou mais cards forem enviados do campo para o Cemitério, coloque 1 Marcador de Venimigo neste card para cada card enviado. Todos os monstros no campo, exceto monstros Dragão de TREVAS, perdem 200 de ATK para cada Marcador de Venimigo no campo. Uma vez por turno, durante sua Fase Principal: até o final deste turno, você pode negar os efeitos de todos os monstros com a face para cima que seu oponente controla atualmente. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Uma vez por turno, durante sua Fase Principal: você pode colocar 1 Marcador de Venimigo sobre cada monstro com a face para cima que seu oponente controla. Todos os monstros no campo, exceto monstros Dragão de TREVAS, perdem 200 de ATK para cada Marcador de Venimigo no campo.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

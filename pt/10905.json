@@ -1,0 +1,15 @@
+{
+  "id": 10905,
+  "type": "monster",
+  "name": "Guardialho Silvestre",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Uma vez por turno: você pode selecionar um número de 1 a 3 e, depois, escavar esse número de cards do topo do seu Deck, enviar quaisquer monstros escavados do Tipo Planta para o Cemitério e, além disso, colocar os outros cards no fundo do seu Deck em qualquer ordem. Se este card for escavado do Deck e enviado para o Cemitério por um efeito de card: você pode escolher 1 outro monstro do Tipo Planta no seu Cemitério; coloque o alvo no topo do seu Deck.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Planta",
+    "Efeito"
+  ]
+}

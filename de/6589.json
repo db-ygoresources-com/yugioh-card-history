@@ -1,0 +1,15 @@
+{
+  "id": 6589,
+  "type": "monster",
+  "name": "Haftender Sprengstoff",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Vor der Schadensberechnung, falls diese Karte von einem Monster deines Gegners angegriffen wurde und am Beginn des Damage Steps in verdeckter Verteidigungsposition lag: Rüste das angreifende Monster mit dieser Karte aus. Dann, während der nächsten Standby Phase deines Gegners, zerstöre das Monster, das diese Karte ausrüstet.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

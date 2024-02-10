@@ -1,0 +1,15 @@
+{
+  "id": 10391,
+  "type": "monster",
+  "name": "Nixenrüstung Abyssdine",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte deiner Hand durch einen Karteneffekt von deinem Deck oder Friedhof hinzugefügt wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du musst ein „Nixenrüstung“-Monster kontrollieren, um diesen Effekt zu aktivieren und aufzulösen. Wenn diese Karte durch den Effekt eines „Nixenrüstung“-Monsters als Spezialbeschwörung beschworen wird: Du kannst 1 „Nixenrüstung“-Monster der Stufe 3 oder niedriger in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Du kannst nur 1 „Nixenrüstung Abyssdine“-Effekt pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "level": 3,
+  "atk": 1000,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

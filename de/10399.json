@@ -1,0 +1,15 @@
+{
+  "id": 10399,
+  "type": "monster",
+  "name": "Pyrorex der Elementarherrscher",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du genau 5 FEUER Monster in deinem Friedhof hast. Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es und falls du dies tust, erhalten beide Spieler Schaden in Höhe der Hälfte der Grund-ATK des zerstörten Monsters. Du kannst diesen Effekt von „Pyrorex der Elementarherrscher“ nur einmal pro Spielzug verwenden. Falls diese offene Karte das Spielfeld verlässt, überspringe die Battle Phase deines nächsten Spielzugs.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

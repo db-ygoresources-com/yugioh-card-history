@@ -1,0 +1,16 @@
+{
+  "id": 10848,
+  "type": "monster",
+  "name": "Aufsteigender Himmelsdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Sie erhält 800 ATK für jede Karte, die du derzeit in deiner Hand hast. Wenn diese Karte, die du kontrollierst, durch eine Karte deines Gegners zerstört und auf deinen Friedhof gelegt wird, falls alle Monster, die für die Synchrobeschwörung dieser Karte verwendet wurden, in deinem Friedhof liegen: Du kannst sie alle als Spezialbeschwörung beschwören, aber ihre Effekte werden annulliert. Du kannst diesen Effekt von „Aufsteigender Himmelsdrache“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": -1,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4230,
+  "type": "monster",
+  "name": "Mestre das Armadilhas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "VIRE: Destrói 1 Card de Armadilha no Campo. Se o alvo deste card está com a face para baixo, vire a face para cima. Se for um Card de Armadilha é destruído. Se não, coloque-o novamente com a face para baixo. O card virado não é Activado.",
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Guerreiro",
+    "Virar",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6545,
+  "type": "monster",
+  "name": "Lanzen-Drachonaut",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

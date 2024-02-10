@@ -1,0 +1,21 @@
+{
+  "id": 13419,
+  "type": "monster",
+  "name": "Saryuja-Schädelschrecken",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Monster mit unterschiedlichen Namen\nDiese Karte erhält Effekte, basierend auf der Anzahl des Materials, das für ihre Linkbeschwörung verwendet wurde.\n●2+: Falls ein oder mehr Monster als Normal- oder Spezialbeschwörung in eine Zone beschworen werden, auf die diese Karte zeigt: Die Monster erhalten 300 ATK/DEF.\n●3+: Einmal pro Spielzug, während deiner Main Phase: Du kannst 1 Monster als Spezialbeschwörung von deiner Hand beschwören.\n●4: Wenn diese Karte als Linkbeschwörung beschworen wird: Du kannst 4 Karten ziehen, dann lege 3 Karten von deiner Hand in beliebiger Reihenfolge unter dein Deck.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 2800,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

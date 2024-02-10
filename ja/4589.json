@@ -1,0 +1,17 @@
+{
+  "id": 4589,
+  "type": "monster",
+  "name": "ウェザー・レポート",
+  "nameRuby": "ウェザー・レポート",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "リバース：相手フィールド上に表側表示で存在する「光の護封剣」を全て破壊する。破壊に成功した場合、次の自分のバトルフェイズを２回行う事ができる。",
+  "level": 4,
+  "atk": 950,
+  "def": 1500,
+  "properties": [
+    "水族",
+    "リバース",
+    "効果"
+  ]
+}

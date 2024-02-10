@@ -1,0 +1,15 @@
+{
+  "id": 15696,
+  "type": "monster",
+  "name": "Bewaffneter Drache LV10 Weiß",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Du kannst „Bewaffnete/r Drache“-Monster von deiner Spielfeldseite und/oder deinem Friedhof verbannen, deren gemeinsame Stufe 10 entspricht; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann kannst du deiner Hand 1 „Weißer Schleier“ von deinem Deck hinzufügen. Du kannst diesen Effekt von „Bewaffneter Drache LV10 Weiß“ nur einmal pro Spielzug verwenden. Du erhältst keinen Effektschaden. Am Beginn des Damage Steps, falls diese Karte angreift: Du kannst 1 Karte auf dem Spielfeld zerstören.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

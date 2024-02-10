@@ -1,0 +1,15 @@
+{
+  "id": 8725,
+  "type": "monster",
+  "name": "Geheimwachen der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Dein Gegner kann „Eisbarriere“-Monster, die du kontrollierst, nicht als Ziel für Monstereffekte wählen.",
+  "level": 2,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

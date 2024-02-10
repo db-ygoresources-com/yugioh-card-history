@@ -1,0 +1,16 @@
+{
+  "id": 11882,
+  "type": "monster",
+  "name": "Tödlicher Virusdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Muss mit „Kralle des Critias“ als Spezialbeschwörung beschworen werden, verwende dafür „Kartenvernichtungsvirus“. Falls diese Karte als Spezialbeschwörung beschworen wird: Sieh dir die Hand deines Gegners, alle Monster, die er kontrolliert, und alle Karten, die er bis zum Ende seines 3. Spielzugs nach der Aktivierung dieses Effekts zieht, an und zerstöre alle Monster mit 1500 oder mehr ATK davon.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

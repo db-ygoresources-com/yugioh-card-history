@@ -1,0 +1,15 @@
+{
+  "id": 14432,
+  "type": "monster",
+  "name": "Tapferschwung",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug, wenn dein Cyberse-Monster einen Angriff deklariert: Du kannst 1 Monster abwerfen; jenes angreifende Monster erhält bis zum Ende dieses Spielzugs 600 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7439,
+  "type": "monster",
+  "name": "Magnetischer Moskito",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Zerstöre alle Maschine-Monster auf dem Spielfeld.",
+  "level": 3,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "Insekt",
+    "Flipp",
+    "Effekt"
+  ]
+}

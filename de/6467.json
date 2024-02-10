@@ -1,0 +1,16 @@
+{
+  "id": 6467,
+  "type": "monster",
+  "name": "Elementar-HELD Glänzender Flügelmann",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Elementar-HELD Flammenflügelmann“ + „Elementar-HELD Sparkman“\nMuss als Fusionsbeschwörung beschworen werden. Erhält für jede „Elementar-HELD“-Karte in deinem Friedhof 300 ATK. Falls diese Karte ein Monster durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner Schaden in Höhe der Grund-ATK jenes Monsters im Friedhof zu.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

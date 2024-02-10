@@ -1,0 +1,19 @@
+{
+  "id": 13702,
+  "type": "monster",
+  "name": "Kai-Den Kendogeist",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Karte in deiner Pendelzone bestimmen und alle Karten, die dein Gegner kontrolliert, in derselben Spalte wie die Karte auf den Friedhof legen. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib diese Karte auf die Hand zurück.",
+  "pendEffect": "Falls ein oder mehr Monster als Pendelbeschwörung beschworen werden: Gib diese Karte von der Pendelzone auf die Hand zurück.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Spirit",
+    "Effekt"
+  ]
+}

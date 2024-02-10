@@ -1,0 +1,18 @@
+{
+  "id": 11975,
+  "type": "monster",
+  "name": "Cavaleirardor Veterano",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Este líder encanecido da divisão de guarda-costas atua como o chaperon da Cavalier e é um dos poucos que reclamam de sua impetuosidade (principalmente ao Valente, o único que o entende).",
+  "pendEffect": "Se você tiver um card \"Cavaleirardor\" na sua outra Zona de Pêndulo: você pode destruir os dois cards nas suas Zonas de Pêndulo e, se isso acontecer, adicione 1 monstro de FOGO do Tipo Guerreiro do seu Deck ou Cemitério à sua mão.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 1300,
+  "def": 2700,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Normal"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14960,
+  "type": "monster",
+  "name": "Dragão da Rebelião de Olhos Anômalos Suserano",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros de Nível 7\nVocê também pode Invocar este card por Invocação-Xyz ao usar um Monstro Xyz \"Rebelião\" que você controla como matéria. (Transfira as matérias dele para este card.) Se você puder Invocar por Invocação-Pêndulo de Nível 7, você pode Invocar este card com a face para cima do seu Deck Adicional por Invocação-Pêndulo. Este card que foi Invocado por Invocação-Xyz usando um Monstro Xyz de Classe 7 como matéria pode realizar até 3 ataques durante cada Fase de Batalha. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo. Você só pode Invocar um ou mais \"Dragão da Rebelião de Olhos Anômalos Suserano\" por Invocação-Especial uma vez por turno.",
+  "pendEffect": "Uma vez por turno: você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo e, depois, Invoque por Invocação-Especial do seu Deck Adicional, 1 monstro \"Rebelião\" ou \"Os Cavaleiros Fantasmas\", usando este card como matéria (isso é considerado uma Invocação-Xyz) e, depois, você pode associar 1 card da sua Zona de Pêndulo a ele como matéria.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Xyz",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

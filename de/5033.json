@@ -1,0 +1,15 @@
+{
+  "id": 5033,
+  "type": "monster",
+  "name": "Arsenalkäfer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du keine anderen Monster vom Typ Insekt kontrollierst, werden die ATK und DEF dieser Karte zu 1000.",
+  "level": 3,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

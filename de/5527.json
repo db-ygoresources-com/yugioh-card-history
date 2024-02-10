@@ -1,0 +1,15 @@
+{
+  "id": 5527,
+  "type": "monster",
+  "name": "Nachtmahr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dieses Monster kann die Life Points deines Gegners direkt angreifen, selbst wenn sich Monster auf der Spielfeldseite deines Gegners befinden.",
+  "level": 2,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

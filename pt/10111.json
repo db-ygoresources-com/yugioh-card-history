@@ -1,0 +1,16 @@
+{
+  "id": 10111,
+  "type": "monster",
+  "name": "Lançador Peixeborgue",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Não pode ser usado como Matéria Sincro, exceto para a Invocação-Sincro de um Monstro Sincro de ÁGUA. Se você tiver um ou mais monstros no seu Cemitério que não sejam \"Lançador Peixeborgue\" e todos eles forem de ÁGUA: você pode Invocar este card por Invocação-Especial do seu Cemitério, mas bana-o quando ele deixar o campo. Você só pode usar este efeito de \"Lançador Peixeborgue\" uma vez por turno.",
+  "level": 1,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Peixe",
+    "Regulador",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11784,
+  "type": "monster",
+  "name": "Mago do Olho-Sábio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode descartar este card e, depois, escolha 1 card na sua Zona de Pêndulo cuja Escala de Pêndulo atual seja diferente da sua Escala de Pêndulo original; sua Escala de Pêndulo se torna sua Escala de Pêndulo original até o final deste turno.",
+  "pendEffect": "Se você tiver um card \"Mago\" ou \"Camarartista\" na sua outra Zona de Pêndulo: você pode destruir este card e, se isso acontecer, coloque 1 Monstro Pêndulo \"Mago\" do seu Deck na sua Zona de Pêndulo, exceto \"Mago do Olho-Sábio\".",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

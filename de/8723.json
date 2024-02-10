@@ -1,0 +1,15 @@
+{
+  "id": 8723,
+  "type": "monster",
+  "name": "Naturia-Weißeiche",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der diese Karte als Ziel wählt (Schnelleffekt): Du kannst diese Karte vom Spielfeld auf den Friedhof legen; beschwöre 2 „Naturia“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck, aber sie können keinen Angriff deklarieren, zusätzlich zerstöre sie während deiner End Phase.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

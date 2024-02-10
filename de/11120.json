@@ -1,0 +1,15 @@
+{
+  "id": 11120,
+  "type": "monster",
+  "name": "Elektromagnetische Schildkröte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Battle Phase deines Gegners (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; beende die Battle Phase. Du kannst diesen Effekt von „Elektromagnetische Schildkröte“ nur einmal pro Duell verwenden.",
+  "level": 4,
+  "atk": 0,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

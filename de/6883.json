@@ -1,0 +1,15 @@
+{
+  "id": 6883,
+  "type": "monster",
+  "name": "Barrierenstatue der Sturzflut",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Kein Spieler kann Monster als Spezialbeschwörung beschwören, außer WASSER Monstern.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

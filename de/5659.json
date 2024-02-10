@@ -1,0 +1,15 @@
+{
+  "id": 5659,
+  "type": "monster",
+  "name": "Rüstungs-Exe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte kann im Spielzug, in dem sie als Normal-, Flipp- oder Spezialbeschwörung beschworen wurde, nicht angreifen. Entferne in jeder deiner Standby Phasen und jeder Standby Phase deines Gegners 1 Zauberzählmarke auf deiner Spielfeldseite. Wenn du dies nicht tust, zerstöre diese Karte.",
+  "level": 4,
+  "atk": 2400,
+  "def": 1400,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9968,
+  "type": "monster",
+  "name": "Ma'at",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Você deve Invocá-lo por Invocação-Especial (da sua mão) ao enviar 1 monstro de LUZ do Tipo Dragão e 1 monstro de LUZ do Tipo Fada que você controla para o Cemitério e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Uma vez por turno: você pode declarar 3 nomes de card; escave os 3 cards do topo do seu Deck, adicione à sua mão qualquer um que você tenha nomeado e, além disso, envie os cards restantes para o Cemitério. O ATK e a DEF deste card se tornam iguais ao número de cards adicionados à sua mão por este efeito x 1000.",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Fada",
+    "Efeito"
+  ]
+}

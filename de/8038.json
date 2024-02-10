@@ -1,0 +1,16 @@
+{
+  "id": 8038,
+  "type": "monster",
+  "name": "Arkanitmagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Hexer-Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Lege 2 Zauberzählmarken darauf. Diese Karte erhält 1000 ATK für jede Zauberzählmarke auf dieser Karte. Du kannst 1 Zauberzählmarke von deiner Spielfeldseite entfernen und dann 1 Karte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 7,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12404,
+  "type": "monster",
+  "name": "EM 고무고무튼",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "①: 1턴에 1번, 자신 몬스터가 상대 몬스터와 전투를 실행하는 공격 선언시에 발동할 수 있다. 그 자신 몬스터는 그 전투로는 파괴되지 않는다.",
+  "pendEffect": "①: 1턴에 1번, 자신 몬스터가 상대 몬스터와 전투를 실행하는 공격 선언시에 발동할 수 있다. 그 자신 몬스터는 그 전투로는 파괴되지 않는다.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 900,
+  "def": 2400,
+  "properties": [
+    "야수족",
+    "펜듈럼",
+    "효과"
+  ]
+}

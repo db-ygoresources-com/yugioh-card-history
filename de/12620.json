@@ -1,0 +1,16 @@
+{
+  "id": 12620,
+  "type": "monster",
+  "name": "Graulien Schleim Jr.",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Graulien“-Monster in deinem Friedhof wählen; für den Rest dieses Spielzugs kannst du keine anderen Monster als Spezialbeschwörung beschwören, außer WASSER Monstern, zusätzlich beschwöre das Monster als Spezialbeschwörung, dann kannst du 1 Monster vom Typ Aqua mit derselben Stufe wie das durch den Effekt dieser Karte als Spezialbeschwörung beschworene Monster als Spezialbeschwörung von deiner Hand beschwören. Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 „Graulien“-Monster als Spezialbeschwörung von deinem Deck beschwören.",
+  "level": 2,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

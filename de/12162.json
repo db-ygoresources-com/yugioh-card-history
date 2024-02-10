@@ -1,0 +1,16 @@
+{
+  "id": 12162,
+  "type": "monster",
+  "name": "Shiranui-Shogunsage",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger-Monster vom Typ Zombie + 1 oder mehr Nicht-Empfänger-Monster vom Typ Zombie\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster vom Typ Zombie von deinem Friedhof verbannen; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des verbannten Monsters. Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 deiner verbannten Monster vom Typ Zombie mit 0 DEF wählen; lege es auf den Friedhof zurück. Du kannst nur einmal pro Spielzug ein oder mehr „Shiranui-Shogunsage“ als Spezialbeschwörung beschwören.",
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

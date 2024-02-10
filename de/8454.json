@@ -1,0 +1,15 @@
+{
+  "id": 8454,
+  "type": "monster",
+  "name": "Spinnenmutter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du in deinem Friedhof nur Monster vom Typ Insekt hast, kannst du 2 Monster in offener Verteidigungsposition, die dein Gegner kontrolliert, auf den Friedhof legen und diese Karte als Spezialbeschwörung von deiner Hand beschwören.",
+  "level": 6,
+  "atk": 2300,
+  "def": 1200,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

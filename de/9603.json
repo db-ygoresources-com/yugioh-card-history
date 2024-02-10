@@ -1,0 +1,16 @@
+{
+  "id": 9603,
+  "type": "monster",
+  "name": "Vylon Disigma",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "3 Monster der Stufe 4\nEinmal pro Spielzug: Du kannst 1 Xyz-Material von dieser Karte abhängen, um 1 Effektmonster in offener Angriffsposition zu wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem gewählten Ziel aus. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster kämpft, das dieselbe Eigenschaft hat wie eine Karte, mit der diese Karte durch diesen Effekt ausgerüstet ist: Zerstöre das Monster.",
+  "rank": 4,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Fee",
+    "Xyz",
+    "Effekt"
+  ]
+}

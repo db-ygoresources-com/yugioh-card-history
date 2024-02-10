@@ -1,0 +1,16 @@
+{
+  "id": 10939,
+  "type": "monster",
+  "name": "Geistertrick-Dullahan",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 1\nDiese Karte erhält für jede „Geistertrick“-Karte, die du kontrollierst, 200 ATK. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und dann 1 offenes Monster auf dem Spielfeld wählen; halbiere bis zum Ende dieses Spielzugs seine ATK. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 andere „Geistertrick“-Karte in deinem Friedhof wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "rank": 1,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Xyz",
+    "Effekt"
+  ]
+}

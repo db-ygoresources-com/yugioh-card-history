@@ -1,0 +1,16 @@
+{
+  "id": 7845,
+  "type": "monster",
+  "name": "Koalo-Koala",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "„Meereskoala“ + „Baumotter“\nDu kannst 1 Monster vom Typ Ungeheuer von deiner Hand auf den Friedhof legen, um 1 Monster zu wählen, das dein Gegner kontrolliert; zerstöre es.",
+  "level": 6,
+  "atk": 2800,
+  "def": 200,
+  "properties": [
+    "Ungeheuer",
+    "Fusion",
+    "Effekt"
+  ]
+}

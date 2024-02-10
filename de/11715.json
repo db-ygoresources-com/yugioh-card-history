@@ -1,0 +1,16 @@
+{
+  "id": 11715,
+  "type": "monster",
+  "name": "Blütendiva der musikalische Chor",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Musikalische Maestra“-Monster + 1 „Musikalisch“-Monster\nKann weder durch Kampf noch durch Karteneffekte zerstört werden, zusätzlich erhältst du keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Falls diese Karte gegen ein als Spezialbeschwörung beschworenes Monster kämpft, nach der Schadensberechnung: Du kannst deinem Gegner Schaden in Höhe der Differenz zwischen den Grund-ATK des Monsters deines Gegners und dieser Karte zufügen und falls du dies tust, zerstöre das Monster deines Gegners.",
+  "level": 6,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

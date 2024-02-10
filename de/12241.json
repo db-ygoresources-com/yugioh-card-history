@@ -1,0 +1,17 @@
+{
+  "id": 12241,
+  "type": "monster",
+  "name": "Stahlkavallerie von Dinon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Am Beginn des Damage Steps, falls diese Karte gegen ein Pendelmonster kämpft: Die ATK und DEF dieser Karte werden bis zum Ende des Damage Steps zur Hälfte ihrer derzeitigen ATK und DEF.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1600,
+  "def": 2600,
+  "properties": [
+    "Dinosaurier",
+    "Pendel",
+    "Effekt"
+  ]
+}

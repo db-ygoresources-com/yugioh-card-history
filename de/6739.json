@@ -1,0 +1,16 @@
+{
+  "id": 6739,
+  "type": "monster",
+  "name": "Super Vehicroid Jumbo Drill",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "„Steamroid“ + „Drillroid“ + „Submarineroid“\nEine Fusionsbeschwörung dieses Monsters kann nur mit den oben genannten Fusionsmaterialmonstern durchgeführt werden. Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz den Life Points deines Gegners als Kampfschaden zu.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

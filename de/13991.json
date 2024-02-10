@@ -1,0 +1,18 @@
+{
+  "id": 13991,
+  "type": "monster",
+  "name": "Schreckenspelz Meister",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während deiner Main Phase: Du kannst 1 „Schreckenspelz“-, „Kuscheltier“- oder „enkobold“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Fusionsmonstern. Du kannst 2 oder mehr Unterweltler-Monster als Tribut anbieten; beschwöre 1 „Schreckenspelz“-Fusionsmonster, dessen Stufe der kombinierten Grund-Stufe der Monster entspricht, als Spezialbeschwörung von deinem Extra Deck. (Dies wird als Fusionsbeschwörung behandelt.) Du kannst jeden Effekt von „Schreckenspelz Meister“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 „Schreckenspelz“-, „Kuscheltier“- oder „enkobold“-Monster der Stufe 4 oder niedriger als Tribut anbieten; beschwöre 1 Unterweltler-Monster mit derselben Stufe, aber einem unterschiedlichen Namen als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Schreckenspelz Meister“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 8,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

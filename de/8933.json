@@ -1,0 +1,16 @@
+{
+  "id": 8933,
+  "type": "monster",
+  "name": "Effektverschleierin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Main Phase deines Gegners (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 Effektmonster wählen, das dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs die Effekte jenes offenen Monsters, das dein Gegner kontrolliert.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

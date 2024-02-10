@@ -1,0 +1,15 @@
+{
+  "id": 10738,
+  "type": "monster",
+  "name": "Unermüdlicher Boxer Nackenschläger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Am Beginn des Damage Steps, falls diese Karte ein Monster in Verteidigungsposition angreift: Zerstöre jenes Monster.",
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

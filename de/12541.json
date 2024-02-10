@@ -1,0 +1,15 @@
+{
+  "id": 12541,
+  "type": "monster",
+  "name": "Zushin der schlafende Riese",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du ein Monster mit 10 Zushin-Zählmarken, das du kontrollierst, als Tribut anbietest. Einmal pro Spielzug: Du kannst diese Karte in deiner Hand vorzeigen und dann 1 Normales Monster der Stufe 1 wählen, das du kontrollierst (diese Karte bleibt bis zum Ende dieses Spielzugs vorgezeigt); lege 1 Zushin-Zählmarke darauf. Bleibt von den Effekten anderer Karten unberührt. Falls diese Karte gegen ein Monster kämpft, während der Schadensberechnung: Die ATK/DEF dieser Karte werden nur während der Schadensberechnung gleich den derzeitigen ATK des Monsters, gegen das sie kämpft, +1000.",
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

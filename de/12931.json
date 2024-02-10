@@ -1,0 +1,18 @@
+{
+  "id": 12931,
+  "type": "monster",
+  "name": "Oberster König Tor Null",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Spielzug: Du kannst 1 andere offene Karte wählen, die du kontrollierst; zerstöre sowohl sie als auch diese Karte und falls du dies tust, beschwöre 1 Drache-Fusions- oder -Synchromonster als Spezialbeschwörung von deinem Extra Deck, aber seine ATK/DEF werden zu 0, seine Effekte werden annulliert, zusätzlich kann es nicht als Material für eine Synchro- oder Xyz-Beschwörung verwendet werden. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls du „Oberster König Z-ARC“ kontrollierst, erhältst du keinen Schaden. Einmal pro Spielzug, falls du „Oberster König Tor Unendlichkeit“ in deiner anderen Pendelzone hast: Du kannst beide Karten in deinen Pendelzonen zerstören und falls du dies tust, füge deiner Hand 1 „Polymerisation“-Zauber oder „Fusion“-Zauber von deinem Deck hinzu.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

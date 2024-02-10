@@ -1,0 +1,16 @@
+{
+  "id": 12835,
+  "type": "monster",
+  "name": "Raubpflanze Chimerafflesia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 „Raubpflanze“-Monster + 1 FINSTERNIS Monster\nEinmal pro Spielzug: Du kannst 1 Monster mit einer Stufe, die kleiner oder gleich der dieser Karte ist, auf dem Spielfeld wählen; verbanne es. Wenn ein Angriff deklariert wird, an dem diese Karte und ein offenes Monster eines Gegners beteiligt sind: Du kannst diesen Effekt aktivieren; bis zum Ende dieses Spielzugs verliert jenes Monster des Gegners 1000 ATK und falls es dies tut, erhält diese Karte 1000 ATK. Einmal pro Spielzug, während der nächsten Standby Phase, nachdem diese Karte auf den Friedhof gelegt wurde: Du kannst deiner Hand 1 „Polymerisation“-Zauber oder „Fusion“-Zauber von deinem Deck hinzufügen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Pflanze",
+    "Fusion",
+    "Effekt"
+  ]
+}

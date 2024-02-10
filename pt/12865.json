@@ -1,0 +1,18 @@
+{
+  "id": 12865,
+  "type": "monster",
+  "name": "Ator do Abismo - Pequena Estrela Cintilante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser destruído em batalha durante o seu turno. Este card pode realizar até 3 ataques contra monstros durante cada Fase de Batalha.",
+  "pendEffect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Ator do Abismo\". Este efeito não pode ser negado. Uma vez por turno: você pode escolher 1 monstro \"Ator do Abismo\" que você controla; neste turno, ele pode realizar até 3 ataques contra monstros durante cada Fase de Batalha e, além disso, outros monstros que você controla não podem atacar pelo resto deste turno (mesmo que este card deixe o campo).",
+  "pendScale": 9,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

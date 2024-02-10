@@ -1,0 +1,18 @@
+{
+  "id": 14708,
+  "type": "monster",
+  "name": "Los! - D/D/D-Himmels-Null-König Rage",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn diese Karte einen Angriff deklariert, falls dein Gegner 4000 oder weniger LP hat: Du kannst diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der LP deines Gegners erhalten lassen. Kann nicht durch Kampf zerstört werden, zusätzlich erhältst du keinen Schaden aus Kämpfen, an denen diese Karte beteiligt ist.\nDu kannst 1 anderes Monster als Tribut anbieten; wende bis zum Ende dieses Spielzugs 1 dieser Effekte an.\n●Diese Karte kann direkt angreifen.\n●Dein Gegner kann weder Karten noch Effekte in den Zauber- & Fallenzonen aktivieren.\n●Dein Gegner kann weder Karteneffekte in seiner Hand noch in seinem Friedhof aktivieren.",
+  "pendEffect": "Falls du Effektschaden erhalten würdest, erhältst du keinen Schaden. Falls du 1 „D/D“-Monster der Stufe 5 oder höher als Normalbeschwörung beschwörst, kannst du dies tun, ohne Tribut anzubieten. Du kannst jeden Pendeleffekt von „Los! - D/D/D-Himmels-Null-König Rage“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

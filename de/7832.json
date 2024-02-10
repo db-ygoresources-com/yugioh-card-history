@@ -1,0 +1,16 @@
+{
+  "id": 7832,
+  "type": "monster",
+  "name": "Wurm Jetelikpse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Wenn diese Karte in diesem Spielzug zerstört und auf den Friedhof gelegt wird: Beschwöre sie als Spezialbeschwörung vom Friedhof in die offene Verteidigungsposition.",
+  "level": 3,
+  "atk": 1200,
+  "def": 0,
+  "properties": [
+    "Reptil",
+    "Flipp",
+    "Effekt"
+  ]
+}

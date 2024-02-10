@@ -1,0 +1,16 @@
+{
+  "id": 14213,
+  "type": "monster",
+  "name": "Mago do Caos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com \"Forma do Caos\". O nome deste card se torna \"Mago Negro\" enquanto estiver no campo ou no Cemitério. Uma vez por turno, quando um Card de Magia/Armadilha ou seus efeitos for ativado (Efeito Rápido): você pode escolher 1 card no campo; destrua-o. Se este card Invocado por Invocação-Ritual for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 Monstro de Ritual \"Caos\" ou \"Soldado do Lustro Negro\" da sua mão, exceto \"Mago do Caos\", ignorando suas condições de Invocação.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Mago",
+    "Ritual",
+    "Efeito"
+  ]
+}

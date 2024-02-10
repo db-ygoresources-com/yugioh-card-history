@@ -1,0 +1,15 @@
+{
+  "id": 7611,
+  "type": "monster",
+  "name": "Die Herrin der Wichte",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Offene Zombie-Monster der Stufe 3 oder niedriger auf dem Spielfeld, außer „Die Herrin der Wichte“, können nicht durch Kampf zerstört werden, zusätzlich bleiben sie sowohl von Zauber-/Fallenkarten als auch von Zauber-/Falleneffekten unberührt. Der Name dieser Karte wird zu „Totenkopfdiener“, solange sie im Friedhof liegt.",
+  "level": 3,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

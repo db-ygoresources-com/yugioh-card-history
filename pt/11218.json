@@ -1,0 +1,18 @@
+{
+  "id": 11218,
+  "type": "monster",
+  "name": "Kaleidoscorpião Camarartista",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno: você pode escolher 1 monstro com a face para cima que você controla; neste turno, ele pode atacar todos os monstros Invocados por Invocação-Especial que seu oponente controla, uma vez cada.",
+  "pendEffect": "Todos os monstros de LUZ que você controla ganham 300 de ATK.",
+  "pendScale": 4,
+  "level": 6,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "Inseto",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

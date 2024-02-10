@@ -1,0 +1,15 @@
+{
+  "id": 5416,
+  "type": "monster",
+  "name": "Wandernde Mumie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte einmal im Spielzug während deiner Main Phase in die verdeckte Verteidigungsposition bringen. Nachdem du diesen Effekt benutzt hast, mische alle Monster, die sich verdeckt in Verteidigungsposition auf deiner Spielfeldseite befinden, und lege sie verdeckt in Verteidigungsposition auf deine Spielfeldseite zurück.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

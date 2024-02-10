@@ -1,0 +1,19 @@
+{
+  "id": 13490,
+  "type": "monster",
+  "name": "König der Meister, Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Unterweltler-Monster\nEinmal pro Spielzug, während deiner Standby Phase, zahle 500 LP oder zerstöre diese Karte. Einmal pro Kette, falls du LP zahlst (außer während des Damage Steps): Du kannst 1 Unterweltler-Monster mit ATK oder DEF in Höhe der gezahlten LP von deinem Deck auf den Friedhof legen. Einmal pro Kette, falls ein oder mehr Unterweltler-Monster auf deinen Friedhof gelegt werden (außer während des Damage Steps): Du kannst einen sechsseitigen Würfel werfen, dann wende diesen Effekt auf 1 der Monster an, basierend auf dem Ergebnis.\n●1: Füge es deiner Hand hinzu.\n●2, 3, 4, 5: Mische es ins Deck.\n●6: Beschwöre es als Spezialbeschwörung.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

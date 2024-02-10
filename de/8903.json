@@ -1,0 +1,16 @@
+{
+  "id": 8903,
+  "type": "monster",
+  "name": "Laval-Waldfee",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird: Alle offenen „Laval“-Monster, die du derzeit kontrollierst, erhalten bis zur End Phase 200 ATK für jedes „Laval“-Monster in deinem Friedhof.",
+  "level": 2,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

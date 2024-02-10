@@ -1,0 +1,15 @@
+{
+  "id": 6771,
+  "type": "monster",
+  "name": "Neo-Weltraum Glow Moss",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte angreift oder angegriffen wird: Dein Gegner zieht 1 Karte und zeigt sie, dann führe basierend auf ihrem Typ diesen Effekt aus:\n●Monster: Beende die Battle Phase dieses Spielzugs.\n●Zauber: Falls diese Karte angreift, kannst du den Angriff stattdessen in einen direkten Angriff ändern.\n●Falle: Ändere diese Karte in die Verteidigungsposition.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

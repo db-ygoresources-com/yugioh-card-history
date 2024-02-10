@@ -1,0 +1,15 @@
+{
+  "id": 10686,
+  "type": "monster",
+  "name": "Erzunterweltler-Kommandant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du eine „Erzunterweltler“-Karte kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, aber sie kann in diesem Spielzug nicht angreifen. Du kannst „Erzunterweltler-Kommandant“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Wenn er auf diese Art als Spezialbeschwörung beschworen wird: Wähle 1 „Erzunterweltler“-Karte, die du kontrollierst; zerstöre das gewählte Ziel. Wenn diese Karte als Tributbeschwörung beschworen wird: Du kannst 1 „Erzunterweltler“-Monster der Stufe 6 in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung in die offene Verteidigungsposition.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

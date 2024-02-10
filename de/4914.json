@@ -1,0 +1,15 @@
+{
+  "id": 4914,
+  "type": "monster",
+  "name": "Verbanner des Lichts",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jede Karte, die auf den Friedhof gelegt wird, wird stattdessen verbannt.",
+  "level": 3,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

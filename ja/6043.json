@@ -1,0 +1,16 @@
+{
+  "id": 6043,
+  "type": "monster",
+  "name": "人投げトロール",
+  "nameRuby": "ひとなげトロール",
+  "englishAttribute": "earth",
+  "localizedAttribute": "地属性",
+  "effectText": "自分フィールド上に存在する通常モンスター（トークンを除く）１体を生け贄に捧げる度に、相手ライフに８００ポイントダメージを与える。",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "獣戦士族",
+    "効果"
+  ]
+}

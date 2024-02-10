@@ -1,0 +1,18 @@
+{
+  "id": 14448,
+  "type": "monster",
+  "name": "D/D Arca",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for destruído por um efeito de card: você pode Invocar por Invocação-Especial 1 Monstro Pêndulo \"D/D\" com a face para cima do seu Deck Adicional, exceto \"D/D Arca\", mas seus efeitos são negados. Você só pode usar este efeito de \"D/D Arca\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 monstro Invocado por Invocação-Pêndulo que seu oponente controla; destrua tanto esse monstro como este card. Você só pode usar este efeito de \"D/D Arca\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

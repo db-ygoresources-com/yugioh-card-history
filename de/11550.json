@@ -1,0 +1,16 @@
+{
+  "id": 11550,
+  "type": "monster",
+  "name": "Morphtronisches Smartfon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss zuerst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Morphtronisch“-Monster von deinem Friedhof verbannst.\n●Solange in Angriffsposition: Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen, grabe so viele oberste Karten deines Decks aus, füge deiner Hand 1 ausgegrabene „Morphtronisch“-Karte hinzu, zusätzlich mische die restlichen Karten ins Deck zurück.\n●Solange in Verteidigungsposition: Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen, sieh dir so viele oberste Karten deines Decks an, dann lege alle entweder auf oder unter das Deck, aber in beliebiger Reihenfolge.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

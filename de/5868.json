@@ -1,0 +1,15 @@
+{
+  "id": 5868,
+  "type": "monster",
+  "name": "Siegesdrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Um diese Karte als Tributbeschwörung zu beschwören, musst du 3 Monster vom Typ Drache als Tribut anbieten. Falls diese Karte deinen Gegner direkt angreift und seine Life Points auf 0 reduziert, gewinnst du das Match.",
+  "level": 8,
+  "atk": 2400,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

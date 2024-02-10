@@ -1,0 +1,15 @@
+{
+  "id": 12763,
+  "type": "monster",
+  "name": "Verschiedosaurier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Während der Main Phase (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; während dieser Main Phase bleiben Dinosaurier-Monster, die du kontrollierst, von aktivierten Effekten deines Gegners unberührt. Du kannst eine beliebige Anzahl Dinosaurier-Monster, darunter diese Karte, von deinem Friedhof verbannen; beschwöre 1 Dinosaurier-Monster, dessen Stufe gleich der Anzahl der Monster ist, die verbannt wurden, um diesen Effekt zu aktivieren, als Spezialbeschwörung von deinem Deck, aber zerstöre es während der End Phase. Du kannst diesen Effekt von „Verschiedosaurier“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18662,
+  "type": "monster",
+  "name": "Magier der Ergebenheit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Du kannst 1 Zauber in deinem Friedhof wählen; füge ihn deiner Hand hinzu, dann kannst du 1 „Magier des Glaubens“ oder „Magier der Ergebenheit“ als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören. Du kannst diesen Effekt von „Magier der Ergebenheit“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

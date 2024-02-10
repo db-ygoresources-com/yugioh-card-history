@@ -1,0 +1,15 @@
+{
+  "id": 6024,
+  "type": "monster",
+  "name": "Geist des Pharao",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung durch „Der Erste Sarkophag“ beschworen werden. Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 4 Normale Zombie-Monster der Stufe 2 oder niedriger in deinem Friedhof wählen; beschwöre jene gewählten Ziele als Spezialbeschwörung.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

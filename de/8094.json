@@ -1,0 +1,15 @@
+{
+  "id": 8094,
+  "type": "monster",
+  "name": "Sagenhafter Gallabas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 Karte auf den Friedhof abwerfen und dann 1 Monster wählen, das dein Gegner kontrolliert und dessen DEF kleiner oder gleich den ATK dieser Karte sind; zerstöre das gewählte Ziel.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

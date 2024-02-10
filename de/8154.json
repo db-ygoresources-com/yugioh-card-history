@@ -1,0 +1,15 @@
+{
+  "id": 8154,
+  "type": "monster",
+  "name": "Felsbrockenkrieger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du erhältst keinen Kampfschaden aus Kämpfen mit dieser Karte. Wenn diese angreifende Karte durch Kampf zerstört und auf den Friedhof gelegt wird, beschwöre 2 „Felsbrocken-Spielmarken“ (Typ Fels/ERDE/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung. Diese Spielmarken können nicht als Tribut für eine Tributbeschwörung angeboten werden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1600,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

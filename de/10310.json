@@ -1,0 +1,16 @@
+{
+  "id": 10310,
+  "type": "monster",
+  "name": "Dampfsynchron",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während der Main Phase deines Gegners kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, führe eine Synchrobeschwörung durch und verwende dafür diese Karte, die du kontrollierst.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

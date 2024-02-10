@@ -1,0 +1,15 @@
+{
+  "id": 10852,
+  "type": "monster",
+  "name": "Tubarão Sabre",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Não pode ser usado como uma Matéria Sincro. Duas vezes por turno: você pode escolher 1 monstro Peixe no campo e, depois, ative 1 desses efeitos.\n●Aumente o Nível dele em 1.\n●Reduza o Nível dele em 1.\nVocê não pode Invocar quaisquer monstros por Invocação-Especial durante o turno em que ativar este efeito, exceto monstros de ÁGUA.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Peixe",
+    "Efeito"
+  ]
+}

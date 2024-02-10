@@ -1,0 +1,15 @@
+{
+  "id": 6428,
+  "type": "monster",
+  "name": "Homem-Bateria C",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se todos os \"Homem-Bateria C\" no seu Campo estão em Posição de Ataque, aumente o ATK de todos os monstros do Tipo Máquina no seu Campo em 500 pontos por cada \"Homem-Bateria C\" no seu Campo. Se todos os \"Homem-Bateria C\" no seu Campo estão em Posição de Defesa, aumente a DEF de todos os monstros do Tipo Máquina no seu Campo em 500 pontos por cada \"Homem-Bateria C\" no seu Campo.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Trovão",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 7439,
+  "type": "monster",
+  "name": "電磁蚊",
+  "nameRuby": "モスキート・マグネ",
+  "englishAttribute": "light",
+  "localizedAttribute": "光属性",
+  "effectText": "リバース：フィールド上に表側表示で存在する機械族モンスターを全て破壊する。",
+  "level": 3,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "昆虫族",
+    "リバース",
+    "効果"
+  ]
+}

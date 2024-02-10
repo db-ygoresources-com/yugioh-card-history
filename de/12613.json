@@ -1,0 +1,16 @@
+{
+  "id": 12613,
+  "type": "monster",
+  "name": "Chemiwesen Hydron Hawk",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.\n●Du kannst 1 Karte abwerfen und dann 1 Zwillingsmonster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition. Du kannst diesen Effekt von „Chemiwesen Hydron Hawk“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Zwilling",
+    "Effekt"
+  ]
+}

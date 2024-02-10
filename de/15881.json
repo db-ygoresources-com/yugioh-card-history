@@ -1,0 +1,16 @@
+{
+  "id": 15881,
+  "type": "monster",
+  "name": "Fossile Maschine - Totenkopfkonvoi",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Fels-Monster in deinem Friedhof + 1 Monster der Stufe 7 oder höher\nMuss erst durch „Fossilfusion“ als Spezialbeschwörung beschworen werden. Solange du diese als Fusionsbeschwörung beschworene Karte kontrollierst, verlieren alle Monster, die dein Gegner kontrolliert, ATK in Höhe ihrer Grund-DEF. Diese Karte kann während jeder Battle Phase bis zu 3 Angriffe gegen Monster durchführen. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst deinem Gegner 1000 Schaden zufügen.",
+  "level": 8,
+  "atk": 2100,
+  "def": 1800,
+  "properties": [
+    "Fels",
+    "Fusion",
+    "Effekt"
+  ]
+}

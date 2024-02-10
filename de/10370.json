@@ -1,0 +1,15 @@
+{
+  "id": 10370,
+  "type": "monster",
+  "name": "Xyz-Schiffshalter",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 2 Material von Monstern abhängst, die du kontrollierst. Wenn diese Karte auf diese Art beschworen wird: Du kannst 2 Fisch-Monster der Stufe 4 in deinem Friedhof wählen; beschwöre jene gewählten Ziele als Spezialbeschwörung in die Verteidigungsposition. Ihre Effekte werden annulliert, sie können weder angreifen noch ihre Kampfpositionen ändern und können nicht als Material für eine Xyz-Beschwörung verwendet werden, außer für die Xyz-Beschwörung eines WASSER Monsters.",
+  "level": 4,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12373,
+  "type": "monster",
+  "name": "EM 그네코브라",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "①: 이 카드는 직접 공격할 수 있다. ②: 이 카드는 공격했을 경우, 배틀 페이즈 종료시에 수비 표시가 된다.",
+  "pendEffect": "①: 1턴에 1번, 자신의 몬스터가 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 상대의 덱 맨 위의 카드를 묘지로 보낸다.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 300,
+  "def": 1800,
+  "properties": [
+    "파충류족",
+    "펜듈럼",
+    "효과"
+  ]
+}

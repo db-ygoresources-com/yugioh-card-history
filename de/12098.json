@@ -1,0 +1,17 @@
+{
+  "id": 12098,
+  "type": "monster",
+  "name": "Samuraikavallerie von Reptier",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Am Beginn des Damage Steps, falls diese Karte ein offenes Monster deines Gegners angreift, das kein Pendelmonster ist: Du kannst das Monster zerstören.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Dinosaurier",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13510,
+  "type": "monster",
+  "name": "Doppel-Byte-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Linkmonster\nDiese Karte erhält ATK in Höhe der Summe der Linkzahlen der Monster, die für ihre Linkbeschwörung verwendet wurden, x 300. Bleibt von Monstereffekten unberührt, außer von Effekten von Linkmonstern, und kann nicht durch Kampf zerstört werden, außer durch Kampf mit einem Linkmonster.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

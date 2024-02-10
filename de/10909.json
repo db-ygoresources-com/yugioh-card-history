@@ -1,0 +1,15 @@
+{
+  "id": 10909,
+  "type": "monster",
+  "name": "Geistertrick-Nekomusume",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Wenn Monster der Stufe 4 oder höher als Normal- oder Spezialbeschwörung beschworen werden: Ändere die Monster in die verdeckte Verteidigungsposition. Es muss ein anderes „Geistertrick“-Monster auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen.",
+  "level": 2,
+  "atk": 400,
+  "def": 900,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

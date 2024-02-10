@@ -1,0 +1,15 @@
+{
+  "id": 17361,
+  "type": "monster",
+  "name": "Arquidemônio de Labrinto",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Ganha 400 de ATK para cada Armadilha Normal com um nome diferente no seu Cemitério. Os monstros do seu oponente não podem escolher monstros Demônio como alvo de ataques, exceto \"Arquidemônio de Labrinto\". Você só pode usar cada um dos seguintes efeitos de \"Arquidemônio de Labrinto\" uma vez por turno. Se um Card de Armadilha for ativado (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Especial: você pode Baixar 1 Armadilha Normal do seu Deck que só pode ser ativada quando um ataque for declarado.",
+  "level": 7,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

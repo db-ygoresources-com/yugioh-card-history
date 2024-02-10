@@ -1,0 +1,16 @@
+{
+  "id": 16100,
+  "type": "monster",
+  "name": "Ursarktischer Megaeis",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während der Main Phase (Schnelleffekt): Du kannst 1 anderes Monster der Stufe 7 oder höher von deiner Hand als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von Monstern mit einer Stufe. Falls diese Karte als Spezialbeschwörung beschworen wird, solange du ein anderes „Ursarktisch“-Monster kontrollierst: Du kannst 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; zerstöre ihn oder sie. Du kannst jeden Effekt von „Ursarktischer Megaeis“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 700,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

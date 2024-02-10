@@ -1,0 +1,15 @@
+{
+  "id": 10634,
+  "type": "monster",
+  "name": "Erzunterweltler Kaiser, der oberste Herrscher des Horrors",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten, aber ihre Grund-ATK/-DEF werden halbiert. Falls diese Karte auf diese Art beschworen wird, wird sie während der End Phase zerstört. Du kannst keine Monster als Spezialbeschwörung beschwören, außer Unterweltler-Monstern. Einmal pro Spielzug: Du kannst 1 „Erzunterweltler“-Karte von deiner Hand oder deinem Friedhof verbannen und dann 1 Karte auf dem Spielfeld wählen; zerstöre sie.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

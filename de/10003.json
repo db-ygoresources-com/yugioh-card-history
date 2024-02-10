@@ -1,0 +1,16 @@
+{
+  "id": 10003,
+  "type": "monster",
+  "name": "Sternzeichen-Kundler Praesepe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 „Sternzeichen“-Monster der Stufe 4\nEinmal pro Spielzug, während des Damage Steps des Spielzugs eines beliebigen Spielers, wenn ein „Sternzeichen“-Monster, das du kontrollierst, angreift oder angegriffen wird: Du kannst 1 Xyz-Material von dieser Karte abhängen; das Monster erhält bis zur End Phase 1000 ATK.",
+  "rank": 4,
+  "atk": 2400,
+  "def": 800,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

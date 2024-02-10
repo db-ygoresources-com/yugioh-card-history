@@ -1,0 +1,16 @@
+{
+  "id": 11320,
+  "type": "monster",
+  "name": "Dante, Reisender des Brennenden Abgrunds",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 3\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen und eine Zahl von 1 bis 3 bestimmen und dann so viele oberste Karten deines Decks auf den Friedhof legen; bis zum Ende dieses Spielzugs erhält diese Karte für jede auf diese Art auf den Friedhof gelegte Karte 500 ATK. Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 „Brennenden Abgrund“-Karte in deinem Friedhof wählen, außer dieser Karte; füge sie deiner Hand hinzu.",
+  "rank": 3,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

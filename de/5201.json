@@ -1,0 +1,15 @@
+{
+  "id": 5201,
+  "type": "monster",
+  "name": "Tanzende Fee",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange diese Karte offen in Verteidigungsposition auf deiner Spielfeldseite liegt, erhöhe deine Life Points in jeder deiner Standby Phasen um 1000 Punkte.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

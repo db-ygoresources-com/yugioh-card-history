@@ -1,0 +1,15 @@
+{
+  "id": 7889,
+  "type": "monster",
+  "name": "Krafteinspritzer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug kannst du 600 Life Points zahlen, um alle offenen Monster vom Typ Psi während dieses Spielzugs 500 ATK erhalten zu lassen.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1400,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9434,
+  "type": "monster",
+  "name": "Maschinenwesen Kanone",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 oder mehr andere Maschine-Monster von deiner Hand auf den Friedhof legst. Erhält für jedes Monster, das für diese Spezialbeschwörung auf den Friedhof gelegt wurde, 800 ATK.",
+  "level": 8,
+  "atk": 0,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

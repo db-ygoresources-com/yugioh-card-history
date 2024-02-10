@@ -1,0 +1,18 @@
+{
+  "id": 19147,
+  "type": "monster",
+  "name": "Veda Kalarcanum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Pendeleffekt als Spezialbeschwörung beschworen werden. Du kannst nur einmal pro Spielzug einen oder mehr „Veda Kalarcanum“ als Spezialbeschwörung beschwören. Einmal pro Spielzug, falls dein Gegner ein oder mehr Monster als Spezialbeschwörung vom Extra Deck beschwört (außer während des Damage Steps): Du kannst 12 Karten von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof verdeckt verbannen; die End Phase dieses Spielzugs beginnt. Einmal pro Spielzug, während deiner Standby Phase: Gib diese Karte auf die Hand zurück, dann kannst du 1 deiner „Veda“-Monster, das verbannt ist oder sich in deiner Hand, deinem Deck oder deinem Friedhof befindet, als Spezialbeschwörung beschwören.",
+  "pendEffect": "Einmal pro Kette, falls ein oder mehr Monster zerstört werden: Lege 3 Zählmarken auf diese Karte. Der Pendelbereich dieser Karte wird um die Anzahl der Zählmarken auf ihr erhöht. Du kannst 12 Zählmarken von dieser Karte entfernen; beschwöre sie als Spezialbeschwörung.",
+  "pendScale": 0,
+  "level": 12,
+  "atk": 0,
+  "def": 4000,
+  "properties": [
+    "Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

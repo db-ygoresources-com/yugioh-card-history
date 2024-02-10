@@ -1,0 +1,18 @@
+{
+  "id": 17348,
+  "type": "monster",
+  "name": "Saion der Vaylantz-Bogenschütze",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du diese als Spezialbeschwörung beschworene Karte kontrollierst: Du kannst 1 Effektmonster auf dem Spielfeld wählen; wirf eine Münze und falls das Ergebnis Kopf ist, annulliere seine Effekte, oder falls das Ergebnis Zahl ist, halbiere seine ATK. Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Du kannst 1 Karte auf dem Spielfeld wählen; wirf eine Münze und falls das Ergebnis Kopf ist, zerstöre sie, oder falls das Ergebnis Zahl ist, gib sie auf die Hand zurück. Du kannst jeden Effekt von „Saion der Vaylantz-Bogenschütze“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Nicht-„Vaylantz“-Monster als Spezialbeschwörung beschwören, außer vom Extra Deck. Du kannst diesen Effekt von „Saion der Vaylantz-Bogenschütze“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

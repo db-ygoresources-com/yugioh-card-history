@@ -1,0 +1,16 @@
+{
+  "id": 9378,
+  "type": "monster",
+  "name": "Vylon-Prisma",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte von der Monsterkartenzone auf den Friedhof gelegt wird: Du kannst 500 Life Points zahlen und dann 1 offenes Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus. Falls das ausgerüstete Monster angreift oder angegriffen wird: Es erhält nur während des Damage Steps 1000 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Donner",
+    "Empfänger",
+    "Effekt"
+  ]
+}

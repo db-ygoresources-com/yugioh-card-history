@@ -1,0 +1,15 @@
+{
+  "id": 10911,
+  "type": "monster",
+  "name": "Geistertrick-Mumie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Solange diese Karte offen auf dem Spielfeld liegt, kannst du zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 „Geistertrick“-Monster als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Du kannst keine Monster als Spezialbeschwörung beschwören, außer FINSTERNIS Monstern.",
+  "level": 3,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

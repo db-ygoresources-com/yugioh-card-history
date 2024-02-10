@@ -1,0 +1,19 @@
+{
+  "id": 14931,
+  "type": "monster",
+  "name": "Beschützer-Welpe des Zerstörungsschwertkämpfers",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Zerstörungsschwert“-Karte von deinem Deck auf den Friedhof legen, dann kannst du 1 „Buster-Klingenkämpfer“-Monster als Spezialbeschwörung von deiner Hand beschwören. Am Ende deiner Battle Phase, falls dein Gegner keine Monster kontrolliert: Du kannst 1 „Buster-Klingenkämpfer“-Monster wählen, das du kontrollierst und das in diesem Spielzug keinen Angriff deklariert hat; füge deinem Gegner Schaden in Höhe der ATK des Monsters zu. Du kannst jeden Effekt von „Beschützer-Welpe des Zerstörungsschwertkämpfers“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 400,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}

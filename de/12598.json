@@ -1,0 +1,15 @@
+{
+  "id": 12598,
+  "type": "monster",
+  "name": "Raubpflanze Tintentau",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann 1 offenes Monster wählen, das du kontrollierst; in diesem Spielzug kann es alle Monster mit einer Raubtier-Zählmarke, die dein Gegner kontrolliert, je einmal angreifen. Falls diese offene Karte das Spielfeld verlässt: Lege 1 Raubtier-Zählmarke auf jedes als Spezialbeschwörung beschworene Monster, das dein Gegner kontrolliert, und falls du dies tust, werden alle der Monster, die Stufe 2 oder höher sind, zu Stufe 1, solange sie eine Raubtier-Zählmarke haben.",
+  "level": 2,
+  "atk": 800,
+  "def": 400,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

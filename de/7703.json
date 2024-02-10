@@ -1,0 +1,15 @@
+{
+  "id": 7703,
+  "type": "monster",
+  "name": "Schildkrieger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während der Schadensberechnung im Spielzug eines beliebigen Spielers: Du kannst diese Karte von deinem Friedhof verbannen; Monster, die du kontrollierst, können durch diesen Kampf nicht zerstört werden.",
+  "level": 3,
+  "atk": 800,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

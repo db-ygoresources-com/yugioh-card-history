@@ -1,0 +1,15 @@
+{
+  "id": 13800,
+  "type": "monster",
+  "name": "Orgoth der Unbarmherzige",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Einmal pro Spielzug, während deiner Main Phase: Du kannst 3 Mal einen sechsseitigen Würfel werfen und diese Karte erhält (bis zum Ende des Spielzugs deines Gegners) ATK/DEF in Höhe der Summe x 100, dann, falls 2 der Ergebnisse gleich waren, führe den entsprechenden Effekt aus. Falls alle 3 gleich waren, führe alle diese Effekte aus.\n●1 oder 2: Diese Karte kann bis zum Ende des Spielzugs deines Gegners weder durch Kampf noch durch Karteneffekte zerstört werden.\n●3 oder 4: Ziehe 2 Karten.\n●5 oder 6: Diese Karte kann in diesem Spielzug direkt angreifen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2450,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14925,
+  "type": "monster",
+  "name": "Künstlerkumpel Himmlischer Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während deiner Main Phase, falls diese Karte in diesem Spielzug als Normal- oder Spezialbeschwörung beschworen wurde: Du kannst für den Rest dieses Spielzugs die folgenden Effekte anwenden, basierend auf den anderen Monstern, die du derzeit kontrollierst.\n●Fusion: Diese Karte kann direkt angreifen.\n●Synchro: Dein Gegner kann keine Monstereffekte aktivieren.\n●Xyz: Die ATK dieser Karte werden zum Doppelten ihrer Grund-ATK.\n●Pendel: Während der End Phase, füge deiner Hand 1 Pendelmonster von deinem Deck hinzu.\nDu kannst diesen Effekt von „Künstlerkumpel Himmlischer Magier“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Wenn genau 1 offenes Fusions-, Synchro- oder Xyz-Monster, das du kontrollierst und das als Spezialbeschwörung vom Extra Deck beschworen wurde, durch Kampf oder einen Karteneffekt eines Gegners zerstört wird: Du kannst jenes zerstörte Monster als Spezialbeschwörung beschwören, dann zerstöre diese Karte. Du kannst diesen Effekt von „Künstlerkumpel Himmlischer Magier“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

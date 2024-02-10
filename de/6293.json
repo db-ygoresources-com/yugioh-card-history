@@ -1,0 +1,15 @@
+{
+  "id": 6293,
+  "type": "monster",
+  "name": "Vampir-Genesis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Vampirlord“ verbannst, den du kontrollierst. Einmal pro Spielzug: Du kannst 1 Zombie-Monster auf den Friedhof abwerfen und dann 1 Zombie-Monster, dessen Stufe kleiner ist als die des abgeworfenen Zombie-Monsters, in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

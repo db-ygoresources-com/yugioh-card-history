@@ -1,0 +1,16 @@
+{
+  "id": 4230,
+  "type": "monster",
+  "name": "Fallenmeister",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Zerstört eine Fallenkarte auf dem Spielfeld. Wenn das Ziel dieser Karte verdeckt ist, decke die entsprechende Karte auf. Ist die Karte eine Fallenkarte, wird sie zerstört. Ist dies nicht der Fall, wird sie wieder umgedreht. Eine so aufgedeckte Karte wird nicht aktiviert.",
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

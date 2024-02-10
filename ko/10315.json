@@ -1,0 +1,15 @@
+{
+  "id": 10315,
+  "type": "monster",
+  "name": "이마이루카",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "필드 위의 이 카드가 상대에 의해서 파괴되어 묘지로 보내졌을 때, 자신 덱의 맨 위 카드를 묘지로 보낸다. 묘지로 보낸 카드가 물 속성 몬스터였을 경우, 자신의 덱에서 카드를 1장 드로우한다.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "해룡족",
+    "효과"
+  ]
+}

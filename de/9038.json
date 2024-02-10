@@ -1,0 +1,15 @@
+{
+  "id": 9038,
+  "type": "monster",
+  "name": "Flinker Sonnenbarsch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird, lege 1 Monster vom Typ Fisch von deinem Deck auf den Friedhof. Dann kannst du 1 „Flinker Sonnenbarsch“ als Spezialbeschwörung von deinem Deck beschwören.",
+  "level": 2,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

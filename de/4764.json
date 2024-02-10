@@ -1,0 +1,15 @@
+{
+  "id": 4764,
+  "type": "monster",
+  "name": "Großschild-Wache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn eine Zauberkarte aktiviert wird, die diese verdeckte Karte (und keine anderen Karten) als Ziel wählt (Schnelleffekt): Ändere diese Karte in die offene Verteidigungsposition und falls du dies tust, annulliere die Aktivierung. Falls diese Karte angegriffen wird, ändere sie am Ende des Damage Steps in die Angriffsposition.",
+  "level": 4,
+  "atk": 100,
+  "def": 2600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

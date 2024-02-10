@@ -1,0 +1,16 @@
+{
+  "id": 9322,
+  "type": "monster",
+  "name": "Wattbarsch",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn diese Karte deinem Gegner Kampfschaden durch einen direkten Angriff zufügt, wirf 1 zufällige Karte von der Hand deines Gegners ab.",
+  "level": 3,
+  "atk": 300,
+  "def": 0,
+  "properties": [
+    "Donner",
+    "Empfänger",
+    "Effekt"
+  ]
+}

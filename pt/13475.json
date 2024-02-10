@@ -1,0 +1,10 @@
+{
+  "id": 13475,
+  "type": "trap",
+  "name": "Ataque Explosão de Laser",
+  "englishAttribute": "trap",
+  "localizedAttribute": "ARMADILHA",
+  "effectText": "Uma vez por turno, se um efeito de card ativado lançar alguma moeda, imediatamente depois que ele resolver, aplique o(s) seguinte(s) efeito(s), dependendo do número de caras.\n●1+: Cause 500 de dano ao seu oponente.\n●2+: Destrua 1 card que seu oponente controla.\n●3+: Olhe a mão do seu oponente e descarte 1 card da mão dele.\nQuando um efeito for ativado que lance uma moeda 2 ou mais vezes: você pode banir este card do Cemitério; considere todos os resultados como caras.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Contínua"
+}

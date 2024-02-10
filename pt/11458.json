@@ -1,0 +1,18 @@
+{
+  "id": 11458,
+  "type": "monster",
+  "name": "D/D Cérbero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Quando este card for Invocado por Invocação-Pêndulo da mão enquanto você controlar um monstro \"D/D\" que não seja \"D/D Cérbero\": você pode escolher 1 Card de Magia Contínua no seu Cemitério; adicione-o à sua mão.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro \"D/D\" que você controla; mude o Nível dele para 4 e, se isso acontecer, ele ganha 400 de ATK e DEF (mesmo que este card deixe o campo).",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

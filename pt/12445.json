@@ -1,0 +1,19 @@
+{
+  "id": 12445,
+  "type": "monster",
+  "name": "Alto Paladino Nirvana",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 Regulador + 1+ Monstros Sincro não-Reguladores\nPara a Invocação-Sincro deste card, você pode considerar 1 Monstro Pêndulo Invocado por Invocação-Pêndulo que você controla como um Regulador. Se este card for Invocado por Invocação-Sincro usando um Monstro Pêndulo Regulador Invocado por Invocação-Pêndulo: você pode escolher 1 card no seu Cemitério; adicione-o à sua mão. Quando este card destruir um monstro do oponente em batalha: você pode diminuir pela metade os PV do seu oponente. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se um Monstro Pêndulo que você controla atacar, para essa batalha, ele não pode ser destruído em batalha e, além disso, você não sofre dano de batalha. No final da Etapa de Dano, se um Monstro Pêndulo que você controla atacou: até o final deste turno, todos os monstros que seu oponente controla atualmente perdem ATK igual ao ATK do monstro atacante.",
+  "pendScale": 8,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Mago",
+    "Sincro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

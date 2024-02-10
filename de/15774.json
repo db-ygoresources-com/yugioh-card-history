@@ -1,0 +1,16 @@
+{
+  "id": 15774,
+  "type": "monster",
+  "name": "Myutant Synthese",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 „Myutant“-Monster mit unterschiedlichen Eigenschaften\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst diesen Effekt aktivieren; für den Rest dieses Spielzugs bleibt diese offene Karte von den Effekten einer Karte eines Gegners desselben Typs (Monster, Zauber oder Falle) wie die Karte unberührt. Falls diese als Fusionsbeschwörung beschworene Karte, die du Besitzer kontrollierst, durch eine Karte eines Gegners zerstört wird: Du kannst deiner Hand 1 deiner verbannten „Myutant“-Karten hinzufügen. Du kannst jeden Effekt von „Myutant Synthese“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psi",
+    "Fusion",
+    "Effekt"
+  ]
+}

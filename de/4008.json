@@ -1,0 +1,15 @@
+{
+  "id": 4008,
+  "type": "monster",
+  "name": "Mystische Elfe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Eine zerbrechliche Elfe, die nicht sehr angriffsstark ist, dafür aber dank mystischer Kräfte über sehr gute Verteidigungsmöglichkeiten verfügt.",
+  "level": 4,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Normal"
+  ]
+}

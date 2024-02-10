@@ -1,0 +1,16 @@
+{
+  "id": 11078,
+  "type": "monster",
+  "name": "Artefakt Durendal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster der Stufe 5\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren.\n●Wenn ein Monstereffekt auf dem Spielfeld aktiviert wird ODER wenn eine Normale Zauber-/Fallenkarte aktiviert wird: Du kannst 1 Material von dieser Karte abhängen; der aktivierte Effekt wird zu „Zerstöre 1 Zauber-/Fallenkarte, die dein Gegner kontrolliert.“\n●Du kannst 1 Material von dieser Karte abhängen; jeder Spieler mit einer Hand mischt seine gesamte Hand ins Deck, dann zieht er dieselbe Anzahl Karten, die er ins Deck gemischt hat.",
+  "rank": 5,
+  "atk": 2400,
+  "def": 2100,
+  "properties": [
+    "Fee",
+    "Xyz",
+    "Effekt"
+  ]
+}

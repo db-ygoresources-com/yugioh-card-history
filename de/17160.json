@@ -1,0 +1,20 @@
+{
+  "id": 17160,
+  "type": "monster",
+  "name": "Schreckensklaue Tri-Heart",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 Effektmonster\nMuss als Linkbeschwörung beschworen werden. Alle offenen Monster auf dem Spielfeld werden in die Verteidigungsposition geändert. Bleibt von aktivierten Effekten von Monstern in Verteidigungsposition unberührt. Einmal pro Spielzug, falls sich diese Karte in der Extra-Monsterzone befindet: Du kannst 1 „Schreckensklaue“-Monster der Stufe 3 in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung und falls du dies tust, füge deiner Hand 1 „Schreckensklaue“-Monster von deinem Deck hinzu, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Schreckensklaue“-Monstern.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Link",
+    "Effekt"
+  ]
+}

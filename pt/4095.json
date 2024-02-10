@@ -1,0 +1,15 @@
+{
+  "id": 4095,
+  "type": "monster",
+  "name": "Tartaruga Catapulta",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Uma vez por turno: você pode oferecer 1 monstro como Tributo; cause dano ao seu oponente igual à metade do ATK que o monstro oferecido como Tributo tinha no campo.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Efeito"
+  ]
+}

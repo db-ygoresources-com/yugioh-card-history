@@ -1,0 +1,15 @@
+{
+  "id": 11981,
+  "type": "monster",
+  "name": "Riesiger Paarfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 Monster abwerfen; beschwöre 1 Monster vom Typ Wyrm der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Riesiger Paarfisch“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Wyrm",
+    "Effekt"
+  ]
+}

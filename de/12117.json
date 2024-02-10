@@ -1,0 +1,15 @@
+{
+  "id": 12117,
+  "type": "monster",
+  "name": "Superstarker Samurai Vorbereitete Verteidigung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normal- oder Flippbeschwörung beschworen werden, falls du Zauber-/Fallenkarten in deinem Friedhof hast. Wenn du Kampfschaden erhältst, falls du keine Zauber-/Fallenkarten in deinem Friedhof hast und sich diese Karte in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, kann sie in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden.",
+  "level": 3,
+  "atk": 100,
+  "def": 2100,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

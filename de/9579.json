@@ -1,0 +1,16 @@
+{
+  "id": 9579,
+  "type": "monster",
+  "name": "Donut der Verdammnis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Zerstöre alle offenen Monster mit Grund-ATK oder -DEF von 0 auf dem Spielfeld.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

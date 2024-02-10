@@ -1,0 +1,18 @@
+{
+  "id": 11700,
+  "type": "monster",
+  "name": "Zefraniu, Geheimnis des Yang Zing",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn diese Karte als Pendelbeschwörung beschworen wird oder wenn diese Karte durch Kampf oder einen Karteneffekt zerstört wird, solange sie in deiner Monsterzone liegt: Du kannst deiner Hand 1 „Yang Zing“- oder „Zefra“-Zauber/Falle von deinem Deck hinzufügen. Du kannst diesen Effekt von „Zefraniu, Geheimnis des Yang Zing“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Yang Zing“- und „Zefra“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 0,
+  "def": 2600,
+  "properties": [
+    "Wyrm",
+    "Pendel",
+    "Effekt"
+  ]
+}

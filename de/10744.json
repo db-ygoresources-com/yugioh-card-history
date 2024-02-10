@@ -1,0 +1,15 @@
+{
+  "id": 10744,
+  "type": "monster",
+  "name": "Seelenentzugsdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch den Effekt eines Xyz-Monsters vom Typ Drache, der dir gehört, als Spezialbeschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Wenn als Spezialbeschwörung beschworen, falls deine Life Points niedriger sind als die deines Gegners: Diese Karte erhält ATK in Höhe deines aktuellen Life Point-Defizits und falls sie dies tut, erhält dein Gegner in diesem Spielzug keinen weiteren Schaden. Diese Karte kann deinen Gegner nicht direkt angreifen.",
+  "level": 8,
+  "atk": 4000,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

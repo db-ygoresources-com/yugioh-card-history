@@ -1,0 +1,15 @@
+{
+  "id": 14801,
+  "type": "monster",
+  "name": "Unsterblicher Phönix-Gerfried",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst 1 Ausrüstungszauber von deiner Spielfeldseite oder deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Am Beginn des Damage Steps, falls diese Karte angreift: Du kannst diese Karte mit 1 offenen Monster auf dem Spielfeld als Ausrüstungszauber ausrüsten (max. 1), der dieser Karte 500 ATK gibt. Wenn ein Monstereffekt aktiviert wird (Schnelleffekt): Du kannst 1 offene Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre es. Du kannst jeden Effekt von „Unsterblicher Phönix-Gerfried“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2200,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

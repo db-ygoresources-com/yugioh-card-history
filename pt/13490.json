@@ -1,0 +1,19 @@
+{
+  "id": 13490,
+  "type": "monster",
+  "name": "Rei dos Mestres Arquidemônio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 monstros Demônio\nUma vez por turno, durante sua Fase de Apoio, pague 500 PV ou destrua este card. Uma vez por Corrente, se você pagar PV (exceto durante a Etapa de Dano): você pode enviar 1 monstro Demônio com ATK ou DEF igual ao valor pago do seu Deck para o Cemitério. Uma vez por Corrente, se um ou mais monstros Demônio forem enviados para o seu Cemitério (exceto durante a Etapa de Dano): você pode lançar um dado de seis faces e, depois, aplicar este efeito em 1 desses monstros, de acordo com o resultado.\n●1: Adicione-o à sua mão.\n●2, 3, 4, 5: Embaralhe-o no Deck.\n●6: Invoque-o por Invocação-Especial.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Demônio",
+    "Link",
+    "Efeito"
+  ]
+}

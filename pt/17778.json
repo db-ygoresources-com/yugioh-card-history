@@ -1,0 +1,18 @@
+{
+  "id": 17778,
+  "type": "monster",
+  "name": "Ignis Fênix, o Dracossassino",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Cavaleirardor\".)\nSe este card no campo for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 monstro \"Dracossassino\" ou \"Cavaleirardor\" do seu Deck, exceto \"Ignis Fênix, o Dracossassino\" e, se isso acontecer, ele é considerado como um Regulador. Você só pode usar este efeito de \"Ignis Fênix, o Dracossassino\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode embaralhar no Deck 1 Monstro Pêndulo com a face para cima do seu Deck Adicional e, depois, adicione 1 monstro \"Dracossassino\" ou \"Cavaleirardor\" que não seja Pêndulo do seu Deck à sua mão. Você só pode usar este efeito de \"Ignis Fênix, o Dracossassino\" uma vez por turno.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1700,
+  "def": 1900,
+  "properties": [
+    "Guerreiro",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

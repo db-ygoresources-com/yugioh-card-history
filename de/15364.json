@@ -1,0 +1,15 @@
+{
+  "id": 15364,
+  "type": "monster",
+  "name": "Elektroraupe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster zerstören, das dein Gegner kontrolliert und dessen ATK kleiner als die dieser Karte sind. Du kannst diesen Effekt von „Elektroraupe“ nur einmal pro Spielzug verwenden. Alle Monster, die dein Gegner kontrolliert, müssen angreifen, falls möglich.",
+  "level": 7,
+  "atk": 2700,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5371,
+  "type": "monster",
+  "name": "Gewebekrug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Jeder Spieler mischt alle Karten von seiner Hand, seiner Spielfeldseite und seinem Friedhof ins Deck, dann zieht er 5 Karten.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Pflanze",
+    "Flipp",
+    "Effekt"
+  ]
+}

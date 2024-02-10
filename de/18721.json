@@ -1,0 +1,15 @@
+{
+  "id": 18721,
+  "type": "monster",
+  "name": "Transzendosaurier Meteorier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 2 andere Dinosaurier-Monster in deiner Hand und/oder auf deiner Spielfeldseite zerstören und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Dinosaurier-Monster von deinem Deck auf den Friedhof legen. Falls diese Karte zerstört wird: Du kannst 1 Normales Monster von deinem Friedhof ins Deck mischen, dann kannst du diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Transzendosaurier Meteorier“ nur einmal pro Spielzug verwenden.",
+  "level": 12,
+  "atk": 3500,
+  "def": 700,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

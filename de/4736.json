@@ -1,0 +1,16 @@
+{
+  "id": 4736,
+  "type": "monster",
+  "name": "Dunkeläugiger Illusionist",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "FLIPP: Wähle 1 Monster auf dem Spielfeld; es kann nicht angreifen, solange diese Karte offen auf dem Spielfeld liegt.",
+  "level": 2,
+  "atk": 0,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Flipp",
+    "Effekt"
+  ]
+}

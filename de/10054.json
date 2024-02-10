@@ -1,0 +1,15 @@
+{
+  "id": 10054,
+  "type": "monster",
+  "name": "Insektor Giga-Grille",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Monster vom Typ Insekt von deinem Friedhof verbannen, um 1 offenes „Insektor“-Monster zu wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte von deinem Friedhof aus. Dieser Effekt von „Insektor Giga-Grille“ kann nur einmal pro Spielzug verwendet werden. Solange diese Karte ein Monster ausrüstet, werden die Grund-ATK des Monsters zu 2000 und falls es ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1300,
+  "properties": [
+    "Insekt",
+    "Effekt"
+  ]
+}

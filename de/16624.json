@@ -1,0 +1,18 @@
+{
+  "id": 16624,
+  "type": "monster",
+  "name": "Pazuzule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Pendelbeschwörungen deiner Monster können nicht annulliert werden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 Karte in deiner anderen Pendelzone wählen; der Pendelbereich dieser Karte wird bis zum Ende dieses Spielzugs gleich der Stufe jener Pendelmonsterkarte, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer als Pendelbeschwörung.",
+  "pendScale": 1,
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

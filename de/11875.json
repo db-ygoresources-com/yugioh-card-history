@@ -1,0 +1,15 @@
+{
+  "id": 11875,
+  "type": "monster",
+  "name": "Huntaur",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Einmal pro Spielzug, falls diese Karte gegen ein Monster deines Gegners kämpft, während der Schadensberechnung (im Spielzug eines beliebigen Spielers): Du kannst 1 Monster vom Typ Ungeheuer, Ungeheuer-Krieger oder Geflügeltes Ungeheuer von deiner Hand oder deinem Deck auf den Friedhof legen und falls du dies tust, erhält diese Karte bis zum Ende der Battle Phase ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 100.",
+  "level": 3,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

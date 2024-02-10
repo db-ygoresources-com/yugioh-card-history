@@ -1,0 +1,16 @@
+{
+  "id": 9970,
+  "type": "monster",
+  "name": "Ogerdrache der Leere",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 FINSTERNIS Empfänger + 1+ Nicht-Empfänger-Monster\nEinmal pro Spielzug, wenn dein Gegner eine Zauber-/Fallenkarte aktiviert, solange du keine Karten in deiner Hand hast (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre sie.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

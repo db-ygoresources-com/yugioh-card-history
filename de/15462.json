@@ -1,0 +1,16 @@
+{
+  "id": 15462,
+  "type": "monster",
+  "name": "Zeitzauberer von morgen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Zeitzauberer“ + 1 Effektmonster\nEinmal pro Spielzug, solange du diese als Fusionsbeschwörung beschworene Karte kontrollierst: Du kannst eine Münze werfen und das Ergebnis voraussagen. Zerstöre so viele Monster auf dem Spielfeld wie möglich und falls du dies tust, füge Schaden in Höhe der Hälfte der Summe der Grund-ATK der zerstörten offenen Monster zu. Falls du den Münzwurf richtig vorausgesagt hast, erhält dein Gegner den Schaden, falls du ihn falsch vorausgesagt hast, erhältst du den Schaden.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1900,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

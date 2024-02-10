@@ -1,0 +1,18 @@
+{
+  "id": 12119,
+  "type": "monster",
+  "name": "Superstarker Samurai General Koralle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du keine Zauber-/Fallenkarten in deinem Friedhof hast: Du kannst bis zu 2 „Superstarker Samurai“-Monster als Tribut anbieten; ziehe so viele Karten. Du kannst diesen Effekt von „Superstarker Samurai General Koralle“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Solange du eine oder mehr Zauber-/Fallenkarten in deinem Friedhof hast, wird der Pendelbereich dieser Karte zu 4. Einmal pro Spielzug, wenn ein „Superstarker Samurai“-Monster, das du kontrollierst, ein Monster deines Gegners durch Kampf zerstört: Du kannst diesen Effekt aktivieren; das Monster kann sofort einen zweiten Angriff durchführen (selbst falls diese Karte das Spielfeld verlässt).",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

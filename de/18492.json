@@ -1,0 +1,16 @@
+{
+  "id": 18492,
+  "type": "monster",
+  "name": "Ringowürm, der hundert Äpfel bewachende Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein offenes Nichteffekt-Monster auf dem Spielfeld liegt: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während deiner Main Phase, falls du in diesem Spielzug eine Synchrobeschwörung durchgeführt hast: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 „Hundert-Äpfel-Spielmarke“ (Wyrm/LICHT/Stufe 2/ATK 100/DEF 100) als Spezialbeschwörung. Der Spieler, der sie beschworen hat, kann sie für eine Synchrobeschwörung als Empfänger behandeln. Du kannst jeden Effekt von „Ringowürm, der hundert Äpfel bewachende Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 100,
+  "def": 1100,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

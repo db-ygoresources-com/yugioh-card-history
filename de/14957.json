@@ -1,0 +1,16 @@
+{
+  "id": 14957,
+  "type": "monster",
+  "name": "Roter Supernova-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 Empfänger + 1+ Nicht-Empfänger-Synchromonster\nMuss erst als Synchrobeschwörung beschworen werden. Erhält für jeden Empfänger in deinem Friedhof 500 ATK. Kann nicht durch Karteneffekte eines Gegners zerstört werden. Einmal pro Spielzug, wenn ein Monstereffekt deines Gegners aktiviert wird oder wenn ein Monster eines Gegners einen Angriff deklariert (Schnelleffekt): Du kannst diesen Effekt aktivieren; verbanne diese Karte, zusätzlich verbanne alle Karten, die dein Gegner kontrolliert. Einmal pro Spielzug, während deiner nächsten End Phase, nachdem diese Karte durch ihren eigenen Effekt verbannt wurde: Beschwöre diese verbannte Karte als Spezialbeschwörung.",
+  "level": 12,
+  "atk": 4000,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

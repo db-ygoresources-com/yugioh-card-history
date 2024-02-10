@@ -1,0 +1,16 @@
+{
+  "id": 18035,
+  "type": "monster",
+  "name": "Zep, Rubin des Ghoti",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst diese Karte von deiner Hand verbannen und dann 1 Fisch-Monster in deinem Friedhof wählen; verbanne es. Während des Spielzugs deines Gegners, falls diese Karte verbannt wird: Du kannst sie als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird, kannst du (außer während des Damage Steps): Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Fisch-Synchromonster als Synchrobeschwörung und verwende dafür diese Karte, die du kontrollierst. Du kannst jeden Effekt von „Zep, Rubin des Ghoti“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Fisch",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 11659,
+  "type": "monster",
+  "name": "Mandrache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Diese Alraune beherbergt die Seele eines von Sorgen geplagten Drachen. Die verfluchten Töne ihrer Klagen verursachen Furcht und Verzweiflung.",
+  "pendScale": 2,
+  "level": 5,
+  "atk": 2500,
+  "def": 1000,
+  "properties": [
+    "Pflanze",
+    "Pendel",
+    "Normal"
+  ]
+}

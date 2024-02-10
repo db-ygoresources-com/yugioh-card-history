@@ -1,0 +1,16 @@
+{
+  "id": 7848,
+  "type": "monster",
+  "name": "Verdammniskaiser-Drache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "„Seuchenverbreitender Zombie“ + 1+ Zombie-Nicht-Empfänger-Monster\nWenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Zombie-Monster im Friedhof deines Gegners wählen; beschwöre das gewählte Ziel als Spezialbeschwörung auf deine Spielfeldseite in die Angriffsposition, aber zerstöre es, wenn diese Karte das Spielfeld verlässt.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Synchro",
+    "Effekt"
+  ]
+}

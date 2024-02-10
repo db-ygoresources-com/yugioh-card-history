@@ -1,0 +1,19 @@
+{
+  "id": 14299,
+  "type": "monster",
+  "name": "Puzzlomino, der Absetzlöscher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster mit unterschiedlichen Stufen\nFalls ein Monster offen als Spezialbeschwörung in eine Zone beschworen wird, auf die diese Karte zeigt, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst eine Stufe von 1 bis 8 deklarieren; das Monster wird bis zum Ende des Spielzugs zu der Stufe. Du kannst 2 Monster mit derselben Stufe wählen (1 von jeder Spielfeldseite); zerstöre sie. Du kannst jeden Effekt von „Puzzlomino, der Absetzlöscher“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1300,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5339,
+  "type": "monster",
+  "name": "Höhlendrache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, solange du ein Monster kontrollierst. Diese Karte kann keinen Angriff deklarieren, es sei denn, du kontrollierst ein anderes Monster vom Typ Drache.",
+  "level": 4,
+  "atk": 2000,
+  "def": 100,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10221,
+  "type": "monster",
+  "name": "Atlantische schwere Infanterie",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Während deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung oder deinem Setzen 1 Monster vom Typ Seeschlange der Stufe 4 oder niedriger als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Wenn diese Karte auf den Friedhof gelegt wird, um den Effekt eines WASSER Monsters zu aktivieren: Wähle 1 offene Karte, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "level": 2,
+  "atk": 0,
+  "def": 1600,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

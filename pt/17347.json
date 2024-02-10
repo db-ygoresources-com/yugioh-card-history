@@ -1,0 +1,18 @@
+{
+  "id": 17347,
+  "type": "monster",
+  "name": "Shinonome, a Sacerdotisa Vaylantz",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Durante sua Fase Principal, se você controlar este card Invocado por Invocação-Especial: você pode adicionar 1 Magia \"Vaylantz\" do seu Deck à sua mão. Se este card na Zona de Monstros se mover para outra Zona de Monstros: você pode adicionar 1 monstro \"Vaylantz\" do seu Deck à sua mão, exceto \"Shinonome, a Sacerdotisa Vaylantz\". Você só pode usar cada efeito de \"Shinonome, a Sacerdotisa Vaylantz\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode Invocar este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna e, além disso, você não pode Invocar por Invocação-Especial monstros que não sejam \"Vaylantz\" pelo resto deste turno, exceto do Deck Adicional. Você só pode usar este efeito de \"Shinonome, a Sacerdotisa Vaylantz\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

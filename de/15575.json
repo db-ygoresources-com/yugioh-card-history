@@ -1,0 +1,15 @@
+{
+  "id": 15575,
+  "type": "monster",
+  "name": "Eda, die Sonnenmagierin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen oder aufgedeckt wird: Du kannst 1 Hexer-Monster mit 1500 DEF als Spezialbeschwörung von deiner Hand oder deinem Deck in die verdeckte Verteidigungsposition beschwören, außer „Eda, die Sonnenmagierin“. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 verdecktes Hexer-Monster, das du kontrollierst, in die offene Angriffs- oder Verteidigungsposition ändern. Du kannst jeden Effekt von „Eda, die Sonnenmagierin“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8791,
+  "type": "monster",
+  "name": "Ewig infernaler Rächer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn ein Monster, das du kontrollierst, außer „Ewig infernaler Rächer“, durch Kampf mit einem Monster deines Gegners zerstört und auf den Friedhof gelegt wird, solange du keine Karten in deiner Hand hast, kannst du diese Karte als Spezialbeschwörung von deinem Friedhof beschwören. In dem Fall entspricht die Stufe dieser Karte der Stufe deines zerstörten Monsters.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18161,
+  "type": "monster",
+  "name": "Ator do Abismo - Dramaturga da Liberdade",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card for Invocado por Invocação-Especial da Zona de Pêndulo: o dono deste card revela 3 Magias \"Script do Abismo\" do Deck dele, o oponente dele elege 1 delas aleatoriamente para que o dono deste card Baixe no campo dele (mas o dono a destrói durante a Fase Final) e, além disso, embaralhe o resto no Deck. Se este card for destruído: você pode embaralhar no Deck 1 Magia \"Script do Abismo\" do seu Cemitério. Você só pode usar cada efeito de \"Ator do Abismo - Dramaturga da Liberdade\" uma vez por turno.",
+  "pendEffect": "Quando um monstro declarar um ataque: você pode descartar 1 card; Invoque este card por Invocação-Especial no campo do seu oponente. Você só pode usar este efeito de \"Ator do Abismo - Dramaturga da Liberdade\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}
