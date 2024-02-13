@@ -1,0 +1,15 @@
+{
+  "id": 7805,
+  "type": "monster",
+  "name": "Neos Sábio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal ou Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao enviar 1 \"Neos, o HERÓI do Elemento\" com a face para cima e 1 \"Yubel\" com a face para cima que você controla para o Cemitério. Não pode ser destruído por efeitos de card. No final da Etapa de Dano, se este card batalhou um monstro do oponente: cause dano ao seu oponente igual ao ATK desse monstro do oponente e, além disso, você ganha PV igual à DEF desse monstro do oponente.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}
