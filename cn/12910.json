@@ -1,0 +1,19 @@
+{
+  "id": 12910,
+  "type": "monster",
+  "name": "白翼的魔术师",
+  "englishAttribute": "wind",
+  "localizedAttribute": "风属性",
+  "effectText": "此卡在规则上也视为“同步龙”卡。灵摆召唤的此卡被使用于同步召唤的情况下将被除外。",
+  "pendEffect": "①：１回合１次，可将以自己场上的魔法师族・暗属性怪兽为对象发动的效果无效。然后将此卡破坏。",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "魔法师族",
+    "灵摆",
+    "协调",
+    "效果"
+  ]
+}

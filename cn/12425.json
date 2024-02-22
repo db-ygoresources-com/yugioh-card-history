@@ -1,0 +1,18 @@
+{
+  "id": 12425,
+  "type": "monster",
+  "name": "机动雾龙・甲龙",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "①：只要此卡存在于怪兽区域，自己的“机动雾龙”怪兽战斗破坏的怪兽将被除外。",
+  "pendEffect": "①：只要此卡存在于灵摆区域，仅限１次，可将以自己场上的其他“机动雾龙”卡为对象发动的效果无效。然后，将此卡破坏。",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "机械族",
+    "灵摆",
+    "效果"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12136,
+  "type": "monster",
+  "name": "机动雾龙・角龙",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "①：自己场上的怪兽均为“机动雾龙・角龙”以外的“机动雾龙”怪兽的情况下，此卡可从手牌中特殊召唤。",
+  "pendEffect": "①：自己场上的其他“机动雾龙”卡将被战斗或对手的效果破坏的情况下，作为代替可将此卡破坏。",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "机械族",
+    "灵摆",
+    "效果"
+  ]
+}

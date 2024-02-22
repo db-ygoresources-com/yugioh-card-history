@@ -1,0 +1,18 @@
+{
+  "id": 11458,
+  "type": "monster",
+  "name": "DD 刻耳柏洛斯",
+  "englishAttribute": "dark",
+  "localizedAttribute": "暗属性",
+  "effectText": "①：此卡从手牌灵摆召唤成功时，自己场上有“DD 刻耳柏洛斯”以外的“DD”怪兽存在的情况下，以自己墓地的１张永续魔法卡为对象可以发动。将该卡加入手牌。",
+  "pendEffect": "①：１回合１次，以自己场上的１只“DD”怪兽为对象可以发动。将该怪兽的等级改成４，攻击力・守备力上升４００。",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "恶魔族",
+    "灵摆",
+    "效果"
+  ]
+}

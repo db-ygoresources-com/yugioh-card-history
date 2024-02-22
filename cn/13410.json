@@ -1,0 +1,19 @@
+{
+  "id": 13410,
+  "type": "monster",
+  "name": "降频承办机",
+  "englishAttribute": "dark",
+  "localizedAttribute": "暗属性",
+  "effectText": "效果怪兽2只\n①：1回合1次，以此卡连接端的1只表侧表示怪兽，和对手场上的1只表侧表示怪兽为对象可以发动。该对手怪兽的攻击力直至回合结束时为止，下降相当于作为对象的连接端的怪兽的攻击力数值。",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1000,
+  "properties": [
+    "电子界族",
+    "连接",
+    "效果"
+  ]
+}

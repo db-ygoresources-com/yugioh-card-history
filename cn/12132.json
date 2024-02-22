@@ -1,0 +1,18 @@
+{
+  "id": 12132,
+  "type": "monster",
+  "name": "机动雾龙・剑龙",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "①：自己的其他灵摆怪兽与对手怪兽进行战斗的伤害计算后可以发动。将进行该战斗的双方的怪兽破坏。",
+  "pendEffect": "①：自己场上的其他“机动雾龙”卡将被战斗或对手的效果破坏的情况下，作为代替可将此卡破坏。",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "机械族",
+    "灵摆",
+    "效果"
+  ]
+}

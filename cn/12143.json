@@ -1,0 +1,18 @@
+{
+  "id": 12143,
+  "type": "monster",
+  "name": "黑暗多里雅德",
+  "englishAttribute": "dark",
+  "localizedAttribute": "暗属性",
+  "effectText": "①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组挑选地・水・炎・风属性怪兽各1只，以喜欢的顺序放回牌组上面。",
+  "pendEffect": "①：自己场上的地・水・炎・风属性怪兽的攻击力・守备力上升相当于自己场上怪兽属性的种类×200的数值。",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "魔法师族",
+    "灵摆",
+    "效果"
+  ]
+}

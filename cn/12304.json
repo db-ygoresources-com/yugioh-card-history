@@ -1,0 +1,18 @@
+{
+  "id": 12304,
+  "type": "monster",
+  "name": "机动雾龙・棘龙",
+  "englishAttribute": "water",
+  "localizedAttribute": "水属性",
+  "effectText": "①：解放自己场上１只其他的“机动雾龙”怪兽，可从以下效果中选择１个发动。\n●此回合，此卡可直接攻击。\n●此回合，此卡在１次战斗阶段中可攻击２次。",
+  "pendEffect": "①：自己场上的其他“机动雾龙”卡将被战斗或对手的效果破坏的情况下，作为代替可将此卡破坏。",
+  "pendScale": 3,
+  "level": 5,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "机械族",
+    "灵摆",
+    "效果"
+  ]
+}
