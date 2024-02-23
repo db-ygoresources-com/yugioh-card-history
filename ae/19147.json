@@ -1,0 +1,18 @@
+{
+  "id": 19147,
+  "type": "monster",
+  "name": "Veda Kalarcanum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own Pendulum Effect. You can only Special Summon \"Veda Kalarcanum(s)\" once per turn. Once per turn, if your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can banish 12 cards from your hand, field, and/or GY, face-down; it becomes the End Phase of this turn. Once per turn, during your Standby Phase: Return this card to the hand, then you can Special Summon 1 of your \"Veda\" monsters that is banished or in your hand, Deck, or GY.",
+  "pendEffect": "Once per Chain, if a monster(s) is destroyed: Place 3 counters on this card. This card's Pendulum Scale is increased by the number of counters on it. You can remove 12 counters from this card; Special Summon it.",
+  "pendScale": 0,
+  "level": 12,
+  "atk": 0,
+  "def": 4000,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}
