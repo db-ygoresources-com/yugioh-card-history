@@ -1,0 +1,16 @@
+{
+  "id": 4769,
+  "type": "monster",
+  "name": "Parasite Paracide",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Shuffle this card face-up into your opponent's Deck.\nIf you draw this card after it was added to your Deck by its effect: Special Summon it in Defense Position, and if you do, take 1000 damage. All monsters controlled by the player that Summoned this card by its effect become Insect monsters.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Insect",
+    "Flip",
+    "Effect"
+  ]
+}

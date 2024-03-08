@@ -1,0 +1,16 @@
+{
+  "id": 4969,
+  "type": "monster",
+  "name": "Morphing Jar #2",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the Graveyard.",
+  "level": 3,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}

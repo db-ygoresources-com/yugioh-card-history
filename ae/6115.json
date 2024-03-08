@@ -1,0 +1,15 @@
+{
+  "id": 6115,
+  "type": "monster",
+  "name": "Element Dragon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\n●FIRE: This card gains 500 ATK.\n●WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Dragon",
+    "Effect"
+  ]
+}

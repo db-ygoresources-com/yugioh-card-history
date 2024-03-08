@@ -1,0 +1,18 @@
+{
+  "id": 12906,
+  "type": "monster",
+  "name": "Astrograph Sorcerer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If a card(s) you control is destroyed by battle or card effect: You can Special Summon this card from your hand, then you can choose 1 monster in the GY, Extra Deck, or that is banished, and that was destroyed this turn, and add 1 monster with the same name from your Deck to your hand. You can banish this card you control, plus 4 monsters from your hand, field, and/or GY (1 each with \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", and \"Fusion Dragon\" in their names); Special Summon 1 \"Supreme King Z-ARC\" from your Extra Deck. (This is treated as a Fusion Summon.)",
+  "pendEffect": "During your Main Phase: You can destroy this card, and if you do, take 1 \"Stargazer Magician\" from your hand or Deck, and either place it in your Pendulum Zone or Special Summon it. You can only use this effect of \"Astrograph Sorcerer\" once per turn.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

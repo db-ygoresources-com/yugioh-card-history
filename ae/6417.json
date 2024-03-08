@@ -1,0 +1,15 @@
+{
+  "id": 6417,
+  "type": "monster",
+  "name": "Cyber Archfiend",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to your normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

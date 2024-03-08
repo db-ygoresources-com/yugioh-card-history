@@ -1,0 +1,15 @@
+{
+  "id": 8000,
+  "type": "monster",
+  "name": "Trap Reactor ・Y FI",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.",
+  "level": 4,
+  "atk": 800,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

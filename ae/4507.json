@@ -1,0 +1,16 @@
+{
+  "id": 4507,
+  "type": "monster",
+  "name": "Man-Eater Bug",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Target 1 monster on the field; destroy it.",
+  "level": 2,
+  "atk": 450,
+  "def": 600,
+  "properties": [
+    "Insect",
+    "Flip",
+    "Effect"
+  ]
+}

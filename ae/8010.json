@@ -1,0 +1,16 @@
+{
+  "id": 8010,
+  "type": "monster",
+  "name": "Dark Tinker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.",
+  "level": 2,
+  "atk": 1000,
+  "def": 1300,
+  "properties": [
+    "Fiend",
+    "Tuner",
+    "Effect"
+  ]
+}

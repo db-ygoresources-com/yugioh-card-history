@@ -1,0 +1,16 @@
+{
+  "id": 5511,
+  "type": "monster",
+  "name": "Gravekeeper's Guard",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Target 1 monster your opponent controls; return that target to the hand.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1900,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

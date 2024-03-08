@@ -1,0 +1,15 @@
+{
+  "id": 5778,
+  "type": "monster",
+  "name": "Skull Archfiend of Lightning",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, during your Standby Phase, you must pay 500 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets this card, roll a six-sided die and negate that effect if you roll a 1, 3, or 6, and if you do, destroy that card.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

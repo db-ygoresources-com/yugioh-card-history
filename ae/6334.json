@@ -1,0 +1,16 @@
+{
+  "id": 6334,
+  "type": "monster",
+  "name": "White Ninja",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: Target 1 Defense Position monster on the field; destroy that target.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Warrior",
+    "Flip",
+    "Effect"
+  ]
+}

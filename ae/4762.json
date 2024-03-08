@@ -1,0 +1,15 @@
+{
+  "id": 4762,
+  "type": "monster",
+  "name": "Reflect Bounder",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Before damage calculation, if this card is being attacked by an opponent's monster, and was in Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster's ATK. If you do, after damage calculation: Destroy this card.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effect"
+  ]
+}

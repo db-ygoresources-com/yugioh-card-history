@@ -1,0 +1,16 @@
+{
+  "id": 4046,
+  "type": "monster",
+  "name": "Dragon Piper",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "FLIP: Destroy all face-up \"Dragon Capture Jar\"(s) on the field. If you destroy any, change all face-up Dragon-Type monsters on the field to Attack Position.",
+  "level": 3,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Pyro",
+    "Flip",
+    "Effect"
+  ]
+}

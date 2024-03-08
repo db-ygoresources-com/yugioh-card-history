@@ -1,0 +1,18 @@
+{
+  "id": 12907,
+  "type": "monster",
+  "name": "Chronograph Sorcerer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If a card(s) you control is destroyed by battle or card effect: You can Special Summon this card from your hand, then you can Special Summon 1 monster from your hand. You can banish this card you control, plus 4 monsters from your hand, field, and/or GY (1 each with \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", and \"Fusion Dragon\" in their names); Special Summon 1 \"Supreme King Z-ARC\" from your Extra Deck. (This is treated as a Fusion Summon.)",
+  "pendEffect": "During your Main Phase: You can destroy this card, and if you do, take 1 \"Timegazer Magician\" from your hand or Deck, and either place it in your Pendulum Zone or Special Summon it. You can only use this effect of \"Chronograph Sorcerer\" once per turn.",
+  "pendScale": 8,
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

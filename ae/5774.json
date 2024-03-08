@@ -1,0 +1,15 @@
+{
+  "id": 5774,
+  "type": "monster",
+  "name": "Darkbishop Archfiend",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "Once per turn, during your Standby Phase, you must pay 500 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets an \"Archfiend\" monster you control, roll a six-sided die and negate that effect if you roll a 1, 3, or 6, and if you do, destroy that card.",
+  "level": 3,
+  "atk": 300,
+  "def": 1400,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

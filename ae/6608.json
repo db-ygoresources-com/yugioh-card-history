@@ -1,0 +1,15 @@
+{
+  "id": 6608,
+  "type": "monster",
+  "name": "Malice Ascendant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Once per turn, during your opponent's Standby Phase: Send 1 card from the top of their Deck to the Graveyard for each \"Malice Ascendant\" in your Graveyard. This card must be face-up on the field to activate and to resolve this effect.",
+  "level": 4,
+  "atk": 700,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effect"
+  ]
+}

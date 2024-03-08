@@ -1,0 +1,15 @@
+{
+  "id": 6250,
+  "type": "monster",
+  "name": "Blast Magician",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. You can remove any number of Spell Counters from this card, then target 1 face-up monster on the field with ATK less than or equal to the number of counters you removed x 700; destroy that target.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1700,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

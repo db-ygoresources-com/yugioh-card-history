@@ -1,0 +1,16 @@
+{
+  "id": 6030,
+  "type": "monster",
+  "name": "Desertapir",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Target 1 face-up monster on the field, except \"Desertapir\"; change it to face-down Defense Position.",
+  "level": 3,
+  "atk": 900,
+  "def": 300,
+  "properties": [
+    "Beast",
+    "Flip",
+    "Effect"
+  ]
+}

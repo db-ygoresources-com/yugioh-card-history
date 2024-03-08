@@ -1,0 +1,16 @@
+{
+  "id": 5818,
+  "type": "monster",
+  "name": "Gale Lizard",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "FLIP: Target 1 monster your opponent controls; return that target to the hand.",
+  "level": 4,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Reptile",
+    "Flip",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7208,
+  "type": "monster",
+  "name": "Crystal Seer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "FLIP: Excavate the top 2 cards of your Deck, then add 1 of them to your hand, then place the other on the bottom of your Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

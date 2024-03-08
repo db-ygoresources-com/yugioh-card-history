@@ -1,0 +1,16 @@
+{
+  "id": 5424,
+  "type": "monster",
+  "name": "Dice Jar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.",
+  "level": 3,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}

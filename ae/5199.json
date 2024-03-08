@@ -1,0 +1,16 @@
+{
+  "id": 5199,
+  "type": "monster",
+  "name": "Fire Sorcerer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of Direct Damage to your opponent's Life Points.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

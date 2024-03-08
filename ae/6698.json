@@ -1,0 +1,16 @@
+{
+  "id": 6698,
+  "type": "monster",
+  "name": "Whirlwind Weasel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIP: Your opponent cannot activate any Spell or Trap Cards for the rest of this turn.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Beast",
+    "Flip",
+    "Effect"
+  ]
+}

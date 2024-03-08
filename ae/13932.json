@@ -1,0 +1,21 @@
+{
+  "id": 13932,
+  "type": "monster",
+  "name": "Orcustrion",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "2+ Effect Monsters, including an \"Orcust\" monster\nThis linked card cannot be destroyed by battle or card effects. You can target 3 of your banished Machine monsters; shuffle them into the Deck, and if you do, the ATK/DEF of any linked monster(s) your opponent currently controls become 0, also their effects are negated. You can only use this effect of \"Orcustrion\" once per turn.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "9",
+    "1",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Machine",
+    "Link",
+    "Effect"
+  ]
+}

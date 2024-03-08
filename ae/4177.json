@@ -1,0 +1,16 @@
+{
+  "id": 4177,
+  "type": "monster",
+  "name": "Big Eye",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Flip",
+    "Effect"
+  ]
+}

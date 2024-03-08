@@ -1,0 +1,15 @@
+{
+  "id": 6039,
+  "type": "monster",
+  "name": "Grave Protector",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Any monster destroyed by battle is shuffled into the Deck instead of going to the GY.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

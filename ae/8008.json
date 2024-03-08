@@ -1,0 +1,16 @@
+{
+  "id": 8008,
+  "type": "monster",
+  "name": "Trap Eater",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 face-up Trap your opponent controls to the GY.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Fiend",
+    "Tuner",
+    "Effect"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8160,
+  "type": "monster",
+  "name": "Hedge Guard",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "During damage calculation, in either player's turn, when a monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; halve the ATK of that monster you control until the end of this turn, but that monster cannot be destroyed by this battle.",
+  "level": 3,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Plant",
+    "Effect"
+  ]
+}

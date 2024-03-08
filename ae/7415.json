@@ -1,0 +1,15 @@
+{
+  "id": 7415,
+  "type": "monster",
+  "name": "Volcanic Counter",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "When you take battle damage while this card is in your GY: Banish it from your GY, then if there is a FIRE monster other than \"Volcanic Counter\" in your GY, inflict damage to your opponent equal to the amount of battle damage you took.",
+  "level": 3,
+  "atk": 300,
+  "def": 1300,
+  "properties": [
+    "Pyro",
+    "Effect"
+  ]
+}

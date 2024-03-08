@@ -1,0 +1,16 @@
+{
+  "id": 18816,
+  "type": "monster",
+  "name": "Greed Jar",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Apply these effects in sequence.\n●Excavate any number of cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also send the remaining to the GY.\n●Send monsters from your Extra Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.\nYou can only use this effect of \"Greed Jar\" once per turn.",
+  "level": 3,
+  "atk": 700,
+  "def": 800,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}

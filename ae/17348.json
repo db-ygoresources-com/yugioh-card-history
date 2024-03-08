@@ -1,0 +1,18 @@
+{
+  "id": 17348,
+  "type": "monster",
+  "name": "Saion the Vaylantz Archer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "If you control this Special Summoned card: You can target 1 Effect Monster on the field; toss a coin and if the result is heads, negate its effects, or if the result is tails, halve its ATK. If this card in the Monster Zone moves to another Monster Zone: You can target 1 card on the field; toss a coin and if the result is heads, destroy it, or if the result is tails, return it to the hand. You can only use each effect of \"Saion the Vaylantz Archer\" once per turn.",
+  "pendEffect": "During your Main Phase: You can Special Summon this card to your Main Monster Zone in its same column, also you cannot Special Summon non-\"Vaylantz\" monsters for the rest of this turn, except from the Extra Deck. You can only use this effect of \"Saion the Vaylantz Archer\" once per turn.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

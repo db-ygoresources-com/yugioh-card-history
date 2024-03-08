@@ -1,0 +1,16 @@
+{
+  "id": 5413,
+  "type": "monster",
+  "name": "Poison Mummy",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Inflict 500 damage to your opponent.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Zombie",
+    "Flip",
+    "Effect"
+  ]
+}

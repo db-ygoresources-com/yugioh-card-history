@@ -1,0 +1,18 @@
+{
+  "id": 12909,
+  "type": "monster",
+  "name": "Black Fang Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "(This card is always treated as an \"Xyz Dragon\" card.)\nIf this card is destroyed by battle or card effect: You can target 1 DARK Spellcaster monster in your GY; Special Summon it.",
+  "pendEffect": "Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK (until the end of this turn), then destroy this card.",
+  "pendScale": 8,
+  "level": 4,
+  "atk": 1700,
+  "def": 800,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

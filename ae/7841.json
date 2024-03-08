@@ -1,0 +1,16 @@
+{
+  "id": 7841,
+  "type": "monster",
+  "name": "Road Synchron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When using this card as material for a Synchro Monster other than \"Road Warrior\", reduce this card's Level by 2. If this card attacks, at the end of the Damage Step: Increase its Level by 1 until the end of this turn.",
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Machine",
+    "Tuner",
+    "Effect"
+  ]
+}

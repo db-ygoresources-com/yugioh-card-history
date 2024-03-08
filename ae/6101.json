@@ -1,0 +1,16 @@
+{
+  "id": 6101,
+  "type": "monster",
+  "name": "Dark Mimic LV1",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Flip",
+    "Effect"
+  ]
+}

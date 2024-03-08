@@ -1,0 +1,16 @@
+{
+  "id": 4879,
+  "type": "monster",
+  "name": "The Stern Mystic",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: Reveal all face-down cards on the field (Flip Effects are not activated), then return them to their original positions.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Spellcaster",
+    "Flip",
+    "Effect"
+  ]
+}

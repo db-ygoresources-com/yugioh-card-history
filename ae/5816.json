@@ -1,0 +1,16 @@
+{
+  "id": 5816,
+  "type": "monster",
+  "name": "Crimson Ninja",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Target 1 Trap Card on the field; destroy that target. (If the target is Set, reveal it, and destroy it if it is a Trap Card. Otherwise, return it to its original position.)",
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Warrior",
+    "Flip",
+    "Effect"
+  ]
+}

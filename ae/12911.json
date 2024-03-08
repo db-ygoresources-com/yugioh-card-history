@@ -1,0 +1,18 @@
+{
+  "id": 12911,
+  "type": "monster",
+  "name": "Purple Poison Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "(This card is always treated as a \"Fusion Dragon\" card.)\nIf this card is destroyed by battle or card effect: You can target 1 face-up card on the field; destroy it.",
+  "pendEffect": "Once per turn, if your DARK Spellcaster monster battles, before damage calculation: You can activate this effect; that monster gains 1200 ATK (until the end of the Damage Step), then destroy this card.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

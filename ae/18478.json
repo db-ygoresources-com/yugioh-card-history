@@ -1,0 +1,18 @@
+{
+  "id": 18478,
+  "type": "monster",
+  "name": "Dreaming Nemleria",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck, except \"Dreaming Nemleria\". You can only Special Summon \"Dreaming Nemleria(s)\" once per turn. If this card is Special Summoned: For every 3 of your face-down banished cards, you can banish up to 1 card from your opponent's field and/or GY, face-down, then shuffle 1 of your face-down banished cards into your Deck for each card you banished by this effect.",
+  "pendEffect": "Once per turn, during your Main Phase: You can place 1 \"Nemleria\" Continuous Spell from your Deck or GY face-up on your field, and if you do, add this card to your Extra Deck face-up. You cannot Special Summon \"Dreaming Nemleria\" the turn you activate this effect.",
+  "pendScale": 8,
+  "level": 1,
+  "atk": 0,
+  "def": 1500,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

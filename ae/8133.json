@@ -1,0 +1,15 @@
+{
+  "id": 8133,
+  "type": "monster",
+  "name": "Disenchanter",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2300,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8947,
+  "type": "monster",
+  "name": "Delta Flyer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Once per turn: You can target 1 other face-up monster you control; increase the target's Level by 1.",
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Dragon",
+    "Tuner",
+    "Effect"
+  ]
+}

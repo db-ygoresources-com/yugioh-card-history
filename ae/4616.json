@@ -1,0 +1,15 @@
+{
+  "id": 4616,
+  "type": "monster",
+  "name": "Electric Lizard",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "A non Zombie-Type monster attacking \"Electric Lizard\" cannot attack on its following turn.",
+  "level": 3,
+  "atk": 850,
+  "def": 800,
+  "properties": [
+    "Thunder",
+    "Effect"
+  ]
+}

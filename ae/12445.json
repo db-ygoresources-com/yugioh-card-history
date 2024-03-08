@@ -1,0 +1,19 @@
+{
+  "id": 12445,
+  "type": "monster",
+  "name": "Nirvana High Paladin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 Tuner + 1+ non-Tuner Synchro Monsters\nFor this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your GY; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+  "pendEffect": "If a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn.",
+  "pendScale": 8,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Spellcaster",
+    "Synchro",
+    "Pendulum",
+    "Effect"
+  ]
+}
