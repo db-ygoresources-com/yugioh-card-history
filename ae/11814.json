@@ -1,0 +1,18 @@
+{
+  "id": 11814,
+  "type": "monster",
+  "name": "Igknight Margrave",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.",
+  "pendEffect": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior monster from your Deck or GY to your hand.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1500,
+  "def": 2500,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Normal"
+  ]
+}

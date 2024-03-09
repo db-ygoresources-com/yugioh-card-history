@@ -1,0 +1,18 @@
+{
+  "id": 11811,
+  "type": "monster",
+  "name": "Igknight Crusader",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "This impulsive Igknight warrior is fanatical about the causes he fights for. Because of this passion, his comrades try to keep him at arm's length.",
+  "pendEffect": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior monster from your Deck or GY to your hand.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 1600,
+  "def": 300,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Normal"
+  ]
+}

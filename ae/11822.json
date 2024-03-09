@@ -1,0 +1,16 @@
+{
+  "id": 11822,
+  "type": "monster",
+  "name": "Aroma Jar",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "If this card is flipped face-up, this card cannot be destroyed by battle while it is face-up on the field. If this card is flipped face-up, during each End Phase: You gain 500 LP.",
+  "level": 1,
+  "atk": 500,
+  "def": 400,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}

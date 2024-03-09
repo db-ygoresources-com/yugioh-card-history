@@ -1,0 +1,18 @@
+{
+  "id": 11813,
+  "type": "monster",
+  "name": "Igknight Paladin",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "This Igknight has a reputation as a thinker with a cool head. But the truth is that his emotions just take longer to heat up.",
+  "pendEffect": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior monster from your Deck or GY to your hand.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1400,
+  "def": 1900,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Normal"
+  ]
+}

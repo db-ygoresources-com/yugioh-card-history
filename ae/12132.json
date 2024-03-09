@@ -1,0 +1,18 @@
+{
+  "id": 12132,
+  "type": "monster",
+  "name": "Dinomist Stegosaur",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "If another Pendulum Monster you control battles an opponent's monster, after damage calculation: You can destroy those monsters.",
+  "pendEffect": "If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

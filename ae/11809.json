@@ -1,0 +1,19 @@
+{
+  "id": 11809,
+  "type": "monster",
+  "name": "Luster Pendulum, the Dracoslayer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Cannot Special Summon Fusion, Synchro, or Xyz Monsters using this card as material, except \"Dracoslayer\" monsters.",
+  "pendEffect": "Once per turn, if you have a card in your other Pendulum Zone: You can destroy that card, and if you do, add 1 card from your Deck to your hand, with the same name as that card.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1850,
+  "def": 0,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Tuner",
+    "Effect"
+  ]
+}

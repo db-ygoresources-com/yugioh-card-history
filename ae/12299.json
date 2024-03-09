@@ -1,0 +1,18 @@
+{
+  "id": 12299,
+  "type": "monster",
+  "name": "Amorphage Envy",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+  "pendEffect": "While you control an \"Amorphage\" monster, neither player can activate cards or effects as Chain Link 2 or higher. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 0,
+  "def": 2050,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}
