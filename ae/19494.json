@@ -1,0 +1,16 @@
+{
+  "id": 19494,
+  "type": "monster",
+  "name": "Aromalilith Magnolia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 \"Aroma\" monster + 1 Plant monster\nWhile your LP are higher than your opponent's, Plant monsters you control cannot be destroyed by your opponent's card effects. Once per turn: You can pay 2000 LP; banish cards on the field equal to the number of \"Humid Winds\", \"Dried Winds\", and \"Blessed Winds\" you control. Once per turn, if you gain LP, even during the Damage Step: You can make all Plant monsters you currently control gain ATK equal to the LP gained, until the end of this turn.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Plant",
+    "Fusion",
+    "Effect"
+  ]
+}
