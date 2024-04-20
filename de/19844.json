@@ -1,0 +1,15 @@
+{
+  "id": 19844,
+  "type": "monster",
+  "name": "Schweigsamer Magier Null",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls dein Gegner eine oder mehr Karten zieht: Erhöhe die Stufe dieser Karte um die gezogene Anzahl. Solange die Stufe dieser Karte höher als ihre Grund-Stufe ist, erhält sie ATK in Höhe der Differenz x 500. Wenn dein Gegner eine Zauberkarte oder einen Zaubereffekt aktiviert, solange du „Glänzender Sarkophag“ kontrollierst (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, erhöhe die Stufe dieser Karte um 1. Du kannst diesen Effekt von „Schweigsamer Magier Null“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

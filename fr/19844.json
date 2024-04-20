@@ -1,0 +1,15 @@
+{
+  "id": 19844,
+  "type": "monster",
+  "name": "Magicien Silencieux Zéro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si votre adversaire pioche une ou plusieurs cartes : augmentez le Niveau de cette carte du nombre pioché. Tant que le Niveau de cette carte est supérieur à son Niveau d'origine, elle gagne une ATK égale à la différence x 500. Lorsque votre adversaire active une Carte Magie ou effet de Magie, tant que vous contrôlez \"Sarcophage Brillant\" (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, augmentez le Niveau de cette carte de 1. Vous ne pouvez utiliser cet effet de \"Magicien Silencieux Zéro\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

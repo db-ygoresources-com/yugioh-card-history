@@ -1,0 +1,15 @@
+{
+  "id": 19844,
+  "type": "monster",
+  "name": "Mago Silente Zero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se il tuo avversario pesca una o più carte: aumenta il Livello di questa carta del numero di carte pescate. Mentre il Livello di questa carta è superiore al suo Livello originale, essa guadagna ATK pari alla differenza x 500. Quando il tuo avversario attiva una Carta Magia o un suo effetto, mentre controlli \"Sarcofago Brillante\" (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, aumenta il Livello di questa carta di 1. Puoi utilizzare questo effetto di \"Mago Silente Zero\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

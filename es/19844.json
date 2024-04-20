@@ -1,0 +1,15 @@
+{
+  "id": 19844,
+  "type": "monster",
+  "name": "Mago Silencioso Cero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si tu adversario roba una o más cartas: aumenta el Nivel de esta carta en el número de robadas. Mientras el Nivel de esta carta sea mayor que su Nivel original, gana ATK igual a la diferencia x 500. Cuando tu adversario activa una Carta Mágica o su efecto, mientras controlas \"Cofre Brillante Sellado\" (Efecto Rápido): puedes negar la activación y, si lo haces, aumenta el Nivel de esta carta en 1. Sólo puedes usar este efecto de \"Mago Silencioso Cero\" una vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

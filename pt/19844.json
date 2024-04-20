@@ -1,0 +1,15 @@
+{
+  "id": 19844,
+  "type": "monster",
+  "name": "Mago Silencioso Zero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se seu oponente comprar um ou mais cards: aumente o Nível deste card pelo número comprado. Enquanto o Nível deste card for maior que seu Nível original, ele ganha ATK igual à diferença x 500. Quando seu oponente ativar um Card de Magia ou seus efeitos, enquanto você controlar \"Sarcófago Brilhante\" (Efeito Rápido): você pode negar a ativação e, se isso acontecer, aumente em 1 o Nível deste card. Você só pode usar este efeito de \"Mago Silencioso Zero\" uma vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Mago",
+    "Efeito"
+  ]
+}
