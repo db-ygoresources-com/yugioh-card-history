@@ -1,0 +1,18 @@
+{
+  "id": 19716,
+  "type": "monster",
+  "name": "Sorcière Pendule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou par Pendulation : vous pouvez cibler 1 carte dans votre Zone Pendule ; détruisez la cible ainsi que cette carte, et si vous le faites, ajoutez 1 Monstre Pendule de max. Niveau 4 depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Sorcière Pendule\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Si un ou plusieurs Monstres Fusion, Synchro et/ou Xyz face recto que vous contrôlez sont détruits au combat ou par un effet de carte de l'adversaire tant que cette carte dans la Zone Pendule : vous pouvez ajouter 1 Monstre Pendule du même Type d'origine qu'1 de ces monstres, depuis votre Deck à votre Extra Deck face recto. Vous ne pouvez utiliser cet effet de \"Sorcière Pendule\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

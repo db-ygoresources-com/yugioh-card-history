@@ -1,0 +1,19 @@
+{
+  "id": 19722,
+  "type": "monster",
+  "name": "Re Supremo Z-ARC - Universo Synchro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Tuner + 1+ Mostri Pendulum OSCURITÀ non-Tuner\nIl nome di questa carta diventa \"Re Supremo Z-ARC\" mentre è sul Terreno. Dopo il calcolo dei danni, se questa carta ha distrutto un mostro dell'avversario in battaglia, OPPURE quando questa carta infligge danno da combattimento al tuo avversario: puoi Evocare Specialmente fino a 2 mostri \"Re Supremo Drago\" dal tuo Deck, Extra Deck e/o Cimitero in Posizione di Difesa. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Puoi offrire come Tributo 1 Mostro Pendulum \"Re Supremo Drago\" o \"Re Supremo Cancello\"; Evoca Specialmente questa carta. Puoi utilizzare questo effetto di \"Re Supremo Z-ARC - Universo Synchro\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Drago",
+    "Synchro",
+    "Pendulum",
+    "Effetto"
+  ]
+}

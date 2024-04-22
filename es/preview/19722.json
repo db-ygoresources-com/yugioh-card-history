@@ -1,0 +1,19 @@
+{
+  "id": 19722,
+  "type": "monster",
+  "name": "Rey Supremo Z-ARC - Universo Sincro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ Monstruos de Péndulo de OSCURIDAD que no sean Cantantes\nEl nombre de esta carta se convierte en \"Rey Supremo Z-ARC\" mientras está en el Campo. Después del cálculo de daño, si esta carta destruyó un monstruo del adversario en batalla O cuando esta carta inflige daño de batalla a tu adversario: puedes Invocar de Modo Especial hasta 2 monstruos \"Rey Supremo Dragón\" desde tu Deck, Deck Extra y/o Cementerio, en Posición de Defensa. Si esta carta en la Zona de Monstruos es destruida en batalla o por el efecto de una carta: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Puedes Sacrificar 1 Monstruo de Péndulo \"Rey Supremo Dragón\" o \"Rey Supremo Puerta\"; Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de \"Rey Supremo Z-ARC - Universo Sincro\" una vez por turno.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Dragón",
+    "Sincronía",
+    "Péndulo",
+    "Efecto"
+  ]
+}

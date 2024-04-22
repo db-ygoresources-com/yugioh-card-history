@@ -1,0 +1,15 @@
+{
+  "id": 20061,
+  "type": "monster",
+  "name": "Dschungelbewohner",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Solange 2 Karten in den Spielfeldzonen liegen, kann dein Gegner diese Karte nicht als Ziel für Karteneffekte wählen. Du kannst jeden der folgenden Effekte von „Dschungelbewohner“ nur einmal pro Spielzug verwenden. Du kannst 1 LICHT oder FINSTERNIS Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Du kannst bis zu 2 Spielfeldzauber von deinem Friedhof oder deinen verbannten Karten ins Deck mischen, dann kannst du bis zu so viele Karten zerstören, die dein Gegner kontrolliert.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

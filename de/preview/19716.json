@@ -1,0 +1,18 @@
+{
+  "id": 19716,
+  "type": "monster",
+  "name": "Pendelhexe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte als Normal- oder Pendelbeschwörung beschworen wird: Du kannst 1 Karte in deiner Pendelzone wählen; zerstöre sowohl jenes gewählte Ziel als auch diese Karte und falls du dies tust, füge deiner Hand 1 Pendelmonster der Stufe 4 oder niedriger von deinem Deck hinzu. Du kannst diesen Effekt von „Pendelhexe“ nur einmal pro Spielzug verwenden. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls ein oder mehr offene Fusions-, Synchro- und/oder Xyz-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt eines Gegners zerstört werden, solange diese Karte in der Pendelzone liegt: Du kannst deinem Extra Deck 1 Pendelmonster mit demselben Grund-Typ wie 1 jener Monster von deinem Deck offen hinzufügen. Du kannst diesen Effekt von „Pendelhexe“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

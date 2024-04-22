@@ -1,0 +1,16 @@
+{
+  "id": 20068,
+  "type": "monster",
+  "name": "Veidos der Drache der endlosen Finsternis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Veidos der Eruptionsdrache der Auslöschung“ + 2+ Pyro-Monster der Stufe 9 oder niedriger\nDiese Karte kann nicht durch Karteneffekte zerstört werden, zusätzlich kann dein Gegner sie nicht als Ziel für Monstereffekte wählen. Falls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst alle Zauber und Fallen zerstören, die dein Gegner kontrolliert. Wenn dein Gegner eine Karte oder einen Effekt auf dem Spielfeld aktiviert (Schnelleffekt): Du kannst 1 offene „In Asche gelegt“-Karte, die du kontrollierst, auf den Friedhof legen; zerstöre jene Karte. Du kannst diesen Effekt von „Veidos der Drache der endlosen Finsternis“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1700,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effekt"
+  ]
+}

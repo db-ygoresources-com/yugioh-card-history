@@ -1,0 +1,18 @@
+{
+  "id": 19851,
+  "type": "monster",
+  "name": "Couplet die musikalische Sängerin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte deiner Hand hinzugefügt wird, außer durch Ziehen als dein normales Ziehen: Du kannst diese Karte vorzeigen; beschwöre 1 „Musikalisch“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Friedhof. Falls ein oder mehr „Musikalisch“-Fusionsmonster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich diese Karte offen in deinem Extra Deck befindet (außer während des Damage Steps): Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Couplet die musikalische Sängerin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Pendelbeschwörungen durchführen, außer von LICHT Monstern (dieser Effekt kann nicht annulliert werden). Falls du keine offenen Monster kontrollierst, außer „Musikalisch“-Monstern: Du kannst deiner Hand 1 „Musikalisch“-Zauber/Falle von deinem Deck hinzufügen. Du kannst diesen Effekt von „Couplet die musikalische Sängerin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

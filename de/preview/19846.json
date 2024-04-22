@@ -1,0 +1,15 @@
+{
+  "id": 19846,
+  "type": "monster",
+  "name": "Mehrmarshmallon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Solange du „Glänzender Sarkophag“ kontrollierst, kann diese Karte nicht durch Kampf zerstört werden, zusätzlich können Monster deines Gegners keine Monster als Angriffsziel wählen, außer diesem. Du kannst jeden der folgenden Effekte von „Mehrmarshmallon“ nur einmal pro Spielzug verwenden. Während des Spielzugs deines Gegners, falls du „Glänzender Sarkophag“ kontrollierst (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte durch einen Karteneffekt zerstört wird: Du kannst 1 „Mehrmarshmallon“ als Spezialbeschwörung von deiner Hand, deinem Deck, deinem Friedhof oder deinen verbannten Karten beschwören, außer dieser Karte, und falls du dies tust, füge deinem Gegner 1000 Schaden zu.",
+  "level": 3,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

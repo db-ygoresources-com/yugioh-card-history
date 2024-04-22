@@ -1,0 +1,15 @@
+{
+  "id": 20063,
+  "type": "monster",
+  "name": "Guivrentierro, el Enterrador de Dragones",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla. Durante la Main Phase, si uno o más monstruos que controla tu adversario son mandados al Cementerio: puedes activar el siguiente efecto, basado en dónde está esta carta en la activación (pero sólo puedes usar cada efecto de \"Guivrentierro, el Enterrador de Dragones\" una vez por turno);\n●Mano: Invoca esta carta de Modo Especial.\n●Campo: Haz que 1 Monstruo de Efecto que controla tu adversario pierda 1500 ATK y después, si su ATK se convierte en 0 por este efecto, puedes destruirlo.",
+  "level": 10,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Ilusión",
+    "Efecto"
+  ]
+}

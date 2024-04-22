@@ -1,0 +1,15 @@
+{
+  "id": 20060,
+  "type": "monster",
+  "name": "Sorcière Krishaccro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non destructible par des effets de carte de votre adversaire tant que \"Multi-Univers\" est sur le Terrain. Vous ne pouvez utiliser chacun des effets suivants de \"Sorcière Krishaccro\" qu'une fois par tour. Si une ou plusieurs cartes dans la Zone Terrain quittent le Terrain par un effet de carte (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsqu'une Magie de Terrain qui est déjà face recto sur le Terrain active son effet (Effet Rapide) : vous pouvez mélanger 1 de vos monstres qui est banni ou dans votre Cimetière dans le Deck, ou si le monstre mentionne la Magie de Terrain, vous pouvez l'Invoquer Spécialement à la place.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

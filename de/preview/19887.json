@@ -1,0 +1,16 @@
+{
+  "id": 19887,
+  "type": "monster",
+  "name": "Tobendes Kleinkind",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2 Monster der Stufe 1\nEinmal pro Kette, falls die Aktivierung einer Karte oder eines Effekts annulliert wird (außer während des Damage Steps): Du kannst bis zu je 1 Karte von deinem Friedhof und dem Friedhof deines Gegners als Material an diese Karte anhängen. Diese Karte erhält Effekte basierend auf der Anzahl des an sie angehängten Materials.\n●1+: Diese Karte erhält für jedes an sie angehängte Material 700 ATK/DEF.\n●4+: Kann weder durch Kampf noch durch Karteneffekte zerstört werden.\n●8+: (Schnelleffekt): Du kannst 4 Material von dieser Karte abhängen; zerstöre alle Karten auf dem Spielfeld.",
+  "rank": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Ungeheuer",
+    "Xyz",
+    "Effekt"
+  ]
+}

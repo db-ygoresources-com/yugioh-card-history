@@ -1,0 +1,18 @@
+{
+  "id": 19850,
+  "type": "monster",
+  "name": "Refrain la Cantante Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"Melodiosa\" dal tuo Deck alla tua mano, eccetto \"Refrain la Cantante Melodiosa\". Se uno o più Mostri Fusione \"Melodiosa\" vengono Evocati Specialmente sul tuo Terreno, mentre questa carta è scoperta nel tuo Extra Deck (eccetto durante il Damage Step): puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Refrain la Cantante Melodiosa\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 Mostro Fusione \"Melodiosa\" che controlli; manda 1 mostro \"Melodiosa\" dal tuo Deck al Cimitero e, se lo fai, il mostro scelto come bersaglio guadagna ATK pari al Livello di quel mostro mandato al Cimitero x 200 fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Refrain la Cantante Melodiosa\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

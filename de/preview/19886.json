@@ -1,0 +1,16 @@
+{
+  "id": 19886,
+  "type": "monster",
+  "name": "Varudras, der letzte Bringer der Endzeit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Monster der Stufe 10\nWenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen; annulliere die Aktivierung, dann kannst du 1 Material von dieser Karte abhängen, dann zerstöre 1 Karte auf dem Spielfeld. Am Beginn des Damage Steps, falls diese Karte angreift, solange sie Material hat: Du kannst 1 Karte auf dem Spielfeld zerstören. Falls diese als Xyz-Beschwörung beschworene Karte zerstört wird: Du kannst 1 Karte auf dem Spielfeld zerstören. Du kannst jeden Effekt von „Varudras, der letzte Bringer der Endzeit“ nur einmal pro Spielzug verwenden.",
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Xyz",
+    "Effekt"
+  ]
+}

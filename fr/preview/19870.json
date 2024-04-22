@@ -1,0 +1,15 @@
+{
+  "id": 19870,
+  "type": "monster",
+  "name": "Apprentie du Cauchemar",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en défaussant 1 carte. Vous ne pouvez Invoquer Spécialement \"Apprentie du Cauchemar\" qu'une fois par tour de cette façon. Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre Illusion (\"Apprentie du Cauchemar\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Apprentie du Cauchemar\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1700,
+  "properties": [
+    "Illusion",
+    "Effet"
+  ]
+}

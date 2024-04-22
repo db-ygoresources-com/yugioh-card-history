@@ -1,0 +1,16 @@
+{
+  "id": 20068,
+  "type": "monster",
+  "name": "Veidos il Drago dell'Oscurità Infinita",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "\"Veidos il Drago Eruzione dell'Estinzione\" + 2+ mostri Pyro di Livello 9 o inferiore\nNon può essere distrutto dagli effetti delle carte, inoltre il tuo avversario non può sceglierlo come bersaglio con gli effetti dei mostri. Se questa carta viene Evocata tramite Fusione: puoi distruggere tutte le Magie e Trappole controllate dal tuo avversario. Quando il tuo avversario attiva una carta o un effetto sul Terreno (Effetto Rapido): puoi mandare 1 carta \"Incenerita\" scoperta che controlli al Cimitero; distruggi quella carta. Puoi utilizzare questo effetto di \"Veidos il Drago dell'Oscurità Infinita\" una sola volta per turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1700,
+  "properties": [
+    "Pyro",
+    "Fusione",
+    "Effetto"
+  ]
+}

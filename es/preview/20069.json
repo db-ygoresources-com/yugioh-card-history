@@ -1,0 +1,16 @@
+{
+  "id": 20069,
+  "type": "monster",
+  "name": "Brasas de los Calcinados",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos Piro\nSi esta carta es Invocada por Fusión: puedes seleccionar 1 Mágica de Campo en tu Cementerio; añádela a tu mano. Al comienzo del Damage Step, si esta carta batalla con un monstruo Piro del adversario: puedes destruir ese monstruo del adversario y, si es tu turno, esta carta puede hacer un segundo ataque inmediatamente después. Sólo puedes usar cada efecto de \"Brasas de los Calcinados\" una vez por turno.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Piro",
+    "Fusión",
+    "Efecto"
+  ]
+}

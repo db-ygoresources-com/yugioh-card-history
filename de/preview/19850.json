@@ -1,0 +1,18 @@
+{
+  "id": 19850,
+  "type": "monster",
+  "name": "Refrain die musikalische Sängerin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Musikalisch“-Monster von deinem Deck hinzufügen, außer „Refrain die musikalische Sängerin“. Falls ein oder mehr „Musikalisch“-Fusionsmonster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich diese Karte offen in deinem Extra Deck befindet (außer während des Damage Steps): Du kannst diese Karte in deine Pendelzone legen. Du kannst jeden Effekt von „Refrain die musikalische Sängerin“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 „Musikalisch“-Fusionsmonster wählen, das du kontrollierst; lege 1 „Musikalisch“-Monster von deinem Deck auf den Friedhof und falls du dies tust, erhält das als Ziel gewählte Monster bis zum Ende dieses Spielzugs ATK in Höhe der Stufe jenes auf den Friedhof gelegten Monsters x 200. Du kannst diesen Effekt von „Refrain die musikalische Sängerin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

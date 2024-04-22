@@ -1,0 +1,15 @@
+{
+  "id": 19847,
+  "type": "monster",
+  "name": "Antiker Antriebs-Dunkelgolem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Der Name dieser Karte wird zu „Antiker Antriebsgolem“, solange sie auf dem Spielfeld oder im Friedhof liegt. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand bis zu 2 Karten („Antike/r/s Antrieb“-Karten und/oder „Antriebsstadt“) von deinem Deck hinzufügen, außer „Antiker Antriebs-Dunkelgolem“, dann wirf 1 Karte ab, zusätzlich kannst du für den Rest dieses Spielzugs keine Karten setzen. Du kannst diesen Effekt von „Antiker Antriebs-Dunkelgolem“ nur einmal pro Spielzug verwenden. Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

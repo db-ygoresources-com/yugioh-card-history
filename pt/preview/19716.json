@@ -1,0 +1,18 @@
+{
+  "id": 19716,
+  "type": "monster",
+  "name": "Bruxa Pêndulo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Pêndulo: você pode escolher 1 card na sua Zona de Pêndulo; destrua tanto o alvo quanto este card e, se isso acontecer, adicione 1 Monstro Pêndulo de Nível 4 ou menos do seu Deck à sua mão. Você só pode usar este efeito de \"Bruxa Pêndulo\" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se um ou mais Monstros de Fusão, Sincro e/ou Xyz com a face para cima que você controla forem destruídos em batalha ou por um efeito de card do oponente enquanto este card estiver na Zona de Pêndulo: você pode adicionar 1 Monstro Pêndulo com o mesmo Tipo original que 1 desses monstros, do seu Deck ao seu Deck Adicional com a face para cima. Você só pode usar este efeito de \"Bruxa Pêndulo\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

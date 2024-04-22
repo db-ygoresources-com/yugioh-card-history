@@ -1,0 +1,15 @@
+{
+  "id": 20063,
+  "type": "monster",
+  "name": "Vouiburial, der Drachen-Totengräber",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Während der Main Phase, falls ein oder mehr Monster, die dein Gegner kontrolliert, auf den Friedhof gelegt werden: Du kannst den folgenden Effekt aktivieren, basierend darauf, wo sich diese Karte bei der Aktivierung befindet (aber du kannst jeden Effekt von „Vouiburial, der Drachen-Totengräber“ nur einmal pro Spielzug verwenden);\n●Hand: Beschwöre diese Karte als Spezialbeschwörung.\n●Spielfeld: Lasse 1 Effektmonster, das dein Gegner kontrolliert, 1500 ATK verlieren, dann, falls seine ATK durch diesen Effekt zu 0 werden, kannst du es zerstören.",
+  "level": 10,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Illusion",
+    "Effekt"
+  ]
+}

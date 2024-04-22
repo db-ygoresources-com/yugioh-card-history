@@ -1,0 +1,18 @@
+{
+  "id": 19716,
+  "type": "monster",
+  "name": "Bruja de Péndulo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada de Modo Normal o por Péndulo: puedes seleccionar 1 carta en tu Zona de Péndulo; destruye ambas, ese objetivo y esta carta y, si lo haces, añade a tu mano 1 Monstruo de Péndulo de Nivel 4 o menor en tu Deck. Sólo puedes usar este efecto de \"Bruja de Péndulo\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Si uno o más Monstruos de Fusión, Sincronía y/o Xyz boca arriba que controlas son destruidos en batalla o por el efecto de una carta del adversario mientras esta carta está en la Zona de Péndulo: puedes añadir a tu Deck Extra boca arriba 1 Monstruo de Péndulo en tu Deck con el mismo Tipo original que el de 1 de esos monstruos. Sólo puedes usar este efecto de \"Bruja de Péndulo\" una vez por turno.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

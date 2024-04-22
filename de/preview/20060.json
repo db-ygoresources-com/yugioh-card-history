@@ -1,0 +1,15 @@
+{
+  "id": 20060,
+  "type": "monster",
+  "name": "Krishnerd-Hexe",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht durch Karteneffekte deines Gegners zerstört werden, solange „Multi-Universum“ auf dem Spielfeld liegt. Du kannst jeden der folgenden Effekte von „Krishnerd-Hexe“ nur einmal pro Spielzug verwenden. Falls eine oder mehr Karten in der Spielfeldzone das Spielfeld durch einen Karteneffekt verlassen (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn der Effekt eines Spielfeldzaubers, der bereits offen auf dem Spielfeld liegt, aktiviert wird (Schnelleffekt): Du kannst 1 deiner Monster, das verbannt ist oder sich in deinem Friedhof befindet, ins Deck mischen oder falls jenes Monster jenen Spielfeldzauber erwähnt, kannst du es stattdessen als Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19843,
+  "type": "monster",
+  "name": "Schweigsamer Schwertkämpfer Null",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug, während der Standby Phase: Erhöhe die Stufe dieser Karte um 1. Solange die Stufe dieser Karte höher als ihre Grund-Stufe ist, erhält sie ATK in Höhe der Differenz x 500. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der „Glänzender Sarkophag“ oder ein oder mehr Monster, die ihn erwähnen, die du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, erhöhe die Stufe dieser Karte um 1. Du kannst diesen Effekt von „Schweigsamer Schwertkämpfer Null“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

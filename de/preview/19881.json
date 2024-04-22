@@ -1,0 +1,16 @@
+{
+  "id": 19881,
+  "type": "monster",
+  "name": "Sangenpai Transzendenter Dragion",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Drache-Empfänger + 1+ Drache-Nicht-Empfänger-Monster\nAlle Monster, die dein Gegner kontrolliert, müssen angreifen, falls möglich. Dein Gegner kann während der Battle Phase weder Karten noch Effekte aktivieren. Falls diese Karte als Synchrobeschwörung beschworen wird: Du kannst alle Monster auf dem Spielfeld in die Angriffsposition ändern. Falls in diesem Spielzug 3 oder mehr Angriffe deklariert wurden (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören, dann kannst du 1 Karte auf dem Spielfeld zerstören. Du kannst diesen Effekt von „Sangenpai Transzendenter Dragion“ nur einmal pro Duell verwenden.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19843,
+  "type": "monster",
+  "name": "Spadassin Silencieux Zéro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, durant la Standby Phase : augmentez le Niveau de cette carte de 1. Tant que le Niveau de cette carte est supérieur à son Niveau d'origine, elle gagne une ATK égale à la différence x 500. Lorsque votre adversaire active une carte ou un effet qui cible \"Sarcophage Brillant\" ou un ou plusieurs monstres qui le mentionnent, que vous contrôlez (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, augmentez le Niveau de cette carte de 1. Vous ne pouvez utiliser cet effet de \"Spadassin Silencieux Zéro\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

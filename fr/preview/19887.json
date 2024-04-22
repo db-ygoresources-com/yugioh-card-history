@@ -1,0 +1,16 @@
+{
+  "id": 19887,
+  "type": "monster",
+  "name": "Bambin Capricieux",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres de Niveau 1\nUne fois par Chaîne, si une activation de carte ou d'effet est annulée (sauf durant la Damage Step) : vous pouvez attacher max. 1 carte depuis votre Cimetière et max. 1 carte depuis le Cimetière de votre adversaire à cette carte comme Matériel. Cette carte gagne des effets selon le nombre de Matériels qui lui sont attachés.\n●1+ : Gagne 700 ATK/DEF pour chaque Matériel qui lui est attaché.\n●4+ : Non destructible ni au combat ni par des effets de carte.\n●8+ : (Effet Rapide) : vous pouvez détacher 4 Matériels de cette carte ; détruisez toutes les cartes sur le Terrain.",
+  "rank": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Bête",
+    "Xyz",
+    "Effet"
+  ]
+}

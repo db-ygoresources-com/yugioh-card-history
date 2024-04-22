@@ -1,0 +1,16 @@
+{
+  "id": 20069,
+  "type": "monster",
+  "name": "Braises du Cendré",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres Pyro\nSi cette carte est Invoquée par Fusion : vous pouvez cibler 1 Magie de Terrain dans votre Cimetière ; ajoutez-la à votre main. Au début de la Damage Step, si cette carte combat un monstre Pyro de l'adversaire : vous pouvez détruire le monstre de l'adversaire, et si c'est votre tour, cette carte peut faire une seconde attaque à la suite. Vous ne pouvez utiliser chaque effet de \"Braises du Cendré\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19843,
+  "type": "monster",
+  "name": "Espadachim Silencioso Zero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno, durante a Fase de Apoio: aumente em 1 o Nível deste card. Enquanto o Nível deste card for maior que seu Nível original, ele ganha ATK igual à diferença x 500. Quando seu oponente ativar um card ou efeito que escolha como alvo \"Sarcófago Brilhante\", ou um ou mais monstros que o mencionem, que você controla (Efeito Rápido): você pode negar a ativação e, se isso acontecer, aumente em 1 o Nível deste card. Você só pode usar este efeito de \"Espadachim Silencioso Zero\" uma vez por turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

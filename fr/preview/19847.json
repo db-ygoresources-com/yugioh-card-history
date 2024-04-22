@@ -1,0 +1,15 @@
+{
+  "id": 19847,
+  "type": "monster",
+  "name": "Golem des Ténèbres Rouages Ancients",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Le nom de cette carte devient \"Golem Rouages Ancients\" tant qu'elle est sur le Terrain ou dans le Cimetière. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter max. 2 cartes (\"Ville des Engrenages\" et/ou cartes \"Rouages Ancients\" inclus, \"Golem des Ténèbres Rouages Ancients\" exclu) depuis votre Deck à votre main, puis défaussez 1 carte, et aussi, vous ne pouvez pas Poser de cartes le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Golem des Ténèbres Rouages Ancients\" qu'une fois par tour. Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step.",
+  "level": 8,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

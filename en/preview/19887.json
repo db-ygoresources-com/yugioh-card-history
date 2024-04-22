@@ -1,0 +1,16 @@
+{
+  "id": 19887,
+  "type": "monster",
+  "name": "Tantrum Toddler",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "2 Level 1 monsters\nOnce per Chain, if a card or effect activation is negated (except during the Damage Step): You can attach up to 1 card each from your GY and your opponent's GY to this card as material. This card gains effects based on the number of materials attached to it.\n●1+: Gains 700 ATK/DEF for each material attached to it.\n●4+: Cannot be destroyed by battle or card effects.\n●8+: (Quick Effect): You can detach 4 materials from this card; destroy all cards on the field.",
+  "rank": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Beast",
+    "Xyz",
+    "Effect"
+  ]
+}

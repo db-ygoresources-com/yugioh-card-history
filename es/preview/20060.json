@@ -1,0 +1,15 @@
+{
+  "id": 20060,
+  "type": "monster",
+  "name": "Bruja Krishnerd",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser destruido por efectos de cartas de tu adversario mientras \"Multi-Universo\" está en el Campo. Sólo puedes usar cada uno de los siguientes efectos de \"Bruja Krishnerd\" una vez por turno. Si una o más cartas en la Zona del Campo dejan el Campo por el efecto de una carta (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Cuando una Mágica de Campo que ya está boca arriba en el Campo activa su efecto (Efecto Rápido): puedes barajar al Deck 1 de tus monstruos que esté desterrado o en tu Cementerio o, si ese monstruo menciona esa Mágica de Campo, puedes Invocarlo de Modo Especial en su lugar.",
+  "level": 4,
+  "atk": 1800,
+  "def": 700,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

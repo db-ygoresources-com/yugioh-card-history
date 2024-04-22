@@ -1,0 +1,15 @@
+{
+  "id": 19874,
+  "type": "monster",
+  "name": "Braises Rafraîchissantes",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si un joueur gagne des LP (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Une fois par tour, si un joueur gagne des LP tant que cette carte est dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez faire gagner 1000 LP à 1 joueur.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

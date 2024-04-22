@@ -1,0 +1,16 @@
+{
+  "id": 19886,
+  "type": "monster",
+  "name": "Varudras, le Dernier Apporteur de la Fin des Temps",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres de Niveau 10\nLorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; annulez l'activation, puis vous pouvez détacher 1 Matériel de cette carte, puis détruisez 1 carte sur le Terrain. Au début de la Damage Step, si cette carte attaque tant qu'elle a du Matériel : vous pouvez détruire 1 carte sur le Terrain. Si cette carte Invoquée par Xyz est détruite : vous pouvez détruire 1 carte sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Varudras, le Dernier Apporteur de la Fin des Temps\" qu'une fois par tour.",
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Xyz",
+    "Effet"
+  ]
+}

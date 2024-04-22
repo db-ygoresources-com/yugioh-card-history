@@ -1,0 +1,19 @@
+{
+  "id": 20065,
+  "type": "monster",
+  "name": "Lucertodose Emaciato",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "2 mostri con nomi diversi\nPuoi bandire 1 mostro con ATK 2000 o inferiore dal tuo Terreno scoperto o Cimitero, poi scegliere come bersaglio 1 mostro scoperto sul Terreno; fai diventare il suo ATK pari all'ATK originale del mostro bandito per attivare questo effetto (fino alla fine di questo turno), poi se hai bandito un mostro che era originariamente Rettile, pesca 1 carta. Puoi utilizzare questo effetto di \"Lucertodose Emaciato\" una sola volta per turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Rettile",
+    "Link",
+    "Effetto"
+  ]
+}

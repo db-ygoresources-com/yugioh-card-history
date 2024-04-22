@@ -1,0 +1,15 @@
+{
+  "id": 20061,
+  "type": "monster",
+  "name": "Morador de la Jungla",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta. Mientras haya 2 cartas en las Zonas del Campo, tu adversario no puede seleccionar esta carta con efectos de cartas. Sólo puedes usar cada uno de los siguientes efectos de \"Morador de la Jungla\" una vez por turno. Puedes desterrar 1 monstruo de LUZ u OSCURIDAD en tu Cementerio; Invoca esta carta de Modo Especial desde tu mano. Si esta carta en posesión de su dueño es destruida por una carta del adversario: puedes barajar al Deck hasta 2 de tus Mágicas de Campo en tu Cementerio o destierro, y después puedes destruir hasta ese número de cartas que controle tu adversario.",
+  "level": 8,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

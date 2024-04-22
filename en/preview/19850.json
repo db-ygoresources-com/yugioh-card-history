@@ -1,0 +1,18 @@
+{
+  "id": 19850,
+  "type": "monster",
+  "name": "Refrain the Melodious Songstress",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is Normal or Special Summoned: You can add 1 \"Melodious\" monster from your Deck to your hand, except \"Refrain the Melodious Songstress\". If a \"Melodious\" Fusion Monster(s) is Special Summoned to your field, while this card is face-up in your Extra Deck (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of \"Refrain the Melodious Songstress\" once per turn.",
+  "pendEffect": "You can target 1 \"Melodious\" Fusion Monster you control; send 1 \"Melodious\" monster from your Deck to the GY, and if you do, the targeted monster gains ATK equal to the Level of that monster sent to the GY x 200 until the end of this turn. You can only use this effect of \"Refrain the Melodious Songstress\" once per turn.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

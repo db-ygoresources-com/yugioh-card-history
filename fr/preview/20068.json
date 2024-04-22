@@ -1,0 +1,16 @@
+{
+  "id": 20068,
+  "type": "monster",
+  "name": "Veidos le Dragon des Ténèbres Infinies",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Veidos le Dragon Éruption de l'Extinction\" + 2+ monstres Pyro de max. Niveau 9\nNon destructible par des effets de carte, et aussi, votre adversaire ne peut pas la cibler avec des effets de monstre. Si cette carte est Invoquée par Fusion : vous pouvez détruire toutes les Magies et tous les Pièges contrôlés par votre adversaire. Lorsque votre adversaire active une carte ou un effet sur le Terrain (Effet Rapide) : vous pouvez envoyer 1 carte \"Cendré\" face recto que vous contrôlez au Cimetière ; détruisez la carte. Vous ne pouvez utiliser cet effet de \"Veidos le Dragon des Ténèbres Infinies\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1700,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effet"
+  ]
+}

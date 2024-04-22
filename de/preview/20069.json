@@ -1,0 +1,16 @@
+{
+  "id": 20069,
+  "type": "monster",
+  "name": "Glut der in Asche Gelegten",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Pyro-Monster\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst 1 Spielfeldzauber in deinem Friedhof wählen; füge ihn deiner Hand hinzu. Am Beginn des Damage Steps, falls diese Karte gegen ein Pyro-Monster eines Gegners kämpft: Du kannst jenes Monster des Gegners zerstören und falls es dein Spielzug ist, kann diese Karte sofort einen zweiten Angriff durchführen. Du kannst jeden Effekt von „Glut der in Asche Gelegten“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2400,
+  "properties": [
+    "Pyro",
+    "Fusion",
+    "Effekt"
+  ]
+}

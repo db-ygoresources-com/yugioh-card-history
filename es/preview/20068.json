@@ -1,0 +1,16 @@
+{
+  "id": 20068,
+  "type": "monster",
+  "name": "Veidos el Dragón de la Oscuridad Infinita",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Veidos el Dragón Erupción de la Extinción\" + 2+ monstruos Piro de Nivel 9 o menor\nNo puede ser destruido por efectos de cartas, y además tu adversario no puede seleccionarlo con efectos de monstruos. Si esta carta es Invocada por Fusión: puedes destruir todas las Mágicas y Trampas que controle tu adversario. Cuando tu adversario activa una carta o efecto en el Campo (Efecto Rápido): puedes mandar al Cementerio 1 carta \"Calcinado/a\" boca arriba que controles; destruye esa carta. Sólo puedes usar este efecto de \"Veidos el Dragón de la Oscuridad Infinita\" una vez por turno.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1700,
+  "properties": [
+    "Piro",
+    "Fusión",
+    "Efecto"
+  ]
+}

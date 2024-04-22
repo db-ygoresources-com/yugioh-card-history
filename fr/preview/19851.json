@@ -1,0 +1,18 @@
+{
+  "id": 19851,
+  "type": "monster",
+  "name": "Couplet la Chanteuse de la Musique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est ajoutée à votre main, sauf en la piochant pour votre pioche normale : vous pouvez révéler cette carte ; Invoquez Spécialement 1 monstre \"Musique\" de max. Niveau 4 depuis votre main ou Cimetière. Si un ou plusieurs Monstres Fusion \"Musique\" sont Invoqués Spécialement sur votre Terrain, tant que cette carte est face recto dans votre Extra Deck (sauf durant la Damage Step) : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de \"Couplet la Chanteuse de la Musique\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation (monstres LUMIÈRE exclus) (cet effet ne peut pas être annulé). Si vous ne contrôlez aucun monstre face recto (monstres \"Musique\" exclus) : vous pouvez ajouter 1 Magie/Piège \"Musique\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Couplet la Chanteuse de la Musique\" qu'une fois par tour.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

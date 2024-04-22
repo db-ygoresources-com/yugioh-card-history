@@ -1,0 +1,16 @@
+{
+  "id": 19879,
+  "type": "monster",
+  "name": "Dragón de la Iluminación",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Dragón del Juicio\" + \"Dragón del Castigo\"\nDebe ser Invocado de Modo Especial (desde tu Deck Extra) desterrando los monstruos mencionados arriba, 1 en tu Campo y 1 en tu Cementerio. Una vez por turno (Efecto Rápido): puedes pagar 2000 LP; destierra todas las demás cartas en el Campo y los Cementerios. Una vez por turno, durante tu End Phase: manda al Cementerio las 4 cartas de la parte superior de tu Deck. Si esta carta en posesión de su dueño es destruida por una carta del adversario: puedes añadir a tu mano 2 de tus monstruos desterrados (1 \"Dragón del Juicio\" y 1 \"Dragón del Castigo\"), y después puedes Invocar ambos de Modo Especial, ignorando sus condiciones de Invocación.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

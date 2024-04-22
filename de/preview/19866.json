@@ -1,0 +1,15 @@
+{
+  "id": 19866,
+  "type": "monster",
+  "name": "Wichtlord",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Der Name dieser Karte wird zu „Totenkopfdiener“, solange sie im Friedhof liegt. Du kannst jeden der folgenden Effekte von „Wichtlord“ nur einmal pro Spielzug verwenden. Falls du „Totenkopfdiener“ oder „König der Totenkopfdiener“ in deinem Friedhof hast: Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; lege die obersten Karten deines Decks bis zur Anzahl der „Totenkopfdiener“ und „König der Totenkopfdiener“ in deinem Friedhof auf den Friedhof. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Totenkopfdiener“ oder „König der Totenkopfdiener“ in deinem Friedhof wählen; beschwöre ihn als Spezialbeschwörung.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

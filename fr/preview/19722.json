@@ -1,0 +1,19 @@
+{
+  "id": 19722,
+  "type": "monster",
+  "name": "Z-ARC, Roi Suprême - Univers Synchro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ Monstre Pendule non-Syntoniseur TÉNÈBRES\nLe nom de cette carte devient \"Z-ARC, Roi Suprême\" tant qu'elle est sur le Terrain. Après le calcul des dommages, si cette carte a détruit un monstre de l'adversaire au combat, OU lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez Invoquer Spécialement max. 2 monstres \"Roi Suprême du Dragon\" depuis votre Deck, Extra Deck et/ou Cimetière en Position de Défense. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Vous pouvez Sacrifier 1 Monstre Pendule \"Roi Suprême du Dragon\" ou \"Roi Suprême du Portail\" ; Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Z-ARC, Roi Suprême - Univers Synchro\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Pendule",
+    "Effet"
+  ]
+}

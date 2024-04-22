@@ -1,0 +1,16 @@
+{
+  "id": 19879,
+  "type": "monster",
+  "name": "Dragão da Iluminação",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Dragão do Julgamento\" + \"Dragão do Castigo\"\nDeve ser Invocado por Invocação-Especial (do seu Deck Adicional) ao banir os monstros acima, 1 de cada do seu campo e Cemitério. Uma vez por turno (Efeito Rápido): você pode pagar 2000 PV; bana todos os outros cards no campo e nos Cemitérios. Uma vez por turno, durante sua Fase Final: envie os 4 cards do topo do seu Deck para o Cemitério. Se este card em posse do seu dono for destruído por um card do oponente: você pode adicionar 2 dos seus monstros banidos à sua mão (1 \"Dragão do Julgamento\" e 1 \"Dragão do Castigo\") e, depois, você pode Invocar os dois por Invocação-Especial, ignorando suas condições de Invocação.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Efeito"
+  ]
+}

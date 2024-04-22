@@ -1,0 +1,15 @@
+{
+  "id": 19874,
+  "type": "monster",
+  "name": "Brasas Enfriándose",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si un jugador gana LP (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Una vez por turno, si un jugador gana LP mientras esta carta está en la Zona de Monstruos (excepto durante el Damage Step): puedes hacer que 1 jugador gane 1000 LP.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

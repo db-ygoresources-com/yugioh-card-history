@@ -1,0 +1,15 @@
+{
+  "id": 20063,
+  "type": "monster",
+  "name": "Vouivrenterrement, le Dragon Croque-Mort",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Durant la Main Phase, si un ou plusieurs monstres contrôlés par votre adversaire sont envoyés au Cimetière : vous pouvez activer l'effet suivant, selon où cette carte est à l'activation (mais vous ne pouvez utiliser chaque effet de \"Vouivrenterrement, le Dragon Croque-Mort\" qu'une fois par tour) ;\n●Main : Invoquez Spécialement cette carte.\n●Terrain : Faites perdre 1500 ATK à 1 Monstre à Effet contrôlé par votre adversaire, puis si son ATK devient 0 par cet effet, vous pouvez le détruire.",
+  "level": 10,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Illusion",
+    "Effet"
+  ]
+}

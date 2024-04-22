@@ -1,0 +1,15 @@
+{
+  "id": 19866,
+  "type": "monster",
+  "name": "Señor Espectro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "El nombre de esta carta se convierte en \"Sirviente de la Calavera\" mientras está en el Cementerio. Sólo puedes usar cada uno de los siguientes efectos de \"Señor Espectro\" una vez por turno. Si tienes \"Sirviente de la Calavera\" o \"Rey de los Sirvientes de la Calavera\" en tu Cementerio: puedes mandar al Cementerio esta carta en tu mano o Campo; manda al Cementerio cartas de la parte superior de tu Deck, hasta el número de \"Sirviente de la Calavera\" y \"Rey de los Sirvientes de la Calavera\" en tu Cementerio. Puedes desterrar esta carta en tu Cementerio, y después selecciona 1 \"Sirviente de la Calavera\" o \"Rey de los Sirvientes de la Calavera\" en tu Cementerio; Invócalo de Modo Especial.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

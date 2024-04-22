@@ -1,0 +1,15 @@
+{
+  "id": 19843,
+  "type": "monster",
+  "name": "Spadaccino Silente Zero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, durante la Standby Phase: aumenta il Livello di questa carta di 1. Mentre il Livello di questa carta è superiore al suo Livello originale, essa guadagna ATK pari alla differenza x 500. Quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio \"Sarcofago Brillante\", o uno o più mostri che lo menzionano, che tu controlli (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, aumenta il Livello di questa carta di 1. Puoi utilizzare questo effetto di \"Spadaccino Silente Zero\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

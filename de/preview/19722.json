@@ -1,0 +1,19 @@
+{
+  "id": 19722,
+  "type": "monster",
+  "name": "Oberster König Z-ARC - Synchro-Universum",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ FINSTERNIS Nicht-Empfänger-Pendelmonster\nDer Name dieser Karte wird zu „Oberster König Z-ARC“, solange sie auf dem Spielfeld liegt. Nach der Schadensberechnung, falls diese Karte ein Monster eines Gegners durch Kampf zerstört hat, ODER wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst bis zu 2 „Oberster König Drache“-Monster als Spezialbeschwörung von deinem Deck, Extra Deck und/oder Friedhof in die Verteidigungsposition beschwören. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Du kannst 1 „Oberster König Drache“- oder „Oberster König Tor“-Pendelmonster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Oberster König Z-ARC - Synchro-Universum“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19866,
+  "type": "monster",
+  "name": "Seigneur des Crânes Serviteurs",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Le nom de cette carte devient \"Crâne Serviteur\" tant qu'elle est dans le Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Seigneur des Crânes Serviteurs\" qu'une fois par tour. Si vous avez \"Crâne Serviteur\" ou \"Roi des Crânes Serviteurs\" dans votre Cimetière : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière ; envoyez un nombre de cartes du dessus de votre Deck au Cimetière, inférieur ou égal au nombre de \"Crâne Serviteur\" et \"Roi des Crânes Serviteurs\" dans votre Cimetière. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 \"Crâne Serviteur\" ou \"Roi des Crânes Serviteurs\" dans votre Cimetière ; Invoquez-le Spécialement.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

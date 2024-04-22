@@ -1,0 +1,18 @@
+{
+  "id": 19850,
+  "type": "monster",
+  "name": "Refrain la Chanteuse de la Musique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre \"Musique\" (\"Refrain la Chanteuse de la Musique\" exclu) depuis votre Deck à votre main. Si un ou plusieurs Monstres Fusion \"Musique\" sont Invoqués Spécialement sur votre Terrain, tant que cette carte est face recto dans votre Extra Deck (sauf durant la Damage Step) : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de \"Refrain la Chanteuse de la Musique\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 Monstre Fusion \"Musique\" que vous contrôlez ; envoyez 1 monstre \"Musique\" depuis votre Deck au Cimetière, et si vous le faites, le monstre ciblé gagne une ATK égale au Niveau du monstre envoyé au Cimetière x 200 jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Refrain la Chanteuse de la Musique\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

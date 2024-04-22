@@ -1,0 +1,18 @@
+{
+  "id": 19851,
+  "type": "monster",
+  "name": "Dística, a Cantora Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card for adicionado à sua mão, exceto ao comprá-lo em sua compra normal: você pode revelar este card; Invoque por Invocação-Especial 1 monstro \"Melodiosa(o)\" de Nível 4 ou menos da sua mão ou do Cemitério. Se um ou mais Monstros de Fusão \"Melodiosa(o)\" forem Invocados por Invocação-Especial no seu campo, enquanto este card estiver com a face para cima no seu Deck Adicional (exceto durante a Etapa de Dano): você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Dística, a Cantora Melodiosa\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar por Invocação-Pêndulo, exceto monstros de LUZ (este efeito não pode ser negado). Se você não controlar nenhum monstro com a face para cima, que não sejam monstros \"Melodiosa(o)\": você pode adicionar 1 Magia/Armadilha \"Melodiosa(o)\" do seu Deck à sua mão. Você só pode usar este efeito de \"Dística, a Cantora Melodiosa\" uma vez por turno.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

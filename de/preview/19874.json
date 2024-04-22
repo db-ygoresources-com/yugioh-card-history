@@ -1,0 +1,15 @@
+{
+  "id": 19874,
+  "type": "monster",
+  "name": "Verglimmende Glut",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls ein Spieler LP erhält (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Einmal pro Spielzug, falls ein Spieler LP erhält, solange diese Karte in der Monsterzone liegt (außer während des Damage Steps): Du kannst 1 Spieler 1000 LP erhalten lassen.",
+  "level": 3,
+  "atk": 500,
+  "def": 1500,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 19851,
+  "type": "monster",
+  "name": "Couplet la Cantante Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene aggiunta alla tua mano, eccetto pescandola per la tua normale pescata: puoi rivelare questa carta; Evoca Specialmente 1 mostro \"Melodiosa\" di Livello 4 o inferiore dalla tua mano o Cimitero. Se uno o più Mostri Fusione \"Melodiosa\" vengono Evocati Specialmente sul tuo Terreno, mentre questa carta è scoperta nel tuo Extra Deck (eccetto durante il Damage Step): puoi mettere questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di \"Couplet la Cantante Melodiosa\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum, eccetto mostri LUCE (questo effetto non può essere annullato). Se non controlli nessun mostro scoperto, oltre a mostri \"Melodiosa\": puoi aggiungere 1 Magia/Trappola \"Melodiosa\" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Couplet la Cantante Melodiosa\" una sola volta per turno.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

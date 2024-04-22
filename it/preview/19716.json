@@ -1,0 +1,18 @@
+{
+  "id": 19716,
+  "type": "monster",
+  "name": "Strega Pendulum",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta viene Evocata Normalmente o Pendulum: puoi scegliere come bersaglio 1 carta nella tua Zona Pendulum; distruggi sia quel bersaglio che questa carta e, se lo fai, aggiungi 1 Mostro Pendulum di Livello 4 o inferiore dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Strega Pendulum\" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Se uno o più Mostri Fusione, Synchro e/o Xyz scoperti che controlli vengono distrutti in battaglia o dall'effetto di una carta dell'avversario mentre questa carta è nella Zona Pendulum: puoi aggiungere 1 Mostro Pendulum con lo stesso Tipo originale di 1 di quei mostri, dal tuo Deck al tuo Extra Deck scoperto. Puoi utilizzare questo effetto di \"Strega Pendulum\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

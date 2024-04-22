@@ -1,0 +1,18 @@
+{
+  "id": 19850,
+  "type": "monster",
+  "name": "Estribillo la Cantante Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Melodiosa\" en tu Deck, excepto \"Estribillo la Cantante Melodiosa\". Si uno o más Monstruos de Fusión \"Melodiosa\" son Invocados de Modo Especial a tu Campo, mientras esta carta está boca arriba en tu Deck Extra (excepto durante el Damage Step): puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Estribillo la Cantante Melodiosa\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar 1 Monstruo de Fusión \"Melodiosa\" que controles; manda al Cementerio 1 monstruo \"Melodiosa\" en tu Deck y, si lo haces, el monstruo seleccionado gana ATK igual al Nivel de ese monstruo mandado al Cementerio x 200 hasta el final de este turno. Sólo puedes usar este efecto de \"Estribillo la Cantante Melodiosa\" una vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

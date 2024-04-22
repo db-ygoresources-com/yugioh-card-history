@@ -1,0 +1,18 @@
+{
+  "id": 19851,
+  "type": "monster",
+  "name": "Pareado la Cantante Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es añadida a tu mano, excepto robándola en tu robo normal: puedes mostrar esta carta; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo \"Melodiosa\" de Nivel 4 o menor. Si uno o más Monstruos de Fusión \"Melodiosa\" son Invocados de Modo Especial a tu Campo, mientras esta carta está boca arriba en tu Deck Extra (excepto durante el Damage Step): puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Pareado la Cantante Melodiosa\" una vez por turno.",
+  "pendEffect": "No puedes Invocar por Péndulo, excepto monstruos de LUZ (este efecto no puede ser negado). Si no controlas ningún monstruo boca arriba, que no sean monstruos \"Melodiosa\": puedes añadir a tu mano 1 Mágica/Trampa \"Melodiosa\" en tu Deck. Sólo puedes usar este efecto de \"Pareado la Cantante Melodiosa\" una vez por turno.",
+  "pendScale": 9,
+  "level": 5,
+  "atk": 1200,
+  "def": 2000,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

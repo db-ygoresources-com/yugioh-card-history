@@ -1,0 +1,16 @@
+{
+  "id": 19879,
+  "type": "monster",
+  "name": "Erleuchtungsdrache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Urteilsdrache“ + „Bestrafungsdrache“\nMuss als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Monster verbannst, je 1 von deiner Spielfeldseite und deinem Friedhof. Einmal pro Spielzug (Schnelleffekt): Du kannst 2000 LP zahlen; verbanne alle anderen Karten auf dem Spielfeld und in den Friedhöfen. Einmal pro Spielzug, während deiner End Phase: Lege die obersten 4 Karten deines Decks auf den Friedhof. Falls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Du kannst deiner Hand 2 deiner verbannten Monster hinzufügen (1 „Urteilsdrache“ und 1 „Bestrafungsdrache“), dann kannst du beide als Spezialbeschwörung beschwören, ungeachtet ihrer Beschwörungsbedingungen.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

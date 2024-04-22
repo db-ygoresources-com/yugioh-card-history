@@ -1,0 +1,15 @@
+{
+  "id": 19867,
+  "type": "monster",
+  "name": "Golgoil le Fracasseur d'Acier Sismique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Vous ne pouvez utiliser chacun des effets suivants de \"Golgoil le Fracasseur d'Acier Sismique\" qu'une fois par tour. Après le calcul des dommages, si votre monstre Machine ou Illusion a combattu : vous pouvez cibler 1 de vos monstres qui est banni ou dans votre Cimetière ; Invoquez-le Spécialement. Si cette carte est bannie depuis le Terrain : vous pouvez l'Invoquer Spécialement.",
+  "level": 10,
+  "atk": 1800,
+  "def": 3200,
+  "properties": [
+    "Illusion",
+    "Effet"
+  ]
+}

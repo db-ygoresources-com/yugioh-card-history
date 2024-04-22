@@ -1,0 +1,18 @@
+{
+  "id": 19716,
+  "type": "monster",
+  "name": "Pendulum Witch",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card is Normal or Pendulum Summoned: You can target 1 card in your Pendulum Zone; destroy both that target and this card, and if you do, add 1 Level 4 or lower Pendulum Monster from your Deck to your hand. You can only use this effect of \"Pendulum Witch\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "If a face-up Fusion, Synchro, and/or Xyz Monster(s) you control is destroyed by battle or an opponent's card effect while this card is in the Pendulum Zone: You can add 1 Pendulum Monster with the same original Type as 1 of those monsters, from your Deck to your face-up Extra Deck. You can only use this effect of \"Pendulum Witch\" once per turn.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

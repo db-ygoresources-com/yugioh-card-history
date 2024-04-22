@@ -1,0 +1,18 @@
+{
+  "id": 19850,
+  "type": "monster",
+  "name": "Refrão, a Cantora Melodiosa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 monstro \"Melodiosa(o)\" do seu Deck à sua mão, exceto \"Refrão, a Cantora Melodiosa\". Se um ou mais Monstros de Fusão \"Melodiosa(o)\" forem Invocados por Invocação-Especial no seu campo, enquanto este card estiver com a face para cima no seu Deck Adicional (exceto durante a Etapa de Dano): você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Refrão, a Cantora Melodiosa\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 Monstro de Fusão \"Melodiosa(o)\" que você controla; envie 1 monstro \"Melodiosa(o)\" do seu Deck para o Cemitério e, se isso acontecer, o monstro alvo ganha ATK igual ao Nível desse monstro enviado para o Cemitério x 200 até o final deste turno. Você só pode usar este efeito de \"Refrão, a Cantora Melodiosa\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 4,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

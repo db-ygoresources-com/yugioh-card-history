@@ -1,0 +1,19 @@
+{
+  "id": 20065,
+  "type": "monster",
+  "name": "Ausgezehrte Echsendosis",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster mit unterschiedlichen Namen\nDu kannst 1 Monster mit 2000 oder weniger ATK offen von deiner Spielfeldseite oder deinem Friedhof verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; lasse seine ATK (bis zum Ende dieses Spielzugs) gleich den Grund-ATK des Monsters werden, das verbannt wurde, um diesen Effekt zu aktivieren, dann, falls du ein Monster verbannt hast, das ursprünglich Reptil war, ziehe 1 Karte. Du kannst diesen Effekt von „Ausgezehrte Echsendosis“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 800,
+  "properties": [
+    "Reptil",
+    "Link",
+    "Effekt"
+  ]
+}

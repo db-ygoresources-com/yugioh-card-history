@@ -1,0 +1,15 @@
+{
+  "id": 4791,
+  "type": "monster",
+  "name": "Griffes de Shurilane",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Vous ne pouvez utiliser chacun des effets suivants de \"Griffes de Shurilane\" qu'une fois par tour. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre Démon ou Illusion que vous contrôlez (\"Griffes de Shurilane\" exclu) ; renvoyez-le à la main, et si vous le faites, Invoquez Spécialement cette carte depuis votre main. Lorsque votre adversaire active une carte ou un effet qui cible une ou plusieurs de vos cartes (Effet Rapide) : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; renvoyez cette carte depuis le Terrain à la main, et si vous le faites, détruisez le monstre.",
+  "level": 6,
+  "atk": 2100,
+  "def": 2050,
+  "properties": [
+    "Illusion",
+    "Effet"
+  ]
+}
