@@ -1,0 +1,15 @@
+{
+  "id": 12565,
+  "type": "monster",
+  "name": "Silent Magician",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Spellcaster monster. Gains 500 ATK for each card in your hand. Once per turn, when a Spell Card is activated (Quick Effect): You can negate the activation. If this card is destroyed by battle, or if this card in its owner's control is destroyed by an opponent's card effect: You can Special Summon 1 \"Silent Magician\" monster from your hand or Deck, except \"Silent Magician\", ignoring its Summoning conditions.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10885,
+  "type": "monster",
+  "name": "Minerva, Lightsworn Maiden",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When this card is Normal Summoned: You can add 1 LIGHT Dragon monster from your Deck to your hand, whose Level is less than or equal to the total number of \"Lightsworn\" monsters with different names in your GY. If this card is sent from the hand or Deck to the GY: Send the top card of your Deck to the GY. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Spellcaster",
+    "Tuner",
+    "Effect"
+  ]
+}

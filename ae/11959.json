@@ -1,0 +1,18 @@
+{
+  "id": 11959,
+  "type": "monster",
+  "name": "Performage Mirror Conductor",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Once per turn (Quick Effect): You can target 1 face-up monster on the field; switch its current ATK and DEF (until the end of this turn), then take 500 damage.",
+  "pendEffect": "Once per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 600,
+  "def": 1400,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

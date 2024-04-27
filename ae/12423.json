@@ -1,0 +1,18 @@
+{
+  "id": 12423,
+  "type": "monster",
+  "name": "Metalfoes Volflame",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Roasting red rockets boost its blazing, bright-blast burners to liquified lava levels. Vanquisher of the Vanisher!",
+  "pendEffect": "Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap directly from your Deck.",
+  "pendScale": 8,
+  "level": 7,
+  "atk": 2400,
+  "def": 2000,
+  "properties": [
+    "Psychic",
+    "Pendulum",
+    "Normal"
+  ]
+}

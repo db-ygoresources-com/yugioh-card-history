@@ -1,0 +1,18 @@
+{
+  "id": 19382,
+  "type": "monster",
+  "name": "Dimonno Vaalmonica",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is in your hand: You can discard 1 other card; take 1 \"Angello Vaalmonica\" from your Deck, and place this card and that card in your Pendulum Zones. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Vaalmonica\" Normal Spell/Trap from your GY; apply whichever effect on that card includes taking damage. You can only use each effect of \"Dimonno Vaalmonica\" once per turn.",
+  "pendEffect": "Each time you take effect damage while you control a Fairy Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Monsters your opponent controls lose 100 ATK for each Resonance Counter on your field.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 1200,
+  "def": 2100,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10884,
+  "type": "monster",
+  "name": "Michael, the Arch-Lightsworn",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "1 Tuner + 1+ non-Tuner LIGHT monsters\nOnce per turn: You can pay 1000 LP, then target 1 card on the field; banish that target. When this card is destroyed: You can target any number of other \"Lightsworn\" monsters in your GY; shuffle them into the Deck, and if you do, you gain 300 LP for each returned card. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effect"
+  ]
+}

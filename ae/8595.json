@@ -1,0 +1,15 @@
+{
+  "id": 8595,
+  "type": "monster",
+  "name": "Shire, Lightsworn Spirit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Gains 300 ATK for each \"Lightsworn\" monster with a different name in your GY. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.",
+  "level": 3,
+  "atk": 400,
+  "def": 1400,
+  "properties": [
+    "Fairy",
+    "Effect"
+  ]
+}

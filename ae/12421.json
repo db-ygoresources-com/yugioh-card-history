@@ -1,0 +1,18 @@
+{
+  "id": 12421,
+  "type": "monster",
+  "name": "Metalfoes Silverd",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "Sizzling soldier on a silver sublight speedjet. Can't track her, can't see her, can't escape that lightspeed laser.",
+  "pendEffect": "Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap directly from your Deck.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1700,
+  "def": 100,
+  "properties": [
+    "Psychic",
+    "Pendulum",
+    "Normal"
+  ]
+}
