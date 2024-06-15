@@ -1,0 +1,15 @@
+{
+  "id": 19844,
+  "type": "monster",
+  "name": "Silent Magician Zero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect, while you control \"Shining Sarcophagus\" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of \"Silent Magician Zero\" once per turn.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Spellcaster",
+    "Effect"
+  ]
+}
