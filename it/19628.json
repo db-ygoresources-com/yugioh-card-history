@@ -1,0 +1,21 @@
+{
+  "id": 19628,
+  "type": "monster",
+  "name": "Infernoid Flood",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "2+ mostri, compreso un mostro \"Infernoid\"\nQuando il tuo avversario sta per Evocare Specialmente uno o più mostri (Effetto Rapido): puoi offrire come Tributo 1 mostro; annulla l'Evocazione e, se lo fai, bandisci quei mostri. Se una o più carte vengono bandite dal tuo Cimitero (eccetto durante il Damage Step): puoi bandire 1 carta sul Terreno. Se questa carta Evocata Link sotto il controllo del suo proprietario viene distrutta da una carta dell'avversario: puoi Evocare Specialmente 1 mostro \"Infernoid\" dal tuo Deck, ignorando le sue condizioni di Evocazione. Puoi utilizzare ogni effetto di \"Infernoid Flood\" una sola volta per turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Demone",
+    "Link",
+    "Effetto"
+  ]
+}

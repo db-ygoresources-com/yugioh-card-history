@@ -1,0 +1,15 @@
+{
+  "id": 9471,
+  "type": "monster",
+  "name": "División",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes Sacrificar todos los \"División\" boca arriba que controles: Invoca de Modo Especial hasta el doble de ese número de \"Ficha Máquina\" (Máquina/FUEGO/Nivel 1/ATK 200/DEF 200), y cada vez que 1 es destruida, tu adversario recibe 500 puntos de daño. Si esta carta es desterrada: puedes seleccionar cualquier número de Fichas que controles; destrúyelas. Sólo puedes usar cada efecto de \"División\" una vez por turno.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

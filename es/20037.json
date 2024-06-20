@@ -1,0 +1,16 @@
+{
+  "id": 20037,
+  "type": "monster",
+  "name": "Aparición de Yubel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"Yubel\" + 1 monstruo Demonio con 0 ATK/DEF\nDebe ser Invocado de Modo Especial (desde tu Deck Extra) barajando al Deck/Deck Extra las cartas mencionadas arriba en tu mano, Campo y/o Cementerio. No puede ser usado como Material de Fusión. No puede ser destruido en batalla, y además no recibes daño de batallas que involucren esta carta. Cuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes Sacrificar esta carta; el efecto activado se convierte en \"Tu adversario destruye 1 monstruo \"Yubel\" en su mano, Deck o Campo\". Sólo puedes usar este efecto de \"Aparición de Yubel\" una vez por turno.",
+  "level": 9,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

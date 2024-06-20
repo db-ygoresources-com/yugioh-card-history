@@ -1,0 +1,15 @@
+{
+  "id": 8927,
+  "type": "monster",
+  "name": "Elektroschütze",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du ein oder mehr FEUER Monster als Normal- oder Spezialbeschwörung beschwörst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 Pyro-Monster der Stufe 8 von deinem Deck auf den Friedhof legen. Du kannst diesen Effekt von „Elektroschütze“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, falls eine Zauberkarte aktiviert wird (außer während des Damage Steps): Du kannst alle FEUER Monster, die du derzeit kontrollierst, 300 ATK erhalten lassen.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

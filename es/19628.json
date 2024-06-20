@@ -1,0 +1,21 @@
+{
+  "id": 19628,
+  "type": "monster",
+  "name": "Infiernoid Flood",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2+ monstruos, incluyendo un monstruo \"Infiernoid\"\nCuando tu adversario fuera a Invocar uno o más monstruos de Modo Especial (Efecto Rápido): puedes Sacrificar 1 monstruo; niega la Invocación y, si lo haces, destierra ese o esos monstruos. Si una o más cartas son desterradas de tu Cementerio (excepto durante el Damage Step): puedes desterrar 1 carta en el Campo. Si esta carta Invocada por Enlace controlada por su dueño es destruida por una carta del adversario: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Infiernoid\", ignorando sus condiciones de Invocación. Sólo puedes usar cada efecto de \"Infiernoid Flood\" una vez por turno.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

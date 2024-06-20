@@ -1,0 +1,15 @@
+{
+  "id": 20036,
+  "type": "monster",
+  "name": "Ankunft des Erzunterweltlers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange du „Glänzender Sarkophag“ kontrollierst, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Andere Monster, die du kontrollierst, erhalten nur während deines Spielzugs 500 ATK. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle darüber, aber jenes Monster kann nicht angreifen, es sei denn, du hast „Glänzender Sarkophag“ kontrolliert, als dieser Effekt aktiviert wurde. Du kannst diesen Effekt von „Ankunft des Erzunterweltlers“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

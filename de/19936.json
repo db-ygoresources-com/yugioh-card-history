@@ -1,0 +1,16 @@
+{
+  "id": 19936,
+  "type": "monster",
+  "name": "Wackeliges Quartett",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Monster der Stufe 4\nBleibt von den Effekten anderer Karten unberührt. Falls diese Karte als Xyz-Beschwörung beschworen wird, zusätzlich einmal pro Spielzug während deiner Standby Phase: Hänge die obersten 3 Karten deines Decks als Material an diese Karte an, dann führe den folgenden Effekt aus, basierend auf der Anzahl der an diese Karte angehängten Monster.\n●4 oder weniger: Übergib die Kontrolle über diese Karte an deinen Gegner.\n●5 oder mehr: Du erhältst für jedes Material, das diese Karte hat, 400 Schaden und falls du dies tust, zerstöre alle Monster, die du kontrollierst.",
+  "rank": 4,
+  "atk": 0,
+  "def": 2600,
+  "properties": [
+    "Ungeheuer",
+    "Xyz",
+    "Effekt"
+  ]
+}

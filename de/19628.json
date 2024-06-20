@@ -1,0 +1,21 @@
+{
+  "id": 19628,
+  "type": "monster",
+  "name": "Infernoid Flood",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2+ Monster, darunter ein „Infernoid“-Monster\nWenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwören würde (Schnelleffekt): Du kannst 1 Monster als Tribut anbieten; annulliere die Beschwörung und falls du dies tust, verbanne jene Monster. Falls eine oder mehr Karten von deinem Friedhof verbannt werden (außer während des Damage Steps): Du kannst 1 Karte auf dem Spielfeld verbannen. Falls diese als Linkbeschwörung beschworene Karte, die ihr Besitzer kontrolliert, durch eine Karte eines Gegners zerstört wird: Du kannst 1 „Infernoid“-Monster als Spezialbeschwörung von deinem Deck beschwören, ungeachtet seiner Beschwörungsbedingungen. Du kannst jeden Effekt von „Infernoid Flood“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

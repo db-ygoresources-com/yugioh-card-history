@@ -1,0 +1,15 @@
+{
+  "id": 9471,
+  "type": "monster",
+  "name": "Division",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst alle offenen „Division“, die du kontrollierst, als Tribut anbieten: Beschwöre bis zu zweimal so viele „Operator-Spielmarken“ (Maschine/FEUER/Stufe 1/ATK 200/DEF 200) als Spezialbeschwörung und jedes Mal, wenn 1 zerstört wird, erhält dein Gegner 500 Schaden. Falls diese Karte verbannt wird: Du kannst eine beliebige Anzahl Spielmarken wählen, die du kontrollierst; zerstöre sie. Du kannst jeden Effekt von „Division“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

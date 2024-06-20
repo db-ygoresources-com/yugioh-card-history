@@ -1,0 +1,16 @@
+{
+  "id": 19620,
+  "type": "monster",
+  "name": "Georgius, Schwertkämpfer der Eisbarriere",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Solange du ein anderes „Eisbarriere“-Monster kontrollierst, kann dein Gegner keine Effekte von Monstern im Friedhof aktivieren. Du kannst jeden der folgenden Effekte von „Georgius, Schwertkämpfer der Eisbarriere“ nur einmal pro Spielzug verwenden. Falls du ein „Eisbarriere“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Eisbarriere“-Monster der Stufe 5 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

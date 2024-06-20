@@ -1,0 +1,15 @@
+{
+  "id": 20036,
+  "type": "monster",
+  "name": "Avènement de l'Archdémon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que vous contrôlez \"Sarcophage Brillant\", vous pouvez Invoquer Normalement cette carte sans Sacrifice. Les autres monstres que vous contrôlez gagnent 500 ATK durant votre tour uniquement. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; prenez-en le contrôle jusqu'à la End Phase, mais le monstre ne peut pas attaquer sauf si vous contrôliez \"Sarcophage Brillant\" lorsque cet effet a été activé. Vous ne pouvez utiliser cet effet de \"Avènement de l'Archdémon\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

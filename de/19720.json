@@ -1,0 +1,16 @@
+{
+  "id": 19720,
+  "type": "monster",
+  "name": "Glanzstern-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Während der Main Phase deines Gegners, falls sich diese Karte in deiner Hand befindet (Schnelleffekt): Du kannst 1 Drache-Synchromonster in deinem Friedhof wählen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung, aber annulliere seine Effekte, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Drache-Synchromonster als Synchrobeschwörung beschwören und dafür diese Karte verwenden, die du kontrollierst. Du kannst diesen Effekt von „Glanzstern-Drache“ nur einmal pro Spielzug verwenden. Ein Drache-Monster, das mit dieser Karte als Material als Synchrobeschwörung beschworen wurde, kann nicht durch Kampf zerstört werden.",
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

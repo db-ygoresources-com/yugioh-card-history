@@ -1,0 +1,16 @@
+{
+  "id": 19935,
+  "type": "monster",
+  "name": "As★Pique Spéculation",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre avec min. 2500 ATK + 1 monstre en Position de Défense face verso avec max. 2500 DEF\nVous ne pouvez Invoquer Spécialement un ou plusieurs \"As★Pique Spéculation\" qu'une fois par tour. Vous pouvez Sacrifier 1 monstre en Position d'Attaque et 1 monstre en Position de Défense face verso ; Invoquez Spécialement cette carte depuis votre Cimetière. Cette carte gagne l'effet suivant selon sa position de combat.\n●Position d'Attaque : Gagne une ATK égale à la plus haute ATK d'origine parmi les monstres contrôlés par votre adversaire (en cas d'égalité, vous choisissez).\n●Position de Défense : Non destructible ni au combat ni par des effets de carte.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 19628,
+  "type": "monster",
+  "name": "Infernoid Flood",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2+ monstres (un monstre \"Infernoid\" inclus)\nLorsque votre adversaire va Invoquer Spécialement un ou plusieurs monstres (Effet Rapide) : vous pouvez Sacrifier 1 monstre ; annulez l'Invocation, et si vous le faites, bannissez ces monstres. Si une ou plusieurs cartes sont bannies depuis votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir 1 carte sur le Terrain. Si cette carte Invoquée par Lien contrôlée par son propriétaire est détruite par une carte de l'adversaire : vous pouvez Invoquer Spécialement 1 monstre \"Infernoid\" depuis votre Deck, en ignorant ses conditions d'Invocation. Vous ne pouvez utiliser chaque effet de \"Infernoid Flood\" qu'une fois par tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19621,
+  "type": "monster",
+  "name": "Mago del Espejo de la Barrera de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Sacrificar otro Monstruo de Efecto; Invoca de Modo Especial hasta 3 \"Ficha Barrera de Hielo\" (Aqua/AGUA/Nivel 1/ATK 0/DEF 0) y, si lo haces, aumenta el Nivel de esta carta en ese número, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía de AGUA. Si esta carta es mandada al Cementerio: puedes añadir a tu mano 1 de tus cartas \"Barrera de Hielo\" que esté desterrada o en tu Deck, excepto \"Mago del Espejo de la Barrera de Hielo\". Sólo puedes usar cada efecto de \"Mago del Espejo de la Barrera de Hielo\" una vez por turno.",
+  "level": 2,
+  "atk": 1000,
+  "def": 400,
+  "properties": [
+    "Aqua",
+    "Cantante",
+    "Efecto"
+  ]
+}

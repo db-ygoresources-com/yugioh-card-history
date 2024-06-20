@@ -1,0 +1,15 @@
+{
+  "id": 9471,
+  "type": "monster",
+  "name": "Division",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Sacrifier tous les \"Division\" face recto que vous contrôlez : Invoquez Spécialement max. deux fois autant de \"Jeton Machine\" (Machine/FEU/Niveau 1/ATK 200/DEF 200), et chaque fois qu'1 est détruit, votre adversaire reçoit 500 points de dommages. Si cette carte est bannie : vous pouvez cibler un nombre de votre choix de Jetons que vous contrôlez ; détruisez-les. Vous ne pouvez utiliser chaque effet de \"Division\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}
