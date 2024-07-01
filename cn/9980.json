@@ -1,0 +1,16 @@
+{
+  "id": 9980,
+  "type": "monster",
+  "name": "上弦式神",
+  "englishAttribute": "dark",
+  "localizedAttribute": "暗属性",
+  "effectText": "此卡不可通常召唤。\n自己墓地的怪兽仅有机械族怪兽的情况下可以特殊召唤。\n①：１回合１次，以对手场上的１只表侧表示怪兽为对象可以发动。将该怪兽的攻击力直至回合结束时为止改成０。",
+  "level": 8,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "机械族",
+    "特殊召唤",
+    "效果"
+  ]
+}
