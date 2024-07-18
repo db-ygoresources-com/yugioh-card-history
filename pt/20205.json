@@ -1,0 +1,18 @@
+{
+  "id": 20205,
+  "type": "monster",
+  "name": "Desatexplosão, a Fortaleza da Negação",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se houver uma coluna sem cards, você pode Invocar este card por Invocação-Especial (da sua mão) em uma zona sua nessa coluna. Você só pode Invocar \"Desatexplosão, a Fortaleza da Negação\" por Invocação-Especial uma vez por turno desta forma. Negue quaisquer efeitos de card ativados na coluna deste card. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Negue quaisquer efeitos de card ativados na coluna deste card.",
+  "pendScale": 5,
+  "level": 5,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

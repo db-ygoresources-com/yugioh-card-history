@@ -1,0 +1,15 @@
+{
+  "id": 20206,
+  "type": "monster",
+  "name": "Multifascinante Purulia",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se non controlli nessuna carta (Effetto Rapido): puoi scartare questa carta; applica questi effetti in questo turno.\n●Ogni volta che il tuo avversario Evoca Normalmente o Specialmente uno o più mostri dalla mano, pesca immediatamente 1 carta.\n●Una volta, durante questa End Phase, se il numero di carte nella tua mano è superiore al numero di carte controllate dal tuo avversario +6, devi mischiare carte a caso dalla tua mano nel Deck fino a che il numero nella tua mano è pari al numero controllato dal tuo avversario +6.\nPuoi attivare solo 1 altro effetto di un mostro \"Multifascinante\" nel turno in cui attivi questo effetto.",
+  "level": 4,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20260,
+  "type": "monster",
+  "name": "Drache des Stolzes und der Seele",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, solange dein Gegner 25 oder mehr Karten in seinem Friedhof hat. Solange du 25 oder mehr Karten in deinem Friedhof hast, erhält diese Karte 2500 ATK/DEF.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

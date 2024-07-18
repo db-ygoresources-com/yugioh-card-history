@@ -1,0 +1,16 @@
+{
+  "id": 20431,
+  "type": "monster",
+  "name": "Mimighul Erzunterweltler",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Falls es die Main Phase ist: Führe nacheinander diese Effekte aus.\n●Dein Gegner zieht 1 Karte.\n●Lege 1 Karte von deiner Hand auf den Friedhof.\n●Übergib die Kontrolle über diese Karte an deinen Gegner.\nWährend deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners in die verdeckte Verteidigungsposition beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 verdecktes Monster auf dem Spielfeld in die offene Angriffs- oder Verteidigungsposition ändern. Du kannst jeden Effekt von „Mimighul Erzunterweltler“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 1900,
+  "properties": [
+    "Unterweltler",
+    "Flipp",
+    "Effekt"
+  ]
+}

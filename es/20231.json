@@ -1,0 +1,19 @@
+{
+  "id": 20231,
+  "type": "monster",
+  "name": "Siluetsombrero Conejo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 Monstruos de Efecto\nSi esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla. Sólo puedes usar cada uno de los siguientes efectos de \"Siluetsombrero Conejo\" una vez por turno. Si esta carta es Invocada por Enlace: puedes Colocar 1 Trampa Continua desde tu Deck con un efecto que la Invoca a sí misma de Modo Especial como un monstruo, y además esta carta no puede ser usada como Material de Enlace este turno. Si una carta en la Zona de Magia y Trampas es Invocada de Modo Especial a la Zona de Monstruos (excepto durante el Damage Step): puedes seleccionar 1 Mágica/Trampa que controle tu adversario; destrúyela.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Ilusión",
+    "Enlace",
+    "Efecto"
+  ]
+}

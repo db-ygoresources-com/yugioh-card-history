@@ -1,0 +1,17 @@
+{
+  "id": 20217,
+  "type": "monster",
+  "name": "Silvera, Wolfszähmerin vom Weißen Wald",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst alle offenen Monster, die dein Gegner kontrolliert, in die verdeckte Verteidigungsposition ändern. Illusion- und Hexer-Synchromonster, die du kontrollierst, erhalten 500 ATK, zusätzlich, falls sie ein Monster in Verteidigungsposition angreifen, füge deinem Gegner doppelten durchschlagenden Kampfschaden zu.",
+  "level": 6,
+  "atk": 1900,
+  "def": 2400,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

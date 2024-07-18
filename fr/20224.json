@@ -1,0 +1,16 @@
+{
+  "id": 20224,
+  "type": "monster",
+  "name": "Phobos Covos Hérétique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 4\nVous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; annulez ses effets, puis s'il a combattu ce tour, vous pouvez en prendre le contrôle jusqu'à la End Phase. Ceci est un Effet Rapide si cette carte a un monstre Illusion comme Matériel. Vous ne pouvez utiliser cet effet de \"Phobos Covos Hérétique\" qu'une fois par tour. Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.",
+  "rank": 4,
+  "atk": 2100,
+  "def": 1500,
+  "properties": [
+    "Illusion",
+    "Xyz",
+    "Effet"
+  ]
+}

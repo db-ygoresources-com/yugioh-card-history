@@ -1,0 +1,16 @@
+{
+  "id": 20213,
+  "type": "monster",
+  "name": "Seigneur Dragon de la Lumière et des Ténèbres",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre LUMIÈRE Dragon de Niveau 8 + 1 monstre TÉNÈBRES Dragon de Niveau 8\nUniquement Invocable par Fusion. Tant que cette carte est face recto sur le Terrain, elle est aussi TÉNÈBRES. Une fois par Chaîne, si une Carte Magie/Piège ou un effet de monstre est activé (Effet Rapide) : cette carte perd exactement 1000 ATK/DEF, et si elle le fait, annulez l'activation. Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez cibler 1 monstre Dragon dans votre Cimetière ; Invoquez-le Spécialement.",
+  "level": 10,
+  "atk": 3400,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

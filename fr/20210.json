@@ -1,0 +1,15 @@
+{
+  "id": 20210,
+  "type": "monster",
+  "name": "Dépresspard",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si c'est la seule carte dans votre main : vous pouvez Invoquer Spécialement cette carte. Si vous le faites : jusqu'à la fin du tour de votre adversaire, l'ATK de cette carte devient 2500. Si cette carte combat un monstre de l'adversaire, vous recevez les dommages de combat que votre adversaire aurait dû recevoir de ce combat. Si vous recevez des dommages de combats impliquant cette carte : l'ATK de cette carte devient 0, puis si vos LP sont inférieurs ou égaux à 2000, l'ATK de cette carte devient 5000.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

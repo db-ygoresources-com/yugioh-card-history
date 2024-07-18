@@ -1,0 +1,15 @@
+{
+  "id": 20206,
+  "type": "monster",
+  "name": "Purulia Multivadora",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si no controlas cartas (Efecto Rápido): puedes descartar esta carta; aplica estos efectos este turno.\n●Cada vez que tu adversario Invoca de Modo Normal o Especial uno o más monstruos desde la mano, inmediatamente robas 1 carta.\n●Una vez, durante esta End Phase, si el número de cartas en tu mano es mayor que el número de cartas que controla tu adversario +6, debes barajar al Deck cartas al azar en tu mano para que el número en tu mano sea igual al número que controla tu adversario +6.\nSólo puedes activar otro efecto de monstruo \"Multivador/a\" el turno en el que activas este efecto.",
+  "level": 4,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

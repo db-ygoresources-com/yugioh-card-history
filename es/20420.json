@@ -1,0 +1,18 @@
+{
+  "id": 20420,
+  "type": "monster",
+  "name": "Vulmina, Estatua del Dragón Sagrado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando un monstruo del adversario declara un ataque: puedes poner este monstruo en tu Zona de Péndulo y, si lo haces, devuelve a la mano el monstruo del adversario. Sólo puedes usar este efecto de \"Vulmina, Estatua del Dragón Sagrado\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Si uno o más monstruos son Invocados de Modo Especial por el efecto de tu Trampa (excepto durante el Damage Step): puedes seleccionar 1 carta en el Campo; devuélvela a la mano, y después puedes Invocar esta carta de Modo Especial. Sólo puedes usar este efecto de \"Vulmina, Estatua del Dragón Sagrado\" una vez por turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Dragón",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20213,
+  "type": "monster",
+  "name": "Signoredrago di Luce e Oscurità",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 mostro LUCE Drago di Livello 8 + 1 mostro OSCURITÀ Drago di Livello 8\nDeve essere Evocato tramite Fusione. Mentre è scoperta sul Terreno, questa carta è anche di Attributo OSCURITÀ. Una volta per Catena, se viene attivata una Carta Magia/Trappola o l'effetto di un mostro (Effetto Rapido): questa carta perde esattamente 1000 ATK/DEF e, se lo fa, annulla l'attivazione. Se questa carta sotto il comando del suo proprietario viene distrutta da una carta dell'avversario: puoi scegliere come bersaglio 1 mostro Drago nel tuo Cimitero; Evocalo Specialmente.",
+  "level": 10,
+  "atk": 3400,
+  "def": 3000,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Effetto"
+  ]
+}

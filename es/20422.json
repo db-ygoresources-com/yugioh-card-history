@@ -1,0 +1,15 @@
+{
+  "id": 20422,
+  "type": "monster",
+  "name": "Demonio del Ocenoprofundo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes descartar 1 carta, y después declara 1 Atributo, excepto AGUA; Invoca esta carta de Modo Especial desde tu mano a cualquier Campo, y después esta carta se convierte en una con ese Atributo (hasta el final de este turno) y después, si Invocaste de Modo Especial esta carta al Campo de tu adversario, puedes Invocar de Modo Especial a tu Campo, desde tu mano o Cementerio, 1 monstruo Demonio de Nivel 4 o menor con un Atributo original que no sea el declarado y además, por el resto de este turno, no puedes Invocar de Modo Especial desde el Deck Extra, excepto monstruos Demonio. Sólo puedes usar este efecto de \"Demonio del Ocenoprofundo\" una vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20422,
+  "type": "monster",
+  "name": "Demônio Profunmar",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Você pode descartar 1 card e, depois, declare 1 Atributo, exceto ÁGUA; Invoque este card por Invocação-Especial da sua mão em qualquer campo e, depois, este card se torna desse Atributo (até o final deste turno) e, depois, se você Invocou este card por Invocação-Especial no campo do seu oponente, você pode Invocar por Invocação-Especial 1 monstro Demônio de Nível 4 ou menos com um Atributo original que não seja o declarado, da sua mão ou do Cemitério no seu campo e, além disso, pelo resto deste turno, você não pode Invocar por Invocação-Especial do Deck Adicional, exceto monstros Demônio. Você só pode usar este efeito de \"Demônio Profunmar\" uma vez por turno.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

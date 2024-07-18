@@ -1,0 +1,15 @@
+{
+  "id": 20207,
+  "type": "monster",
+  "name": "Dora Dora",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 FEUER Drache-Monster der Stufe 4 oder niedriger von deinem Deck hinzufügen. Du kannst diesen Effekt von „Dora Dora“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während deiner Main Phase: Du kannst die oberste Karte deines Decks ausgraben und falls es ein FEUER Drache-Monster ist, lege sie auf den Friedhof und falls du dies tust, erhält diese Karte für jeden „Dora Dora“, den du kontrollierst, 1000 ATK. Lege die ausgegrabene Karte andernfalls unter dein Deck.",
+  "level": 3,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

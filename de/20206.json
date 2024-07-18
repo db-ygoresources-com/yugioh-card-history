@@ -1,0 +1,15 @@
+{
+  "id": 20206,
+  "type": "monster",
+  "name": "Mulreizende Purulia",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls du keine Karten kontrollierst (Schnelleffekt): Du kannst diese Karte abwerfen; wende in diesem Spielzug diese Effekte an.\n●Jedes Mal, wenn dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung von der Hand beschwört, ziehe sofort 1 Karte.\n●Einmal, während dieser End Phase, falls die Anzahl der Karten in deiner Hand größer ist als die Anzahl der Karten, die dein Gegner kontrolliert, +6, musst du zufällige Karten von deiner Hand ins Deck mischen, sodass die Anzahl in deiner Hand der Anzahl, die dein Gegner kontrolliert, +6 entspricht.\nDu kannst in dem Spielzug, in dem du diesen Effekt aktivierst, nur 1 anderen „Mulreizend“-Monstereffekt aktivieren.",
+  "level": 4,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

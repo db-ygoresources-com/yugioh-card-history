@@ -1,0 +1,15 @@
+{
+  "id": 20185,
+  "type": "monster",
+  "name": "Magicien Sombre le Magicien de Magie Noire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Magicien Sombre\" tant qu'elle est sur le Terrain. Vous ne pouvez utiliser chacun des effets suivants de \"Magicien Sombre le Magicien de Magie Noire\" qu'une fois par tour. Si \"Sarcophage Brillant\" est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est détruite par un effet de carte et qu'un monstre de min. Niveau 5 est sur le Terrain : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez Poser 1 Magie/Piège depuis votre Deck qui mentionne \"Magicien Sombre\".",
+  "level": 7,
+  "atk": 2500,
+  "def": 2100,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

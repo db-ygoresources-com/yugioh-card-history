@@ -1,0 +1,16 @@
+{
+  "id": 20215,
+  "type": "monster",
+  "name": "Désirae du Démonforgeron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Graveur Démonforgeron\" + 2 monstres LUMIÈRE Démon\n(Effet Rapide) : jusqu'à la fin de ce tour, vous pouvez annuler les effets d'un nombre de cartes face recto sur le Terrain, inférieur ou égal à la somme des Classifications Lien des Monstres Lien équipés à cette carte. Si cette carte est envoyée au Cimetière : vous pouvez mélanger 1 autre monstre LUMIÈRE Démon depuis votre Cimetière dans le Deck/Extra Deck, puis ciblez 1 carte sur le Terrain ; envoyez-la au Cimetière. Vous ne pouvez utiliser chaque effet de \"Désirae du Démonforgeron\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

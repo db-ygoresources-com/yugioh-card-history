@@ -1,0 +1,16 @@
+{
+  "id": 20419,
+  "type": "monster",
+  "name": "Magikolloides Sol",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein oder mehr Monster durch deinen Falleneffekt als Spezialbeschwörung beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören, aber falls du sie vom Friedhof beschwörst, verbanne sie, wenn sie das Spielfeld verlässt. Während der Battle Phase deines Gegners (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren;\n●Sofort nachdem dieser Effekt aufgelöst wurde, führe eine Synchrobeschwörung durch und verwende dafür diese Karte, die du kontrollierst.\n●Sofort nachdem dieser Effekt aufgelöst wurde, führe eine Xyz-Beschwörung durch und verwende dafür diese Karte, die du kontrollierst.\nDu kannst jeden Effekt von „Magikolloides Sol“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

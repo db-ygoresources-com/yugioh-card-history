@@ -1,0 +1,16 @@
+{
+  "id": 20430,
+  "type": "monster",
+  "name": "Cerbère Mimigoule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Si c'est la Main Phase : appliquez ces effets dans l'ordre.\n●Bannissez les 3 cartes du dessus de votre Deck, puis Invoquez Spécialement 1 de vos monstres bannis sur le Terrain de votre adversaire en Position de Défense.\n●Donnez le contrôle de cette carte à votre adversaire.\nDurant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main sur le Terrain de votre adversaire en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Cerbère Mimigoule\" qu'une fois par tour. Votre adversaire ne peut pas cibler de Magies face recto que vous contrôlez avec des effets de carte.",
+  "level": 1,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Bête",
+    "Flip",
+    "Effet"
+  ]
+}

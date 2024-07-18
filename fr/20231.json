@@ -1,0 +1,19 @@
+{
+  "id": 20231,
+  "type": "monster",
+  "name": "Lapin Silhouettochapeau",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 Monstres à Effet\nSi cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Vous ne pouvez utiliser chacun des effets suivants de \"Lapin Silhouettochapeau\" qu'une fois par tour. Si cette carte est Invoquée par Lien : vous pouvez Poser 1 Piège Continu depuis votre Deck avec un effet qui s'Invoque Spécialement comme monstre, et aussi, cette carte ne peut pas être utilisée comme Matériel Lien ce tour. Si une carte dans la Zone Magie & Piège est Invoquée Spécialement dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez cibler 1 Magie/Piège contrôlé par votre adversaire ; détruisez-le.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Illusion",
+    "Lien",
+    "Effet"
+  ]
+}

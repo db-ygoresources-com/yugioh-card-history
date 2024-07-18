@@ -1,0 +1,17 @@
+{
+  "id": 20218,
+  "type": "monster",
+  "name": "Rciela, unheimliche Seele vom Weißen Wald",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Zauber/Falle von deiner Hand oder Spielfeldseite auf den Friedhof legen; füge deiner Hand 1 „Weißen Wald“-Karte oder 1 LICHT Hexer-Monster von deinem Deck hinzu. Du kannst diesen Effekt von „Rciela, unheimliche Seele vom Weißen Wald“ nur einmal pro Spielzug verwenden. Illusion- und Hexer-Synchromonster, die du kontrollierst, erhalten 500 ATK, zusätzlich können sie nicht durch Karteneffekte deines Gegners zerstört werden.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

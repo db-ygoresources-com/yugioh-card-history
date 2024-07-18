@@ -1,0 +1,16 @@
+{
+  "id": 20429,
+  "type": "monster",
+  "name": "Mimighul Drache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Falls es die Main Phase ist: Führe nacheinander diese Effekte aus.\n●Zerstöre alle offenen Monster, die du kontrollierst, außer „Mimighul“-Monstern.\n●Übergib die Kontrolle über diese Karte an deinen Gegner.\nWährend deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners in die verdeckte Verteidigungsposition beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Mimighul“-Zauber/Falle von deinem Deck hinzufügen. Du kannst jeden Effekt von „Mimighul Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Flipp",
+    "Effekt"
+  ]
+}

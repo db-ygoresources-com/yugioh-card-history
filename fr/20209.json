@@ -1,0 +1,16 @@
+{
+  "id": 20209,
+  "type": "monster",
+  "name": "Chauve-Souris Bettan",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Max. trois fois par tour, si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez en cibler 1 ; lancez une pièce et si le résultat est face, changez-le en Position d'Attaque face recto, ou si le résultat est pile, changez-le en Position de Défense face verso. Une fois par tour, si un ou plusieurs autres monstres sur le Terrain sont retournés face recto, ou un ou plusieurs monstres face recto sont changés en Position de Défense face verso, même durant la Damage Step : vous pouvez en cibler 1 ; changez-le en Position d'Attaque face recto ou Position de Défense face verso.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Bête Ailée",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

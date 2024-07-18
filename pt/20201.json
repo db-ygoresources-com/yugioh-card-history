@@ -1,0 +1,15 @@
+{
+  "id": 20201,
+  "type": "monster",
+  "name": "Drytron Nu II",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por um efeito de card. Se um card \"Drytron\" estiver no campo: você pode Invocar este card por Invocação-Especial da sua mão ou do Cemitério, mas bana-o quando ele deixar o campo. Se este card for Invocado por Invocação-Especial: você pode adicionar 1 monstro \"Drytron\" do seu Deck à sua mão, exceto \"Drytron Nu II\". Você só pode usar cada efeito de \"Drytron Nu II\" uma vez por turno e, além disso, você não pode Invocar por Invocação-Ritual no turno em que ativar qualquer um dos efeitos deste card, exceto monstros Máquina.",
+  "level": 1,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

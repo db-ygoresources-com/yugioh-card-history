@@ -1,0 +1,19 @@
+{
+  "id": 20228,
+  "type": "monster",
+  "name": "Varar, vaalmonikansche Eintracht",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 Monster, darunter ein „Vaalmonika“-Linkmonster\nBleibt von Karteneffekten unberührt, außer von denen von „Vaalmonika“-Karten, solange du 6 oder mehr Resonanz-Zählmarken auf deiner Spielfeldseite hast. Erhält während jeder Battle Phase für jedes „Vaalmonika“-Monster der Stufe 4, das du kontrollierst, 1 zusätzlichen Angriff. Einmal pro Spielzug, wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwören würde, falls du 3+ Resonanz-Zählmarken auf deiner Spielfeldseite hast (Schnelleffekt): Du kannst die Spezialbeschwörung annullieren und falls du dies tust, zerstöre jene Monster, dann entferne 3 Resonanz-Zählmarken von deiner Spielfeldseite.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

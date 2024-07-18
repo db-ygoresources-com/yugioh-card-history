@@ -1,0 +1,16 @@
+{
+  "id": 20429,
+  "type": "monster",
+  "name": "Dragón Mimighoul",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Si es la Main Phase: aplica estos efectos en secuencia.\n●Destruye todos los monstruos boca arriba que controlas, excepto monstruos \"Mimighoul\".\n●Da el control de esta carta a tu adversario.\nDurante tu Main Phase: puedes Invocar esta carta de Modo Especial desde tu mano al Campo de tu adversario en Posición de Defensa boca abajo. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Mágica/Trampa \"Mimighoul\" en tu Deck. Sólo puedes usar cada efecto de \"Dragón Mimighoul\" una vez por turno.",
+  "level": 1,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Dragón",
+    "Volteo",
+    "Efecto"
+  ]
+}

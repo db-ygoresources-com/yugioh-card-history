@@ -1,0 +1,17 @@
+{
+  "id": 20220,
+  "type": "monster",
+  "name": "DPH Gendamoore",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nSi esta carta es Invocada por Sincronía: puedes Invocar de Modo Especial, desde tu Cementerio, 1 monstruo Ciberso de Nivel 4 en Posición de Defensa, pero niega sus efectos, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Ciberso. Cuando tu monstruo Ciberso batalla con un monstruo del adversario y le inflige daño de batalla: puedes desterrar esta carta en tu Cementerio; inflige esa cantidad de daño a tu adversario. Sólo puedes usar cada efecto de \"DPH Gendamoore\" una vez por turno.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Ciberso",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

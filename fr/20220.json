@@ -1,0 +1,17 @@
+{
+  "id": 20220,
+  "type": "monster",
+  "name": "Gendamoore DPC",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez Invoquer Spécialement 1 monstre Cyberse de Niveau 4 depuis votre Cimetière en Position de Défense, mais annulez ses effets, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Cyberse exclus) le reste de ce tour. Lorsque votre monstre Cyberse combat un monstre de l'adversaire et lui inflige des dommages de combat : vous pouvez bannir cette carte depuis votre Cimetière ; infligez autant de dommages à votre adversaire. Vous ne pouvez utiliser chaque effet de \"Gendamoore DPC\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Cyberse",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

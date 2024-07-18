@@ -1,0 +1,19 @@
+{
+  "id": 20228,
+  "type": "monster",
+  "name": "Varar, Concordia Vaalmonicana",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "2 mostri, compreso un Mostro Link \"Vaalmonica\"\nImmune agli effetti delle carte, eccetto carte \"Vaalmonica\", mentre hai 6 o più Segnalini Risonanza sul tuo Terreno. Guadagna 1 attacco addizionale durante ogni Battle Phase, per ogni mostro \"Vaalmonica\" di Livello 4 che controlli. Una volta per turno, quando il tuo avversario sta per Evocare Specialmente uno o più mostri, se hai 3+ Segnalini Risonanza sul tuo Terreno (Effetto Rapido): puoi annullare l'Evocazione Speciale e, se lo fai, distruggi quei mostri, poi rimuovi 3 Segnalini Risonanza dal tuo Terreno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Incantatore",
+    "Link",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20205,
+  "type": "monster",
+  "name": "Annulexplosion la Forteresse de Négation",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "S'il y a une colonne sans aucune carte, vous pouvez Invoquer Spécialement cette carte (depuis votre main) dans votre zone de cette colonne. Vous ne pouvez Invoquer Spécialement \"Annulexplosion la Forteresse de Négation\" qu'une fois par tour de cette façon. Annulez les effets de carte activés dans la colonne de cette carte. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Annulez les effets de carte activés dans la colonne de cette carte.",
+  "pendScale": 5,
+  "level": 5,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

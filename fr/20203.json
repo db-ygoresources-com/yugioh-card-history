@@ -1,0 +1,15 @@
+{
+  "id": 20203,
+  "type": "monster",
+  "name": "Cosmoreine la Reine des Prières",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si une Carte Magie de Terrain est activée : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense. Vous pouvez cibler 1 carte face recto dans la Zone Terrain, puis activez l'effet approprié, selon quel joueur contrôle la carte ;\n●Vous : Détruisez-la, et si vous le faites, ajoutez 1 Magie de Terrain depuis votre Deck à votre main de nom différent.\n●Votre adversaire : Annulez ses effets (jusqu'à la fin de ce tour), et si vous le faites, ajoutez 1 Magie de Terrain depuis votre Deck à votre main.\nVous ne pouvez utiliser chaque effet de \"Cosmoreine la Reine des Prières\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2450,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20205,
+  "type": "monster",
+  "name": "Inactidisparador la Fortaleza de la Negación",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si hay una columna sin cartas, puedes Invocar esta carta de Modo Especial (desde tu mano) a tu zona en esa columna. Sólo puedes Invocar de Modo Especial \"Inactidisparador la Fortaleza de la Negación\" una vez por turno de esta forma. Niega cualquier efecto de carta activado en la columna de esta carta. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Niega cualquier efecto de carta activado en la columna de esta carta.",
+  "pendScale": 5,
+  "level": 5,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

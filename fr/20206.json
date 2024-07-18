@@ -1,0 +1,15 @@
+{
+  "id": 20206,
+  "type": "monster",
+  "name": "Mulcharmy Purulia",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si vous ne contrôlez aucune carte (Effet Rapide) : vous pouvez défausser cette carte ; appliquez ces effets ce tour.\n●Chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres depuis la main, piochez immédiatement 1 carte.\n●Une fois, durant cette End Phase, si le nombre de cartes dans votre main est supérieur au nombre de cartes contrôlées par votre adversaire +6, vous devez mélanger au hasard un nombre de cartes depuis votre main dans le Deck afin que le nombre dans votre main soit égal au nombre contrôlé par votre adversaire +6.\nLe tour où vous activez cet effet, vous ne pouvez activer qu'1 autre effet de monstre \"Mulcharmy\".",
+  "level": 4,
+  "atk": 100,
+  "def": 600,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

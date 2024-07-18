@@ -1,0 +1,16 @@
+{
+  "id": 20431,
+  "type": "monster",
+  "name": "Archdémon Mimigoule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Si c'est la Main Phase : appliquez ces effets dans l'ordre.\n●Votre adversaire pioche 1 carte.\n●Envoyez 1 carte depuis votre main au Cimetière.\n●Donnez le contrôle de cette carte à votre adversaire.\nDurant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main sur le Terrain de votre adversaire en Position de Défense face verso. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez changer 1 monstre face verso sur le Terrain en Position d'Attaque ou Défense face recto. Vous ne pouvez utiliser chaque effet de \"Archdémon Mimigoule\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 0,
+  "def": 1900,
+  "properties": [
+    "Démon",
+    "Flip",
+    "Effet"
+  ]
+}

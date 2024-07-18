@@ -1,0 +1,16 @@
+{
+  "id": 20430,
+  "type": "monster",
+  "name": "Cerbero Mimighoul",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Si es la Main Phase: aplica estos efectos en secuencia.\n●Destierra las 3 cartas de la parte superior de tu Deck, y después Invoca de Modo Especial 1 de tus monstruos desterrados al Campo de tu adversario en Posición de Defensa.\n●Da el control de esta carta a tu adversario.\nDurante tu Main Phase: puedes Invocar esta carta de Modo Especial desde tu mano al Campo de tu adversario en Posición de Defensa boca abajo. Sólo puedes usar cada efecto de \"Cerbero Mimighoul\" una vez por turno. Tu adversario no puede seleccionar Mágicas boca arriba que controlas con efectos de cartas.",
+  "level": 1,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Bestia",
+    "Volteo",
+    "Efecto"
+  ]
+}

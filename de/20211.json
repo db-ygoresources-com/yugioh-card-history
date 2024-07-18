@@ -1,0 +1,16 @@
+{
+  "id": 20211,
+  "type": "monster",
+  "name": "Drytron-Meteonis DA Draconiden",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Meteonis-Drytron“ als Ritualbeschwörung beschwören. Andere „Drytron“-Monster, die du kontrollierst, können nicht durch Karteneffekte deines Gegners zerstört werden. Zweimal pro Spielzug, wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst „Drytron“-Monster (min. 1), deren Gesamt-ATK größer oder gleich den Grund-ATK jenes Monsters sind, von deinem Friedhof verbannen; annulliere die Aktivierung und falls du dies tust, zerstöre es. Falls diese als Ritualbeschwörung beschworene Karte, die ihr Besitzer kontrolliert, durch eine Karte eines Gegners zerstört wird: Du kannst 1 Ritualmonster mit 4000 ATK als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. (Dies wird als Ritualbeschwörung behandelt.)",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Maschine",
+    "Ritual",
+    "Effekt"
+  ]
+}

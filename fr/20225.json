@@ -1,0 +1,18 @@
+{
+  "id": 20225,
+  "type": "monster",
+  "name": "Requiem du Démonforgeron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre LUMIÈRE Démon\nVous ne pouvez Invoquer Spécialement un ou plusieurs \"Requiem du Démonforgeron\" qu'une fois par tour. Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 monstre \"Démonforgeron\" depuis votre main ou Deck. Vous pouvez cibler 1 monstre non-Lien LUMIÈRE Démon que vous contrôlez ; équipez cette carte depuis votre Terrain ou Cimetière au monstre que vous contrôlez comme Magie d'Équipement qui lui donne 600 ATK. Vous ne pouvez utiliser cet effet de \"Requiem du Démonforgeron\" qu'une fois par tour.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 600,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20201,
+  "type": "monster",
+  "name": "Drytron Nu II",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Falls sich eine „Drytron“-Karte auf dem Spielfeld befindet: Du kannst diese Karte als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Drytron“-Monster von deinem Deck hinzufügen, außer „Drytron Nu II“. Du kannst jeden Effekt von „Drytron Nu II“ nur einmal pro Spielzug verwenden, zusätzlich kannst du in dem Spielzug, in dem du einen der Effekte dieser Karte aktivierst, keine Ritualbeschwörungen durchführen, außer von Maschine-Monstern.",
+  "level": 1,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

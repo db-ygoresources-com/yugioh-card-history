@@ -1,0 +1,16 @@
+{
+  "id": 20209,
+  "type": "monster",
+  "name": "Bettan-Fledermaus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Bis zu dreimal pro Spielzug, falls dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 von ihnen wählen; wirf eine Münze und falls das Ergebnis Kopf ist, ändere es in die offene Angriffsposition, oder falls das Ergebnis Zahl ist, ändere es in die verdeckte Verteidigungsposition. Einmal pro Spielzug, falls ein oder mehr andere Monster auf dem Spielfeld aufgedeckt werden oder ein oder mehr offene Monster in die verdeckte Verteidigungsposition geändert werden, selbst während des Damage Steps: Du kannst 1 von ihnen wählen; ändere es in die offene Angriffsposition oder die verdeckte Verteidigungsposition.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Geflügeltes Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

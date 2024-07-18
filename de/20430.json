@@ -1,0 +1,16 @@
+{
+  "id": 20430,
+  "type": "monster",
+  "name": "Mimighul Zerberus",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Falls es die Main Phase ist: Führe nacheinander diese Effekte aus.\n●Verbanne die obersten 3 Karten deines Decks, dann beschwöre 1 deiner verbannten Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners in die Verteidigungsposition.\n●Übergib die Kontrolle über diese Karte an deinen Gegner.\nWährend deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners in die verdeckte Verteidigungsposition beschwören. Du kannst jeden Effekt von „Mimighul Zerberus“ nur einmal pro Spielzug verwenden. Dein Gegner kann offene Zauber, die du kontrollierst, nicht als Ziel für Karteneffekte wählen.",
+  "level": 1,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20422,
+  "type": "monster",
+  "name": "Démon de la Profondeur",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez défausser 1 carte, puis déclarez 1 Attribut, sauf EAU ; Invoquez Spécialement cette carte depuis votre main sur l'un des Terrains, puis cette carte devient de cet Attribut (jusqu'à la fin de ce tour), puis si vous avez Invoqué Spécialement cette carte sur le Terrain de votre adversaire, vous pouvez Invoquer Spécialement 1 monstre Démon de max. Niveau 4 d'Attribut d'origine autre que celui déclaré depuis votre main ou Cimetière sur votre Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Démon exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Démon de la Profondeur\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

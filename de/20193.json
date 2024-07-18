@@ -1,0 +1,15 @@
+{
+  "id": 20193,
+  "type": "monster",
+  "name": "Elzette vom Weißen Wald",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst 1 Zauber/Falle von deiner Hand oder Spielfeldseite auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann füge deiner Hand 1 „Weißen Wald“-Monster von deinem Deck hinzu, außer „Elzette vom Weißen Wald“. Während des Spielzugs deines Gegners, falls ein LICHT Hexer-Empfänger als Spezialbeschwörung auf deine Spielfeldseite beschworen wird, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte deiner Hand hinzufügen. Du kannst jeden Effekt von „Elzette vom Weißen Wald“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20205,
+  "type": "monster",
+  "name": "Deakblaster die Annullierungsfestung",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls es eine Spalte ohne Karten gibt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in deine Zone in jene Spalte beschwören. Du kannst „Deakblaster die Annullierungsfestung“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Annulliere die Karteneffekte, die in der Spalte dieser Karte aktiviert werden. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Annulliere die Karteneffekte, die in der Spalte dieser Karte aktiviert werden.",
+  "pendScale": 5,
+  "level": 5,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

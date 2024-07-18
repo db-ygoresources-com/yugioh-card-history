@@ -1,0 +1,16 @@
+{
+  "id": 20211,
+  "type": "monster",
+  "name": "Drytron Météonis DA Draconids",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Météonis Drytron\". Les autres monstres \"Drytron\" que vous contrôlez ne peuvent pas être détruits par des effets de carte de votre adversaire. Deux fois par tour, lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez bannir des monstres \"Drytron\" (min. 1) depuis votre Cimetière dont la somme des ATK est supérieure ou égale à l'ATK d'origine du monstre ; annulez l'activation, et si vous le faites, détruisez-le. Si cette carte Invoquée Rituellement contrôlée par son propriétaire est détruite par une carte de l'adversaire : vous pouvez Invoquer Spécialement 1 Monstre Rituel avec 4000 ATK depuis votre main ou Deck. (Ceci est traité comme Invocation Rituelle.)",
+  "level": 12,
+  "atk": 5000,
+  "def": 5000,
+  "properties": [
+    "Machine",
+    "Rituel",
+    "Effet"
+  ]
+}

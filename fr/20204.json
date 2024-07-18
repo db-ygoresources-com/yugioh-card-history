@@ -1,0 +1,15 @@
+{
+  "id": 20204,
+  "type": "monster",
+  "name": "Champignon Paralysant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un ou plusieurs monstres qui étaient Tonnerre à l'origine sont envoyés depuis votre main ou Terrain au Cimetière, même durant la Damage Step : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si un effet de monstre Tonnerre est activé dans la main, tant que cette carte est dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 \"Jeton Paralysant\" (Tonnerre/TÉNÈBRES/Niveau 1/ATK 0/DEF 0). Vous ne pouvez utiliser chaque effet de \"Champignon Paralysant\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1400,
+  "def": 0,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

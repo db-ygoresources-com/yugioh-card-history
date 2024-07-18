@@ -1,0 +1,16 @@
+{
+  "id": 20429,
+  "type": "monster",
+  "name": "Dragon Mimigoule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Si c'est la Main Phase : appliquez ces effets dans l'ordre.\n●Détruisez tous les monstres face recto que vous contrôlez (monstres \"Mimigoule\" exclus).\n●Donnez le contrôle de cette carte à votre adversaire.\nDurant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main sur le Terrain de votre adversaire en Position de Défense face verso. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Mimigoule\" depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Dragon Mimigoule\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Flip",
+    "Effet"
+  ]
+}

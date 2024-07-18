@@ -1,0 +1,19 @@
+{
+  "id": 20231,
+  "type": "monster",
+  "name": "Silhouhute-Hase",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Effektmonster\nFalls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Du kannst jeden der folgenden Effekte von „Silhouhute-Hase“ nur einmal pro Spielzug verwenden. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Permanente Falle mit einem Effekt, der sie selbst als Spezialbeschwörung als Monster beschwören kann, von deinem Deck setzen, zusätzlich kann diese Karte in diesem Spielzug nicht als Linkmaterial verwendet werden. Falls eine Karte in der Zauber- & Fallenzone als Spezialbeschwörung in die Monsterzone beschworen wird (außer während des Damage Steps): Du kannst 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; zerstöre ihn oder sie.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Illusion",
+    "Link",
+    "Effekt"
+  ]
+}

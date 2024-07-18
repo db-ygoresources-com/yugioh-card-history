@@ -1,0 +1,15 @@
+{
+  "id": 20183,
+  "type": "monster",
+  "name": "Vierge de la Lune Millénaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Vous ne pouvez utiliser chacun des effets suivants de \"Vierge de la Lune Millénaire\" qu'une fois par tour. Si cette carte est dans votre main : vous pouvez la placer dans votre Zone Magie & Piège comme Magie Continue face recto. Si votre adversaire active une carte ou un effet, tant que cette carte est une Magie Continue (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, le reste de ce tour, votre adversaire ne peut pas cibler de monstres Illusion ou Magicien de min. Niveau 5 que vous contrôlez avec des effets de carte.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "Illusion",
+    "Effet"
+  ]
+}

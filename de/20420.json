@@ -1,0 +1,18 @@
+{
+  "id": 20420,
+  "type": "monster",
+  "name": "Vulmina, Statue des heiligen Drachen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst dieses Monster in deine Pendelzone legen und falls du dies tust, gib das Monster des Gegners auf die Hand zurück. Du kannst diesen Effekt von „Vulmina, Statue des heiligen Drachen“ nur einmal pro Spielzug verwenden. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Falls ein oder mehr Monster durch deinen Falleneffekt als Spezialbeschwörung beschworen werden (außer während des Damage Steps): Du kannst 1 Karte auf dem Spielfeld wählen; gib sie auf die Hand zurück, dann kannst du diese Karte als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Vulmina, Statue des heiligen Drachen“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

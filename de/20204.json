@@ -1,0 +1,15 @@
+{
+  "id": 20204,
+  "type": "monster",
+  "name": "Betäubender Pilz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein oder mehr Monster, die ursprünglich Donner waren, von deiner Hand oder Spielfeldseite auf den Friedhof gelegt werden, selbst während des Damage Steps: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls der Effekt eines Donner-Monsters in der Hand aktiviert wird, solange sich diese Karte in der Monsterzone befindet (außer während des Damage Steps): Du kannst 1 „Betäubungs-Spielmarke“ (Donner/FINSTERNIS/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Betäubender Pilz“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1400,
+  "def": 0,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

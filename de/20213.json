@@ -1,0 +1,16 @@
+{
+  "id": 20213,
+  "type": "monster",
+  "name": "Drachenherrscher des Lichts und der Finsternis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 LICHT Drache-Monster der Stufe 8 + 1 FINSTERNIS Drache-Monster der Stufe 8\nMuss als Fusionsbeschwörung beschworen werden. Solange diese Karte offen auf dem Spielfeld liegt, hat sie zusätzlich die Eigenschaft FINSTERNIS. Einmal pro Kette, falls eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird (Schnelleffekt): Diese Karte verliert genau 1000 ATK/DEF und falls sie dies tut, annulliere die Aktivierung. Falls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Du kannst 1 Drache-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "level": 10,
+  "atk": 3400,
+  "def": 3000,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

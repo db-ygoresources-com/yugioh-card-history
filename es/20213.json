@@ -1,0 +1,16 @@
+{
+  "id": 20213,
+  "type": "monster",
+  "name": "Señordragón de la Luz y la Oscuridad",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo Dragón de LUZ de Nivel 8 + 1 monstruo Dragón de OSCURIDAD de Nivel 8\nDebe ser Invocado por Fusión. Mientras esta carta está boca arriba en el Campo, su Atributo se trata también como OSCURIDAD. Una vez por Cadena, si es activada una Carta Mágica/de Trampa o efecto de monstruo (Efecto Rápido): esta carta pierde exactamente 1000 ATK/DEF y, si lo hace, niega la activación. Si esta carta en posesión de su dueño es destruida por una carta del adversario: puedes seleccionar 1 monstruo Dragón en tu Cementerio; Invócalo de Modo Especial.",
+  "level": 10,
+  "atk": 3400,
+  "def": 3000,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

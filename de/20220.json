@@ -1,0 +1,17 @@
+{
+  "id": 20220,
+  "type": "monster",
+  "name": "DPS-Gendamoore",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Cyberse-Monster der Stufe 4 als Spezialbeschwörung von deinem Friedhof in die Verteidigungsposition beschwören, aber annulliere seine Effekte, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von Cyberse-Monstern. Wenn dein Cyberse-Monster gegen ein Monster eines Gegners kämpft und jenem Gegner Kampfschaden zufügt: Du kannst diese Karte von deinem Friedhof verbannen; füge deinem Gegner so viel Schaden zu. Du kannst jeden Effekt von „DPS-Gendamoore“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2800,
+  "properties": [
+    "Cyberse",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

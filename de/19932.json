@@ -1,0 +1,19 @@
+{
+  "id": 19932,
+  "type": "monster",
+  "name": "Mond des geschlossenen Himmels",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Effektmonster\nDu kannst 1 offenes Monster wählen, das dein Gegner kontrolliert und auf das diese Karte zeigt; falls du in diesem Spielzug ein Monster mit Link-5 als Linkbeschwörung beschwörst und dafür diese Karte verwendest, die du kontrollierst, kannst du auch jenes Monster, das dein Gegner kontrolliert, als Material dafür verwenden. Du kannst diesen Effekt von „Mond des geschlossenen Himmels“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "8",
+    "9"
+  ],
+  "atk": 1200,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

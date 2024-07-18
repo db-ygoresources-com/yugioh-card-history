@@ -1,0 +1,15 @@
+{
+  "id": 20201,
+  "type": "monster",
+  "name": "Drytron Nu II",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par un effet de carte. Si une carte \"Drytron\" est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main ou Cimetière, mais bannissez-la lorsqu'elle quitte le Terrain. Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 monstre \"Drytron\" (\"Drytron Nu II\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Drytron Nu II\" qu'une fois par tour, et aussi, vous ne pouvez pas Invoquer Rituellement (monstres Machine exclus) le tour où vous activez un effet de cette carte.",
+  "level": 1,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

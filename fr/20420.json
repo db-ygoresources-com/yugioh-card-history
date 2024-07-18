@@ -1,0 +1,18 @@
+{
+  "id": 20420,
+  "type": "monster",
+  "name": "Vulmina, Statue du Dragon Sacré",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez placer ce monstre dans votre Zone Pendule, et si vous le faites, renvoyez le monstre de l'adversaire à la main. Vous ne pouvez utiliser cet effet de \"Vulmina, Statue du Dragon Sacré\" qu'une fois par tour. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Si un ou plusieurs monstres sont Invoqués Spécialement par votre effet de Piège (sauf durant la Damage Step) : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main, puis vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Vulmina, Statue du Dragon Sacré\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

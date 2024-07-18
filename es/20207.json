@@ -1,0 +1,15 @@
+{
+  "id": 20207,
+  "type": "monster",
+  "name": "Dora Dora",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta es Invocada de Modo Normal: puedes añadir a tu mano 1 monstruo Dragón de FUEGO de Nivel 4 o menor en tu Deck. Sólo puedes usar este efecto de \"Dora Dora\" una vez por turno. Una vez por turno, durante tu Main Phase: puedes excavar la carta de la parte superior de tu Deck y, si es un monstruo Dragón de FUEGO, mándalo al Cementerio y, si lo haces, esta carta gana 1000 ATK por cada \"Dora Dora\" que controles. De otro modo, pon la carta excavada en la parte inferior de tu Deck.",
+  "level": 3,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20420,
+  "type": "monster",
+  "name": "Vulmina, Statua del Drago Sacro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Quando un mostro dell'avversario dichiara un attacco: puoi mettere questo mostro nella tua Zona Pendulum e, se lo fai, fai ritornare il mostro dell'avversario nella mano. Puoi utilizzare questo effetto di \"Vulmina, Statua del Drago Sacro\" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Se uno o più mostri vengono Evocati Specialmente dall'effetto di una tua Trappola (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 carta sul Terreno; falla ritornare nella mano, poi puoi Evocare Specialmente questa carta. Puoi utilizzare questo effetto di \"Vulmina, Statua del Drago Sacro\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

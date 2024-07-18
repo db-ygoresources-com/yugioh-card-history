@@ -1,0 +1,16 @@
+{
+  "id": 9255,
+  "type": "monster",
+  "name": "Bête de Bombardement Embrasé",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 monstre Machine + 1 monstre Pyro\nSi cette carte est Invoquée Spécialement : vous pouvez détruire tous les monstres contrôlés par votre adversaire avec max. 1900 ATK. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec max. 1900 ATK ; détruisez le monstre, et si vous le faites, infligez des dommages à votre adversaire égaux à son ATK d'origine. Vous ne pouvez utiliser chaque effet de \"Bête de Bombardement Embrasé\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 1900,
+  "def": 2400,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

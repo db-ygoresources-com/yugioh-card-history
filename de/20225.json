@@ -1,0 +1,18 @@
+{
+  "id": 20225,
+  "type": "monster",
+  "name": "Requiem des Unterweltlerschmieds",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 LICHT Unterweltler-Monster\nDu kannst nur einmal pro Spielzug ein oder mehr „Requiem des Unterweltlerschmieds“ als Spezialbeschwörung beschwören. Während der Main Phase (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; beschwöre 1 „Unterweltlerschmied“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck. Du kannst 1 LICHT Unterweltler-Nichtlink-Monster wählen, das du kontrollierst; rüste jenes Monster, das du kontrollierst, mit dieser Karte von deiner Spielfeldseite oder deinem Friedhof als Ausrüstungszauber aus, der ihm 600 ATK gibt. Du kannst diesen Effekt von „Requiem des Unterweltlerschmieds“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 1,
+  "linkArrows": [
+    "2"
+  ],
+  "atk": 600,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

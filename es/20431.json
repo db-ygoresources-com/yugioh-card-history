@@ -1,0 +1,16 @@
+{
+  "id": 20431,
+  "type": "monster",
+  "name": "Archidemonio Mimighoul",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Si es la Main Phase: aplica estos efectos en secuencia.\n●Tu adversario roba 1 carta.\n●Manda al Cementerio 1 carta en tu mano.\n●Da el control de esta carta a tu adversario.\nDurante tu Main Phase: puedes Invocar esta carta de Modo Especial desde tu mano al Campo de tu adversario en Posición de Defensa boca abajo. Si esta carta es Invocada de Modo Normal o Especial: puedes cambiar 1 monstruo boca abajo en el Campo a Posición de Ataque o Defensa boca arriba. Sólo puedes usar cada efecto de \"Archidemonio Mimighoul\" una vez por turno.",
+  "level": 1,
+  "atk": 0,
+  "def": 1900,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}

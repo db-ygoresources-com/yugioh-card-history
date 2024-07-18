@@ -1,0 +1,16 @@
+{
+  "id": 20427,
+  "type": "monster",
+  "name": "Mangeur Aérien",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2 monstres Démon du même Attribut\nSi cette carte est Invoquée par Fusion : vous pouvez envoyer 1 monstre Démon depuis votre Deck au Cimetière. Si cette carte est dans votre Cimetière : vous pouvez bannir 2 monstres Démon de min. Niveau 6 qui ont chacun le même Attribut (\"Mangeur Aérien\" exclu) depuis votre Cimetière ; Invoquez Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Mangeur Aérien\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2100,
+  "def": 2600,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20215,
+  "type": "monster",
+  "name": "Desirae des Unterweltlerschmieds",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Unterweltlerschmied Graveur“ + 2 LICHT Unterweltler-Monster\n(Schnelleffekt): Du kannst die Effekte von einer Anzahl offener Karten auf dem Spielfeld bis zur Summe der Linkzahlen der Linkmonster, mit denen diese Karte ausgerüstet ist, bis zum Ende dieses Spielzugs annullieren. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 anderes LICHT Unterweltler-Monster von deinem Friedhof ins Deck / Extra Deck mischen und dann 1 Karte auf dem Spielfeld wählen; lege sie auf den Friedhof. Du kannst jeden Effekt von „Desirae des Unterweltlerschmieds“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 2800,
+  "def": 2400,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Effekt"
+  ]
+}

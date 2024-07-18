@@ -1,0 +1,19 @@
+{
+  "id": 20228,
+  "type": "monster",
+  "name": "Varar, a Concórdia Vaalmônica",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "2 monstros, incluindo um Monstro Link \"Vaalmônica\"\nNão é afetado por efeitos de card, exceto cards \"Vaalmônica\", enquanto você tiver 6 ou mais Marcadores de Ressonância no seu campo. Ganha 1 ataque adicional durante cada Fase de Batalha, para cada monstro \"Vaalmônica\" de Nível 4 que você controla. Uma vez por turno, quando seu oponente Invocaria um ou mais monstros por Invocação-Especial, se você tiver 3+ Marcadores de Ressonância no seu campo (Efeito Rápido): você pode negar a Invocação-Especial e, se isso acontecer, destrua esse(s) monstro(s) e, depois, remova 3 Marcadores de Ressonância do seu campo.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Mago",
+    "Link",
+    "Efeito"
+  ]
+}

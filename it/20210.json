@@ -1,0 +1,15 @@
+{
+  "id": 20210,
+  "type": "monster",
+  "name": "Depresspardo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa è l'unica carta nella tua mano: puoi Evocare Specialmente questa carta. Se lo fai: l'ATK di questa carta diventa 2500 fino alla fine del turno del tuo avversario. Se questa carta combatte con un mostro dell'avversario, tu subisci qualsiasi danno da combattimento che avrebbe subito il tuo avversario da quella battaglia. Se subisci danno da battaglie che coinvolgono questa carta: l'ATK di questa carta diventa 0, poi se i tuoi LP sono 2000 o inferiori, l'ATK di questa carta diventa 5000.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

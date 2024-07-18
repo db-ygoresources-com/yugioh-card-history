@@ -1,0 +1,16 @@
+{
+  "id": 9255,
+  "type": "monster",
+  "name": "Bestia de Bombardeo Llameante",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 monstruo Máquina + 1 monstruo Piro\nSi esta carta es Invocada de Modo Especial: puedes destruir todos los monstruos que controle tu adversario con 1900 ATK o menos. Si esta carta es mandada al Cementerio: puedes seleccionar 1 monstruo que controle tu adversario con 1900 ATK o menos; destruye ese monstruo y, si lo haces, inflige daño a tu adversario igual a su ATK original. Sólo puedes usar cada efecto de \"Bestia de Bombardeo Llameante\" una vez por turno.",
+  "level": 6,
+  "atk": 1900,
+  "def": 2400,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Efecto"
+  ]
+}

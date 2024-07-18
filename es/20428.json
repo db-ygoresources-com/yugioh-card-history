@@ -1,0 +1,15 @@
+{
+  "id": 20428,
+  "type": "monster",
+  "name": "Máster Mimighoul",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser destruido en batalla o por efectos de cartas mientras tu adversario controle cualquier monstruo boca abajo o tú controles un monstruo \"Mimighoul\" que no sea \"Máster Mimighoul\". Sólo puedes usar cada uno de los siguientes efectos de \"Máster Mimighoul\" una vez por turno. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Mimighoul\" en tu Deck, excepto \"Máster Mimighoul\". Durante la Main Phase de tu adversario (Efecto Rápido): puedes cambiar 1 monstruo boca abajo en el Campo a Posición de Ataque o Defensa boca arriba.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

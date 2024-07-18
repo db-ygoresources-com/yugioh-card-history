@@ -1,0 +1,15 @@
+{
+  "id": 20210,
+  "type": "monster",
+  "name": "Depresspard",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls dies die einzige Karte in deiner Hand ist: Du kannst diese Karte als Spezialbeschwörung beschwören. Falls du dies tust: Die ATK dieser Karte werden bis zum Ende des Spielzugs deines Gegners zu 2500. Falls diese Karte gegen ein Monster eines Gegners kämpft, erhältst du den Kampfschaden, den dein Gegner aus jenem Kampf erhalten hätte. Falls du Schaden aus Kämpfen erhältst, an denen diese Karte beteiligt ist: Die ATK dieser Karte werden zu 0, dann, falls du 2000 oder weniger LP hast, werden die ATK dieser Karte zu 5000.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Effekt"
+  ]
+}

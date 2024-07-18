@@ -1,0 +1,15 @@
+{
+  "id": 20210,
+  "type": "monster",
+  "name": "Leopresivo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este for o único card na sua mão: você pode Invocar este card por Invocação-Especial. Se isso acontecer: o ATK deste card se torna 2500 até o final do turno do seu oponente. Se este card batalhar um monstro do oponente, você sofre qualquer dano de batalha que seu oponente teria sofrido dessa batalha. Se você sofrer dano de batalhas envolvendo este card: o ATK deste card se torna 0 e, depois, se seus PV forem 2000 ou menos, o ATK deste card se torna 5000.",
+  "level": 2,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Besta",
+    "Efeito"
+  ]
+}

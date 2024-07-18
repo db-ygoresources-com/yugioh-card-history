@@ -1,0 +1,15 @@
+{
+  "id": 20207,
+  "type": "monster",
+  "name": "Dora Dora",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est Invoquée Normalement : vous pouvez ajouter 1 monstre FEU Dragon de max. Niveau 4 depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Dora Dora\" qu'une fois par tour. Une fois par tour, durant votre Main Phase : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre FEU Dragon, envoyez-la au Cimetière, et si vous le faites, cette carte gagne 1000 ATK pour chaque \"Dora Dora\" que vous contrôlez. Sinon, placez la carte dévoilée au-dessous de votre Deck.",
+  "level": 3,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20420,
+  "type": "monster",
+  "name": "Vulmina, a Estátua do Dragão Sagrado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Quando um monstro do oponente declarar um ataque: você pode colocar este monstro na sua Zona de Pêndulo e, se isso acontecer, devolva o monstro do oponente para a mão. Você só pode usar este efeito de \"Vulmina, a Estátua do Dragão Sagrado\" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Se um ou mais monstros forem Invocados por Invocação-Especial por um efeito de Armadilha seu (exceto durante a Etapa de Dano): você pode escolher 1 card no campo; devolva-o para a mão e, depois, você pode Invocar este card por Invocação-Especial. Você só pode usar este efeito de \"Vulmina, a Estátua do Dragão Sagrado\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20422,
+  "type": "monster",
+  "name": "Tiefstsee-Unterweltler",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 Karte abwerfen und dann 1 Eigenschaft deklarieren, außer WASSER; beschwöre diese Karte als Spezialbeschwörung von deiner Hand auf eine beliebige Spielfeldseite, dann wird diese Karte (bis zum Ende dieses Spielzugs) zu jener Eigenschaft, dann, falls du diese Karte als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen hast, kannst du 1 Unterweltler-Monster der Stufe 4 oder niedriger mit einer anderen Grund-Eigenschaft als der deklarierten als Spezialbeschwörung von deiner Hand oder deinem Friedhof auf deine Spielfeldseite beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Unterweltler-Monstern. Du kannst diesen Effekt von „Tiefstsee-Unterweltler“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

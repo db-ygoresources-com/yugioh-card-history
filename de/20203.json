@@ -1,0 +1,15 @@
+{
+  "id": 20203,
+  "type": "monster",
+  "name": "Cosmo-Königin, die Königin der Gebete",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls eine Spielfeldzauberkarte aktiviert wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Du kannst 1 offene Karte in der Spielfeldzone wählen und dann den entsprechenden Effekt aktivieren, basierend darauf, welcher Spieler jene Karte kontrolliert;\n●Du: Zerstöre sie und falls du dies tust, füge deiner Hand 1 Spielfeldzauber mit einem unterschiedlichen Namen von deinem Deck hinzu.\n●Dein Gegner: Annulliere (bis zum Ende dieses Spielzugs) ihre Effekte und falls du dies tust, füge deiner Hand 1 Spielfeldzauber von deinem Deck hinzu.\nDu kannst jeden Effekt von „Cosmo-Königin, die Königin der Gebete“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2450,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

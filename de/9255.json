@@ -1,0 +1,16 @@
+{
+  "id": 9255,
+  "type": "monster",
+  "name": "Flammendes Bombardierungeheuer",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Maschine-Monster + 1 Pyro-Monster\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst alle Monster mit 1900 oder weniger ATK zerstören, die dein Gegner kontrolliert. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 Monster mit 1900 oder weniger ATK wählen, das dein Gegner kontrolliert; zerstöre jenes Monster und falls du dies tust, füge deinem Gegner Schaden in Höhe seiner Grund-ATK zu. Du kannst jeden Effekt von „Flammendes Bombardierungeheuer“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 1900,
+  "def": 2400,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Effekt"
+  ]
+}

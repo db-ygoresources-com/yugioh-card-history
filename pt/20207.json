@@ -1,0 +1,15 @@
+{
+  "id": 20207,
+  "type": "monster",
+  "name": "Dora Dora",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Se este card for Invocado por Invocação-Normal: você pode adicionar 1 monstro Dragão de FOGO de Nível 4 ou menos do seu Deck à sua mão. Você só pode usar este efeito de \"Dora Dora\" uma vez por turno. Uma vez por turno, durante sua Fase Principal: você pode escavar o card do topo do seu Deck e, se for um monstro Dragão de FOGO, envie-o para o Cemitério e, se isso acontecer, este card ganha 1000 de ATK para cada \"Dora Dora\" que você controla. Caso contrário, coloque o card escavado no fundo do seu Deck.",
+  "level": 3,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}
