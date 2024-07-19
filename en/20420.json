@@ -1,0 +1,18 @@
+{
+  "id": 20420,
+  "type": "monster",
+  "name": "Vulmina, Statue of the Sacred Dragon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When an opponent's monster declares an attack: You can place this monster in your Pendulum Zone, and if you do, return the opponent's monster to the hand. You can only use this effect of \"Vulmina, Statue of the Sacred Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "If a monster(s) is Special Summoned by your Trap effect (except during the Damage Step): You can target 1 card on the field; return it to the hand, then you can Special Summon this card. You can only use this effect of \"Vulmina, Statue of the Sacred Dragon\" once per turn.",
+  "pendScale": 1,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}

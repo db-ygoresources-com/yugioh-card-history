@@ -1,0 +1,18 @@
+{
+  "id": 20205,
+  "type": "monster",
+  "name": "Disablaster the Negation Fortress",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If there is a column with no cards, you can Special Summon this card (from your hand) to your zone in that column. You can only Special Summon \"Disablaster the Negation Fortress\" once per turn this way. Negate any card effects activated in this card's column. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "Negate any card effects activated in this card's column.",
+  "pendScale": 5,
+  "level": 5,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}
