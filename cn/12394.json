@@ -1,0 +1,18 @@
+{
+  "id": 12394,
+  "type": "monster",
+  "name": "鬼牛肉",
+  "englishAttribute": "dark",
+  "localizedAttribute": "暗属性",
+  "effectText": "钟情美食的牛幽灵。尤其对最爱吃的烤牛肉毫无抵抗力，今天也在为邂逅新口味而心驰神往，彷徨于现世。",
+  "pendEffect": "①：１回合１次，在自己的主要阶段可以发动。掷１次骰子。直至回合结束时为止，此卡的灵摆刻度上升所掷出的数字（最多上升至１０）。",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "兽族",
+    "灵摆",
+    "通常"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11503,
+  "type": "monster",
+  "name": "枪头喙嘴龙",
+  "englishAttribute": "wind",
+  "localizedAttribute": "风属性",
+  "effectText": "在太古时期的大灭绝中幸存下来的梦幻翼龙。其外形已进化得更具攻击性，兽喙则变成了可贯穿一切的长矛……即便如此，其主食仍然是鱼。",
+  "pendEffect": "①：自己的通常怪兽攻击了守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。",
+  "pendScale": 7,
+  "level": 6,
+  "atk": 2500,
+  "def": 800,
+  "properties": [
+    "恐龙族",
+    "灵摆",
+    "通常"
+  ]
+}
