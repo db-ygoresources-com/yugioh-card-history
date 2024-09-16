@@ -1,0 +1,15 @@
+{
+  "id": 20435,
+  "type": "monster",
+  "name": "Theia, das Urwesen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Während der Main Phase (Schnelleffekt): Du kannst Monster als Tribut anbieten, deren gemeinsame Stufe 11 oder mehr entspricht; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann, falls du keine anderen Monster kontrollierst, kannst du 1 Monster mit den höchsten ATK auf dem Spielfeld zerstören (bei Gleichstand bestimmst du). Du kannst diesen Effekt von „Theia, das Urwesen“ nur einmal pro Spielzug verwenden. Kein Spieler kann mehr als 4-mal pro Spielzug Normal- und/oder Spezialbeschwörungen durchführen, solange diese Karte offen in der Monsterzone liegt.",
+  "level": 11,
+  "atk": 3000,
+  "def": 600,
+  "properties": [
+    "Fels",
+    "Effekt"
+  ]
+}

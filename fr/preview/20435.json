@@ -1,0 +1,15 @@
+{
+  "id": 20435,
+  "type": "monster",
+  "name": "Théia, l'Être Primitif",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier des monstres dont le Niveau total est égal à min. 11 ; Invoquez Spécialement cette carte depuis votre main, puis si vous ne contrôlez aucun autre monstre, vous pouvez détruire 1 monstre sur le Terrain avec la plus haute ATK (en cas d'égalité, vous choisissez). Vous ne pouvez utiliser cet effet de \"Théia, l'Être Primitif\" qu'une fois par tour. Aucun joueur ne peut Invoquer Normalement et/ou Spécialement plus de 4 fois par tour tant que cette carte est face recto dans la Zone Monstre.",
+  "level": 11,
+  "atk": 3000,
+  "def": 600,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}
