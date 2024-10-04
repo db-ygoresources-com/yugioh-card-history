@@ -1,0 +1,16 @@
+{
+  "id": 20718,
+  "type": "monster",
+  "name": "Trône Mimigoule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres \"Mimigoule\" de Niveau 1\nVous pouvez détacher 1 Matériel de cette carte ; Invoquez Spécialement 1 \"Maître Mimigoule\" depuis votre main, Deck ou Cimetière. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 \"Maître Mimigoule\" que vous contrôlez ; équipez-lui cette carte comme Magie d'Équipement qui lui donne 1000 ATK, puis vous pouvez renvoyer un nombre de cartes depuis le Terrain à la main, inférieur ou égal au nombre de Matériels que cette carte avait. Vous ne pouvez utiliser qu'1 effet de \"Trône Mimigoule\" par tour, et uniquement une fois le tour.",
+  "rank": 1,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

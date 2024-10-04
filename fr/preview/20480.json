@@ -1,0 +1,15 @@
+{
+  "id": 20480,
+  "type": "monster",
+  "name": "Cœur des Yeux Bleus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Millénaire\".)\nLe contrôle de cette carte ne peut pas être échangé. Vous pouvez défausser cette carte ; ajoutez 1 \"Ânkh Millénaire\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Cœur des Yeux Bleus\" qu'une fois par tour. Si cette carte est dans votre Cimetière, et que vous avez activé avec succès \"Ânkh Millénaire\" ce Duel, et que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres qui sont min. Niveau 8 ou qui ont min. 3000 ATK : vous pouvez envoyer le monstre au Cimetière, et si vous le faites, Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Cœur des Yeux Bleus\" qu'une fois par Duel.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

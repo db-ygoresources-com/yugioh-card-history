@@ -1,0 +1,15 @@
+{
+  "id": 20499,
+  "type": "monster",
+  "name": "Eria la Canalisatrice d'Eau",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "(Cette carte est toujours traitée comme carte \"la Charmeuse\".)\nVous pouvez défausser cette carte et 1 autre monstre EAU ; ajoutez 1 monstre EAU depuis votre Deck à votre main avec un Niveau supérieur ou égal à l'autre monstre défaussé, et aussi, vous ne pouvez pas activer d'effets de monstre non-EAU le reste de ce tour. Lorsque votre monstre EAU est détruit au combat : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous ne pouvez utiliser chaque effet de \"Eria la Canalisatrice d'Eau\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1850,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

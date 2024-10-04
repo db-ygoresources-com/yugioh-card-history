@@ -1,0 +1,15 @@
+{
+  "id": 20499,
+  "type": "monster",
+  "name": "Eria la Canalizadora del Agua",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "(Esta carta se trata siempre como una carta \"el/la Encantador/a\").\nPuedes descartar esta carta y otro monstruo de AGUA; añade a tu mano 1 monstruo de AGUA en tu Deck con un Nivel igual o mayor que el del otro monstruo descartado, y además no puedes activar efectos de monstruos que no sean de AGUA por el resto de este turno. Cuando tu monstruo de AGUA es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu mano. Sólo puedes usar cada efecto de \"Eria la Canalizadora del Agua\" una vez por turno.",
+  "level": 5,
+  "atk": 1850,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

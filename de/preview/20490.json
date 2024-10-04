@@ -1,0 +1,15 @@
+{
+  "id": 20490,
+  "type": "monster",
+  "name": "Lacrima, die blutroten Tränen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "(Diese Karte wird immer als „Unterweltlerschmied“-Karte behandelt.)\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Unterweltlerschmied“-Karte von deinem Deck auf den Friedhof legen, außer „Lacrima, die blutroten Tränen“. Während des Spielzugs deines Gegners, falls sich diese Karte in deinem Friedhof befindet (Schnelleffekt): Du kannst 1 „Unterweltlerschmied“-Linkmonster in deinem Friedhof wählen; mische diese Karte ins Deck und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung. Du kannst jeden Effekt von „Lacrima, die blutroten Tränen“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}
