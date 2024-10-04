@@ -1,0 +1,18 @@
+{
+  "id": 20486,
+  "type": "monster",
+  "name": "Künstlerzauberer Ballreiter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls du ein „Künstlerzauberer“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 dieser Effekte aktivieren;\n●Füge deinem Extra Deck 1 „Künstlerzauberer“-Pendelmonster von deinem Deck offen hinzu.\n●Zerstöre 1 „Künstlerzauberer“-Monsterkarte, die du kontrollierst.\nWenn ein als Spezialbeschwörung beschworenes Monster eines Gegners einen direkten Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Künstlerzauberer Ballreiter“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst 1 „Künstlerzauberer“-Pendelmonster offen von deinem Extra Deck auf den Friedhof legen, dann kannst du den Pendelbereich dieser Karte um den jenes gelegten Monsters erhöhen. Du kannst diesen Effekt von „Künstlerzauberer Ballreiter“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

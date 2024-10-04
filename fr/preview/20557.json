@@ -1,0 +1,16 @@
+{
+  "id": 20557,
+  "type": "monster",
+  "name": "Dragon de la Fierté et de l'Âme Ultime",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres avec 2500 ATK/DEF d'origine\nTant que vous contrôlez cette carte Invoquée par Fusion, votre adversaire ne peut pas la cibler avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire. Tant que vous avez min. 25 cartes dans votre Cimetière, cette carte Invoquée par Fusion gagne 4500 ATK/DEF. Une fois par tour, si votre adversaire a min. 25 cartes dans son Cimetière : vous pouvez détruire toutes les cartes contrôlées par votre adversaire.",
+  "level": 12,
+  "atk": 4500,
+  "def": 4500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

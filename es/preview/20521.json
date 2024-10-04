@@ -1,0 +1,20 @@
+{
+  "id": 20521,
+  "type": "monster",
+  "name": "Agnumday del Demoniherrero",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ monstruos, incluyendo un monstruo Demonio de LUZ\nUna vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo Demonio de LUZ que no sea de Enlace en tu Cementerio; Invócalo de Modo Especial y, si lo haces, equipa esta carta que controlas a ese monstruo como una Mágica de Equipo con los siguientes efectos.\n●El monstruo equipado gana ATK igual al Rating de Enlace total de los Monstruos de Enlace equipados a él x 600.\n●Si el monstruo equipado ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

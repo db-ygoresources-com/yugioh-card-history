@@ -1,0 +1,16 @@
+{
+  "id": 20520,
+  "type": "monster",
+  "name": "Rubisaphirus, das Adamant-Juwel",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2+ Monster der Stufe 9\nFalls diese offene Karte zerstört würde, kannst du stattdessen 1 Material von dieser Karte abhängen. Diese Karte erhält die folgenden Effekte, basierend auf den Eigenschaften ihres angehängten Materials.\n●FEUER: Wenn diese Karte einen Angriff auf ein Monster mit höheren ATK deklariert: Du kannst die ATK dieser Karte bis zum Ende des Damage Steps zum Doppelten ihrer derzeitigen ATK werden lassen.\n●WASSER: Einmal pro Spielzug des Gegners (Schnelleffekt): Du kannst 1 Karte wählen, die du kontrollierst; annulliere in diesem Spielzug Karten und Effekte, die dein Gegner aktiviert und die jene Karte als Ziel wählen.",
+  "rank": 9,
+  "atk": 2700,
+  "def": 1600,
+  "properties": [
+    "Fels",
+    "Xyz",
+    "Effekt"
+  ]
+}

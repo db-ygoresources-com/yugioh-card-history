@@ -1,0 +1,16 @@
+{
+  "id": 20496,
+  "type": "monster",
+  "name": "Maître Tactique des Six Samouraïs",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si vous contrôlez un monstre \"Six Samouraïs\" (\"Maître Tactique des Six Samouraïs\" exclu), vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Maître Tactique des Six Samouraïs\" qu'une fois par tour de cette façon. Vous ne pouvez utiliser chacun des effets suivants de \"Maître Tactique des Six Samouraïs\" qu'une fois par tour. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 carte \"Rafale Six\" depuis votre Deck ou Cimetière à votre main. Un monstre \"Six Samouraïs\" qui a été Invoqué par Synchronisation en utilisant cette carte gagne cet effet.\n●Les monstres contrôlés par votre adversaire perdent 500 ATK.",
+  "level": 2,
+  "atk": 200,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

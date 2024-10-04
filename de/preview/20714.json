@@ -1,0 +1,16 @@
+{
+  "id": 20714,
+  "type": "monster",
+  "name": "Mimighul Rüstung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Falls es die Main Phase ist: Führe nacheinander diese Effekte aus.\n●In diesem Spielzug können „Mimighul“-Monster nicht durch Kampf zerstört werden.\n●Übergib die Kontrolle über diese Karte an deinen Gegner.\nWährend deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners in die verdeckte Verteidigungsposition beschwören oder falls dein Gegner ein Monster kontrolliert, kannst du diese Karte als Spezialbeschwörung offen auf deine Spielfeldseite beschwören. Du kannst jeden Effekt von „Mimighul Rüstung“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 600,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20479,
+  "type": "monster",
+  "name": "Panzerungshai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "(Diese Karte wird immer als „Panzerungs-Xyz“-Karte behandelt.)\nDu kannst 1 WASSER Xyz-Monster von deinem Extra Deck auf den Friedhof legen und dann 1 Fisch-Monster, dessen Stufe dem Rang jenes Monsters entspricht, in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Während des Spielzugs deines Gegners, falls sich diese Karte in deinem Friedhof befindet (Schnelleffekt): Du kannst 1 WASSER Xyz-Monster wählen, das du kontrollierst; rüste jenes Monster mit dieser Karte als Ausrüstungszauber aus, der ihm 500 ATK gibt. Du kannst jeden Effekt von „Panzerungshai“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

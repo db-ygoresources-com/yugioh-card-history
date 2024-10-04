@@ -1,0 +1,16 @@
+{
+  "id": 20557,
+  "type": "monster",
+  "name": "Ultimativer Drache des Stolzes und der Seele",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "3 Monster mit 2500 Grund-ATK/DEF\nSolange du diese als Fusionsbeschwörung beschworene Karte kontrollierst, kann dein Gegner sie nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden. Solange du 25 oder mehr Karten in deinem Friedhof hast, erhält diese als Fusionsbeschwörung beschworene Karte 4500 ATK/DEF. Einmal pro Spielzug, falls dein Gegner 25 oder mehr Karten in seinem Friedhof hat: Du kannst alle Karten zerstören, die dein Gegner kontrolliert.",
+  "level": 12,
+  "atk": 4500,
+  "def": 4500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

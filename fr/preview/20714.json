@@ -1,0 +1,16 @@
+{
+  "id": 20714,
+  "type": "monster",
+  "name": "Armure Mimigoule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Si c'est la Main Phase : appliquez ces effets dans l'ordre.\n●Ce tour, les monstres \"Mimigoule\" ne peuvent pas être détruits au combat.\n●Donnez le contrôle de cette carte à votre adversaire.\nDurant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main sur le Terrain de votre adversaire en Position de Défense face verso, ou si votre adversaire contrôle un monstre, vous pouvez Invoquer Spécialement face recto cette carte sur votre Terrain. Vous ne pouvez utiliser chaque effet de \"Armure Mimigoule\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 600,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Flip",
+    "Effet"
+  ]
+}

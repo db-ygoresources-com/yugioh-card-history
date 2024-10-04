@@ -1,0 +1,20 @@
+{
+  "id": 20521,
+  "type": "monster",
+  "name": "Agnumday du Démonforgeron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres (un monstre LUMIÈRE Démon inclus)\nUne fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre non-Lien LUMIÈRE Démon dans votre Cimetière ; Invoquez-le Spécialement, et si vous le faites, équipez cette carte que vous contrôlez au monstre comme Magie d'Équipement avec les effets suivants.\n●Le monstre équipé gagne une ATK égale à la somme des Classifications Lien des Monstres Lien qui lui sont équipés x 600.\n●Si le monstre équipé attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Démon",
+    "Lien",
+    "Effet"
+  ]
+}

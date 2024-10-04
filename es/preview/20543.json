@@ -1,0 +1,10 @@
+{
+  "id": 20543,
+  "type": "spell",
+  "name": "Apoyo de Fichas",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Puedes Sacrificar cualquier número de Fichas, y después selecciona 1 monstruo que controles con 0 ATK; éste gana ATK igual al número de Sacrificadas x 1000 (hasta el final de este turno) y, si lo hace, puede atacar a monstruos hasta el número de Sacrificadas durante cada Battle Phase este turno. Sólo puedes usar este efecto de \"Apoyo de Fichas\" una vez por turno. Al final de la Battle Phase de tu adversario: puedes Invocar de Modo Especial \"Ficha de Apoyo\" (Bestia/TIERRA/Nivel 1/ATK 0/DEF 0) hasta el número de Fichas destruidas durante esta Battle Phase.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

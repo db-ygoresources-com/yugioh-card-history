@@ -1,0 +1,15 @@
+{
+  "id": 20479,
+  "type": "monster",
+  "name": "Tiburón Armado",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "(Esta carta se trata siempre como una carta \"Xyz Armado\").\nPuedes mandar al Cementerio 1 Monstruo Xyz de AGUA en tu Deck Extra, y después selecciona 1 monstruo Pez en tu Cementerio con el mismo Nivel que el Rango de ese monstruo; Invócalo de Modo Especial. Durante el turno de tu adversario, si esta carta está en tu Cementerio (Efecto Rápido): puedes seleccionar 1 Monstruo Xyz de AGUA que controles; equipa esta carta a ese monstruo como una Mágica de Equipo que le da 500 ATK. Sólo puedes usar cada efecto de \"Tiburón Armado\" una vez por turno.",
+  "level": 3,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

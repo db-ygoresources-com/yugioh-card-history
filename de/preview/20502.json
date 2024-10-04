@@ -1,0 +1,16 @@
+{
+  "id": 20502,
+  "type": "monster",
+  "name": "Sich drehende Katze",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte von der Hand oder dem Deck auf den Friedhof gelegt wird: Du kannst sie als Spezialbeschwörung in die verdeckte Verteidigungsposition beschwören. Nachdem diese Karte aufgedeckt wurde, falls ein oder mehr Monster von der Hand und/oder dem Deck auf deinen Friedhof gelegt werden, solange diese Karte in der Monsterzone liegt: Du kannst 1 von ihnen wählen; beschwöre es als Spezialbeschwörung in die verdeckte Verteidigungsposition. Du kannst jeden Effekt von „Sich drehende Katze“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

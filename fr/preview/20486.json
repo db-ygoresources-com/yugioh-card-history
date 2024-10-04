@@ -1,0 +1,18 @@
+{
+  "id": 20486,
+  "type": "monster",
+  "name": "Équilibriste de Balles Mageartiste",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si vous contrôlez un monstre \"Mageartiste\" : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez activer 1 de ces effets ;\n●Ajoutez 1 Monstre Pendule \"Mageartiste\" depuis votre Deck à votre Extra Deck face recto.\n●Détruisez 1 Carte Monstre \"Mageartiste\" que vous contrôlez.\nLorsqu'un monstre Invoqué Spécialement de l'adversaire déclare une attaque directe : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Équilibriste de Balles Mageartiste\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez envoyer 1 Monstre Pendule \"Mageartiste\" depuis votre Extra Deck face recto au Cimetière, puis vous pouvez augmenter l'Échelle Pendule de cette carte de celle du monstre envoyé. Vous ne pouvez utiliser cet effet de \"Équilibriste de Balles Mageartiste\" qu'une fois par tour.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

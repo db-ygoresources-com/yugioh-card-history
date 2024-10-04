@@ -1,0 +1,15 @@
+{
+  "id": 20505,
+  "type": "monster",
+  "name": "Novice Abeille !",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous avez un monstre avec 0 ATK/DEF dans votre Cimetière, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Novice Abeille !\" qu'une fois par tour de cette façon. Si cette carte est Invoquée Spécialement depuis la main : vous pouvez appliquer ces effets dans l'ordre.\n●Ajoutez 1 monstre LUMIÈRE Insecte (\"Novice Abeille !\" exclu) depuis votre Cimetière à votre main.\n●Placez 1 de vos Pièges qui est banni ou dans votre Cimetière soit au-dessus soit au-dessous du Deck.\nVous ne pouvez utiliser cet effet de \"Novice Abeille !\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20712,
+  "type": "monster",
+  "name": "Schmetterling-Fisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte auf den Friedhof gelegt wird, um einen Monstereffekt zu aktivieren: Du kannst diese Karte deiner Hand hinzufügen. Falls ein oder mehr Monster auf deinen Friedhof gelegt werden, außer durch Kampf, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst 1 Karte auf den Friedhof abwerfen; beschwöre diese Karte als Spezialbeschwörung. Du kannst nur 1 Effekt von „Schmetterling-Fisch“ pro Spielzug verwenden und in jenem Spielzug nur einmal. Du kannst in dem Spielzug, in dem du einen beliebigen Effekt dieser Karte aktivierst, keine Spezialbeschwörungen vom Extra Deck durchführen, außer von WASSER Monstern.",
+  "level": 3,
+  "atk": 700,
+  "def": 400,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

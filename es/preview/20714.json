@@ -1,0 +1,16 @@
+{
+  "id": 20714,
+  "type": "monster",
+  "name": "Armadura Mimighoul",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Si es la Main Phase: aplica estos efectos en secuencia.\n●Este turno, los monstruos \"Mimighoul\" no pueden ser destruidos en batalla.\n●Da el control de esta carta a tu adversario.\nDurante tu Main Phase: puedes Invocar esta carta de Modo Especial desde tu mano al Campo de tu adversario en Posición de Defensa boca abajo o, si tu adversario controla un monstruo, puedes Invocar esta carta de Modo Especial boca arriba a tu Campo. Sólo puedes usar cada efecto de \"Armadura Mimighoul\" una vez por turno.",
+  "level": 1,
+  "atk": 600,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Volteo",
+    "Efecto"
+  ]
+}

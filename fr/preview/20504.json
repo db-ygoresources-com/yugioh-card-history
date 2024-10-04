@@ -1,0 +1,15 @@
+{
+  "id": 20504,
+  "type": "monster",
+  "name": "Absorbeur de Cauchemars sans Fin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Gagne 1000 ATK chaque fois que votre adversaire active un effet de monstre. Si votre adversaire active un effet de monstre dans sa main, Cimetière ou bannissement (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsqu'il a activé) ou main (même si elle n'y était pas), mais détruisez-la durant la End Phase. Vous ne pouvez utiliser cet effet de \"Absorbeur de Cauchemars sans Fin\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

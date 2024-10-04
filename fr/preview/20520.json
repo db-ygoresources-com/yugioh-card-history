@@ -1,0 +1,16 @@
+{
+  "id": 20520,
+  "type": "monster",
+  "name": "Rubisaphirus, le Joyau Inflexible",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2+ monstres de Niveau 9\nSi cette carte face recto va être détruite, vous pouvez détacher 1 Matériel de cette carte à la place. Gagne les effets suivants, selon les Attributs de ses Matériels attachés.\n●FEU : Lorsque cette carte déclare une attaque sur un monstre avec une ATK supérieure : jusqu'à la fin de la Damage Step, vous pouvez faire devenir l'ATK de cette carte le double de son ATK actuelle.\n●EAU : Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez cibler 1 carte que vous contrôlez ; ce tour, annulez les cartes ou effets activés par votre adversaire qui ciblaient la carte.",
+  "rank": 9,
+  "atk": 2700,
+  "def": 1600,
+  "properties": [
+    "Rocher",
+    "Xyz",
+    "Effet"
+  ]
+}

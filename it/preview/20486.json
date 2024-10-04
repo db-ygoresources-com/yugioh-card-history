@@ -1,0 +1,18 @@
+{
+  "id": 20486,
+  "type": "monster",
+  "name": "Artistamagus Equilibrista delle Palle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se controlli un mostro \"Artistamagus\": puoi Evocare Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Normalmente o Specialmente: puoi attivare 1 di questi effetti;\n●Aggiungi 1 Mostro Pendulum \"Artistamagus\" dal tuo Deck al tuo Extra Deck scoperto.\n●Distruggi 1 Carta Mostro \"Artistamagus\" che controlli.\nQuando un mostro Evocato Specialmente dell'avversario dichiara un attacco diretto: puoi Evocare Specialmente questa carta dal tuo Cimitero. Puoi utilizzare ogni effetto di \"Artistamagus Equilibrista delle Palle\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi mandare 1 Mostro Pendulum \"Artistamagus\" dal tuo Extra Deck scoperto al Cimitero, poi puoi aumentare il Valore Pendulum di questa carta di quello di quel mostro mandato. Puoi utilizzare questo effetto di \"Artistamagus Equilibrista delle Palle\" una sola volta per turno.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

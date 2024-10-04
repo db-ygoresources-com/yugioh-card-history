@@ -1,0 +1,16 @@
+{
+  "id": 20498,
+  "type": "monster",
+  "name": "Union-Pilot",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Einmal pro Spielzug kannst du entweder: 1 Effektmonster wählen, das du kontrollierst; rüste jenes gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Du kannst diese Karte, die ein Monster ausrüstet, auf deine Hand zurückgeben; rüste 1 Monster, das du kontrollierst, mit 1 geeigneten, verbannten Union-Monster als Ausrüstungszauber aus, als ob es durch den Effekt jenes Union-Monsters ausrüsten würde und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst diesen Effekt von „Union-Pilot“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Union",
+    "Effekt"
+  ]
+}

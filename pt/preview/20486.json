@@ -1,0 +1,18 @@
+{
+  "id": 20486,
+  "type": "monster",
+  "name": "Camaramágico Equilibrista de Bolas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se você controlar um monstro \"Camaramágico\": você pode Invocar este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Normal ou Especial: você pode ativar 1 desses efeitos;\n●Adicione 1 Monstro Pêndulo \"Camaramágico\" do seu Deck ao seu Deck Adicional com a face para cima.\n●Destrua 1 Card de Monstro \"Camaramágico\" que você controla.\nQuando um monstro Invocado por Invocação-Especial do oponente declarar um ataque direto: você pode Invocar este card por Invocação-Especial do seu Cemitério. Você só pode usar cada efeito de \"Camaramágico Equilibrista de Bolas\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode enviar 1 Monstro Pêndulo \"Camaramágico\" do seu Deck Adicional com a face para cima para o Cemitério e, depois, você pode aumentar a Escala de Pêndulo deste card pela do monstro enviado. Você só pode usar este efeito de \"Camaramágico Equilibrista de Bolas\" uma vez por turno.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

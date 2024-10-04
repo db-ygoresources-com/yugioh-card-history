@@ -1,0 +1,15 @@
+{
+  "id": 20484,
+  "type": "monster",
+  "name": "Metall-Illusionist",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Erhöhe die Stufe dieser Karte nur während des Spielzugs deines Gegners um 4. Du kannst jeden der folgenden Effekte von „Metall-Illusionist“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Metallwandler“-Falle von deinem Deck setzen, dann, falls sich „Max-Metallwandler“ in deinem Friedhof befindet, kannst du 1 Karte ziehen. Du kannst 1 anderen Monstertyp deklarieren; diese Karte wird bis zum Ende des Spielzugs deines Gegners zu jenem Typ.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

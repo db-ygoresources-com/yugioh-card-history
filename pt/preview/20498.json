@@ -1,0 +1,16 @@
+{
+  "id": 20498,
+  "type": "monster",
+  "name": "Piloto da União",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Uma vez por turno, você pode: escolher 1 Monstro de Efeito que você controla; equipe este card no alvo, OU: desequipe este card e Invoque-o por Invocação-Especial. Se o monstro equipado seria destruído em batalha ou por um efeito de card, em vez disso, destrua este card. Você pode devolver à sua mão este card equipado a um monstro; equipe 1 monstro União banido apropriado a 1 monstro que você controla como uma Magia de Equipamento, como se tivesse sido equipado pelo efeito desse monstro União e, se isso acontecer, Invoque este card por Invocação-Especial da sua mão. Você só pode usar este efeito de \"Piloto da União\" uma vez por turno.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Union",
+    "Efeito"
+  ]
+}

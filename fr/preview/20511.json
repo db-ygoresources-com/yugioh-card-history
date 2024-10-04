@@ -1,0 +1,16 @@
+{
+  "id": 20511,
+  "type": "monster",
+  "name": "Héosvarog l'Aube Mécanique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres LUMIÈRE Machine\nSi cette carte est Invoquée par Fusion : vous pouvez activer cet effet ; durant la Standby Phase du prochain tour, ajoutez 1 carte depuis votre Cimetière à votre main, avec un effet qui Invoque par Fusion un ou plusieurs monstres. Lorsque votre adversaire active une Carte Magie/Piège ou effet de Magie/Piège (Effet Rapide) : vous pouvez bannir 1 monstre LUMIÈRE Machine face recto que vous contrôlez, ou 2 monstres LUMIÈRE Machine depuis votre Cimetière ; annulez l'activation. Vous ne pouvez utiliser chaque effet de \"Héosvarog l'Aube Mécanique\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 0,
+  "def": 2800,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20510,
+  "type": "monster",
+  "name": "Khaos-Sternenquellen-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 LICHT oder FINSTERNIS Drache-Monster + 1 Drache-Monster\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst Karten, die dein Gegner kontrolliert, bis zur Anzahl der LICHT und FINSTERNIS Monster wählen, die als Material für diese Karte verwendet wurden; zerstöre sie. Falls diese Karte verbannt wird: Du kannst 1 LICHT oder FINSTERNIS Drache-Monster der Stufe 4 wählen, das du kontrollierst; seine Stufe wird zu 8. Du kannst jeden Effekt von „Khaos-Sternenquellen-Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

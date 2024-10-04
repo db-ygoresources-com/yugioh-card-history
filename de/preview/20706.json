@@ -1,0 +1,16 @@
+{
+  "id": 20706,
+  "type": "monster",
+  "name": "Schwere Kavallerie der Unzerstörbaren Insekten",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Insekt-Monster der Stufe 5 oder höher + 1 Insekt-Monster\nKann nicht durch Karteneffekte deines Gegners zerstört werden. Falls alle offenen Monster, die du kontrollierst, Insekt-Monster sind (Schnelleffekt): Du kannst 2 Monster auf dem Spielfeld wählen, darunter ein Insekt-Monster, das du kontrollierst; verbanne sie. Du kannst diesen Effekt von „Schwere Kavallerie der Unzerstörbaren Insekten“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Insekt",
+    "Fusion",
+    "Effekt"
+  ]
+}

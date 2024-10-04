@@ -1,0 +1,16 @@
+{
+  "id": 20716,
+  "type": "monster",
+  "name": "Mimighul Schleim",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Falls es die Main Phase ist: Führe nacheinander diese Effekte aus.\n●Dein Gegner kann 1 „Mimighul“-Monster als Spezialbeschwörung von seinem Deck auf seine Spielfeldseite beschwören.\n●Übergib die Kontrolle über diese Karte an deinen Gegner.\nWährend deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners in die verdeckte Verteidigungsposition beschwören oder falls dein Gegner mehr Monster kontrolliert als du, kannst du diese Karte als Spezialbeschwörung offen auf deine Spielfeldseite beschwören. Du kannst jeden Effekt von „Mimighul Schleim“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 400,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Flipp",
+    "Effekt"
+  ]
+}

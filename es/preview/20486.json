@@ -1,0 +1,18 @@
+{
+  "id": 20486,
+  "type": "monster",
+  "name": "Artilusionista Balancín de Bolas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si controlas un monstruo \"Artilusionista\": puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes activar 1 de estos efectos;\n●Añade a tu Deck Extra boca arriba 1 Monstruo de Péndulo \"Artilusionista\" en tu Deck.\n●Destruye 1 Carta de Monstruo \"Artilusionista\" que controles.\nCuando un monstruo del adversario Invocado de Modo Especial declara un ataque directo: puedes Invocar esta carta de Modo Especial desde tu Cementerio. Sólo puedes usar cada efecto de \"Artilusionista Balancín de Bolas\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes mandar al Cementerio 1 Monstruo de Péndulo \"Artilusionista\" en tu Deck Extra boca arriba, y después puedes aumentar la Escala de Péndulo de esta carta en la de ese monstruo mandado. Sólo puedes usar este efecto de \"Artilusionista Balancín de Bolas\" una vez por turno.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

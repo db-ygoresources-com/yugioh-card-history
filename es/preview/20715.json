@@ -1,0 +1,16 @@
+{
+  "id": 20715,
+  "type": "monster",
+  "name": "Hada Mimighoul",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Si es la Main Phase: aplica estos efectos en secuencia.\n●Este turno, no puedes activar los efectos de los monstruos Invocados de Modo Especial desde tu mano.\n●Da el control de esta carta a tu adversario.\nDurante tu Main Phase: puedes Invocar esta carta de Modo Especial desde tu mano al Campo de tu adversario en Posición de Defensa boca abajo o, si controlas un monstruo \"Mimighoul\", puedes Invocar esta carta de Modo Especial boca arriba a tu Campo. Sólo puedes usar cada efecto de \"Hada Mimighoul\" una vez por turno.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Hada",
+    "Volteo",
+    "Efecto"
+  ]
+}

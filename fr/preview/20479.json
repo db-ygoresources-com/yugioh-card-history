@@ -1,0 +1,15 @@
+{
+  "id": 20479,
+  "type": "monster",
+  "name": "Requin Blindé",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Blindé Xyz\".)\nVous pouvez envoyer 1 Monstre Xyz EAU depuis votre Extra Deck au Cimetière, puis ciblez 1 monstre Poisson dans votre Cimetière du même Niveau que le Rang du monstre ; Invoquez-le Spécialement. Durant le tour de votre adversaire, si cette carte est dans votre Cimetière (Effet Rapide) : vous pouvez cibler 1 Monstre Xyz EAU que vous contrôlez ; équipez cette carte au monstre comme Magie d'Équipement qui lui donne 500 ATK. Vous ne pouvez utiliser chaque effet de \"Requin Blindé\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 500,
+  "def": 2000,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20498,
+  "type": "monster",
+  "name": "Piloto de la Unión",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, puedes: seleccionar 1 Monstruo de Efecto que controles; equipa esta carta a ese objetivo, O: desequipar esta carta e Invócala de Modo Especial. Si el monstruo equipado fuera a ser destruido en batalla o por el efecto de una carta, destruye esta carta en su lugar. Puedes devolver a tu mano esta carta equipada a un monstruo; equipa 1 monstruo de Unión apropiado desterrado a 1 monstruo que controlas como una Mágica de Equipo, como si fuera equipado por el efecto de ese monstruo de Unión y, si lo haces, Invoca esta carta de Modo Especial desde tu mano. Sólo puedes usar este efecto de \"Piloto de la Unión\" una vez por turno.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Unión",
+    "Efecto"
+  ]
+}

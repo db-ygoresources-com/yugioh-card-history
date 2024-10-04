@@ -1,0 +1,16 @@
+{
+  "id": 20706,
+  "type": "monster",
+  "name": "Cavalerie Lourde des Indestructibles Insectes",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre Insecte de min. Niveau 5 + 1 monstre Insecte\nNon destructible par des effets de carte de votre adversaire. Si tous les monstres face recto que vous contrôlez sont des monstres Insecte (Effet Rapide) : vous pouvez cibler 2 monstres (un monstre Insecte que vous contrôlez inclus) sur le Terrain ; bannissez-les. Vous ne pouvez utiliser cet effet de \"Cavalerie Lourde des Indestructibles Insectes\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Insecte",
+    "Fusion",
+    "Effet"
+  ]
+}
