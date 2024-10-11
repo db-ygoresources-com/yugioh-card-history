@@ -1,0 +1,16 @@
+{
+  "id": 5199,
+  "type": "monster",
+  "name": "Hechicera de Fuego",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "VOLTEO: Destierra 2 cartas al azar en tu mano; inflige 800 puntos de daño a tu adversario.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Volteo",
+    "Efecto"
+  ]
+}
