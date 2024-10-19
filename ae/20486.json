@@ -1,0 +1,18 @@
+{
+  "id": 20486,
+  "type": "monster",
+  "name": "Performage Ball Balancer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If you control a \"Performage\" monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can activate 1 of these effects;\n●Add 1 \"Performage\" Pendulum Monster from your Deck to your face-up Extra Deck.\n●Destroy 1 \"Performage\" Monster Card you control.\nWhen an opponent's Special Summoned monster declares a direct attack: You can Special Summon this card from your GY. You can only use each effect of \"Performage Ball Balancer\" once per turn.",
+  "pendEffect": "During your Main Phase: You can send 1 \"Performage\" Pendulum Monster from your face-up Extra Deck to the GY, then you can increase this card's Pendulum Scale by that sent monster's. You can only use this effect of \"Performage Ball Balancer\" once per turn.",
+  "pendScale": 3,
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

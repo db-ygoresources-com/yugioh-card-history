@@ -1,0 +1,15 @@
+{
+  "id": 7191,
+  "type": "monster",
+  "name": "Volcanic Rat",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
+  "level": 1,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Pyro",
+    "Normal"
+  ]
+}

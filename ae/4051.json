@@ -1,0 +1,15 @@
+{
+  "id": 4051,
+  "type": "monster",
+  "name": "Wattkid",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "A creature that electrocutes opponents with bolts of lightning.",
+  "level": 3,
+  "atk": 1000,
+  "def": 500,
+  "properties": [
+    "Thunder",
+    "Normal"
+  ]
+}

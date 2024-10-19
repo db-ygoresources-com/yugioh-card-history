@@ -1,0 +1,17 @@
+{
+  "id": 11210,
+  "type": "monster",
+  "name": "Flash Knight",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "The power of the pendulum flashes forth from this shining knight.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1800,
+  "def": 600,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Normal"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7684,
+  "type": "monster",
+  "name": "Tune Warrior",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "The warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.",
+  "level": 3,
+  "atk": 1600,
+  "def": 200,
+  "properties": [
+    "Warrior",
+    "Tuner",
+    "Normal"
+  ]
+}

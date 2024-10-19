@@ -1,0 +1,17 @@
+{
+  "id": 11658,
+  "type": "monster",
+  "name": "Dragong",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "This gong harbors the soul of an untamed dragon. It soars through the skies with an incredible roar, marshaling all those who hear its call to battle.",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 500,
+  "def": 2100,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Normal"
+  ]
+}

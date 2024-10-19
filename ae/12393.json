@@ -1,0 +1,18 @@
+{
+  "id": 12393,
+  "type": "monster",
+  "name": "Mild Turkey",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "The taste of victory will bowl you over.",
+  "pendEffect": "Once per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).",
+  "pendScale": 7,
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Winged Beast",
+    "Pendulum",
+    "Normal"
+  ]
+}

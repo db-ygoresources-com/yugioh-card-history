@@ -1,0 +1,19 @@
+{
+  "id": 13361,
+  "type": "monster",
+  "name": "Hallohallo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Hallo Hallo, brain of tallow,\nGuts are gone, noggin's hollow.\nSeeking sweets and marshing mallows,\nWatch your back, and your candy sack.",
+  "pendEffect": "Once per turn: You can target 1 face-up monster on the field; roll a six-sided die and that monster's Level becomes the same as the result until the end of this turn.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Tuner",
+    "Normal"
+  ]
+}
