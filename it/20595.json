@@ -1,0 +1,19 @@
+{
+  "id": 20595,
+  "type": "monster",
+  "name": "Sosei Ryu-Ge Mistva",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Deve essere Evocato Specialmente dal suo stesso effetto. Puoi Evocare Specialmente uno o più \"Sosei Ryu-Ge Mistva\" una sola volta per turno. Se uno o più mostri sul Terreno vengono distrutti in battaglia o dall'effetto di una carta, mentre questa carta è nel tuo Extra Deck: puoi offrire come Tributo 1 mostro \"Ryu-Ge\" di Livello 10 e, se lo fai, Evoca Specialmente questa carta (questa viene considerata come un'Evocazione tramite Rituale), poi puoi applicare questo effetto.\n●Distruggi fino a 2 carte che controlli e, se lo fai, metti fino a quel numero di Magie Continue \"Ryu-Ge\" dal tuo Deck scoperte sul tuo Terreno.",
+  "pendEffect": "Durante la tua Main Phase: puoi aggiungere 1 carta \"Ryu-Ge\" non-Pendulum dal tuo Deck alla tua mano, poi distruggi questa carta. Puoi utilizzare questo effetto di \"Sosei Ryu-Ge Mistva\" una sola volta per turno.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3500,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Rituale",
+    "Pendulum",
+    "Effetto"
+  ]
+}

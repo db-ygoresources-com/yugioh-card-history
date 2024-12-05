@@ -1,0 +1,19 @@
+{
+  "id": 20595,
+  "type": "monster",
+  "name": "Sosei Ryuge Mistva",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Du kannst nur einmal pro Spielzug einen oder mehr „Sosei Ryuge Mistva“ als Spezialbeschwörung beschwören. Falls ein oder mehr Monster auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Extra Deck befindet: Du kannst 1 „Ryuge“-Monster der Stufe 10 als Tribut anbieten und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung (dies wird als Ritualbeschwörung behandelt), dann kannst du diesen Effekt ausführen.\n●Zerstöre bis zu 2 Karten, die du kontrollierst, und falls du dies tust, lege bis zu ebenso viele Permanente „Ryuge“-Zauber von deinem Deck offen auf deine Spielfeldseite.",
+  "pendEffect": "Während deiner Main Phase: Du kannst deiner Hand 1 „Ryuge“-Nichtpendel-Karte von deinem Deck hinzufügen, dann zerstöre diese Karte. Du kannst diesen Effekt von „Sosei Ryuge Mistva“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3500,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Ritual",
+    "Pendel",
+    "Effekt"
+  ]
+}

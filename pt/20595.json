@@ -1,0 +1,19 @@
+{
+  "id": 20595,
+  "type": "monster",
+  "name": "Sosei Ryu-Ge Mistva",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Deve ser Invocado por Invocação-Especial por seu próprio efeito. Você só pode Invocar um ou mais \"Sosei Ryu-Ge Mistva\" por Invocação-Especial uma vez por turno. Se um ou mais monstros no campo forem destruídos em batalha ou por um efeito de card, enquanto este card estiver no seu Deck Adicional: você pode oferecer como Tributo 1 monstro \"Ryu-Ge\" de Nível 10 e, se isso acontecer, Invoque este card por Invocação-Especial (isso é considerado uma Invocação-Ritual) e, depois, você pode aplicar este efeito.\n●Destrua até 2 cards que você controla e, se isso acontecer, coloque até esse número de Magias Contínuas \"Ryu-Ge\" do seu Deck no seu campo com a face para cima.",
+  "pendEffect": "Durante sua Fase Principal: você pode adicionar 1 card \"Ryu-Ge\" que não seja Pêndulo do seu Deck à sua mão e, depois, destrua este card. Você só pode usar este efeito de \"Sosei Ryu-Ge Mistva\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3500,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Ritual",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

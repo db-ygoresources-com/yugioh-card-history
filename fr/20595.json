@@ -1,0 +1,19 @@
+{
+  "id": 20595,
+  "type": "monster",
+  "name": "Sosei Ryu-Ge Mistva",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Uniquement Invocable Spécialement par son propre effet. Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Sosei Ryu-Ge Mistva\" qu'une fois par tour. Si un ou plusieurs monstres sur le Terrain sont détruits au combat ou par un effet de carte, tant que cette carte est dans votre Extra Deck : vous pouvez Sacrifier 1 monstre \"Ryu-Ge\" de Niveau 10, et si vous le faites, Invoquez Spécialement cette carte (ceci est traité comme Invocation Rituelle), puis vous pouvez appliquer cet effet.\n●Détruisez max. 2 cartes que vous contrôlez, et si vous le faites, placez face recto max. autant de Magies Continues \"Ryu-Ge\" depuis votre Deck sur votre Terrain.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez ajouter 1 carte non-Pendule \"Ryu-Ge\" depuis votre Deck à votre main, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Sosei Ryu-Ge Mistva\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3500,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Rituel",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20578,
+  "type": "monster",
+  "name": "Détonateur Ryzéal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres \"Ryzéal\" de Niveau 4\nLorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 carte sur le Terrain ; détruisez-la. Vous ne pouvez utiliser chacun des effets suivants de \"Détonateur Ryzéal\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : vous pouvez attacher 1 monstre depuis votre Cimetière à cette carte comme Matériel. Si un ou plusieurs Monstres Xyz que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez détacher 1 Matériel de cette carte à la place.",
+  "rank": 4,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Pyro",
+    "Xyz",
+    "Effet"
+  ]
+}

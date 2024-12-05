@@ -1,0 +1,15 @@
+{
+  "id": 20576,
+  "type": "monster",
+  "name": "Palma Ryzeal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) barajando al Deck/Deck Extra 1 monstruo \"Ryzeal\" en tu mano o Cementerio. No puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos Xyz de Rango 4. Una vez por turno, durante el cálculo de daño, si esta carta batalla con un monstruo del adversario: puedes mandar al Cementerio 1 monstruo de Nivel 4 en tu mano o Deck y, si lo haces, esta carta gana ATK igual al ATK de ese monstruo, hasta el final de la Battle Phase.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

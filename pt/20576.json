@@ -1,0 +1,15 @@
+{
+  "id": 20576,
+  "type": "monster",
+  "name": "Palma de Ryzeal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao embaralhar 1 monstro \"Ryzeal\" da sua mão ou do Cemitério no Deck/Deck Adicional. Você não pode Invocar por Invocação-Especial do Deck Adicional, exceto Monstros Xyz de Classe 4. Uma vez por turno, durante o cálculo de dano, se este card batalhar um monstro do oponente: você pode enviar 1 monstro de Nível 4 da sua mão ou do Deck para o Cemitério e, se isso acontecer, este card ganha ATK igual ao ATK desse monstro, até o final da Fase de Batalha.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Trovão",
+    "Efeito"
+  ]
+}

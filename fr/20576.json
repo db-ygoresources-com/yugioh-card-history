@@ -1,0 +1,15 @@
+{
+  "id": 20576,
+  "type": "monster",
+  "name": "Paume Ryzéal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en mélangeant 1 monstre \"Ryzéal\" depuis votre main ou Cimetière dans le Deck/Extra Deck. Vous ne pouvez pas Invoquer Spécialement (Monstres Xyz de Rang 4 exclus) depuis l'Extra Deck. Une fois par tour, durant le calcul des dommages, si cette carte combat un monstre de l'adversaire : vous pouvez envoyer 1 monstre de Niveau 4 depuis votre main ou Deck au Cimetière, et si vous le faites, cette carte gagne une ATK égale à l'ATK du monstre jusqu'à la fin de la Battle Phase.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

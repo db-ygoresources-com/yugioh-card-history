@@ -1,0 +1,15 @@
+{
+  "id": 20576,
+  "type": "monster",
+  "name": "Handflächen-Ryzeal",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Ryzeal“-Monster von deiner Hand oder deinem Friedhof ins Deck / Extra Deck mischst. Du kannst keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Xyz-Monstern des Rangs 4. Einmal pro Spielzug, während der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst 1 Monster der Stufe 4 von deiner Hand oder deinem Deck auf den Friedhof legen und falls du dies tust, erhält diese Karte bis zum Ende der Battle Phase ATK in Höhe der ATK jenes Monsters.",
+  "level": 4,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

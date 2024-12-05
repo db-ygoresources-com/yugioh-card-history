@@ -1,0 +1,16 @@
+{
+  "id": 20578,
+  "type": "monster",
+  "name": "Ryzeal-Detonator",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ „Ryzeal“-Monster der Stufe 4\nWenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und dann 1 Karte auf dem Spielfeld wählen; zerstöre sie. Du kannst jeden der folgenden Effekte von „Ryzeal-Detonator“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster von deinem Friedhof als Material an diese Karte anhängen. Falls ein oder mehr Xyz-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 1 Material von dieser Karte abhängen.",
+  "rank": 4,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Pyro",
+    "Xyz",
+    "Effekt"
+  ]
+}
