@@ -1,0 +1,19 @@
+{
+  "id": 20746,
+  "type": "monster",
+  "name": "Velocidaroide Asas Sincron",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se este card for adicionado ao seu Deck Adicional com a face para cima e você controlar 2 ou mais Tipos diferentes de Monstros Sincro de VENTO: você pode enviar 1 Magia/Armadilha \"Velocidaroide\" do seu Deck para o Cemitério. Você só pode usar este efeito de \"Velocidaroide Asas Sincron\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno: você pode destruir este card e 1 Card de Monstro Pêndulo de VENTO de Nível 2 na sua Zona de Pêndulo e, se isso acontecer, Invoque por Invocação-Especial 1 \"Dragão Sincro de Asas Transparentes\" do seu Deck Adicional (isso é considerado uma Invocação-Sincro) e, além disso, pelo resto deste turno, cards nas suas Zonas de Pêndulo não podem ser destruídos por efeitos de card e você não pode Invocar por Invocação-Especial, exceto monstros de VENTO.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Regulador",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20745,
+  "type": "monster",
+  "name": "Colonel Tac-Tac Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 \"Colonel Tac-Tac Vitesseroid\" comme Syntoniseur depuis votre main, Deck ou Cimetière. Durant le calcul des dommages, si votre monstre \"Aile Claire\" combat, tant que cette carte est face recto dans votre Extra Deck : vous pouvez bannir cette carte, et si vous le faites, le monstre gagne 700 ATK. Vous ne pouvez utiliser chaque effet de \"Colonel Tac-Tac Vitesseroid\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez bannir 1 carte \"Vitesseroid\" depuis votre Cimetière ; placez 1 Monstre Pendule \"Vitesseroid\" depuis votre Deck dans votre Zone Pendule, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres VENT exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Colonel Tac-Tac Vitesseroid\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Effet"
+  ]
+}

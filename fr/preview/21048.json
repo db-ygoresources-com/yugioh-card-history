@@ -1,0 +1,15 @@
+{
+  "id": 21048,
+  "type": "monster",
+  "name": "Minimalian",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez bannir 1 autre carte depuis votre main ; Invoquez Spécialement cette carte depuis votre main. Vous pouvez bannir 1 monstre de max. Niveau 4 face recto que vous contrôlez ; Invoquez Spécialement 1 monstre depuis votre Deck du même Type et Attribut d'origine que le monstre banni avait sur le Terrain, mais d'1 ou 2 Niveaux inférieurs à son Niveau d'origine. Vous ne pouvez utiliser chaque effet de \"Minimalian\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

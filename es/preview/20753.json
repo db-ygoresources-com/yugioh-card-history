@@ -1,0 +1,15 @@
+{
+  "id": 20753,
+  "type": "monster",
+  "name": "Espadachín de la Metalillama",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial con \"Metalmorph Max\" que fue activado Sacrificando un monstruo Guerrero de Nivel 5 o mayor. Puedes mostrar esta carta en tu mano; añade a tu mano 1 carta en tu Deck que mencione \"Metalmorph Max\", excepto \"Espadachín de la Metalillama\" y, si lo haces, baraja esta carta al Deck. Sólo puedes usar este efecto de \"Espadachín de la Metalillama\" una vez por turno. Cada vez que tu adversario activa una carta o efecto, esta carta gana 300 ATK e inflige 500 puntos de daño a tu adversario cuando esa carta/efecto se resuelva.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1600,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

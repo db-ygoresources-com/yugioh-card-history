@@ -1,0 +1,18 @@
+{
+  "id": 20745,
+  "type": "monster",
+  "name": "Velociroid TikiTaka del Coronel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta en el Campo es destruida en batalla o por el efecto de una carta: puedes Invocar de Modo Especial, desde tu mano, Deck o Cementerio, 1 \"Velociroid TikiTaka del Coronel\" como un Cantante. Durante el cálculo de daño, si tu monstruo \"Ala Transparente\" batalla, mientras esta carta está boca arriba en tu Deck Extra: puedes desterrar esta carta y, si lo haces, ese monstruo gana 700 ATK. Sólo puedes usar cada efecto de \"Velociroid TikiTaka del Coronel\" una vez por turno.",
+  "pendEffect": "Puedes desterrar 1 carta \"Velociroid\" en tu Cementerio; pon en tu Zona de Péndulo 1 Monstruo de Péndulo \"Velociroid\" en tu Deck, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos de VIENTO. Sólo puedes usar este efecto de \"Velociroid TikiTaka del Coronel\" una vez por turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Efecto"
+  ]
+}

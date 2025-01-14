@@ -1,0 +1,15 @@
+{
+  "id": 20761,
+  "type": "monster",
+  "name": "Draieck, Drache der finsteren Tiefe",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich 3 oder mehr Monster der Stufe 10 auf deiner Spielfeldseite, in deinem Friedhof und/oder unter deinen verbannten Karten befinden, solange sich diese Karte in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst die oberste Karte deines Decks auf den Friedhof legen; diese Karte erhält 500 ATK, dann, falls die auf den Friedhof gelegte Karte ein Monster war, füge deinem Gegner 1000 Schaden zu, andernfalls kannst du die neue oberste Karte deines Decks auf den Friedhof legen. Du kannst jeden Effekt von „Draieck, Drache der finsteren Tiefe“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 2100,
+  "def": 3100,
+  "properties": [
+    "Seeschlange",
+    "Effekt"
+  ]
+}

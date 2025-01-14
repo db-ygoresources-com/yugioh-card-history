@@ -1,0 +1,16 @@
+{
+  "id": 20775,
+  "type": "monster",
+  "name": "Bestia Gladiador Claudio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "5 monstruos \"Bestia Gladiador\"\nDebe ser primero Invocado de Modo Especial (desde tu Deck Extra) barajando al Deck/Deck Extra las cartas de arriba en tu Campo y/o Cementerio. Si es Invocado de esta forma: puedes realizar tu próxima Battle Phase dos veces. Una vez por turno, si tu adversario activa un efecto de monstruo (excepto durante el Damage Step): puedes activar el siguiente efecto dependiendo de quién sea el turno;\n●Tu turno: Invoca de Modo Especial 1 monstruo \"Bestia Gladiador\" desde tu Deck.\n●El turno de tu adversario: Invoca de Modo Especial 1 monstruo \"Bestia Gladiador\" de Nivel 11 o menor desde tu Deck Extra, ignorando sus condiciones de Invocación.",
+  "level": 12,
+  "atk": 3700,
+  "def": 2600,
+  "properties": [
+    "Bestia",
+    "Fusión",
+    "Efecto"
+  ]
+}

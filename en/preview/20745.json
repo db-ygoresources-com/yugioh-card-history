@@ -1,0 +1,18 @@
+{
+  "id": 20745,
+  "type": "monster",
+  "name": "Speedroid Colonel Clackers",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Speedroid Colonel Clackers\" as a Tuner from your hand, Deck, or GY. During damage calculation, if your \"Clear Wing\" monster battles, while this card is face-up in your Extra Deck: You can banish this card, and if you do, that monster gains 700 ATK. You can only use each effect of \"Speedroid Colonel Clackers\" once per turn.",
+  "pendEffect": "You can banish 1 \"Speedroid\" card from your GY; place 1 \"Speedroid\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Special Summon for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Colonel Clackers\" once per turn.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

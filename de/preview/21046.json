@@ -1,0 +1,16 @@
+{
+  "id": 21046,
+  "type": "monster",
+  "name": "Vulcarrion der verrottende Phönix",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du ein Zombie-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während deiner Main Phase: Du kannst diese Karte vom Spielfeld auf die Hand zurückgeben, dann kannst du 1 Zombie-Monster als Spezialbeschwörung von deiner Hand beschwören. Du kannst jeden Effekt von „Vulcarrion der verrottende Phönix“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20787,
+  "type": "monster",
+  "name": "Ritter des Uhrwerks",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Maschine-Nichtlink-Monster mit 1000 oder weniger Grund-ATK\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 offenen Permanenten Zauber, den du kontrollierst, auf den Friedhof legen; füge deiner Hand 1 „Uhrwerk-Ritter“ von deinem Deck hinzu. Du kannst 1 Maschine-Monster mit 1000 oder weniger ATK in deinem Friedhof wählen; biete 1 Maschine-Monster als Tribut an, außer dieser Karte, und falls du dies tust, beschwöre jenes als Ziel gewählte Monster als Spezialbeschwörung in die Verteidigungsposition. Du kannst jeden Effekt von „Ritter des Uhrwerks“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 1,
+  "linkArrows": [
+    "4"
+  ],
+  "atk": 500,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

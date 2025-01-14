@@ -1,0 +1,17 @@
+{
+  "id": 20777,
+  "type": "monster",
+  "name": "Planeur #2 Grande Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur VENT Machine + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez cibler 1 Monstre Synchro non-Syntoniseur VENT de max. Niveau 7 dans votre Cimetière ; Invoquez-le Spécialement. Si votre adversaire Invoque Spécialement un ou plusieurs monstres, et que vous contrôlez un monstre \"Aile Claire\" (sauf durant la Damage Step) : vous pouvez bannir cette carte depuis votre Cimetière ; augmentez le Niveau de tous les monstres contrôlés par votre adversaire de 5. Vous ne pouvez utiliser chaque effet de \"Planeur #2 Grande Vitesseroid\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1600,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

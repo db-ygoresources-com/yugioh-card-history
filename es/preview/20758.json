@@ -1,0 +1,16 @@
+{
+  "id": 20758,
+  "type": "monster",
+  "name": "Cristron Tristaros",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Cristron\", excepto \"Cristron Tristaros\", e inmediatamente después de que se resuelva este efecto, Invoca por Sincronía 1 Monstruo de Sincronía Máquina usando monstruos que controles, incluyendo ese monstruo. Puedes desterrar esta carta en tu Cementerio; destruye 1 Monstruo de Sincronía que controles y, si lo haces, Invoca de Modo Especial, desde tu Deck, 2 monstruos \"Cristron\", y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Máquina. Sólo puedes usar cada efecto de \"Cristron Tristaros\" una vez por turno.",
+  "level": 2,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

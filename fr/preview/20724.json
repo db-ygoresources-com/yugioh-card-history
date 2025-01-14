@@ -1,0 +1,15 @@
+{
+  "id": 20724,
+  "type": "monster",
+  "name": "Ween, l'Esprit des Friandises",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez activer cet effet ; si vous contrôlez toujours cette carte face recto, votre adversaire choisit 1 de ces effets pour vous à appliquer.\n●Cette carte gagne 800 ATK pour chaque monstre Zombie actuellement dans votre Cimetière.\n●Infligez 500 points de dommages à votre adversaire pour chaque monstre Zombie dans votre Cimetière.\nSi cette carte est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre depuis le Cimetière de votre adversaire sur votre Terrain.\nVous ne pouvez utiliser chaque effet de \"Ween, l'Esprit des Friandises\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

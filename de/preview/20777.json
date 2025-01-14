@@ -1,0 +1,17 @@
+{
+  "id": 20777,
+  "type": "monster",
+  "name": "Hochgeschwindigkeitsroid Gleiter Nr. 2",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 WIND Maschine-Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 WIND Nicht-Empfänger-Synchromonster der Stufe 7 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Falls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört und du ein „Glasflügel“-Monster kontrollierst (außer während des Damage Steps): Du kannst diese Karte von deinem Friedhof verbannen; erhöhe die Stufen aller Monster, die dein Gegner kontrolliert, um 5. Du kannst jeden Effekt von „Hochgeschwindigkeitsroid Gleiter Nr. 2“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1600,
+  "def": 2200,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

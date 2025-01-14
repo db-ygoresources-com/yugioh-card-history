@@ -1,0 +1,18 @@
+{
+  "id": 20767,
+  "type": "monster",
+  "name": "Tempura des Schicksals - EBI",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Wir waren bei EDO-FRONT, was derzeit in aller Munde ist. Das Tempura ist hier nicht nur groß, sondern auch so schön geformt, dass es sich die Bezeichnung „Goldenes Tempura“ verdient hat. Hier im Hafen gibt es die modernsten Anlagen und die Atmosphäre anderer Kulturen liegt in der Luft. Gleichzeitig aber auch ein sanftes, nostalgisches Aroma und gelegentliche knisternde Geräusche heben die Stimmung. Wir haben uns das ganze Jahr auf diese Kreuzfahrt gefreut, aber ich denke, 3 Sterne ist genau die richtige Bewertung.",
+  "pendEffect": "Du kannst 1 Karte in deiner Pendelzone wählen; wirf eine Münze.\n●Kopf: Beschwöre sie als Spezialbeschwörung.\n●Zahl: Zerstöre sie, aber du verlierst LP in Höhe ihres Pendelbereichs x 300.\nDu kannst diesen Effekt von „Tempura des Schicksals - EBI“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1600,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Pendel",
+    "Normal"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20767,
+  "type": "monster",
+  "name": "Tempura de la Fortuna - EBI",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Fuimos a EDO-FRONT, que ha sido la comidilla de la ciudad. La escala de la tempura aquí no solo es grande, sino también tan bellamente formada que se ha ganado el apodo de \"Tempura dorada\". Las instalaciones de última generación y la atmósfera de otras culturas están en el puerto, pero también hay un aroma suave y nostálgico en el ambiente, y el crujido ocasional de los sonidos crepitantes te levantará el ánimo. Hemos estado esperando este crucero durante un año, pero creo que 3 estrellas es lo correcto.",
+  "pendEffect": "Puedes seleccionar 1 carta en tu Zona de Péndulo; lanza una moneda.\n●Cara: Invócala de Modo Especial.\n●Cruz: Destrúyela, pero pierdes LP iguales a su Escala de Péndulo x 300.\nSólo puedes usar este efecto de \"Tempura de la Fortuna - EBI\" una vez por turno.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1600,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Péndulo",
+    "Normal"
+  ]
+}

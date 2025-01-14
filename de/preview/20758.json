@@ -1,0 +1,16 @@
+{
+  "id": 20758,
+  "type": "monster",
+  "name": "Kristron Tristaros",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 „Kristron“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Kristron Tristaros“, dann, sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Maschine-Synchromonster als Synchrobeschwörung und verwende dafür Monster, die du kontrollierst, darunter jenes Monster. Du kannst diese Karte von deinem Friedhof verbannen; zerstöre 1 Synchromonster, das du kontrollierst, und falls du dies tust, beschwöre 2 „Kristron“-Monster als Spezialbeschwörung von deinem Deck, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Maschine-Monstern. Du kannst jeden Effekt von „Kristron Tristaros“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

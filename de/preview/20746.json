@@ -1,0 +1,19 @@
+{
+  "id": 20746,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Flügelsynchron",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte deinem Extra Deck offen hinzugefügt wird und du 2 oder mehr unterschiedliche Typen von WIND Synchromonstern kontrollierst: Du kannst 1 „Geschwindigkeitsroid“-Zauber/Falle von deinem Deck auf den Friedhof legen. Du kannst diesen Effekt von „Geschwindigkeitsroid Flügelsynchron“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst diese Karte und 1 WIND Pendelmonsterkarte der Stufe 2 in deiner Pendelzone zerstören und falls du dies tust, beschwöre 1 „Glasflügel-Synchrodrache“ als Spezialbeschwörung von deinem Extra Deck (dies wird als Synchrobeschwörung behandelt), zusätzlich können für den Rest dieses Spielzugs Karten in deinen Pendelzonen nicht durch Karteneffekte zerstört werden und du kannst keine Spezialbeschwörungen durchführen, außer von WIND Monstern.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Empfänger",
+    "Effekt"
+  ]
+}

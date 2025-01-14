@@ -1,0 +1,19 @@
+{
+  "id": 20746,
+  "type": "monster",
+  "name": "Velociroid Sincrón Ala",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta es añadida a tu Deck Extra boca arriba y controlas 2 o más Tipos diferentes de Monstruos de Sincronía de VIENTO: puedes mandar al Cementerio 1 Mágica/Trampa \"Velociroid\" en tu Deck. Sólo puedes usar este efecto de \"Velociroid Sincrón Ala\" una vez por turno.",
+  "pendEffect": "Una vez por turno: puedes destruir esta carta y 1 Carta de Monstruo de Péndulo de VIENTO de Nivel 2 en tu Zona de Péndulo y, si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 \"Dragón Sincro Ala Transparente\" (esto se trata como una Invocación por Sincronía) y además, por el resto de este turno, las cartas en tus Zonas de Péndulo no pueden ser destruidas por efectos de cartas, y no puedes Invocar de Modo Especial, excepto monstruos de VIENTO.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Cantante",
+    "Efecto"
+  ]
+}

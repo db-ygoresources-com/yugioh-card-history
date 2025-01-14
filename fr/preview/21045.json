@@ -1,0 +1,15 @@
+{
+  "id": 21045,
+  "type": "monster",
+  "name": "Nécromancien des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 Monstre Rituel Démon ou Zombie depuis votre main ou Deck au Cimetière, puis vous pouvez ajouter 1 Magie Rituelle depuis votre Deck à votre main. Si cette carte est bannie : vous pouvez cibler 1 de vos monstres Démon ou Zombie de max. Niveau 4 bannis ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Nécromancien des Ténèbres\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1400,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

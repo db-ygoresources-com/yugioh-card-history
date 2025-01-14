@@ -1,0 +1,16 @@
+{
+  "id": 20818,
+  "type": "monster",
+  "name": "Paladine der Versprechen und der Einheit",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster mit 2500 Grund-ATK & -DEF\nSolange diese als Synchrobeschwörung beschworene Karte in deiner Monsterzone liegt, kann dein Gegner sie nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden. Solange du 25 oder mehr Karten in deinem Friedhof hast, erhält diese als Synchrobeschwörung beschworene Karte für jede Karte auf dem Spielfeld und in den Friedhöfen 100 ATK/DEF. Einmal pro Spielzug, wenn eine Zauberkarte aktiviert wird, solange dein Gegner 25 oder mehr Karten in seinem Friedhof hat (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre jene Karte.",
+  "level": 12,
+  "atk": 2900,
+  "def": 2900,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20745,
+  "type": "monster",
+  "name": "Velociroid Colonnello Clackers",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente 1 \"Velociroid Colonnello Clackers\" come un Tuner dalla tua mano, Deck o Cimitero. Durante il calcolo dei danni, se un tuo mostro \"Ala Chiara\" combatte, mentre questa carta è scoperta nel tuo Extra Deck: puoi bandire questa carta e, se lo fai, quel mostro guadagna 700 ATK. Puoi utilizzare ogni effetto di \"Velociroid Colonnello Clackers\" una sola volta per turno.",
+  "pendEffect": "Puoi bandire 1 carta \"Velociroid\" dal tuo Cimitero; metti 1 Mostro Pendulum \"Velociroid\" dal tuo Deck nella tua Zona Pendulum, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto mostri VENTO. Puoi utilizzare questo effetto di \"Velociroid Colonnello Clackers\" una sola volta per turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

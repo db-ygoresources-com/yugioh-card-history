@@ -1,0 +1,19 @@
+{
+  "id": 20746,
+  "type": "monster",
+  "name": "Velociroid Ala Synchron",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se questa carta viene aggiunta al tuo Extra Deck scoperta, e tu controlli 2 o più Tipi diversi di Mostri Synchro VENTO: puoi mandare 1 Magia/Trappola \"Velociroid\" dal tuo Deck al Cimitero. Puoi utilizzare questo effetto di \"Velociroid Ala Synchron\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno: puoi distruggere questa carta e 1 Carta Mostro Pendulum VENTO di Livello 2 nella tua Zona Pendulum e, se lo fai, Evoca Specialmente 1 \"Drago Synchro Ala Chiara\" dal tuo Extra Deck (questa viene considerata come una Synchro Evocazione), inoltre per il resto di questo turno, le carte nelle tue Zone Pendulum non possono essere distrutte dagli effetti delle carte, e tu non puoi Evocare Specialmente, eccetto mostri VENTO.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Tuner",
+    "Effetto"
+  ]
+}

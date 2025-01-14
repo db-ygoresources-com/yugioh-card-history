@@ -1,0 +1,15 @@
+{
+  "id": 20752,
+  "type": "monster",
+  "name": "Wasserjet-Hai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein WASSER Xyz-Monster auf dem Spielfeld liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, aber du kannst für den Rest dieses Spielzugs „Wasserjet-Hai“ nicht als Spezialbeschwörung beschwören. Du kannst nur 1 der folgenden Effekte von „Wasserjet-Hai“ pro Spielzug verwenden und in jenem Spielzug nur einmal. Während deiner Main Phase: Du kannst 1 „Hai“-Fisch-Monster oder 1 „Xyz“-Zauber/Falle von deinem Deck auf den Friedhof legen. Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Aqua-Jet“-Karte von deinem Deck oder Friedhof hinzu.",
+  "level": 4,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

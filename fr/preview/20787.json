@@ -1,0 +1,18 @@
+{
+  "id": 20787,
+  "type": "monster",
+  "name": "Chevalier des Machines",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre non-Lien Machine avec max. 1000 ATK d'origine\nSi cette carte est Invoquée par Lien : vous pouvez envoyer 1 Magie Continue face recto que vous contrôlez au Cimetière ; ajoutez 1 \"Nuit des Machines\" depuis votre Deck à votre main. Vous pouvez cibler 1 monstre Machine avec max. 1000 ATK dans votre Cimetière ; Sacrifiez 1 monstre Machine (cette carte exclue), et si vous le faites, Invoquez Spécialement le monstre ciblé en Position de Défense. Vous ne pouvez utiliser chaque effet de \"Chevalier des Machines\" qu'une fois par tour.",
+  "linkRating": 1,
+  "linkArrows": [
+    "4"
+  ],
+  "atk": 500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

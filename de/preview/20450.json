@@ -1,0 +1,15 @@
+{
+  "id": 20450,
+  "type": "monster",
+  "name": "Otonari-Donner",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du 2 oder mehr Donner-Monster kontrollierst und sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst 1 Xyz-Monster wählen, das du kontrollierst; hänge 2 LICHT Donner-Monster der Stufe 4 von deiner Hand, offen von deiner Spielfeldseite und/oder von deinem Friedhof als Material daran an, darunter diese Karte, die du kontrollierst. Du kannst jeden Effekt von „Otonari-Donner“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 500,
+  "def": 1200,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

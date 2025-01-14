@@ -1,0 +1,15 @@
+{
+  "id": 20724,
+  "type": "monster",
+  "name": "Ween, der Geist des Süßen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; falls du diese offene Karte immer noch kontrollierst, bestimmt dein Gegner 1 dieser Effekte, den du ausführst.\n●Diese Karte erhält für jedes Zombie-Monster, das sich derzeit in deinem Friedhof befindet, 800 ATK.\n●Füge deinem Gegner für jedes Zombie-Monster in deinem Friedhof 500 Schaden zu.\nFalls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 Monster als Spezialbeschwörung vom Friedhof deines Gegners auf deine Spielfeldseite beschwören.\nDu kannst jeden Effekt von „Ween, der Geist des Süßen“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

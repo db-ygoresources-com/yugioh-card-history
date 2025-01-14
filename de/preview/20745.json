@@ -1,0 +1,18 @@
+{
+  "id": 20745,
+  "type": "monster",
+  "name": "Geschwindigkeitsroid Oberst Klick-Klack-Kugeln",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Geschwindigkeitsroid Oberst Klick-Klack-Kugeln“ als Spezialbeschwörung als Empfänger von deiner Hand, deinem Deck oder deinem Friedhof beschwören. Während der Schadensberechnung, falls dein „Glasflügel“-Monster kämpft, solange sich diese Karte offen in deinem Extra Deck befindet: Du kannst diese Karte verbannen und falls du dies tust, erhält jenes Monster 700 ATK. Du kannst jeden Effekt von „Geschwindigkeitsroid Oberst Klick-Klack-Kugeln“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 „Geschwindigkeitsroid“-Karte von deinem Friedhof verbannen; lege 1 „Geschwindigkeitsroid“-Pendelmonster von deinem Deck in deine Pendelzone, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von WIND Monstern. Du kannst diesen Effekt von „Geschwindigkeitsroid Oberst Klick-Klack-Kugeln“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

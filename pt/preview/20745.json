@@ -1,0 +1,18 @@
+{
+  "id": 20745,
+  "type": "monster",
+  "name": "Velocidaroide Coronel Bate-Bate",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Se este card no campo for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 \"Velocidaroide Coronel Bate-Bate\" como um Regulador da sua mão, do Deck ou do Cemitério. Durante o cálculo de dano, se um monstro \"Asas Transparentes\" seu batalhar, enquanto este card estiver com a face para cima no seu Deck Adicional: você pode banir este card e, se isso acontecer, esse monstro ganha 700 de ATK. Você só pode usar cada efeito de \"Velocidaroide Coronel Bate-Bate\" uma vez por turno.",
+  "pendEffect": "Você pode banir 1 card \"Velocidaroide\" do seu Cemitério; coloque 1 Monstro Pêndulo \"Velocidaroide\" do seu Deck na sua Zona de Pêndulo e, além disso, você não pode Invocar por Invocação-Especial pelo resto deste turno, exceto monstros de VENTO. Você só pode usar este efeito de \"Velocidaroide Coronel Bate-Bate\" uma vez por turno.",
+  "pendScale": 8,
+  "level": 2,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

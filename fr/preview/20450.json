@@ -1,0 +1,15 @@
+{
+  "id": 20450,
+  "type": "monster",
+  "name": "Voisintonerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous contrôlez min. 2 monstres Tonnerre et que cette carte est dans votre main ou Cimetière : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous pouvez cibler 1 Monstre Xyz que vous contrôlez ; attachez-lui 2 monstres LUMIÈRE Tonnerre de Niveau 4 (cette carte que vous contrôlez incluse) depuis votre main, Terrain face recto et/ou Cimetière comme Matériel. Vous ne pouvez utiliser chaque effet de \"Voisintonerre\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 500,
+  "def": 1200,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

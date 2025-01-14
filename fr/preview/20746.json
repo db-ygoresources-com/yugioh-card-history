@@ -1,0 +1,19 @@
+{
+  "id": 20746,
+  "type": "monster",
+  "name": "Aile Synchronique Vitesseroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est ajoutée face recto à votre Extra Deck, et que vous contrôlez min. 2 Types différents de Monstres Synchro VENT : vous pouvez envoyer 1 Magie/Piège \"Vitesseroid\" depuis votre Deck au Cimetière. Vous ne pouvez utiliser cet effet de \"Aile Synchronique Vitesseroid\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour : vous pouvez détruire cette carte et 1 Carte Monstre Pendule VENT de Niveau 2 dans votre Zone Pendule, et si vous le faites, Invoquez Spécialement 1 \"Dragon Synchro de l'Aile Claire\" depuis votre Extra Deck (ceci est traité comme Invocation Synchro), et aussi, le reste de ce tour, les cartes dans vos Zones Pendule ne peuvent pas être détruites par des effets de carte, et vous ne pouvez pas Invoquer Spécialement (monstres VENT exclus).",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

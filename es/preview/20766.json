@@ -1,0 +1,15 @@
+{
+  "id": 20766,
+  "type": "monster",
+  "name": "Diosa de las Dos Caras",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo en tu Deck que tenga un efecto de lanzar una moneda, excepto \"Diosa de las Dos Caras\". Durante tu Main Phase: puedes lanzar una moneda y elegir Cara o Cruz. Si aciertas, duplica el ATK de todos los monstruos que controlas en este momento hasta el final de este turno. Si fallas, manda al Cementerio tantos monstruos que controlas como sea posible (mín. 1) y, si lo haces, roba 1 carta. Sólo puedes usar cada efecto de \"Diosa de las Dos Caras\" una vez por turno.",
+  "level": 3,
+  "atk": 950,
+  "def": 700,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

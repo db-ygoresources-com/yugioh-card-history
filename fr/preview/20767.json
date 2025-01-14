@@ -1,0 +1,18 @@
+{
+  "id": 20767,
+  "type": "monster",
+  "name": "Tempura de la Fortune - EBI",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Nous sommes allés à EDO-FRONT, centre de toutes les attentions en ville. Le tempura là-bas est non seulement gigantesque, mais aussi tellement élégant qu'il a gagné le surnom de \"Tempura d'or\". L'équipement ultramoderne et l'atmosphère multiculturelle sont omniprésents dans le port, où un arôme doux et nostalgique flotte dans l'air. Les bruits de crépitement occasionnels vous remonteront le moral. Ça fait plus d'un an que nous voulions y aller, mais je pense qu'il ne mérite que 3 étoiles.",
+  "pendEffect": "Vous pouvez cibler 1 carte dans votre Zone Pendule ; lancez une pièce.\n●Face : Invoquez-la Spécialement.\n●Pile : Détruisez-la, mais perdez des LP égaux à son Échelle Pendule x 300.\nVous ne pouvez utiliser cet effet de \"Tempura de la Fortune - EBI\" qu'une fois par tour.",
+  "pendScale": 8,
+  "level": 3,
+  "atk": 1600,
+  "def": 0,
+  "properties": [
+    "Aqua",
+    "Pendule",
+    "Normal"
+  ]
+}

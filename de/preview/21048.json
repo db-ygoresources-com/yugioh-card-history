@@ -1,0 +1,15 @@
+{
+  "id": 21048,
+  "type": "monster",
+  "name": "Minimalian",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 andere Karte von deiner Hand verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst 1 offenes Monster der Stufe 4 oder niedriger verbannen, das du kontrollierst; beschwöre 1 Monster mit demselben Grund-Typ und derselben Grund-Eigenschaft, die das verbannte Monster auf dem Spielfeld hatte, aber 1 oder 2 Stufen niedriger als seine Grund-Stufe, als Spezialbeschwörung von deinem Deck. Du kannst jeden Effekt von „Minimalian“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

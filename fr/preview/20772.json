@@ -1,0 +1,16 @@
+{
+  "id": 20772,
+  "type": "monster",
+  "name": "Dragon Maudit de l'Œil de Serpent",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "1 monstre \"Œil de Serpent\" + 1 monstre Illusion\nUniquement soit Invocable par Fusion soit Invocable Spécialement en envoyant 2 Cartes Monstre face recto depuis votre Zone Magie & Piège au Cimetière. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre face recto sur le Terrain ; placez-le face recto dans la Zone Magie & Piège de son propriétaire comme Magie Continue. Vous ne pouvez utiliser cet effet de \"Dragon Maudit de l'Œil de Serpent\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

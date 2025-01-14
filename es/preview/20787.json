@@ -1,0 +1,18 @@
+{
+  "id": 20787,
+  "type": "monster",
+  "name": "Caballero Mecánico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo Máquina que no sea de Enlace con 1000 ATK original o menos\nSi esta carta es Invocada por Enlace: puedes mandar al Cementerio 1 Mágica Continua boca arriba que controles; añade a tu mano 1 \"Noche Mecánica\" en tu Deck. Puedes seleccionar 1 monstruo Máquina con 1000 ATK o menos en tu Cementerio; Sacrifica 1 monstruo Máquina, excepto esta carta y, si lo haces, Invoca de Modo Especial ese monstruo seleccionado en Posición de Defensa. Sólo puedes usar cada efecto de \"Caballero Mecánico\" una vez por turno.",
+  "linkRating": 1,
+  "linkArrows": [
+    "4"
+  ],
+  "atk": 500,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}
