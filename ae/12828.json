@@ -1,0 +1,19 @@
+{
+  "id": 12828,
+  "type": "monster",
+  "name": "Clear Wing Fast Dragon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Tuner + 1+ non-Tuner WIND monsters\n(Quick Effect): You can target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; until the end of this turn, change its ATK to 0, also negate that face-up monster's effects. You can only use this effect of \"Clear Wing Fast Dragon\" once per turn. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+  "pendEffect": "You can send 1 face-up \"Speedroid\" Tuner and 1 face-up non-Tuner monster you control to the GY, whose total Levels equal 7; Special Summon this card from your Pendulum Zone. You can only use this effect of \"Clear Wing Fast Dragon\" once per turn.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Pendulum",
+    "Effect"
+  ]
+}
