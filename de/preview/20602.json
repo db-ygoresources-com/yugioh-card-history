@@ -1,0 +1,16 @@
+{
+  "id": 20602,
+  "type": "monster",
+  "name": "Maid des Weißen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; lege 1 „Wahres Licht“ von deiner Hand, deinem Deck oder deinem Friedhof offen in deine Zauber- & Fallenzone. Falls du „Blauäugiger w. Drache“ als Spezialbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte auf dem Spielfeld als Ziel wählt, oder wenn diese Karte als Ziel für einen Angriff gewählt wird (Schnelleffekt): Du kannst 1 „Blauäugiger w. Drache“ oder 1 LICHT Empfänger der Stufe 1 als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Maid des Weißen“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20609,
+  "type": "monster",
+  "name": "Esprit avec des Yeux de Bleu",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre Dragon ou Magicien de max. Niveau 4\nVous ne pouvez pas Invoquer Spécialement (monstres Dragon exclus). Vous ne pouvez utiliser chacun des effets suivants de \"Esprit avec des Yeux de Bleu\" qu'une fois par tour. Si cette carte est Invoquée par Lien : vous pouvez prendre 1 \"Mausolée Blanc\" depuis votre Deck, et soit ajoutez-le à votre main soit envoyez-le au Cimetière. Vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 monstre \"Yeux Bleus\" depuis votre main ou Cimetière, mais si vous avez Invoqué Spécialement un Monstre à Effet depuis votre Cimetière par cet effet, il ne peut pas attaquer et ses effets sont annulés.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 300,
+  "properties": [
+    "Dragon",
+    "Lien",
+    "Effet"
+  ]
+}

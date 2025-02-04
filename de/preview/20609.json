@@ -1,0 +1,18 @@
+{
+  "id": 20609,
+  "type": "monster",
+  "name": "Geist mit den blauen Augen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Drache- oder Hexer-Monster der Stufe 4 oder niedriger\nDu kannst keine Spezialbeschwörungen durchführen, außer von Drache-Monstern. Du kannst jeden der folgenden Effekte von „Geist mit den blauen Augen“ nur einmal pro Spielzug verwenden. Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Mausoleum des Weißen“ von deinem Deck nehmen und es entweder deiner Hand hinzufügen oder auf den Friedhof legen. Du kannst diese Karte als Tribut anbieten; beschwöre 1 „Blauäugig“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof, aber falls du durch diesen Effekt ein Effektmonster als Spezialbeschwörung von deinem Friedhof beschworen hast, kann es nicht angreifen und seine Effekte werden annulliert.",
+  "linkRating": 1,
+  "linkArrows": [
+    "1"
+  ],
+  "atk": 300,
+  "properties": [
+    "Drache",
+    "Link",
+    "Effekt"
+  ]
+}
