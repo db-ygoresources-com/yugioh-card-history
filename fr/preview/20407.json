@@ -1,0 +1,18 @@
+{
+  "id": 20407,
+  "type": "monster",
+  "name": "Égouttoir de Vent Mageartiste",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si votre adversaire contrôle un monstre, ou qu'un monstre \"Mageartiste\" est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main, mais tant qu'elle est face recto dans la Zone Monstre, vous ne pouvez pas Invoquer Spécialement (monstres \"Mageartiste\" exclus). Vous ne pouvez utiliser cet effet de \"Égouttoir de Vent Mageartiste\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : vous pouvez réduire son Niveau de 1. Une fois par tour : vous pouvez changer le Niveau de tous les monstres \"Mageartiste\" de Niveau 4 que vous contrôlez en Niveau 5.",
+  "pendEffect": "Une fois par tour : vous pouvez cibler 1 Monstre Pendule \"Mageartiste\" que vous contrôlez, puis activez 1 de ces effets ;\n●Réduisez son Niveau de 1.\n●Augmentez l'Échelle Pendule de cette carte de celle du monstre.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 0,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

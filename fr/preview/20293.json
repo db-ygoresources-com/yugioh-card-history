@@ -1,0 +1,16 @@
+{
+  "id": 20293,
+  "type": "monster",
+  "name": "Battematite du Groupe Farstar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres \"Farstar\"\nLes Monstres Lien \"Farstar\" que vous contrôlez qui pointent cette carte gagnent 1000 ATK. Vous ne pouvez utiliser chacun des effets suivants de \"Battematite du Groupe Farstar\" qu'une fois par tour. Si cette carte est Invoquée par Fusion : vous pouvez ajouter 1 carte \"Farstar\" depuis votre Deck à votre main, de nom différent des cartes que vous contrôlez et dans votre Cimetière. Si des dommages d'effet sont infligés (sauf durant la Damage Step) : vous pouvez cibler 1 monstre face recto sur le Terrain ; son ATK devient 0.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Effet"
+  ]
+}

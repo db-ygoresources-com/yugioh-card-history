@@ -1,0 +1,19 @@
+{
+  "id": 20295,
+  "type": "monster",
+  "name": "Trickstar Edelengel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 „Trickstar“-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst deiner Hand 1 „Blauen Tränen“-Karte von deinem Deck hinzufügen. Falls du ein Fusionsmonster auf deiner Spielfeldseite oder in deinem Friedhof hast: Du kannst 1 „Trickstar“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Falls Effektschaden zugefügt wird (außer während des Damage Steps): Du kannst 1 offene Karte auf dem Spielfeld wählen; zerstöre sie. Du kannst jeden Effekt von „Trickstar Edelengel“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

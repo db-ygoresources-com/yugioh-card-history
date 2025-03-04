@@ -1,0 +1,18 @@
+{
+  "id": 20406,
+  "type": "monster",
+  "name": "Künstlerzauberer Wassertänzerin",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls diese Karte als Pendelbeschwörung beschworen wird: Du kannst deiner Hand 1 „Polymerisation“ von deinem Deck oder Friedhof hinzufügen. Du kannst diesen Effekt von „Künstlerzauberer Wassertänzerin“ nur einmal pro Spielzug verwenden. Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 Monster in Angriffsposition auf dem Spielfeld wählen; ändere es in die Verteidigungsposition.",
+  "pendEffect": "Falls du ein „Künstlerzauberer“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören. Wenn ein Monster einen Angriff deklariert: Du kannst 1 Monster in Angriffsposition auf dem Spielfeld wählen; ändere es in die Verteidigungsposition. Du kannst jeden Effekt von „Künstlerzauberer Wassertänzerin“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21039,
+  "type": "monster",
+  "name": "Bestia Escorpión Divina de Serket",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo \"Serket\" + 1 monstruo con 2500 ATK o menos\nSi esta carta es Invocada de Modo Especial, o al comienzo del Damage Step si esta carta batalla con un monstruo del adversario: puedes seleccionar 1 monstruo boca arriba que controle tu adversario o en su Cementerio; destiérralo y, si lo haces, esta carta gana ATK igual a la mitad del ATK original del monstruo desterrado. Sólo puedes usar este efecto de \"Bestia Escorpión Divina de Serket\" una vez por turno. Puede hacer un segundo ataque durante cada Battle Phase, mientras esté desterrado un monstruo de Nivel 10 o mayor.",
+  "level": 6,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Hada",
+    "Fusión",
+    "Efecto"
+  ]
+}

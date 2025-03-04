@@ -1,0 +1,15 @@
+{
+  "id": 20393,
+  "type": "monster",
+  "name": "Freies Phantom",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du bleibst von den Effekten von „Freie Welt“ unberührt. Du kannst 2 Karten abwerfen, darunter diese Karte; füge deiner Hand 2 Karten, die entweder „Freie Welt“ oder Zauber/Fallen sind, die sie erwähnen, von deinem Deck hinzu. Du kannst diesen Effekt von „Freies Phantom“ nur einmal pro Spielzug verwenden. Falls diese Karte zerstört wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es und falls du dies tust, lege die obersten 3 Karten seines Decks auf den Friedhof.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

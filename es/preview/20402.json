@@ -1,0 +1,15 @@
+{
+  "id": 20402,
+  "type": "monster",
+  "name": "Tiburón Cuchilla",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Cuando es activada una carta o efecto que selecciona 1 monstruo que controlas (y ninguna otra carta) o cuando un monstruo que controlas es seleccionado para un ataque, mientras esta carta está en tu mano o Cementerio (Efecto Rápido): puedes Sacrificar ese monstruo; Invoca esta carta de Modo Especial. Si esta carta es Invocada de Modo Especial: puedes activar este efecto; durante la End Phase de este turno, añade a tu mano 1 monstruo de AGUA en tu Cementerio, excepto \"Tiburón Cuchilla\". Sólo puedes usar cada efecto de \"Tiburón Cuchilla\" una vez por turno.",
+  "level": 5,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

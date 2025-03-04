@@ -1,0 +1,16 @@
+{
+  "id": 21038,
+  "type": "monster",
+  "name": "Apophis le Serpent Divin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres qui mentionnent \"Le Temple des Rois\"\nUniquement soit Invocable par Fusion soit Invocable Spécialement en Sacrifiant 2 monstres \"Apophis\". Une fois par tour : vous pouvez cibler max. 3 Pièges \"Apophis\" de noms différents dans votre Cimetière ; Posez-les. Une fois par tour, si une Carte Piège est activée (sauf durant la Damage Step) : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la.",
+  "level": 6,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Reptile",
+    "Fusion",
+    "Effet"
+  ]
+}

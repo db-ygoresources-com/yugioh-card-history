@@ -1,0 +1,16 @@
+{
+  "id": 20293,
+  "type": "monster",
+  "name": "Trickstar-Band Trommatis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 „Trickstar“-Monster\n„Trickstar“-Linkmonster, die du kontrollierst und die auf diese Karte zeigen, erhalten 1000 ATK. Du kannst jeden der folgenden Effekte von „Trickstar-Band Trommatis“ nur einmal pro Spielzug verwenden. Falls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst deiner Hand 1 „Trickstar“-Karte mit einem unterschiedlichen Namen als die Karten, die du kontrollierst und die sich in deinem Friedhof befinden, von deinem Deck hinzufügen. Falls Effektschaden zugefügt wird (außer während des Damage Steps): Du kannst 1 offenes Monster auf dem Spielfeld wählen; seine ATK werden zu 0.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

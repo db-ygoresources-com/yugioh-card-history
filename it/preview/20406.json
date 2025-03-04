@@ -1,0 +1,18 @@
+{
+  "id": 20406,
+  "type": "monster",
+  "name": "Artistamagus Danzatrice dell'Acqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se questa carta viene Evocata Pendulum: puoi aggiungere 1 \"Polimerizzazione\" dal tuo Deck o Cimitero alla tua mano. Puoi utilizzare questo effetto di \"Artistamagus Danzatrice dell'Acqua\" una sola volta per turno. Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro in Posizione di Attacco sul Terreno; mettilo in Posizione di Difesa.",
+  "pendEffect": "Se controlli un mostro \"Artistamagus\": puoi Evocare Specialmente questa carta. Quando un mostro dichiara un attacco: puoi scegliere come bersaglio 1 mostro in Posizione di Attacco sul Terreno; mettilo in Posizione di Difesa. Puoi utilizzare ogni effetto di \"Artistamagus Danzatrice dell'Acqua\" una sola volta per turno.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

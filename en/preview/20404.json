@@ -1,0 +1,16 @@
+{
+  "id": 20404,
+  "type": "monster",
+  "name": "Antidote Nurse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "2+ Level 3 monsters\n(Quick Effect): You can detach 1 material from this card, then target 1 monster on the field whose current ATK or DEF is different from its original value; its ATK/DEF become their original values, also if you targeted a monster on your field, it cannot be destroyed by battle or card effects this turn. Once per turn, if another monster(s) is Special Summoned to your field and this card has 3 or more materials (except during the Damage Step): You can make that monster(s) gain 900 ATK.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effect"
+  ]
+}

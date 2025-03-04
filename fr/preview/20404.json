@@ -1,0 +1,16 @@
+{
+  "id": 20404,
+  "type": "monster",
+  "name": "Infirmière Antidote",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres de Niveau 3\n(Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre sur le Terrain dont l'ATK ou DEF actuelles est différente de sa valeur d'origine ; son ATK/DEF deviennent ses valeurs d'origine, et aussi, si vous avez ciblé un monstre sur votre Terrain, il ne peut être détruit ni au combat ni par des effets de carte ce tour. Une fois par tour, si un ou plusieurs autres monstres sont Invoqués Spécialement sur votre Terrain et que cette carte a min. 3 Matériels (sauf durant la Damage Step) : vous pouvez faire gagner 900 ATK à ces monstres.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Machine",
+    "Xyz",
+    "Effet"
+  ]
+}

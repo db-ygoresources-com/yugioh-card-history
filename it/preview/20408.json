@@ -1,0 +1,18 @@
+{
+  "id": 20408,
+  "type": "monster",
+  "name": "Artistamagus Truccatore della Coppa",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta è nella tua mano: puoi scegliere come bersaglio 1 Mostro Xyz sul Terreno; stacca 1 materiale da esso e, se lo fai, Evoca Specialmente questa carta, poi fai perdere 600 ATK a 1 Mostro Xyz sul Terreno. Se questa carta viene staccata da un Mostro Xyz e mandata al Cimitero per attivare l'effetto di quel mostro: puoi scegliere come bersaglio 2 Mostri Xyz che controlli; attacca 1 materiale da 1 di quei mostri all'altro. Puoi utilizzare ogni effetto di \"Artistamagus Truccatore della Coppa\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 Mostro Xyz \"Artistamagus\" che controlli; attacca questa carta a esso come materiale. Se una o più carte vengono aggiunte al tuo Extra Deck (eccetto durante il Damage Step): puoi aggiungere 1 Mostro Pendulum \"Artistamagus\" scoperto dal tuo Extra Deck alla tua mano. Puoi utilizzare ogni effetto di \"Artistamagus Truccatore della Coppa\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

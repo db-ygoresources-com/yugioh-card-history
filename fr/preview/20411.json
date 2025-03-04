@@ -1,0 +1,16 @@
+{
+  "id": 20411,
+  "type": "monster",
+  "name": "Haut Magicien Trapèze Mageartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Magicien de Niveau 5\nNon destructible ni au combat ni par des effets de carte tant qu'elle a du Matériel. Votre adversaire reçoit les dommages d'effet que vous auriez dû recevoir, un nombre de fois chaque tour inférieur ou égal au nombre de Matériels attachés à cette carte. Si cette carte a \"Magicien Trapèze Mageartiste\" comme Matériel, elle gagne cet effet.\n●Vous pouvez détacher 1 Matériel de cette carte ; durant chaque Battle Phase ce tour, cette carte peut faire max. 3 attaques.",
+  "rank": 5,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Magicien",
+    "Xyz",
+    "Effet"
+  ]
+}

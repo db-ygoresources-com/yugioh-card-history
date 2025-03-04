@@ -1,0 +1,16 @@
+{
+  "id": 20404,
+  "type": "monster",
+  "name": "Gegenmittel-Schwester",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Monster der Stufe 3\n(Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und dann 1 Monster, dessen derzeitige ATK oder DEF nicht ihrem Grund-Wert entsprechen, auf dem Spielfeld wählen; seine ATK/DEF werden gleich seinen Grund-Werten, zusätzlich, falls du ein Monster auf deiner Spielfeldseite als Ziel gewählt hast, kann es in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden. Einmal pro Spielzug, falls ein oder mehr andere Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden und diese Karte 3 oder mehr Material hat (außer während des Damage Steps): Du kannst jene Monster 900 ATK erhalten lassen.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Maschine",
+    "Xyz",
+    "Effekt"
+  ]
+}

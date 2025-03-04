@@ -1,0 +1,19 @@
+{
+  "id": 20295,
+  "type": "monster",
+  "name": "Ange Noble Farstar",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres \"Farstar\"\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 carte \"Larmes Bleues\" depuis votre Deck à votre main. Si vous avez un Monstre Fusion dans votre Terrain ou Cimetière : vous pouvez cibler 1 monstre \"Farstar\" dans votre Cimetière ; Invoquez-le Spécialement. Si des dommages d'effet sont infligés (sauf durant la Damage Step) : vous pouvez cibler 1 carte face recto sur le Terrain ; détruisez-la. Vous ne pouvez utiliser chaque effet de \"Ange Noble Farstar\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Elfe",
+    "Lien",
+    "Effet"
+  ]
+}

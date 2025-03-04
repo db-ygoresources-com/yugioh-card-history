@@ -1,0 +1,18 @@
+{
+  "id": 20408,
+  "type": "monster",
+  "name": "Artilusionista Copa Engañoso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta está en tu mano: puedes seleccionar 1 Monstruo Xyz en el Campo; desacopla 1 material de él y, si lo haces, Invoca esta carta de Modo Especial, y después haz que 1 Monstruo Xyz en el Campo pierda 600 ATK. Si esta carta es desacoplada de un Monstruo Xyz y mandada al Cementerio para activar el efecto de ese monstruo: puedes seleccionar 2 Monstruos Xyz que controles; acopla 1 material de 1 de esos monstruos al otro. Sólo puedes usar cada efecto de \"Artilusionista Copa Engañoso\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar 1 Monstruo Xyz \"Artilusionista\" que controles; acóplale esta carta como material. Si una o más cartas son añadidas a tu Deck Extra (excepto durante el Damage Step): puedes añadir a tu mano 1 Monstruo de Péndulo \"Artilusionista\" boca arriba en tu Deck Extra. Sólo puedes usar cada efecto de \"Artilusionista Copa Engañoso\" una vez por turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20407,
+  "type": "monster",
+  "name": "Artilusionista Escurridor de Viento",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si tu adversario controla un monstruo, o un monstruo \"Artilusionista\" está en el Campo: puedes Invocar esta carta de Modo Especial desde tu mano, pero mientras esté boca arriba en la Zona de Monstruos no puedes Invocar de Modo Especial, excepto monstruos \"Artilusionista\". Sólo puedes usar este efecto de \"Artilusionista Escurridor de Viento\" una vez por turno. Si esta carta es Invocada de Modo Especial: puedes reducir su Nivel en 1. Una vez por turno: puedes cambiar los Niveles de todos los monstruos \"Artilusionista\" de Nivel 4 que controles a Nivel 5.",
+  "pendEffect": "Una vez por turno: puedes seleccionar 1 Monstruo de Péndulo \"Artilusionista\" que controles, y después activar 1 de estos efectos;\n●Reduce su Nivel en 1.\n●Aumenta la Escala de Péndulo de esta carta en la de ese monstruo.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 0,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

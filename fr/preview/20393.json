@@ -1,0 +1,15 @@
+{
+  "id": 20393,
+  "type": "monster",
+  "name": "Fantôme Transparent",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous n'êtes pas affecté par les effets de \"Monde Transparent\". Vous pouvez défausser 2 cartes (cette carte incluse) ; ajoutez 2 cartes depuis votre Deck à votre main, qui sont \"Monde Transparent\" ou des Magies/Pièges qui le mentionnent. Vous ne pouvez utiliser cet effet de \"Fantôme Transparent\" qu'une fois par tour. Si cette carte est détruite : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et si vous le faites, envoyez les 3 cartes du dessus de son Deck au Cimetière.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20408,
+  "type": "monster",
+  "name": "Performage Cup Tricker",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is in your hand: You can target 1 Xyz Monster on the field; detach 1 material from it, and if you do, Special Summon this card, then make 1 Xyz Monster on the field lose 600 ATK. If this card is detached from an Xyz Monster and sent to the GY to activate that monster's effect: You can target 2 Xyz Monsters you control; attach 1 material from 1 of those monsters to the other. You can only use each effect of \"Performage Cup Tricker\" once per turn.",
+  "pendEffect": "You can target 1 \"Performage\" Xyz Monster you control; attach this card to it as material. If a card(s) is added to your Extra Deck (except during the Damage Step): You can add 1 face-up \"Performage\" Pendulum Monster from your Extra Deck to your hand. You can only use each effect of \"Performage Cup Tricker\" once per turn.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

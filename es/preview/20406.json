@@ -1,0 +1,18 @@
+{
+  "id": 20406,
+  "type": "monster",
+  "name": "Artilusionista Bailarina de Agua",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta es Invocada por Péndulo: puedes añadir a tu mano 1 \"Polimerización\" en tu Deck o Cementerio. Sólo puedes usar este efecto de \"Artilusionista Bailarina de Agua\" una vez por turno. Si esta carta en el Campo es destruida en batalla o por el efecto de una carta: puedes seleccionar 1 monstruo en Posición de Ataque en el Campo; cámbialo a Posición de Defensa.",
+  "pendEffect": "Si controlas un monstruo \"Artilusionista\": puedes Invocar esta carta de Modo Especial. Cuando un monstruo declara un ataque: puedes seleccionar 1 monstruo en Posición de Ataque en el Campo; cámbialo a Posición de Defensa. Sólo puedes usar cada efecto de \"Artilusionista Bailarina de Agua\" una vez por turno.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

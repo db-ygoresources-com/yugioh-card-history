@@ -1,0 +1,16 @@
+{
+  "id": 20411,
+  "type": "monster",
+  "name": "Künstlerzauberer Trapezgroßmagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Hexer-Monster der Stufe 5\nDiese Karte kann weder durch Kampf noch durch Karteneffekte zerstört werden, solange sie Material hat. Dein Gegner erhält bis so viele Male in jedem Spielzug wie die Anzahl des Materials, das an diese Karte angehängt ist, Effektschaden, den du erhalten hättest. Falls diese Karte „Künstlerzauberer Trapezmagier“ als Material hat, erhält sie diesen Effekt.\n●Du kannst 1 Material von dieser Karte abhängen; diese Karte kann in diesem Spielzug während jeder Battle Phase bis zu 3 Angriffe durchführen.",
+  "rank": 5,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

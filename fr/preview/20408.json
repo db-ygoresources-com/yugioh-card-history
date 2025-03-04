@@ -1,0 +1,18 @@
+{
+  "id": 20408,
+  "type": "monster",
+  "name": "Trompeur à Tasse Mageartiste",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est dans votre main : vous pouvez cibler 1 Monstre Xyz sur le Terrain ; détachez-lui 1 Matériel, et si vous le faites, Invoquez Spécialement cette carte, puis faites perdre 600 ATK à 1 Monstre Xyz sur le Terrain. Si cette carte est détachée d'un Monstre Xyz et envoyée au Cimetière pour activer l'effet du monstre : vous pouvez cibler 2 Monstres Xyz que vous contrôlez ; attachez 1 Matériel d'1 de ces monstres à l'autre. Vous ne pouvez utiliser chaque effet de \"Trompeur à Tasse Mageartiste\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez cibler 1 Monstre Xyz \"Mageartiste\" que vous contrôlez ; attachez-lui cette carte comme Matériel. Si une ou plusieurs cartes sont ajoutées à votre Extra Deck (sauf durant la Damage Step) : vous pouvez ajouter 1 Monstre Pendule \"Mageartiste\" face recto depuis votre Extra Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Trompeur à Tasse Mageartiste\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

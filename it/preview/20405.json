@@ -1,0 +1,18 @@
+{
+  "id": 20405,
+  "type": "monster",
+  "name": "Artistamagus Danzatrice del Fuoco",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"Artistamagus\" dal tuo Deck alla tua mano, eccetto \"Artistamagus Danzatrice del Fuoco\". Puoi utilizzare questo effetto di \"Artistamagus Danzatrice del Fuoco\" una sola volta per turno. Se questa carta sul Terreno viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; esso perde 500 ATK.",
+  "pendEffect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro \"Artistamagus\" che controlli; se esso attacca un mostro in Posizione di Difesa in questo turno, infliggi danno da combattimento perforante al tuo avversario.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

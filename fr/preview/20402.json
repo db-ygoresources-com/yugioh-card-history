@@ -1,0 +1,15 @@
+{
+  "id": 20402,
+  "type": "monster",
+  "name": "Requin Cutter",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsqu'une carte ou un effet qui cible 1 monstre que vous contrôlez (et aucune autre carte) est activé ou lorsqu'un monstre que vous contrôlez est ciblé par une attaque, tant que cette carte est dans votre main ou Cimetière (Effet Rapide) : vous pouvez Sacrifier le monstre ; Invoquez Spécialement cette carte. Si cette carte est Invoquée Spécialement : vous pouvez activer cet effet ; durant la End Phase de ce tour, ajoutez 1 monstre EAU (\"Requin Cutter\" exclu) depuis votre Cimetière à votre main. Vous ne pouvez utiliser chaque effet de \"Requin Cutter\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

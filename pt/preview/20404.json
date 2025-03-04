@@ -1,0 +1,16 @@
+{
+  "id": 20404,
+  "type": "monster",
+  "name": "Vacinadora",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ monstros de Nível 3\n(Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 monstro no campo cujo ATK ou DEF atuais sejam diferentes do seu valor original; seu ATK/DEF se tornam seus valores originais e, além disso, se você escolheu um monstro no seu campo, ele não pode ser destruído em batalha ou por efeitos de card neste turno. Uma vez por turno, se um ou mais outros monstros forem Invocados por Invocação-Especial no seu campo e este card tiver 3 ou mais matérias (exceto durante a Etapa de Dano): você pode fazer com que esse(s) monstro(s) ganhe(m) 900 de ATK.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Xyz",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20402,
+  "type": "monster",
+  "name": "Schneidhai",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn eine Karte oder ein Effekt aktiviert wird, die oder der 1 Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt oder wenn ein Monster, das du kontrollierst, als Ziel für einen Angriff gewählt wird, solange sich diese Karte in deiner Hand oder deinem Friedhof befindet (Schnelleffekt): Du kannst jenes Monster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; füge deiner Hand während der End Phase dieses Spielzugs 1 WASSER Monster von deinem Friedhof hinzu, außer „Schneidhai“. Du kannst jeden Effekt von „Schneidhai“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

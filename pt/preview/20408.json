@@ -1,0 +1,18 @@
+{
+  "id": 20408,
+  "type": "monster",
+  "name": "Camaramágico Enganador dos Copos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card estiver na sua mão: você pode escolher 1 Monstro Xyz no campo; desassocie 1 matéria dele e, se isso acontecer, Invoque este card por Invocação-Especial e, depois, faça com que 1 Monstro Xyz no campo perca 600 de ATK. Se este card for desassociado de um Monstro Xyz e enviado para o Cemitério para ativar o efeito desse monstro: você pode escolher 2 Monstros Xyz que você controla; associe 1 matéria de 1 desses monstros ao outro. Você só pode usar cada efeito de \"Camaramágico Enganador dos Copos\" uma vez por turno.",
+  "pendEffect": "Você pode escolher 1 Monstro Xyz \"Camaramágico\" que você controla; associe este card a ele como matéria. Se um ou mais cards forem adicionados ao seu Deck Adicional (exceto durante a Etapa de Dano): você pode adicionar 1 Monstro Pêndulo \"Camaramágico\" com a face para cima do seu Deck Adicional à sua mão. Você só pode usar cada efeito de \"Camaramágico Enganador dos Copos\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

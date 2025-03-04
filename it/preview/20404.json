@@ -1,0 +1,16 @@
+{
+  "id": 20404,
+  "type": "monster",
+  "name": "Tempesta di Vaccino",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2+ mostri di Livello 3\n(Effetto Rapido): puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 mostro sul Terreno il cui ATK o DEF attuale è diverso dal suo valore originale; i suoi ATK/DEF diventano i loro valori originali, inoltre se hai scelto come bersaglio un mostro sul tuo Terreno, esso non può essere distrutto in battaglia o dagli effetti delle carte in questo turno. Una volta per turno, se uno o più altri mostri vengono Evocati Specialmente sul tuo Terreno e questa carta ha 3 o più materiali (eccetto durante il Damage Step): puoi far guadagnare 900 ATK a quei mostri.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Xyz",
+    "Effetto"
+  ]
+}

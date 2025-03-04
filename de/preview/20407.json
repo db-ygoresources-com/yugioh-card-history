@@ -1,0 +1,18 @@
+{
+  "id": 20407,
+  "type": "monster",
+  "name": "Künstlerzauberer Windsauger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls dein Gegner ein Monster kontrolliert oder sich ein „Künstlerzauberer“-Monster auf dem Spielfeld befindet: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, aber solange sie offen in der Monsterzone liegt, kannst du keine Spezialbeschwörungen durchführen, außer von „Künstlerzauberer“-Monstern. Du kannst diesen Effekt von „Künstlerzauberer Windsauger“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst ihre Stufe um 1 verringern. Einmal pro Spielzug: Du kannst die Stufen aller „Künstlerzauberer“-Monster der Stufe 4, die du kontrollierst, zu Stufe 5 ändern.",
+  "pendEffect": "Einmal pro Spielzug: Du kannst 1 „Künstlerzauberer“-Pendelmonster wählen, das du kontrollierst, und dann 1 dieser Effekte aktivieren;\n●Verringere seine Stufe um 1.\n●Erhöhe den Pendelbereich dieser Karte um den jenes Monsters.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 2100,
+  "def": 0,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

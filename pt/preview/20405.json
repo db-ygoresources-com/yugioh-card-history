@@ -1,0 +1,18 @@
+{
+  "id": 20405,
+  "type": "monster",
+  "name": "Camaramágico Dançarina de Fogo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 monstro \"Camaramágico\" do seu Deck à sua mão, exceto \"Camaramágico Dançarina de Fogo\". Você só pode usar este efeito de \"Camaramágico Dançarina de Fogo\" uma vez por turno. Se este card no campo for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro com a face para cima no campo; ele perde 500 de ATK.",
+  "pendEffect": "Uma vez por turno: você pode escolher 1 monstro \"Camaramágico\" que você controla; se ele atacar um monstro em Posição de Defesa neste turno, cause dano de batalha perfurante ao seu oponente.",
+  "pendScale": 6,
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

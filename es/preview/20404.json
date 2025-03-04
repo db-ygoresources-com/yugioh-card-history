@@ -1,0 +1,16 @@
+{
+  "id": 20404,
+  "type": "monster",
+  "name": "Enfermera con Vacuna",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2+ monstruos de Nivel 3\n(Efecto Rápido): puedes desacoplar 1 material de esta carta, y después selecciona 1 monstruo en el Campo cuyo ATK o DEF en este momento sea diferente a su valor original; su ATK/DEF se convierten en sus valores originales y además, si seleccionaste un monstruo en tu Campo, éste no puede ser destruido en batalla o por efectos de cartas este turno. Una vez por turno, si otro u otros monstruos son Invocados de Modo Especial a tu Campo y esta carta tiene 3 o más materiales (excepto durante el Damage Step): puedes hacer que ese o esos monstruos ganen 900 ATK.",
+  "rank": 3,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Máquina",
+    "Xyz",
+    "Efecto"
+  ]
+}

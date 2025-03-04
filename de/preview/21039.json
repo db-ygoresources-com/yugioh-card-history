@@ -1,0 +1,16 @@
+{
+  "id": 21039,
+  "type": "monster",
+  "name": "Himmlisches Skorpionungeheuer von Serket",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 „Serket“-Monster + 1 Monster mit 2500 oder weniger ATK\nFalls diese Karte als Spezialbeschwörung beschworen wird oder am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert oder das sich in seinem Friedhof befindet; verbanne es und falls du dies tust, erhält diese Karte ATK in Höhe der Hälfte der Grund-ATK des verbannten Monsters. Du kannst diesen Effekt von „Himmlisches Skorpionungeheuer von Serket“ nur einmal pro Spielzug verwenden. Kann während jeder Battle Phase einen zweiten Angriff durchführen, solange ein Monster der Stufe 10 oder höher verbannt ist.",
+  "level": 6,
+  "atk": 3000,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

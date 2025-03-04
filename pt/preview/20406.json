@@ -1,0 +1,18 @@
+{
+  "id": 20406,
+  "type": "monster",
+  "name": "Camaramágico Dançarina de Água",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Se este card for Invocado por Invocação-Pêndulo: você pode adicionar 1 \"Polimerização\" do seu Deck ou Cemitério à sua mão. Você só pode usar este efeito de \"Camaramágico Dançarina de Água\" uma vez por turno. Se este card no campo for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro em Posição de Ataque no campo; coloque-o em Posição de Defesa.",
+  "pendEffect": "Se você controlar um monstro \"Camaramágico\": você pode Invocar este card por Invocação-Especial. Quando um monstro declarar um ataque: você pode escolher 1 monstro em Posição de Ataque no campo; coloque-o em Posição de Defesa. Você só pode usar cada efeito de \"Camaramágico Dançarina de Água\" uma vez por turno.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

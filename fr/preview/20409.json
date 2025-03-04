@@ -1,0 +1,16 @@
+{
+  "id": 20409,
+  "type": "monster",
+  "name": "Sorcière Trapèze Mageartiste",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres \"Mageartiste\"\nLes monstres \"Mageartiste\" que vous contrôlez ne peuvent pas être détruits par vos effets de carte, et aussi, votre adversaire ne peut pas les cibler avec des effets de carte. Tant que vous contrôlez un monstre \"Mageartiste\" (\"Sorcière Trapèze Mageartiste\" exclu), les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Lorsqu'une attaque impliquant votre monstre \"Mageartiste\" et un monstre de l'adversaire est déclarée : vous pouvez faire perdre 600 ATK au monstre de l'adversaire.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

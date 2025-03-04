@@ -1,0 +1,18 @@
+{
+  "id": 20406,
+  "type": "monster",
+  "name": "Performage Water Dancer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "If this card is Pendulum Summoned: You can add 1 \"Polymerization\" from your Deck or GY to your hand. You can only use this effect of \"Performage Water Dancer\" once per turn. If this card on the field is destroyed by battle or card effect: You can target 1 Attack Position monster on the field; change it to Defense Position.",
+  "pendEffect": "If you control a \"Performage\" monster: You can Special Summon this card. When a monster declares an attack: You can target 1 Attack Position monster on the field; change it to Defense Position. You can only use each effect of \"Performage Water Dancer\" once per turn.",
+  "pendScale": 2,
+  "level": 4,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

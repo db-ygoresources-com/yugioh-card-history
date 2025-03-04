@@ -1,0 +1,18 @@
+{
+  "id": 20408,
+  "type": "monster",
+  "name": "Künstlerzauberer Bechertrickser",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 Xyz-Monster auf dem Spielfeld wählen; hänge 1 Material von ihm ab und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, dann lasse 1 Xyz-Monster auf dem Spielfeld 600 ATK verlieren. Falls diese Karte von einem Xyz-Monster abgehängt und auf den Friedhof gelegt wird, um den Effekt jenes Monsters zu aktivieren: Du kannst 2 Xyz-Monster wählen, die du kontrollierst; hänge 1 Material von 1 jener Monster an das andere an. Du kannst jeden Effekt von „Künstlerzauberer Bechertrickser“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 „Künstlerzauberer“-Xyz-Monster wählen, das du kontrollierst; hänge diese Karte als Material daran an. Falls eine oder mehr Karten deinem Extra Deck hinzugefügt werden (außer während des Damage Steps): Du kannst deiner Hand 1 offenes „Künstlerzauberer“-Pendelmonster von deinem Extra Deck hinzufügen. Du kannst jeden Effekt von „Künstlerzauberer Bechertrickser“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

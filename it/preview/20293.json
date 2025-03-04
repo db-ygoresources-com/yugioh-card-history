@@ -1,0 +1,16 @@
+{
+  "id": 20293,
+  "type": "monster",
+  "name": "Truccastella Drumatis Banda",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri \"Truccastella\"\nI Mostri Link \"Truccastella\" che controlli che puntano a questa carta guadagnano 1000 ATK. Puoi utilizzare ognuno dei seguenti effetti di \"Truccastella Drumatis Banda\" una sola volta per turno. Se questa carta viene Evocata tramite Fusione: puoi aggiungere dal tuo Deck alla tua mano 1 carta \"Truccastella\" con un nome diverso dalle carte che controlli e nel tuo Cimitero. Se viene inflitto danno da effetto (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; il suo ATK diventa 0.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Fata",
+    "Fusione",
+    "Effetto"
+  ]
+}
