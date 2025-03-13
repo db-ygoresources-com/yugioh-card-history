@@ -1,0 +1,15 @@
+{
+  "id": 21036,
+  "type": "monster",
+  "name": "Unbarmherziger Skorpion von Serket",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 Monster der Stufe 10 oder höher von deiner Hand oder deinem Deck verbannst, solange du „Tempel der Könige“ kontrollierst. Du kannst „Unbarmherziger Skorpion von Serket“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Einmal pro Spielzug, während deiner Main Phase: Du kannst deiner Hand 1 „Tempel der Könige“ oder 1 Zauber, der ihn erwähnt, von deinem Deck hinzufügen. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst jenes Monster des Gegners zerstören und falls du dies tust, erhält diese Karte ATK in Höhe der Hälfte der Grund-ATK des zerstörten Monsters.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

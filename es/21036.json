@@ -1,0 +1,15 @@
+{
+  "id": 21036,
+  "type": "monster",
+  "name": "Escorpión Despiadado de Serket",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de Nivel 10 o mayor en tu mano o Deck, mientras controlas \"Templo de los Reyes\". Sólo puedes Invocar de Modo Especial \"Escorpión Despiadado de Serket\" una vez por turno de esta forma. Una vez por turno, durante tu Main Phase: puedes añadir a tu mano 1 \"Templo de los Reyes\", o 1 Mágica que lo mencione, en tu Deck. Al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario: puedes destruir ese monstruo del adversario y, si lo haces, esta carta gana ATK igual a la mitad del ATK original del monstruo destruido.",
+  "level": 6,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}
