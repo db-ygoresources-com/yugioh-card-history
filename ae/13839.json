@@ -1,0 +1,18 @@
+{
+  "id": 13839,
+  "type": "monster",
+  "name": "Odd-Eyes Phantasma Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If you have 2 cards in your Pendulum Zones and a face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck: You can Special Summon this card from your hand. You cannot Pendulum Summon the turn you activate this effect. During damage calculation, if this card attacks an opponent's monster: You can make that opponent's monster lose 1000 ATK for each face-up Pendulum Monster in your Extra Deck, during damage calculation only. You can only use each effect of \"Odd-Eyes Phantasma Dragon\" once per turn.",
+  "pendEffect": "You can discard 1 card; add 1 face-up Dragon Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"Odd-Eyes Phantasma Dragon\" once per turn.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}

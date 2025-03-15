@@ -1,0 +1,19 @@
+{
+  "id": 20595,
+  "type": "monster",
+  "name": "Sosei Ryu-Ge Mistva",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Must be Special Summoned by its own effect. You can only Special Summon \"Sosei Ryu-Ge Mistva(s)\" once per turn. If a monster(s) on the field is destroyed by battle or card effect, while this card is in your Extra Deck: You can Tribute 1 Level 10 \"Ryu-Ge\" monster, and if you do, Special Summon this card (this is treated as a Ritual Summon), then you can apply this effect.\n●Destroy up to 2 cards you control, and if you do, place up to that many \"Ryu-Ge\" Continuous Spells from your Deck face-up on your field.",
+  "pendEffect": "During your Main Phase: You can add 1 non-Pendulum \"Ryu-Ge\" card from your Deck to your hand, then destroy this card. You can only use this effect of \"Sosei Ryu-Ge Mistva\" once per turn.",
+  "pendScale": 0,
+  "level": 10,
+  "atk": 3500,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Ritual",
+    "Pendulum",
+    "Effect"
+  ]
+}
