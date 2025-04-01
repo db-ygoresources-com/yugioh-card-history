@@ -1,0 +1,18 @@
+{
+  "id": 18665,
+  "type": "monster",
+  "name": "Moissa Knight, the Comet General",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "When you draw this card: You can reveal it; during your Main Phase this turn, you can conduct 1 Pendulum Summon of a monster(s) from your hand in addition to your Pendulum Summon. (You can only gain this effect once per turn.)",
+  "pendEffect": "If you Pendulum Summon a monster(s): Place this card on either the top or bottom of the Deck.",
+  "pendScale": 11,
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}
