@@ -1,0 +1,16 @@
+{
+  "id": 21345,
+  "type": "monster",
+  "name": "Sakra Vendirage",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "2 mostri di Livello 4\nPuoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 mostro Psichico di Livello/Rango 4 nel tuo Cimitero, eccetto \"Sakra Vendirage\"; Evocalo Specialmente. Se uno o più mostri vengono Evocati Specialmente, mentre questa carta è nella tua Zona Mostri (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 altro mostro scoperto sul Terreno; il nome di quel mostro diventa \"Sakra Vendirage\" fino alla End Phase. Puoi utilizzare ogni effetto di \"Sakra Vendirage\" una sola volta per turno.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psichico",
+    "Xyz",
+    "Effetto"
+  ]
+}

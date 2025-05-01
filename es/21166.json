@@ -1,0 +1,15 @@
+{
+  "id": 21166,
+  "type": "monster",
+  "name": "Espectro Moissa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "El nombre de esta carta se convierte en \"Sirviente de la Calavera\" mientras está en el Cementerio. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Sirviente de la Calavera\" o 1 carta que lo mencione en tu Deck, excepto \"Espectro Moissa\", y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Zombi. Sólo puedes usar este efecto de \"Espectro Moissa\" una vez por turno. Durante tu Main Phase, puedes Invocar de Modo Normal 1 monstruo Zombi de Nivel 4 o menor además de tu Invocación Normal/Colocación. (Sólo puedes ganar este efecto una vez por turno).",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

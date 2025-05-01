@@ -1,0 +1,15 @@
+{
+  "id": 21152,
+  "type": "monster",
+  "name": "Dragon de la Regenèse",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si un monstre avec 2500 ATK ou DEF d'origine est sur le Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Dragon de la Regenèse\" qu'une fois par tour de cette façon. Vous ne pouvez utiliser chacun des effets suivants de \"Dragon de la Regenèse\" qu'une fois par tour. (Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 Magie/Piège contrôlé par votre adversaire ; bannissez-le. Durant la End Phase de votre adversaire, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter cette carte à votre main.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 21151,
+  "type": "monster",
+  "name": "Sabio Regénesis",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si un monstruo con 2500 ATK o DEF originales está en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial \"Sabio Regénesis\" una vez por turno de esta forma. Sólo puedes usar cada uno de los siguientes efectos de \"Sabio Regénesis\" una vez por turno. Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes mandar al Cementerio otra carta \"Regénesis\" en tu mano o Campo boca arriba; niega la activación y, si lo haces, destruye esa carta. Durante la End Phase de tu adversario, si esta carta está en el Cementerio porque fue mandada allí este turno: puedes añadir esta carta a tu mano.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

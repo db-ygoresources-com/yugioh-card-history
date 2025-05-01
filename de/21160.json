@@ -1,0 +1,15 @@
+{
+  "id": 21160,
+  "type": "monster",
+  "name": "Maliss <P> Märzhase",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Dein Gegner kann „Maliss“-Linkmonster, die auf diese Karte zeigen, nicht als Ziel für Karteneffekte wählen. Du kannst jeden der folgenden Effekte von „Maliss <P> Märzhase“ nur einmal pro Spielzug verwenden. Während der Main Phase, falls sich diese Karte in deiner Hand befindet (Schnelleffekt): Du kannst 1 andere „Maliss“-Karte von deiner Hand oder deinem Friedhof verbannen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Falls diese Karte verbannt wird: Du kannst 300 LP zahlen und dann 1 deiner verbannten „Maliss“-Monster wählen; füge es deiner Hand hinzu.",
+  "level": 3,
+  "atk": 600,
+  "def": 300,
+  "properties": [
+    "Cyberse",
+    "Effekt"
+  ]
+}

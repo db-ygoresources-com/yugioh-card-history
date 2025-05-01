@@ -1,0 +1,18 @@
+{
+  "id": 21161,
+  "type": "monster",
+  "name": "Tensei Ryu-Ge Anva",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode oferecer como Tributo 1 monstro \"Ryu-Ge\" da sua mão ou do campo, exceto \"Tensei Ryu-Ge Anva\"; Invoque este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Especial: você pode escolher 1 card no campo; destrua-o. Se este card for destruído: você pode colocar 1 Magia/Armadilha Contínua \"Ryu-Ge\" do seu Deck, Cemitério ou banimento, no seu campo com a face para cima. Você só pode usar cada efeito de \"Tensei Ryu-Ge Anva\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar por Invocação-Pêndulo, exceto monstros \"Ryu-Ge\" (este efeito não pode ser negado). Você pode negar um card ou efeito do seu oponente ativado em resposta à ativação de um dos seus Cards de Magia \"Ryu-Ge\" ou seus efeitos e, depois, destrua este card. Você só pode usar este efeito de \"Tensei Ryu-Ge Anva\" uma vez por turno.",
+  "pendScale": 11,
+  "level": 10,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 21166,
+  "type": "monster",
+  "name": "Crâne Serviteur Moissa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Crâne Serviteur\" tant qu'elle est dans le Cimetière. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Crâne Serviteur\" ou 1 carte qui le mentionne (\"Crâne Serviteur Moissa\" exclu) depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Zombie exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Crâne Serviteur Moissa\" qu'une fois par tour. Durant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre Zombie de max. Niveau 4 en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.)",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

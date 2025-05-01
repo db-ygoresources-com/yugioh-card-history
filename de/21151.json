@@ -1,0 +1,15 @@
+{
+  "id": 21151,
+  "type": "monster",
+  "name": "Regenesis-Weiser",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein Monster mit 2500 Grund-ATK oder -DEF auf dem Spielfeld liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Regenesis-Weiser“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Du kannst jeden der folgenden Effekte von „Regenesis-Weiser“ nur einmal pro Spielzug verwenden. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 andere „Regenesis“-Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte. Während der End Phase deines Gegners, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst diese Karte deiner Hand hinzufügen.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

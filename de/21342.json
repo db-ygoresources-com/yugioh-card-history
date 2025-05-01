@@ -1,0 +1,16 @@
+{
+  "id": 21342,
+  "type": "monster",
+  "name": "Toxischer Kofferfisch",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Karte in einem beliebigen Friedhof wählen; verbanne sie. Falls diese Karte verbannt wird: Du kannst 1 offene Karte wählen, die dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs ihre Effekte. Du kannst jeden Effekt von „Toxischer Kofferfisch“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Fisch",
+    "Synchro",
+    "Effekt"
+  ]
+}

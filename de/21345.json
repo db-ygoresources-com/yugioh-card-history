@@ -1,0 +1,16 @@
+{
+  "id": 21345,
+  "type": "monster",
+  "name": "Sakra Vendirage",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster der Stufe 4\nDu kannst 1 Material von dieser Karte abhängen und dann 1 Psi-Monster der Stufe / des Rangs 4 in deinem Friedhof wählen, außer „Sakra Vendirage“; beschwöre es als Spezialbeschwörung. Falls ein oder mehr Monster als Spezialbeschwörung beschworen werden, solange diese Karte in deiner Monsterzone liegt (außer während des Damage Steps): Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; der Name jenes Monsters wird bis zur End Phase zu „Sakra Vendirage“. Du kannst jeden Effekt von „Sakra Vendirage“ nur einmal pro Spielzug verwenden.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psi",
+    "Xyz",
+    "Effekt"
+  ]
+}

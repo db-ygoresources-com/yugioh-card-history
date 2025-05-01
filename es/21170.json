@@ -1,0 +1,16 @@
+{
+  "id": 21170,
+  "type": "monster",
+  "name": "Controlador Cerebral",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Control Cerebral\" en tu Deck. Si pagas LP (excepto durante el Damage Step): puedes seleccionar 1 monstruo boca arriba en el Campo y declarar un Nivel de 1 a 8; ese monstruo se convierte en ese Nivel. Si esta carta es mandada al Cementerio como Material de Sincronía: puedes Invocar esta carta de Modo Especial al Campo de tu adversario en Posición de Defensa, pero niega sus efectos. Sólo puedes usar cada efecto de \"Controlador Cerebral\" una vez por turno.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Psíquico",
+    "Cantante",
+    "Efecto"
+  ]
+}

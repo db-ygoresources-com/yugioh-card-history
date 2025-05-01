@@ -1,0 +1,15 @@
+{
+  "id": 21338,
+  "type": "monster",
+  "name": "Dämmerungsengel Kambi",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du keine Monster kontrollierst oder alle Monster, die du kontrollierst, Fee-Monster sind: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst eine beliebige Anzahl Fee-Monster als Tribut anbieten, darunter diese Karte; beschwöre 1 Fee-Monster, dessen Stufe der Summe der Stufen entspricht, die jene Monster auf dem Spielfeld hatten, als Spezialbeschwörung von deinem Deck. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Spezialbeschwörungen durchführen, außer von Fee-Monstern. Du kannst jeden Effekt von „Dämmerungsengel Kambi“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 500,
+  "def": 1800,
+  "properties": [
+    "Fee",
+    "Effekt"
+  ]
+}

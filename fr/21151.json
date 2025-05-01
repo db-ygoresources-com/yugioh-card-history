@@ -1,0 +1,15 @@
+{
+  "id": 21151,
+  "type": "monster",
+  "name": "Sage de la Regenèse",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un monstre avec 2500 ATK ou DEF d'origine est sur le Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Sage de la Regenèse\" qu'une fois par tour de cette façon. Vous ne pouvez utiliser chacun des effets suivants de \"Sage de la Regenèse\" qu'une fois par tour. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez envoyer 1 autre carte \"Regenèse\" depuis votre main ou Terrain face recto au Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte. Durant la End Phase de votre adversaire, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter cette carte à votre main.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

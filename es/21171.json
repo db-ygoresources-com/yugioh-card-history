@@ -1,0 +1,15 @@
+{
+  "id": 21171,
+  "type": "monster",
+  "name": "Lugar de Bombardero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por Cadena (Efecto Rápido): puedes pagar 600 LP, y después activa 1 de estos efectos;\n●Si controlas 6 monstruos con Niveles diferentes (1, 2, 3, 4, 5 y 6): elige 1 monstruo boca arriba que controle tu adversario con un Nivel, y destruye todos los demás monstruos que controle tu adversario con el mismo Nivel/Rango/Rating de Enlace que el de ese monstruo.\n●Elige 1 monstruo boca arriba que controles con un Nivel, y destruye todos los monstruos de tu adversario en la misma columna con el mismo Nivel/Rango/Rating de Enlace que el de ese monstruo.",
+  "level": 6,
+  "atk": 1350,
+  "def": 2400,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

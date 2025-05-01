@@ -1,0 +1,20 @@
+{
+  "id": 21190,
+  "type": "monster",
+  "name": "Dogurad, el Soldado de Piedra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "2+ monstruos, incluyendo un monstruo Roca\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo Roca en tu Cementerio; esta carta gana ATK igual al ATK de ese monstruo. Durante la Main Phase de tu adversario (Efecto Rápido): puedes seleccionar otro monstruo en el Campo con ATK igual o menor al de esta carta; esta carta pierde ATK exactamente igual al ATK de ese monstruo y, si lo hace, destruye ese monstruo. Sólo puedes usar cada efecto de \"Dogurad, el Soldado de Piedra\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "8",
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Roca",
+    "Enlace",
+    "Efecto"
+  ]
+}

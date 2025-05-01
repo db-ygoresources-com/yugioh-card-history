@@ -1,0 +1,15 @@
+{
+  "id": 21163,
+  "type": "monster",
+  "name": "Jormungardr Ciber",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta. Si tu adversario controla un monstruo: puedes Invocar esta carta de Modo Especial desde tu mano, y después toma 1 \"Ciber Dragón\" en tu Deck, y ya sea Invócalo de Modo Especial o equípalo a esta carta como una Mágica de Equipo, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Máquina. Puedes devolver a la mano 1 \"Ciber Dragón\" que controles; añade a tu mano 1 \"Polimerización\" en tu Deck o Cementerio. Sólo puedes usar cada efecto de \"Jormungardr Ciber\" una vez por turno.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2100,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

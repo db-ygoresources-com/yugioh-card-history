@@ -1,0 +1,15 @@
+{
+  "id": 21341,
+  "type": "monster",
+  "name": "Aspischwarm",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Fisch-Monster der Stufe 6 oder niedriger als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören, aber verbanne es, wenn es das Spielfeld verlässt. Falls diese Karte verbannt wird: Du kannst diese Karte als Spezialbeschwörung in die Verteidigungsposition beschwören. Du kannst diesen Effekt von „Aspischwarm“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

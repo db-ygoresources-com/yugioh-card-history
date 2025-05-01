@@ -1,0 +1,16 @@
+{
+  "id": 21177,
+  "type": "monster",
+  "name": "Schlangenauge Rachedrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nWährend der Main Phase (Schnelleffekt): Du kannst 1 offenes Monster auf dem Spielfeld oder in einem beliebigen Friedhof wählen; lege es offen als Permanenten Zauber in die Zauber- & Fallenzone seines Besitzers, zusätzlich kann dieser Effekt dieser Karte im nächsten Spielzug nicht verwendet werden. Während der Battle Phase (Schnelleffekt): Du kannst 1 Monster und 1 Permanenten Zauber auf dem Spielfeld wählen; zerstöre sie. Du kannst jeden Effekt von „Schlangenauge Rachedrache“ nur einmal pro Spielzug verwenden.",
+  "level": 12,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Synchro",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 21167,
+  "type": "monster",
+  "name": "NT8000 - SIRIUS",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte liée ne peut pas être détruite au combat. Vous ne pouvez utiliser chacun des effets suivants de \"NT8000 - SIRIUS\" qu'une fois par tour. Durant le tour où un effet de Monstre Lien a été activé (Effet Rapide) : vous pouvez cibler 1 carte face recto que vous contrôlez et 1 carte face recto contrôlée par votre adversaire ; détruisez-les toutes les deux. Si cette carte est envoyée au Cimetière, sauf depuis le Terrain, et que vous contrôlez un Monstre Lien TÉNÈBRES : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain.",
+  "level": 8,
+  "atk": 2300,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

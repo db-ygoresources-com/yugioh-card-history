@@ -1,0 +1,15 @@
+{
+  "id": 21152,
+  "type": "monster",
+  "name": "Dragón Regénesis",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si un monstruo con 2500 ATK o DEF originales está en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial \"Dragón Regénesis\" una vez por turno de esta forma. Sólo puedes usar cada uno de los siguientes efectos de \"Dragón Regénesis\" una vez por turno. (Efecto Rápido): puedes Sacrificar esta carta, y después selecciona 1 Mágica/Trampa que controle tu adversario; destiérrala. Durante la End Phase de tu adversario, si esta carta está en el Cementerio porque fue mandada allí este turno: puedes añadir esta carta a tu mano.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

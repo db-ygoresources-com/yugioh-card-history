@@ -1,0 +1,16 @@
+{
+  "id": 21187,
+  "type": "monster",
+  "name": "Sciabolasaurus Furioso",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "2 mostri di Livello 4\nPuoi staccare 1 materiale da questa carta; distruggi 1 mostro Dinosauro nella tua mano o Terreno scoperto, poi puoi cambiare la posizione di 1 mostro sul Terreno. All'inizio del Damage Step, se un tuo altro mostro Dinosauro combatte: puoi distruggere questa carta e, se lo fai, quel mostro Dinosauro guadagna 2000 ATK fino alla fine della Battle Phase. Puoi utilizzare ogni effetto di \"Sciabolasaurus Furioso\" una sola volta per turno.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Dinosauro",
+    "Xyz",
+    "Effetto"
+  ]
+}

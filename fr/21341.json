@@ -1,0 +1,15 @@
+{
+  "id": 21341,
+  "type": "monster",
+  "name": "Banc d'Aspis",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Lorsque cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre Poisson de max. Niveau 6 depuis votre main en Position de Défense, mais bannissez-le lorsqu'il quitte le Terrain. Si cette carte est bannie : vous pouvez Invoquer Spécialement cette carte en Position de Défense. Vous ne pouvez utiliser cet effet de \"Banc d'Aspis\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

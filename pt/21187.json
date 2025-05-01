@@ -1,0 +1,16 @@
+{
+  "id": 21187,
+  "type": "monster",
+  "name": "Sabressauro Agitado",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "2 monstros de Nível 4\nVocê pode desassociar 1 matéria deste card; destrua 1 monstro Dinossauro na sua mão ou no campo com a face para cima e, depois, você pode mudar a posição de batalha de 1 monstro no campo. No começo da Etapa de Dano, se outro monstro Dinossauro seu batalhar: você pode destruir este card e, se isso acontecer, esse monstro Dinossauro ganha 2000 de ATK até o final da Fase de Batalha. Você só pode usar cada efeito de \"Sabressauro Agitado\" uma vez por turno.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Dinossauro",
+    "Xyz",
+    "Efeito"
+  ]
+}

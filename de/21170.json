@@ -1,0 +1,16 @@
+{
+  "id": 21170,
+  "type": "monster",
+  "name": "Gehirnkontrolleur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Gehirnkontrolle“ von deinem Deck hinzufügen. Falls du LP zahlst (außer während des Damage Steps): Du kannst 1 offenes Monster auf dem Spielfeld wählen und eine Stufe von 1 bis 8 deklarieren; jenes Monster wird zu jener Stufe. Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung auf die Spielfeldseite deines Gegners in die Verteidigungsposition beschwören, aber annulliere ihre Effekte. Du kannst jeden Effekt von „Gehirnkontrolleur“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21342,
+  "type": "monster",
+  "name": "Poisson-Coffre Toxique",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez cibler 1 carte dans l'un des Cimetières ; bannissez-la. Si cette carte est bannie : vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; jusqu'à la fin de ce tour, annulez ses effets. Vous ne pouvez utiliser chaque effet de \"Poisson-Coffre Toxique\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 800,
+  "properties": [
+    "Poisson",
+    "Synchro",
+    "Effet"
+  ]
+}

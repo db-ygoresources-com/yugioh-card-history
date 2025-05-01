@@ -1,0 +1,16 @@
+{
+  "id": 21174,
+  "type": "monster",
+  "name": "Filia Regis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Monstruo de Fusión Dragón + 1 monstruo Dragón de Nivel 7 o mayor\nDurante la Main Phase (Efecto Rápido): puedes seleccionar 1 carta que controle tu adversario o en su Cementerio; destiérrala y después, si desterraste una carta en el Campo, devuelve a la mano 1 monstruo Dragón que controles. Al comienzo de la Battle Phase de tu adversario, si esta carta está en tu Cementerio: puedes devolver a la mano o Deck Extra 1 monstruo Dragón que controles y, si lo haces, Invoca esta carta de Modo Especial. Sólo puedes usar cada efecto de \"Filia Regis\" una vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

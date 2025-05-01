@@ -1,0 +1,15 @@
+{
+  "id": 21171,
+  "type": "monster",
+  "name": "Versteck des Bombenlegers",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Einmal pro Kette (Schnelleffekt): Du kannst 600 LP zahlen und dann 1 dieser Effekte aktivieren;\n●Falls du 6 Monster mit unterschiedlichen Stufen (1, 2, 3, 4, 5 und 6) kontrollierst: Bestimme 1 offenes Monster mit einer Stufe, das dein Gegner kontrolliert, und zerstöre alle anderen Monster, die dein Gegner kontrolliert und die dieselbe Stufe / denselben Rang / dieselbe Linkzahl wie jenes Monster haben.\n●Bestimme 1 offenes Monster mit einer Stufe, das du kontrollierst, und zerstöre alle Monster deines Gegners in derselben Spalte, die dieselbe Stufe / denselben Rang / dieselbe Linkzahl wie jenes Monster haben.",
+  "level": 6,
+  "atk": 1350,
+  "def": 2400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

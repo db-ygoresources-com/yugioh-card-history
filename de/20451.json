@@ -1,0 +1,15 @@
+{
+  "id": 20451,
+  "type": "monster",
+  "name": "Riesen-Maiskrake",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören und falls du dies tust, ändere das Angriffsziel auf diese Karte und führe die Schadensberechnung durch. Du kannst 1 Pflanze-Monster wählen, das du kontrollierst, außer „Riesen-Maiskrake“; die ATK jenes Monsters und dieser Karte werden gleich den kombinierten Grund-ATK beider Monster. Du kannst jeden Effekt von „Riesen-Maiskrake“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Pflanze",
+    "Effekt"
+  ]
+}

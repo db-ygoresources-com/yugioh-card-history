@@ -1,0 +1,15 @@
+{
+  "id": 21166,
+  "type": "monster",
+  "name": "Spettro Moissa",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Il nome di questa carta diventa \"Servitore del Teschio\" mentre è nel Cimitero. Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 \"Servitore del Teschio\" o 1 carta che lo menziona dal tuo Deck alla tua mano, eccetto \"Spettro Moissa\", inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto mostri Zombie. Puoi utilizzare questo effetto di \"Spettro Moissa\" una sola volta per turno. Durante la tua Main Phase, puoi Evocare Normalmente 1 mostro Zombie di Livello 4 o inferiore in aggiunta alla tua Evocazione Normale/Posizionamento. (Puoi guadagnare questo effetto una sola volta per turno.)",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

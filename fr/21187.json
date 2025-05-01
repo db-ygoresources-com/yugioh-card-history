@@ -1,0 +1,16 @@
+{
+  "id": 21187,
+  "type": "monster",
+  "name": "Sabresaure Fulminant",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres de Niveau 4\nVous pouvez détacher 1 Matériel de cette carte ; détruisez 1 monstre Dinosaure dans votre main ou Terrain face recto, puis vous pouvez changer la position de combat d'1 monstre sur le Terrain. Au début de la Damage Step, si votre autre monstre Dinosaure combat : vous pouvez détruire cette carte, et si vous le faites, le monstre Dinosaure gagne 2000 ATK jusqu'à la fin de la Battle Phase. Vous ne pouvez utiliser chaque effet de \"Sabresaure Fulminant\" qu'une fois par tour.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Dinosaure",
+    "Xyz",
+    "Effet"
+  ]
+}

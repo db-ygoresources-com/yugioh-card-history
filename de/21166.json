@@ -1,0 +1,15 @@
+{
+  "id": 21166,
+  "type": "monster",
+  "name": "Moissa-Wicht",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Totenkopfdiener“, solange sie im Friedhof liegt. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Totenkopfdiener“ oder 1 Karte, die ihn erwähnt, von deinem Deck hinzufügen, außer „Moissa-Wicht“, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von Zombie-Monstern. Du kannst diesen Effekt von „Moissa-Wicht“ nur einmal pro Spielzug verwenden. Während deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 Zombie-Monster der Stufe 4 oder niedriger als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.)",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

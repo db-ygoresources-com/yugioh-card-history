@@ -1,0 +1,16 @@
+{
+  "id": 21170,
+  "type": "monster",
+  "name": "Contrôleur Cérébral",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Contrôle Cérébral\" depuis votre Deck à votre main. Si vous payez des LP (sauf durant la Damage Step) : vous pouvez cibler 1 monstre face recto sur le Terrain, et déclarez un Niveau de 1 à 8 ; le monstre devient ce Niveau. Si cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez Invoquer Spécialement cette carte sur le Terrain de votre adversaire en Position de Défense, mais annulez ses effets. Vous ne pouvez utiliser chaque effet de \"Contrôleur Cérébral\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Psychique",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

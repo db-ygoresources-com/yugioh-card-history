@@ -1,0 +1,15 @@
+{
+  "id": 21171,
+  "type": "monster",
+  "name": "Place Détonante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par Chaîne (Effet Rapide) : vous pouvez payer 600 LP, puis activez 1 de ces effets ;\n●Si vous contrôlez 6 monstres de Niveaux différents (1, 2, 3, 4, 5 et 6) : choisissez 1 monstre face recto contrôlé par votre adversaire avec un Niveau, et détruisez tous les autres monstres contrôlés par votre adversaire du même Niveau/Rang/Classification Lien que le monstre.\n●Choisissez 1 monstre face recto que vous contrôlez avec un Niveau, et détruisez tous les monstres de votre adversaire dans la même colonne du même Niveau/Rang/Classification Lien que le monstre.",
+  "level": 6,
+  "atk": 1350,
+  "def": 2400,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

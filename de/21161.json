@@ -1,0 +1,18 @@
+{
+  "id": 21161,
+  "type": "monster",
+  "name": "Tensei Ryuge Anva",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 „Ryuge“-Monster von deiner Hand oder Spielfeldseite als Tribut anbieten, außer „Tensei Ryuge Anva“; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie. Falls diese Karte zerstört wird: Du kannst 1 Permanente/n „Ryuge“-Zauber/Falle von deinem Deck, deinem Friedhof oder deinen verbannten Karten offen auf deine Spielfeldseite legen. Du kannst jeden Effekt von „Tensei Ryuge Anva“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Pendelbeschwörungen durchführen, außer von „Ryuge“-Monstern (dieser Effekt kann nicht annulliert werden). Du kannst eine Karte oder einen Effekt deines Gegners annullieren, die oder der als Reaktion auf die Aktivierung deiner „Ryuge“-Zauberkarte oder deines „Ryuge“-Zaubereffekts aktiviert wurde, dann zerstöre diese Karte. Du kannst diesen Effekt von „Tensei Ryuge Anva“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 11,
+  "level": 10,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

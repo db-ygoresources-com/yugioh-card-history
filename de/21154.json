@@ -1,0 +1,15 @@
+{
+  "id": 21154,
+  "type": "monster",
+  "name": "Regenesis-Herrscher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 offenes Monster mit 2500 Grund-ATK und -DEF verbannst, das du kontrollierst. Du kannst „Regenesis-Herrscher“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Regenesis“-Zauber/Falle von deinem Deck setzen. Erhält nur während der Battle Phase 2500 ATK. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Illusion",
+    "Effekt"
+  ]
+}

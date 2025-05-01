@@ -1,0 +1,15 @@
+{
+  "id": 21151,
+  "type": "monster",
+  "name": "Saggio Regenesis",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se un mostro con ATK o DEF originale 2500 è sul Terreno, puoi Evocare Specialmente questa carta (dalla tua mano). Puoi Evocare Specialmente \"Saggio Regenesis\" una sola volta per turno in questo modo. Puoi utilizzare ognuno dei seguenti effetti di \"Saggio Regenesis\" una sola volta per turno. Quando il tuo avversario attiva una carta o un effetto (Effetto Rapido): puoi mandare 1 altra carta \"Regenesis\" dalla tua mano o Terreno scoperto al Cimitero; annulla l'attivazione e, se lo fai, distruggi quella carta. Durante la End Phase del tuo avversario, se questa carta è nel Cimitero perché è stata mandata lì in questo turno: puoi aggiungere questa carta alla tua mano.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

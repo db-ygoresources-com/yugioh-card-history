@@ -1,0 +1,16 @@
+{
+  "id": 21187,
+  "type": "monster",
+  "name": "Hitziger Säbelsaurier",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "2 Monster der Stufe 4\nDu kannst 1 Material von dieser Karte abhängen; zerstöre 1 Dinosaurier-Monster in deiner Hand oder offen auf deiner Spielfeldseite, dann kannst du die Kampfposition von 1 Monster auf dem Spielfeld ändern. Am Beginn des Damage Steps, falls dein anderes Dinosaurier-Monster kämpft: Du kannst diese Karte zerstören und falls du dies tust, erhält jenes Dinosaurier-Monster bis zum Ende der Battle Phase 2000 ATK. Du kannst jeden Effekt von „Hitziger Säbelsaurier“ nur einmal pro Spielzug verwenden.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 600,
+  "properties": [
+    "Dinosaurier",
+    "Xyz",
+    "Effekt"
+  ]
+}

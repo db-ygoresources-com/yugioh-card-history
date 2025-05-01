@@ -1,0 +1,16 @@
+{
+  "id": 21174,
+  "type": "monster",
+  "name": "Filia Regis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Drache-Fusionsmonster + 1 Drache-Monster der Stufe 7 oder höher\nWährend der Main Phase (Schnelleffekt): Du kannst 1 Karte wählen, die dein Gegner kontrolliert oder die sich in seinem Friedhof befindet; verbanne sie, dann, falls du eine Karte vom Spielfeld verbannt hast, gib 1 Drache-Monster, das du kontrollierst, auf die Hand zurück. Am Beginn der Battle Phase deines Gegners, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Drache-Monster, das du kontrollierst, auf die Hand zurückgeben oder ins Extra Deck zurücklegen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst jeden Effekt von „Filia Regis“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

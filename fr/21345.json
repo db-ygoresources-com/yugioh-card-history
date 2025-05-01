@@ -1,0 +1,16 @@
+{
+  "id": 21345,
+  "type": "monster",
+  "name": "Sakra Vendirage",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres de Niveau 4\nVous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre Psychique de Niveau/Rang 4 (\"Sakra Vendirage\" exclu) dans votre Cimetière ; Invoquez-le Spécialement. Si un ou plusieurs monstres sont Invoqués Spécialement, tant que cette carte est dans votre Zone Monstre (sauf durant la Damage Step) : vous pouvez cibler 1 autre monstre face recto sur le Terrain ; jusqu'à la End Phase, le nom du monstre devient \"Sakra Vendirage\". Vous ne pouvez utiliser chaque effet de \"Sakra Vendirage\" qu'une fois par tour.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psychique",
+    "Xyz",
+    "Effet"
+  ]
+}

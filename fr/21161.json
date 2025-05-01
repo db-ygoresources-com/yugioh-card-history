@@ -1,0 +1,18 @@
+{
+  "id": 21161,
+  "type": "monster",
+  "name": "Tensei Ryu-Ge Anva",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Sacrifier 1 monstre \"Ryu-Ge\" (\"Tensei Ryu-Ge Anva\" exclu) depuis votre main ou Terrain ; Invoquez Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Si cette carte est détruite : vous pouvez placer face recto 1 Magie Continue/Piège Continu \"Ryu-Ge\" depuis votre Deck, Cimetière ou bannissement sur votre Terrain. Vous ne pouvez utiliser chaque effet de \"Tensei Ryu-Ge Anva\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation (monstres \"Ryu-Ge\" exclus) (cet effet ne peut pas être annulé). Vous pouvez annuler la carte ou effet activé de votre adversaire en réponse à l'activation de votre Carte Magie ou effet de Magie \"Ryu-Ge\", puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Tensei Ryu-Ge Anva\" qu'une fois par tour.",
+  "pendScale": 11,
+  "level": 10,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

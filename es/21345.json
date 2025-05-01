@@ -1,0 +1,16 @@
+{
+  "id": 21345,
+  "type": "monster",
+  "name": "Sakra Vendiraje",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos de Nivel 4\nPuedes desacoplar 1 material de esta carta, y después selecciona 1 monstruo Psíquico de Nivel/Rango 4 en tu Cementerio, excepto \"Sakra Vendiraje\"; Invócalo de Modo Especial. Si uno o más monstruos son Invocados de Modo Especial, mientras esta carta está en tu Zona de Monstruos (excepto durante el Damage Step): puedes seleccionar otro monstruo boca arriba en el Campo; el nombre de ese monstruo se convierte en \"Sakra Vendiraje\" hasta la End Phase. Sólo puedes usar cada efecto de \"Sakra Vendiraje\" una vez por turno.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Psíquico",
+    "Xyz",
+    "Efecto"
+  ]
+}

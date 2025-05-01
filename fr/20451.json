@@ -1,0 +1,15 @@
+{
+  "id": 20451,
+  "type": "monster",
+  "name": "Épieuvre de Maïs Géante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez Invoquer Spécialement cette carte depuis votre main en Position de Défense, et si vous le faites, transférez la cible de l'attaque sur cette carte et faites le calcul des dommages. Vous pouvez cibler 1 monstre Plante que vous contrôlez (\"Épieuvre de Maïs Géante\" exclu) ; l'ATK du monstre et de cette carte devient la somme des ATK d'origine des deux monstres. Vous ne pouvez utiliser chaque effet de \"Épieuvre de Maïs Géante\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

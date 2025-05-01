@@ -1,0 +1,16 @@
+{
+  "id": 21172,
+  "type": "monster",
+  "name": "Azamina",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Reine Azamina\" + 1 Monstre Fusion ou Synchro\nDoit d'abord être soit Invoquée par Fusion, soit Invoquée Spécialement (depuis votre Extra Deck) en Sacrifiant 1 \"Sainte Azamina\" que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire. Non destructible par des effets de carte. Chaque fois que votre adversaire active une carte ou un effet, tous les monstres qu'il contrôle perdent 500 ATK lorsqu'il est résolu. Votre adversaire ne peut pas activer les effets des monstres avec 0 ATK.",
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Illusion",
+    "Fusion",
+    "Effet"
+  ]
+}

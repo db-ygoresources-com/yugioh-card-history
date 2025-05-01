@@ -1,0 +1,15 @@
+{
+  "id": 21167,
+  "type": "monster",
+  "name": "NT8000 - SIRIUS",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese gelinkte Karte kann nicht durch Kampf zerstört werden. Du kannst jeden der folgenden Effekte von „NT8000 - SIRIUS“ nur einmal pro Spielzug verwenden. Während des Spielzugs, in dem der Effekt eines Linkmonsters aktiviert wurde (Schnelleffekt): Du kannst 1 offene Karte, die du kontrollierst, und 1 offene Karte, die dein Gegner kontrolliert, wählen; zerstöre beide. Falls diese Karte auf den Friedhof gelegt wird, außer vom Spielfeld, und du ein FINSTERNIS Linkmonster kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt.",
+  "level": 8,
+  "atk": 2300,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

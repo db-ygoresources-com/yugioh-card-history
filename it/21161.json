@@ -1,0 +1,18 @@
+{
+  "id": 21161,
+  "type": "monster",
+  "name": "Tensei Ryu-Ge Anva",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi offrire come Tributo 1 mostro \"Ryu-Ge\" dalla tua mano o Terreno, eccetto \"Tensei Ryu-Ge Anva\"; Evoca Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 carta sul Terreno; distruggila. Se questa carta viene distrutta: puoi mettere 1 Magia/Trappola Continua \"Ryu-Ge\" dal tuo Deck, Cimitero o carte bandite, scoperta sul tuo Terreno. Puoi utilizzare ogni effetto di \"Tensei Ryu-Ge Anva\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum, eccetto mostri \"Ryu-Ge\" (questo effetto non può essere annullato). Puoi annullare una carta o un effetto del tuo avversario attivato in risposta all'attivazione di una tua Carta Magia \"Ryu-Ge\" o di un suo effetto, poi distruggere questa carta. Puoi utilizzare questo effetto di \"Tensei Ryu-Ge Anva\" una sola volta per turno.",
+  "pendScale": 11,
+  "level": 10,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}
