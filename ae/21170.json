@@ -1,0 +1,16 @@
+{
+  "id": 21170,
+  "type": "monster",
+  "name": "Brain Controller",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is Normal or Special Summoned: You can add 1 \"Brain Control\" from your Deck to your hand. If you pay LP (except during the Damage Step): You can target 1 face-up monster on the field and declare a Level from 1 to 8; that monster becomes that Level. If this card is sent to the GY as Synchro Material: You can Special Summon this card to your opponent's field in Defense Position, but negate its effects. You can only use each effect of \"Brain Controller\" once per turn.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Psychic",
+    "Tuner",
+    "Effect"
+  ]
+}
