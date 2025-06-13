@@ -1,0 +1,19 @@
+{
+  "id": 20937,
+  "type": "monster",
+  "name": "Nekroz of Metaltron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, using monsters, and you cannot use Level 9 monsters. During the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls; banish this card (until the End Phase), and if you do, banish that monster. You can only use this effect of \"Nekroz of Metaltron\" once per turn. Any monster destroyed by battle with your \"Nekroz\" monster is banished.",
+  "pendEffect": "If your \"Nekroz\" card(s) is banished face-up (except during the Damage Step): You can target 1 Spell/Trap on the field; banish it. You can only use this effect of \"Nekroz of Metaltron\" once per turn.",
+  "pendScale": 5,
+  "level": 9,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Ritual",
+    "Pendulum",
+    "Effect"
+  ]
+}
