@@ -1,0 +1,15 @@
+{
+  "id": 21420,
+  "type": "monster",
+  "name": "Kunstmagus Finmel",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Dein Gegner kann „Kunstmagus“-Monster der Stufe 6 oder niedriger, die du kontrollierst, nicht als Ziel für Karteneffekte wählen. Du kannst jeden der folgenden Effekte von „Kunstmagus Finmel“ nur einmal pro Spielzug verwenden. Falls du eine „Kunstmagus“-Karte kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 Karte ziehen. Während der Main Phase, falls du 3 oder mehr unterschiedliche Monstertypen auf deiner Spielfeldseite hast (Schnelleffekt): Du kannst die Effekte aller offenen Monster annullieren, die dein Gegner derzeit kontrolliert, zusätzlich werden ihre ATK bis zum Ende dieses Spielzugs halbiert.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

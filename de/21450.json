@@ -1,0 +1,16 @@
+{
+  "id": 21450,
+  "type": "monster",
+  "name": "Eingebungs-Erzunterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Psi-Empfänger + 1+ Nicht-Empfänger-Monster\nWährend der Main Phase (Schnelleffekt): Du kannst 1 deiner verbannten Psi-Monster der Stufe 7 oder niedriger wählen; beschwöre es als Spezialbeschwörung. Während der Battle Phase (Schnelleffekt): Du kannst 1 anderes Monster als Tribut anbieten; du erhältst LP in Höhe seiner Grund-ATK und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs ebenso viele ATK. Du kannst jeden Effekt von „Eingebungs-Erzunterweltler“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2800,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

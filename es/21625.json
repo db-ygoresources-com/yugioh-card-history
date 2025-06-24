@@ -1,0 +1,16 @@
+{
+  "id": 21625,
+  "type": "monster",
+  "name": "Luce la Oscuridad del Crepúsculo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3 monstruos Demonio y/o Hada en tu Cementerio\nLos monstruos en tus Zonas de Monstruos Principales al extremo izquierdo o al extremo derecho no pueden ser destruidos por efectos de cartas. Sólo puedes usar cada uno de los siguientes efectos de \"Luce la Oscuridad del Crepúsculo\" una vez por turno. Puedes seleccionar 1 carta que controle tu adversario; manda al Cementerio 1 monstruo Demonio o Hada en tu Deck y, si lo haces, destruye esa carta. Si otra u otras cartas que controlas son destruidas por el efecto de una carta (excepto durante el Damage Step): puedes seleccionar 1 carta en el Campo; destrúyela.",
+  "level": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demonio",
+    "Fusión",
+    "Efecto"
+  ]
+}

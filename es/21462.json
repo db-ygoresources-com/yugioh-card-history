@@ -1,0 +1,19 @@
+{
+  "id": 21462,
+  "type": "monster",
+  "name": "Ukanomitsune-no-Onari",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos de LUZ, incluyendo un monstruo Bestia\nTu adversario no puede seleccionar cartas en las Zonas del Campo con efectos de cartas. Sólo puedes usar cada uno de los siguientes efectos de \"Ukanomitsune-no-Onari\" una vez por turno. Si esta carta es Invocada por Enlace: puedes seleccionar 1 Mágica de Juego Rápido en tu Cementerio; Colócala. Si esta carta es destruida: por cada carta en una Zona del Campo, puedes aplicar 1 de estos efectos. (Si eliges ambos, aplícalos en secuencia).\n●Destruye 1 carta que controle tu adversario.\n●Inflige 1500 puntos de daño a tu adversario.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Bestia",
+    "Enlace",
+    "Efecto"
+  ]
+}

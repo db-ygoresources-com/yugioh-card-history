@@ -1,0 +1,19 @@
+{
+  "id": 21462,
+  "type": "monster",
+  "name": "Ukanomitsune-no-Onari",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri LUCE, compreso un mostro Bestia\nIl tuo avversario non può scegliere come bersaglio carte nelle Zone Terreno con gli effetti delle carte. Puoi utilizzare ognuno dei seguenti effetti di \"Ukanomitsune-no-Onari\" una sola volta per turno. Se questa carta viene Evocata Link: puoi scegliere come bersaglio 1 Magia Rapida nel tuo Cimitero; Posizionala. Se questa carta viene distrutta: per ogni carta in una Zona Terreno, puoi applicare 1 di questi effetti. (Se entrambi, applicali in ordine.)\n●Distruggi 1 carta controllata dal tuo avversario.\n●Infliggi 1500 danni al tuo avversario.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Bestia",
+    "Link",
+    "Effetto"
+  ]
+}

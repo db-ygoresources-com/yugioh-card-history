@@ -1,0 +1,15 @@
+{
+  "id": 21635,
+  "type": "monster",
+  "name": "R.B. VALCan Rakete",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls du keine offenen Monster kontrollierst oder die einzigen offenen Monster, die du kontrollierst, „R.B.“-Monster sind, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „R.B. VALCan Rakete“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte mit einem „R.B.“-Linkmonster verlinkt ist: Du kannst 1000 LP zahlen und dann bis zu 2 Karten wählen, die dein Gegner kontrolliert; zerstöre sie, zusätzlich diese Karte und falls du dies tust, füge deinem Gegner für jede zerstörte Karte 500 Schaden zu. Du kannst diesen Effekt von „R.B. VALCan Rakete“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

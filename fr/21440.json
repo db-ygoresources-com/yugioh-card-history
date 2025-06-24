@@ -1,0 +1,16 @@
+{
+  "id": 21440,
+  "type": "monster",
+  "name": "Burger Énervé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme \"Burger Affamé\".)\nVous pouvez Invoquer Rituellement cette carte avec une carte \"Recette\". Les monstres contrôlés par votre adversaire qui peuvent attaquer doivent attaquer cette carte. Vous ne pouvez utiliser chacun des effets suivants de \"Burger Énervé\" qu'une fois par tour. Vous pouvez révéler cette carte dans votre main ; ajoutez 1 monstre \"Nouvelles\" depuis votre Deck à votre main, et si vous le faites, mélangez cette carte dans le Deck. (Effet Rapide) : vous pouvez Sacrifier 1 monstre en Position d'Attaque sur l'un des Terrains, et si vous le faites, Invoquez Spécialement 1 \"Burger Affamé\" avec 2000 ATK depuis votre main ou Deck.",
+  "level": 6,
+  "atk": 2800,
+  "def": 1850,
+  "properties": [
+    "Guerrier",
+    "Rituel",
+    "Effet"
+  ]
+}

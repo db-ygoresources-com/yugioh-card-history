@@ -1,0 +1,16 @@
+{
+  "id": 21632,
+  "type": "monster",
+  "name": "Psi-Omnisprenger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Empfänger + 1+ Psi-Nicht-Empfänger-Monster\nJedes Mal, wenn dein Gegner eine Karte oder einen Effekt auf dem Spielfeld aktiviert (außer während des Damage Steps): Du kannst 2000 LP zahlen und 1 Kartentyp (Monster, Zauber oder Falle) deklarieren (aber du kannst jeden Kartentyp nur einmal pro Spielzug deklarieren, um diesen Effekt von „Psi-Omnisprenger“ zu aktivieren); sieh dir 1 zufällige Karte in der Hand deines Gegners an und falls sie den deklarierten Kartentyp hat, führe nacheinander diese Effekte aus (überspringe alle, die nicht zutreffen).\n●Diese Karte kann in diesem Spielzug nicht durch Effekte des deklarierten Kartentyps zerstört werden.\n●Verbanne die Karte, die du dir angesehen hast, offen bis zur End Phase.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

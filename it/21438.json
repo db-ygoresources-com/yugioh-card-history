@@ -1,0 +1,15 @@
+{
+  "id": 21438,
+  "type": "monster",
+  "name": "Lo Stregone Leone il Demone Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Per Evocare Normalmente dalla sua mano un mostro con più di 1350 ATK o DEF e un Livello originale 4 o inferiore, un giocatore deve Evocarlo tramite Tributo offrendo come Tributo 1 mostro. All'inizio del Damage Step, se questa carta combatte con un mostro LUCE: puoi distruggere quel mostro. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi aggiungere 1 mostro con 1350 ATK dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Lo Stregone Leone il Demone Oscuro\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1200,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

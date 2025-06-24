@@ -1,0 +1,16 @@
+{
+  "id": 21451,
+  "type": "monster",
+  "name": "Psychischer Sprenger Mk-II",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 Psi-Empfänger + 1+ Psi-Nicht-Empfänger-Monster\nDu kannst 1 verbanntes Monster wählen; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite. Während der Main Phase (Schnelleffekt): Du kannst 1 Monster von deinem Friedhof verbannen und dann 1 anderes offenes Monster auf dem Spielfeld wählen; verbanne es, dann erhältst du LP in Höhe der Grund-ATK jenes verbannten Monsters. Du kannst nur 1 Effekt von „Psychischer Sprenger Mk-II“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "level": 9,
+  "atk": 3200,
+  "def": 2700,
+  "properties": [
+    "Psi",
+    "Synchro",
+    "Effekt"
+  ]
+}

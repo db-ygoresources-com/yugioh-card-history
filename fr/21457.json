@@ -1,0 +1,16 @@
+{
+  "id": 21457,
+  "type": "monster",
+  "name": "Âme du Vainqueur Rocks",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres \"Âme du Vainqueur\" de Niveau 4\nUne fois par tour, si un monstre \"Âme du Vainqueur\" a combattu ce tour, vous pouvez aussi Invoquer par Xyz \"Âme du Vainqueur Rocks\" en utilisant 1 monstre \"Âme du Vainqueur\" ou 1 \"Rocher du Vainqueur\" que vous contrôlez (transférez ses Matériels à cette carte). Gagne les effets suivants, selon les Attributs de ses Matériels attachés.\n●TÉNÈBRES : Tous les monstres contrôlés par votre adversaire perdent 800 ATK.\n●FEU : Les monstres \"Âme du Vainqueur\" que vous contrôlez gagnent 1000 ATK.\n●TERRE : Vous pouvez détacher 1 Matériel de cette carte ; détruisez 1 carte contrôlée par votre adversaire.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Pyro",
+    "Xyz",
+    "Effet"
+  ]
+}

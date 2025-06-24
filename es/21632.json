@@ -1,0 +1,16 @@
+{
+  "id": 21632,
+  "type": "monster",
+  "name": "Omnirrompedor Psíquico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "1 Cantante + 1+ monstruos Psíquico que no sean Cantantes\nCada vez que tu adversario activa una carta o efecto en el Campo (excepto durante el Damage Step): puedes pagar 2000 LP y declarar 1 tipo de carta (Monstruo, Mágica o Trampa) (pero sólo puedes declarar cada tipo de carta una vez por turno para activar este efecto de \"Omnirrompedor Psíquico\"); mira 1 carta al azar en la mano de tu adversario y, si es del tipo de carta declarado, aplica estos efectos en secuencia (sáltate cualquiera que no se aplique).\n●Esta carta no puede ser destruida por los efectos del tipo de carta declarado este turno.\n●Destierra la carta que miraste, boca arriba, hasta la End Phase.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psíquico",
+    "Sincronía",
+    "Efecto"
+  ]
+}

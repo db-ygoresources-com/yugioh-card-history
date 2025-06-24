@@ -1,0 +1,19 @@
+{
+  "id": 21627,
+  "type": "monster",
+  "name": "Corvo Miracoloso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con \"Corvo Miracoloso\". Deve essere Evocato tramite Rituale. Questa carta Evocata tramite Rituale è immune agli effetti attivati del tuo avversario. Se Evochi tramite Rituale esattamente 1 Mostro Rituale con l'effetto di una carta che richiede l'uso di mostri, questa carta che controlli può essere utilizzata come l'intero Tributo. Se questa carta viene offerta come Tributo per un'Evocazione tramite Rituale: puoi aggiungere 1 Mostro Rituale dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Corvo Miracoloso\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno, durante la tua Main Phase: puoi Evocare tramite Rituale questa carta, offrendo come Tributo mostri dalla tua mano o Terreno con Livello totale pari o superiore a 1.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Demone",
+    "Rituale",
+    "Pendulum",
+    "Effetto"
+  ]
+}

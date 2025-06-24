@@ -1,0 +1,19 @@
+{
+  "id": 21627,
+  "type": "monster",
+  "name": "Wunderrabe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit „Wunderrabe“ als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden. Diese als Ritualbeschwörung beschworene Karte bleibt von aktivierten Effekten deines Gegners unberührt. Falls du genau 1 Ritualmonster durch einen Karteneffekt, der die Verwendung von Monstern erfordert, als Ritualbeschwörung beschwörst, kann diese Karte, die du kontrollierst, als der gesamte Tribut verwendet werden. Falls diese Karte als Tribut für eine Ritualbeschwörung angeboten wird: Du kannst deiner Hand 1 Ritualmonster von deinem Deck hinzufügen. Du kannst diesen Effekt von „Wunderrabe“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug, während deiner Main Phase: Du kannst diese Karte als Ritualbeschwörung beschwören, indem du Monster von deiner Hand oder Spielfeldseite als Tribut anbietest, deren gemeinsame Stufe größer oder gleich 1 ist.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Pendel",
+    "Effekt"
+  ]
+}

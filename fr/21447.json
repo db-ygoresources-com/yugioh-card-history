@@ -1,0 +1,16 @@
+{
+  "id": 21447,
+  "type": "monster",
+  "name": "Premier des Seigneurs Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 Monstres Normaux\nUniquement Invocable par Fusion. Vous ne pouvez contrôler qu'1 \"Premier des Seigneurs Dragon\". Non destructible au combat et non affectée par les effets d'autres monstres. Une fois, tant que cette carte est face recto sur le Terrain, lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez détruire toutes les Magies et tous les Pièges sur le Terrain. Vous ne pouvez utiliser cet effet de \"Premier des Seigneurs Dragon\" qu'une fois par tour.",
+  "level": 11,
+  "atk": 3700,
+  "def": 3000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

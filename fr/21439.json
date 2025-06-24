@@ -1,0 +1,16 @@
+{
+  "id": 21439,
+  "type": "monster",
+  "name": "TASSE DE RÉVEIL ! Moka",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour, durant votre End Phase : vous pouvez changer cette carte en Position de Défense face verso. Vous ne pouvez utiliser chacun des effets suivants de \"TASSE DE RÉVEIL ! Moka\" qu'une fois par tour. Vous pouvez cibler 1 monstre en Position de Défense face verso sur le Terrain ; Invoquez Spécialement cette carte depuis votre main, et si vous le faites, changez le monstre en Position d'Attaque. Si cette carte est retournée face recto : vous pouvez cibler 1 monstre face recto sur le Terrain ; il gagne 1000 ATK, mais envoyez-le au Cimetière durant la End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effet"
+  ]
+}

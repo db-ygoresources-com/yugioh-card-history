@@ -1,0 +1,15 @@
+{
+  "id": 21438,
+  "type": "monster",
+  "name": "Genio de Leo el Demonio Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Para que un jugador Invoque de Modo Normal, desde su mano, un monstruo con más de 1350 ATK o DEF y un Nivel original 4 o menor, debe Invocarlo por Sacrificio Sacrificando 1 monstruo. Al comienzo del Damage Step, si esta carta batalla con un monstruo de LUZ: puedes destruir ese monstruo. Si esta carta es destruida en batalla o por el efecto de una carta: puedes añadir a tu mano 1 monstruo con 1350 ATK en tu Deck. Sólo puedes usar este efecto de \"Genio de Leo el Demonio Oscuro\" una vez por turno.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1200,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

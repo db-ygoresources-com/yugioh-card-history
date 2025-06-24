@@ -1,0 +1,19 @@
+{
+  "id": 21462,
+  "type": "monster",
+  "name": "Ukanomitsune-no-Onari",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres LUMIÈRE (un monstre Bête inclus)\nVotre adversaire ne peut pas cibler de cartes dans les Zones Terrain avec des effets de carte. Vous ne pouvez utiliser chacun des effets suivants de \"Ukanomitsune-no-Onari\" qu'une fois par tour. Si cette carte est Invoquée par Lien : vous pouvez cibler 1 Magie Jeu-Rapide dans votre Cimetière ; Posez-la. Si cette carte est détruite : pour chaque carte dans une Zone Terrain, vous pouvez appliquer 1 de ces effets. (Si vous appliquez les deux, appliquez-les dans l'ordre.)\n●Détruisez 1 carte contrôlée par votre adversaire.\n●Infligez 1500 points de dommages à votre adversaire.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Bête",
+    "Lien",
+    "Effet"
+  ]
+}

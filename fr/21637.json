@@ -1,0 +1,20 @@
+{
+  "id": 21637,
+  "type": "monster",
+  "name": "La Brute du Blues R.B.",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "2+ monstres Machine\nGagne les effets suivants tant que cette carte pointe un monstre \"R.B.\".\n●Gagne une ATK égale à la somme des ATK d'origine des monstres \"R.B.\" qu'elle pointe.\n●Peut faire une seconde attaque durant chaque Battle Phase.\n●Non destructible ni au combat ni par des effets de carte.\nDurant votre Main Phase : vous pouvez ajouter 1 carte \"R.B.\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"La Brute du Blues R.B.\" qu'une fois par tour.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

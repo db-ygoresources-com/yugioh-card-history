@@ -1,0 +1,15 @@
+{
+  "id": 21635,
+  "type": "monster",
+  "name": "Fusée VALCan R.B.",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si vous ne contrôlez aucun monstre face recto, ou que les seuls monstres face recto que vous contrôlez sont des monstres \"R.B.\", vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Fusée VALCan R.B.\" qu'une fois par tour de cette façon. Si cette carte est liée à un Monstre Lien \"R.B.\" : vous pouvez payer 1000 LP, puis ciblez max. 2 cartes contrôlées par votre adversaire ; détruisez-les et aussi cette carte, et si vous le faites, infligez 500 points de dommages à votre adversaire pour chaque carte détruite. Vous ne pouvez utiliser cet effet de \"Fusée VALCan R.B.\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

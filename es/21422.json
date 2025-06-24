@@ -1,0 +1,15 @@
+{
+  "id": 21422,
+  "type": "monster",
+  "name": "Artmagia Litera",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No recibes daño de batallas que involucren esta carta. Sólo puedes usar cada uno de los siguientes efectos de \"Artmagia Litera\" una vez por turno. Si controlas una carta \"Artmagia\": puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes añadir a tu mano 1 carta \"Artmagia\" en tu Cementerio. Durante la Main Phase de tu adversario (Efecto Rápido): puedes Invocar de Modo Especial 1 monstruo \"Artmagia\" desde tu mano o Cementerio, excepto \"Artmagia Litera\", y después devuelve esta carta del Campo a la mano.",
+  "level": 3,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21632,
+  "type": "monster",
+  "name": "Omnidestructeur Psychique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur Psychique\nChaque fois que votre adversaire active une carte ou un effet sur le Terrain (sauf durant la Damage Step) : vous pouvez payer 2000 LP, et déclarez 1 type de carte (Monstre, Magie ou Piège) (mais vous ne pouvez déclarer chaque type de carte qu'une fois par tour pour activer cet effet de \"Omnidestructeur Psychique\") ; regardez 1 carte au hasard dans la main de votre adversaire, et si elle est du type de carte déclaré, appliquez ces effets dans l'ordre (ignorez ceux qui ne s'appliquent pas).\n●Ce tour, cette carte ne peut pas être détruite par les effets du type de carte déclaré.\n●Jusqu'à la End Phase, bannissez face recto la carte que vous avez regardée.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 21438,
+  "type": "monster",
+  "name": "Löwenzauberer der dunkle Unterweltler",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Damit ein Spieler ein Monster mit mehr als 1350 ATK oder DEF und einer Grund-Stufe von 4 oder niedriger als Normalbeschwörung von seiner Hand beschwören kann, muss er es als Tributbeschwörung beschwören, indem er 1 Monster als Tribut anbietet. Am Beginn des Damage Steps, falls diese Karte gegen ein LICHT Monster kämpft: Du kannst jenes Monster zerstören. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst deiner Hand 1 Monster mit 1350 ATK von deinem Deck hinzufügen. Du kannst diesen Effekt von „Löwenzauberer der dunkle Unterweltler“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1200,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

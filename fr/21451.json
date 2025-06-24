@@ -1,0 +1,16 @@
+{
+  "id": 21451,
+  "type": "monster",
+  "name": "Artilleur Psychique Mk-II",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Syntoniseur Psychique + 1+ monstre non-Syntoniseur Psychique\nVous pouvez cibler 1 monstre banni ; Invoquez-le Spécialement sur votre Terrain. Durant la Main Phase (Effet Rapide) : vous pouvez bannir 1 monstre depuis votre Cimetière, puis ciblez 1 autre monstre face recto sur le Terrain ; bannissez-le, puis gagnez des LP égaux à l'ATK d'origine du monstre banni. Vous ne pouvez utiliser qu'1 effet de \"Artilleur Psychique Mk-II\" par tour, et uniquement une fois le tour.",
+  "level": 9,
+  "atk": 3200,
+  "def": 2700,
+  "properties": [
+    "Psychique",
+    "Synchro",
+    "Effet"
+  ]
+}

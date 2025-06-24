@@ -1,0 +1,16 @@
+{
+  "id": 21625,
+  "type": "monster",
+  "name": "Luce l'Oscurità del Crepuscolo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "3 mostri Demone e/o Fata nel tuo Cimitero\nI mostri nelle tue Zone Mostri Main più a sinistra e più a destra non possono essere distrutti dagli effetti delle carte. Puoi utilizzare ognuno dei seguenti effetti di \"Luce l'Oscurità del Crepuscolo\" una sola volta per turno. Puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; manda 1 mostro Demone o Fata dal tuo Deck al Cimitero e, se lo fai, distruggi quella carta. Se una o più altre carte che controlli vengono distrutte dall'effetto di una carta (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 carta sul Terreno; distruggila.",
+  "level": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Demone",
+    "Fusione",
+    "Effetto"
+  ]
+}

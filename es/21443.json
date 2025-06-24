@@ -1,0 +1,16 @@
+{
+  "id": 21443,
+  "type": "monster",
+  "name": "Artmagia Diactorus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "\"Medius el Puro\" + 1 monstruo \"Artmagia\"\nPuedes seleccionar 1 monstruo en el Campo; cambia su posición de batalla. Cuando tu adversario activa una carta o efecto en el Campo, si tienes 3 o más Tipos de Monstruo diferentes en tu Campo (Efecto Rápido): puedes negar la activación y, si lo haces, destruye esa carta. Si esta carta Invocada por Fusión es destruida: puedes Invocar de Modo Especial 1 \"Medius el Puro\" desde tu mano, Deck o destierro. Sólo puedes usar cada efecto de \"Artmagia Diactorus\" una vez por turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Hada",
+    "Fusión",
+    "Efecto"
+  ]
+}

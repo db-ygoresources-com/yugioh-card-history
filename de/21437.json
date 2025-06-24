@@ -1,0 +1,15 @@
+{
+  "id": 21437,
+  "type": "monster",
+  "name": "Morgana die Hexe der Augen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Morganit“-Karte behandelt.)\nWenn ein Monster eines Gegners einen Angriff deklariert: Du kannst 1 „Morganit“-Zauber von deinem Friedhof verbannen; annulliere jenen Angriff. Du kannst jeden der folgenden Effekte von „Morgana die Hexe der Augen“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Morganit“-Zauber von deinem Deck hinzufügen. Falls du 3 oder mehr „Morganit“-Zauber mit unterschiedlichen Namen in deinem Friedhof und/oder unter deinen verbannten Karten hast: Du kannst die ATK aller offenen Monster, die dein Gegner kontrolliert, zu 0 ändern.",
+  "level": 4,
+  "atk": 1500,
+  "def": 2100,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

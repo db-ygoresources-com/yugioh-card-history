@@ -1,0 +1,18 @@
+{
+  "id": 21434,
+  "type": "monster",
+  "name": "Chef de Nouvelles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone. You cannot activate the following effects of \"Chef de Nouvelles\" in the same Chain. Once per turn (Quick Effect): You can target 1 Effect Monster on the field; increase its Level by up to 3. Once per turn, if your opponent Special Summons a monster(s) (except during the Damage Step): You can banish 1 \"Recipe\" Ritual Spell from your hand, Deck, or GY; apply that card's activation effect that Ritual Summons a monster.",
+  "pendEffect": "During your Main Phase, if this card was activated this turn: You can add 1 non-Pendulum \"Nouvelles\" card from your Deck to your hand. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Chef de Nouvelles\" once per turn.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1000,
+  "def": 1850,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

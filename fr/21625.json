@@ -1,0 +1,16 @@
+{
+  "id": 21625,
+  "type": "monster",
+  "name": "Luce les Ténèbres du Crépuscule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "3 monstres Démon et/ou Elfe dans votre Cimetière\nLes monstres dans vos Zones Monstre Main la plus à gauche ou la plus à droite ne peuvent pas être détruits par des effets de carte. Vous ne pouvez utiliser chacun des effets suivants de \"Luce les Ténèbres du Crépuscule\" qu'une fois par tour. Vous pouvez cibler 1 carte contrôlée par votre adversaire ; envoyez 1 monstre Démon ou Elfe depuis votre Deck au Cimetière, et si vous le faites, détruisez la carte. Si une ou plusieurs autres cartes que vous contrôlez sont détruites par un effet de carte (sauf durant la Damage Step) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.",
+  "level": 8,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Effet"
+  ]
+}

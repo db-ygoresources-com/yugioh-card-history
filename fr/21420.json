@@ -1,0 +1,15 @@
+{
+  "id": 21420,
+  "type": "monster",
+  "name": "Finmel Artmage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Votre adversaire ne peut pas cibler de monstres \"Artmage\" de max. Niveau 6 que vous contrôlez avec des effets de carte. Vous ne pouvez utiliser chacun des effets suivants de \"Finmel Artmage\" qu'une fois par tour. Si vous contrôlez une carte \"Artmage\" : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez piocher 1 carte. Durant la Main Phase, si vous avez min. 3 Types de Monstre différents sur votre Terrain (Effet Rapide) : vous pouvez annuler les effets de tous les monstres face recto actuellement contrôlés par votre adversaire, et aussi, leur ATK sera divisée par deux jusqu'à la fin de ce tour.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

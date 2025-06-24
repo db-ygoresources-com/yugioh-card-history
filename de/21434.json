@@ -1,0 +1,18 @@
+{
+  "id": 21434,
+  "type": "monster",
+  "name": "Chefkoch der Nouvelles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte auf dem Spielfeld als Tribut angeboten und dem Extra Deck offen hinzugefügt wird: Du kannst diese Karte in deine Pendelzone legen. Du kannst die folgenden Effekte von „Chefkoch der Nouvelles“ nicht in derselben Kette aktivieren. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Effektmonster auf dem Spielfeld wählen; erhöhe seine Stufe um bis zu 3. Einmal pro Spielzug, falls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 „Rezept“-Ritualzauber von deiner Hand, deinem Deck oder deinem Friedhof verbannen; führe den Aktivierungseffekt jener Karte aus, der ein Monster als Ritualbeschwörung beschwört.",
+  "pendEffect": "Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst deiner Hand 1 „Nouvelles“-Nichtpendel-Karte von deinem Deck hinzufügen. Falls ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Chefkoch der Nouvelles“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1000,
+  "def": 1850,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

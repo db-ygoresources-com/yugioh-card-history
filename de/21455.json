@@ -1,0 +1,16 @@
+{
+  "id": 21455,
+  "type": "monster",
+  "name": "Heroischer Champion - Magnum Excalibur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Krieger-Monster der Stufe 4\nFalls diese Karte gegen ein Monster eines Gegners kämpft, während der Schadensberechnung: Du kannst 2 Material von dieser Karte abhängen; verdopple nur während der Schadensberechnung die ATK dieser Karte. Einmal pro Spielzug, während der Main Phase (Schnelleffekt): Du kannst 1 anderes offenes Monster wählen, das du kontrollierst; rüste es mit dieser Karte, die du kontrollierst, als Ausrüstungszauber aus, der ihm 2000 ATK/DEF gibt. Du kannst diese Karte von deinem Friedhof verbannen; mische 3 Krieger-Monster von deinem Friedhof ins Deck.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Xyz",
+    "Effekt"
+  ]
+}

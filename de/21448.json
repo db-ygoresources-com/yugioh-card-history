@@ -1,0 +1,16 @@
+{
+  "id": 21448,
+  "type": "monster",
+  "name": "Sekreterion-Drache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Drache-Monster + 1 Hexer-Monster\nDiese Karte verliert für jede deiner verbannten Karten 100 ATK. Solange du diese als Fusionsbeschwörung beschworene Karte kontrollierst, kann dein Gegner keine Effekte von als Spezialbeschwörung beschworenen Drache- oder Hexer-Monstern aktivieren, die er kontrolliert. Du kannst 1 Drache- und 1 Hexer-Monster in deinem Friedhof wählen; beschwöre 1 als Spezialbeschwörung und falls du dies tust, lege das andere unters Deck. Du kannst diesen Effekt von „Sekreterion-Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

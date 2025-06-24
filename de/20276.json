@@ -1,0 +1,15 @@
+{
+  "id": 20276,
+  "type": "monster",
+  "name": "Galaxie-Kriegsdrachling",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein oder mehr LICHT Monster der Stufe 4 als Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand (falls sie sich dort befand, als die Beschwörung aufgelöst wurde) oder deinem Friedhof (selbst falls nicht) beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst 1 anderes LICHT Monster der Stufe 4 wählen, das du kontrollierst; lasse sowohl jenes Monster als auch diese Karte bis zum Ende dieses Spielzugs zu Stufe 8 werden. Du kannst jeden Effekt von „Galaxie-Kriegsdrachling“ nur einmal pro Spielzug verwenden, zusätzlich kannst du in dem Spielzug, in dem du einen der Effekte dieser Karte aktivierst, keine Spezialbeschwörungen durchführen, außer von LICHT Monstern.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

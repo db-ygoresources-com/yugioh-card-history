@@ -1,0 +1,15 @@
+{
+  "id": 21427,
+  "type": "monster",
+  "name": "Prototyp Psychischer Sprenger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte abwerfen; beschwöre 1 Psi-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinen verbannten Karten. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1000 LP zahlen und 1 anderes Psi-Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Prototyp Psychischer Sprenger“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

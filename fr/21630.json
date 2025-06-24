@@ -1,0 +1,15 @@
+{
+  "id": 21630,
+  "type": "monster",
+  "name": "Sacrifice à Cordes d'Acier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est dans votre main ou Cimetière : vous pouvez révéler 1 monstre de min. Niveau 5 dans votre main, puis activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de \"Sacrifice à Cordes d'Acier\" qu'une fois par tour) ; durant la End Phase de ce tour, perdez 1000 LP si vous n'avez pas Invoqué Normalement le monstre révélé ou un monstre du même nom d'origine, après avoir activé cet effet.\n●Invoquez Spécialement cette carte depuis votre main.\n●Ajoutez cette carte depuis votre Cimetière à votre main.\n●Bannissez cette carte depuis votre Cimetière, et si vous le faites, ajoutez 1 monstre de min. Niveau 5 depuis votre Cimetière à votre main.",
+  "level": 1,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

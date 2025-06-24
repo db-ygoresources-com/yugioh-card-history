@@ -1,0 +1,16 @@
+{
+  "id": 21632,
+  "type": "monster",
+  "name": "Omnidemolitore Psichico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Tuner + 1+ mostri Psichico non-Tuner\nOgni volta che il tuo avversario attiva una carta o un effetto sul Terreno (eccetto durante il Damage Step): puoi pagare 2000 LP e dichiarare 1 tipo di carta (Mostro, Magia o Trappola) (ma puoi dichiarare ogni tipo di carta una sola volta per turno per attivare questo effetto di \"Omnidemolitore Psichico\"); guarda 1 carta a caso nella mano del tuo avversario e, se è del tipo di carta dichiarato, applica questi effetti in ordine (salta quelli che non si applicano).\n●Questa carta non può essere distrutta dagli effetti del tipo di carta dichiarato in questo turno.\n●Bandisci la carta che hai guardato, scoperta, fino alla End Phase.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psichico",
+    "Synchro",
+    "Effetto"
+  ]
+}

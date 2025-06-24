@@ -1,0 +1,16 @@
+{
+  "id": 21452,
+  "type": "monster",
+  "name": "DER Ham-Star",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger-Monster\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Karte abwerfen; beschwöre 1 Monster, das als Material für die Synchrobeschwörung dieser Karte verwendet wurde, als Spezialbeschwörung von deinem Friedhof und falls du dies tust, wird es als Empfänger behandelt. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 2 Karten abwerfen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „DER Ham-Star“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Ungeheuer",
+    "Synchro",
+    "Effekt"
+  ]
+}

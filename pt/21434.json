@@ -1,0 +1,18 @@
+{
+  "id": 21434,
+  "type": "monster",
+  "name": "Chef de Nouvelles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card no campo for oferecido como Tributo e adicionado ao Deck Adicional com a face para cima: você pode colocar este card na sua Zona de Pêndulo. Você não pode ativar os seguintes efeitos de \"Chef de Nouvelles\" na mesma Corrente. Uma vez por turno (Efeito Rápido): você pode escolher 1 Monstro de Efeito no campo; aumente o Nível dele em até 3. Uma vez por turno, se seu oponente Invocar um ou mais monstros por Invocação-Especial (exceto durante a Etapa de Dano): você pode banir 1 Magia de Ritual \"Receita\" da sua mão, do Deck ou do Cemitério; aplique o efeito de ativação desse card que Invoca um monstro por Invocação-Ritual.",
+  "pendEffect": "Durante sua Fase Principal, se este card foi ativado neste turno: você pode adicionar 1 card \"Nouvelles\" que não seja Pêndulo do seu Deck à sua mão. Se um ou mais monstros forem Invocados por Invocação-Especial no campo do seu oponente (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial. Você só pode usar cada efeito de \"Chef de Nouvelles\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1000,
+  "def": 1850,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

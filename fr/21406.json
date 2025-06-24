@@ -1,0 +1,15 @@
+{
+  "id": 21406,
+  "type": "monster",
+  "name": "Magicien Lunaire",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si votre adversaire contrôle un Monstre Xyz, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Magicien Lunaire\" qu'une fois par tour de cette façon. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre LUMIÈRE de Niveau 4 (\"Magicien Lunaire\" exclu) dans votre Cimetière ; Invoquez-le Spécialement, mais annulez ses effets. Vous ne pouvez utiliser cet effet de \"Magicien Lunaire\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

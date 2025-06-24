@@ -1,0 +1,15 @@
+{
+  "id": 21420,
+  "type": "monster",
+  "name": "Finmel Artmage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Il tuo avversario non può scegliere come bersaglio i mostri \"Artmage\" di Livello 6 o inferiore che controlli con gli effetti delle carte. Puoi utilizzare ognuno dei seguenti effetti di \"Finmel Artmage\" una sola volta per turno. Se controlli una carta \"Artmage\": puoi Evocare Specialmente questa carta dalla tua mano, poi puoi pescare 1 carta. Durante la Main Phase, se hai 3 o più Tipi di Mostro diversi sul tuo Terreno (Effetto Rapido): puoi annullare gli effetti di tutti i mostri scoperti attualmente controllati dal tuo avversario, inoltre fino alla fine di questo turno, il loro ATK viene dimezzato.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

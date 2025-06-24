@@ -1,0 +1,16 @@
+{
+  "id": 21448,
+  "type": "monster",
+  "name": "Dragon Sacretérion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre Dragon + 1 monstre Magicien\nCette carte perd 100 ATK pour chacune de vos cartes bannies. Tant que vous contrôlez cette carte Invoquée par Fusion, votre adversaire ne peut pas activer les effets des monstres Dragon ou Magicien Invoqués Spécialement qu'il contrôle. Vous pouvez cibler 1 monstre Dragon et 1 monstre Magicien dans votre Cimetière ; Invoquez-en Spécialement 1, et si vous le faites, placez l'autre au-dessous du Deck. Vous ne pouvez utiliser cet effet de \"Dragon Sacretérion\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

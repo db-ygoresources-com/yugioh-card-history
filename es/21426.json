@@ -1,0 +1,16 @@
+{
+  "id": 21426,
+  "type": "monster",
+  "name": "Método de la Mente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta que controlas fuera a ser usada como Material de Sincronía para un monstruo Psíquico, puedes tratarla como un monstruo que no sea Cantante. Sólo puedes usar 1 de los siguientes efectos de \"Método de la Mente\" por turno, y sólo una vez ese turno. Si esta carta es Invocada de Modo Normal, o Invocada de Modo Especial por un efecto de monstruo: puedes pagar 2000 LP; añade a tu mano 1 Mágica Normal o de Juego Rápido \"Teleportación\" en tu Deck o Cementerio. Si esta carta es desterrada: puedes pagar 1000 LP; Invócala de Modo Especial.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Psíquico",
+    "Cantante",
+    "Efecto"
+  ]
+}

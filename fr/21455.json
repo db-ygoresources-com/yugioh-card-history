@@ -1,0 +1,16 @@
+{
+  "id": 21455,
+  "type": "monster",
+  "name": "Champion Héroïque - Excalibur Magnum",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres Guerrier de Niveau 4\nSi cette carte combat un monstre de l'adversaire, durant le calcul des dommages : vous pouvez détacher 2 Matériels de cette carte ; durant le calcul des dommages uniquement, doublez l'ATK de cette carte. Une fois par tour, durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 autre monstre face recto que vous contrôlez ; équipez-lui cette carte que vous contrôlez comme Magie d'Équipement qui lui donne 2000 ATK/DEF. Vous pouvez bannir cette carte depuis votre Cimetière ; mélangez 3 monstres Guerrier depuis votre Cimetière dans le Deck.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

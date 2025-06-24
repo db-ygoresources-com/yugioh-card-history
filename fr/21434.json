@@ -1,0 +1,18 @@
+{
+  "id": 21434,
+  "type": "monster",
+  "name": "Chef de Nouvelles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte sur le Terrain est Sacrifiée et ajoutée face recto à l'Extra Deck : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez pas activer les effets suivants de \"Chef de Nouvelles\" dans la même Chaîne. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet sur le Terrain ; augmentez son Niveau de max. 3. Une fois par tour, si votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez bannir 1 Magie Rituelle \"Recette\" depuis votre main, Deck ou Cimetière ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre.",
+  "pendEffect": "Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez ajouter 1 carte non-Pendule \"Nouvelles\" depuis votre Deck à votre main. Si un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Chef de Nouvelles\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1000,
+  "def": 1850,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 21438,
+  "type": "monster",
+  "name": "Léo, le Sorcier Démon des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Pour qu'un joueur Invoque Normalement un monstre depuis sa main avec plus de 1350 ATK ou DEF et un Niveau d'origine de max. 4, il doit l'Invoquer par Sacrifice en Sacrifiant 1 monstre. Au début de la Damage Step, si cette carte combat un monstre LUMIÈRE : vous pouvez détruire le monstre. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez ajouter 1 monstre avec 1350 ATK depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Léo, le Sorcier Démon des Ténèbres\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1200,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

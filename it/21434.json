@@ -1,0 +1,18 @@
+{
+  "id": 21434,
+  "type": "monster",
+  "name": "Chef de Nouvelles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta sul Terreno viene offerta come Tributo e aggiunta all'Extra Deck scoperta: puoi mettere questa carta nella tua Zona Pendulum. Non puoi attivare i seguenti effetti di \"Chef de Nouvelles\" nella stessa Catena. Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 Mostro con Effetto sul Terreno; aumenta il suo Livello di fino a 3. Una volta per turno, se il tuo avversario Evoca Specialmente uno o più mostri (eccetto durante il Damage Step): puoi bandire 1 Magia Rituale \"Ricetta\" dalla tua mano, Deck o Cimitero; applica l'effetto dell'attivazione di quella carta che Evoca tramite Rituale un mostro.",
+  "pendEffect": "Durante la tua Main Phase, se questa carta è stata attivata in questo turno: puoi aggiungere 1 carta \"Nouvelles\" non-Pendulum dal tuo Deck alla tua mano. Se uno o più mostri vengono Evocati Specialmente sul Terreno del tuo avversario (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta. Puoi utilizzare ogni effetto di \"Chef de Nouvelles\" una sola volta per turno.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1000,
+  "def": 1850,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

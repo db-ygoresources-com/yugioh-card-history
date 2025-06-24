@@ -1,0 +1,16 @@
+{
+  "id": 21426,
+  "type": "monster",
+  "name": "Procédure Mentale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte que vous contrôlez va être utilisée comme Matériel Synchro pour un monstre Psychique, vous pouvez la traiter comme non-Syntoniseur. Vous ne pouvez utiliser qu'1 des effets suivants de \"Procédure Mentale\" par tour, et uniquement une fois le tour. Si cette carte est Invoquée Normalement, ou Invoquée Spécialement par un effet de monstre : vous pouvez payer 2000 LP ; ajoutez 1 Magie Normale ou Jeu-Rapide \"Téléportation\" depuis votre Deck ou Cimetière à votre main. Si cette carte est bannie : vous pouvez payer 1000 LP ; Invoquez-la Spécialement.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Psychique",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

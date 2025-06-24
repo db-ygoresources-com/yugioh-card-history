@@ -1,0 +1,15 @@
+{
+  "id": 21407,
+  "type": "monster",
+  "name": "Mondwache",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls dein Gegner 2 oder mehr Monster kontrolliert, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Mondwache“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird und dein Gegner ein Monster kontrolliert: Du kannst 1 LICHT Monster der Stufe 4 in deinem Friedhof wählen, außer „Mondwache“; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Mondwache“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

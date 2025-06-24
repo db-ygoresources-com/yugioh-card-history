@@ -1,0 +1,19 @@
+{
+  "id": 21627,
+  "type": "monster",
+  "name": "Corvo Milagroso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com \"Corvo Milagroso\". Deve ser Invocado por Invocação-Ritual. Este card Invocado por Invocação-Ritual não é afetado pelos efeitos ativados do seu oponente. Se você Invocar por Invocação-Ritual exatamente 1 Monstro de Ritual com um efeito de card que requer o uso de monstros, este card que você controla pode ser usado como todo o Tributo. Se este card for oferecido como Tributo para uma Invocação-Ritual: você pode adicionar 1 Monstro de Ritual do seu Deck à sua mão. Você só pode usar este efeito de \"Corvo Milagroso\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno, durante sua Fase Principal: você pode Invocar este card por Invocação-Ritual, ao oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual ou exceda 1.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Demônio",
+    "Ritual",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

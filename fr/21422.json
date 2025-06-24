@@ -1,0 +1,15 @@
+{
+  "id": 21422,
+  "type": "monster",
+  "name": "Litera Artmage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous ne recevez aucun dommage de combats impliquant cette carte. Vous ne pouvez utiliser chacun des effets suivants de \"Litera Artmage\" qu'une fois par tour. Si vous contrôlez une carte \"Artmage\" : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez ajouter 1 carte \"Artmage\" depuis votre Cimetière à votre main. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez Invoquer Spécialement 1 monstre \"Artmage\" (\"Litera Artmage\" exclu) depuis votre main ou Cimetière, puis renvoyez cette carte depuis le Terrain à la main.",
+  "level": 3,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

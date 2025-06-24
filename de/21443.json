@@ -1,0 +1,16 @@
+{
+  "id": 21443,
+  "type": "monster",
+  "name": "Kunstmagus Diactorus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "„Medius der Reine“ + 1 „Kunstmagus“-Monster\nDu kannst 1 Monster auf dem Spielfeld wählen; ändere seine Kampfposition. Wenn dein Gegner eine Karte oder einen Effekt auf dem Spielfeld aktiviert, falls du 3 oder mehr unterschiedliche Monstertypen auf deiner Spielfeldseite hast (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre jene Karte. Falls diese als Fusionsbeschwörung beschworene Karte zerstört wird: Du kannst 1 „Medius der Reine“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinen verbannten Karten beschwören. Du kannst jeden Effekt von „Kunstmagus Diactorus“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Fee",
+    "Fusion",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21632,
+  "type": "monster",
+  "name": "Omnidemolidor Psíquico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "1 Regulador + 1+ monstros Psíquico não-Reguladores\nSempre que seu oponente ativar um card ou efeito no campo (exceto durante a Etapa de Dano): você pode pagar 2000 PV e declarar 1 tipo de card (Monstro, Magia ou Armadilha) (mas você só pode declarar cada tipo de card uma vez por turno para ativar este efeito de \"Omnidemolidor Psíquico\"); olhe 1 card aleatório na mão do seu oponente, e se for do tipo de card declarado, aplique esses efeitos em sequência (pule qualquer um que não se aplique).\n●Este card não pode ser destruído pelos efeitos do tipo de card declarado neste turno.\n●Bana o card que você olhou, com a face para cima, até a Fase Final.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Psíquico",
+    "Sincro",
+    "Efeito"
+  ]
+}

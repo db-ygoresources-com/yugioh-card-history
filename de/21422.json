@@ -1,0 +1,15 @@
+{
+  "id": 21422,
+  "type": "monster",
+  "name": "Kunstmagus Litera",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du erhältst keinen Schaden aus Kämpfen, an denen diese Karte beteiligt ist. Du kannst jeden der folgenden Effekte von „Kunstmagus Litera“ nur einmal pro Spielzug verwenden. Falls du eine „Kunstmagus“-Karte kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du deiner Hand 1 „Kunstmagus“-Karte von deinem Friedhof hinzufügen. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 „Kunstmagus“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören, außer „Kunstmagus Litera“, dann gib diese Karte vom Spielfeld auf die Hand zurück.",
+  "level": 3,
+  "atk": 400,
+  "def": 1800,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

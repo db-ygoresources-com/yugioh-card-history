@@ -1,0 +1,15 @@
+{
+  "id": 21420,
+  "type": "monster",
+  "name": "Finmel de Artmage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Seu oponente não pode escolher monstros \"Artmage\" de Nível 6 ou menos que você controla como alvo de efeitos de card. Você só pode usar cada um dos seguintes efeitos de \"Finmel de Artmage\" uma vez por turno. Se você controlar um card \"Artmage\": você pode Invocar este card por Invocação-Especial da sua mão e, depois, você pode comprar 1 card. Durante a Fase Principal, se você tiver 3 ou mais Tipos de Monstro diferentes no seu campo (Efeito Rápido): você pode negar os efeitos de todos os monstros com a face para cima que seu oponente controla atualmente e, além disso, até o final deste turno, o ATK deles é diminuído pela metade.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 21627,
+  "type": "monster",
+  "name": "Cuervo Milagroso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Cuervo Milagroso\". Debe ser Invocada por Ritual. Esta carta Invocada por Ritual no es afectada por los efectos activados de tu adversario. Si Invocas por Ritual exactamente 1 Monstruo de Ritual con un efecto de carta que requiere el uso de monstruos, esta carta que controlas puede ser usada como todo el Sacrificio. Si esta carta es Sacrificada para una Invocación por Ritual: puedes añadir a tu mano 1 Monstruo de Ritual en tu Deck. Sólo puedes usar este efecto de \"Cuervo Milagroso\" una vez por turno.",
+  "pendEffect": "Una vez por turno, durante tu Main Phase: puedes Invocar esta carta por Ritual, Sacrificando monstruos en tu mano o Campo cuyos Niveles totales sean iguales o superen 1.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 300,
+  "def": 300,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Péndulo",
+    "Efecto"
+  ]
+}

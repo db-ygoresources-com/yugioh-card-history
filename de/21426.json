@@ -1,0 +1,16 @@
+{
+  "id": 21426,
+  "type": "monster",
+  "name": "Gedankenprozedur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte, die du kontrollierst, als Synchromaterial für ein Psi-Monster verwendet würde, kannst du sie als Nicht-Empfänger behandeln. Du kannst nur 1 der folgenden Effekte von „Gedankenprozedur“ pro Spielzug verwenden und in jenem Spielzug nur einmal. Falls diese Karte als Normalbeschwörung oder durch einen Monstereffekt als Spezialbeschwörung beschworen wird: Du kannst 2000 LP zahlen; füge deiner Hand 1 Normalen „Teleport“-Zauber oder „Teleport“-Schnellzauber von deinem Deck oder Friedhof hinzu. Falls diese Karte verbannt wird: Du kannst 1000 LP zahlen; beschwöre sie als Spezialbeschwörung.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1100,
+  "properties": [
+    "Psi",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21443,
+  "type": "monster",
+  "name": "Diactorus Artmage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "\"Medius il Puro\" + 1 mostro \"Artmage\"\nPuoi scegliere come bersaglio 1 mostro sul Terreno; cambia la sua posizione. Quando il tuo avversario attiva una carta o un effetto sul Terreno, se hai 3 o più Tipi di Mostro diversi sul tuo Terreno (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, distruggi quella carta. Se questa carta Evocata tramite Fusione viene distrutta: puoi Evocare Specialmente 1 \"Medius il Puro\" dalla tua mano, Deck o carte bandite. Puoi utilizzare ogni effetto di \"Diactorus Artmage\" una sola volta per turno.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Fata",
+    "Fusione",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 21434,
+  "type": "monster",
+  "name": "Chef de Nouvelles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta en el Campo es Sacrificada y añadida al Deck Extra boca arriba: puedes poner esta carta en tu Zona de Péndulo. No puedes activar los siguientes efectos de \"Chef de Nouvelles\" en la misma Cadena. Una vez por turno (Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto en el Campo; aumenta su Nivel hasta en 3. Una vez por turno, si tu adversario Invoca de Modo Especial uno o más monstruos (excepto durante el Damage Step): puedes desterrar 1 Mágica de Ritual \"Receta\" desde tu mano, Deck o Cementerio; aplica el efecto de activación de esa carta que Invoca un monstruo por Ritual.",
+  "pendEffect": "Durante tu Main Phase, si esta carta fue activada este turno: puedes añadir a tu mano 1 carta \"Nouvelles\" que no sea de Péndulo en tu Deck. Si uno o más monstruos son Invocados de Modo Especial al Campo de tu adversario (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial. Sólo puedes usar cada efecto de \"Chef de Nouvelles\" una vez por turno.",
+  "pendScale": 0,
+  "level": 3,
+  "atk": 1000,
+  "def": 1850,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 21437,
+  "type": "monster",
+  "name": "Morgana la Sorcière des Yeux",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Morganite\".)\nLorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir 1 Magie \"Morganite\" depuis votre Cimetière ; annulez l'attaque. Vous ne pouvez utiliser chacun des effets suivants de \"Morgana la Sorcière des Yeux\" qu'une fois par tour. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie \"Morganite\" depuis votre Deck à votre main. Si vous avez min. 3 Magies \"Morganite\" de noms différents dans votre Cimetière et/ou bannissement : vous pouvez changer à 0 l'ATK de tous les monstres face recto contrôlés par votre adversaire.",
+  "level": 4,
+  "atk": 1500,
+  "def": 2100,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21457,
+  "type": "monster",
+  "name": "Derrota Almas Piedras",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ monstruos \"Derrota Almas\" de Nivel 4\nUna vez por turno, si un monstruo \"Derrota Almas\" batalló este turno, también puedes Invocar Xyz \"Derrota Almas Piedras\" usando 1 monstruo \"Derrota Almas\" o 1 \"Piedra del Derrotador\" que controles (transfiere sus materiales a esta carta). Gana los siguientes efectos, basados en los Atributos de sus materiales acoplados.\n●OSCURIDAD: Todos los monstruos que controla tu adversario pierden 800 ATK.\n●FUEGO: Los monstruos \"Derrota Almas\" que controlas ganan 1000 ATK.\n●TIERRA: Puedes desacoplar 1 material de esta carta; destruye 1 carta que controle tu adversario.",
+  "rank": 4,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Piro",
+    "Xyz",
+    "Efecto"
+  ]
+}

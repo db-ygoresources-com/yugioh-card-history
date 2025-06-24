@@ -1,0 +1,16 @@
+{
+  "id": 21443,
+  "type": "monster",
+  "name": "Diactorus Artmage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "\"Medius le Pur\" + 1 monstre \"Artmage\"\nVous pouvez cibler 1 monstre sur le Terrain ; changez sa position de combat. Lorsque votre adversaire active une carte ou un effet sur le Terrain, si vous avez min. 3 Types de Monstre différents sur votre Terrain (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte. Si cette carte Invoquée par Fusion est détruite : vous pouvez Invoquer Spécialement 1 \"Medius le Pur\" depuis votre main, Deck ou bannissement. Vous ne pouvez utiliser chaque effet de \"Diactorus Artmage\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2500,
+  "properties": [
+    "Elfe",
+    "Fusion",
+    "Effet"
+  ]
+}

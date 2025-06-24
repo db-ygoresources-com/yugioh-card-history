@@ -1,0 +1,16 @@
+{
+  "id": 21424,
+  "type": "monster",
+  "name": "Chica Psíquica Serena",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: puedes desterrar 1 carta en tu mano y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 monstruo Psíquico de Nivel 4 o menor, excepto \"Chica Psíquica Serena\", y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Psíquico. Puedes seleccionar monstruos boca arriba en el Campo hasta el número de monstruos Psíquico que controles; aumenta sus Niveles en 1 hasta el final de este turno. Sólo puedes usar cada efecto de \"Chica Psíquica Serena\" una vez por turno.",
+  "level": 2,
+  "atk": 500,
+  "def": 300,
+  "properties": [
+    "Psíquico",
+    "Cantante",
+    "Efecto"
+  ]
+}

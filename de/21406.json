@@ -1,0 +1,15 @@
+{
+  "id": 21406,
+  "type": "monster",
+  "name": "Mondmagier",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls dein Gegner ein Xyz-Monster kontrolliert, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Mondmagier“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 LICHT Monster der Stufe 4 in deinem Friedhof wählen, außer „Mondmagier“; beschwöre es als Spezialbeschwörung, aber annulliere seine Effekte. Du kannst diesen Effekt von „Mondmagier“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}
