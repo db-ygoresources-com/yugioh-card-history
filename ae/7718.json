@@ -1,0 +1,16 @@
+{
+  "id": 7718,
+  "type": "monster",
+  "name": "Psychic Commander",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If your Psychic monster battles, during the Damage Step (Quick Effect): You can target the opponent's battling monster and pay LP in multiples of 100 (max. 500) once per battle; that target loses that much ATK/DEF, until the end of this turn.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Psychic",
+    "Tuner",
+    "Effect"
+  ]
+}

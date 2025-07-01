@@ -1,0 +1,16 @@
+{
+  "id": 9207,
+  "type": "monster",
+  "name": "Psychic Nightmare",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "1 Tuner + 1+ non-Tuner Psychic monsters\nOnce per turn, during your Main Phase: You can pick 1 random card in your opponent's hand and call a card type (Monster, Spell, or Trap), and if you call it right, this card gains 1000 ATK until the end of your opponent's next turn.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Psychic",
+    "Synchro",
+    "Effect"
+  ]
+}
