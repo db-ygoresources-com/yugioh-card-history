@@ -1,0 +1,16 @@
+{
+  "id": 21382,
+  "type": "monster",
+  "name": "K9-X \"Loup-Garou\"",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 9\nTant que cette carte a du Matériel, elle peut attaquer un nombre de fois chaque Battle Phase, inférieur ou égal au nombre de Matériels qui lui sont attachés. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte, puis activez cet effet selon le tour ;\n●Le vôtre : Bannissez max. 1 carte depuis le Terrain de votre adversaire et max. 1 carte depuis le Cimetière de votre adversaire.\n●Celui de l'adversaire : Jusqu'à la End Phase, regardez la main de votre adversaire et bannissez-en face recto 1 carte.\nVous ne pouvez utiliser cet effet de \"K9-X \"Loup-Garou\"\" qu'une fois par tour.",
+  "rank": 9,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Bête-Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

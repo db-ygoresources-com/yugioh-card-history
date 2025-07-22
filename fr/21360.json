@@ -1,0 +1,16 @@
+{
+  "id": 21360,
+  "type": "monster",
+  "name": "Gulamel Queudragon",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "1 monstre \"Queudragon\" + 1 monstre dans la main\nLorsque vous activez une carte ou effet \"Queudragon\" (Effet Rapide) : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la. Si min. 2 monstres sont envoyés au Cimetière en même temps, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Gulamel Queudragon\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

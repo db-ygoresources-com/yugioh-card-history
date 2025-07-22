@@ -1,0 +1,16 @@
+{
+  "id": 21359,
+  "type": "monster",
+  "name": "Arthalion Queudragon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Queudragon\" + 1+ monstre dans la main\nSi cette carte est Invoquée par Fusion : vous pouvez cibler un nombre de monstres sur le Terrain et/ou Cimetières, inférieur ou égal au nombre de monstres utilisés comme Matériel depuis la main ; renvoyez-les à la main. Si min. 2 monstres sont envoyés au Cimetière en même temps, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Arthalion Queudragon\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Effet"
+  ]
+}

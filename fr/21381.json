@@ -1,0 +1,16 @@
+{
+  "id": 21381,
+  "type": "monster",
+  "name": "K9-ØØ \"Chien de Meute\"",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 5\nNon destructible ni au combat ni par des effets de carte de votre adversaire le tour où elle est Invoquée Spécialement. Chaque fois que votre adversaire active un effet de monstre, cette carte gagne 500 ATK lorsque l'effet est résolu. Une fois par tour, durant la Standby Phase : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 carte sur le Terrain ; bannissez-la.",
+  "rank": 5,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Bête-Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

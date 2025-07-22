@@ -1,0 +1,16 @@
+{
+  "id": 21360,
+  "type": "monster",
+  "name": "Drachoschwanz Gulamel",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "1 „Drachoschwanz“-Monster + 1 Monster in der Hand\nWenn du eine „Drachoschwanz“-Karte oder einen „Drachoschwanz“-Effekt aktivierst (Schnelleffekt): Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie. Falls 2 oder mehr Monster gleichzeitig auf den Friedhof gelegt werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Drachoschwanz Gulamel“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2300,
+  "properties": [
+    "Hexer",
+    "Fusion",
+    "Effekt"
+  ]
+}

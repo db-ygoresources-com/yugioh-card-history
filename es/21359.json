@@ -1,0 +1,16 @@
+{
+  "id": 21359,
+  "type": "monster",
+  "name": "Dracocola Arthalion",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo \"Dracocola\" + 1+ monstruos en la mano\nSi esta carta es Invocada por Fusión: puedes seleccionar monstruos en el Campo y/o Cementerios, hasta el número de monstruos usados como material desde la mano; devuélvelos a la mano. Si 2 o más monstruos son mandados al Cementerio al mismo tiempo, mientras esta carta esté en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Dracocola Arthalion\" una vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}
