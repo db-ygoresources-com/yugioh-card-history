@@ -1,0 +1,18 @@
+{
+  "id": 21069,
+  "type": "monster",
+  "name": "D/D Supervisore dei Segnalini",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scartare 1 altro mostro \"D/D\"; Evoca Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"D/D\" con ATK o DEF 0 dal tuo Deck alla tua mano. Puoi utilizzare ogni effetto di \"D/D Supervisore dei Segnalini\" una sola volta per turno.",
+  "pendEffect": "Una volta per turno, se Evochi Pendulum uno o più mostri \"D/D/D\": puoi scegliere come bersaglio 3 mostri controllati dal tuo avversario con lo stesso Tipo o Attributo l'uno dell'altro; offri come Tributo 2 di quei 3 mostri scoperti e, se lo fai, il terzo guadagna ATK/DEF pari alla somma degli ATK/DEF che i mostri offerti come Tributo avevano sul Terreno.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

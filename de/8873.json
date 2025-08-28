@@ -1,0 +1,15 @@
+{
+  "id": 8873,
+  "type": "monster",
+  "name": "Eispuppe",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Du kannst 1 anderes WASSER Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 WASSER Hexer-Monster von deinem Deck hinzufügen. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Eispuppen-Spiegel“ von deinem Deck hinzufügen. Du kannst jeden Effekt von „Eispuppe“ nur einmal pro Spielzug verwenden, zusätzlich kannst du in dem Spielzug, in dem du einen der Effekte dieser Karte aktivierst, keine Spezialbeschwörungen durchführen, außer von WASSER Monstern.",
+  "level": 2,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

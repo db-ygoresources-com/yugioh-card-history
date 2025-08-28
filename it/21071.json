@@ -1,0 +1,18 @@
+{
+  "id": 21071,
+  "type": "monster",
+  "name": "D/D Supervisore Extra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi scartare questa carta; aggiungi 1 Mostro Pendulum \"D/D\" scoperto dal tuo Extra Deck alla tua mano, eccetto \"D/D Supervisore Extra\". Se questa carta viene bandita: puoi bandire carte dalla cima del Deck del tuo avversario pari al numero di Mostri Pendulum scoperti nel suo Extra Deck, poi puoi far guadagnare a 1 mostro \"D/D\" che controlli 200 ATK per ogni carta bandita. Puoi utilizzare ogni effetto di \"D/D Supervisore Extra\" una sola volta per turno.",
+  "pendEffect": "Se una o più Carte Mostro scoperte controllate dal tuo avversario vengono distrutte in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro \"D/D/D\" che controlli; bandisci 2 carte dalle tue Zone Pendulum e, se lo fai, quel mostro può effettuare un secondo attacco durante ogni Battle Phase in questo turno. Puoi utilizzare questo effetto di \"D/D Supervisore Extra\" una sola volta per turno.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

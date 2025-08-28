@@ -1,0 +1,16 @@
+{
+  "id": 21062,
+  "type": "monster",
+  "name": "Fledermaus, der Wald-Ninja",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls eine offene Karte in einer Spielfeldzone liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Fledermaus, der Wald-Ninja“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird und „Märchenbeginn: Reise bei Dämmerung“ auf deiner Spielfeldseite oder in deinem Friedhof liegt: Du kannst deiner Hand 1 LICHT Ungeheuer-Monster von deinem Deck hinzufügen. Du kannst diesen Effekt von „Fledermaus, der Wald-Ninja“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

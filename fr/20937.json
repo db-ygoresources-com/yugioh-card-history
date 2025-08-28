@@ -1,0 +1,19 @@
+{
+  "id": 20937,
+  "type": "monster",
+  "name": "Nékroz de Métaltron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement en utilisant des monstres, et vous ne pouvez pas utiliser des monstres de Niveau 9. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; bannissez cette carte (jusqu'à la End Phase), et si vous le faites, bannissez le monstre. Vous ne pouvez utiliser cet effet de \"Nékroz de Métaltron\" qu'une fois par tour. Les monstres détruits au combat avec votre monstre \"Nékroz\" sont bannis.",
+  "pendEffect": "Si une ou plusieurs de vos cartes \"Nékroz\" sont bannies face recto (sauf durant la Damage Step) : vous pouvez cibler 1 Magie/Piège sur le Terrain ; bannissez-le. Vous ne pouvez utiliser cet effet de \"Nékroz de Métaltron\" qu'une fois par tour.",
+  "pendScale": 5,
+  "level": 9,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Rituel",
+    "Pendule",
+    "Effet"
+  ]
+}

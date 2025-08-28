@@ -1,0 +1,18 @@
+{
+  "id": 21071,
+  "type": "monster",
+  "name": "D/D-Extrainspekteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte abwerfen; füge deiner Hand 1 offenes „D/D“-Pendelmonster von deinem Extra Deck hinzu, außer „D/D-Extrainspekteur“. Falls diese Karte verbannt wird: Du kannst die obersten Karten vom Deck deines Gegners in Höhe der Anzahl der offenen Pendelmonster in seinem Extra Deck verbannen, dann kannst du 1 „D/D“-Monster, das du kontrollierst, für jede verbannte Karte 200 ATK erhalten lassen. Du kannst jeden Effekt von „D/D-Extrainspekteur“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls eine oder mehr offene Monsterkarten, die dein Gegner kontrolliert, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst 1 „D/D/D“-Monster wählen, das du kontrollierst; verbanne 2 Karten von deinen Pendelzonen und falls du dies tust, kann jenes Monster in diesem Spielzug während jeder Battle Phase einen zweiten Angriff durchführen. Du kannst diesen Effekt von „D/D-Extrainspekteur“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

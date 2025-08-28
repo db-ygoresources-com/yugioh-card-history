@@ -1,0 +1,18 @@
+{
+  "id": 21070,
+  "type": "monster",
+  "name": "D/D Agrimensor de Escala",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas una Carta de Monstruo de Péndulo \"D/D\": puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes hacer que esta carta sea de Nivel 4. Si esta carta es mandada al Cementerio, o añadida al Deck Extra boca arriba: puedes seleccionar 1 Carta de Monstruo de Péndulo \"D/D\" que controles; devuélvela a la mano. Sólo puedes usar cada efecto de \"D/D Agrimensor de Escala\" una vez por turno.",
+  "pendEffect": "Durante la Standby Phase: puedes seleccionar hasta 2 cartas en las Zonas de Péndulo; sus Escalas de Péndulo se convierten en 0 hasta el final de este turno. Sólo puedes usar este efecto de \"D/D Agrimensor de Escala\" una vez por turno.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

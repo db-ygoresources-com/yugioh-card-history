@@ -1,0 +1,19 @@
+{
+  "id": 20937,
+  "type": "monster",
+  "name": "Necroz de Metaltron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Necroz\". Debe ser Invocada por Ritual, usando monstruos, y no puedes usar monstruos de Nivel 9. Durante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; destierra esta carta (hasta la End Phase) y, si lo haces, destierra ese monstruo. Sólo puedes usar este efecto de \"Necroz de Metaltron\" una vez por turno. Cualquier monstruo destruido en batalla con tu monstruo \"Necroz\" es desterrado.",
+  "pendEffect": "Si una o más de tus cartas \"Necroz\" son desterradas boca arriba (excepto durante el Damage Step): puedes seleccionar 1 Mágica/Trampa en el Campo; destiérrala. Sólo puedes usar este efecto de \"Necroz de Metaltron\" una vez por turno.",
+  "pendScale": 5,
+  "level": 9,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Ritual",
+    "Péndulo",
+    "Efecto"
+  ]
+}

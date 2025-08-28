@@ -1,0 +1,18 @@
+{
+  "id": 21071,
+  "type": "monster",
+  "name": "D/D Agrimensor Extra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes descartar esta carta; añade a tu mano 1 Monstruo de Péndulo \"D/D\" boca arriba en tu Deck Extra, excepto \"D/D Agrimensor Extra\". Si esta carta es desterrada: puedes desterrar cartas de la parte superior del Deck de tu adversario igual al número de Monstruos de Péndulo boca arriba en su Deck Extra, y después puedes hacer que 1 monstruo \"D/D\" que controles gane 200 ATK por cada carta desterrada. Sólo puedes usar cada efecto de \"D/D Agrimensor Extra\" una vez por turno.",
+  "pendEffect": "Si una o más Cartas de Monstruo boca arriba que controle tu adversario son destruidas en batalla o por el efecto de una carta: puedes seleccionar 1 monstruo \"D/D/D\" que controles; destierra 2 cartas en tus Zonas de Péndulo y, si lo haces, ese monstruo puede hacer un segundo ataque durante cada Battle Phase este turno. Sólo puedes usar este efecto de \"D/D Agrimensor Extra\" una vez por turno.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21062,
+  "type": "monster",
+  "name": "Le Ninja des Forêts Bat",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si une carte face recto est dans une Zone Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Le Ninja des Forêts Bat\" qu'une fois par tour de cette façon. Si cette carte est Invoquée Normalement ou Spécialement, et que \"Premier Chapitre du Conte de Fées : L'Aube du Départ\" est dans votre Terrain ou Cimetière : vous pouvez ajouter 1 monstre LUMIÈRE Bête depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Le Ninja des Forêts Bat\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Bête",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

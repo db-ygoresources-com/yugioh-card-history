@@ -1,0 +1,15 @@
+{
+  "id": 20928,
+  "type": "monster",
+  "name": "Stégo Préhistorique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Durant votre Main Phase : vous pouvez détruire 1 carte que vous contrôlez, et si vous le faites, envoyez 1 monstre Dinosaure depuis votre Deck au Cimetière, puis vous pouvez Invoquer Spécialement un ou plusieurs monstres \"Préhistorique\" (\"Stégo Préhistorique\" exclu) depuis votre main et/ou Deck, dont la somme des Niveaux est égale au Niveau du monstre envoyé, en ignorant leurs conditions d'Invocation, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Dinosaure exclus) le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Stégo Préhistorique\" qu'une fois par tour. Lorsque cette carte est détruite au combat : vous pouvez renvoyer 1 carte face recto sur le Terrain à la main.",
+  "level": 4,
+  "atk": 1700,
+  "def": 900,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

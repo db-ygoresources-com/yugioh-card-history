@@ -1,0 +1,15 @@
+{
+  "id": 8873,
+  "type": "monster",
+  "name": "Bambola di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Puoi scartare 1 altro mostro ACQUA; Evoca Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro ACQUA Incantatore dal tuo Deck alla tua mano. Se questa carta viene mandata dal Terreno al Cimitero: puoi aggiungere 1 \"Specchio Bambola di Ghiaccio\" dal tuo Deck alla tua mano. Puoi utilizzare ogni effetto di \"Bambola di Ghiaccio\" una sola volta per turno, inoltre non puoi Evocare Specialmente nel turno in cui attivi qualsiasi degli effetti di questa carta, eccetto mostri ACQUA.",
+  "level": 2,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

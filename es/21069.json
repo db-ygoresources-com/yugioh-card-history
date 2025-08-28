@@ -1,0 +1,18 @@
+{
+  "id": 21069,
+  "type": "monster",
+  "name": "D/D Agrimensor Contador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes descartar otro monstruo \"D/D\"; Invoca esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"D/D\" en tu Deck con 0 ATK o DEF. Sólo puedes usar cada efecto de \"D/D Agrimensor Contador\" una vez por turno.",
+  "pendEffect": "Una vez por turno, si Invocas por Péndulo uno o más monstruos \"D/D/D\": puedes seleccionar 3 monstruos que controle tu adversario con el mismo Tipo o Atributo entre ellos; Sacrifica 2 de esos 3 monstruos boca arriba y, si lo haces, el tercero gana ATK/DEF iguales al total de ATK/DEF que los monstruos Sacrificados tenían en el Campo.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

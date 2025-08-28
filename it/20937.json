@@ -1,0 +1,19 @@
+{
+  "id": 20937,
+  "type": "monster",
+  "name": "Nekroz di Metaltron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con qualsiasi Magia Rituale \"Nekroz\". Deve essere Evocato tramite Rituale, utilizzando mostri, e non puoi utilizzare mostri di Livello 9. Durante la Main Phase (Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; bandisci questa carta (fino alla End Phase) e, se lo fai, bandisci quel mostro. Puoi utilizzare questo effetto di \"Nekroz di Metaltron\" una sola volta per turno. Qualsiasi mostro distrutto in battaglia con un tuo mostro \"Nekroz\" viene bandito.",
+  "pendEffect": "Se una o più tue carte \"Nekroz\" vengono bandite scoperte (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 Magia/Trappola sul Terreno; bandiscila. Puoi utilizzare questo effetto di \"Nekroz di Metaltron\" una sola volta per turno.",
+  "pendScale": 5,
+  "level": 9,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Rituale",
+    "Pendulum",
+    "Effetto"
+  ]
+}

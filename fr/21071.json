@@ -1,0 +1,18 @@
+{
+  "id": 21071,
+  "type": "monster",
+  "name": "D/D Arpenteur Extra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez défausser cette carte ; ajoutez 1 Monstre Pendule \"D/D\" face recto (\"D/D Arpenteur Extra\" exclu) depuis votre Extra Deck à votre main. Si cette carte est bannie : vous pouvez bannir un nombre de cartes du dessus du Deck de votre adversaire égal au nombre de Monstres Pendule face recto dans son Extra Deck, puis vous pouvez faire gagner 200 ATK à 1 monstre \"D/D\" que vous contrôlez pour chaque carte qui a été bannie. Vous ne pouvez utiliser chaque effet de \"D/D Arpenteur Extra\" qu'une fois par tour.",
+  "pendEffect": "Si une ou plusieurs Cartes Monstre face recto contrôlées par votre adversaire sont détruites au combat ou par un effet de carte : vous pouvez cibler 1 monstre \"D/D/D\" que vous contrôlez ; bannissez 2 cartes depuis vos Zones Pendule, et si vous le faites, le monstre peut faire une seconde attaque durant chaque Battle Phase ce tour. Vous ne pouvez utiliser cet effet de \"D/D Arpenteur Extra\" qu'une fois par tour.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

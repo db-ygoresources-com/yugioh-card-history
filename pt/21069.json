@@ -1,0 +1,18 @@
+{
+  "id": 21069,
+  "type": "monster",
+  "name": "D/D Pesquisador de Marcas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Você pode descartar 1 outro monstro \"D/D\"; Invoque este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 monstro \"D/D\" com 0 de ATK ou DEF do seu Deck à sua mão. Você só pode usar cada efeito de \"D/D Pesquisador de Marcas\" uma vez por turno.",
+  "pendEffect": "Uma vez por turno, se você Invocar por Invocação-Pêndulo um ou mais monstros \"D/D/D\": você pode escolher 3 monstros que seu oponente controla com o mesmo Tipo ou Atributo um do outro; ofereça como Tributo 2 desses 3 monstros com a face para cima e, se isso acontecer, o terceiro ganha ATK/DEF igual à soma do ATK/DEF que os monstros oferecidos como Tributo tinham no campo.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

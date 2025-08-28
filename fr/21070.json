@@ -1,0 +1,18 @@
+{
+  "id": 21070,
+  "type": "monster",
+  "name": "D/D Arpenteur d'Échelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous contrôlez une Carte Monstre Pendule \"D/D\" : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez faire devenir Niveau 4 cette carte. Si cette carte est envoyée au Cimetière ou ajoutée face recto à l'Extra Deck : vous pouvez cibler 1 Carte Monstre Pendule \"D/D\" que vous contrôlez ; renvoyez-la à la main. Vous ne pouvez utiliser chaque effet de \"D/D Arpenteur d'Échelle\" qu'une fois par tour.",
+  "pendEffect": "Durant la Standby Phase : vous pouvez cibler max. 2 cartes dans les Zones Pendule ; jusqu'à la fin de ce tour, leur Échelle Pendule devient 0. Vous ne pouvez utiliser cet effet de \"D/D Arpenteur d'Échelle\" qu'une fois par tour.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

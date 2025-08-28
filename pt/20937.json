@@ -1,0 +1,19 @@
+{
+  "id": 20937,
+  "type": "monster",
+  "name": "Necroz de Metaltron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com qualquer Magia de Ritual \"Necroz\". Deve ser Invocado por Invocação-Ritual, usando monstros, e você não pode usar monstros de Nível 9. Durante a Fase Principal (Efeito Rápido): você pode escolher 1 monstro com a face para cima que seu oponente controla; bana este card (até a Fase Final) e, se isso acontecer, bana esse monstro. Você só pode usar este efeito de \"Necroz de Metaltron\" uma vez por turno. Qualquer monstro destruído em batalha com um monstro \"Necroz\" seu é banido.",
+  "pendEffect": "Se um ou mais cards \"Necroz\" seus forem banidos com a face para cima (exceto durante a Etapa de Dano): você pode escolher 1 Magia/Armadilha no campo; bana-a. Você só pode usar este efeito de \"Necroz de Metaltron\" uma vez por turno.",
+  "pendScale": 5,
+  "level": 9,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Ritual",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

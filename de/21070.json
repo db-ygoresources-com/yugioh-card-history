@@ -1,0 +1,18 @@
+{
+  "id": 21070,
+  "type": "monster",
+  "name": "D/D-Bereichsinspekteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du eine „D/D“-Pendelmonsterkarte kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst diese Karte zu Stufe 4 werden lassen. Falls diese Karte auf den Friedhof gelegt oder offen dem Extra Deck hinzugefügt wird: Du kannst 1 „D/D“-Pendelmonsterkarte wählen, die du kontrollierst; gib sie auf die Hand zurück. Du kannst jeden Effekt von „D/D-Bereichsinspekteur“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während der Standby Phase: Du kannst bis zu 2 Karten in den Pendelzonen wählen; ihre Pendelbereiche werden bis zum Ende dieses Spielzugs zu 0. Du kannst diesen Effekt von „D/D-Bereichsinspekteur“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

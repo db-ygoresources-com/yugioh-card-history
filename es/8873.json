@@ -1,0 +1,15 @@
+{
+  "id": 8873,
+  "type": "monster",
+  "name": "Muñeca de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes descartar otro monstruo de AGUA; Invoca esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo de AGUA Lanzador de Conjuros en tu Deck. Si esta carta es mandada del Campo al Cementerio: puedes añadir a tu mano 1 \"Espejo de la Muñeca de Hielo\" en tu Deck. Sólo puedes usar cada efecto de \"Muñeca de Hielo\" una vez por turno, y además no puedes Invocar de Modo Especial el turno en el que activas cualquiera de los efectos de esta carta, excepto monstruos de AGUA.",
+  "level": 2,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

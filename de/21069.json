@@ -1,0 +1,18 @@
+{
+  "id": 21069,
+  "type": "monster",
+  "name": "D/D-Zählinspekteur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 anderes „D/D“-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „D/D“-Monster mit 0 ATK oder DEF von deinem Deck hinzufügen. Du kannst jeden Effekt von „D/D-Zählinspekteur“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Einmal pro Spielzug, falls du ein oder mehr „D/D/D“-Monster als Pendelbeschwörung beschwörst: Du kannst 3 Monster wählen, die dein Gegner kontrolliert und die alle denselben Typ oder dieselbe Eigenschaft haben; biete 2 jener 3 offenen Monster als Tribut an und falls du dies tust, erhält das dritte ATK/DEF in Höhe der Summe der ATK/DEF, die die als Tribut angebotenen Monster auf dem Spielfeld hatten.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20937,
+  "type": "monster",
+  "name": "Nekroz von Metaltron",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit einem beliebigen „Nekroz“-Ritualzauber als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden, indem du Monster verwendest, und du kannst keine Monster der Stufe 9 verwenden. Während der Main Phase (Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; verbanne diese Karte (bis zur End Phase) und falls du dies tust, verbanne jenes Monster. Du kannst diesen Effekt von „Nekroz von Metaltron“ nur einmal pro Spielzug verwenden. Jedes Monster, das durch Kampf mit deinem „Nekroz“-Monster zerstört wird, wird verbannt.",
+  "pendEffect": "Falls deine „Nekroz“-Karte(n) offen verbannt werden (außer während des Damage Steps): Du kannst 1 Zauber/Falle auf dem Spielfeld wählen; verbanne ihn oder sie. Du kannst diesen Effekt von „Nekroz von Metaltron“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 5,
+  "level": 9,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Wyrm",
+    "Ritual",
+    "Pendel",
+    "Effekt"
+  ]
+}

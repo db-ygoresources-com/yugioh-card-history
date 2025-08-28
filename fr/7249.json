@@ -1,0 +1,15 @@
+{
+  "id": 7249,
+  "type": "monster",
+  "name": "Motor Kaiser",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre TÉNÈBRES Machine. Vous pouvez cibler 1 monstre que vous contrôlez ; détruisez-le, puis vous pouvez Invoquer Spécialement 1 \"Jeton Moteur\" (Machine/TERRE/Niveau 1/ATK 200/DEF 200) en Position d'Attaque. Vous ne pouvez utiliser chaque effet de \"Motor Kaiser\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1400,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

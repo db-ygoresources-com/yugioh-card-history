@@ -1,0 +1,18 @@
+{
+  "id": 21069,
+  "type": "monster",
+  "name": "D/D Arpenteur de Compte",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez défausser 1 autre monstre \"D/D\" ; Invoquez Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre \"D/D\" avec 0 ATK ou DEF depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"D/D Arpenteur de Compte\" qu'une fois par tour.",
+  "pendEffect": "Une fois par tour, si vous Invoquez par Pendulation un ou plusieurs monstres \"D/D/D\" : vous pouvez cibler 3 monstres contrôlés par votre adversaire qui ont chacun le même Type ou Attribut ; Sacrifiez 2 de ces 3 monstres face recto, et si vous le faites, le troisième gagne une ATK/DEF égales à la somme des ATK/DEF que les monstres Sacrifiés avaient sur le Terrain.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

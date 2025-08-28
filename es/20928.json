@@ -1,0 +1,15 @@
+{
+  "id": 20928,
+  "type": "monster",
+  "name": "Jurrac Stego",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Durante tu Main Phase: puedes destruir 1 carta que controles y, si lo haces, manda al Cementerio 1 monstruo Dinosaurio en tu Deck, y después puedes Invocar de Modo Especial, desde tu mano y/o Deck, uno o más monstruos \"Jurrac\" cuyos Niveles totales sean iguales al Nivel del monstruo mandado, excepto \"Jurrac Stego\", ignorando sus condiciones de Invocación, y además por el resto de este turno, no puedes Invocar de Modo Especial, excepto monstruos Dinosaurio. Sólo puedes usar este efecto de \"Jurrac Stego\" una vez por turno. Cuando esta carta es destruida en batalla: puedes devolver a la mano 1 carta boca arriba en el Campo.",
+  "level": 4,
+  "atk": 1700,
+  "def": 900,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

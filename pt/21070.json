@@ -1,0 +1,18 @@
+{
+  "id": 21070,
+  "type": "monster",
+  "name": "D/D Pesquisador de Escala",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se você controlar um Card de Monstro Pêndulo \"D/D\": você pode Invocar este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Normal ou Especial: você pode tornar este card de Nível 4. Se este card for enviado para o Cemitério, ou adicionado ao Deck Adicional com a face para cima: você pode escolher 1 Card de Monstro Pêndulo \"D/D\" que você controla; devolva-o para a mão. Você só pode usar cada efeito de \"D/D Pesquisador de Escala\" uma vez por turno.",
+  "pendEffect": "Durante a Fase de Apoio: você pode escolher até 2 cards nas Zonas de Pêndulo; suas Escalas de Pêndulo se tornam 0 até o final deste turno. Você só pode usar este efeito de \"D/D Pesquisador de Escala\" uma vez por turno.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20923,
+  "type": "monster",
+  "name": "Der sagenhafte Behilmoth",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 2 oder mehr „Sagenhaft“-Monster abwerfen, darunter diese Karte, und falls du dies tust, beschwöre 1 „Sagenhaft“-Synchromonster, dessen Stufe der Summe der Grund-Stufen der abgeworfenen Monster entspricht, als Spezialbeschwörung von deinem Extra Deck (dies wird als Synchrobeschwörung behandelt). Falls eine oder mehr Karten von deiner Hand auf den Friedhof gelegt werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte verbannen; beschwöre 1 „Sagenhaft“-Monster als Spezialbeschwörung von deiner Hand. Du kannst jeden Effekt von „Der sagenhafte Behilmoth“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1000,
+  "def": 600,
+  "properties": [
+    "Ungeheuer",
+    "Empfänger",
+    "Effekt"
+  ]
+}
