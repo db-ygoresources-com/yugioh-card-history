@@ -1,0 +1,15 @@
+{
+  "id": 21746,
+  "type": "monster",
+  "name": "Königin des Flammenreichs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht durch Karteneffekte zerstört werden. Falls sich diese Karte in deiner Hand befindet: Du kannst bis zu 2 Karten wählen, die du kontrollierst, darunter ein/e offene/r Zauber/Falle; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Falls du 1 Karte zerstört hast, gib diese Karte während der End Phase des nächsten Spielzugs auf die Hand zurück, oder falls du 2 zerstört hast, erhält diese Karte stattdessen diesen Effekt.\n●Jedes Monster, das vom Spielfeld auf den Friedhof deines Gegners gelegt wird, wird stattdessen verbannt.\nDu kannst diesen Effekt von „Königin des Flammenreichs“ nur einmal pro Spielzug verwenden.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Pyro",
+    "Effekt"
+  ]
+}

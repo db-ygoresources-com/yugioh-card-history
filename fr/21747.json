@@ -1,0 +1,16 @@
+{
+  "id": 21747,
+  "type": "monster",
+  "name": "Portail du Dragon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres de Niveau 6\nUne fois par tour, vous pouvez aussi Invoquer par Xyz \"Portail du Dragon\" en utilisant 1 Monstre Xyz de max. Rang 3 que vous contrôlez (transférez ses Matériels). Non utilisable comme Matériel pour une Invocation Xyz le tour où elle a été Invoquée par Xyz. Une fois par tour : vous pouvez activer cet effet ; le reste de ce tour, cette carte peut attaquer une fois tous les monstres contrôlés par votre adversaire, et aussi, détachez un nombre de votre choix de Matériels de cette carte, et si vous le faites, elle gagne 1000 ATK pour chaque type de carte (Monstre, Magie ou Piège) détaché, et si elle le fait, les monstres actuellement contrôlés par votre adversaire perdent autant d'ATK.",
+  "rank": 6,
+  "atk": 1100,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Effet"
+  ]
+}

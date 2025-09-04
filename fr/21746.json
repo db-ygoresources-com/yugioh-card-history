@@ -1,0 +1,15 @@
+{
+  "id": 21746,
+  "type": "monster",
+  "name": "Reine du Domaine Embrasé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non destructible par des effets de carte. Si cette carte est dans votre main : vous pouvez cibler max. 2 cartes que vous contrôlez (un Magie/Piège face recto inclus) ; détruisez-les, et si vous le faites, Invoquez Spécialement cette carte. Si vous avez détruit 1 carte, renvoyez cette carte à la main durant la End Phase du prochain tour, ou si vous en avez détruit 2, cette carte gagne cet effet à la place.\n●Les monstres envoyés depuis le Terrain au Cimetière de votre adversaire sont bannis à la place.\nVous ne pouvez utiliser cet effet de \"Reine du Domaine Embrasé\" qu'une fois par tour.",
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

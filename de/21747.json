@@ -1,0 +1,16 @@
+{
+  "id": 21747,
+  "type": "monster",
+  "name": "Drachentor",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "2 Monster der Stufe 6\nEinmal pro Spielzug kannst du „Drachentor“ auch als Xyz-Beschwörung beschwören, indem du 1 Xyz-Monster des Rangs 3 oder niedriger verwendest, das du kontrollierst (transferiere sein Material). Diese Karte kann in dem Spielzug, in dem sie als Xyz-Beschwörung beschworen wurde, nicht als Material für eine Xyz-Beschwörung verwendet werden. Einmal pro Spielzug: Du kannst diesen Effekt aktivieren; für den Rest dieses Spielzugs kann diese Karte alle Monster, die dein Gegner kontrolliert, je einmal angreifen, zusätzlich hänge eine beliebige Anzahl Material von dieser Karte ab und falls du dies tust, erhält sie für jeden abgehängten Kartentyp (Monster, Zauber oder Falle) 1000 ATK und falls sie dies tut, verliert jedes Monster, das dein Gegner derzeit kontrolliert, ebenso viele ATK.",
+  "rank": 6,
+  "atk": 1100,
+  "def": 2800,
+  "properties": [
+    "Zombie",
+    "Xyz",
+    "Effekt"
+  ]
+}
