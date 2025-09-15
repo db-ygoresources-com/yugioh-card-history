@@ -1,0 +1,18 @@
+{
+  "id": 21787,
+  "type": "monster",
+  "name": "Solfakkord Primoa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Solange du „Solfakkord“-Karten in deinen beiden Pendelzonen hast (1 mit ungeradem und 1 mit geradem Pendelbereich), können die aktivierten Effekte deiner „Solfakkord“-Karten nicht annulliert werden. Du kannst jeden der folgenden Effekte von „Solfakkord Primoa“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Solfakkord“-Karte von deinem Deck hinzufügen, außer „Solfakkord Primoa“. Falls du ein „Solfakkord“-Monster als Linkbeschwörung beschwörst: Du kannst deiner Hand 1 „Solfakkord“-Karte offen von deinem Extra Deck oder von deinem Friedhof hinzufügen.",
+  "pendEffect": "Wenn du eine Pendelbeschwörung durchführst: Du kannst 1 „Solfakkord“-Karte in deiner Pendelzone wählen; gib sie auf die Hand zurück.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

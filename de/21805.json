@@ -1,0 +1,16 @@
+{
+  "id": 21805,
+  "type": "monster",
+  "name": "Dornen-Rosendrache",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "1 Pflanze-Empfänger + 1+ Nicht-Empfänger-Monster\nJedes Mal, wenn dein Gegner einen Monstereffekt aktiviert, füge deinem Gegner 600 Schaden zu und falls du dies tust, verlieren alle Monster, die dein Gegner derzeit kontrolliert, 600 ATK. Du kannst jeden der folgenden Effekte von „Dornen-Rosendrache“ nur einmal pro Spielzug verwenden. Während der Main Phase (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; beschwöre 1 „Schwarzer Rosendrache“ als Spezialbeschwörung von deinem Extra Deck (dies wird als Synchrobeschwörung behandelt). Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 Pflanze-Empfänger der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Friedhof.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1800,
+  "properties": [
+    "Pflanze",
+    "Synchro",
+    "Effekt"
+  ]
+}

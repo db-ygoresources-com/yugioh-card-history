@@ -1,0 +1,18 @@
+{
+  "id": 21786,
+  "type": "monster",
+  "name": "Solfakkord Solfegia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du keine Monster kontrollierst oder alle Monster, die du kontrollierst, „Solfakkord“-Monster sind: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während deiner Main Phase: Du kannst diesen Effekt aktivieren (zusätzlich kannst du diese Karte als Tribut anbieten); beschwöre 1 „Solfakkord“-Monster als Spezialbeschwörung von deiner Hand, außer „Solfakkord Solfegia“, oder falls du diese Karte als Tribut angeboten hast, als du diesen Effekt aktiviert hast, kannst du es stattdessen als Spezialbeschwörung offen von deinem Extra Deck oder von deinem Friedhof beschwören. Du kannst jeden Effekt von „Solfakkord Solfegia“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Wenn ein Monstereffekt deines Gegners, der auf dem Spielfeld aktiviert wurde, aufgelöst wird, falls du ein „GranSolfakkord“-Monster kontrollierst, kannst du jenen Effekt annullieren, dann zerstöre diese Karte. Du kannst diesen Effekt von „Solfakkord Solfegia“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

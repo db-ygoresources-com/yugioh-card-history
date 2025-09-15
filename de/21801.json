@@ -1,0 +1,19 @@
+{
+  "id": 21801,
+  "type": "monster",
+  "name": "D/D/D/D-Dimensionskönig Arc Crisis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "4 Unterweltler-Monster (1 Fusions-, 1 Synchro-, 1 Xyz- und 1 Pendel-)\nMuss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung (verdeckt von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten von deiner Spielfeldseite und/oder deinem Friedhof verbannst. Du kannst „D/D/D/D-Dimensionskönig Arc Crisis“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören, egal, welche Methode du verwendest. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst die Effekte aller offenen Monster annullieren, die dein Gegner derzeit kontrolliert. Kann alle Monster deines Gegners je einmal angreifen. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Du kannst eine beliebige Anzahl „Dunkler Vertrag“-Karten wählen, die du kontrollierst; zerstöre sie, dann kannst du bis zu ebenso viele „Untergangskönig“-Pendelmonster als Spezialbeschwörung von deinem Deck und/oder Extra Deck beschwören. Du kannst diesen Effekt von „D/D/D/D-Dimensionskönig Arc Crisis“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 13,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Unterweltler",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

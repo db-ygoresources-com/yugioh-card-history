@@ -1,0 +1,16 @@
+{
+  "id": 21799,
+  "type": "monster",
+  "name": "Phuloch Mégalithe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Mégalithe\". Vous ne pouvez pas activer les effets suivants de \"Phuloch Mégalithe\" dans la même Chaîne. Si cette carte est Invoquée Rituellement : vous pouvez ajouter 1 carte \"Mégalithe\" depuis votre Cimetière à votre main. Durant la Main Phase (Effet Rapide) : vous pouvez activer cet effet ; Invoquez Rituellement 1 Monstre Rituel \"Mégalithe\" (\"Phuloch Mégalithe\" exclu) depuis votre Cimetière, en Sacrifiant des monstres (cette carte sur votre Terrain incluse) depuis votre main ou Terrain, dont la somme des Niveaux est supérieure ou égale à son Niveau. Vous ne pouvez utiliser cet effet de \"Phuloch Mégalithe\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 2000,
+  "def": 300,
+  "properties": [
+    "Rocher",
+    "Rituel",
+    "Effet"
+  ]
+}

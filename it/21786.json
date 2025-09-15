@@ -1,0 +1,18 @@
+{
+  "id": 21786,
+  "type": "monster",
+  "name": "Solfaccordo Solfegia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se non controlli nessun mostro, o se tutti i mostri che controlli sono mostri \"Solfaccordo\": puoi Evocare Specialmente questa carta dalla tua mano. Durante la tua Main Phase: puoi attivare questo effetto (puoi anche offrire come Tributo questa carta); Evoca Specialmente 1 mostro \"Solfaccordo\" dalla tua mano, eccetto \"Solfaccordo Solfegia\" o, se hai offerto come Tributo questa carta quando hai attivato questo effetto, puoi invece Evocare Specialmente dal tuo Extra Deck scoperto o Cimitero. Puoi utilizzare ogni effetto di \"Solfaccordo Solfegia\" una sola volta per turno.",
+  "pendEffect": "Quando l'effetto di un mostro del tuo avversario attivato sul Terreno si risolve, se controlli un mostro \"GranSolfaccordo\", puoi annullare quell'effetto, poi distruggere questa carta. Puoi utilizzare questo effetto di \"Solfaccordo Solfegia\" una sola volta per turno.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

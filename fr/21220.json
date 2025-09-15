@@ -1,0 +1,19 @@
+{
+  "id": 21220,
+  "type": "monster",
+  "name": "Endymion, Magistus du Croissant",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres (un monstre Magicien de Niveau 4 inclus)\nSi cette carte est Invoquée par Lien : vous pouvez cibler 1 monstre \"Magistus\" que vous contrôlez ; équipez-le avec 1 monstre Magicien depuis votre Cimetière ou bannissement comme Magie d'Équipement. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 Carte Monstre Magicien dans votre Zone Magie & Piège traitée comme Magie d'Équipement ; renvoyez-la à la main. Vous ne pouvez utiliser qu'1 effet de \"Endymion, Magistus du Croissant\" par tour, et uniquement une fois le tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

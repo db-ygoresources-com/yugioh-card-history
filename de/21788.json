@@ -1,0 +1,15 @@
+{
+  "id": 21788,
+  "type": "monster",
+  "name": "Regenesis-Oberherr",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deinem Friedhof) beschworen werden, indem du 2 Monster mit 2500 ATK oder DEF von deinem Friedhof verbannst. Du kannst „Regenesis-Oberherr“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst Karten auf der Spielfeldseite und/oder im Friedhof deines Gegners bis zur Anzahl deiner verbannten Monster mit 2500 ATK oder DEF wählen; gib sie auf die Hand zurück. Monster, die dein Gegner kontrolliert, verlieren nur während der Battle Phase 2500 ATK.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Illusion",
+    "Effekt"
+  ]
+}

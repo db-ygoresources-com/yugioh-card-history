@@ -1,0 +1,18 @@
+{
+  "id": 21787,
+  "type": "monster",
+  "name": "Solfacorde Primoa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Enquanto você tiver cards \"Solfacorde\" nas suas duas Zonas de Pêndulo (1 com Escala de Pêndulo ímpar e 1 par), os efeitos ativados dos seus cards \"Solfacorde\" não podem ser negados. Você só pode usar cada um dos seguintes efeitos de \"Solfacorde Primoa\" uma vez por turno. Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 card \"Solfacorde\" do seu Deck à sua mão, exceto \"Solfacorde Primoa\". Se você Invocar um monstro \"Solfacorde\" por Invocação-Link: você pode adicionar 1 card \"Solfacorde\" do seu Deck Adicional com a face para cima ou Cemitério à sua mão.",
+  "pendEffect": "Quando você Invocar por Invocação-Pêndulo: você pode escolher 1 card \"Solfacorde\" na sua Zona de Pêndulo; devolva-o para a mão.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

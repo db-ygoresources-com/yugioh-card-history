@@ -1,0 +1,16 @@
+{
+  "id": 21798,
+  "type": "monster",
+  "name": "TASSE DE RÉVEIL ! Macchia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "FLIP : Ciblez 1 monstre en Position de Défense face verso sur le Terrain ; changez-le en Position d'Attaque face recto.\nVous pouvez révéler cette carte et 1 monstre Flip dans votre main ; Invoquez-les Spécialement tous les deux en Position de Défense face verso. Vous ne pouvez utiliser chacun des effets précédents de \"TASSE DE RÉVEIL ! Macchia\" qu'une fois par tour. Une fois par tour, durant votre End Phase : vous pouvez cibler 1 carte face verso sur le Terrain ; envoyez-la au Cimetière.",
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effet"
+  ]
+}

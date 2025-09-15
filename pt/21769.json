@@ -1,0 +1,18 @@
+{
+  "id": 21769,
+  "type": "monster",
+  "name": "D/D/D Machinex, a Rainha do Fim Zero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se um ou mais cards \"D/D/D\" e/ou \"Pacto Obscuro\" com a face para cima que você controla, exceto \"D/D/D Machinex, a Rainha do Fim Zero\", forem destruídos enquanto este card estiver com a face para cima no seu Deck Adicional, mesmo durante a Etapa de Dano: você pode Invocar este card por Invocação-Especial e, depois, você pode destruir 1 card no campo. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"D/D/D Machinex, a Rainha do Fim Zero\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal, se este card foi ativado neste turno: você pode colocar 1 Magia/Armadilha Contínua \"Pacto Obscuro\" do seu Deck com a face para cima no seu campo. Você só pode usar este efeito de \"D/D/D Machinex, a Rainha do Fim Zero\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

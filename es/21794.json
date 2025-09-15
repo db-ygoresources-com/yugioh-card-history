@@ -1,0 +1,15 @@
+{
+  "id": 21794,
+  "type": "monster",
+  "name": "Esfinge del Ciclo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, si la posición de batalla de otro monstruo es cambiada (excepto durante el Damage Step): puedes seleccionar 1 carta en el Campo; devuélvela a la mano. Sólo puedes usar cada uno de los siguientes efectos de \"Esfinge del Ciclo\" una vez por turno. Si la posición de batalla de un monstruo es cambiada (excepto durante el Damage Step): puedes desterrar 1 Mágica en tu Cementerio; Invoca esta carta de Modo Especial desde tu Cementerio (si estaba ahí cuando la posición de batalla fue cambiada) o mano (aun si no lo estaba). Durante tu Main Phase: puedes Colocar 1 \"Libro de Taiyou\" y/o 1 \"Libro de la Luna\" desde tu Deck o Cementerio.",
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

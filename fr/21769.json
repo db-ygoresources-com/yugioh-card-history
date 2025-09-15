@@ -1,0 +1,18 @@
+{
+  "id": 21769,
+  "type": "monster",
+  "name": "D/D/D Reine du Déclin Zéro Machinex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si une ou plusieurs cartes \"D/D/D\" (\"D/D/D Reine du Déclin Zéro Machinex\" exclu) et/ou \"Contrat des Ténèbres\" face recto que vous contrôlez sont détruites tant que cette carte est face recto dans votre Extra Deck, même durant la Damage Step : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez détruire 1 carte sur le Terrain. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de \"D/D/D Reine du Déclin Zéro Machinex\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez placer face recto 1 Magie Continue/Piège Continu \"Contrat des Ténèbres\" depuis votre Deck sur votre Terrain. Vous ne pouvez utiliser cet effet de \"D/D/D Reine du Déclin Zéro Machinex\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

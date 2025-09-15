@@ -1,0 +1,16 @@
+{
+  "id": 22069,
+  "type": "monster",
+  "name": "Lilyfaucheuse Lycoris",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nSi un ou plusieurs monstres sont envoyés depuis le Terrain au Cimetière de votre adversaire, tant que cette carte est dans votre Zone Monstre, même durant la Damage Step : vous pouvez gagner des LP égaux à l'ATK d'1 de ces monstres dans son Cimetière. Si votre adversaire reçoit des dommages d'effet, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte ; envoyez 1 monstre depuis le Terrain au Cimetière avec une ATK inférieure ou égale à la différence de vos LP et ceux de votre adversaire. Vous ne pouvez utiliser chaque effet de \"Lilyfaucheuse Lycoris\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 800,
+  "def": 2400,
+  "properties": [
+    "Plante",
+    "Synchro",
+    "Effet"
+  ]
+}

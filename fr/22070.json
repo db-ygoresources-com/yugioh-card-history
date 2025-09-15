@@ -1,0 +1,15 @@
+{
+  "id": 22070,
+  "type": "monster",
+  "name": "Papillon à Bombe de Soie",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si vous avez min. 2 monstres VENT dans votre Cimetière et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, mélangez 1 monstre VENT depuis votre Cimetière dans le Deck. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez révéler la carte du dessus du Deck de votre adversaire, et appliquez l'effet approprié selon son type de carte.\n●Monstre : Placez-la dans la Zone Magie & Piège de votre adversaire comme Magie Continue face recto.\n●Magie/Piège : Bannissez-la.\nVous ne pouvez utiliser chaque effet de \"Papillon à Bombe de Soie\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

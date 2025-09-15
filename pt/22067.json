@@ -1,0 +1,16 @@
+{
+  "id": 22067,
+  "type": "monster",
+  "name": "Chevreuil, o Batedor Caçador da Floresta Profunda",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 monstro Guerreiro de TERRA de Nível 5 ou mais + 1 monstro Guerreiro de TERRA\nNão é afetado pelos efeitos ativados do seu oponente, apenas durante a Fase Principal. Os monstros do seu oponente que podem atacar devem atacar o monstro que você controla com o maior ATK (em caso de empate, ele seleciona). Quando outro monstro Guerreiro de TERRA que você controla destruir um monstro do oponente em batalha: você pode Invocar por Invocação-Especial 1 monstro Guerreiro de TERRA do seu Cemitério ou banimento. Você só pode usar este efeito de \"Chevreuil, o Batedor Caçador da Floresta Profunda\" uma vez por turno.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2600,
+  "properties": [
+    "Guerreiro",
+    "Fusão",
+    "Efeito"
+  ]
+}

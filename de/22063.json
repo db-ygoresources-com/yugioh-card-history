@@ -1,0 +1,16 @@
+{
+  "id": 22063,
+  "type": "monster",
+  "name": "Verkleider, der Nachahmungsheld",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls du einen Ausrüstungszauber auf deiner Spielfeldseite oder in deinem Friedhof hast: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Verfluchte nachgeahmte edle Waffen“ von deinem Deck hinzufügen. Solange diese Karte mit einer Ausrüstungskarte ausgerüstet ist: Du kannst 1 Krieger-Nicht-Empfänger-Monster mit einer Stufe auf dem Spielfeld wählen; die Stufe dieser Karte, zusätzlich ihr Name werden bis zur End Phase dieselben wie die jenes Monsters. Du kannst jeden Effekt von „Verkleider, der Nachahmungsheld“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

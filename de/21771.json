@@ -1,0 +1,16 @@
+{
+  "id": 21771,
+  "type": "monster",
+  "name": "Schwarzer Zwielichtsrosen-Ritter",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange du ein Synchromonster kontrollierst, erhalten Pflanze-Monster, die du kontrollierst, 1000 ATK. Du kannst jeden der folgenden Effekte von „Schwarzer Zwielichtsrosen-Ritter“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Schwarzer Rosendrache“ oder 1 Pflanze-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Friedhof beschwören, aber annulliere seine Effekte. Du kannst 1 anderes Pflanze-Monster wählen, das du kontrollierst; erhöhe oder verringere seine Stufe um 1.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

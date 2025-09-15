@@ -1,0 +1,19 @@
+{
+  "id": 21818,
+  "type": "monster",
+  "name": "Miasma-Totenbeschwörer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster, darunter ein FINSTERNIS Hexer-Monster\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst deiner Hand 1 FINSTERNIS Hexer-Monster der Stufe 5 oder höher von deinem Friedhof hinzufügen, aber du kannst für den Rest dieses Spielzugs weder Karten noch die Effekte von Karten mit seinem Namen aktivieren. Du kannst 1 Zauber/Falle von deiner Hand oder Spielfeldseite auf den Friedhof legen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Hexer-Monster als Normalbeschwörung. Du kannst jeden Effekt von „Miasma-Totenbeschwörer“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

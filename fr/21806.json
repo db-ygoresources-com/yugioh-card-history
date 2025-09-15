@@ -1,0 +1,16 @@
+{
+  "id": 21806,
+  "type": "monster",
+  "name": "Sorcière de la Rose Rageuse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur\nLes monstres Plante que vous contrôlez ne peuvent pas être détruits par des effets de carte. Vous ne pouvez utiliser chacun des effets suivants de \"Sorcière de la Rose Rageuse\" qu'une fois par tour. Si cette carte est Invoquée par Synchronisation : vous pouvez envoyer max. 1 monstre Plante depuis votre Deck et max. 1 monstre Plante depuis votre Extra Deck au Cimetière, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour. Si une ou plusieurs cartes sur le Terrain sont détruites par un effet de carte tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte.",
+  "level": 6,
+  "atk": 1600,
+  "def": 2400,
+  "properties": [
+    "Plante",
+    "Synchro",
+    "Effet"
+  ]
+}

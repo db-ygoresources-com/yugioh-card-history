@@ -1,0 +1,15 @@
+{
+  "id": 21794,
+  "type": "monster",
+  "name": "Sphinx du Cycle",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, si la position de combat d'un autre monstre est changée (sauf durant la Damage Step) : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main. Vous ne pouvez utiliser chacun des effets suivants de \"Sphinx du Cycle\" qu'une fois par tour. Si la position de combat d'un monstre est changée (sauf durant la Damage Step) : vous pouvez bannir 1 Magie depuis votre Cimetière ; Invoquez Spécialement cette carte depuis votre Cimetière (si elle y était lorsque la position de combat a été changée) ou la main (même si elle n'y était pas). Durant votre Main Phase : vous pouvez Poser 1 \"Le Livre de Taiyou\" et/ou 1 \"Le Livre de la Lune\" depuis votre Deck ou Cimetière.",
+  "level": 8,
+  "atk": 2500,
+  "def": 3000,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

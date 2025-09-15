@@ -1,0 +1,18 @@
+{
+  "id": 21787,
+  "type": "monster",
+  "name": "Solfaccordo Primoa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Mentre hai carte \"Solfaccordo\" in entrambe le tue Zone Pendulum (1 di Valore Pendulum dispari e 1 pari), gli effetti attivati delle tue carte \"Solfaccordo\" non possono essere annullati. Puoi utilizzare ognuno dei seguenti effetti di \"Solfaccordo Primoa\" una sola volta per turno. Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 carta \"Solfaccordo\" dal tuo Deck alla tua mano, eccetto \"Solfaccordo Primoa\". Se Evochi Link un mostro \"Solfaccordo\": puoi aggiungere 1 carta \"Solfaccordo\" dal tuo Extra Deck scoperto o Cimitero alla tua mano.",
+  "pendEffect": "Quando Evochi Pendulum: puoi scegliere come bersaglio 1 carta \"Solfaccordo\" nella tua Zona Pendulum; falla ritornare nella mano.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

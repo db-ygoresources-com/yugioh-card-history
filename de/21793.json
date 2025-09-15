@@ -1,0 +1,15 @@
+{
+  "id": 21793,
+  "type": "monster",
+  "name": "VARefar, der Ballschiedsrichter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Wenn dein Gegner einen Monstereffekt auf seiner Spielfeldseite aktiviert, der ein oder mehr Monster, die du kontrollierst, als Ziel wählt, oder sein Monster eins als Angriffsziel wählt (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 jener Monster des Gegners bestimmen und 1 Karte in deiner Hand vorzeigen, dann wende den folgenden Effekt auf jenes Monster an, basierend auf dem vorgezeigten Kartentyp.\n●Monster: Ändere es in die Verteidigungsposition.\n●Zauber: Verdopple seine ATK.\n●Falle: Verbanne es.\nDu kannst diesen Effekt von „VARefar, der Ballschiedsrichter“ nur einmal pro Spielzug verwenden.",
+  "level": 11,
+  "atk": 2100,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

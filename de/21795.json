@@ -1,0 +1,15 @@
+{
+  "id": 21795,
+  "type": "monster",
+  "name": "Dreiköpfiger Behemoth",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls eine oder mehr offene Karten, die du kontrollierst, durch einen Karteneffekt zerstört werden, selbst während des Damage Steps: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst während der End Phase dieses Spielzugs 1 WIND Monster als Spezialbeschwörung von deinem Friedhof beschwören, aber seine ATK/DEF werden zu 1000. Du kannst diesen Effekt von „Dreiköpfiger Behemoth“ nur einmal pro Duell und seinen vorherigen Effekt nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

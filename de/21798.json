@@ -1,0 +1,16 @@
+{
+  "id": 21798,
+  "type": "monster",
+  "name": "WACH AUF!-TASSE Macchia",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Wähle 1 Monster in verdeckter Verteidigungsposition auf dem Spielfeld; ändere es in die offene Angriffsposition.\nDu kannst diese Karte und 1 Flippmonster in deiner Hand vorzeigen; beschwöre beide als Spezialbeschwörung in die verdeckte Verteidigungsposition. Du kannst jeden der vorherigen Effekte von „WACH AUF!-TASSE Macchia“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während deiner End Phase: Du kannst 1 verdeckte Karte auf dem Spielfeld wählen; lege sie auf den Friedhof.",
+  "level": 3,
+  "atk": 1000,
+  "def": 100,
+  "properties": [
+    "Aqua",
+    "Flipp",
+    "Effekt"
+  ]
+}

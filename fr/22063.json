@@ -1,0 +1,16 @@
+{
+  "id": 22063,
+  "type": "monster",
+  "name": "Déguise, le Héros de l'Imitation",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous avez une Magie d'Équipement dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Armes Nobles Imitées Maudites\" depuis votre Deck à votre main. Tant que cette carte est équipée avec une Carte d'Équipement : vous pouvez cibler 1 monstre non-Syntoniseur Guerrier sur le Terrain avec un Niveau ; jusqu'à la End Phase, le Niveau de cette carte et aussi son nom deviennent les mêmes que ceux du monstre. Vous ne pouvez utiliser chaque effet de \"Déguise, le Héros de l'Imitation\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

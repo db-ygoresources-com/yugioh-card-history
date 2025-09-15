@@ -1,0 +1,16 @@
+{
+  "id": 21806,
+  "type": "monster",
+  "name": "Bruja de la Rosa Iracunda",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nLos monstruos Planta que controlas no pueden ser destruidos por efectos de cartas. Sólo puedes usar cada uno de los siguientes efectos de \"Bruja de la Rosa Iracunda\" una vez por turno. Si esta carta es Invocada por Sincronía: puedes mandar al Cementerio hasta 1 monstruo Planta en tu Deck y hasta 1 en tu Deck Extra, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía. Si una o más cartas en el Campo son destruidas por el efecto de una carta mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial.",
+  "level": 6,
+  "atk": 1600,
+  "def": 2400,
+  "properties": [
+    "Planta",
+    "Sincronía",
+    "Efecto"
+  ]
+}

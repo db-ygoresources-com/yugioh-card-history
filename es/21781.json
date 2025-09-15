@@ -1,0 +1,15 @@
+{
+  "id": 21781,
+  "type": "monster",
+  "name": "Krosea Tifón Radiante",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser destruido en batalla o por efectos de cartas mientras tu adversario no controla Mágicas/Trampas. Sólo puedes usar cada uno de los siguientes efectos de \"Krosea Tifón Radiante\" una vez por turno. Si una Carta Mágica de Juego Rápido es activada (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 carta \"Tifón Radiante\" (excepto \"Krosea Tifón Radiante\") y/o 1 \"Tifón del Espacio Místico\" en tu Deck y/o Cementerio, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruo de VIENTO.",
+  "level": 6,
+  "atk": 2200,
+  "def": 1200,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

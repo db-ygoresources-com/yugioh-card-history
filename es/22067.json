@@ -1,0 +1,16 @@
+{
+  "id": 22067,
+  "type": "monster",
+  "name": "Chevril, Rastreador Cazador del Bosque Profundo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo Guerrero de TIERRA de Nivel 5 o mayor + 1 monstruo Guerrero de TIERRA\nNo es afectado por los efectos activados de tu adversario, sólo durante la Main Phase. Los monstruos de tu adversario que puedan atacar deben atacar al monstruo que controles con mayor ATK (si hay empate, elige él). Cuando otro monstruo Guerrero de TIERRA que controlas destruye un monstruo del adversario en batalla: puedes Invocar de Modo Especial 1 monstruo Guerrero de TIERRA desde tu Cementerio o destierro. Sólo puedes usar este efecto de \"Chevril, Rastreador Cazador del Bosque Profundo\" una vez por turno.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2600,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

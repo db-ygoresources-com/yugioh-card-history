@@ -1,0 +1,15 @@
+{
+  "id": 21795,
+  "type": "monster",
+  "name": "Béhémoth à Trois Têtes",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si une ou plusieurs cartes face recto que vous contrôlez sont détruites par un effet de carte, même durant la Damage Step : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre VENT depuis votre Cimetière durant la End Phase de ce tour, mais son ATK/DEF deviennent 1000. Vous ne pouvez utiliser cet effet de \"Béhémoth à Trois Têtes\" qu'une fois par Duel, et son effet précédent qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1200,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

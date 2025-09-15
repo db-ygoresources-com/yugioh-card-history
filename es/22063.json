@@ -1,0 +1,16 @@
+{
+  "id": 22063,
+  "type": "monster",
+  "name": "Disfraz, el Héroe Imitador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si tienes una Mágica de Equipo en tu Campo o Cementerio: puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Armas Nobles de Imitación Maldita\" en tu Deck. Mientras esta carta está equipada con una Carta de Equipo: puedes seleccionar 1 monstruo Guerrero que no sea Cantante en el Campo con un Nivel; el Nivel de esta carta, y también su nombre, se convierten en los mismos que los de ese monstruo hasta la End Phase. Sólo puedes usar cada efecto de \"Disfraz, el Héroe Imitador\" una vez por turno.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1200,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

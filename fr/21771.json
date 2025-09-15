@@ -1,0 +1,16 @@
+{
+  "id": 21771,
+  "type": "monster",
+  "name": "Chevalier Noir de la Rose du Crépuscule",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Tant que vous contrôlez un Monstre Synchro, les monstres Plante que vous contrôlez gagnent 1000 ATK. Vous ne pouvez utiliser chacun des effets suivants de \"Chevalier Noir de la Rose du Crépuscule\" qu'une fois par tour. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 \"Dragon Rose Noire\" ou 1 monstre Plante de max. Niveau 4 depuis votre Cimetière, mais annulez ses effets. Vous pouvez cibler 1 autre monstre Plante que vous contrôlez ; augmentez ou réduisez son Niveau de 1.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

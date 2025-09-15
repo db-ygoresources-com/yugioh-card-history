@@ -1,0 +1,16 @@
+{
+  "id": 21800,
+  "type": "monster",
+  "name": "Notrah Plura Mégalithe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Mégalithe\". Uniquement Invocable Rituellement en utilisant uniquement des Monstres Rituels. Vous pouvez révéler cette carte dans votre main ; ce tour, votre adversaire ne peut activer ni de cartes ni d'effets en réponse à l'activation de vos effets de Monstre Rituel \"Mégalithe\". Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte, puis si la carte ou effet annulé ciblait une ou plusieurs cartes sur le Terrain, vous pouvez Sacrifier 1 monstre contrôlé par votre adversaire. Vous ne pouvez utiliser chaque effet de \"Notrah Plura Mégalithe\" qu'une fois par tour.",
+  "level": 12,
+  "atk": 3700,
+  "def": 2700,
+  "properties": [
+    "Rocher",
+    "Rituel",
+    "Effet"
+  ]
+}

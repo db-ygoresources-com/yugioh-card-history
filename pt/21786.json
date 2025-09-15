@@ -1,0 +1,18 @@
+{
+  "id": 21786,
+  "type": "monster",
+  "name": "Solfacorde Solfegia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se você não controlar nenhum monstro, ou todos os monstros que você controlar forem monstros \"Solfacorde\": você pode Invocar este card por Invocação-Especial da sua mão. Durante sua Fase Principal: você pode ativar este efeito (você também pode oferecer este card como Tributo); Invoque por Invocação-Especial 1 monstro \"Solfacorde\" da sua mão, exceto \"Solfacorde Solfegia\", ou, se você ofereceu este card como Tributo quando ativou este efeito, em vez disso, você pode Invocar por Invocação-Especial do seu Deck Adicional com a face para cima ou Cemitério. Você só pode usar cada efeito de \"Solfacorde Solfegia\" uma vez por turno.",
+  "pendEffect": "Quando um efeito de monstro do seu oponente for ativado no campo e resolver, se você controlar um monstro \"MaiorSolfacorde\", você pode negar o efeito e, depois, destrua este card. Você só pode usar este efeito de \"Solfacorde Solfegia\" uma vez por turno.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

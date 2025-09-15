@@ -1,0 +1,16 @@
+{
+  "id": 21800,
+  "type": "monster",
+  "name": "Notrah Plura Megalítico",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Megalítico/a\". Debe ser Invocada por Ritual usando sólo Monstruos de Ritual. Puedes mostrar esta carta en tu mano; este turno, tu adversario no puede activar cartas o efectos en respuesta a la activación de los efectos de tu Monstruo de Ritual \"Megalítico/a\". Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes negar la activación y, si lo haces, destruye esa carta y después, si esa carta o efecto negado seleccionaba una o más cartas en el Campo, puedes Sacrificar 1 monstruo que controle tu adversario. Sólo puedes usar cada efecto de \"Notrah Plura Megalítico\" una vez por turno.",
+  "level": 12,
+  "atk": 3700,
+  "def": 2700,
+  "properties": [
+    "Roca",
+    "Ritual",
+    "Efecto"
+  ]
+}

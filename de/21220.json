@@ -1,0 +1,19 @@
+{
+  "id": 21220,
+  "type": "monster",
+  "name": "Endymion, der Magistus des Halbmonds",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Monster, darunter ein Hexer-Monster der Stufe 4\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Magistus“-Monster wählen, das du kontrollierst; rüste es mit 1 Hexer-Monster von deinem Friedhof oder deinen verbannten Karten als Ausrüstungszauber aus. Während der Main Phase (Schnelleffekt): Du kannst 1 Hexer-Monsterkarte in deiner Zauber- & Fallenzone wählen, die als Ausrüstungszauber behandelt wird; gib sie auf die Hand zurück. Du kannst nur 1 Effekt von „Endymion, der Magistus des Halbmonds“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Hexer",
+    "Link",
+    "Effekt"
+  ]
+}

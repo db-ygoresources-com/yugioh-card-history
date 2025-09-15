@@ -1,0 +1,19 @@
+{
+  "id": 21818,
+  "type": "monster",
+  "name": "Nigromante Miasma",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 monstruos, incluyendo un monstruo Lanzador de Conjuros de OSCURIDAD\nSi esta carta es Invocada por Enlace: puedes añadir a tu mano 1 monstruo Lanzador de Conjuros de OSCURIDAD de Nivel 5 o mayor en tu Cementerio, pero no puedes activar cartas, o efectos de cartas, con su nombre por el resto de este turno. Puedes mandar al Cementerio 1 Mágica/Trampa en tu mano o Campo; inmediatamente después de que se resuelva este efecto, Invoca de Modo Normal 1 monstruo Lanzador de Conjuros. Sólo puedes usar cada efecto de \"Nigromante Miasma\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Enlace",
+    "Efecto"
+  ]
+}

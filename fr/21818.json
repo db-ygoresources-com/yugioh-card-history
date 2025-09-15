@@ -1,0 +1,19 @@
+{
+  "id": 21818,
+  "type": "monster",
+  "name": "Nécromancien du Miasme",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2 monstres (un monstre TÉNÈBRES Magicien inclus)\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 monstre TÉNÈBRES Magicien de min. Niveau 5 depuis votre Cimetière à votre main, mais vous ne pouvez activer ni de cartes ni d'effets de cartes de son nom le reste de ce tour. Vous pouvez envoyer 1 Magie/Piège depuis votre main ou Terrain au Cimetière ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre Magicien. Vous ne pouvez utiliser chaque effet de \"Nécromancien du Miasme\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Magicien",
+    "Lien",
+    "Effet"
+  ]
+}

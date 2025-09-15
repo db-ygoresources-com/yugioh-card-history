@@ -1,0 +1,19 @@
+{
+  "id": 21801,
+  "type": "monster",
+  "name": "D/D/D/D Rei Dimensional Crise Arc",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "4 monstros Demônio (1 de Fusão, 1 Sincro, 1 Xyz e 1 Pêndulo)\nDeve ser Invocado por Invocação-Fusão, ou por Invocação-Especial (do seu Deck Adicional com a face para baixo) ao banir os cards acima do seu campo e/ou Cemitério. Você só pode Invocar \"D/D/D/D Rei Dimensional Crise Arc\" por Invocação-Especial uma vez por turno desta forma, não importa o método que usar. Se este card for Invocado por Invocação-Especial: você pode negar os efeitos de todos os monstros com a face para cima que seu oponente controla atualmente. Pode atacar todos os monstros do seu oponente, uma vez cada. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Você pode escolher qualquer número de cards \"Pacto Obscuro\" que você controla; destrua-os e, depois, você pode Invocar por Invocação-Especial até esse número de Monstros Pêndulo \"Rei do Fim\" do seu Deck e/ou Deck Adicional. Você só pode usar este efeito de \"D/D/D/D Rei Dimensional Crise Arc\" uma vez por turno.",
+  "pendScale": 13,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Demônio",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

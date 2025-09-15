@@ -1,0 +1,16 @@
+{
+  "id": 22067,
+  "type": "monster",
+  "name": "Chevreuil, jagender Kundschafter aus dem tiefen Wald",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1 ERDE Krieger-Monster der Stufe 5 oder höher + 1 ERDE Krieger-Monster\nBleibt nur während der Main Phase von aktivierten Effekten deines Gegners unberührt. Monster deines Gegners, die angreifen können, müssen das Monster mit den höchsten ATK angreifen, das du kontrollierst (bei Gleichstand bestimmt er). Wenn ein anderes ERDE Krieger-Monster, das du kontrollierst, ein Monster eines Gegners durch Kampf zerstört: Du kannst 1 ERDE Krieger-Monster als Spezialbeschwörung von deinem Friedhof oder deinen verbannten Karten beschwören. Du kannst diesen Effekt von „Chevreuil, jagender Kundschafter aus dem tiefen Wald“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2600,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

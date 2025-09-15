@@ -1,0 +1,19 @@
+{
+  "id": 21819,
+  "type": "monster",
+  "name": "Laevateinn la Hoja Ardiente",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos de FUEGO\nDurante la Main Phase (Efecto Rápido): puedes Sacrificar otro monstruo de FUEGO, y después selecciona 1 monstruo de FUEGO en tu Cementerio con el mismo Tipo original pero un Nivel original menor que el de ese monstruo; Invócalo de Modo Especial en Posición de Defensa. Si una o más cartas boca abajo en tu Zona de Magia y Trampas fueran a ser destruidas por el efecto de una carta del adversario, puedes desterrar esta carta que controlas en su lugar. Sólo puedes usar cada efecto de \"Laevateinn la Hoja Ardiente\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 1000,
+  "properties": [
+    "Guerrero",
+    "Enlace",
+    "Efecto"
+  ]
+}

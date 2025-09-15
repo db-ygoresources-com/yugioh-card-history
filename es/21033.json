@@ -1,0 +1,17 @@
+{
+  "id": 21033,
+  "type": "monster",
+  "name": "Bruto con Cuernos Carnóvoro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 Cantante + 1+ monstruos que no sean Cantantes\nDurante la Main o Battle Phase, puedes (Efecto Rápido): inmediatamente después de que se resuelva este efecto, Invoca por Sincronía 1 monstruo Dinosaurio usando esta carta que controlas. Cuando un monstruo declara un ataque: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Dinosaurio, ignorando sus condiciones de Invocación, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Dinosaurio. Sólo puedes usar cada efecto de \"Bruto con Cuernos Carnóvoro\" una vez por turno.",
+  "level": 6,
+  "atk": 2000,
+  "def": 200,
+  "properties": [
+    "Dinosaurio",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

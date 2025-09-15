@@ -1,0 +1,18 @@
+{
+  "id": 21769,
+  "type": "monster",
+  "name": "D/D/D Cero Machinex, Reina de las Fatalidades",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si una o más cartas \"D/D/D\" y/o \"Contrato Oscuro\" boca arriba que controlas, excepto \"D/D/D Cero Machinex, Reina de las Fatalidades\", son destruidas mientras esta carta está boca arriba en tu Deck Extra, incluso durante el Damage Step: puedes Invocar esta carta de Modo Especial, y después puedes destruir 1 carta en el Campo. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"D/D/D Cero Machinex, Reina de las Fatalidades\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase, si esta carta fue activada este turno: puedes poner boca arriba en tu Campo 1 Mágica/Trampa Continua \"Contrato Oscuro\" en tu Deck. Sólo puedes usar este efecto de \"D/D/D Cero Machinex, Reina de las Fatalidades\" una vez por turno.",
+  "pendScale": 0,
+  "level": 8,
+  "atk": 3000,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

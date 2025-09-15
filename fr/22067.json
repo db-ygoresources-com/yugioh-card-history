@@ -1,0 +1,16 @@
+{
+  "id": 22067,
+  "type": "monster",
+  "name": "Chevreuil, Éclaireur Chasseur de la Forêt Profonde",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre TERRE Guerrier de min. Niveau 5 + 1 monstre TERRE Guerrier\nNon affectée par les effets activés de votre adversaire, durant la Main Phase uniquement. Les monstres de votre adversaire qui peuvent attaquer doivent attaquer le monstre que vous contrôlez avec la plus haute ATK (en cas d'égalité, il choisit). Lorsqu'un autre monstre TERRE Guerrier que vous contrôlez détruit un monstre de l'adversaire au combat : vous pouvez Invoquer Spécialement 1 monstre TERRE Guerrier depuis votre Cimetière ou bannissement. Vous ne pouvez utiliser cet effet de \"Chevreuil, Éclaireur Chasseur de la Forêt Profonde\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2600,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

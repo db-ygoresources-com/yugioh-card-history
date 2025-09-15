@@ -1,0 +1,19 @@
+{
+  "id": 21220,
+  "type": "monster",
+  "name": "Endimión, el Magistus Creciente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos, incluyendo un monstruo Lanzador de Conjuros de Nivel 4\nSi esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo \"Magistus\" que controles; equípalo con 1 monstruo Lanzador de Conjuros en tu Cementerio o destierro como una Mágica de Equipo. Durante la Main Phase (Efecto Rápido): puedes seleccionar 1 Carta de Monstruo Lanzador de Conjuros en tu Zona de Magia y Trampas que sea tratado como una Mágica de Equipo; devuélvela a la mano. Sólo puedes usar 1 efecto de \"Endimión, el Magistus Creciente\" por turno, y sólo una vez ese turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "3"
+  ],
+  "atk": 1850,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Enlace",
+    "Efecto"
+  ]
+}

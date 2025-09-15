@@ -1,0 +1,18 @@
+{
+  "id": 21787,
+  "type": "monster",
+  "name": "Primoa Solfacorde",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Mientras tienes cartas \"Solfacorde\" en ambas de tus Zonas de Péndulo (1 con Escala de Péndulo impar y 1 con par), los efectos activados de tus cartas \"Solfacorde\" no pueden ser negados. Sólo puedes usar cada uno de los siguientes efectos de \"Primoa Solfacorde\" una vez por turno. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 carta \"Solfacorde\" en tu Deck, excepto \"Primoa Solfacorde\". Si Invocas por Enlace un monstruo \"Solfacorde\": puedes añadir a tu mano 1 carta \"Solfacorde\" en tu Deck Extra boca arriba o Cementerio.",
+  "pendEffect": "Cuando Invocas por Péndulo: puedes seleccionar 1 carta \"Solfacorde\" en tu Zona de Péndulo; devuélvela a la mano.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

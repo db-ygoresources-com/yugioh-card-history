@@ -1,0 +1,19 @@
+{
+  "id": 21801,
+  "type": "monster",
+  "name": "D/D/D/D Crise d'Arc, Roi Dimensionnel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "4 monstres Démon (1 Fusion, 1 Synchro, 1 Xyz et 1 Pendule)\nUniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck face verso) en bannissant les cartes ci-dessus depuis votre Terrain et/ou Cimetière. Vous ne pouvez Invoquer Spécialement \"D/D/D/D Crise d'Arc, Roi Dimensionnel\" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez. Si cette carte est Invoquée Spécialement : vous pouvez annuler les effets de tous les monstres face recto actuellement contrôlés par votre adversaire. Peut attaquer une fois tous les monstres de votre adversaire. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Vous pouvez cibler un nombre de votre choix de cartes \"Contrat des Ténèbres\" que vous contrôlez ; détruisez-les, puis vous pouvez Invoquer Spécialement max. autant de Monstres Pendule \"Roi du Déclin\" depuis votre Deck et/ou Extra Deck. Vous ne pouvez utiliser cet effet de \"D/D/D/D Crise d'Arc, Roi Dimensionnel\" qu'une fois par tour.",
+  "pendScale": 13,
+  "level": 12,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Démon",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21802,
+  "type": "monster",
+  "name": "Gouki L'Ogre Tyran",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 Monstre Lien \"Gouki\" + 1 monstre Guerrier, Dinosaure ou Cyberse\nSi cette carte combat, votre adversaire ne peut activer ni de cartes ni d'effets jusqu'à la fin de la Damage Step. Si cette carte est Invoquée par Fusion : vous pouvez cibler un nombre de cartes sur le Terrain inférieur ou égal à la somme des Classifications Lien des monstres \"Gouki\" utilisés comme Matériel de cette carte (si vous avez utilisé un monstre de min. Link-3, aucun joueur ne peut activer ni ces cartes ciblées ni leurs effets en réponse à l'activation de cet effet) ; détruisez-les. Vous ne pouvez utiliser cet effet de \"Gouki L'Ogre Tyran\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3500,
+  "def": 0,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

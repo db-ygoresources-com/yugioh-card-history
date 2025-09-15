@@ -1,0 +1,16 @@
+{
+  "id": 21767,
+  "type": "monster",
+  "name": "D/D-Lanzensoldat",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst 1 „D/D“-Monster wählen, das du kontrollierst; erhöhe seine Stufe um bis zu die Anzahl der „Dunkler Vertrag“-Karten auf deiner Spielfeldseite und in deinem Friedhof. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Dunkler Vertrag“-Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „D/D-Lanzensoldat“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

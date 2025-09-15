@@ -1,0 +1,18 @@
+{
+  "id": 21787,
+  "type": "monster",
+  "name": "Solfaccord Primoa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que vous avez des cartes \"Solfaccord\" dans vos deux Zones Pendules (1 Échelle Pendule impaire et 1 Échelle Pendule paire), les effets activés de vos cartes \"Solfaccord\" ne peuvent pas être annulés. Vous ne pouvez utiliser chacun des effets suivants de \"Solfaccord Primoa\" qu'une fois par tour. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 carte \"Solfaccord\" (\"Solfaccord Primoa\" exclu) depuis votre Deck à votre main. Si vous Invoquez par Lien un monstre \"Solfaccord\" : vous pouvez ajouter 1 carte \"Solfaccord\" depuis votre Extra Deck face recto ou Cimetière à votre main.",
+  "pendEffect": "Lorsque vous Invoquez par Pendulation : vous pouvez cibler 1 carte \"Solfaccord\" dans votre Zone Pendule ; renvoyez-la à la main.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 0,
+  "def": 400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

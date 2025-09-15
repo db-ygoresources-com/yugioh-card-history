@@ -1,0 +1,18 @@
+{
+  "id": 21786,
+  "type": "monster",
+  "name": "Solfaccord Solfegia",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si vous ne contrôlez aucun monstre, ou si tous les monstres que vous contrôlez sont des monstres \"Solfaccord\" : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant votre Main Phase : vous pouvez activer cet effet (vous pouvez aussi Sacrifier cette carte) ; Invoquez Spécialement 1 monstre \"Solfaccord\" (\"Solfaccord Solfegia\" exclu) depuis votre main, ou, si vous avez Sacrifié cette carte lorsque vous avez activé cet effet, vous pouvez l'Invoquer Spécialement depuis votre Extra Deck face recto ou Cimetière à la place. Vous ne pouvez utiliser chaque effet de \"Solfaccord Solfegia\" qu'une fois par tour.",
+  "pendEffect": "Lorsqu'un effet de monstre de votre adversaire activé sur le Terrain est résolu, si vous contrôlez un monstre \"GranSolfaccord\", vous pouvez annuler l'effet, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Solfaccord Solfegia\" qu'une fois par tour.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

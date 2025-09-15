@@ -1,0 +1,15 @@
+{
+  "id": 21788,
+  "type": "monster",
+  "name": "Señor Supremo Regénesis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Cementerio) desterrando 2 monstruos en tu Cementerio con 2500 ATK o DEF. Sólo puedes Invocar de Modo Especial \"Señor Supremo Regénesis\" una vez por turno de esta forma. Si esta carta es Invocada de Modo Especial: puedes seleccionar cartas en el Campo y/o Cementerio de tu adversario, hasta el número de tus monstruos desterrados con 2500 ATK o DEF; devuélvelas a la mano. Los monstruos que controla tu adversario pierden 2500 ATK sólo durante la Battle Phase.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Ilusión",
+    "Efecto"
+  ]
+}

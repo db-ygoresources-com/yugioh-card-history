@@ -1,0 +1,16 @@
+{
+  "id": 21767,
+  "type": "monster",
+  "name": "D/D Soldat à la Lance",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez cibler 1 monstre \"D/D\" que vous contrôlez ; augmentez son Niveau de max. le nombre de cartes \"Contrat des Ténèbres\" dans votre Terrain et Cimetière. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 carte \"Contrat des Ténèbres\" que vous contrôlez ; détruisez-la, et si vous le faites, Invoquez Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"D/D Soldat à la Lance\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 400,
+  "def": 400,
+  "properties": [
+    "Démon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}
