@@ -1,0 +1,18 @@
+{
+  "id": 16089,
+  "type": "monster",
+  "name": "LaSolfachord Angelia",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "While you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster attacks, your opponent cannot activate Spell/Trap Cards or effects until the end of the Damage Step. During your Main Phase: You can Tribute 1 \"Solfachord\" Pendulum Monster (even if face-down), and if you do, Special Summon 1 \"Solfachord\" Pendulum Monster from your Deck whose Pendulum Scale is 2 higher or 2 lower than that monster, except \"LaSolfachord Angelia\". You can only use this effect of \"LaSolfachord Angelia\" once per turn.",
+  "pendEffect": "Your opponent cannot activate a Spell/Trap Card, or monster effect, when your \"Solfachord\" Pendulum Monster(s) is Pendulum Summoned.",
+  "pendScale": 3,
+  "level": 6,
+  "atk": 2300,
+  "def": 1400,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

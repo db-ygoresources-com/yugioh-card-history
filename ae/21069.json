@@ -1,0 +1,18 @@
+{
+  "id": 21069,
+  "type": "monster",
+  "name": "D/D Count Surveyor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You can discard 1 other \"D/D\" monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"D/D\" monster with 0 ATK or DEF from your Deck to your hand. You can only use each effect of \"D/D Count Surveyor\" once per turn.",
+  "pendEffect": "Once per turn, if you Pendulum Summon a \"D/D/D\" monster(s): You can target 3 monsters your opponent controls with the same Type or Attribute as each other; Tribute 2 of those 3 face-up monsters, and if you do, the third gains ATK/DEF equal to the total ATK/DEF the Tributed monsters had on the field.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

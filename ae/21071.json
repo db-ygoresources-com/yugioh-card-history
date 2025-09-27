@@ -1,0 +1,18 @@
+{
+  "id": 21071,
+  "type": "monster",
+  "name": "D/D Extra Surveyor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You can discard this card; add 1 face-up \"D/D\" Pendulum Monster from your Extra Deck to your hand, except \"D/D Extra Surveyor\". If this card is banished: You can banish the top cards of your opponent's Deck equal to the number of face-up Pendulum Monsters in their Extra Deck, then you can make 1 \"D/D\" monster you control gain 200 ATK for each card banished. You can only use each effect of \"D/D Extra Surveyor\" once per turn.",
+  "pendEffect": "If a face-up Monster Card(s) your opponent controls is destroyed by battle or card effect: You can target 1 \"D/D/D\" monster you control; banish 2 cards from your Pendulum Zones, and if you do, that monster can make a second attack during each Battle Phase this turn. You can only use this effect of \"D/D Extra Surveyor\" once per turn.",
+  "pendScale": 4,
+  "level": 5,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 21070,
+  "type": "monster",
+  "name": "D/D Scale Surveyor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If you control a \"D/D\" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make this card Level 4. If this card is sent to the GY, or added to the Extra Deck face-up: You can target 1 \"D/D\" Pendulum Monster Card you control; return it to the hand. You can only use each effect of \"D/D Scale Surveyor\" once per turn.",
+  "pendEffect": "During the Standby Phase: You can target up to 2 cards in the Pendulum Zones; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of \"D/D Scale Surveyor\" once per turn.",
+  "pendScale": 9,
+  "level": 2,
+  "atk": 0,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}
