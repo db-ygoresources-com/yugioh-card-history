@@ -1,0 +1,16 @@
+{
+  "id": 22090,
+  "type": "monster",
+  "name": "Der Drache, der das Dogma verschlingt",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Gefallener von Albaz“ + 1 LICHT oder FINSTERNIS Monster + 1 Effektmonster\nSolange sich ein „Ecclesia“-Monster auf dem Spielfeld oder in einem beliebigen Friedhof befindet, erhält diese Karte 500 ATK, zusätzlich bleibt sie von den Effekten anderer Karten unberührt. Du kannst jeden der folgenden Effekte von „Der Drache, der das Dogma verschlingt“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Karten von beliebigen Friedhöfen und/oder verbannten Karten ins Deck mischen. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst deiner Hand 1 „Dogmatika“- oder „Sta-Brigade“-Karte von deinem Deck hinzufügen.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Ungeheuer",
+    "Fusion",
+    "Effekt"
+  ]
+}
