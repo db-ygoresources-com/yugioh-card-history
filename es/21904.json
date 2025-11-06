@@ -1,0 +1,16 @@
+{
+  "id": 21904,
+  "type": "monster",
+  "name": "Sincrón de Chatarra",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Para una Invocación por Sincronía, puedes sustituir esta carta por 1 cualquier Cantante \"Sincrón\" (o \"Sincronizador\"). Sólo puedes usar cada uno de los siguientes efectos de \"Sincrón de Chatarra\" una vez por turno. Si Invocas por Sincronía un monstruo que mencione un Cantante \"Sincrón\" (o \"Sincronizador\") como material, esta carta en tu mano también puede ser usada como material. Si uno o más monstruos que controlas (que mencionen \"Guerrero de Basura\" o sean un Monstruo de Sincronía con \"Guerrero/a\" en su nombre original) fueran a ser destruidos en batalla o por el efecto de una carta, puedes desterrar esta carta en tu Campo o Cementerio en su lugar.",
+  "level": 1,
+  "atk": 700,
+  "def": 100,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

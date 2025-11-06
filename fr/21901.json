@@ -1,0 +1,15 @@
+{
+  "id": 21901,
+  "type": "monster",
+  "name": "Guerrier de Célérité Maximale",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Les monstres que vous contrôlez, qui mentionnent \"Robot Guerrier\" ou qui sont un Monstre Synchro avec \"Guerrier\" dans leur nom d'origine, gagnent 900 ATK durant votre Battle Phase uniquement. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Robot Synchronique\" ou 1 Magie/Piège qui mentionne \"Robot Guerrier\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Guerrier de Célérité Maximale\" qu'une fois par tour.",
+  "level": 2,
+  "atk": 900,
+  "def": 400,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

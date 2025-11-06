@@ -1,0 +1,16 @@
+{
+  "id": 21907,
+  "type": "monster",
+  "name": "Robot Guerrier Extrême",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Robot Synchronique\" + 1+ monstre non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez Invoquer Spécialement autant de monstres de max. Niveau 2 que possible depuis votre Cimetière, mais aucun joueur ne peut activer les effets de ces monstres ce tour, et aussi, vous ne pouvez Invoquer Spécialement qu'une fois de plus ce tour. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez bannir cette carte ; Invoquez Spécialement 1 Monstre Synchro \"Robot\" depuis votre Extra Deck (ceci est traité comme Invocation Synchro). Vous ne pouvez utiliser chaque effet de \"Robot Guerrier Extrême\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2300,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

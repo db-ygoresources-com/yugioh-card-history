@@ -1,0 +1,16 @@
+{
+  "id": 21908,
+  "type": "monster",
+  "name": "Schrottkrieger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "„Schrottsynchron“ + 1+ Nicht-Empfänger-Monster\nDie aktivierten Effekte von Monstern, die du kontrollierst und die „Gerümpelkrieger“ erwähnen oder Synchromonster mit „Krieger“ in ihrem Grund-Namen sind, können nicht annulliert werden (außer von „Schrottkrieger“). Falls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 „Gerümpelsynchronisierer“ oder 1 Karte, die „Gerümpelkrieger“ erwähnt, von deinem Deck nehmen und entweder deiner Hand hinzufügen oder auf den Friedhof legen. Du kannst diesen Effekt von „Schrottkrieger“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1700,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

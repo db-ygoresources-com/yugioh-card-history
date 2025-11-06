@@ -1,0 +1,16 @@
+{
+  "id": 21907,
+  "type": "monster",
+  "name": "Guerrero de Basura Extremo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Sincronizador de Basura\" + 1+ monstruos que no sean Cantantes\nSi esta carta es Invocada por Sincronía: puedes Invocar de Modo Especial tantos monstruos de Nivel 2 o menor como sea posible desde tu Cementerio, pero ningún jugador puede activar los efectos de esos monstruos este turno, y además sólo puedes Invocar de Modo Especial una vez más este turno. Cuando esta carta destruye un monstruo del adversario en batalla: puedes desterrar esta carta; Invoca de Modo Especial 1 Monstruo de Sincronía \"Basura\" desde tu Deck Extra (esto se trata como una Invocación por Sincronía). Sólo puedes usar cada efecto de \"Guerrero de Basura Extremo\" una vez por turno.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2300,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Efecto"
+  ]
+}

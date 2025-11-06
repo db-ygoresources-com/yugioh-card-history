@@ -1,0 +1,16 @@
+{
+  "id": 21904,
+  "type": "monster",
+  "name": "Schrottsynchron",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte anstelle von 1 beliebigen „Synchron“-Empfänger für eine Synchrobeschwörung verwenden. Du kannst jeden der folgenden Effekte von „Schrottsynchron“ nur einmal pro Spielzug verwenden. Falls du ein Monster als Synchrobeschwörung beschwörst, das einen „Synchron“-Empfänger als Material erwähnt, kann diese Karte in deiner Hand auch als Material verwendet werden. Falls ein oder mehr Monster, die du kontrollierst (die „Gerümpelkrieger“ erwähnen oder Synchromonster mit „Krieger“ in ihrem Grund-Namen sind), durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deiner Spielfeldseite oder deinem Friedhof verbannen.",
+  "level": 1,
+  "atk": 700,
+  "def": 100,
+  "properties": [
+    "Maschine",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21904,
+  "type": "monster",
+  "name": "Ferraille Synchronique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Pour une Invocation Synchro, vous pouvez substituer cette carte à 1 Syntoniseur \"Synchronique\". Vous ne pouvez utiliser chacun des effets suivants de \"Ferraille Synchronique\" qu'une fois par tour. Si vous Invoquez par Synchronisation un monstre qui mentionne un Syntoniseur \"Synchronique\" comme Matériel, cette carte dans votre main peut aussi être utilisée comme Matériel. Si un ou plusieurs monstres que vous contrôlez (qui mentionnent \"Robot Guerrier\" ou qui sont un Monstre Synchro avec \"Guerrier\" dans son nom d'origine) vont être détruits au combat ou par un effet de carte, vous pouvez bannir cette carte depuis votre Terrain ou Cimetière à la place.",
+  "level": 1,
+  "atk": 700,
+  "def": 100,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}
