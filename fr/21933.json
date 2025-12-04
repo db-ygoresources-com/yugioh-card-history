@@ -1,0 +1,15 @@
+{
+  "id": 21933,
+  "type": "monster",
+  "name": "Hécamains Godos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Vous ne pouvez utiliser chacun des effets suivants de \"Hécamains Godos\" qu'une fois par tour. Si une ou plusieurs cartes sont ajoutées à la main de votre adversaire (sauf durant la Draw Phase ou Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur votre Terrain, mais bannissez-le lorsqu'il quitte le Terrain.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Illusion",
+    "Effet"
+  ]
+}

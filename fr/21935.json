@@ -1,0 +1,15 @@
+{
+  "id": 21935,
+  "type": "monster",
+  "name": "Hécamains Breus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Vous ne pouvez utiliser chacun des effets suivants de \"Hécamains Breus\" qu'une fois par tour. Si une ou plusieurs cartes sont ajoutées à la main de votre adversaire (sauf durant la Draw Phase ou Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant votre Main Phase : vous pouvez regarder 1 carte au hasard dans la main de votre adversaire, puis si c'est un monstre, vous pouvez l'Invoquer Spécialement sur votre Terrain.",
+  "level": 7,
+  "atk": 2800,
+  "def": 1300,
+  "properties": [
+    "Illusion",
+    "Effet"
+  ]
+}

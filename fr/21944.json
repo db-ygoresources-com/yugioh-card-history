@@ -1,0 +1,19 @@
+{
+  "id": 21944,
+  "type": "monster",
+  "name": "Ekto Ennéacrimaisseau - \"tromarIA\"",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Jusqu'à la fin de ce tour, annulez les effets d'1 Monstre à Effet contrôlé par votre adversaire.\nLorsque votre adversaire active une carte ou un effet qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres (Effet Rapide) : vous pouvez changer cette carte face verso en Position de Défense face recto ; ajoutez 1 carte \"Ennéacrimaisseau\" depuis votre Deck à votre main. Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso. Vous ne pouvez pas Invoquer Spécialement le tour où vous activez cet effet, sauf en Position de Défense face verso.",
+  "pendEffect": "Chaque fois qu'un ou plusieurs monstres sont retournés face recto, placez 1 Compteur E.C. sur cette carte. Vous pouvez payer 900 LP ; révélez 3 cartes \"Ennéacrimaisseau\" depuis votre Deck, votre adversaire en prend 1 au hasard pour vous à ajouter à votre main, mélangez les cartes restantes dans le Deck. Vous ne pouvez utiliser cet effet de \"Ekto Ennéacrimaisseau - \"tromarIA\"\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Flip",
+    "Effet"
+  ]
+}

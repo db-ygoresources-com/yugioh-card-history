@@ -1,0 +1,15 @@
+{
+  "id": 21934,
+  "type": "monster",
+  "name": "Hecamanos Gaigas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla. Sólo puedes usar cada uno de los siguientes efectos de \"Hecamanos Gaigas\" una vez por turno. Si una o más cartas son añadidas a la mano de tu adversario (excepto durante la Draw Phase o el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Durante tu Main Phase: puedes excavar las 3 cartas de la parte superior del Deck de tu adversario y, si lo haces, puedes Invocar de Modo Especial 1 monstruo excavado a tu Campo, y además baraja el resto al Deck.",
+  "level": 7,
+  "atk": 1200,
+  "def": 2800,
+  "properties": [
+    "Ilusión",
+    "Efecto"
+  ]
+}

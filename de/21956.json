@@ -1,0 +1,16 @@
+{
+  "id": 21956,
+  "type": "monster",
+  "name": "Kewl-Empfang Einsatz",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls diese Karte auf dem Spielfeld als Synchromaterial verwendet würde, kann 1 Empfänger in deiner Hand als 1 des anderen Materials verwendet werden. Du kannst jeden der folgenden Effekte von „Kewl-Empfang Einsatz“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Empfänger als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören, außer „Kewl-Empfang Einsatz“, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von Empfängern. Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst die obersten 2 Karten des Decks deines Gegners ausgraben, 1 von ihnen verbannen und die andere aufs oder unters Deck legen.",
+  "level": 3,
+  "atk": 900,
+  "def": 1900,
+  "properties": [
+    "Fee",
+    "Empfänger",
+    "Effekt"
+  ]
+}

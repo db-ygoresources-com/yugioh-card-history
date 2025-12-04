@@ -1,0 +1,19 @@
+{
+  "id": 21945,
+  "type": "monster",
+  "name": "Enato Eneagranave - \"oknirIA\"",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Baraja al Deck hasta 3 cartas en el Cementerio y/o destierro de tu adversario.\nCuando tu adversario activa un efecto de carta en el Cementerio o destierro (Efecto Rápido): puedes cambiar esta carta boca abajo a Posición de Defensa boca arriba; añade a tu mano 1 carta \"Eneagranave\" en tu Deck. Puedes mostrar esta carta en tu mano; Invoca 1 monstruo de Modo Especial desde tu mano en Posición de Defensa boca abajo. No puedes Invocar de Modo Especial el turno en el que actives este efecto, excepto en Posición de Defensa boca abajo.",
+  "pendEffect": "Cada vez que uno o más monstruos son volteados boca arriba, pon 1 Contador E.N. en esta carta. Puedes pagar 900 LP; muestra 3 cartas \"Eneagranave\" en tu Deck, tu adversario elige 1 al azar para que la añadas a tu mano y baraja el resto al Deck. Sólo puedes usar este efecto de \"Enato Eneagranave - \"oknirIA\"\" una vez por turno.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Volteo",
+    "Efecto"
+  ]
+}

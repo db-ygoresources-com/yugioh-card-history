@@ -1,0 +1,19 @@
+{
+  "id": 21947,
+  "type": "monster",
+  "name": "Eneanave - Asta.PIXEA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Depois que este card foi virado com a face para cima, enquanto ele estiver na Zona de Monstros, seu oponente não pode escolher cards no campo ou nos Cemitérios como alvo de efeitos de card. Quando seu oponente ativar um card ou efeito que escolha como alvo um ou mais cards que você controla (Efeito Rápido): você pode colocar este card que estiver com a face para baixo, com a face para cima em Posição de Defesa; negue o efeito e, depois, você pode banir (com a face para baixo) 1 card aleatório da mão do seu oponente. Você pode revelar este card na sua mão; Invoque por Invocação-Especial 1 monstro da sua mão com a face para baixo em Posição de Defesa. Você não pode Invocar por Invocação-Especial no turno em que ativar este efeito, exceto com a face para baixo em Posição de Defesa.",
+  "pendEffect": "Sempre que um ou mais monstros forem virados com a face para cima, coloque 1 Marcador de E.N. neste card. No final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente controla com ATK menor que o deste card; destrua-o.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Virar",
+    "Efeito"
+  ]
+}

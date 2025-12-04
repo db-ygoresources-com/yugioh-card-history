@@ -1,0 +1,17 @@
+{
+  "id": 21960,
+  "type": "monster",
+  "name": "Kewl-Empfang Lautheitskrieg",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2+ Empfänger\nAndere Empfänger, die du kontrollierst, können nicht durch Karteneffekte zerstört werden, zusätzlich kann dein Gegner sie nicht als Ziel für Karteneffekte wählen. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 „Kewl-Empfang“-Monster von deinem Friedhof verbannen; führe den Effekt jenes verbannten Monsters aus, der aktiviert wird, wenn es als Synchromaterial auf den Friedhof gelegt wird. Du kannst diesen Effekt von „Kewl-Empfang Lautheitskrieg“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 0,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 21958,
+  "type": "monster",
+  "name": "Kewl-Empfang Remix",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "„Kewl-Empfang Mix“ + 1+ Empfänger\nErhält 1500 ATK, solange dein Gegner einen Empfänger auf seiner Spielfeldseite oder in seinem Friedhof hat. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; bestimme 2 Nichtsynchro-Empfänger in deinem Friedhof, füge 1 von ihnen deiner Hand hinzu und falls du dies tust, beschwöre den anderen als Spezialbeschwörung, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Empfänger-Synchromonster als Synchrobeschwörung beschwören. Du kannst diesen Effekt von „Kewl-Empfang Remix“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

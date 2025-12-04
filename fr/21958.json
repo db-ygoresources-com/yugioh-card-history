@@ -1,0 +1,17 @@
+{
+  "id": 21958,
+  "type": "monster",
+  "name": "Remix du Son Kewl",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Mix du Son Kewl\" + 1+ Syntoniseur\nGagne 1500 ATK tant que votre adversaire a un Syntoniseur dans son Terrain ou Cimetière. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez Sacrifier cette carte ; choisissez 2 Syntoniseurs non-Synchro dans votre Cimetière, ajoutez-en 1 à votre main, et si vous le faites, Invoquez Spécialement l'autre, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Monstre Synchro Syntoniseur. Vous ne pouvez utiliser cet effet de \"Remix du Son Kewl\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

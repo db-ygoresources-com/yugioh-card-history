@@ -1,0 +1,19 @@
+{
+  "id": 21945,
+  "type": "monster",
+  "name": "Enato Eneanave - \"oknirIA\"",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "VIRE: Embaralhe no Deck até 3 cards do Cemitério do seu oponente e/ou banimento.\nQuando seu oponente ativar um efeito de card no Cemitério ou banimento (Efeito Rápido): você pode colocar este card que estiver com a face para baixo, com a face para cima em Posição de Defesa; adicione 1 card \"Eneanave\" do seu Deck à sua mão. Você pode revelar este card na sua mão; Invoque por Invocação-Especial 1 monstro da sua mão com a face para baixo em Posição de Defesa. Você não pode Invocar por Invocação-Especial no turno em que ativar este efeito, exceto com a face para baixo em Posição de Defesa.",
+  "pendEffect": "Sempre que um ou mais monstros forem virados com a face para cima, coloque 1 Marcador de E.N. neste card. Você pode pagar 900 PV; revele 3 cards \"Eneanave\" do seu Deck, seu oponente elege 1 aleatoriamente para que você adicione à sua mão, embaralhe o resto no Deck. Você só pode usar este efeito de \"Enato Eneanave - \"oknirIA\"\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Virar",
+    "Efeito"
+  ]
+}

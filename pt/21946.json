@@ -1,0 +1,19 @@
+{
+  "id": 21946,
+  "type": "monster",
+  "name": "Eneanave - Aiza.LEON",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Depois que este card foi virado com a face para cima, enquanto ele estiver na Zona de Monstros, sempre que seu oponente adicionar um ou mais cards à mão dele por um efeito de card dele, ele sofre 900 de dano para cada card. Quando seu oponente ativar um card ou efeito em resposta à ativação de um dos seus cards ou efeitos (Efeito Rápido): você pode colocar este card que estiver com a face para baixo, com a face para cima em Posição de Defesa; devolva até 3 cards do campo para a mão. Você pode revelar este card na sua mão; Invoque por Invocação-Especial 1 monstro da sua mão com a face para baixo em Posição de Defesa. Você não pode Invocar por Invocação-Especial no turno em que ativar este efeito, exceto com a face para baixo em Posição de Defesa.",
+  "pendEffect": "Sempre que um ou mais monstros forem virados com a face para cima, coloque 1 Marcador de E.N. neste card. No final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente controla com ATK menor que o deste card; destrua-o.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Virar",
+    "Efeito"
+  ]
+}

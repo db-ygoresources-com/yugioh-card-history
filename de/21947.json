@@ -1,0 +1,19 @@
+{
+  "id": 21947,
+  "type": "monster",
+  "name": "Enneawerk - Asta.PIXEA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Nachdem diese Karte aufgedeckt wurde, solange sie in der Monsterzone liegt, kann dein Gegner keine Karten auf dem Spielfeld oder in den Friedhöfen als Ziel für Karteneffekte wählen. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der eine oder mehr Karten, die du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst diese verdeckte Karte in die offene Verteidigungsposition ändern; annulliere jenen Effekt, dann kannst du 1 zufällige Karte von der Hand deines Gegners (verdeckt) verbannen. Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 Monster als Spezialbeschwörung von deiner Hand in die verdeckte Verteidigungsposition. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Spezialbeschwörungen durchführen, außer in die verdeckte Verteidigungsposition.",
+  "pendEffect": "Jedes Mal, wenn ein oder mehr Monster aufgedeckt werden, lege 1 E.W.-Zählmarke auf diese Karte. Am Ende der Battle Phase, falls du eine „Enneawerk“-Karte in deiner anderen Pendelzone hast: Du kannst 1 Monster wählen, das dein Gegner kontrolliert und das weniger ATK als diese Karte hat; zerstöre es.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Flipp",
+    "Effekt"
+  ]
+}

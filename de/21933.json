@@ -1,0 +1,15 @@
+{
+  "id": 21933,
+  "type": "monster",
+  "name": "Hekahände Godos",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Du kannst jeden der folgenden Effekte von „Hekahände Godos“ nur einmal pro Spielzug verwenden. Falls der Hand deines Gegners eine oder mehr Karten hinzufügt werden (außer während der Draw Phase oder des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 Monster im Friedhof deines Gegners wählen; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite, aber verbanne es, wenn es das Spielfeld verlässt.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2000,
+  "properties": [
+    "Illusion",
+    "Effekt"
+  ]
+}

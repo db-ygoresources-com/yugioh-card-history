@@ -1,0 +1,19 @@
+{
+  "id": 21948,
+  "type": "monster",
+  "name": "Eneagranave - Atori.MAR",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Cambia todos los monstruos de tu adversario a Posición de Defensa boca abajo. Los monstruos que fueron cambiados no pueden cambiar sus posiciones de batalla.\nDurante tu turno, cuando tu adversario activa una carta o efecto en el Campo (Efecto Rápido): puedes cambiar esta carta boca abajo a Posición de Defensa boca arriba; niega la activación y, si lo haces, destruye esa carta. Puedes mostrar esta carta en tu mano; Invoca 1 monstruo de Modo Especial desde tu mano en Posición de Defensa boca abajo. No puedes Invocar de Modo Especial el turno en el que actives este efecto, excepto en Posición de Defensa boca abajo.",
+  "pendEffect": "Cada vez que uno o más monstruos son volteados boca arriba, pon 1 Contador E.N. en esta carta. Al final de la Battle Phase, si tienes una carta \"Eneagranave\" en tu otra Zona de Péndulo: puedes seleccionar 1 monstruo que controle tu adversario con menos ATK que esta carta; destrúyelo.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Volteo",
+    "Efecto"
+  ]
+}

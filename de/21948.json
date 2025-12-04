@@ -1,0 +1,19 @@
+{
+  "id": 21948,
+  "type": "monster",
+  "name": "Enneawerk - Atori.MAR",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "FLIPP: Ändere alle Monster deines Gegners in die verdeckte Verteidigungsposition. Die Monster, die geändert wurden, können ihre Kampfpositionen nicht ändern.\nWährend deines Spielzugs, wenn dein Gegner eine Karte oder einen Effekt auf dem Spielfeld aktiviert (Schnelleffekt): Du kannst diese verdeckte Karte in die offene Verteidigungsposition ändern; annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte. Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 Monster als Spezialbeschwörung von deiner Hand in die verdeckte Verteidigungsposition. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Spezialbeschwörungen durchführen, außer in die verdeckte Verteidigungsposition.",
+  "pendEffect": "Jedes Mal, wenn ein oder mehr Monster aufgedeckt werden, lege 1 E.W.-Zählmarke auf diese Karte. Am Ende der Battle Phase, falls du eine „Enneawerk“-Karte in deiner anderen Pendelzone hast: Du kannst 1 Monster wählen, das dein Gegner kontrolliert und das weniger ATK als diese Karte hat; zerstöre es.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Flipp",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 21948,
+  "type": "monster",
+  "name": "Eneanave - Atori.MAR",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VIRE: Coloque todos os monstros do seu oponente com a face para baixo em Posição de Defesa. Os monstros que foram, não podem mudar suas posições de batalha.\nDurante o seu turno, quando seu oponente ativar um card ou efeito no campo (Efeito Rápido): você pode colocar este card que estiver com a face para baixo, com a face para cima em Posição de Defesa; negue a ativação e, se isso acontecer, destrua esse card. Você pode revelar este card na sua mão; Invoque por Invocação-Especial 1 monstro da sua mão com a face para baixo em Posição de Defesa. Você não pode Invocar por Invocação-Especial no turno em que ativar este efeito, exceto com a face para baixo em Posição de Defesa.",
+  "pendEffect": "Sempre que um ou mais monstros forem virados com a face para cima, coloque 1 Marcador de E.N. neste card. No final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente controla com ATK menor que o deste card; destrua-o.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Virar",
+    "Efeito"
+  ]
+}

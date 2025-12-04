@@ -1,0 +1,19 @@
+{
+  "id": 21943,
+  "type": "monster",
+  "name": "Deftero-Enneawerk - „alazoneIA“",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Verbanne (offen) bis zur End Phase 1 zufällige Karte von der Hand deines Gegners.\nWenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der einen Effekt enthält, der der Hand eine oder mehr Karten vom Deck hinzufügt (Schnelleffekt): Du kannst diese verdeckte Karte in die offene Verteidigungsposition ändern; füge deiner Hand 1 „Enneawerk“-Karte von deinem Deck hinzu. Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 Monster als Spezialbeschwörung von deiner Hand in die verdeckte Verteidigungsposition. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Spezialbeschwörungen durchführen, außer in die verdeckte Verteidigungsposition.",
+  "pendEffect": "Jedes Mal, wenn ein oder mehr Monster aufgedeckt werden, lege 1 E.W.-Zählmarke auf diese Karte. Du kannst 900 LP zahlen; zeige 3 „Enneawerk“-Karten von deinem Deck vor, dein Gegner bestimmt zufällig 1 von ihnen, die du deiner Hand hinzufügst, und mische die restlichen ins Deck. Du kannst diesen Effekt von „Deftero-Enneawerk - „alazoneIA““ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Flipp",
+    "Effekt"
+  ]
+}

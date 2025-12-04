@@ -1,0 +1,19 @@
+{
+  "id": 21949,
+  "type": "monster",
+  "name": "Ennéacrimaisseau - Archa.TAIL",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Après que cette carte a été retournée face recto, tant qu'elle est dans la Zone Monstre, chaque fois qu'un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire, il reçoit 900 points de dommages. Lorsque votre adversaire active une carte ou un effet qui va détruire une ou plusieurs cartes sur le Terrain (Effet Rapide) : vous pouvez changer cette carte face verso en Position de Défense face recto ; le reste de ce tour, les Magies \"Ennéacrimaisseau\" et monstres que vous contrôlez ne peuvent pas être détruits par des effets de carte. Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso. Vous ne pouvez pas Invoquer Spécialement le tour où vous activez cet effet, sauf en Position de Défense face verso.",
+  "pendEffect": "Chaque fois qu'un ou plusieurs monstres sont retournés face recto, placez 1 Compteur E.C. sur cette carte. À la fin de la Battle Phase, si vous avez une carte \"Ennéacrimaisseau\" dans votre autre Zone Pendule : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure à cette carte ; détruisez-le.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Flip",
+    "Effet"
+  ]
+}

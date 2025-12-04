@@ -1,0 +1,19 @@
+{
+  "id": 21946,
+  "type": "monster",
+  "name": "Ennéacrimaisseau - Aiza.LEON",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Après que cette carte a été retournée face recto, tant qu'elle est dans la Zone Monstre, chaque fois que votre adversaire ajoute une ou plusieurs cartes à sa main par son effet de carte, il reçoit 900 points de dommages pour chaque carte. Lorsque votre adversaire active une carte ou un effet en réponse à l'activation de votre carte ou effet (Effet Rapide) : vous pouvez changer cette carte face verso en Position de Défense face recto ; renvoyez max. 3 cartes depuis le Terrain à la main. Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso. Vous ne pouvez pas Invoquer Spécialement le tour où vous activez cet effet, sauf en Position de Défense face verso.",
+  "pendEffect": "Chaque fois qu'un ou plusieurs monstres sont retournés face recto, placez 1 Compteur E.C. sur cette carte. À la fin de la Battle Phase, si vous avez une carte \"Ennéacrimaisseau\" dans votre autre Zone Pendule : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure à cette carte ; détruisez-le.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Pendule",
+    "Flip",
+    "Effet"
+  ]
+}

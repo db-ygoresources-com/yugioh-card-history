@@ -1,0 +1,19 @@
+{
+  "id": 21949,
+  "type": "monster",
+  "name": "Enneamezzo - Archa.TAIL",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Dopo che questa carta è stata scoperta, mentre è nella Zona Mostri, ogni volta che uno o più mostri vengono mandati al Cimitero del tuo avversario, lui subisce 900 danni. Quando il tuo avversario attiva una carta o un effetto che sta per distruggere una o più carte sul Terreno (Effetto Rapido): puoi mettere scoperta in Posizione di Difesa questa carta coperta; le Magie \"Enneamezzo\" e i mostri che controlli non possono essere distrutti dagli effetti delle carte per il resto di questo turno. Puoi rivelare questa carta nella tua mano; Evoca Specialmente 1 mostro dalla tua mano coperto in Posizione di Difesa. Non puoi Evocare Specialmente nel turno in cui attivi questo effetto, eccetto coperto in Posizione di Difesa.",
+  "pendEffect": "Ogni volta che uno o più mostri vengono scoperti, metti 1 Segnalino E.M. su questa carta. Alla fine della Battle Phase, se hai una carta \"Enneamezzo\" nella tua altra Zona Pendulum: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario con ATK inferiore a questa carta; distruggilo.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Scoperta",
+    "Effetto"
+  ]
+}

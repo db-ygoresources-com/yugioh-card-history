@@ -1,0 +1,19 @@
+{
+  "id": 21944,
+  "type": "monster",
+  "name": "Ekto Enneamezzo - \"tromarIA\"",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "SCOPRI: Annulla gli effetti di 1 Mostro con Effetto controllato dal tuo avversario, fino alla fine di questo turno.\nQuando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente uno o più mostri (Effetto Rapido): puoi mettere scoperta in Posizione di Difesa questa carta coperta; aggiungi 1 carta \"Enneamezzo\" dal tuo Deck alla tua mano. Puoi rivelare questa carta nella tua mano; Evoca Specialmente 1 mostro dalla tua mano coperto in Posizione di Difesa. Non puoi Evocare Specialmente nel turno in cui attivi questo effetto, eccetto coperto in Posizione di Difesa.",
+  "pendEffect": "Ogni volta che uno o più mostri vengono scoperti, metti 1 Segnalino E.M. su questa carta. Puoi pagare 900 LP; rivela 3 carte \"Enneamezzo\" dal tuo Deck, il tuo avversario ne prende 1 a caso da farti aggiungere alla tua mano, mischia il resto nel Deck. Puoi utilizzare questo effetto di \"Ekto Enneamezzo - \"tromarIA\"\" una sola volta per turno.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Scoperta",
+    "Effetto"
+  ]
+}

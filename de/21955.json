@@ -1,0 +1,16 @@
+{
+  "id": 21955,
+  "type": "monster",
+  "name": "Kewl-Empfang Plat",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Falls diese Karte auf dem Spielfeld als Synchromaterial verwendet würde, kann 1 Empfänger in deiner Hand als 1 des anderen Materials verwendet werden. Du kannst jeden der folgenden Effekte von „Kewl-Empfang Plat“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Kewl-Empfang“-Monster von deinem Deck oder Friedhof hinzufügen, außer einem Monster der Stufe 3. Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; zerstöre ihn oder sie.",
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

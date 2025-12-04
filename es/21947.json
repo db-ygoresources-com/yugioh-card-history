@@ -1,0 +1,19 @@
+{
+  "id": 21947,
+  "type": "monster",
+  "name": "Eneagranave - Asta.PIXEA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Después de que esta carta fuera volteada boca arriba, mientras esté en la Zona de Monstruos, tu adversario no puede seleccionar cartas en el Campo o los Cementerios con efectos de cartas. Cuando tu adversario activa una carta o efecto que seleccione una o más cartas que controles (Efecto Rápido): puedes cambiar esta carta boca abajo a Posición de Defensa boca arriba; niega ese efecto, y después puedes desterrar (boca abajo) 1 carta al azar en la mano de tu adversario. Puedes mostrar esta carta en tu mano; Invoca 1 monstruo de Modo Especial desde tu mano en Posición de Defensa boca abajo. No puedes Invocar de Modo Especial el turno en el que actives este efecto, excepto en Posición de Defensa boca abajo.",
+  "pendEffect": "Cada vez que uno o más monstruos son volteados boca arriba, pon 1 Contador E.N. en esta carta. Al final de la Battle Phase, si tienes una carta \"Eneagranave\" en tu otra Zona de Péndulo: puedes seleccionar 1 monstruo que controle tu adversario con menos ATK que esta carta; destrúyelo.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Volteo",
+    "Efecto"
+  ]
+}

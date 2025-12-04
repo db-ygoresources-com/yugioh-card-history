@@ -1,0 +1,17 @@
+{
+  "id": 21958,
+  "type": "monster",
+  "name": "Canción Kewl Remezcla",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Canción Kewl Mezcla\" + 1+ Cantantes\nGana 1500 ATK mientras tu adversario tenga un Cantante en su Campo o Cementerio. Durante el turno de tu adversario (Efecto Rápido): puedes Sacrificar esta carta; elige 2 Cantantes que no sean de Sincronía en tu Cementerio, añade 1 de ellos a tu mano y, si lo haces, Invoca de Modo Especial el otro, e inmediatamente después de que se resuelva este efecto, puedes Invocar por Sincronía 1 Monstruo de Sincronía Cantante. Sólo puedes usar este efecto de \"Canción Kewl Remezcla\" una vez por turno.",
+  "level": 5,
+  "atk": 1500,
+  "def": 2000,
+  "properties": [
+    "Guerrero",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}
