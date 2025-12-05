@@ -1,0 +1,19 @@
+{
+  "id": 21947,
+  "type": "monster",
+  "name": "Enneacraft - Asta.PIXEA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "After this card was flipped face-up, while it is in the Monster Zone, your opponent cannot target cards in the field or GYs with card effects. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can change this face-down card to face-up Defense Position; negate that effect, then you can banish (face-down) 1 random card from your opponent's hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+  "pendEffect": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Flip",
+    "Effect"
+  ]
+}

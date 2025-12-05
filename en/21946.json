@@ -1,0 +1,19 @@
+{
+  "id": 21946,
+  "type": "monster",
+  "name": "Enneacraft - Aiza.LEON",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "After this card was flipped face-up, while it is in the Monster Zone, each time your opponent adds a card(s) to their hand by their card effect, they take 900 damage for each card. When your opponent activates a card or effect in response to your card or effect activation (Quick Effect): You can change this face-down card to face-up Defense Position; return up to 3 cards from the field to the hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+  "pendEffect": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Flip",
+    "Effect"
+  ]
+}
