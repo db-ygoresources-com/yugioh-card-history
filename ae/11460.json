@@ -1,0 +1,18 @@
+{
+  "id": 11460,
+  "type": "monster",
+  "name": "D/D/D Rebel King Leonidas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took. You take no effect damage.",
+  "pendEffect": "When you take effect damage (except during the Damage Step): You can destroy this card, and if you do, any effect that would inflict damage to a player this turn increases their LP by the same amount, instead.",
+  "pendScale": 3,
+  "level": 7,
+  "atk": 2600,
+  "def": 1200,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

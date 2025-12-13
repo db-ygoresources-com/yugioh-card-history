@@ -1,0 +1,18 @@
+{
+  "id": 12409,
+  "type": "monster",
+  "name": "D/D Savant Thomas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "You can target 1 \"D/D\" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 \"D/D/D\" monster from your Deck in Defense Position, but for the rest of this turn, its effects (if any) are negated, also any battle damage your opponent takes becomes halved. You can only use this effect of \"D/D Savant Thomas\" once per turn.",
+  "pendEffect": "During your Main Phase: You can add 1 face-up \"D/D\" Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"D/D Savant Thomas\" once per turn.",
+  "pendScale": 6,
+  "level": 8,
+  "atk": 1800,
+  "def": 2600,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

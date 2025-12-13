@@ -1,0 +1,19 @@
+{
+  "id": 13123,
+  "type": "monster",
+  "name": "D/D/D Super Doom King Purple Armageddon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "2 \"D/D/D\" monsters\nYou can target 1 Attack Position monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK. You can only use this effect of \"D/D/D Super Doom King Purple Armageddon\" once per turn. Before damage calculation, if an opponent's monster battles: You can make its ATK become equal to its original ATK until the end of the Damage Step. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "Once per turn, before damage calculation, if your \"D/D/D\" Fusion Monster battles an opponent's monster: You can make that opponent's monster lose 1000 ATK until the end of this turn (even if this card leaves the field).",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Fiend",
+    "Fusion",
+    "Pendulum",
+    "Effect"
+  ]
+}
