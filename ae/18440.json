@@ -1,0 +1,18 @@
+{
+  "id": 18440,
+  "type": "monster",
+  "name": "D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. When you Pendulum Summon a monster(s), while the total Pendulum Scales in your Pendulum Zones are higher than the total Levels of the Pendulum Summoned monsters: You can Special Summon this card from your hand, and if you do, destroy as many other cards on the field as possible, then you can place this card in your Pendulum Zone. Once per turn, if another face-up \"D/D/D\" monster(s) you control leaves the field by Spell Card or effect: This card's ATK becomes 6000.",
+  "pendEffect": "You can target 1 card in your opponent's Pendulum Zone; Special Summon this card, and if you do, place that card in your Pendulum Zone, but destroy it during the End Phase of the next turn. You can only use this effect of \"D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox\" once per turn.",
+  "pendScale": 10,
+  "level": 12,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}
