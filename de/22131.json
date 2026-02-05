@@ -1,0 +1,15 @@
+{
+  "id": 22131,
+  "type": "monster",
+  "name": "Faustbewaffneter Drache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Drache-Monster wählen, das du kontrollierst; zerstöre es und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst 1 Karte abwerfen und dann 1 Monster mit 2400 oder weniger ATK auf dem Spielfeld wählen; zerstöre es, dann, falls du ein Monster zerstört hast, das du kontrollierst, kannst du 1 Drache-Monster, dessen Grund-Stufe 2 höher als die jenes Monsters ist, als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. Du kannst jeden Effekt von „Faustbewaffneter Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1700,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

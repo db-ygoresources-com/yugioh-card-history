@@ -1,0 +1,16 @@
+{
+  "id": 22340,
+  "type": "monster",
+  "name": "GMX - ALLOS",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo \"GMX\" + 1 monstruo Dinosaurio\nCada vez que tu adversario Invoca de Modo Normal o Especial uno o más monstruos, ganas 200 LP. Sólo puedes usar cada uno de los siguientes efectos de \"GMX - ALLOS\" una vez por turno. Puedes seleccionar 1 monstruo \"GMX\" o 1 monstruo Dinosaurio en tu Cementerio o destierro; Invócalo de Modo Especial. Esta carta no puede atacar el turno en el que este efecto es activado. Al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario: puedes destruir ese monstruo.",
+  "level": 8,
+  "atk": 3000,
+  "def": 900,
+  "properties": [
+    "Dinosaurio",
+    "Fusión",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22341,
+  "type": "monster",
+  "name": "GMX - VELOX",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre \"GMX\" + 1 monstre Dinosaure\nChaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres, gagnez 200 LP. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 carte contrôlée par votre adversaire ; dévoilez les cartes du dessus de votre Deck jusqu'à dévoiler un monstre \"GMX\" ou un monstre Dinosaure, perdez 400 LP pour chaque carte dévoilée, ajoutez le monstre \"GMX\" ou Dinosaure à votre main ou Invoquez-le Spécialement, et mélangez les cartes restantes dans le Deck. Et aussi, après ça, détruisez la carte ciblée. Vous ne pouvez utiliser cet effet de \"GMX - VELOX\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1300,
+  "properties": [
+    "Dinosaure",
+    "Fusion",
+    "Effet"
+  ]
+}

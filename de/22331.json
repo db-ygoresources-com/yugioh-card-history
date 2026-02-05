@@ -1,0 +1,15 @@
+{
+  "id": 22331,
+  "type": "monster",
+  "name": "Vodnika der Springbrunnengeist",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls ein oder mehr Monster der Stufe 10 auf den Friedhof gelegt werden, außer „Vodnika der Springbrunnengeist“ (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof (falls sie dort lag, als das Monster gelegt wurde) oder deiner Hand (selbst falls nicht) in die Verteidigungsposition beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst 1 Monster der Stufe 10 in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung auf die Spielfeldseite deines Gegners (aber annulliere seine Effekte), dann ziehe 1 Karte. Du kannst jeden Effekt von „Vodnika der Springbrunnengeist“ nur einmal pro Spielzug verwenden.",
+  "level": 10,
+  "atk": 2000,
+  "def": 2100,
+  "properties": [
+    "Aqua",
+    "Effekt"
+  ]
+}

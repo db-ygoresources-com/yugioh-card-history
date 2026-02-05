@@ -1,0 +1,15 @@
+{
+  "id": 22121,
+  "type": "monster",
+  "name": "Archidemonio Duque",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Gana ATK igual a su Nivel x 200. Sólo puedes usar cada uno de los siguientes efectos de \"Archidemonio Duque\" una vez por turno. Puedes seleccionar 1 monstruo boca arriba que controles que tenga un Nivel; manda al Cementerio 1 monstruo \"Archidemonio\" en tu Deck, excepto \"Archidemonio Duque\" y, si lo haces, aumenta el Nivel de ese monstruo en el Nivel del monstruo mandado. Cuando tu Monstruo de Ritual es destruido en batalla mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

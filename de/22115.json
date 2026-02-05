@@ -1,0 +1,16 @@
+{
+  "id": 22115,
+  "type": "monster",
+  "name": "Angriffs-Lich",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte, die du kontrollierst, als Synchromaterial verwendet würde, kannst du sie als Nicht-Empfänger behandeln. Du kannst jeden der folgenden Effekte von „Angriffs-Lich“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster, das „Angriffsmodus aktivieren“ erwähnt, oder 1 Zombie-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Friedhof beschwören. Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Angriffsschlag“ oder „Angriffskonter“ von deinem Deck hinzufügen.",
+  "level": 4,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Zombie",
+    "Empfänger",
+    "Effekt"
+  ]
+}

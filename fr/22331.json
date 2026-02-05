@@ -1,0 +1,15 @@
+{
+  "id": 22331,
+  "type": "monster",
+  "name": "Vodnika l'Esprit de la Fontaine",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si un ou plusieurs monstres de Niveau 10 (\"Vodnika l'Esprit de la Fontaine\" exclu) sont envoyés au Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque les monstres ont été envoyés) ou la main (même si elle n'y était pas) en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain. Vous pouvez cibler 1 monstre de Niveau 10 dans votre Cimetière ; Invoquez-le Spécialement sur le Terrain de votre adversaire (mais annulez ses effets), puis piochez 1 carte. Vous ne pouvez utiliser chaque effet de \"Vodnika l'Esprit de la Fontaine\" qu'une fois par tour.",
+  "level": 10,
+  "atk": 2000,
+  "def": 2100,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

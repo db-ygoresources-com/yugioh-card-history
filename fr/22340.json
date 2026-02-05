@@ -1,0 +1,16 @@
+{
+  "id": 22340,
+  "type": "monster",
+  "name": "GMX - ALLOS",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 monstre \"GMX\" + 1 monstre Dinosaure\nChaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres, gagnez 200 LP. Vous ne pouvez utiliser chacun des effets suivants de \"GMX - ALLOS\" qu'une fois par tour. Vous pouvez cibler 1 monstre \"GMX\" ou 1 monstre Dinosaure dans votre Cimetière ou bannissement ; Invoquez-le Spécialement. Cette carte ne peut pas attaquer le tour où cet effet est activé. Au début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez détruire le monstre.",
+  "level": 8,
+  "atk": 3000,
+  "def": 900,
+  "properties": [
+    "Dinosaure",
+    "Fusion",
+    "Effet"
+  ]
+}

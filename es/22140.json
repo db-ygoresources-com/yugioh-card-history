@@ -1,0 +1,16 @@
+{
+  "id": 22140,
+  "type": "monster",
+  "name": "Dracocola Shaulas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 monstruo \"Dracocola\" + 1 monstruo en la mano\nPuedes seleccionar 2 cartas \"Dracocola\" en tu Cementerio y 1 carta boca arriba en el Campo con el mismo tipo (Monstruo, Mágica o Trampa) que 1 de esas cartas del Cementerio; baraja las 3 al Deck. Si 2 o más monstruos son mandados al Cementerio al mismo tiempo, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Dracocola Shaulas\" una vez por turno.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

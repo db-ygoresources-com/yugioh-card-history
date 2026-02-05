@@ -1,0 +1,16 @@
+{
+  "id": 22140,
+  "type": "monster",
+  "name": "Dracocoda Shaulas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 mostro \"Dracocoda\" + 1 mostro nella mano\nPuoi scegliere come bersaglio 2 carte \"Dracocoda\" nel tuo Cimitero e 1 carta scoperta sul Terreno con lo stesso tipo (Mostro, Magia o Trappola) di 1 di quelle carte nel Cimitero; mischia tutte e 3 nel Deck. Se 2 o più mostri vengono mandati al Cimitero allo stesso tempo, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare ogni effetto di \"Dracocoda Shaulas\" una sola volta per turno.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Effetto"
+  ]
+}

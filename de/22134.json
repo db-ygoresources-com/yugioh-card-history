@@ -1,0 +1,19 @@
+{
+  "id": 22134,
+  "type": "monster",
+  "name": "Kaiser der Erzunterweltler",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst diese Karte mit „Thron der Erzunterweltler“ als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden. Diese Karte bleibt von den Effekten anderer Monster unberührt, solange sie in der Extra-Monsterzone liegt. Du kannst jeden der folgenden Effekte von „Kaiser der Erzunterweltler“ nur einmal pro Spielzug verwenden. Falls diese Karte als Ritualbeschwörung vom Extra Deck beschworen wird: Du kannst alle Monster vom Spielfeld verbannen, außer von den Extra-Monsterzonen. Falls diese Karte in der Extra-Monsterzone liegt: Du kannst 1 Unterweltler-Monster als Spezialbeschwörung von deiner Hand, deinem Deck, deinem Friedhof oder deinen verbannten Karten beschwören.",
+  "pendEffect": "Du kannst 1 andere/n offene/n Zauber/Falle auf dem Spielfeld wählen; zerstöre sowohl ihn oder sie als auch diese Karte. Du kannst diesen Effekt von „Kaiser der Erzunterweltler“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Pendel",
+    "Effekt"
+  ]
+}

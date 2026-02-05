@@ -1,0 +1,15 @@
+{
+  "id": 22113,
+  "type": "monster",
+  "name": "Guerreiro Sucata/Modo de Ataque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial com \"Ativar Modo de Ataque\". Ganha 1000 de ATK para cada monstro \"/Modo de Ataque\" que você controla e, além disso, se este card batalhar um monstro, qualquer dano de batalha que ele causar ao seu oponente é dobrado. Não é afetado pelos efeitos de monstros ativados do seu oponente. Se este card for destruído: você pode escolher 1 \"Guerreiro Sucata\" no seu Cemitério; devolva-o para o Deck Adicional e, depois, você pode Invocá-lo por Invocação-Especial (isso é considerado uma Invocação-Sincro).",
+  "level": 7,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Guerreiro",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22132,
+  "type": "monster",
+  "name": "WACH AUF!-TASSE Earl",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "FLIPP: Du kannst offene Karten, die dein Gegner kontrolliert, bis zur Anzahl der Flippmonster, die du kontrollierst, auf den Friedhof legen.\nFalls sich diese Karte in deiner Hand befindet: Du kannst 1 anderes Flippmonster abwerfen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung in die offene Angriffsposition oder verdeckte Verteidigungsposition. Während deiner End Phase: Du kannst 1 Flippmonster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die verdeckte Verteidigungsposition. Du kannst jeden Effekt von „WACH AUF!-TASSE Earl“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 2700,
+  "def": 400,
+  "properties": [
+    "Aqua",
+    "Flipp",
+    "Effekt"
+  ]
+}

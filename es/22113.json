@@ -1,0 +1,15 @@
+{
+  "id": 22113,
+  "type": "monster",
+  "name": "Guerrero de Basura/Modo de Ataque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial con \"Activar Modo de Ataque\". Gana 1000 ATK por cada monstruo \"/Modo de Ataque\" que controles y además, si esta carta batalla con un monstruo, cualquier daño de batalla que inflija a tu adversario se duplica. No es afectado por los efectos de monstruo activados de tu adversario. Si esta carta es destruida: puedes seleccionar 1 \"Guerrero de Basura\" en tu Cementerio; devuélvelo al Deck Extra, y después puedes Invocarlo de Modo Especial (esto se trata como una Invocación por Sincronía).",
+  "level": 7,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

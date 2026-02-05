@@ -1,0 +1,15 @@
+{
+  "id": 22121,
+  "type": "monster",
+  "name": "Herzog-Erzunterweltler",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Diese Karte erhält ATK in Höhe ihrer Stufe x 200. Du kannst jeden der folgenden Effekte von „Herzog-Erzunterweltler“ nur einmal pro Spielzug verwenden. Du kannst 1 offenes Monster wählen, das du kontrollierst und das eine Stufe hat; lege 1 „Erzunterweltler“-Monster von deinem Deck auf den Friedhof, außer „Herzog-Erzunterweltler“, und falls du dies tust, erhöhe die Stufe jenes Monsters um die Stufe des gelegten Monsters. Wenn dein Ritualmonster durch Kampf zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

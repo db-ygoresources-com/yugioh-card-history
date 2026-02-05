@@ -1,0 +1,16 @@
+{
+  "id": 22119,
+  "type": "monster",
+  "name": "Elfnota Modelo de Poder",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. Sólo puedes usar cada uno de los siguientes efectos de \"Elfnota Modelo de Poder\" una vez por turno. Durante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo en tu Zona de Monstruos Principal central; aumenta su Nivel en 3 (hasta el final de este turno), e inmediatamente después de que se resuelva este efecto, puedes Invocar por Sincronía 1 Monstruo de Sincronía \"Elfnota\" o 1 \"Junora el Modelo de Poder de Afinación\". Si esta carta es mandada al Cementerio como Material de Sincronía: puedes añadir a tu mano 1 carta \"Elfnota\" en tu Deck.",
+  "level": 1,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Cantante",
+    "Efecto"
+  ]
+}

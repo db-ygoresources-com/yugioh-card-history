@@ -1,0 +1,15 @@
+{
+  "id": 22131,
+  "type": "monster",
+  "name": "Dragon Armé aux Poings",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre Dragon que vous contrôlez ; détruisez-le, et si vous le faites, Invoquez Spécialement cette carte. Vous pouvez défausser 1 carte, puis ciblez 1 monstre sur le Terrain avec max. 2400 ATK ; détruisez-le, puis si vous avez détruit un monstre que vous contrôlez, vous pouvez Invoquer Spécialement 1 monstre Dragon depuis votre main ou Deck, dont le Niveau d'origine est supérieur de 2 à celui du monstre. Vous ne pouvez utiliser chaque effet de \"Dragon Armé aux Poings\" qu'une fois par tour.",
+  "level": 5,
+  "atk": 2400,
+  "def": 1700,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22331,
+  "type": "monster",
+  "name": "Vodnika el Espíritu de la Fuente",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si uno o más monstruos de Nivel 10 son mandados al Cementerio, excepto \"Vodnika el Espíritu de la Fuente\" (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Cementerio (si estaba allí cuando el monstruo fue mandado) o mano (aun si no lo estaba) en Posición de Defensa, pero destiérrala cuando deje el Campo. Puedes seleccionar 1 monstruo de Nivel 10 en tu Cementerio; Invócalo de Modo Especial al Campo de tu adversario (pero niega sus efectos), y después roba 1 carta. Sólo puedes usar cada efecto de \"Vodnika el Espíritu de la Fuente\" una vez por turno.",
+  "level": 10,
+  "atk": 2000,
+  "def": 2100,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

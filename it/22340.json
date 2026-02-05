@@ -1,0 +1,16 @@
+{
+  "id": 22340,
+  "type": "monster",
+  "name": "GMX - ALLOS",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "1 mostro \"GMX\" + 1 mostro Dinosauro\nOgni volta che il tuo avversario Evoca Normalmente o Specialmente uno o più mostri, guadagni 200 LP. Puoi utilizzare ognuno dei seguenti effetti di \"GMX - ALLOS\" una sola volta per turno. Puoi scegliere come bersaglio 1 mostro \"GMX\" o 1 mostro Dinosauro nel tuo Cimitero o carte bandite; Evocalo Specialmente. Questa carta non può attaccare nel turno in cui viene attivato questo effetto. All'inizio del Damage Step, se questa carta combatte con un mostro dell'avversario: puoi distruggere quel mostro.",
+  "level": 8,
+  "atk": 3000,
+  "def": 900,
+  "properties": [
+    "Dinosauro",
+    "Fusione",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22341,
+  "type": "monster",
+  "name": "GMX - VELOX",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 monstruo \"GMX\" + 1 monstruo Dinosaurio\nCada vez que tu adversario Invoca de Modo Normal o Especial uno o más monstruos, ganas 200 LP. Durante el turno de tu adversario (Efecto Rápido): puedes seleccionar 1 carta que controle tu adversario; excava las cartas de la parte superior de tu Deck hasta que excaves un monstruo \"GMX\" o un monstruo Dinosaurio, pierdes 400 LP por cada carta excavada, añade a tu mano o Invoca de Modo Especial ese monstruo \"GMX\" o Dinosaurio, y baraja el resto al Deck. Además, después de eso, destruye la carta seleccionada. Sólo puedes usar este efecto de \"GMX - VELOX\" una vez por turno.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1300,
+  "properties": [
+    "Dinosaurio",
+    "Fusión",
+    "Efecto"
+  ]
+}

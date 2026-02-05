@@ -1,0 +1,15 @@
+{
+  "id": 22108,
+  "type": "monster",
+  "name": "Hohlrakketen-Drache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Wenn der Effekt eines Linkmonsters aktiviert wird, der diese offene Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst diese Karte zerstören, dann grabe die bis zu 6 obersten Karten des Decks deines Gegners aus und verbanne 1 von ihnen und falls du dies tust, lege die restlichen in derselben Reihenfolge aufs Deck. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug durch Kampf oder einen Karteneffekt auf dem Spielfeld zerstört und dorthin gelegt wurde: Du kannst 1 „Rakkete“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Hohlrakketen-Drache“. Du kannst jeden Effekt von „Hohlrakketen-Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1600,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

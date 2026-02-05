@@ -1,0 +1,16 @@
+{
+  "id": 22327,
+  "type": "monster",
+  "name": "Meccanico Meccanico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando viene dichiarato un attacco che coinvolge un tuo altro mostro Macchina: puoi aumentare o diminuire il Livello di quell'altro mostro che controlli di 1. Puoi utilizzare ognuno dei seguenti effetti di \"Meccanico Meccanico\" una sola volta per turno. Se una carta è nella Zona Terreno: puoi Evocare Specialmente questa carta dalla tua mano. Puoi scegliere come bersaglio 1 Magia/Trappola scoperta che controlli; distruggila e, se lo fai, aggiungi 1 mostro VENTO Macchina con ATK 0 dal tuo Deck alla tua mano, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto mostri Macchina.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Macchina",
+    "Tuner",
+    "Effetto"
+  ]
+}

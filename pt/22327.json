@@ -1,0 +1,16 @@
+{
+  "id": 22327,
+  "type": "monster",
+  "name": "Mecânico Mecânico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Quando um ataque for declarado envolvendo outro monstro Máquina seu: você pode aumentar ou diminuir o Nível desse outro monstro que você controla em 1. Você só pode usar cada um dos seguintes efeitos de \"Mecânico Mecânico\" uma vez por turno. Se um card estiver na Zona do Campo: você pode Invocar este card por Invocação-Especial da sua mão. Você pode escolher 1 Magia/Armadilha com a face para cima que você controla; destrua-a e, se isso acontecer, adicione 1 monstro Máquina de VENTO com 0 de ATK do seu Deck à sua mão e, além disso, você não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto monstros Máquina.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Regulador",
+    "Efeito"
+  ]
+}

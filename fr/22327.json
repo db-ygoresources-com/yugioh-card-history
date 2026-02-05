@@ -1,0 +1,16 @@
+{
+  "id": 22327,
+  "type": "monster",
+  "name": "Mécano Mécanique",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Lorsqu'une attaque impliquant votre autre monstre Machine est déclarée : vous pouvez augmenter ou réduire le Niveau de l'autre monstre que vous contrôlez de 1. Vous ne pouvez utiliser chacun des effets suivants de \"Mécano Mécanique\" qu'une fois par tour. Si une carte est dans la Zone Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez cibler 1 Magie/Piège face recto que vous contrôlez ; détruisez-le, et si vous le faites, ajoutez 1 monstre VENT Machine avec 0 ATK depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Machine exclus) depuis l'Extra Deck le reste de ce tour.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

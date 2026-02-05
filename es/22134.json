@@ -1,0 +1,19 @@
+{
+  "id": 22134,
+  "type": "monster",
+  "name": "Emperador Archidemonio",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Trono de los Archidemonios\". Debe ser Invocada por Ritual. No es afectada por los efectos de otros monstruos mientras esté en la Zona de Monstruos Extra. Sólo puedes usar cada uno de los siguientes efectos de \"Emperador Archidemonio\" una vez por turno. Si esta carta es Invocada por Ritual desde el Deck Extra: puedes desterrar todos los monstruos en el Campo, excepto en las Zonas de Monstruos Extra. Si esta carta está en la Zona de Monstruos Extra: puedes Invocar de Modo Especial 1 monstruo Demonio desde tu mano, Deck, Cementerio o destierro.",
+  "pendEffect": "Puedes seleccionar otra Mágica/Trampa boca arriba en el Campo; destrúyela, así como esta carta. Sólo puedes usar este efecto de \"Emperador Archidemonio\" una vez por turno.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Péndulo",
+    "Efecto"
+  ]
+}

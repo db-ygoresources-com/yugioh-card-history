@@ -1,0 +1,19 @@
+{
+  "id": 22134,
+  "type": "monster",
+  "name": "Arcidemone Imperatore",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con \"Trono degli Arcidemoni\". Deve essere Evocato tramite Rituale. È immune agli effetti degli altri mostri mentre è nella Zona Mostri Extra. Puoi utilizzare ognuno dei seguenti effetti di \"Arcidemone Imperatore\" una sola volta per turno. Se questa carta viene Evocata tramite Rituale dall'Extra Deck: puoi bandire tutti i mostri sul Terreno, eccetto nelle Zone Mostri Extra. Se questa carta è nella Zona Mostri Extra: puoi Evocare Specialmente 1 mostro Demone dalla tua mano, Deck, Cimitero o carte bandite.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 altra Magia/Trappola scoperta sul Terreno; distruggi sia quella che questa carta. Puoi utilizzare questo effetto di \"Arcidemone Imperatore\" una sola volta per turno.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Demone",
+    "Rituale",
+    "Pendulum",
+    "Effetto"
+  ]
+}

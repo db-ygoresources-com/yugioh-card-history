@@ -1,0 +1,16 @@
+{
+  "id": 22327,
+  "type": "monster",
+  "name": "Mecánico Mecánico",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando es declarado un ataque que involucra tu otro monstruo Máquina: puedes aumentar o reducir el Nivel de ese otro monstruo que controlas en 1. Sólo puedes usar cada uno de los siguientes efectos de \"Mecánico Mecánico\" una vez por turno. Si una carta está en la Zona del Campo: puedes Invocar esta carta de Modo Especial desde tu mano. Puedes seleccionar 1 Mágica/Trampa boca arriba que controles; destrúyela y, si lo haces, añade a tu mano 1 monstruo Máquina de VIENTO con 0 ATK en tu Deck, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Máquina.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Cantante",
+    "Efecto"
+  ]
+}

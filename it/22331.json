@@ -1,0 +1,15 @@
+{
+  "id": 22331,
+  "type": "monster",
+  "name": "Vodnika lo Spirito della Fontana",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se uno o più mostri di Livello 10 vengono mandati al Cimitero, eccetto \"Vodnika lo Spirito della Fontana\" (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dal tuo Cimitero (se era lì quando il mostro è stato mandato) o mano (anche se non era lì) in Posizione di Difesa, ma bandiscila quando lascia il Terreno. Puoi scegliere come bersaglio 1 mostro di Livello 10 nel tuo Cimitero; Evocalo Specialmente sul Terreno del tuo avversario (ma annulla i suoi effetti), poi pesca 1 carta. Puoi utilizzare ogni effetto di \"Vodnika lo Spirito della Fontana\" una sola volta per turno.",
+  "level": 10,
+  "atk": 2000,
+  "def": 2100,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22123,
+  "type": "monster",
+  "name": "Rex, Reit-Fellsöldner",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 „Fellsöldner“-Monster als Spezialbeschwörung von deiner Hand, außer „Rex, Reit-Fellsöldner“, dann beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Rex, Reit-Fellsöldner“ nur einmal pro Spielzug verwenden. Falls der Hand deines Gegners eine oder mehr Karten vom Deck hinzugefügt werden, außer durch einen „Fellsöldner“-Karteneffekt, und du ein anderes „Fellsöldner“-Monster kontrollierst (außer während des Damage Steps): Du kannst 1 Karte ziehen.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dinosaurier",
+    "Effekt"
+  ]
+}

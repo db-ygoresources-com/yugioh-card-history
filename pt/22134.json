@@ -1,0 +1,19 @@
+{
+  "id": 22134,
+  "type": "monster",
+  "name": "Imperador Arquidemônio",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Você pode Invocar este card por Invocação-Ritual com \"Trono dos Arquidemônios\". Deve ser Invocado por Invocação-Ritual. Não é afetado por outros efeitos de monstro enquanto estiver na Zona de Monstros Adicional. Você só pode usar cada um dos seguintes efeitos de \"Imperador Arquidemônio\" uma vez por turno. Se este card for Invocado por Invocação-Ritual do Deck Adicional: você pode banir todos os monstros no campo, exceto nas Zonas de Monstros Adicionais. Se este card estiver na Zona de Monstros Adicional: você pode Invocar por Invocação-Especial 1 monstro Demônio da sua mão, do Deck, do Cemitério ou do banimento.",
+  "pendEffect": "Você pode escolher 1 outra Magia/Armadilha com a face para cima no campo; destrua tanto ela como este card. Você só pode usar este efeito de \"Imperador Arquidemônio\" uma vez por turno.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Demônio",
+    "Ritual",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

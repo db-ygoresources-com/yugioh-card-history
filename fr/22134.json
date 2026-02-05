@@ -1,0 +1,19 @@
+{
+  "id": 22134,
+  "type": "monster",
+  "name": "Empereur Archdémon",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Trône des Archdémons\". Uniquement Invocable Rituellement. Non affectée par les effets d'autres monstres tant qu'elle est dans la Zone Monstre Extra. Vous ne pouvez utiliser chacun des effets suivants de \"Empereur Archdémon\" qu'une fois par tour. Si cette carte est Invoquée Rituellement depuis l'Extra Deck : vous pouvez bannir tous les monstres sur le Terrain, sauf dans les Zones Monstre Extra. Si cette carte est dans la Zone Monstre Extra : vous pouvez Invoquer Spécialement 1 monstre Démon depuis votre main, Deck, Cimetière ou bannissement.",
+  "pendEffect": "Vous pouvez cibler 1 autre Magie/Piège face recto sur le Terrain ; détruisez-le ainsi que cette carte. Vous ne pouvez utiliser cet effet de \"Empereur Archdémon\" qu'une fois par tour.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Rituel",
+    "Pendule",
+    "Effet"
+  ]
+}

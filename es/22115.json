@@ -1,0 +1,16 @@
+{
+  "id": 22115,
+  "type": "monster",
+  "name": "Lich de Ataque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta que controlas fuera a ser usada como Material de Sincronía, puedes tratarla como un monstruo que no sea Cantante. Sólo puedes usar cada uno de los siguientes efectos de \"Lich de Ataque\" una vez por turno. Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo que mencione \"Activar Modo de Ataque\", o 1 monstruo Zombi de Nivel 4 o menor, desde tu Cementerio. Si esta carta es mandada al Cementerio como Material de Sincronía: puedes añadir a tu mano 1 \"Cuchillada de Ataque\" o \"Contra Ataque\" en tu Deck.",
+  "level": 4,
+  "atk": 1500,
+  "def": 0,
+  "properties": [
+    "Zombi",
+    "Cantante",
+    "Efecto"
+  ]
+}

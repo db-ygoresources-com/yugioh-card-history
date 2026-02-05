@@ -1,0 +1,16 @@
+{
+  "id": 22340,
+  "type": "monster",
+  "name": "GMX - ALLOS",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „GMX“-Monster + 1 Dinosaurier-Monster\nJedes Mal, wenn dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört, erhältst du 200 LP. Du kannst jeden der folgenden Effekte von „GMX - ALLOS“ nur einmal pro Spielzug verwenden. Du kannst 1 „GMX“-Monster oder 1 Dinosaurier-Monster in deinem Friedhof oder von deinen verbannten Karten wählen; beschwöre es als Spezialbeschwörung. Diese Karte kann nicht in dem Spielzug angreifen, in dem dieser Effekt aktiviert wird. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst jenes Monster zerstören.",
+  "level": 8,
+  "atk": 3000,
+  "def": 900,
+  "properties": [
+    "Dinosaurier",
+    "Fusion",
+    "Effekt"
+  ]
+}

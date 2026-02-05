@@ -1,0 +1,16 @@
+{
+  "id": 22137,
+  "type": "monster",
+  "name": "Magnum Plasma, Guerrier Conducteur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "2 monstres TERRE Rocher\nLes monstres face recto sur le Terrain deviennent TERRE. Vous ne pouvez utiliser chacun des effets suivants de \"Magnum Plasma, Guerrier Conducteur\" qu'une fois par tour. Si cette carte est Invoquée par Fusion : vous pouvez ajouter 1 Magie Normale, Jeu-Rapide ou de Terrain \"Magnétique\" depuis votre Deck à votre main. Vous pouvez envoyer 1 monstre \"Guerrier Magnétique\" de Niveau 8 depuis votre Deck au Cimetière ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Guerrier Magnétique\" de max. Niveau 4.",
+  "level": 7,
+  "atk": 2300,
+  "def": 2800,
+  "properties": [
+    "Rocher",
+    "Fusion",
+    "Effet"
+  ]
+}

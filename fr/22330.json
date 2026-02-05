@@ -1,0 +1,16 @@
+{
+  "id": 22330,
+  "type": "monster",
+  "name": "Mercurium le Mercure Vivant",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres de Niveau 10\nSi cette carte est Invoquée par Xyz : vous pouvez attacher 1 monstre depuis votre Deck à cette carte comme Matériel. Vous ne pouvez utiliser cet effet de \"Mercurium le Mercure Vivant\" qu'une fois par tour. Tant que cette carte a du Matériel, votre adversaire ne peut pas activer les effets des monstres dans son Cimetière du même Attribut qu'un monstre dans votre Cimetière. Une fois par tour, durant la End Phase : détachez 1 Matériel de cette carte ou recevez 3000 points de dommages.",
+  "rank": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Aqua",
+    "Xyz",
+    "Effet"
+  ]
+}

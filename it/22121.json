@@ -1,0 +1,15 @@
+{
+  "id": 22121,
+  "type": "monster",
+  "name": "Arcidemone Duca",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Guadagna ATK pari al suo Livello x 200. Puoi utilizzare ognuno dei seguenti effetti di \"Arcidemone Duca\" una sola volta per turno. Puoi scegliere come bersaglio 1 mostro scoperto che controlli che ha un Livello; manda 1 mostro \"Arcidemone\" dal tuo Deck al Cimitero, eccetto \"Arcidemone Duca\" e, se lo fai, aumenta il Livello di quel mostro del Livello del mostro mandato. Quando un tuo Mostro Rituale viene distrutto in battaglia mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

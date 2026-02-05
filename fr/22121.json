@@ -1,0 +1,15 @@
+{
+  "id": 22121,
+  "type": "monster",
+  "name": "Duc Archdémon",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Gagne une ATK égale à son Niveau x 200. Vous ne pouvez utiliser chacun des effets suivants de \"Duc Archdémon\" qu'une fois par tour. Vous pouvez cibler 1 monstre face recto que vous contrôlez qui a un Niveau ; envoyez 1 monstre \"Archdémon\" (\"Duc Archdémon\" exclu) depuis votre Deck au Cimetière, et si vous le faites, augmentez le Niveau du monstre par le Niveau du monstre envoyé. Lorsque votre Monstre Rituel est détruit au combat tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

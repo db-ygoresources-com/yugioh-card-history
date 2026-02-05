@@ -1,0 +1,22 @@
+{
+  "id": 22150,
+  "type": "monster",
+  "name": "Dragón Borrevelo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "3+ Monstruos de Efecto\nTu adversario no puede Sacrificar esta carta boca arriba en el Campo. Una vez por turno, durante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo \"Cohette\" que controles; niega los efectos de 1 carta boca arriba que controle tu adversario, y después destruye el monstruo seleccionado. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto. Una vez mientras esté boca arriba en el Campo, al comienzo de la Battle Phase: puedes Invocar de Modo Especial 1 Monstruo de Enlace \"Borre\" de Link-4 o menor desde tu Deck Extra.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3500,
+  "properties": [
+    "Dragón",
+    "Enlace",
+    "Efecto"
+  ]
+}

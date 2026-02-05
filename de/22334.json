@@ -1,0 +1,16 @@
+{
+  "id": 22334,
+  "type": "monster",
+  "name": "Shipping-Erzunterweltlerin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst eine beliebige Anzahl offene Monster auf dem Spielfeld wählen und 1 Typ oder Eigenschaft deklarieren; sie werden zu jenem Typ oder jener Eigenschaft. Falls ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden, solange diese Karte in deiner Monsterzone liegt (außer während des Damage Steps): Du kannst 1 Monster auf jeder Spielfeldseite wählen, die beide denselben Typ und dieselbe Eigenschaft haben; gib sie auf die Hand zurück. Du kannst jeden Effekt von „Shipping-Erzunterweltlerin“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Empfänger",
+    "Effekt"
+  ]
+}

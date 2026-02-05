@@ -1,0 +1,15 @@
+{
+  "id": 22121,
+  "type": "monster",
+  "name": "Duque Arquidemônio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "Ganha ATK igual ao seu Nível x 200. Você só pode usar cada um dos seguintes efeitos de \"Duque Arquidemônio\" uma vez por turno. Você pode escolher 1 monstro com a face para cima que você controla e que tenha um Nível; envie 1 monstro \"Arquidemônio\" do seu Deck para o Cemitério, exceto \"Duque Arquidemônio\" e, se isso acontecer, aumente o Nível desse monstro pelo Nível do monstro enviado. Quando um Monstro de Ritual seu for destruído em batalha enquanto este card estiver no seu Cemitério: você pode Invocar este card por Invocação-Especial.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22140,
+  "type": "monster",
+  "name": "Drachoschwanz Shaulas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 „Drachoschwanz“-Monster + 1 Monster in der Hand\nDu kannst 2 „Drachoschwanz“-Karten in deinem Friedhof und 1 offene Karte auf dem Spielfeld mit demselben Typ (Monster, Zauber oder Falle) wie 1 jener Friedhofskarten wählen; mische alle 3 ins Deck. Falls 2 oder mehr Monster gleichzeitig auf den Friedhof gelegt werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Drachoschwanz Shaulas“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Effekt"
+  ]
+}

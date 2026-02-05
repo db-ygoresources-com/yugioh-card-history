@@ -1,0 +1,16 @@
+{
+  "id": 22132,
+  "type": "monster",
+  "name": "TASSE DE RÉVEIL ! Earl",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "FLIP : Vous pouvez envoyer un nombre de cartes face recto contrôlées par votre adversaire au Cimetière, inférieur ou égal au nombre de monstres Flip que vous contrôlez.\nSi cette carte est dans votre main : vous pouvez défausser 1 autre monstre Flip, et si vous le faites, Invoquez Spécialement cette carte en Position d'Attaque face recto ou Position de Défense face verso. Durant votre End Phase : vous pouvez cibler 1 monstre Flip dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"TASSE DE RÉVEIL ! Earl\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2700,
+  "def": 400,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effet"
+  ]
+}

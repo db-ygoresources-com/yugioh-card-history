@@ -1,0 +1,16 @@
+{
+  "id": 22333,
+  "type": "monster",
+  "name": "Flujo Ochsenfeld",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo de TIERRA de Nivel 5 o mayor + 1 monstruo Roca\nSi esta carta es Invocada por Fusión: puedes Invocar de Modo Especial 1 monstruo Roca desde tu mano o Cementerio, excepto \"Flujo Ochsenfeld\". (Efecto Rápido): puedes seleccionar 1 monstruo de TIERRA que controles y 1 carta que controle tu adversario; devuélvelos a la mano. Sólo puedes usar cada efecto de \"Flujo Ochsenfeld\" una vez por turno, y no puedes activar más de 1 en la misma Cadena.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Roca",
+    "Fusión",
+    "Efecto"
+  ]
+}

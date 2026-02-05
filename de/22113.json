@@ -1,0 +1,15 @@
+{
+  "id": 22113,
+  "type": "monster",
+  "name": "Gerümpelkrieger/Angriffsmodus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss mit „Angriffsmodus aktivieren“ als Spezialbeschwörung beschworen werden. Erhält für jedes „/Angriffsmodus“-Monster, das du kontrollierst, 1000 ATK, zusätzlich, falls diese Karte gegen ein Monster kämpft, wird der Kampfschaden verdoppelt, den sie deinem Gegner zufügt. Bleibt von den aktivierten Monstereffekten deines Gegners unberührt. Falls diese Karte zerstört wird: Du kannst 1 „Gerümpelkrieger“ in deinem Friedhof wählen; lege ihn ins Extra Deck zurück, dann kannst du ihn als Spezialbeschwörung beschwören (dies wird als Synchrobeschwörung behandelt).",
+  "level": 7,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

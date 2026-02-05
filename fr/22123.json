@@ -1,0 +1,15 @@
+{
+  "id": 22123,
+  "type": "monster",
+  "name": "Rex, Monture Mercefourrure",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre \"Mercefourrure\" (\"Rex, Monture Mercefourrure\" exclu) depuis votre main, puis Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Rex, Monture Mercefourrure\" qu'une fois par tour. Si une ou plusieurs cartes sont ajoutées depuis le Deck à la main de votre adversaire, sauf par un effet de carte \"Mercefourrure\", et que vous contrôlez un autre monstre \"Mercefourrure\" (sauf durant la Damage Step) : vous pouvez piocher 1 carte.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}
