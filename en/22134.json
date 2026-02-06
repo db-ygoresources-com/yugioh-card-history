@@ -1,0 +1,19 @@
+{
+  "id": 22134,
+  "type": "monster",
+  "name": "Archfiend Emperor",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "You can Ritual Summon this card with \"Throne of the Archfiends\". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. You can only use each of the following effects of \"Archfiend Emperor\" once per turn. If this card is Ritual Summoned from the Extra Deck: You can banish all monsters on the field, except in the Extra Monster Zones. If this card is in the Extra Monster Zone: You can Special Summon 1 Fiend monster from your hand, Deck, GY, or banishment.",
+  "pendEffect": "You can target 1 other face-up Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Archfiend Emperor\" once per turn.",
+  "pendScale": 0,
+  "level": 7,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Fiend",
+    "Ritual",
+    "Pendulum",
+    "Effect"
+  ]
+}
