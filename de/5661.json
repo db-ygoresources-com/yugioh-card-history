@@ -4,12 +4,13 @@
   "name": "Des Koala",
   "englishAttribute": "dark",
   "localizedAttribute": "FINSTERNIS",
-  "effectText": "FLIPP: Füge deinem Gegner 400 Schaden für jede Karte in seiner Hand zu.",
+  "effectText": "FLIPP: Füge deinem Gegner für jede Karte in seiner Hand 400 Schaden zu.",
   "level": 3,
   "atk": 1100,
   "def": 1800,
   "properties": [
     "Ungeheuer",
+    "Flipp",
     "Effekt"
   ]
 }
