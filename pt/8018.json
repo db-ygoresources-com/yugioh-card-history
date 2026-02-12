@@ -1,0 +1,15 @@
+{
+  "id": 8018,
+  "type": "monster",
+  "name": "Hiper Destruidor Psíquico/Modo de Ataque",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial com \"Ativar Modo de Ataque\". No final da Etapa de Dano, se este card batalhou um monstro do oponente: cause dano ao seu oponente igual à DEF desse monstro do oponente e, além disso, ganhe PV igual ao ATK dele. Quando este card no campo for destruído: você pode escolher 1 \"Hiper Destruidor Psíquico\" no seu Cemitério; Invoque o alvo por Invocação-Especial.",
+  "level": 11,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Psíquico",
+    "Efeito"
+  ]
+}

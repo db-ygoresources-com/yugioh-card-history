@@ -4,7 +4,7 @@
   "name": "Contre d'Assaut",
   "englishAttribute": "trap",
   "localizedAttribute": "PIÈGE",
-  "effectText": "Activable uniquement lorsque vous contrôlez un monstre \"/Mode Assaut\". Annulez l'activation d'une Carte Magie, Carte Piège ou de l'effet d'une carte Monstre à Effet et détruisez cette carte.",
+  "effectText": "Lorsqu'une Carte Magie/Piège ou un effet de monstre est activé, tant que vous contrôlez un monstre \"/Mode Assaut\" : annulez l'activation, et si vous le faites, détruisez la carte.",
   "englishProperty": "counter",
   "localizedProperty": "Contre"
 }
