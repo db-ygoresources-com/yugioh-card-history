@@ -1,0 +1,16 @@
+{
+  "id": 11984,
+  "type": "monster",
+  "name": "Pot of The Forbidden",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: You can activate 1 of these effects;\n●Draw 2 cards.\n●Return all Spells/Traps on the field to the hand.\n●Destroy all monsters your opponent controls.\n●Look at your opponent's hand, and choose 1 card from it to shuffle into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
+  "level": 9,
+  "atk": 2000,
+  "def": 3000,
+  "properties": [
+    "Rock",
+    "Flip",
+    "Effect"
+  ]
+}

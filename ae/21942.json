@@ -1,0 +1,19 @@
+{
+  "id": 21942,
+  "type": "monster",
+  "name": "Proto Enneacraft - \"orgIA\"",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "FLIP: Destroy 1 monster your opponent controls.\nWhen your opponent activates a monster effect in the hand (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+  "pendEffect": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of \"Proto Enneacraft - \"orgIA\"\" once per turn.",
+  "pendScale": 0,
+  "level": 1,
+  "atk": 100,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Flip",
+    "Effect"
+  ]
+}
