@@ -1,0 +1,16 @@
+{
+  "id": 21240,
+  "type": "monster",
+  "name": "Basu, der Seelenverschlinger",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "3 Monster der Stufe 4\nXyz-Material, das von einem Monster abgehängt wird, wird verbannt, anstatt auf den Friedhof gelegt zu werden. Einmal pro Kette, falls eine oder mehr Monsterkarten auf den Friedhof gelegt werden (außer während des Damage Steps): Du kannst 1 Material von dieser Karte abhängen. Falls das letzte Material von dieser Karte abgehängt wird (außer während des Damage Steps): Du kannst 3 Karten in den Friedhöfen wählen; hänge sie an diese Karte an.",
+  "rank": 4,
+  "atk": 2500,
+  "def": 900,
+  "properties": [
+    "Ungeheuer",
+    "Xyz",
+    "Effekt"
+  ]
+}

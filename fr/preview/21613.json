@@ -1,0 +1,15 @@
+{
+  "id": 21613,
+  "type": "monster",
+  "name": "Furnace, HÉROS Masqué",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; ajoutez 1 \"Changement de Masque\" ou \"Polymérisation\" depuis votre Deck à votre main, puis défaussez 1 carte. Vous ne pouvez pas Invoquer Spécialement (monstres \"HÉROS\" exclus) depuis l'Extra Deck le tour où vous activez cet effet. Si vous Invoquez Spécialement un ou plusieurs Monstres Fusion \"HÉROS\" non-FEU (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque l'Invocation est résolue) ou main (même si elle n'y était pas), mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Furnace, HÉROS Masqué\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

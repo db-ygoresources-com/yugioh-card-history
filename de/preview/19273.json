@@ -1,0 +1,16 @@
+{
+  "id": 19273,
+  "type": "monster",
+  "name": "Gerümpelrüstung",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Ein Synchromonster, das diese Karte als Material verwendet hat, kann nicht durch Kampf zerstört werden. Falls sich diese Karte in deinem Friedhof befindet, außer in dem Spielzug, in dem sie dorthin gelegt wurde, und du ein Synchromonster mit „Krieger“, „Synchron“ oder „Sternenstaub“ in seinem Grund-Namen kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Gerümpelrüstung“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 400,
+  "def": 100,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

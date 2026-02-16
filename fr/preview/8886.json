@@ -1,0 +1,15 @@
+{
+  "id": 8886,
+  "type": "monster",
+  "name": "Nurikabe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez payer 1000 LP, puis ciblez 1 autre monstre Zombie dans votre Cimetière ; Invoquez-le Spécialement ainsi que cette carte, mais leurs effets sont annulés, et aussi, bannissez-les lorsqu'ils quittent le Terrain. Vous ne pouvez utiliser cet effet de \"Nurikabe\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 900,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

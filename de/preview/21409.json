@@ -1,0 +1,15 @@
+{
+  "id": 21409,
+  "type": "monster",
+  "name": "Herz von Gaia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "(Diese Karte wird immer als „Millennium“- und „Gaia, zorniger Ritter“-Karte behandelt.)\nFalls eine Monsterkarte der Stufe 5 oder höher auf dem Spielfeld liegt, kannst du diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten. Die Stufe jedes Monsters, das dein Gegner als Normal- oder Spezialbeschwörung in die Angriffsposition beschwört, solange sich diese Karte in deiner Monsterzone befindet, wird um 7 erhöht. Wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 1 andere offene Monsterkarte der Stufe 5 oder höher, die du kontrollierst, auf den Friedhof legen; annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte. Du kannst diesen Effekt von „Herz von Gaia“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

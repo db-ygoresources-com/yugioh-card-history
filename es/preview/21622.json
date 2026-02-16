@@ -1,0 +1,15 @@
+{
+  "id": 21622,
+  "type": "monster",
+  "name": "Dragón Armado Perforador",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Puedes mandar al Cementerio esta carta y otro monstruo de VIENTO en tu mano; por el resto de este turno, todos los monstruos Dragón de VIENTO que controlas ganan 300 ATK. Puedes desterrar cualquier número de monstruos Dragón que sean de Nivel 7 o mayor y/o de VIENTO en tu Cementerio; añade a tu mano 1 monstruo Dragón en tu Deck con un Nivel igual al número de desterrados, excepto \"Dragón Armado Perforador\". Sólo puedes usar cada efecto de \"Dragón Armado Perforador\" una vez por turno.",
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

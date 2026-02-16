@@ -1,0 +1,15 @@
+{
+  "id": 21622,
+  "type": "monster",
+  "name": "Dragon Armé Perceur",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez envoyer cette carte et 1 autre monstre VENT depuis votre main au Cimetière ; le reste de ce tour, tous les monstres VENT Dragon que vous contrôlez gagnent 300 ATK. Vous pouvez bannir un nombre de votre choix de monstres Dragon qui sont de min. Niveau 7 et/ou VENT depuis votre Cimetière ; ajoutez 1 monstre Dragon (\"Dragon Armé Perceur\" exclu) depuis votre Deck à votre main avec un Niveau égal au nombre banni. Vous ne pouvez utiliser chaque effet de \"Dragon Armé Perceur\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

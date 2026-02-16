@@ -1,0 +1,16 @@
+{
+  "id": 19273,
+  "type": "monster",
+  "name": "Robot Cotte de Mailles",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Un Monstre Synchro qui a utilisé cette carte comme Matériel ne peut pas être détruit au combat. Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée, et que vous contrôlez un Monstre Synchro avec \"Guerrier\", \"Synchronique\" ou \"Poussière d'Étoile\" dans son nom d'origine : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Robot Cotte de Mailles\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 400,
+  "def": 100,
+  "properties": [
+    "Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

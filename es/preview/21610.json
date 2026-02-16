@@ -1,0 +1,16 @@
+{
+  "id": 21610,
+  "type": "monster",
+  "name": "Mago Oscuro de la Destrucción",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Mago Oscuro\" + 1 monstruo de LUZ u OSCURIDAD\nDebe ser ya sea Invocado por Fusión, o Invocado de Modo Especial (desde tu Deck Extra) durante el turno en el que es activada una Carta Mágica o su efecto, desterrando 1 monstruo Lanzador de Conjuros de OSCURIDAD de Nivel 6 o mayor que controles como material. Sólo puedes Invocar de Modo Especial \"Mago Oscuro de la Destrucción\" una vez por turno de esta forma, sin importar qué método uses. El nombre de esta carta se convierte en \"Mago Oscuro\" mientras está en el Campo o en el Cementerio. Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 \"Mago Oscuro\" o 1 carta que lo mencione en tu Deck.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

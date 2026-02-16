@@ -1,0 +1,15 @@
+{
+  "id": 9412,
+  "type": "monster",
+  "name": "Einroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est détruite au combat ou par un effet de carte : vous pouvez envoyer 2 monstres Machine de max. Niveau 4 depuis votre Deck au Cimetière. Vous ne pouvez utiliser cet effet de \"Einroid\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20039,
+  "type": "monster",
+  "name": "Reina Inférnica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si no tienes cartas en tu mano y esta carta está en tu Cementerio: puedes desterrar 1 monstruo de OSCURIDAD en tu Cementerio, y después selecciona 1 monstruo de OSCURIDAD que controles; éste puede atacar directamente este turno. Sólo puedes usar este efecto de \"Reina Inférnica\" una vez por turno.",
+  "level": 3,
+  "atk": 300,
+  "def": 900,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

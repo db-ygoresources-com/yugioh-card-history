@@ -1,0 +1,16 @@
+{
+  "id": 22184,
+  "type": "monster",
+  "name": "Panthère de Trésors",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Vous pouvez envoyer 1 Monstre Normal depuis votre Deck au Cimetière.\nSi un monstre en Position de Défense face verso est sur le Terrain et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte. Vous pouvez cibler max. 3 monstres en Position de Défense face verso sur le Terrain ; changez-les en Position d'Attaque, puis si vous avez changé 3 monstres en Position d'Attaque par cet effet, infligez 900 points de dommages à votre adversaire. Vous ne pouvez utiliser chaque effet de \"Panthère de Trésors\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bête",
+    "Flip",
+    "Effet"
+  ]
+}

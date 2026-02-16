@@ -1,0 +1,15 @@
+{
+  "id": 21409,
+  "type": "monster",
+  "name": "Corazón de Gaia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "(Esta carta se trata siempre como una carta \"Milenario/a\" y \"Gaia el Caballero Feroz\").\nSi una Carta de Monstruo de Nivel 5 o mayor está en el Campo, puedes Invocar esta carta de Modo Normal sin Sacrificar. El Nivel de cualquier monstruo que tu adversario Invoca de Modo Normal o Especial en Posición de Ataque, mientras esta carta está en tu Zona de Monstruos, se aumenta en 7. Cuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes mandar al Cementerio otra Carta de Monstruo boca arriba de Nivel 5 o mayor que controles; niega la activación y, si lo haces, destruye esa carta. Sólo puedes usar este efecto de \"Corazón de Gaia\" una vez por turno.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

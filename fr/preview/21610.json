@@ -1,0 +1,16 @@
+{
+  "id": 21610,
+  "type": "monster",
+  "name": "Magicien Sombre de la Destruction",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "\"Magicien Sombre\" + 1 monstre LUMIÈRE ou TÉNÈBRES\nUniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) durant le tour où une Carte Magie ou effet de Magie est activé, en bannissant 1 monstre TÉNÈBRES Magicien de min. Niveau 6 que vous contrôlez comme Matériel. Vous ne pouvez Invoquer Spécialement \"Magicien Sombre de la Destruction\" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez. Le nom de cette carte devient \"Magicien Sombre\" tant qu'elle est sur le Terrain ou dans le Cimetière. Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 \"Magicien Sombre\" ou 1 carte qui le mentionne depuis votre Deck à votre main.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

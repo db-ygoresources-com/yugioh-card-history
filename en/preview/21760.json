@@ -1,0 +1,17 @@
+{
+  "id": 21760,
+  "type": "monster",
+  "name": "Gallugallud the Endless Enigma",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "This sinister spirit of wavering flames can transform into any being. As it shifts from bird to human, and human to bird, it has forgotten its true self.",
+  "pendScale": 9,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Normal"
+  ]
+}

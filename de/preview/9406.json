@@ -1,0 +1,15 @@
+{
+  "id": 9406,
+  "type": "monster",
+  "name": "Burgundy der magische Elf",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls eine oder mehr Karten durch einen Karteneffekt von der Hand deines Gegners abgeworfen werden (außer während des Damage Steps): Du kannst deinem Gegner für jede abgeworfene Karte 400 Schaden zufügen. Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 zufällige Karte von der Hand deines Gegners abwerfen. Du kannst jeden Effekt von „Burgundy der magische Elf“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1400,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

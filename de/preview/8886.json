@@ -1,0 +1,15 @@
+{
+  "id": 8886,
+  "type": "monster",
+  "name": "Nurikabe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls sich diese Karte in deinem Friedhof befindet, außer in dem Spielzug, in dem sie dorthin gelegt wurde: Du kannst 1000 LP zahlen und dann 1 anderes Zombie-Monster in deinem Friedhof wählen; beschwöre sowohl es als auch diese Karte als Spezialbeschwörung, aber ihre Effekte werden annulliert, zusätzlich verbanne sie, wenn sie das Spielfeld verlassen. Du kannst diesen Effekt von „Nurikabe“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 900,
+  "def": 2000,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

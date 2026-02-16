@@ -1,0 +1,15 @@
+{
+  "id": 6786,
+  "type": "monster",
+  "name": "Guerrier Dragonique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Vous pouvez défausser 1 carte ; Invoquez Spécialement 1 monstre Dragon de max. Niveau 4 (\"Guerrier Dragonique\" exclu) depuis votre main ou Deck, mais annulez ses effets. Vous ne pouvez utiliser cet effet de \"Guerrier Dragonique\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

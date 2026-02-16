@@ -1,0 +1,15 @@
+{
+  "id": 21622,
+  "type": "monster",
+  "name": "Bohrerbewaffneter Drache",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst diese Karte und 1 anderes WIND Monster von deiner Hand auf den Friedhof legen; für den Rest dieses Spielzugs erhalten alle WIND Drache-Monster, die du kontrollierst, 300 ATK. Du kannst eine beliebige Anzahl Drache-Monster, die Stufe 7 oder höher und/oder WIND sind, von deinem Friedhof verbannen; füge deiner Hand 1 Drache-Monster mit einer Stufe in Höhe der verbannten Anzahl von deinem Deck hinzu, außer „Bohrerbewaffneter Drache“. Du kannst jeden Effekt von „Bohrerbewaffneter Drache“ nur einmal pro Spielzug verwenden.",
+  "level": 3,
+  "atk": 1100,
+  "def": 400,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22184,
+  "type": "monster",
+  "name": "Schatzpanther",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Du kannst 1 Normales Monster von deinem Deck auf den Friedhof legen.\nFalls ein Monster in verdeckter Verteidigungsposition auf dem Spielfeld liegt und sich diese Karte in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst bis zu 3 Monster in verdeckter Verteidigungsposition auf dem Spielfeld wählen; ändere sie in die Angriffsposition, dann, falls du durch diesen Effekt 3 Monster in die Angriffsposition geändert hast, füge deinem Gegner 900 Schaden zu. Du kannst jeden Effekt von „Schatzpanther“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Ungeheuer",
+    "Flipp",
+    "Effekt"
+  ]
+}

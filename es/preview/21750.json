@@ -1,0 +1,15 @@
+{
+  "id": 21750,
+  "type": "monster",
+  "name": "Doncella Enamorada",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Los monstruos que controla tu adversario que puedan atacar deben atacar a esta carta. No puede ser destruida en batalla. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: puedes activar 1 de estos efectos;\n●Pon 1 Contador Doncella en 1 monstruo boca arriba que controle tu adversario.\n●Toma el control de 1 monstruo que controle tu adversario con un Contador Doncella.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17386,
+  "type": "monster",
+  "name": "Sorcière Chronique",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez activer 1 de ces effets selon les Attributs dans votre Cimetière ;\n●LUMIÈRE : Envoyez 1 \"Dragon Blanc aux Yeux Bleus\" ou 1 carte qui le mentionne (\"Sorcière Chronique\" exclu) depuis votre Deck au Cimetière.\n●TÉNÈBRES : Envoyez 1 \"Magicien Sombre\" ou 1 carte qui le mentionne (\"Sorcière Chronique\" exclu) depuis votre Deck au Cimetière.\nVous ne pouvez utiliser cet effet de \"Sorcière Chronique\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1250,
+  "def": 1250,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

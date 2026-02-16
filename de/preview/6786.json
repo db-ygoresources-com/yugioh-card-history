@@ -1,0 +1,15 @@
+{
+  "id": 6786,
+  "type": "monster",
+  "name": "Drachenkrieger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst 1 Karte abwerfen; beschwöre 1 Drache-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Drachenkrieger“, aber annulliere seine Effekte. Du kannst diesen Effekt von „Drachenkrieger“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

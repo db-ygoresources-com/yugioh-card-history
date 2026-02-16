@@ -1,0 +1,15 @@
+{
+  "id": 21613,
+  "type": "monster",
+  "name": "HÉROE Enmascarado Horno",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes mostrar esta carta en tu mano; añade a tu mano 1 \"Cambio de Máscara\" o \"Polimerización\" en tu Deck, y después descarta 1 carta. No puedes Invocar de Modo Especial desde el Deck Extra el turno en el que actives este efecto, excepto monstruos \"HÉROE\". Si Invocas de Modo Especial uno o más Monstruos de Fusión \"HÉROE\" que no sean de FUEGO (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Cementerio (si ésta estaba ahí cuando se resolvió la Invocación), o mano (aun si no lo estaba), pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"HÉROE Enmascarado Horno\" una vez por turno.",
+  "level": 7,
+  "atk": 2200,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

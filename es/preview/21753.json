@@ -1,0 +1,16 @@
+{
+  "id": 21753,
+  "type": "monster",
+  "name": "Archidemonio Matador",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Ritual del Matador\". Si esta carta es Invocada por Ritual: puedes añadir a tu mano 2 cartas \"Archidemonio\" en tu Deck, excepto \"Archidemonio Matador\", y además esta carta no puede atacar por el resto de este turno. Sólo puedes usar este efecto de \"Archidemonio Matador\" una vez por turno. No puede ser destruida en batalla, y además no recibes daño de batalla de batallas que involucren esta carta. Después del cálculo de daño, si esta carta batalló con un monstruo: destruye ese monstruo y, si lo haces, inflige 1000 puntos de daño a tu adversario.",
+  "level": 6,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Ritual",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21614,
+  "type": "monster",
+  "name": "Maskierter HELD Atomic",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Muss mit „Maskenwechsel“ als Spezialbeschwörung beschworen werden. Das erste Mal in jedem Spielzug, wenn diese Karte durch Kampf oder einen Karteneffekt zerstört würde, wird sie nicht zerstört. Du kannst jeden der folgenden Effekte von „Maskierter HELD Atomic“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Nicht-FEUER „Maskierter HELD“-Monster in deinem Friedhof oder von deinen verbannten Karten wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, ungeachtet seiner Beschwörungsbedingungen. Während deiner End Phase: Du kannst 1 „Wechsel“-Schnellzauber in deinem Friedhof wählen; setze ihn.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2000,
+  "properties": [
+    "Krieger",
+    "Fusion",
+    "Effekt"
+  ]
+}

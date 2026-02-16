@@ -1,0 +1,15 @@
+{
+  "id": 21408,
+  "type": "monster",
+  "name": "Vaisseau Spatial Ajustable",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez cibler 1 autre monstre Machine que vous contrôlez ; le Niveau du monstre ainsi que de cette carte devient la somme des Niveaux de ces 2 monstres jusqu'à la fin de ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Xyz Machine exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Vaisseau Spatial Ajustable\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

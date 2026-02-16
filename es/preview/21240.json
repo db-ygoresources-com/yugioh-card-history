@@ -1,0 +1,16 @@
+{
+  "id": 21240,
+  "type": "monster",
+  "name": "Bazoo el Devora Almas",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "3 monstruos de Nivel 4\nCualquier Material Xyz desacoplado de un monstruo es desterrado en vez de ir al Cementerio. Una vez por Cadena, si una o más Cartas de Monstruo son mandadas al Cementerio (excepto durante el Damage Step): puedes desacoplar 1 material de esta carta. Si es desacoplado el último o últimos materiales de esta carta (excepto durante el Damage Step): puedes seleccionar 3 cartas en el o los Cementerios; acóplalas a esta carta.",
+  "rank": 4,
+  "atk": 2500,
+  "def": 900,
+  "properties": [
+    "Bestia",
+    "Xyz",
+    "Efecto"
+  ]
+}

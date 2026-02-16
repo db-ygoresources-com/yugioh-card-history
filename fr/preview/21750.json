@@ -1,0 +1,15 @@
+{
+  "id": 21750,
+  "type": "monster",
+  "name": "Jeune Fille Amoureuse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Les monstres contrôlés par votre adversaire qui peuvent attaquer doivent attaquer cette carte. Non destructible au combat. À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : vous pouvez activer 1 de ces effets ;\n●Placez 1 Compteur Jeune Fille sur 1 monstre face recto contrôlé par votre adversaire.\n●Prenez le contrôle d'1 monstre contrôlé par votre adversaire avec un Compteur Jeune Fille.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

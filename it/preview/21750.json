@@ -1,0 +1,15 @@
+{
+  "id": 21750,
+  "type": "monster",
+  "name": "Fanciulla Innamorata",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "I mostri controllati dal tuo avversario che possono attaccare devono attaccare questa carta. Non può essere distrutto in battaglia. Alla fine del Damage Step, se questa carta ha combattuto con un mostro dell'avversario: puoi attivare 1 di questi effetti;\n●Metti 1 Segnalino Fanciulla su 1 mostro scoperto controllato dal tuo avversario.\n●Prendi il controllo di 1 mostro controllato dal tuo avversario con un Segnalino Fanciulla.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

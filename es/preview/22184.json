@@ -1,0 +1,16 @@
+{
+  "id": 22184,
+  "type": "monster",
+  "name": "Pantera del Tesoro",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "VOLTEO: Puedes mandar al Cementerio 1 Monstruo Normal en tu Deck.\nSi un monstruo en Posición de Defensa boca abajo está en el Campo y esta carta está en tu mano: puedes Invocar esta carta de Modo Especial. Puedes seleccionar hasta 3 monstruos en Posición de Defensa boca abajo en el Campo; cámbialos a Posición de Ataque y después, si cambiaste 3 monstruos a Posición de Ataque por este efecto, inflige 900 puntos de daño a tu adversario. Sólo puedes usar cada efecto de \"Pantera del Tesoro\" una vez por turno.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Bestia",
+    "Volteo",
+    "Efecto"
+  ]
+}

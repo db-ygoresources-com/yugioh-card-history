@@ -1,0 +1,15 @@
+{
+  "id": 9412,
+  "type": "monster",
+  "name": "Einroid",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 2 Maschine-Monster der Stufe 4 oder niedriger von deinem Deck auf den Friedhof legen. Du kannst diesen Effekt von „Einroid“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 200,
+  "def": 1800,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

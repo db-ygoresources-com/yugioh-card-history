@@ -1,0 +1,15 @@
+{
+  "id": 21409,
+  "type": "monster",
+  "name": "Cœur de Gaïa",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Millénaire\" et \"Gaïa le Chevalier Implacable\".)\nSi une Carte Monstre de min. Niveau 5 est sur le Terrain, vous pouvez Invoquer Normalement cette carte sans Sacrifice. Le Niveau des monstres que votre adversaire Invoque Normalement ou Spécialement en Position d'Attaque, tant que cette carte est dans votre Zone Monstre, est augmenté de 7. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez envoyer 1 autre Carte Monstre de min. Niveau 5 face recto que vous contrôlez au Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte. Vous ne pouvez utiliser cet effet de \"Cœur de Gaïa\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2300,
+  "def": 2100,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21610,
+  "type": "monster",
+  "name": "Mago Negro da Destruição",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "\"Mago Negro\" + 1 monstro de LUZ ou de TREVAS\nDeve ser Invocado por Invocação-Fusão, ou por Invocação-Especial (do seu Deck Adicional) durante o turno em que um Card de Magia ou seus efeitos for ativado, ao banir 1 monstro Mago de TREVAS de Nível 6 ou mais que você controla como matéria. Você só pode Invocar \"Mago Negro da Destruição\" por Invocação-Especial uma vez por turno desta forma, não importa o método que usar. O nome deste card se torna \"Mago Negro\" enquanto estiver no campo ou no Cemitério. Se este card for Invocado por Invocação-Especial: você pode adicionar 1 \"Mago Negro\" ou 1 card que o mencione do seu Deck à sua mão.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Mago",
+    "Fusão",
+    "Efeito"
+  ]
+}

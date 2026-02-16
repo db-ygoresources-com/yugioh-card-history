@@ -1,0 +1,15 @@
+{
+  "id": 21750,
+  "type": "monster",
+  "name": "Verliebte Jungfer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Monster, die dein Gegner kontrolliert und die angreifen können, müssen diese Karte angreifen. Kann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst 1 dieser Effekte aktivieren;\n●Lege 1 Jungfer-Zählmarke auf 1 offenes Monster, das dein Gegner kontrolliert.\n●Übernimm die Kontrolle über 1 Monster mit einer Jungfer-Zählmarke, das dein Gegner kontrolliert.",
+  "level": 2,
+  "atk": 400,
+  "def": 300,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

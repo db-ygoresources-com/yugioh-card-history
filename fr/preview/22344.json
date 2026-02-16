@@ -1,0 +1,15 @@
+{
+  "id": 22344,
+  "type": "monster",
+  "name": "Pumpking le Roi des Fantômes de la Tombe",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; Posez 1 \"Appel de l'Être Hanté\" depuis votre Deck ou Cimetière, et si vous le faites, défaussez 1 carte. Ce tour, la carte Posée peut être activée. Si cette carte est Invoquée Spécialement : vous pouvez Invoquer Spécialement 1 monstre Zombie de Niveau 6 (monstres avec 1950 ATK exclus) depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Zombie exclus) depuis la main ou Cimetière le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Pumpking le Roi des Fantômes de la Tombe\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 1950,
+  "def": 2600,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}
