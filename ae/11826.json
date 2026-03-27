@@ -1,0 +1,18 @@
+{
+  "id": 11826,
+  "type": "monster",
+  "name": "Archfiend Eccentrick",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "You can Tribute this card, then target 1 monster on the field; destroy it. You can only use this effect of \"Archfiend Eccentrick\" once per turn.",
+  "pendEffect": "You can target 1 other Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Archfiend Eccentrick\" once per turn.",
+  "pendScale": 7,
+  "level": 3,
+  "atk": 800,
+  "def": 1000,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

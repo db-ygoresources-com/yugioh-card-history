@@ -1,0 +1,16 @@
+{
+  "id": 16511,
+  "type": "monster",
+  "name": "Penguin Ninja",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "FLIP: You can target up to 2 Spells/Traps your opponent controls; return them to the hand.\nYou can target 1 \"Penguin\" monster you control; change it to face-down Defense Position. You can only use this effect of \"Penguin Ninja\" once per turn.",
+  "level": 3,
+  "atk": 1400,
+  "def": 700,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effect"
+  ]
+}

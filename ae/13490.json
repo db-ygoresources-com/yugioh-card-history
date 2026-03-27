@@ -1,0 +1,19 @@
+{
+  "id": 13490,
+  "type": "monster",
+  "name": "Masterking Archfiend",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "2 Fiend monsters\nOnce per turn, during your Standby Phase, pay 500 LP or destroy this card. Once per Chain, if you pay LP (except during the Damage Step): You can send 1 Fiend monster from your Deck to the GY with ATK or DEF equal to the amount paid. Once per Chain, if a Fiend monster(s) is sent to your GY (except during the Damage Step): You can roll a six-sided die, then apply this effect on 1 of those monsters based on the result.\n●1: Add it to your hand.\n●2, 3, 4, 5: Shuffle into the Deck.\n●6: Special Summon it.",
+  "linkRating": 2,
+  "linkArrows": [
+    "1",
+    "3"
+  ],
+  "atk": 2000,
+  "properties": [
+    "Fiend",
+    "Link",
+    "Effect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4608,
+  "type": "monster",
+  "name": "Penguin Soldier",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+  "level": 2,
+  "atk": 750,
+  "def": 500,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effect"
+  ]
+}

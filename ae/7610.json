@@ -1,0 +1,16 @@
+{
+  "id": 7610,
+  "type": "monster",
+  "name": "DUCKER Mobile Cannon",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "FLIP: Target 1 Level 4 monster in your GY; add that target to your hand.",
+  "level": 3,
+  "atk": 500,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Flip",
+    "Effect"
+  ]
+}
