@@ -1,0 +1,19 @@
+{
+  "id": 16428,
+  "type": "monster",
+  "name": "Starving Venemy Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 DARK monster + 1 Pendulum Monster\nYou can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name and replace this effect with that monster's original effects, then, that monster loses 500 ATK/DEF, its effects are negated, also inflict 500 damage to your opponent. You can only use this effect of \"Starving Venemy Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "pendEffect": "Each time a card(s) is sent from the field to the GY, place 1 Venemy Counter on this card for each sent card. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field. Once per turn, you can reduce the battle damage you take to 0.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Pendulum",
+    "Effect"
+  ]
+}

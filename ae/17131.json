@@ -1,0 +1,18 @@
+{
+  "id": 17131,
+  "type": "monster",
+  "name": "Predaplant Triantis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+  "pendEffect": "While this card is in your Pendulum Zone, if you Fusion Summon a DARK Fusion Monster, you can also use cards in your Pendulum Zones as monsters on the field, as material for its Fusion Summon.",
+  "pendScale": 8,
+  "level": 8,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Plant",
+    "Pendulum",
+    "Effect"
+  ]
+}

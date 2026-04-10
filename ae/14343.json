@@ -1,0 +1,19 @@
+{
+  "id": 14343,
+  "type": "monster",
+  "name": "Starving Venemy Lethal Dose Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "3 DARK Pendulum Monsters\nEach time a card(s) is sent from the field to the GY, place 1 Venemy Counter on this card for each sent card. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field. Once per turn, during your Main Phase: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+  "pendEffect": "Once per turn, during your Main Phase: You can place 1 Venemy Counter on each face-up monster your opponent controls. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field.",
+  "pendScale": 1,
+  "level": 8,
+  "atk": 2800,
+  "def": 2000,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Pendulum",
+    "Effect"
+  ]
+}
