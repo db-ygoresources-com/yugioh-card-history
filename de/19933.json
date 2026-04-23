@@ -1,0 +1,19 @@
+{
+  "id": 19933,
+  "type": "monster",
+  "name": "Kombiniertes Manöver - Angriff Null!",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 LICHT und/oder FINSTERNIS Monster\n(Diese Karte wird immer als „Himmelsjäger-Ass“-Karte behandelt.)\nDu kannst nur einmal pro Spielzug ein oder mehr „Kombiniertes Manöver - Angriff Null!“ als Spezialbeschwörung beschwören. Kann nicht als Linkmaterial verwendet werden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster mit 2500 oder mehr ATK auf dem Spielfeld wählen; annulliere bis zum Ende dieses Spielzugs seine Effekte. Am Beginn des Damage Steps, falls diese Karte angreift, solange du „Himmelsjäger-Ass - Raye“ und „Himmelsjäger-Ass - Roze“ in deinem Friedhof hast: Du kannst alle Monster zerstören, die dein Gegner kontrolliert.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

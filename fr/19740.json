@@ -1,0 +1,21 @@
+{
+  "id": 19740,
+  "type": "monster",
+  "name": "Assaut Chirurgical - S.P.E.C.T.R.A.",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres (un Monstre Lien inclus)\n(Cette carte est toujours traitée comme carte \"Assaut de l'Air - As\".)\nDoit d'abord être Invoquée par Lien. Perd 3000 ATK tant que vous n'avez aucune Magie dans votre Cimetière. Lorsque votre adversaire active une carte ou un effet en min. Maillon 2 de la Chaîne (Effet Rapide) : vous pouvez bannir 2 Magies depuis votre main et/ou Cimetière ; annulez l'effet, puis vous pouvez détruire 1 carte contrôlée par votre adversaire. Vous ne pouvez utiliser cet effet de \"Assaut Chirurgical - S.P.E.C.T.R.A.\" qu'une fois par tour.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

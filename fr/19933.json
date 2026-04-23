@@ -1,0 +1,19 @@
+{
+  "id": 19933,
+  "type": "monster",
+  "name": "Manœuvre Combinée - Attaque Zéro !",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres LUMIÈRE et/ou TÉNÈBRES\n(Cette carte est toujours traitée comme carte \"Assaut de l'Air - As\".)\nVous ne pouvez Invoquer Spécialement un ou plusieurs \"Manœuvre Combinée - Attaque Zéro !\" qu'une fois par tour. Non utilisable comme Matériel Lien. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre sur le Terrain avec min. 2500 ATK ; jusqu'à la fin de ce tour, annulez ses effets. Au début de la Damage Step, si cette carte attaque, tant que vous avez \"Assaut de l'Air - As - Raye\" et \"Assaut de l'Air - As - Roze\" dans votre Cimetière : vous pouvez détruire tous les monstres contrôlés par votre adversaire.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "6"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Machine",
+    "Lien",
+    "Effet"
+  ]
+}

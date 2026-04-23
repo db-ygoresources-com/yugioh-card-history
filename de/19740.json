@@ -1,0 +1,21 @@
+{
+  "id": 19740,
+  "type": "monster",
+  "name": "Chirurgischer Jäger - S.P.E.C.T.R.A.",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Monster, darunter ein Linkmonster\n(Diese Karte wird immer als „Himmelsjäger-Ass“-Karte behandelt.)\nMuss erst als Linkbeschwörung beschworen werden. Verliert 3000 ATK, solange du keine Zauber in deinem Friedhof hast. Wenn dein Gegner eine Karte oder einen Effekt als Kettenglied 2 oder höher aktiviert (Schnelleffekt): Du kannst 2 Zauber von deiner Hand und/oder deinem Friedhof verbannen; annulliere jenen Effekt, dann kannst du 1 Karte zerstören, die dein Gegner kontrolliert. Du kannst diesen Effekt von „Chirurgischer Jäger - S.P.E.C.T.R.A.“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 4,
+  "linkArrows": [
+    "8",
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Maschine",
+    "Link",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19011,
+  "type": "monster",
+  "name": "Força Celeste - Ás - Camellia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "2 Monstros de Efeito\nPrimeiro deve ser Invocado por Invocação-Link. Você só pode Invocar um ou mais \"Força Celeste - Ás - Camellia\" por Invocação-Especial uma vez por turno. Uma vez por turno, se você tiver 3 ou menos Magias no seu Cemitério: você pode enviar 1 card \"Força Celeste\" do seu Deck para o Cemitério. Se este card for enviado para o Cemitério: você pode escolher 1 monstro que seu oponente controla; Invoque este card por Invocação-Especial no campo do seu oponente (mas mude o controle para seu dono durante a Fase Final deste turno) e, se isso acontecer, envie o monstro alvo para o Cemitério.",
+  "linkRating": 2,
+  "linkArrows": [
+    "9",
+    "1"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Máquina",
+    "Link",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22319,
+  "type": "monster",
+  "name": "Himmelsjäger-Mech - Adil-Säbel",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Während der Battle Phase (Schnelleffekt): Du kannst diese Karte abwerfen und dann 1 „Himmelsjäger“-Monster auf dem Spielfeld wählen; es erhält bis zum Ende dieses Spielzugs 1500 ATK. Falls ein oder mehr Monster als Spezialbeschwörung beschworen werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst 1 „Himmelsjäger“-Linkmonster wählen, das du kontrollierst; rüste es mit dieser Karte als Ausrüstungszauber aus, der ihm 1500 ATK gibt. Du kannst jeden Effekt von „Himmelsjäger-Mech - Adil-Säbel“ nur einmal pro Spielzug verwenden.",
+  "level": 7,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

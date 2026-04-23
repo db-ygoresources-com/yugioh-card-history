@@ -1,0 +1,19 @@
+{
+  "id": 19011,
+  "type": "monster",
+  "name": "Caza del Cielo As - Camelia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2 Monstruos de Efecto\nDebe ser primero Invocado por Enlace. Sólo puedes Invocar de Modo Especial uno o más \"Caza del Cielo As - Camelia\" una vez por turno. Una vez por turno, si tienes 3 o menos Mágicas en tu Cementerio: puedes mandar al Cementerio 1 carta \"Caza del Cielo\" en tu Deck. Si esta carta es mandada al Cementerio: puedes seleccionar 1 monstruo que controle tu adversario; Invoca esta carta de Modo Especial al Campo de tu adversario (pero cambia el control a su dueño durante la End Phase de este turno) y, si lo haces, manda ese monstruo seleccionado al Cementerio.",
+  "linkRating": 2,
+  "linkArrows": [
+    "9",
+    "1"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}
