@@ -1,0 +1,15 @@
+{
+  "id": 22928,
+  "type": "monster",
+  "name": "Vérificateur",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non Invocable Normalement si vous contrôlez un monstre. Vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 monstre Machine depuis votre Deck dont l'ATK est égale à sa propre DEF, mais renvoyez-le à la main durant la End Phase. Vous pouvez bannir cette carte depuis votre Cimetière, et défaussez 1 carte ; Invoquez Spécialement 1 \"Jeton Gravats de Fer\" (Machine/TERRE/Niveau 1/ATK 0/DEF 0), mais il ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro ou Lien. Vous ne pouvez utiliser chaque effet de \"Vérificateur\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

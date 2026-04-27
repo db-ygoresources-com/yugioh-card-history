@@ -1,0 +1,18 @@
+{
+  "id": 22519,
+  "type": "monster",
+  "name": "Vidolium el Inestable Modelo de Poder de Unidad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Deck Extra o Cementerio) devolviendo al Deck Extra 3 monstruos (1 de Fusión, 1 de Sincronía y 1 Xyz) en tu Campo boca arriba y/o Cementerio. No es afectado por efectos de monstruos, excepto monstruos \"Modelo de Poder\". Si esta carta es añadida a tu Deck Extra boca arriba: puedes añadir a tu mano 1 carta \"Modelo de Poder\" en tu Deck. Sólo puedes usar este efecto de \"Vidolium el Inestable Modelo de Poder de Unidad\" una vez por turno. Si esta carta es Invocada de Modo Especial: destierra (boca abajo) todas las cartas en los Cementerios.",
+  "pendEffect": "Puedes activar 1 de estos efectos;\n●Destruye esta carta y, si lo haces, Invoca de Modo Especial 1 monstruo \"Modelo de Poder\" desde tu mano o Cementerio.\n●Destruye esta carta, y además por el resto de este turno, los monstruos \"Modelo de Poder\" que controlas cuyo Nivel original sea 12 ganan 5000 ATK.\nSólo puedes usar este efecto de \"Vidolium el Inestable Modelo de Poder de Unidad\" una vez por turno.",
+  "pendScale": 11,
+  "level": 12,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

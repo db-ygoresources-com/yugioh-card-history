@@ -1,0 +1,16 @@
+{
+  "id": 22510,
+  "type": "monster",
+  "name": "Resonador de Oscuridad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes mostrar 1 \"Dragón Rojo Archidemonio\" en tu Deck Extra; Invoca esta carta de Modo Especial desde tu mano, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía. Si esta carta es Invocada de Modo Especial: puedes activar este efecto; durante tu Main Phase este turno, puedes Invocar de Modo Normal 1 monstruo \"Resonador\", además de tu Invocación Normal/Colocación (sólo puedes ganar este efecto una vez por turno). Puedes seleccionar cualquier número de Cantantes que controles; cambia sus Niveles a 1. Sólo puedes usar cada efecto de \"Resonador de Oscuridad\" una vez por turno.",
+  "level": 3,
+  "atk": 1300,
+  "def": 300,
+  "properties": [
+    "Demonio",
+    "Cantante",
+    "Efecto"
+  ]
+}

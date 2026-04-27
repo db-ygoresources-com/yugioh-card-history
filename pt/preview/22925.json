@@ -1,0 +1,18 @@
+{
+  "id": 22925,
+  "type": "monster",
+  "name": "Sombra, o Obscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se você tiver um card na sua Zona de Pêndulo e este card estiver na sua mão: você pode Invocar este card por Invocação-Especial. Você pode pagar 1000 PV; destrua 1 Card de Monstro Pêndulo na sua mão ou no campo com a face para cima e, depois, você pode adicionar 1 Monstro Pêndulo do seu Deck ao seu Deck Adicional com a face para cima. Você só pode usar cada efeito de \"Sombra, o Obscuro\" uma vez por turno.",
+  "pendEffect": "Você não pode Invocar por Invocação-Pêndulo, exceto Monstros Pêndulo (este efeito não pode ser negado). Se um ou mais monstros com 1000 ou menos de ATK forem Invocados por Invocação-Especial (exceto durante a Etapa de Dano): você pode devolver este card para a mão. Você só pode usar este efeito de \"Sombra, o Obscuro\" uma vez por turno.",
+  "pendScale": 11,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

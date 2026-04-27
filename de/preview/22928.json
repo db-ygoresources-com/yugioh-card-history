@@ -1,0 +1,15 @@
+{
+  "id": 22928,
+  "type": "monster",
+  "name": "Tester",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen werden, falls du ein Monster kontrollierst. Du kannst diese Karte als Tribut anbieten; beschwöre 1 Maschine-Monster, dessen ATK seinen eigenen DEF entsprechen, als Spezialbeschwörung von deinem Deck, aber gib es während der End Phase auf die Hand zurück. Du kannst diese Karte von deinem Friedhof verbannen und 1 Karte abwerfen; beschwöre 1 „Eisenmüll-Spielmarke“ (Maschine/ERDE/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung, aber sie kann nicht als Material für eine Fusions-, Synchro- oder Linkbeschwörung verwendet werden. Du kannst jeden Effekt von „Tester“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

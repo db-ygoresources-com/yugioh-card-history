@@ -1,0 +1,15 @@
+{
+  "id": 22535,
+  "type": "monster",
+  "name": "Cavaleiro Convexo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se um monstro Máquina estiver no campo e este card estiver na sua mão: você pode Invocar este card por Invocação-Especial em Posição de Defesa e, depois, você pode fazer com que o Nível deste card se torne o Nível/Classe de 1 monstro Máquina no campo. Durante sua Fase Principal: você pode enviar 1 monstro Máquina de TERRA do seu Deck para o Cemitério e, depois, até o final deste turno, este card ganha ATK igual ao Nível do monstro enviado para o Cemitério x 100. Você só pode usar cada efeito de \"Cavaleiro Convexo\" uma vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Efeito"
+  ]
+}

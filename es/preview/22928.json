@@ -1,0 +1,15 @@
+{
+  "id": 22928,
+  "type": "monster",
+  "name": "Verificador",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal si controlas un monstruo. Puedes Sacrificar esta carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo Máquina cuyo ATK sea igual a su propia DEF, pero devuélvelo a la mano durante la End Phase. Puedes desterrar esta carta en tu Cementerio y descartar 1 carta; Invoca de Modo Especial 1 \"Ficha Escombro de Hierro\" (Máquina/TIERRA/Nivel 1/ATK 0/DEF 0), pero no puede ser usada como material para una Invocación por Fusión, Sincronía o Enlace. Sólo puedes usar cada efecto de \"Verificador\" una vez por turno.",
+  "level": 4,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

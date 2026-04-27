@@ -1,0 +1,17 @@
+{
+  "id": 22551,
+  "type": "monster",
+  "name": "Canción Kewl B2B",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ Monstruos de Sincronía\nLos Niveles de los monstruos que controla tu adversario aumentan en 2. Tus Cantantes pueden hacer un segundo ataque durante cada Battle Phase. Cuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes seleccionar 1 Cantante en tu Cementerio o destierro, excepto un Cantante de Nivel 10; añádelo a tu mano o Invócalo de Modo Especial, e inmediatamente después de que se resuelva este efecto, puedes Invocar por Sincronía 1 Monstruo de Sincronía. Sólo puedes usar este efecto de \"Canción Kewl B2B\" dos veces por turno.",
+  "level": 10,
+  "atk": 3200,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

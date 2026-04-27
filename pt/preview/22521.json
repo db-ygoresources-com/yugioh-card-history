@@ -1,0 +1,18 @@
+{
+  "id": 22521,
+  "type": "monster",
+  "name": "Jupredo, o Patrono do Poder Máquina Sombria",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "(Este card deve ser sempre considerado como um card \"DoomZ\".)\nVocê pode banir os 3 cards do topo do seu Deck, com a face para baixo; destrua este card e, se isso acontecer, Invoque por Invocação-Especial 1 \"Júpiter, o Patrono do Poder da Destruição\" do seu Deck Adicional (isso é considerado uma Invocação-Xyz) e, depois, você pode associar 1 card da sua mão a ele. Se este card for adicionado ao seu Deck Adicional com a face para cima: você pode adicionar 1 Magia/Armadilha \"Patrono(a) do Poder\" ou \"DoomZ\" do seu Deck à sua mão. Você só pode usar cada efeito de \"Jupredo, o Patrono do Poder Máquina Sombria\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode destruir este card e 1 monstro \"Patrono(a) do Poder\" ou \"DoomZ\" na sua mão ou no campo com a face para cima e, depois, você pode destruir 1 card no campo. Você só pode usar este efeito de \"Jupredo, o Patrono do Poder Máquina Sombria\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22540,
+  "type": "monster",
+  "name": "Dragon Ailé Venin Affamé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Monstre Fusion + 1 monstre \"Aile Claire\"\nUne fois par tour, si votre adversaire Invoque Spécialement face recto un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez en cibler 1 ; cette carte gagne une ATK égale à l'ATK du monstre, et si elle le fait, les effets du monstre sont annulés. Ces changements durent jusqu'à la fin de ce tour. Une fois par tour, lorsqu'une autre carte ou son effet est activé sur le Terrain (Effet Rapide) : vous pouvez détruire 1 carte sur le Terrain. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Chaque fois qu'un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire, placez 1 Compteur Prédateur sur celui-ci, et s'il est min. Niveau 2, il devient Niveau 1 tant qu'il a un Compteur Prédateur.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

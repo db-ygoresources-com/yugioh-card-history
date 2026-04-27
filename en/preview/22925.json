@@ -1,0 +1,18 @@
+{
+  "id": 22925,
+  "type": "monster",
+  "name": "Shade the Obscure",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If you have a card in your Pendulum Zone and this card is in your hand: You can Special Summon this card. You can pay 1000 LP; destroy 1 Pendulum Monster Card in your hand or face-up field, then you can add 1 Pendulum Monster from your Deck to your face-up Extra Deck. You can only use each effect of \"Shade the Obscure\" once per turn.",
+  "pendEffect": "You cannot Pendulum Summon, except Pendulum Monsters (this effect cannot be negated). If a monster(s) with 1000 ATK or less is Special Summoned (except during the Damage Step): You can return this card to the hand. You can only use this effect of \"Shade the Obscure\" once per turn.",
+  "pendScale": 11,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

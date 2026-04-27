@@ -1,0 +1,18 @@
+{
+  "id": 22519,
+  "type": "monster",
+  "name": "Vidolium l'Instabile Patrono Potente dell'Unità",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dal tuo Extra Deck o Cimitero) facendo ritornare 3 mostri (1 Fusione, 1 Synchro e 1 Xyz) dal tuo Terreno scoperto e/o Cimitero nell'Extra Deck. Immune agli effetti dei mostri, eccetto mostri \"Patrono Potente\". Se questa carta viene aggiunta al tuo Extra Deck scoperta: puoi aggiungere 1 carta \"Patrono Potente\" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Vidolium l'Instabile Patrono Potente dell'Unità\" una sola volta per turno. Se questa carta viene Evocata Specialmente: bandisci (coperte) tutte le carte nei Cimiteri.",
+  "pendEffect": "Puoi attivare 1 di questi effetti;\n●Distruggi questa carta e, se lo fai, Evoca Specialmente 1 mostro \"Patrono Potente\" dalla tua mano o Cimitero.\n●Distruggi questa carta, inoltre per il resto di questo turno i mostri \"Patrono Potente\" che controlli con Livello originale 12 guadagnano 5000 ATK.\nPuoi utilizzare questo effetto di \"Vidolium l'Instabile Patrono Potente dell'Unità\" una sola volta per turno.",
+  "pendScale": 11,
+  "level": 12,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

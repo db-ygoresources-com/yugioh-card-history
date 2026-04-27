@@ -1,0 +1,16 @@
+{
+  "id": 22542,
+  "type": "monster",
+  "name": "Tejedora de Colacuentos",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo \"Colacuento\" + 1 monstruo Lanzador de Conjuros\nTodos los \"Príncipe de las Hadas\" en el Campo se convierten en monstruos Lanzador de Conjuros. Durante tu Main Phase: puedes Invocar de Modo Especial 1 monstruo \"Colacuento\" desde tu Deck o destierro. Sólo puedes usar este efecto de \"Tejedora de Colacuentos\" una vez por turno. Si Invocas de Modo Normal o Especial un monstruo \"Colacuento\" que no sea de TIERRA, mientras esta carta está en tu Zona de Monstruos (excepto durante el Damage Step): puedes seleccionar 1 Monstruo de Efecto que controle tu adversario; niega sus efectos, y además su nombre se convierte en \"Príncipe de las Hadas\".",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

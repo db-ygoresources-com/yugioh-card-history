@@ -1,0 +1,18 @@
+{
+  "id": 22520,
+  "type": "monster",
+  "name": "Nervedo le Mécène du Pouvoir de la Bête Obscure",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Artmage\".)\nVous pouvez bannir face verso les 3 cartes du dessus de votre Deck ; détruisez cette carte, et si vous le faites, Invoquez Spécialement 1 \"Nerva la Mécène du Pouvoir de la Création\" depuis votre Extra Deck (ceci est traité comme Invocation Fusion). Si cette carte est ajoutée face recto à votre Extra Deck : vous pouvez Invoquer Spécialement 1 monstre \"Mécène du Pouvoir\" (\"Nervedo le Mécène du Pouvoir de la Bête Obscure\" exclu) ou \"Artmage\" depuis votre Deck ou Extra Deck face recto. Vous ne pouvez utiliser chaque effet de \"Nervedo le Mécène du Pouvoir de la Bête Obscure\" qu'une fois par tour.",
+  "pendEffect": "Vous pouvez annuler un effet de monstre activé par votre adversaire en réponse à l'activation d'un effet de monstre \"Mécène du Pouvoir\" ou \"Artmage\", puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Nervedo le Mécène du Pouvoir de la Bête Obscure\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Illusion",
+    "Pendule",
+    "Effet"
+  ]
+}

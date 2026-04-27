@@ -1,0 +1,19 @@
+{
+  "id": 22530,
+  "type": "monster",
+  "name": "Enneacraft - Atil.SPIA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "After this card was flipped face-up, while it is in the Monster Zone, your opponent cannot activate cards or effects in response to their card or effect activation. When your opponent activates a card or effect as Chain Link 3 or higher (Quick Effect): You can change this face-down card to face-up Defense Position; negate the activation of your opponent's cards and effects activated before this card in this Chain, and if you do, destroy them. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+  "pendEffect": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. At the end of the Battle Phase, if you have an \"Enneacraft\" card in your other Pendulum Zone: You can target 1 monster your opponent controls with less ATK than this card; destroy it.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Flip",
+    "Effect"
+  ]
+}

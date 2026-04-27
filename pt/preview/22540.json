@@ -1,0 +1,19 @@
+{
+  "id": 22540,
+  "type": "monster",
+  "name": "Dragão Alado de Peçonha Insaciável",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "1 Monstro de Fusão + 1 monstro \"Asas Transparentes\"\nUma vez por turno, se seu oponente Invocar por Invocação-Especial um ou mais monstros com a face para cima (exceto durante a Etapa de Dano): você pode escolher 1 deles; este card ganha ATK igual ao ATK desse monstro e, se isso acontecer, os efeitos desse monstro são negados. Essas mudanças duram até o final deste turno. Uma vez por turno, quando outro card ou seus efeitos forem ativados no campo (Efeito Rápido): você pode destruir 1 card no campo. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Sempre que um ou mais monstros forem Invocados por Invocação-Especial no campo do seu oponente, coloque 1 Marcador de Predador nele e, se ele for de Nível 2 ou mais, ele se torna de Nível 1 enquanto tiver um Marcador de Predador.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

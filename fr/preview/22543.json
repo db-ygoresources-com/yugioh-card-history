@@ -1,0 +1,16 @@
+{
+  "id": 22543,
+  "type": "monster",
+  "name": "Conteuse de l'Animal Féérique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Animal Féérique\" LUMIÈRE + 1 monstre Magicien\nLes monstres \"Animal Féérique\" que vous contrôlez ne peuvent pas être détruits au combat. Vous ne pouvez utiliser chacun des effets suivants de \"Conteuse de l'Animal Féérique\" qu'une fois par tour. Si cette carte est Invoquée par Fusion en utilisant \"Prince des Fées\" comme Matériel : vous pouvez détruire autant de cartes contrôlées par votre adversaire que possible, et si vous le faites, infligez 500 points de dommages à votre adversaire pour chaque carte détruite. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez bannir 1 carte \"Animal Féérique\" depuis votre main ou Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

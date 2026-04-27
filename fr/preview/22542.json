@@ -1,0 +1,16 @@
+{
+  "id": 22542,
+  "type": "monster",
+  "name": "Tisserande de l'Animal Féérique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Animal Féérique\" + 1 monstre Magicien\nTous les \"Prince des Fées\" sur le Terrain deviennent des monstres Magicien. Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre \"Animal Féérique\" depuis votre Deck ou bannissement. Vous ne pouvez utiliser cet effet de \"Tisserande de l'Animal Féérique\" qu'une fois par tour. Si vous Invoquez Normalement ou Spécialement un monstre \"Animal Féérique\" non-TERRE, tant que cette carte est dans votre Zone Monstre (sauf durant la Damage Step) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; annulez ses effets, et aussi, son nom devient \"Prince des Fées\".",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

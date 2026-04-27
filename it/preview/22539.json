@@ -1,0 +1,19 @@
+{
+  "id": 22539,
+  "type": "monster",
+  "name": "Matriarca Arcidemone",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con \"Trono degli Arcidemoni\". Deve essere Evocato tramite Rituale. È immune agli effetti degli altri mostri mentre è nella Zona Mostri Extra. Se questa carta viene Evocata tramite Rituale: puoi distruggere tante Magie/Trappole controllate dal tuo avversario quante possibile, poi se questa carta è nella Zona Mostri Extra, puoi bandire tutte le Magie/Trappole dal Cimitero del tuo avversario. Puoi utilizzare questo effetto di \"Matriarca Arcidemone\" una sola volta per turno.",
+  "pendEffect": "Puoi scegliere come bersaglio 1 Magia/Trappola \"Arcidemone\" nel tuo Cimitero o carte bandite; distruggi questa carta e, se lo fai, aggiungi quel bersaglio alla tua mano. Puoi utilizzare questo effetto di \"Matriarca Arcidemone\" una sola volta per turno.",
+  "pendScale": 9,
+  "level": 7,
+  "atk": 2100,
+  "def": 2900,
+  "properties": [
+    "Demone",
+    "Rituale",
+    "Pendulum",
+    "Effetto"
+  ]
+}

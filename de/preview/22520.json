@@ -1,0 +1,18 @@
+{
+  "id": 22520,
+  "type": "monster",
+  "name": "Nervedo der Schattenungeheuer-Machtpatron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Kunstmagus“-Karte behandelt.)\nDu kannst die obersten 3 Karten deines Decks verdeckt verbannen; zerstöre diese Karte und falls du dies tust, beschwöre 1 „Nerva die Machtpatronin der Schöpfung“ als Spezialbeschwörung von deinem Extra Deck (dies wird als Fusionsbeschwörung behandelt). Falls diese Karte deinem Extra Deck offen hinzugefügt wird: Du kannst 1 „Machtpatron“- oder „Kunstmagus“-Monster als Spezialbeschwörung von deinem Deck oder offen von deinem Extra Deck beschwören, außer „Nervedo der Schattenungeheuer-Machtpatron“. Du kannst jeden Effekt von „Nervedo der Schattenungeheuer-Machtpatron“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst einen Monstereffekt annullieren, der von deinem Gegner als Reaktion auf die Aktivierung eines „Machtpatron“- oder „Kunstmagus“-Monstereffekts aktiviert wurde, dann zerstöre diese Karte. Du kannst diesen Effekt von „Nervedo der Schattenungeheuer-Machtpatron“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Illusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

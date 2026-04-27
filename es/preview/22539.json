@@ -1,0 +1,19 @@
+{
+  "id": 22539,
+  "type": "monster",
+  "name": "Matriarca Archidemonio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Trono de los Archidemonios\". Debe ser Invocada por Ritual. No es afectada por los efectos de otros monstruos mientras esté en la Zona de Monstruos Extra. Si esta carta es Invocada por Ritual: puedes destruir tantas Mágicas/Trampas que controle tu adversario como sea posible y después, si esta carta está en la Zona de Monstruos Extra, puedes desterrar todas las Mágicas/Trampas en el Cementerio de tu adversario. Sólo puedes usar este efecto de \"Matriarca Archidemonio\" una vez por turno.",
+  "pendEffect": "Puedes seleccionar 1 Mágica/Trampa \"Archidemonio\" en tu Cementerio o destierro; destruye esta carta y, si lo haces, añade ese objetivo a tu mano. Sólo puedes usar este efecto de \"Matriarca Archidemonio\" una vez por turno.",
+  "pendScale": 9,
+  "level": 7,
+  "atk": 2100,
+  "def": 2900,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22522,
+  "type": "monster",
+  "name": "Junoldo, o Patrono do Poder Espírito Sombrio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Elfnota\".)\nVocê pode banir os 3 cards do topo do seu Deck, com a face para baixo; destrua este card e, se isso acontecer, Invoque por Invocação-Especial 1 \"Junora, o Patrono do Poder da Afinação\" do seu Deck Adicional (isso é considerado uma Invocação-Sincro). Se este card for adicionado ao seu Deck Adicional com a face para cima: você pode adicionar 1 card \"Patrono(a) do Poder\" ou \"Elfnota\" do seu Deck Adicional com a face para cima ou Cemitério à sua mão, exceto \"Junoldo, o Patrono do Poder Espírito Sombrio\". Você só pode usar cada efeito de \"Junoldo, o Patrono do Poder Espírito Sombrio\" uma vez por turno.",
+  "pendEffect": "Se um ou mais monstros \"Patrono(a) do Poder\" ou \"Elfnota\" forem Invocados por Invocação-Especial no seu campo, enquanto este card estiver na sua Zona de Pêndulo (exceto durante a Etapa de Dano): você pode destruir este card e, se isso acontecer, compre 2 cards e, depois, descarte 1 card. Você só pode usar este efeito de \"Junoldo, o Patrono do Poder Espírito Sombrio\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demônio",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

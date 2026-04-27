@@ -1,0 +1,16 @@
+{
+  "id": 22924,
+  "type": "monster",
+  "name": "Fata Dragna",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "2 monstruos con el mismo Tipo y Atributo, pero Niveles diferentes\nTu adversario no puede seleccionar con efectos de cartas Monstruos de Fusión que controles. Si esta carta es mandada al Cementerio como material para una Invocación por Fusión: puedes Invocar de Modo Especial 1 Monstruo de Fusión desde tu Deck Extra en Posición de Defensa (pero niega sus efectos, y además devuélvelo al Deck Extra durante la End Phase) y además, por el resto de este turno, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Fusión. Sólo puedes usar este efecto de \"Fata Dragna\" una vez por turno.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Efecto"
+  ]
+}

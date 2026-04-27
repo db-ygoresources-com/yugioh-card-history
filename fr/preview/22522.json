@@ -1,0 +1,18 @@
+{
+  "id": 22522,
+  "type": "monster",
+  "name": "Junoldo le Mécène du Pouvoir de l'Esprit Obscur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Notes Elfiques\".)\nVous pouvez bannir face verso les 3 cartes du dessus de votre Deck ; détruisez cette carte, et si vous le faites, Invoquez Spécialement 1 \"Junora le Mécène du Pouvoir de l'Accordage\" depuis votre Extra Deck (ceci est traité comme Invocation Synchro). Si cette carte est ajoutée face recto à votre Extra Deck : vous pouvez ajouter 1 carte \"Mécène du Pouvoir\" (\"Junoldo le Mécène du Pouvoir de l'Esprit Obscur\" exclu) ou \"Notes Elfiques\" depuis votre Extra Deck face recto ou Cimetière à votre main. Vous ne pouvez utiliser chaque effet de \"Junoldo le Mécène du Pouvoir de l'Esprit Obscur\" qu'une fois par tour.",
+  "pendEffect": "Si un ou plusieurs monstres \"Mécène du Pouvoir\" ou \"Notes Elfiques\" sont Invoqués Spécialement sur votre Terrain, tant que cette carte est dans votre Zone Pendule (sauf durant la Damage Step) : vous pouvez détruire cette carte, et si vous le faites, piochez 2 cartes, puis défaussez 1 carte. Vous ne pouvez utiliser cet effet de \"Junoldo le Mécène du Pouvoir de l'Esprit Obscur\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Démon",
+    "Pendule",
+    "Effet"
+  ]
+}

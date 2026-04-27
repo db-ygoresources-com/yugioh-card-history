@@ -1,0 +1,19 @@
+{
+  "id": 22539,
+  "type": "monster",
+  "name": "Matriarchin der Erzunterweltler",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte mit „Thron der Erzunterweltler“ als Ritualbeschwörung beschwören. Muss als Ritualbeschwörung beschworen werden. Diese Karte bleibt von den Effekten anderer Monster unberührt, solange sie in der Extra-Monsterzone liegt. Falls diese Karte als Ritualbeschwörung beschworen wird: Du kannst so viele Zauber/Fallen, die dein Gegner kontrolliert, zerstören wie möglich, dann, falls diese Karte in der Extra-Monsterzone liegt, kannst du alle Zauber/Fallen vom Friedhof deines Gegners verbannen. Du kannst diesen Effekt von „Matriarchin der Erzunterweltler“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst 1 „Erzunterweltler“-Zauber/Falle in deinem Friedhof oder von deinen verbannten Karten wählen; zerstöre diese Karte und falls du dies tust, füge jenes gewählte Ziel deiner Hand hinzu. Du kannst diesen Effekt von „Matriarchin der Erzunterweltler“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 9,
+  "level": 7,
+  "atk": 2100,
+  "def": 2900,
+  "properties": [
+    "Unterweltler",
+    "Ritual",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22519,
+  "type": "monster",
+  "name": "Vidolium, o Instável Patrono do Poder da União",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (do seu Deck Adicional ou Cemitério) ao devolver 3 monstros (1 de Fusão, 1 Sincro e 1 Xyz) do seu campo com a face para cima e/ou Cemitério para o Deck Adicional. Não é afetado por efeitos de monstro, exceto monstros \"Patrono(a) do Poder\". Se este card for adicionado ao seu Deck Adicional com a face para cima: você pode adicionar 1 card \"Patrono(a) do Poder\" do seu Deck à sua mão. Você só pode usar este efeito de \"Vidolium, o Instável Patrono do Poder da União\" uma vez por turno. Se este card for Invocado por Invocação-Especial: bana (com a face para baixo) todos os cards nos Cemitérios.",
+  "pendEffect": "Você pode ativar 1 desses efeitos;\n●Destrua este card e, se isso acontecer, Invoque por Invocação-Especial 1 monstro \"Patrono(a) do Poder\" da sua mão ou do Cemitério.\n●Destrua este card e, além disso, pelo resto deste turno, monstros \"Patrono(a) do Poder\" que você controla cujos Níveis originais sejam 12 ganham 5000 de ATK.\nVocê só pode usar este efeito de \"Vidolium, o Instável Patrono do Poder da União\" uma vez por turno.",
+  "pendScale": 11,
+  "level": 12,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Fada",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

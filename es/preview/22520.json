@@ -1,0 +1,18 @@
+{
+  "id": 22520,
+  "type": "monster",
+  "name": "Nervedo la Bestia Sombra Modelo de Poder",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "(Esta carta se trata siempre como una carta \"Artmagia\").\nPuedes desterrar las 3 cartas de la parte superior de tu Deck, boca abajo; destruye esta carta y, si lo haces, Invoca de Modo Especial 1 \"Nerva la Modelo de Poder de Creación\" desde tu Deck Extra (esto se trata como una Invocación por Fusión). Si esta carta es añadida a tu Deck Extra boca arriba: puedes Invocar de Modo Especial 1 monstruo \"Modelo de Poder\" o \"Artmagia\" desde tu Deck o Deck Extra boca arriba, excepto \"Nervedo la Bestia Sombra Modelo de Poder\". Sólo puedes usar cada efecto de \"Nervedo la Bestia Sombra Modelo de Poder\" una vez por turno.",
+  "pendEffect": "Puedes negar un efecto de monstruo activado por tu adversario en respuesta a la activación de un efecto de monstruo \"Modelo de Poder\" o \"Artmagia\", y después destruye esta carta. Sólo puedes usar este efecto de \"Nervedo la Bestia Sombra Modelo de Poder\" una vez por turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Ilusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

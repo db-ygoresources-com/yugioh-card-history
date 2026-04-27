@@ -1,0 +1,18 @@
+{
+  "id": 22521,
+  "type": "monster",
+  "name": "Jupredo l'Ombramacchina Patrono Potente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "(Questa carta viene sempre considerata come una carta \"DoomZ\".)\nPuoi bandire le prime 3 carte del tuo Deck, coperte; distruggi questa carta e, se lo fai, Evoca Specialmente 1 \"Jupiter il Patrono Potente della Distruzione\" dal tuo Extra Deck (questa viene considerata come un'Evocazione Xyz), poi puoi attaccare 1 carta dalla tua mano a esso. Se questa carta viene aggiunta al tuo Extra Deck scoperta: puoi aggiungere 1 Magia/Trappola \"Patrono Potente\" o \"DoomZ\" dal tuo Deck alla tua mano. Puoi utilizzare ogni effetto di \"Jupredo l'Ombramacchina Patrono Potente\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi distruggere questa carta e 1 mostro \"Patrono Potente\" o \"DoomZ\" nella tua mano o Terreno scoperto, poi puoi distruggere 1 carta sul Terreno. Puoi utilizzare questo effetto di \"Jupredo l'Ombramacchina Patrono Potente\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Macchina",
+    "Pendulum",
+    "Effetto"
+  ]
+}

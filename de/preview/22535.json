@@ -1,0 +1,15 @@
+{
+  "id": 22535,
+  "type": "monster",
+  "name": "Konvexritter",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls sich ein Maschine-Monster auf dem Spielfeld und diese Karte in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung in die Verteidigungsposition beschwören, dann kannst du die Stufe dieser Karte gleich der Stufe / dem Rang von 1 Maschine-Monster auf dem Spielfeld werden lassen. Während deiner Main Phase: Du kannst 1 ERDE Maschine-Monster von deinem Deck auf den Friedhof legen, dann erhält diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 100. Du kannst jeden Effekt von „Konvexritter“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

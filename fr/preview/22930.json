@@ -1,0 +1,15 @@
+{
+  "id": 22930,
+  "type": "monster",
+  "name": "Reverie l'Officiante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est dans votre main : vous pouvez défausser 1 autre carte ; Invoquez Spécialement cette carte. Si un ou plusieurs Monstres Xyz sont envoyés au Cimetière, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte ; Invoquez Spécialement 1 monstre Zombie depuis votre Cimetière. Durant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez cibler 1 Monstre Xyz Zombie que vous contrôlez ; attachez-lui cette carte bannie. Vous ne pouvez utiliser chaque effet de \"Reverie l'Officiante\" qu'une fois par tour.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1100,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

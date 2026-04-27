@@ -1,0 +1,15 @@
+{
+  "id": 22513,
+  "type": "monster",
+  "name": "Roter Nova-Drache/Angriffsmodus",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss mit „Angriffsmodus aktivieren“ als Spezialbeschwörung beschworen werden. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst diese Karte, die du kontrollierst, bis zur End Phase verbannen; verbanne Karten, die dein Gegner kontrolliert, bis zur Anzahl der Empfänger in deinem Friedhof. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte, die du kontrollierst, bis zur End Phase verbannen; annulliere den Angriff, dann beende die Battle Phase. Falls diese Karte zerstört wird: Du kannst 1 „Roter Nova-Drache“ als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 12,
+  "atk": 4000,
+  "def": 3500,
+  "properties": [
+    "Drache",
+    "Effekt"
+  ]
+}

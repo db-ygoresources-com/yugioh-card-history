@@ -1,0 +1,16 @@
+{
+  "id": 22527,
+  "type": "monster",
+  "name": "Mimighul Blume",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "FLIPP: Falls es die Main Phase ist: Führe nacheinander diese Effekte aus.\n●Dein Gegner kann seiner Hand 1 Flippmonster oder 1 „Mimighul“-Karte von seinem Deck hinzufügen.\n●Übergib die Kontrolle über diese Karte an deinen Gegner.\nWährend deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand auf die Spielfeldseite deines Gegners in die verdeckte Verteidigungsposition beschwören oder falls ein verdecktes Monster auf dem Spielfeld liegt, kannst du diese Karte als Spezialbeschwörung offen auf deine Spielfeldseite beschwören. Du kannst jeden Effekt von „Mimighul Blume“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Pflanze",
+    "Flipp",
+    "Effekt"
+  ]
+}

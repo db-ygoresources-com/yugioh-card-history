@@ -1,0 +1,19 @@
+{
+  "id": 22539,
+  "type": "monster",
+  "name": "Archfiend Matriarch",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "You can Ritual Summon this card with \"Throne of the Archfiends\". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. If this card is Ritual Summoned: You can destroy as many Spells/Traps your opponent controls as possible, then if this card is in the Extra Monster Zone, you can banish all Spells/Traps from your opponent's GY. You can only use this effect of \"Archfiend Matriarch\" once per turn.",
+  "pendEffect": "You can target 1 \"Archfiend\" Spell/Trap in your GY or banishment; destroy this card, and if you do, add that target to your hand. You can only use this effect of \"Archfiend Matriarch\" once per turn.",
+  "pendScale": 9,
+  "level": 7,
+  "atk": 2100,
+  "def": 2900,
+  "properties": [
+    "Fiend",
+    "Ritual",
+    "Pendulum",
+    "Effect"
+  ]
+}

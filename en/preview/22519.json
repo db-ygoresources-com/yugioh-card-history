@@ -1,0 +1,18 @@
+{
+  "id": 22519,
+  "type": "monster",
+  "name": "Vidolium the Unstable Power Patron of Unity",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your Extra Deck or GY) by returning 3 monsters (1 Fusion, 1 Synchro, and 1 Xyz) from your face-up field and/or GY to the Extra Deck. Unaffected by monster effects, except \"Power Patron\" monsters. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn. If this card is Special Summoned: Banish (face-down) all cards in the GYs.",
+  "pendEffect": "You can activate 1 of these effects;\n●Destroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\n●Destroy this card, also for the rest of this turn, \"Power Patron\" monsters you control whose original Level is 12 gain 5000 ATK.\nYou can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn.",
+  "pendScale": 11,
+  "level": 12,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Fairy",
+    "Pendulum",
+    "Effect"
+  ]
+}

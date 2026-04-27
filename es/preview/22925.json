@@ -1,0 +1,18 @@
+{
+  "id": 22925,
+  "type": "monster",
+  "name": "Sombra el Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si tienes una carta en tu Zona de Péndulo y esta carta está en tu mano: puedes Invocar esta carta de Modo Especial. Puedes pagar 1000 LP; destruye 1 Carta de Monstruo de Péndulo en tu mano o Campo boca arriba, y después puedes añadir a tu Deck Extra boca arriba 1 Monstruo de Péndulo en tu Deck. Sólo puedes usar cada efecto de \"Sombra el Oscuro\" una vez por turno.",
+  "pendEffect": "No puedes Invocar por Péndulo, excepto Monstruos de Péndulo (este efecto no puede ser negado). Si uno o más monstruos con 1000 ATK o menos son Invocados de Modo Especial (excepto durante el Damage Step): puedes devolver esta carta a la mano. Sólo puedes usar este efecto de \"Sombra el Oscuro\" una vez por turno.",
+  "pendScale": 11,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hada",
+    "Péndulo",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 22550,
+  "type": "monster",
+  "name": "Canción Kewl Crujido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "\"Canción Kewl Corte\" + 1+ Cantantes\nSi esta carta es Invocada por Sincronía: puedes mirar el Deck Extra de tu adversario y, si lo haces, destierra (boca arriba) 1 carta de él (hasta la End Phase), y después puedes hacer que esta carta gane ATK igual al ATK de ese monstruo. Si esta carta Invocada por Sincronía es mandada al Cementerio: puedes Invocar esta carta de Modo Especial, y después puedes aplicar este efecto.\n●Mira el Deck Extra de tu adversario y destierra (boca arriba) 2 cartas de él hasta la End Phase.\nSólo puedes usar cada efecto de \"Canción Kewl Crujido\" una vez por turno.",
+  "level": 5,
+  "atk": 800,
+  "def": 2000,
+  "properties": [
+    "Trueno",
+    "Sincronía",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22518,
+  "type": "monster",
+  "name": "Longinephila Prédaplante",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 carte \"Prédap\" (\"Longinephila Prédaplante\" exclu) depuis votre Deck à votre main. Vous pouvez bannir cette carte depuis votre Cimetière, puis activez 1 de ces effets ;\n●Placez 1 Compteur Prédateur sur 1 monstre face recto sur le Terrain, et si vous le faites, chacun de ces monstres de min. Niveau 2 devient Niveau 1 tant qu'il a un Compteur Prédateur.\n●Posez 1 \"Polymérisation\" depuis votre Cimetière ou bannissement.\nVous ne pouvez utiliser chaque effet de \"Longinephila Prédaplante\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 600,
+  "def": 100,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22521,
+  "type": "monster",
+  "name": "Jupredo the Shademachine Power Patron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "(This card is always treated as a \"DoomZ\" card.)\nYou can banish the top 3 cards of your Deck, face-down; destroy this card, and if you do, Special Summon 1 \"Jupiter the Power Patron of Destruction\" from your Extra Deck (this is treated as an Xyz Summon), then you can attach 1 card from your hand to it. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" or \"DoomZ\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Jupredo the Shademachine Power Patron\" once per turn.",
+  "pendEffect": "During your Main Phase: You can destroy this card and 1 \"Power Patron\" or \"DoomZ\" monster in your hand or face-up field, then you can destroy 1 card on the field. You can only use this effect of \"Jupredo the Shademachine Power Patron\" once per turn.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Pendulum",
+    "Effect"
+  ]
+}

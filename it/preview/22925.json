@@ -1,0 +1,18 @@
+{
+  "id": 22925,
+  "type": "monster",
+  "name": "Shade l'Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se hai una carta nella tua Zona Pendulum e questa carta è nella tua mano: puoi Evocare Specialmente questa carta. Puoi pagare 1000 LP; distruggi 1 Carta Mostro Pendulum nella tua mano o Terreno scoperto, poi puoi aggiungere 1 Mostro Pendulum dal tuo Deck al tuo Extra Deck scoperto. Puoi utilizzare ogni effetto di \"Shade l'Oscuro\" una sola volta per turno.",
+  "pendEffect": "Non puoi Evocare Pendulum, eccetto Mostri Pendulum (questo effetto non può essere annullato). Se uno o più mostri con 1000 ATK o inferiore vengono Evocati Specialmente (eccetto durante il Damage Step): puoi far ritornare questa carta nella mano. Puoi utilizzare questo effetto di \"Shade l'Oscuro\" una sola volta per turno.",
+  "pendScale": 11,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fata",
+    "Pendulum",
+    "Effetto"
+  ]
+}

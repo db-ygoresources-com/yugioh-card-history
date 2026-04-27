@@ -1,0 +1,18 @@
+{
+  "id": 22519,
+  "type": "monster",
+  "name": "Vidolium le Mécène du Pouvoir Instable de l'Unité",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre Extra Deck ou Cimetière) en renvoyant 3 monstres (1 Fusion, 1 Synchro et 1 Xyz) depuis votre Terrain face recto et/ou Cimetière à l'Extra Deck. Non affectée par des effets de monstre (monstres \"Mécène du Pouvoir\" exclus). Si cette carte est ajoutée face recto à votre Extra Deck : vous pouvez ajouter 1 carte \"Mécène du Pouvoir\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Vidolium le Mécène du Pouvoir Instable de l'Unité\" qu'une fois par tour. Si cette carte est Invoquée Spécialement : bannissez (face verso) toutes les cartes dans les Cimetières.",
+  "pendEffect": "Vous pouvez activer 1 de ces effets ;\n●Détruisez cette carte, et si vous le faites, Invoquez Spécialement 1 monstre \"Mécène du Pouvoir\" depuis votre main ou Cimetière.\n●Détruisez cette carte, et aussi, les monstres \"Mécène du Pouvoir\" que vous contrôlez dont le Niveau d'origine est 12 gagnent 5000 ATK le reste de ce tour.\nVous ne pouvez utiliser cet effet de \"Vidolium le Mécène du Pouvoir Instable de l'Unité\" qu'une fois par tour.",
+  "pendScale": 11,
+  "level": 12,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

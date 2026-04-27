@@ -1,0 +1,16 @@
+{
+  "id": 22543,
+  "type": "monster",
+  "name": "Narratrice di Codafavola",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 mostro LUCE \"Codafavola\" + 1 mostro Incantatore\nI mostri \"Codafavola\" che controlli non possono essere distrutti in battaglia. Puoi utilizzare ognuno dei seguenti effetti di \"Narratrice di Codafavola\" una sola volta per turno. Se questa carta viene Evocata tramite Fusione utilizzando \"Principe delle Fate\" come materiale: puoi distruggere tante carte controllate dal tuo avversario quante possibile e, se lo fai, infliggi 500 danni al tuo avversario per ogni carta distrutta. Quando il tuo avversario attiva una carta o un effetto (Effetto Rapido): puoi bandire 1 carta \"Codafavola\" dalla tua mano o Cimitero; annulla l'attivazione e, se lo fai, distruggi quella carta.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Fusione",
+    "Effetto"
+  ]
+}

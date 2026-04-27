@@ -1,0 +1,18 @@
+{
+  "id": 22522,
+  "type": "monster",
+  "name": "Junoldo der Schattengeist-Machtpatron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „Elfnote“-Karte behandelt.)\nDu kannst die obersten 3 Karten deines Decks verdeckt verbannen; zerstöre diese Karte und falls du dies tust, beschwöre 1 „Junora der Machtpatron der Abstimmung“ als Spezialbeschwörung von deinem Extra Deck (dies wird als Synchrobeschwörung behandelt). Falls diese Karte deinem Extra Deck offen hinzugefügt wird: Du kannst deiner Hand 1 „Machtpatron“- oder „Elfnote“-Karte offen von deinem Extra Deck oder von deinem Friedhof hinzufügen, außer „Junoldo der Schattengeist-Machtpatron“. Du kannst jeden Effekt von „Junoldo der Schattengeist-Machtpatron“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls ein oder mehr „Machtpatron“- oder „Elfnote“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange diese Karte in deiner Pendelzone liegt (außer während des Damage Steps): Du kannst diese Karte zerstören und falls du dies tust, ziehe 2 Karten, dann wirf 1 Karte ab. Du kannst diesen Effekt von „Junoldo der Schattengeist-Machtpatron“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Unterweltler",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22540,
+  "type": "monster",
+  "name": "Hungergift-Flügeldrache",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Fusionsmonster + 1 „Glasflügel“-Monster\nEinmal pro Spielzug, falls dein Gegner ein oder mehr Monster offen als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 von ihnen wählen; diese Karte erhält ATK in Höhe der ATK jenes Monsters und falls sie dies tut, werden die Effekte jenes Monsters annulliert. Diese Änderungen dauern bis zum Ende dieses Spielzugs an. Einmal pro Spielzug, wenn eine andere Karte oder ihr Effekt auf dem Spielfeld aktiviert wird (Schnelleffekt): Du kannst 1 Karte auf dem Spielfeld zerstören. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Jedes Mal, wenn ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden, lege 1 Raubtier-Zählmarke darauf und falls sie Stufe 2 oder höher sind, werden sie zu Stufe 1, solange sie eine Raubtier-Zählmarke haben.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Drache",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

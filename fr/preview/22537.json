@@ -1,0 +1,16 @@
+{
+  "id": 22537,
+  "type": "monster",
+  "name": "TASSE DE RÉVEIL ! Kuro",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "FLIP : Vous pouvez cibler 1 autre monstre face recto sur le Terrain ; changez-le en Position de Défense face verso.\nVous pouvez révéler cette carte dans votre main ; ajoutez 1 monstre Flip VENT (\"TASSE DE RÉVEIL ! Kuro\" exclu) depuis votre Deck à votre main, puis défaussez 1 carte. (Effet Rapide) : vous pouvez cibler 1 monstre en Position de Défense face verso sur le Terrain ; changez-le en Position de Défense face recto. Vous ne pouvez utiliser chaque effet de \"TASSE DE RÉVEIL ! Kuro\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 400,
+  "def": 2700,
+  "properties": [
+    "Aqua",
+    "Flip",
+    "Effet"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22520,
+  "type": "monster",
+  "name": "Nervedo, o Patrono do Poder Besta Sombria",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "(Este card deve ser sempre considerado como um card \"Artmage\".)\nVocê pode banir os 3 cards do topo do seu Deck, com a face para baixo; destrua este card e, se isso acontecer, Invoque por Invocação-Especial 1 \"Nerva, a Patrona do Poder da Criação\" do seu Deck Adicional (isso é considerado uma Invocação-Fusão). Se este card for adicionado ao seu Deck Adicional com a face para cima: você pode Invocar por Invocação-Especial 1 monstro \"Patrono(a) do Poder\" ou \"Artmage\" do seu Deck ou Deck Adicional com a face para cima, exceto \"Nervedo, o Patrono do Poder Besta Sombria\". Você só pode usar cada efeito de \"Nervedo, o Patrono do Poder Besta Sombria\" uma vez por turno.",
+  "pendEffect": "Você pode negar um efeito de monstro ativado pelo seu oponente em resposta à ativação de um efeito de monstro \"Patrono(a) do Poder\" ou \"Artmage\" e, depois, destrua este card. Você só pode usar este efeito de \"Nervedo, o Patrono do Poder Besta Sombria\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Ilusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22924,
+  "type": "monster",
+  "name": "Fata Dragna",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "2 monstros com o mesmo Tipo e Atributo, mas Níveis diferentes\nSeu oponente não pode escolher Monstros de Fusão que você controla como alvo de efeitos de card. Se este card for enviado para o Cemitério como matéria para uma Invocação-Fusão: você pode Invocar por Invocação-Especial 1 Monstro de Fusão do seu Deck Adicional em Posição de Defesa (mas negue seus efeitos e, além disso, devolva-o para o Deck Adicional durante a Fase Final) e, além disso, pelo resto deste turno, você não pode Invocar por Invocação-Especial do Deck Adicional, exceto Monstros de Fusão. Você só pode usar este efeito de \"Fata Dragna\" uma vez por turno.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Dragão",
+    "Fusão",
+    "Efeito"
+  ]
+}

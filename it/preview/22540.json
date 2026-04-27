@@ -1,0 +1,19 @@
+{
+  "id": 22540,
+  "type": "monster",
+  "name": "Drago Ala Veleno Affamato",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "1 Mostro Fusione + 1 mostro \"Ala Chiara\"\nUna volta per turno, se il tuo avversario Evoca Specialmente uno o più mostri scoperti (eccetto durante il Damage Step): puoi scegliere 1 di essi come bersaglio; questa carta guadagna ATK pari all'ATK di quel mostro e, se lo fa, gli effetti di quel mostro sono annullati. Questi cambi durano fino alla fine di questo turno. Una volta per turno, quando un'altra carta o un suo effetto viene attivato sul Terreno (Effetto Rapido): puoi distruggere 1 carta sul Terreno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "pendEffect": "Ogni volta che uno o più mostri vengono Evocati Specialmente sul Terreno del tuo avversario, metti 1 Segnalino Predatore su di essi e, se sono di Livello 2 o superiore, essi diventano di Livello 1 fino a quando hanno un Segnalino Predatore.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Drago",
+    "Fusione",
+    "Pendulum",
+    "Effetto"
+  ]
+}

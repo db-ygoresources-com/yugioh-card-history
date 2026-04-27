@@ -1,0 +1,18 @@
+{
+  "id": 22521,
+  "type": "monster",
+  "name": "Jupredo der Schattenmaschinen-Machtpatron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "(Diese Karte wird immer als „UntergangZ“-Karte behandelt.)\nDu kannst die obersten 3 Karten deines Decks verdeckt verbannen; zerstöre diese Karte und falls du dies tust, beschwöre 1 „Jupiter der Machtpatron der Zerstörung“ als Spezialbeschwörung von deinem Extra Deck (dies wird als Xyz-Beschwörung behandelt), dann kannst du 1 Karte von deiner Hand daran anhängen. Falls diese Karte deinem Extra Deck offen hinzugefügt wird: Du kannst deiner Hand 1 „Machtpatron“- oder „UntergangZ“-Zauber/Falle von deinem Deck hinzufügen. Du kannst jeden Effekt von „Jupredo der Schattenmaschinen-Machtpatron“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte und 1 „Machtpatron“- oder „UntergangZ“-Monster in deiner Hand oder offen auf deiner Spielfeldseite zerstören, dann kannst du 1 Karte auf dem Spielfeld zerstören. Du kannst diesen Effekt von „Jupredo der Schattenmaschinen-Machtpatron“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Maschine",
+    "Pendel",
+    "Effekt"
+  ]
+}

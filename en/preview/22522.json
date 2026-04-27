@@ -1,0 +1,18 @@
+{
+  "id": 22522,
+  "type": "monster",
+  "name": "Junoldo the Shadespirit Power Patron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "(This card is always treated as an \"Elfnote\" card.)\nYou can banish the top 3 cards of your Deck, face-down; destroy this card, and if you do, Special Summon 1 \"Junora the Power Patron of Tuning\" from your Extra Deck (this is treated as a Synchro Summon). If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" or \"Elfnote\" card from your face-up Extra Deck or GY to your hand, except \"Junoldo the Shadespirit Power Patron\". You can only use each effect of \"Junoldo the Shadespirit Power Patron\" once per turn.",
+  "pendEffect": "If a \"Power Patron\" or \"Elfnote\" monster(s) is Special Summoned to your field, while this card is in your Pendulum Zone (except during the Damage Step): You can destroy this card, and if you do, draw 2 cards, then discard 1 card. You can only use this effect of \"Junoldo the Shadespirit Power Patron\" once per turn.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Fiend",
+    "Pendulum",
+    "Effect"
+  ]
+}

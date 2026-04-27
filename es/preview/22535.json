@@ -1,0 +1,15 @@
+{
+  "id": 22535,
+  "type": "monster",
+  "name": "Caballero Convexo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si un monstruo Máquina está en el Campo y esta carta está en tu mano: puedes Invocar esta carta de Modo Especial en Posición de Defensa, y después puedes hacer que el Nivel de esta carta se convierta en el Nivel/Rango de 1 monstruo Máquina en el Campo. Durante tu Main Phase: puedes mandar al Cementerio 1 monstruo Máquina de TIERRA en tu Deck y después, hasta el final de este turno, esta carta gana ATK igual al Nivel del monstruo mandado al Cementerio x 100. Sólo puedes usar cada efecto de \"Caballero Convexo\" una vez por turno.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

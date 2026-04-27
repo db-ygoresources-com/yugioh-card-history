@@ -1,0 +1,16 @@
+{
+  "id": 22518,
+  "type": "monster",
+  "name": "Raubpflanze Longinephila",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Raubp“-Karte von deinem Deck hinzufügen, außer „Raubpflanze Longinephila“. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 dieser Effekte aktivieren;\n●Lege 1 Raubtier-Zählmarke auf 1 offenes Monster auf dem Spielfeld und falls du dies tust, werden alle jener Monster, die Stufe 2 oder höher sind, zu Stufe 1, solange sie eine Raubtier-Zählmarke haben.\n●Setze 1 „Polymerisation“ von deinem Friedhof oder deinen verbannten Karten.\nDu kannst jeden Effekt von „Raubpflanze Longinephila“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 600,
+  "def": 100,
+  "properties": [
+    "Pflanze",
+    "Empfänger",
+    "Effekt"
+  ]
+}

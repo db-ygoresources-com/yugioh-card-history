@@ -1,0 +1,16 @@
+{
+  "id": 22527,
+  "type": "monster",
+  "name": "Fleur Mimigoule",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "FLIP : Si c'est la Main Phase : appliquez ces effets dans l'ordre.\n●Votre adversaire peut ajouter 1 monstre Flip ou 1 carte \"Mimigoule\" depuis son Deck à sa main.\n●Donnez le contrôle de cette carte à votre adversaire.\nDurant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main sur le Terrain de votre adversaire en Position de Défense face verso, ou si un monstre face verso est sur le Terrain, vous pouvez Invoquer Spécialement face recto cette carte sur votre Terrain. Vous ne pouvez utiliser chaque effet de \"Fleur Mimigoule\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 0,
+  "def": 2100,
+  "properties": [
+    "Plante",
+    "Flip",
+    "Effet"
+  ]
+}

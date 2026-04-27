@@ -1,0 +1,18 @@
+{
+  "id": 22925,
+  "type": "monster",
+  "name": "Ombre l'Obscur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si vous avez une carte dans votre Zone Pendule et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte. Vous pouvez payer 1000 LP ; détruisez 1 Carte Monstre Pendule dans votre main ou Terrain face recto, puis vous pouvez ajouter 1 Monstre Pendule depuis votre Deck à votre Extra Deck face recto. Vous ne pouvez utiliser chaque effet de \"Ombre l'Obscur\" qu'une fois par tour.",
+  "pendEffect": "Vous ne pouvez pas Invoquer par Pendulation (Monstres Pendule exclus) (cet effet ne peut pas être annulé). Si un ou plusieurs monstres avec max. 1000 ATK sont Invoqués Spécialement (sauf durant la Damage Step) : vous pouvez renvoyer cette carte à la main. Vous ne pouvez utiliser cet effet de \"Ombre l'Obscur\" qu'une fois par tour.",
+  "pendScale": 11,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Elfe",
+    "Pendule",
+    "Effet"
+  ]
+}

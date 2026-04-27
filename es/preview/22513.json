@@ -1,0 +1,15 @@
+{
+  "id": 22513,
+  "type": "monster",
+  "name": "Dragón de Nova Roja/Modo de Ataque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial con \"Activar Modo de Ataque\". Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes desterrar esta carta que controlas hasta la End Phase; destierra cartas que controle tu adversario hasta el número de Cantantes en tu Cementerio. Cuando un monstruo del adversario declara un ataque: puedes desterrar esta carta que controlas hasta la End Phase; niega el ataque, y después termina la Battle Phase. Si esta carta es destruida: puedes Invocar de Modo Especial 1 \"Dragón de Nova Roja\" desde tu Cementerio.",
+  "level": 12,
+  "atk": 4000,
+  "def": 3500,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

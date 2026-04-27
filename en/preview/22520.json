@@ -1,0 +1,18 @@
+{
+  "id": 22520,
+  "type": "monster",
+  "name": "Nervedo the Shadebeast Power Patron",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "(This card is always treated as an \"Artmage\" card.)\nYou can banish the top 3 cards of your Deck, face-down; destroy this card, and if you do, Special Summon 1 \"Nerva the Power Patron of Creation\" from your Extra Deck (this is treated as a Fusion Summon). If this card is added to your Extra Deck face-up: You can Special Summon 1 \"Power Patron\" or \"Artmage\" monster from your Deck or face-up Extra Deck, except \"Nervedo the Shadebeast Power Patron\". You can only use each effect of \"Nervedo the Shadebeast Power Patron\" once per turn.",
+  "pendEffect": "You can negate a monster effect activated by your opponent in response to the activation of a \"Power Patron\" or \"Artmage\" monster effect, then destroy this card. You can only use this effect of \"Nervedo the Shadebeast Power Patron\" once per turn.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Illusion",
+    "Pendulum",
+    "Effect"
+  ]
+}

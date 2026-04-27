@@ -1,0 +1,15 @@
+{
+  "id": 22514,
+  "type": "monster",
+  "name": "Guerrero Sónico de Ataque",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si controlas \"Guerrero de Basura\", \"Activar Modo de Ataque\" o una carta que mencione cualquiera de esas cartas: puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Sincrón\" (o \"Sincronizador\") o 1 \"Activar Modo de Ataque\" en tu Deck. Si esta carta es mandada al Cementerio como Material de Sincronía: puedes hacer que todos los monstruos que controlas ganen 500 ATK, por el resto de este turno. Sólo puedes usar cada efecto de \"Guerrero Sónico de Ataque\" una vez por turno.",
+  "level": 2,
+  "atk": 1000,
+  "def": 0,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22522,
+  "type": "monster",
+  "name": "Junoldo l'Ombraspirito Patrono Potente",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "(Questa carta viene sempre considerata come una carta \"Elfnote\".)\nPuoi bandire le prime 3 carte del tuo Deck, coperte; distruggi questa carta e, se lo fai, Evoca Specialmente 1 \"Junora il Patrono Potente della Sintonizzazione\" dal tuo Extra Deck (questa viene considerata come una Synchro Evocazione). Se questa carta viene aggiunta al tuo Extra Deck scoperta: puoi aggiungere 1 carta \"Patrono Potente\" o \"Elfnote\" dal tuo Extra Deck scoperto o Cimitero alla tua mano, eccetto \"Junoldo l'Ombraspirito Patrono Potente\". Puoi utilizzare ogni effetto di \"Junoldo l'Ombraspirito Patrono Potente\" una sola volta per turno.",
+  "pendEffect": "Se uno o più mostri \"Patrono Potente\" o \"Elfnote\" vengono Evocati Specialmente sul tuo Terreno, mentre questa carta è nella tua Zona Pendulum (eccetto durante il Damage Step): puoi distruggere questa carta e, se lo fai, pesca 2 carte, poi scarta 1 carta. Puoi utilizzare questo effetto di \"Junoldo l'Ombraspirito Patrono Potente\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demone",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22540,
+  "type": "monster",
+  "name": "Dragón Alado Hambriento Venenoso",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Monstruo de Fusión + 1 monstruo \"Ala Transparente\"\nUna vez por turno, si tu adversario Invoca de Modo Especial uno o más monstruos boca arriba (excepto durante el Damage Step): puedes seleccionar 1 de ellos; esta carta gana ATK igual al ATK de ese monstruo y, si lo hace, los efectos de ese monstruo son negados. Estos cambios duran hasta el final de este turno. Una vez por turno, cuando otra carta o su efecto es activado en el Campo (Efecto Rápido): puedes destruir 1 carta en el Campo. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Cada vez que uno o más monstruos son Invocados de Modo Especial al Campo de tu adversario, pon 1 Contador de Predador en él y, si es de Nivel 2 o mayor, éste se convierte en Nivel 1 mientras tenga un Contador de Predador.",
+  "pendScale": 10,
+  "level": 10,
+  "atk": 3300,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

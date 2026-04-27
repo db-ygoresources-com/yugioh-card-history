@@ -1,0 +1,15 @@
+{
+  "id": 22930,
+  "type": "monster",
+  "name": "Zeremonienleitende Reverie",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 andere Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung. Falls ein oder mehr Xyz-Monster auf den Friedhof gelegt werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte verbannen; beschwöre 1 Zombie-Monster als Spezialbeschwörung von deinem Friedhof. Während der Standby Phase des nächsten Spielzugs, nachdem diese Karte verbannt wurde: Du kannst 1 Zombie-Xyz-Monster wählen, das du kontrollierst; hänge diese verbannte Karte daran an. Du kannst jeden Effekt von „Zeremonienleitende Reverie“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 2000,
+  "def": 1100,
+  "properties": [
+    "Zombie",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22519,
+  "type": "monster",
+  "name": "Vidolium der instabile Machtpatron der Einheit",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deinem Extra Deck oder Friedhof) beschworen werden, indem du 3 Monster (1 Fusion, 1 Synchro und 1 Xyz) offen von deiner Spielfeldseite und/oder von deinem Friedhof ins Extra Deck zurücklegst. Bleibt von Monstereffekten unberührt, außer von „Machtpatron“-Monstern. Falls diese Karte deinem Extra Deck offen hinzugefügt wird: Du kannst deiner Hand 1 „Machtpatron“-Karte von deinem Deck hinzufügen. Du kannst diesen Effekt von „Vidolium der instabile Machtpatron der Einheit“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Verbanne alle Karten von den Friedhöfen (verdeckt).",
+  "pendEffect": "Du kannst 1 dieser Effekte aktivieren;\n●Zerstöre diese Karte und falls du dies tust, beschwöre 1 „Machtpatron“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof.\n●Zerstöre diese Karte, zusätzlich erhalten „Machtpatron“-Monster, die du kontrollierst und deren Grund-Stufe 12 ist, für den Rest dieses Spielzugs 5000 ATK.\nDu kannst diesen Effekt von „Vidolium der instabile Machtpatron der Einheit“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 11,
+  "level": 12,
+  "atk": 5000,
+  "def": 0,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

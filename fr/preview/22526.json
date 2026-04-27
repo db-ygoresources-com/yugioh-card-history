@@ -1,0 +1,15 @@
+{
+  "id": 22526,
+  "type": "monster",
+  "name": "Familiers de l'Art Spirituel",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Familier Possédé\".)\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Possédé\" ou 1 \"Ichirin, Grande Artiste Spirituelle\" depuis votre Deck à votre main. Vous pouvez déclarer 1 Type de Monstre et 1 Attribut ; jusqu'à la fin de ce tour, cette carte devient ce Type et Attribut. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre Magicien avec 1500 DEF depuis votre Deck ou Cimetière. Vous ne pouvez utiliser chaque effet de \"Familiers de l'Art Spirituel\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1500,
+  "def": 200,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

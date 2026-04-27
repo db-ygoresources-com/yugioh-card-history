@@ -1,0 +1,18 @@
+{
+  "id": 22925,
+  "type": "monster",
+  "name": "Schatten der Unberühmte",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls du eine Karte in deiner Pendelzone hast und sich diese Karte in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst 1000 LP zahlen; zerstöre 1 Pendelmonsterkarte in deiner Hand oder offen auf deiner Spielfeldseite, dann kannst du deinem Extra Deck 1 Pendelmonster von deinem Deck offen hinzufügen. Du kannst jeden Effekt von „Schatten der Unberühmte“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Du kannst keine Pendelbeschwörungen durchführen, außer von Pendelmonstern (dieser Effekt kann nicht annulliert werden). Falls ein oder mehr Monster mit 1000 oder weniger ATK als Spezialbeschwörung beschworen werden (außer während des Damage Steps): Du kannst diese Karte auf die Hand zurückgeben. Du kannst diesen Effekt von „Schatten der Unberühmte“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 11,
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Fee",
+    "Pendel",
+    "Effekt"
+  ]
+}

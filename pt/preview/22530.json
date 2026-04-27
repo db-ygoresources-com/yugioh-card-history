@@ -1,0 +1,19 @@
+{
+  "id": 22530,
+  "type": "monster",
+  "name": "Eneanave - Atil.SPIA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Depois que este card foi virado com a face para cima, enquanto ele estiver na Zona de Monstros, seu oponente não pode ativar cards ou efeitos em resposta à ativação dos cards ou efeitos dele. Quando seu oponente ativar um card ou efeito como Elo de Corrente 3 ou mais (Efeito Rápido): você pode colocar este card que estiver com a face para baixo, com a face para cima em Posição de Defesa; negue a ativação dos cards e efeitos do seu oponente ativados antes deste card nesta Corrente e, se isso acontecer, destrua-os. Você pode revelar este card na sua mão; Invoque por Invocação-Especial 1 monstro da sua mão com a face para baixo em Posição de Defesa. Você não pode Invocar por Invocação-Especial no turno em que ativar este efeito, exceto com a face para baixo em Posição de Defesa.",
+  "pendEffect": "Sempre que um ou mais monstros forem virados com a face para cima, coloque 1 Marcador de E.N. neste card. No final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente controla com ATK menor que o deste card; destrua-o.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Pêndulo",
+    "Virar",
+    "Efeito"
+  ]
+}

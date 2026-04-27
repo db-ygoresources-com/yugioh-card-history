@@ -1,0 +1,15 @@
+{
+  "id": 22535,
+  "type": "monster",
+  "name": "Chevalier Convexe",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un monstre Machine est sur le Terrain et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte en Position de Défense, puis vous pouvez faire devenir le Niveau de cette carte le Niveau/Rang d'1 monstre Machine sur le Terrain. Durant votre Main Phase : vous pouvez envoyer 1 monstre TERRE Machine depuis votre Deck au Cimetière, puis jusqu'à la fin de ce tour, cette carte gagne une ATK égale au Niveau du monstre envoyé au Cimetière x 100. Vous ne pouvez utiliser chaque effet de \"Chevalier Convexe\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

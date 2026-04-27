@@ -1,0 +1,19 @@
+{
+  "id": 22530,
+  "type": "monster",
+  "name": "Eneagranave - Atil.SPIA",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Después de que esta carta fuera volteada boca arriba, mientras está en la Zona de Monstruos, tu adversario no puede activar cartas o efectos en respuesta a la activación de su carta o efecto. Cuando tu adversario activa una carta o efecto como Eslabón de Cadena 3 o mayor (Efecto Rápido): puedes cambiar esta carta boca abajo a Posición de Defensa boca arriba; niega la activación de las cartas y efectos de tu adversario activados antes que esta carta en esta Cadena y, si lo haces, destrúyelos. Puedes mostrar esta carta en tu mano; Invoca 1 monstruo de Modo Especial desde tu mano en Posición de Defensa boca abajo. No puedes Invocar de Modo Especial el turno en el que actives este efecto, excepto en Posición de Defensa boca abajo.",
+  "pendEffect": "Cada vez que uno o más monstruos son volteados boca arriba, pon 1 Contador E.N. en esta carta. Al final de la Battle Phase, si tienes una carta \"Eneagranave\" en tu otra Zona de Péndulo: puedes seleccionar 1 monstruo que controle tu adversario con menos ATK que esta carta; destrúyelo.",
+  "pendScale": 0,
+  "level": 9,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Máquina",
+    "Péndulo",
+    "Volteo",
+    "Efecto"
+  ]
+}

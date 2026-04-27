@@ -1,0 +1,15 @@
+{
+  "id": 22926,
+  "type": "monster",
+  "name": "Baleine VIP",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Sacrifier des monstres supplémentaires lorsque vous Invoquez par Sacrifice face recto cette carte. Si cette carte est Invoquée par Sacrifice : vous pouvez placer un nombre de Compteurs VIP sur cette carte, égal au nombre de monstres Sacrifiés pour son Invocation Sacrifice. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez retirer 1 Compteur VIP de cette carte ; jouez à pile ou face. Si vous gagnez, annulez l'effet. Si vous perdez, l'ATK d'origine de cette carte sera divisée par deux jusqu'à la fin de ce tour.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Poisson",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22926,
+  "type": "monster",
+  "name": "VIP-Wal",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst zusätzliche Monster als Tribut anbieten, wenn du diese Karte offen als Tributbeschwörung beschwörst. Falls diese Karte als Tributbeschwörung beschworen wird: Du kannst VIP-Zählmarken in Höhe der Anzahl der Monster, die als Tribut für ihre Tributbeschwörung angeboten wurden, auf diese Karte legen. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 VIP-Zählmarke von dieser Karte entfernen; wirf eine Münze und sage das Ergebnis voraus. Falls du richtig vorausgesagt hast, annulliere jenen Effekt. Falls du falsch vorausgesagt hast, werden die Grund-ATK dieser Karte bis zum Ende dieses Spielzugs halbiert.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Fisch",
+    "Effekt"
+  ]
+}

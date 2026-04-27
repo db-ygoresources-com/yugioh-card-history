@@ -1,0 +1,18 @@
+{
+  "id": 22522,
+  "type": "monster",
+  "name": "Junoldo el Espíritu Sombra Modelo de Poder",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "(Esta carta se trata siempre como una carta \"Elfnota\").\nPuedes desterrar las 3 cartas de la parte superior de tu Deck, boca abajo; destruye esta carta y, si lo haces, Invoca de Modo Especial 1 \"Junora el Modelo de Poder de Afinación\" desde tu Deck Extra (esto se trata como una Invocación por Sincronía). Si esta carta es añadida a tu Deck Extra boca arriba: puedes añadir a tu mano 1 carta \"Modelo de Poder\" o \"Elfnota\" en tu Deck Extra boca arriba o Cementerio, excepto \"Junoldo el Espíritu Sombra Modelo de Poder\". Sólo puedes usar cada efecto de \"Junoldo el Espíritu Sombra Modelo de Poder\" una vez por turno.",
+  "pendEffect": "Si uno o más monstruos \"Modelo de Poder\" o \"Elfnota\" son Invocados de Modo Especial a tu Campo, mientras esta carta está en tu Zona de Péndulo (excepto durante el Damage Step): puedes destruir esta carta y, si lo haces, roba 2 cartas, y después descarta 1 carta. Sólo puedes usar este efecto de \"Junoldo el Espíritu Sombra Modelo de Poder\" una vez por turno.",
+  "pendScale": 1,
+  "level": 10,
+  "atk": 300,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Péndulo",
+    "Efecto"
+  ]
+}

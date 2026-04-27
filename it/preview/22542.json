@@ -1,0 +1,16 @@
+{
+  "id": 22542,
+  "type": "monster",
+  "name": "Tessitrice di Codafavola",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1 mostro \"Codafavola\" + 1 mostro Incantatore\nTutti i \"Principe delle Fate\" sul Terreno diventano mostri Incantatore. Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro \"Codafavola\" dal tuo Deck o carte bandite. Puoi utilizzare questo effetto di \"Tessitrice di Codafavola\" una sola volta per turno. Se Evochi Normalmente o Specialmente un mostro \"Codafavola\" non-TERRA, mentre questa carta è nella tua Zona Mostri (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 Mostro con Effetto controllato dal tuo avversario; annulla i suoi effetti, inoltre il suo nome diventa \"Principe delle Fate\".",
+  "level": 4,
+  "atk": 1850,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Fusione",
+    "Effetto"
+  ]
+}

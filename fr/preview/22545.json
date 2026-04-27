@@ -1,0 +1,16 @@
+{
+  "id": 22545,
+  "type": "monster",
+  "name": "Le Roi Cramoisi",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ monstre non-Syntoniseur TÉNÈBRES\nSi cette carte est Invoquée par Synchronisation : vous pouvez ajouter 1 carte qui mentionne \"Dragon Rouge Archdémon\" depuis votre Deck à votre main. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez bannir cette carte que vous contrôlez ; Invoquez Spécialement 1 \"Dragon Rouge Archdémon\" depuis votre Extra Deck (ceci est traité comme Invocation Synchro), et si vous le faites, son ATK sera doublée, et aussi, il ne peut pas être détruit par des effets de carte de votre adversaire. Vous ne pouvez utiliser chaque effet de \"Le Roi Cramoisi\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

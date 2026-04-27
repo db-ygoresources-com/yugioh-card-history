@@ -1,0 +1,15 @@
+{
+  "id": 22513,
+  "type": "monster",
+  "name": "Dragão Vermelho Nova/Modo de Ataque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial com \"Ativar Modo de Ataque\". Quando seu oponente ativar um card ou efeito (Efeito Rápido): você pode banir este card que você controla até a Fase Final; bana cards que seu oponente controla até o número de Reguladores no seu Cemitério. Quando um monstro do oponente declarar um ataque: você pode banir este card que você controla até a Fase Final; negue o ataque e, depois, encerre a Fase de Batalha. Se este card for destruído: você pode Invocar por Invocação-Especial 1 \"Dragão Vermelho Nova\" do seu Cemitério.",
+  "level": 12,
+  "atk": 4000,
+  "def": 3500,
+  "properties": [
+    "Dragão",
+    "Efeito"
+  ]
+}
