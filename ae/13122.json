@@ -1,0 +1,19 @@
+{
+  "id": 13122,
+  "type": "monster",
+  "name": "Odd-Eyes Wing Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "1 DARK Tuner + 1 non-Tuner \"Clear Wing\" monster\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone. You can only use 1 of the following effects of \"Odd-Eyes Wing Dragon\" per turn, and only once that turn.\n●You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn.\n●During the Battle Phase, if you control this Synchro Summoned card (Quick Effect): You can destroy all Level 5 or higher monsters your opponent controls.",
+  "pendEffect": "Once per turn, before damage calculation, if your monster battles an opponent's monster: You can make your monster gain ATK equal to the opponent's monster's ATK, until the end of the Damage Step.",
+  "pendScale": 10,
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Pendulum",
+    "Effect"
+  ]
+}
