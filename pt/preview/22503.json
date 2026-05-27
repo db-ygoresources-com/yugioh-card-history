@@ -1,0 +1,10 @@
+{
+  "id": 22503,
+  "type": "spell",
+  "name": "Vantagem do Primeiro Atacante",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Uma vez por turno, quando um ataque for declarado envolvendo um monstro seu: você pode lançar um dado de seis faces e aplicar este efeito ao seu monstro de acordo com o resultado, até o final deste turno. Se os dois monstros estavam na mesma coluna quando este efeito foi ativado, selecione o efeito em vez de lançar o dado.\n●1 ou 4: Na primeira vez que ele seria destruído em batalha ou por um efeito de card, ele não é destruído.\n●2 ou 5: Ele perde 500 de ATK e, além disso, ele não é afetado por efeitos ativados de Magias/Armadilhas, exceto \"Vantagem do Primeiro Atacante\".\n●3 ou 6: Ele ganha 1000 de ATK e, além disso, ele pode realizar até 2 ataques contra monstros durante cada Fase de Batalha.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Contínua"
+}

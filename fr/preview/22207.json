@@ -1,0 +1,16 @@
+{
+  "id": 22207,
+  "type": "monster",
+  "name": "Meshachrer Marionnette de l'Ombre El",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Marionnette de l'Ombre\" + 1 monstre TÉNÈBRES + 1 monstre TERRE\nUniquement Invocable par Fusion. Non affectée par les effets de Magie/Piège activés de votre adversaire et les effets activés des monstres de votre adversaire dont le Niveau/Rang d'origine est inférieur au Niveau de cette carte. Une fois par tour : vous pouvez payer 800 LP ; ajoutez 1 carte \"Marionnette de l'Ombre\" ou 1 Magie/Piège \"du Vide\" depuis votre Deck à votre main. Si cette carte est envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre \"Marionnette de l'Ombre\" depuis votre Cimetière.",
+  "level": 10,
+  "atk": 2800,
+  "def": 1000,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Effet"
+  ]
+}

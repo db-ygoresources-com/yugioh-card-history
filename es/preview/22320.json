@@ -1,0 +1,15 @@
+{
+  "id": 22320,
+  "type": "monster",
+  "name": "Genni, la Criada de Endimión",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "(Esta carta se trata siempre como una carta \"Artibruja\").\nSi controlas un monstruo Lanzador de Conjuros y esta carta está en tu mano: puedes Invocar esta carta de Modo Especial. Durante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo Lanzador de Conjuros que controles; destiérralo y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Artibruja\", excepto \"Genni, la Criada de Endimión\". Sólo puedes usar cada efecto de \"Genni, la Criada de Endimión\" una vez por turno.",
+  "level": 1,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

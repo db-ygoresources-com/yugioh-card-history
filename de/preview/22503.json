@@ -1,0 +1,10 @@
+{
+  "id": 22503,
+  "type": "spell",
+  "name": "Vorteil des Erstschlags",
+  "englishAttribute": "spell",
+  "localizedAttribute": "ZAUBER",
+  "effectText": "Einmal pro Spielzug, wenn ein Angriff deklariert wird, an dem dein Monster beteiligt ist: Du kannst einen sechsseitigen Würfel werfen und diesen Effekt bis zum Ende dieses Spielzugs auf dein Monster anwenden, basierend auf dem Ergebnis. Falls beide Monster in derselben Spalte lagen, als dieser Effekt aktiviert wurde, bestimme den Effekt, anstatt einen Würfel zu werfen.\n●1 oder 4: Das erste Mal, dass es durch Kampf oder einen Karteneffekt zerstört würde, wird es nicht zerstört.\n●2 oder 5: Es verliert 500 ATK, zusätzlich bleibt es von aktivierten Zauber-/Falleneffekten unberührt, außer von „Vorteil des Erstschlags“.\n●3 oder 6: Es erhält 1000 ATK, zusätzlich kann es während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Permanent"
+}

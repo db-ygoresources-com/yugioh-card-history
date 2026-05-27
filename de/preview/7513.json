@@ -1,0 +1,15 @@
+{
+  "id": 7513,
+  "type": "monster",
+  "name": "Toxische Viper",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte in deiner Hand vorzeigen; beschwöre sie als Spezialbeschwörung oder falls dein Gegner keine Monster kontrolliert, beschwöre sie stattdessen als Spezialbeschwörung auf seine Spielfeldseite in die Verteidigungsposition. Einmal pro Spielzug, während deiner Standby Phase: Du erhältst 500 Schaden. Falls diese Karte durch einen Karteneffekt verbannt oder auf den Friedhof gelegt wird: Du kannst 1 gesetzte/n Zauber/Falle wählen, den oder die dein Gegner kontrolliert; zerstöre ihn oder sie. Dein Gegner kann jene Karte nicht als Reaktion auf die Aktivierung dieses Effekts aktivieren. Du kannst diesen Effekt von „Toxische Viper“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Reptil",
+    "Effekt"
+  ]
+}

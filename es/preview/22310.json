@@ -1,0 +1,15 @@
+{
+  "id": 22310,
+  "type": "monster",
+  "name": "Maestro de Basura",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta está en tu mano: puedes mostrar 1 Monstruo de Sincronía \"Guerrero/a\" o \"Polvo de Estrellas\" en tu Deck Extra; Invoca esta carta de Modo Especial, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 carta \"Basura\" en tu Deck, excepto \"Maestro de Basura\". Puedes seleccionar 1 monstruo \"Basura\" que controles; reduce su Nivel hasta en 2. Sólo puedes usar cada efecto de \"Maestro de Basura\" una vez por turno.",
+  "level": 4,
+  "atk": 100,
+  "def": 2300,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

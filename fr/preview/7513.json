@@ -1,0 +1,15 @@
+{
+  "id": 7513,
+  "type": "monster",
+  "name": "La Virulente Vipère",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; Invoquez-la Spécialement, ou si votre adversaire ne contrôle aucun monstre, Invoquez-la Spécialement sur son Terrain en Position de Défense à la place. Une fois par tour, durant votre Standby Phase : recevez 500 points de dommages. Si cette carte est bannie ou envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 Magie/Piège Posé contrôlé par votre adversaire ; détruisez-le. Votre adversaire ne peut pas activer la carte en réponse à l'activation de cet effet. Vous ne pouvez utiliser cet effet de \"La Virulente Vipère\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 200,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

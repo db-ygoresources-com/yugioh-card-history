@@ -1,0 +1,10 @@
+{
+  "id": 22503,
+  "type": "spell",
+  "name": "Avantage de l'Initiative",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Une fois par tour, lorsqu'une attaque est déclarée impliquant votre monstre : vous pouvez lancer un dé à six faces, et appliquez cet effet à votre monstre selon le résultat jusqu'à la fin de ce tour. Si les deux monstres étaient dans la même colonne lorsque cet effet a été activé, choisissez l'effet au lieu de lancer.\n●1 ou 4 : La première fois qu'il va être détruit au combat ou par un effet de carte, il n'est pas détruit.\n●2 ou 5 : Il perd 500 ATK, et aussi, il n'est pas affecté par des effets de Magie/Piège activés (\"Avantage de l'Initiative\" exclu).\n●3 ou 6 : Il gagne 1000 ATK, et aussi, il peut faire max. 2 attaques sur des monstres durant chaque Battle Phase.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

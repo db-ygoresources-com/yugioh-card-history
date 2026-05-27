@@ -1,0 +1,16 @@
+{
+  "id": 22208,
+  "type": "monster",
+  "name": "Wendikuruhu Marionnette de l'Ombre Ree",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 monstre \"Marionnette de l'Ombre\" + 1 monstre VENT\nDoit d'abord être Invoquée par Fusion. (Effet Rapide) : vous pouvez changer un nombre de votre choix de monstres face verso sur le Terrain en Position de Défense face recto, puis, vous pouvez compter le nombre de monstres Flip parmi eux, et changez max. autant de monstres face recto sur le Terrain (les monstres changés exclus) en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Wendikuruhu Marionnette de l'Ombre Ree\" qu'une fois par tour. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 carte \"Marionnette de l'Ombre\" dans votre Cimetière ; ajoutez-la à votre main.",
+  "level": 6,
+  "atk": 200,
+  "def": 2800,
+  "properties": [
+    "Psychique",
+    "Fusion",
+    "Effet"
+  ]
+}

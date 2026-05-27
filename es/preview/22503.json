@@ -1,0 +1,10 @@
+{
+  "id": 22503,
+  "type": "spell",
+  "name": "Ventaja de Quien Golpea Primero",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Una vez por turno, cuando es declarado un ataque que involucra tu monstruo: puedes lanzar un dado de seis caras y aplicar este efecto a tu monstruo basándote en el resultado, hasta el final de este turno. Si ambos monstruos estaban en la misma columna cuando este efecto fue activado, elige el efecto en lugar de lanzar.\n●1 o 4: La primera vez que el monstruo fuera a ser destruido en batalla o por el efecto de una carta, no es destruido.\n●2 o 5: El monstruo pierde 500 ATK, y además no es afectado por efectos activados de Mágicas/Trampas, excepto \"Ventaja de Quien Golpea Primero\".\n●3 o 6: El monstruo gana 1000 ATK, y además puede hacer hasta 2 ataques a monstruos durante cada Battle Phase.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

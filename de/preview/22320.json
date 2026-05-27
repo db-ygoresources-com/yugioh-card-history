@@ -1,0 +1,15 @@
+{
+  "id": 22320,
+  "type": "monster",
+  "name": "Genni, die Maid von Endymion",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "(Diese Karte wird immer als „Hexwerker“-Karte behandelt.)\nFalls du ein Hexer-Monster kontrollierst und diese Karte sich in deiner Hand befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Während der Main Phase (Schnelleffekt): Du kannst 1 Hexer-Monster wählen, das du kontrollierst; verbanne es und falls du dies tust, beschwöre 1 „Hexwerker“-Monster als Spezialbeschwörung von deinem Deck, außer „Genni, die Maid von Endymion“. Du kannst jeden Effekt von „Genni, die Maid von Endymion“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Hexer",
+    "Effekt"
+  ]
+}

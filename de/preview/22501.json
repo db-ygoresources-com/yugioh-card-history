@@ -1,0 +1,16 @@
+{
+  "id": 22501,
+  "type": "monster",
+  "name": "Schattenplünderer-Ritter 21",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "1 Empfänger + 1+ Nicht-Empfänger\nKann nicht durch Kampf zerstört werden. Jedes Mal, wenn eine oder mehr Karten in die Zauber- & Fallenzone deines Gegners gelegt werden: Grabe die obersten Karten deines Decks aus, bis du ein Monster ausgräbst, und rüste diese Karte mit ihm als Ausrüstungszauber aus, zusätzlich lege den Rest in beliebiger Reihenfolge unters Deck. Diese Karte erhält ATK/DEF in Höhe der Summe der Stufen der Monster, mit denen sie ausgerüstet ist, x 300. Falls die Summe der Stufen der Monster, mit denen sie ausgerüstet ist, höher als 21 ist, zerstöre diese Karte.",
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Krieger",
+    "Synchro",
+    "Effekt"
+  ]
+}

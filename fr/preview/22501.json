@@ -1,0 +1,16 @@
+{
+  "id": 22501,
+  "type": "monster",
+  "name": "Chevalier Faucheur d'Ombres 21",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 Syntoniseur + 1+ non-Syntoniseur\nNon destructible au combat. Chaque fois qu'une ou plusieurs cartes sont placées dans la Zone Magie & Piège de votre adversaire : dévoilez les cartes du dessus de votre Deck jusqu'à dévoiler un monstre et équipez-le à cette carte comme Magie d'Équipement, et aussi, placez les cartes restantes au-dessous du Deck dans l'ordre de votre choix. Gagne une ATK/DEF égales à la somme des Niveaux des monstres qui lui sont équipés x 300. Si la somme des Niveaux des monstres équipés à cette carte est supérieure à 21, détruisez cette carte.",
+  "level": 10,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Guerrier",
+    "Synchro",
+    "Effet"
+  ]
+}

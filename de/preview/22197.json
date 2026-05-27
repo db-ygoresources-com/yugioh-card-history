@@ -1,0 +1,16 @@
+{
+  "id": 22197,
+  "type": "monster",
+  "name": "Dracheneinheit Falchion",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Du kannst diese Karte von deiner Hand oder deinem Friedhof verbannen und dann 1 „Dracheneinheit“-Monster wählen, das du kontrollierst; rüste es mit 1 „Dracheneinheit“-Drache-Monster von deinem Deck oder Friedhof als Ausrüstungszauber aus. Solange diese Karte ein „Dracheneinheit“-Monster ausrüstet: Du kannst diese Karte auf den Friedhof legen und dann 1 offene Karte wählen, die dein Gegner kontrolliert; verbanne sie. Du kannst jeden Effekt von „Dracheneinheit Falchion“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Drache",
+    "Empfänger",
+    "Effekt"
+  ]
+}

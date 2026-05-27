@@ -1,0 +1,15 @@
+{
+  "id": 22320,
+  "type": "monster",
+  "name": "Genni, la Domestique d'Endymion",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "(Cette carte est toujours traitée comme carte \"Artisanesorcière\".)\nSi vous contrôlez un monstre Magicien et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre Magicien que vous contrôlez ; bannissez-le, et si vous le faites, Invoquez Spécialement 1 monstre \"Artisanesorcière\" (\"Genni, la Domestique d'Endymion\" exclu) depuis votre Deck. Vous ne pouvez utiliser chaque effet de \"Genni, la Domestique d'Endymion\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}
