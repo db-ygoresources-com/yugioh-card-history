@@ -4,7 +4,7 @@
   "name": "Zap Mustung",
   "englishAttribute": "light",
   "localizedAttribute": "LUZ",
-  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta durante tu Main Phase 1, no puede ser Invocado de Modo Especial de otra forma, y no puede ser Invocado de Modo Especial si este turno has Invocado de modo Especial. Dos veces por turno, esta carta no puede ser destruida en batalla. Cada turno, el jugador activo sólo puede Invocar de Modo Especial tantas veces como la cantidad de ataques que haya realizado (y que llegaran al Damage Step) este turno.",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta durante tu Main Phase 1, y no puede ser Invocado de Modo Especial si has Invocado de Modo Especial este turno. Las primeras dos veces que esta carta fuera a ser destruida en batalla cada turno, no es destruida. Cada turno, el jugador en turno sólo puede Invocar de Modo Especial hasta tantas veces como el número de ataques que haya hecho (y que llegaran al Damage Step) este turno.",
   "level": 4,
   "atk": 1600,
   "def": 1500,
