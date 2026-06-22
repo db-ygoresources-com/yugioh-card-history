@@ -1,0 +1,15 @@
+{
+  "id": 22950,
+  "type": "monster",
+  "name": "Caos Negro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) barajando al Deck 1 Monstruo de Ritual Lanzador de Conjuros o Guerrero en tu mano o Cementerio. Sólo puedes Invocar de Modo Especial \"Caos Negro\" una vez por turno de esta forma. Puedes descartar esta carta; pon boca arriba en tu Campo 1 Trampa Continua que mencione \"Ritual de la Luz y la Oscuridad\" en tu Deck o Cementerio. Mientras tengas una Mágica de Ritual en tu Cementerio, esta carta no es afectada por los efectos activados de tu adversario. Una vez por turno, durante tu Main Phase: puedes desterrar 2 cartas que controle tu adversario.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

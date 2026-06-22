@@ -1,0 +1,15 @@
+{
+  "id": 22960,
+  "type": "monster",
+  "name": "Surge Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez révéler cette carte dans votre main, puis ciblez 1 monstre sur le Terrain ; détruisez-le, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet, sauf depuis la main, le reste de ce tour. Si une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez ajouter 1 monstre \"Blitzclique\" (\"Surge Blitzclique\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Surge Blitzclique\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

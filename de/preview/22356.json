@@ -1,0 +1,16 @@
+{
+  "id": 22356,
+  "type": "monster",
+  "name": "Die drei Schwertseelen",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger der Stufe 4 + 1+ Nicht-Empfänger\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst deiner Hand 1 Hexer-Monster der Stufe 4 oder 8, dessen ATK seinen eigenen DEF entsprechen, von deinem Deck oder Friedhof hinzufügen. Du kannst 1 offene Karte auf dem Spielfeld wählen; annulliere ihre Effekte, dann, falls sich ein „Ecclesia“-Monster oder „Gefallener von Albaz“ in deinem Friedhof befindet, kannst du jene Karte zerstören. Du kannst jeden Effekt von „Die drei Schwertseelen“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Hexer",
+    "Synchro",
+    "Effekt"
+  ]
+}

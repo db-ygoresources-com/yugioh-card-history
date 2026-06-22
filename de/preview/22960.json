@@ -1,0 +1,15 @@
+{
+  "id": 22960,
+  "type": "monster",
+  "name": "Stoß Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte in deiner Hand vorzeigen und dann 1 Monster auf dem Spielfeld wählen; zerstöre es und falls du dies tust, beschwöre 1 Donner-Monster als Spezialbeschwörung von deiner Hand, zusätzlich kannst du für den Rest dieses Spielzugs keine Effektmonster als Spezialbeschwörung beschwören, außer von der Hand. Falls eine oder mehr andere Karten durch einen Karteneffekt zerstört werden, solange sich diese Karte in der Monsterzone befindet (außer während des Damage Steps): Du kannst deiner Hand 1 „Blitzclique“-Monster von deinem Deck hinzufügen, außer „Stoß Blitzclique“. Du kannst jeden Effekt von „Stoß Blitzclique“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1200,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

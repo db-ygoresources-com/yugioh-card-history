@@ -1,0 +1,15 @@
+{
+  "id": 22959,
+  "type": "monster",
+  "name": "Whisker Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant le tour où une ou plusieurs cartes ont été détruites par votre effet de carte \"Blitzclique\" (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement max. 3 monstres Tonnerre depuis votre main, puis vous pouvez détruire max. autant de cartes sur le Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet, sauf depuis la main, le reste de ce tour. Lorsqu'un effet de monstre est activé, sauf dans la main (Effet Rapide) : vous pouvez renvoyer 1 autre monstre Tonnerre que vous contrôlez à la main ; annulez l'activation, et si vous le faites, détruisez le monstre. Vous ne pouvez utiliser chaque effet de \"Whisker Blitzclique\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22963,
+  "type": "monster",
+  "name": "Émi Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est ajoutée à votre main, sauf en la piochant : vous pouvez révéler cette carte, puis ciblez 1 carte sur le Terrain ; détruisez-la, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet, sauf depuis la main, le reste de ce tour. Si une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez ajouter 1 Piège \"Blitzclique\" depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Émi Blitzclique\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 900,
+  "def": 300,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

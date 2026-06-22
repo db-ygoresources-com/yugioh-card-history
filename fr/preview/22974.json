@@ -1,0 +1,18 @@
+{
+  "id": 22974,
+  "type": "monster",
+  "name": "Crépuscule Spectral Rayrage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est dans votre main : vous pouvez cibler 1 Monstre Pendule que vous contrôlez ; placez le Monstre Pendule dans votre Zone Pendule (aucun joueur ne peut activer ses Effets Pendule ce tour), et si vous le faites, Invoquez Spécialement cette carte. (Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 carte dans votre Zone Pendule ; ce tour, elle ne peut pas être détruite par des effets de carte de votre adversaire. Vous ne pouvez utiliser chaque effet de \"Crépuscule Spectral Rayrage\" qu'une fois par tour.",
+  "pendEffect": "Si un ou plusieurs Monstres Pendule que vous contrôlez vont être détruits par un effet de carte de l'adversaire, vous pouvez détruire cette carte au lieu d'1 de ces Monstres Pendule. Vous ne pouvez utiliser cet effet de \"Crépuscule Spectral Rayrage\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Dragon",
+    "Pendule",
+    "Effet"
+  ]
+}

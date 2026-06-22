@@ -1,0 +1,18 @@
+{
+  "id": 22974,
+  "type": "monster",
+  "name": "Twilight Specter Rayrage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "If this card is in your hand: You can target 1 Pendulum Monster you control; place that Pendulum Monster in your Pendulum Zone (neither player can activate its Pendulum Effects this turn), and if you do, Special Summon this card. (Quick Effect): You can Tribute this card, then target 1 card in your Pendulum Zone; it cannot be destroyed by your opponent's card effects this turn. You can only use each effect of \"Twilight Specter Rayrage\" once per turn.",
+  "pendEffect": "If a Pendulum Monster(s) you control would be destroyed by an opponent's card effect, you can destroy this card instead of 1 of those Pendulum Monsters. You can only use this effect of \"Twilight Specter Rayrage\" once per turn.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Dragon",
+    "Pendulum",
+    "Effect"
+  ]
+}

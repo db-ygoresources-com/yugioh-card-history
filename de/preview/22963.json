@@ -1,0 +1,15 @@
+{
+  "id": 22963,
+  "type": "monster",
+  "name": "Ems Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls diese Karte deiner Hand hinzugefügt wird, außer durch Ziehen: Du kannst diese Karte vorzeigen und dann 1 Karte auf dem Spielfeld wählen; zerstöre sie und falls du dies tust, beschwöre 1 Donner-Monster als Spezialbeschwörung von deiner Hand, zusätzlich kannst du für den Rest dieses Spielzugs keine Effektmonster als Spezialbeschwörung beschwören, außer von der Hand. Falls eine oder mehr andere Karten durch einen Karteneffekt zerstört werden, solange sich diese Karte in der Monsterzone befindet (außer während des Damage Steps): Du kannst deiner Hand 1 „Blitzclique“-Falle von deinem Deck hinzufügen. Du kannst jeden Effekt von „Ems Blitzclique“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 900,
+  "def": 300,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22975,
+  "type": "monster",
+  "name": "Gray Layer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Du kannst diese Karte als Tribut anbieten und dann 1 Maschine-Monster in deiner Hand vorzeigen; füge deiner Hand 1 Maschine-Monster mit einer unterschiedlichen Eigenschaft von deinem Deck hinzu, dann, falls du ein Monster mit 1200 oder weniger ATK hinzugefügt hast, kannst du 1 Maschine-Monster als Spezialbeschwörung von deiner Hand beschwören. Falls ein oder mehr Monster, die dir gehören, durch einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte verbannen; zerstöre 1 Karte auf dem Spielfeld. Du kannst jeden Effekt von „Gray Layer“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

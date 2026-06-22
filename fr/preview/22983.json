@@ -1,0 +1,16 @@
+{
+  "id": 22983,
+  "type": "monster",
+  "name": "Joyeuse Surprise des Melffys",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1 monstre \"Melffy\" + 1 monstre Bête\nSi cette carte est Invoquée par Fusion : vous pouvez cibler un nombre égal de cartes \"Melffy\" que vous contrôlez et de cartes contrôlées par votre adversaire ; renvoyez-les à la main. Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres (sauf durant la Damage Step), ou si un monstre de l'adversaire cible cette carte avec une attaque : vous pouvez cibler 1 monstre Bête dans votre Cimetière ; réduisez le Niveau de cette carte d'exactement 2, et si vous le faites, Invoquez Spécialement la cible. Vous ne pouvez utiliser chaque effet de \"Joyeuse Surprise des Melffys\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 0,
+  "def": 2500,
+  "properties": [
+    "Bête",
+    "Fusion",
+    "Effet"
+  ]
+}

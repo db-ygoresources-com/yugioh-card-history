@@ -1,0 +1,15 @@
+{
+  "id": 22957,
+  "type": "monster",
+  "name": "Invocateur des Bêtes Sacrées",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez révéler cette carte dans votre main ; défaussez 1 carte, et si vous le faites, Invoquez Spécialement 1 monstre \"Bêtes Sacrées\" (monstres de Niveau 8 exclus) depuis votre main en Position de Défense. Vous pouvez défausser 1 carte ; Invoquez Spécialement 1 monstre \"Bêtes Sacrées\" (monstres de Niveau 8 et la carte défaussée exclus) depuis votre main ou Cimetière en Position de Défense. Vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 monstre \"Bêtes Sacrées\" (monstres de Niveau 8 exclus) depuis votre Cimetière en Position de Défense. Vous ne pouvez utiliser chaque effet de \"Invocateur des Bêtes Sacrées\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2300,
+  "def": 3000,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

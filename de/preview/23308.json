@@ -1,0 +1,17 @@
+{
+  "id": 23308,
+  "type": "monster",
+  "name": "Engelechy Rekrutiert",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Empfänger + 1 Nicht-Empfänger\nDu kannst 1 Monster deines Gegners in einer benachbarten Spalte dieser Karte wählen; verbanne es, dann ändere die Kontrolle über diese Karte, indem du sie in eine der Main-Monsterzonen deines Gegners in den benachbarten Spalten dieser Karte bewegst. Falls sich der Beherrscher dieser offenen Karte ändert: Lege sie ins Extra Deck zurück, dann beschwört der Besitzer dieser Karte 1 „Engelechy“-Monster als Spezialbeschwörung von seinem Extra Deck. Du kannst jeden Effekt von „Engelechy Rekrutiert“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Fee",
+    "Synchro",
+    "Empfänger",
+    "Effekt"
+  ]
+}

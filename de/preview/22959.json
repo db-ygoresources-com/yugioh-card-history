@@ -1,0 +1,15 @@
+{
+  "id": 22959,
+  "type": "monster",
+  "name": "Whisker Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Während des Spielzugs, in dem eine oder mehr Karten durch deinen „Blitzclique“-Karteneffekt zerstört wurden (Schnelleffekt): Du kannst diese Karte in deiner Hand vorzeigen; beschwöre bis zu 3 Donner-Monster als Spezialbeschwörung von deiner Hand, dann kannst du bis zu ebenso viele Karten auf dem Spielfeld zerstören, zusätzlich kannst du für den Rest dieses Spielzugs keine Effektmonster als Spezialbeschwörung beschwören, außer von der Hand. Wenn ein Monstereffekt aktiviert wird, außer in der Hand (Schnelleffekt): Du kannst 1 anderes Donner-Monster, das du kontrollierst, auf die Hand zurückgeben; annulliere die Aktivierung und falls du dies tust, zerstöre jenes Monster. Du kannst jeden Effekt von „Whisker Blitzclique“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

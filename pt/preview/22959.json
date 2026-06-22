@@ -1,0 +1,15 @@
+{
+  "id": 22959,
+  "type": "monster",
+  "name": "Whisker Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Durante o turno em que um ou mais cards foram destruídos por um efeito de card \"Blitzclique\" seu (Efeito Rápido): você pode revelar este card na sua mão; Invoque por Invocação-Especial até 3 monstros Trovão da sua mão e, depois, você pode destruir até esse número de cards no campo e, além disso, pelo resto deste turno, você não pode Invocar Monstros de Efeito por Invocação-Especial, exceto da mão. Quando um efeito de monstro for ativado, exceto na mão (Efeito Rápido): você pode devolver para a mão 1 outro monstro Trovão que você controla; negue a ativação e, se isso acontecer, destrua esse monstro. Você só pode usar cada efeito de \"Whisker Blitzclique\" uma vez por turno.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Trovão",
+    "Efeito"
+  ]
+}

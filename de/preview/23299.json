@@ -1,0 +1,15 @@
+{
+  "id": 23299,
+  "type": "monster",
+  "name": "Donnerschlag-Strickscheuche",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Jedes Mal, wenn ein oder mehr Nichtdonner-Monster offen als Spezialbeschwörung beschworen werden, solange diese Karte in der Monsterzone liegt: Jene Monster können in diesem Spielzug nicht angreifen, zusätzlich zerstöre sie während der End Phase. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 offene Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, füge diese Karte deiner Hand hinzu. Du kannst diesen Effekt von „Donnerschlag-Strickscheuche“ nur einmal pro Spielzug verwenden.",
+  "level": 8,
+  "atk": 1600,
+  "def": 2800,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

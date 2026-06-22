@@ -1,0 +1,16 @@
+{
+  "id": 23304,
+  "type": "monster",
+  "name": "Mortilux Heruvur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2+ monstres de Niveau 8\nSi un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire (sauf durant la Damage Step) : vous pouvez en cibler 1 ; attachez-le à cette carte. Vous ne pouvez utiliser cet effet de \"Mortilux Heruvur\" qu'une fois par tour. Cette carte gagne des effets selon le nombre de Matériels qui lui sont attachés.\n●2+ : Non destructible ni au combat ni par des effets de carte.\n●3+ : Votre adversaire ne peut pas cibler de cartes dans les Cimetières avec des effets de carte.\n●4+ : Vous pouvez détacher 3 Matériels de cette carte ; envoyez 1 monstre sur le Terrain au Cimetière.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2100,
+  "properties": [
+    "Bête Ailée",
+    "Xyz",
+    "Effet"
+  ]
+}

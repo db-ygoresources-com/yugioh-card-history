@@ -1,0 +1,16 @@
+{
+  "id": 22983,
+  "type": "monster",
+  "name": "Sorpresa Feliz de Melffys",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1 monstruo \"Melffy\" + 1 monstruo Bestia\nSi esta carta es Invocada por Fusión: puedes seleccionar el mismo número de cartas \"Melffy\" que controles y cartas que controle tu adversario; devuélvelas a la mano. Si tu adversario Invoca de Modo Normal o Especial uno o más monstruos (excepto durante el Damage Step), o si un monstruo del adversario selecciona esta carta para un ataque: puedes seleccionar 1 monstruo Bestia en tu Cementerio; reduce el Nivel de esta carta exactamente en 2 y, si lo haces, Invoca ese objetivo de Modo Especial. Sólo puedes usar cada efecto de \"Sorpresa Feliz de Melffys\" una vez por turno.",
+  "level": 4,
+  "atk": 0,
+  "def": 2500,
+  "properties": [
+    "Bestia",
+    "Fusión",
+    "Efecto"
+  ]
+}

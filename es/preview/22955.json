@@ -1,0 +1,15 @@
+{
+  "id": 22955,
+  "type": "monster",
+  "name": "Calamidad de las Bestias Sagradas - Hamon, Señor del Trueno Golpeador",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial con el efecto de una carta \"Bestias Sagradas\". Puedes mostrar esta carta en tu mano; añade a tu mano 1 Mágica \"Bestias Sagradas\" en tu Deck, y después descarta 1 carta. Sólo puedes usar este efecto de \"Calamidad de las Bestias Sagradas - Hamon, Señor del Trueno Golpeador\" una vez por turno. Una vez por turno, si uno o más monstruos son mandados al Cementerio de tu adversario: inflige 1000 puntos de daño a tu adversario. Si esta carta es destruida en batalla o por el efecto de una carta: puedes activar este efecto; este turno no recibes daño.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

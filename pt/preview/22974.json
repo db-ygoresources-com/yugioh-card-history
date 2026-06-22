@@ -1,0 +1,18 @@
+{
+  "id": 22974,
+  "type": "monster",
+  "name": "Espectro do Crepúsculo Rayragem",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Se este card estiver na sua mão: você pode escolher 1 Monstro Pêndulo que você controla; coloque esse Monstro Pêndulo na sua Zona de Pêndulo (nenhum duelista pode ativar seus Efeitos de Pêndulo neste turno) e, se isso acontecer, Invoque este card por Invocação-Especial. (Efeito Rápido): você pode oferecer este card como Tributo e, depois, escolha 1 card na sua Zona de Pêndulo; ele não pode ser destruído pelos efeitos de card do seu oponente neste turno. Você só pode usar cada efeito de \"Espectro do Crepúsculo Rayragem\" uma vez por turno.",
+  "pendEffect": "Se um ou mais Monstros Pêndulo que você controla seriam destruídos por um efeito de card do oponente, você pode destruir este card em vez de 1 desses Monstros Pêndulo. Você só pode usar este efeito de \"Espectro do Crepúsculo Rayragem\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Dragão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

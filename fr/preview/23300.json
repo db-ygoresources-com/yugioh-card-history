@@ -1,0 +1,16 @@
+{
+  "id": 23300,
+  "type": "monster",
+  "name": "Mixousia la Déconcerteuse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre Magicien + 1 monstre non-Magicien\nVous pouvez cibler 1 monstre face recto sur le Terrain, et déclarez 1 Attribut ; il devient cet Attribut. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck, en bannissant cette carte que vous contrôlez et des monstres depuis votre Terrain ou Cimetière comme Matériel. Si cette carte est dans votre Cimetière : vous pouvez déclarer 1 Attribut ; jusqu'à la fin de ce tour, cette carte dans le Cimetière devient cet Attribut. Vous ne pouvez utiliser chaque effet de \"Mixousia la Déconcerteuse\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Fusion",
+    "Effet"
+  ]
+}

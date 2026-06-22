@@ -1,0 +1,18 @@
+{
+  "id": 22974,
+  "type": "monster",
+  "name": "Rayrage Spettro del Crepuscolo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta è nella tua mano: puoi scegliere come bersaglio 1 Mostro Pendulum che controlli; metti quel Mostro Pendulum nella tua Zona Pendulum (nessun giocatore può attivare i suoi Effetti Pendulum in questo turno) e, se lo fai, Evoca Specialmente questa carta. (Effetto Rapido): puoi offrire come Tributo questa carta, poi scegliere come bersaglio 1 carta nella tua Zona Pendulum; essa non può essere distrutta dagli effetti delle carte del tuo avversario in questo turno. Puoi utilizzare ogni effetto di \"Rayrage Spettro del Crepuscolo\" una sola volta per turno.",
+  "pendEffect": "Se uno o più Mostri Pendulum che controlli stanno per essere distrutti dall'effetto di una carta dell'avversario, puoi distruggere questa carta invece di 1 di quei Mostri Pendulum. Puoi utilizzare questo effetto di \"Rayrage Spettro del Crepuscolo\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Drago",
+    "Pendulum",
+    "Effetto"
+  ]
+}

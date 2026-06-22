@@ -1,0 +1,15 @@
+{
+  "id": 22975,
+  "type": "monster",
+  "name": "Gray Layer",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi offrire come Tributo questa carta, poi rivelare 1 mostro Macchina nella tua mano; aggiungi 1 mostro Macchina con un Attributo diverso dal tuo Deck alla tua mano, poi se hai aggiunto un mostro con ATK 1200 o inferiore, puoi Evocare Specialmente 1 mostro Macchina dalla tua mano. Se uno o più mostri sotto il tuo comando vengono distrutti dall'effetto di una carta, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi bandire questa carta; distruggi 1 carta sul Terreno. Puoi utilizzare ogni effetto di \"Gray Layer\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

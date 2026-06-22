@@ -1,0 +1,15 @@
+{
+  "id": 22961,
+  "type": "monster",
+  "name": "Crackle Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Durant le tour de votre adversaire, lorsque votre adversaire active un effet de monstre sur le Terrain (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; détruisez le monstre, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet, sauf depuis la main, le reste de ce tour. Si une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez envoyer 1 Magie/Piège \"Blitzclique\" depuis votre Deck au Cimetière. Vous ne pouvez utiliser chaque effet de \"Crackle Blitzclique\" qu'une fois par tour.",
+  "level": 3,
+  "atk": 1500,
+  "def": 900,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

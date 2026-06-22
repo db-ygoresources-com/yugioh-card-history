@@ -1,0 +1,15 @@
+{
+  "id": 22962,
+  "type": "monster",
+  "name": "Korn Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Du kannst diese Karte in deiner Hand vorzeigen und dann 1 Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie und falls du dies tust, beschwöre 1 Donner-Monster als Spezialbeschwörung von deiner Hand, zusätzlich kannst du für den Rest dieses Spielzugs keine Effektmonster als Spezialbeschwörung beschwören, außer von der Hand. Falls eine oder mehr andere Karten durch einen Karteneffekt zerstört werden, solange sich diese Karte in der Monsterzone befindet (außer während des Damage Steps): Du kannst deiner Hand 1 „Blitzclique“-Zauber oder 1 „Versteck im Himmel, Coulomb“ von deinem Deck hinzufügen. Du kannst jeden Effekt von „Korn Blitzclique“ nur einmal pro Spielzug verwenden.",
+  "level": 2,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Donner",
+    "Effekt"
+  ]
+}

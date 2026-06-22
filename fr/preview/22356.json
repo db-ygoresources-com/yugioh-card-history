@@ -1,0 +1,16 @@
+{
+  "id": 22356,
+  "type": "monster",
+  "name": "Les Trois Champions d'Âmépées",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Syntoniseur de Niveau 4 + 1+ non-Syntoniseur\nSi cette carte est Invoquée par Synchronisation : vous pouvez ajouter 1 monstre Magicien de Niveau 4 ou 8 dont l'ATK est égale à sa propre DEF depuis votre Deck ou Cimetière à votre main. Vous pouvez cibler 1 carte face recto sur le Terrain ; annulez ses effets, puis si \"Albaz le Déchu\" ou un monstre \"Ecclésia\" est dans votre Cimetière, vous pouvez détruire la carte. Vous ne pouvez utiliser chaque effet de \"Les Trois Champions d'Âmépées\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Magicien",
+    "Synchro",
+    "Effet"
+  ]
+}

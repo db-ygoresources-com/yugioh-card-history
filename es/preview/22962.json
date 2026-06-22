@@ -1,0 +1,15 @@
+{
+  "id": 22962,
+  "type": "monster",
+  "name": "Migra Blitzclique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes mostrar esta carta en tu mano, y después selecciona 1 Mágica/Trampa en el Campo; destrúyela y, si lo haces, Invoca de Modo Especial 1 monstruo Trueno desde tu mano, y además por el resto de este turno, no puedes Invocar de Modo Especial Monstruos de Efecto, excepto desde la mano. Si otra u otras cartas son destruidas por el efecto de una carta, mientras esta carta está en la Zona de Monstruos (excepto durante el Damage Step): puedes añadir a tu mano 1 Mágica \"Blitzclique\" o 1 \"Guarida en el Cielo, Coulomb\" en tu Deck. Sólo puedes usar cada efecto de \"Migra Blitzclique\" una vez por turno.",
+  "level": 2,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

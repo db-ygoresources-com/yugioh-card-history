@@ -1,0 +1,16 @@
+{
+  "id": 22356,
+  "type": "monster",
+  "name": "Los Tres Campeones de Almaespada",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante de Nivel 4 + 1+ no Cantantes\nSi esta carta es Invocada por Sincronía: puedes añadir a tu mano 1 monstruo Lanzador de Conjuros de Nivel 4 u 8 cuyo ATK sea igual a su propia DEF en tu Deck o Cementerio. Puedes seleccionar 1 carta boca arriba en el Campo; niega sus efectos y después, si un monstruo \"Ecclesia\" o \"Caído de Albaz\" está en tu Cementerio, puedes destruir esa carta. Sólo puedes usar cada efecto de \"Los Tres Campeones de Almaespada\" una vez por turno.",
+  "level": 8,
+  "atk": 2500,
+  "def": 2500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Sincronía",
+    "Efecto"
+  ]
+}

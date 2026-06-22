@@ -1,0 +1,18 @@
+{
+  "id": 22974,
+  "type": "monster",
+  "name": "Zwielichtgespenst Raylussion",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 Pendelmonster wählen, das du kontrollierst; lege jenes Pendelmonster in deine Pendelzone (kein Spieler kann in diesem Spielzug seine Pendeleffekte aktivieren) und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. (Schnelleffekt): Du kannst diese Karte als Tribut anbieten und dann 1 Karte in deiner Pendelzone wählen; sie kann in diesem Spielzug nicht durch Karteneffekte deines Gegners zerstört werden. Du kannst jeden Effekt von „Zwielichtgespenst Raylussion“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls ein oder mehr Pendelmonster, die du kontrollierst, durch einen Karteneffekt eines Gegners zerstört würden, kannst du statt 1 jener Pendelmonster diese Karte zerstören. Du kannst diesen Effekt von „Zwielichtgespenst Raylussion“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 3,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}
