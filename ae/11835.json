@@ -1,0 +1,19 @@
+{
+  "id": 11835,
+  "type": "monster",
+  "name": "Odd-Eyes Rebellion Dragon",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "2 Level 7 Dragon monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as material: Destroy as many Level 7 or lower monsters your opponent controls as possible, and if you do, inflict 1000 damage to your opponent for each card destroyed, also this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
+  "pendEffect": "Once per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.",
+  "pendScale": 4,
+  "rank": 7,
+  "atk": 3000,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Pendulum",
+    "Effect"
+  ]
+}
