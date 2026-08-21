@@ -1,0 +1,18 @@
+{
+  "id": 14442,
+  "type": "monster",
+  "name": "Servant of Endymion",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "You can only Special Summon \"Servant(s) of Endymion\" once per turn. This card with a Spell Counter can attack directly. Once per opponent's turn (Quick Effect): You can discard 1 card; place 1 Spell Counter on each card you control that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.",
+  "pendEffect": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your Deck with 1000 or more ATK that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.",
+  "pendScale": 2,
+  "level": 3,
+  "atk": 900,
+  "def": 1500,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

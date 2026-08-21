@@ -1,0 +1,18 @@
+{
+  "id": 11371,
+  "type": "monster",
+  "name": "Rescue Hamster",
+  "englishAttribute": "earth",
+  "localizedAttribute": "EARTH",
+  "effectText": "If this card was Normal Summoned this turn and you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 face-up Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but they have their effects negated, also they are destroyed during the End Phase.",
+  "pendEffect": "You can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.",
+  "pendScale": 5,
+  "level": 4,
+  "atk": 300,
+  "def": 100,
+  "properties": [
+    "Beast",
+    "Pendulum",
+    "Effect"
+  ]
+}
