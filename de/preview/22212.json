@@ -1,0 +1,16 @@
+{
+  "id": 22212,
+  "type": "monster",
+  "name": "Albtraumäugiges Opfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2 Monster mit unterschiedlichen Typen (Unterweltler, Illusion oder Hexer)\nDiese Karte erhält ATK in Höhe der kombinierten ATK der Monster, mit denen sie durch ihren Effekt ausgerüstet ist. Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Monster deines Gegners können keine Monster angreifen, außer diesem. Falls diese Karte als Spezialbeschwörung beschworen wird oder am Ende der Battle Phase, falls diese Karte gekämpft hat: Du kannst diese Karte mit 1 Monster, das dein Gegner kontrolliert, als Ausrüstungszauber ausrüsten. Du kannst diesen Effekt von „Albtraumäugiges Opfer“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Illusion",
+    "Fusion",
+    "Effekt"
+  ]
+}

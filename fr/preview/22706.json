@@ -1,0 +1,16 @@
+{
+  "id": 22706,
+  "type": "monster",
+  "name": "Magicien Codeur Cyberse",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Cynet Rituel\". Si un Monstre Lien que vous contrôlez va être utilisé comme Matériel Lien pour un monstre Cyberse, cette carte dans votre main peut aussi être utilisée comme Matériel. Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez envoyer 1 monstre Cyberse depuis votre Deck au Cimetière, ou si cette carte Invoquée Rituellement a été envoyée au Cimetière, vous pouvez Invoquer Spécialement le monstre à la place, et aussi, dans n'importe quel cas, vous ne pouvez pas Invoquer Spécialement (monstres Cyberse exclus) le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Magicien Codeur Cyberse\" qu'une fois par tour.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Cyberse",
+    "Rituel",
+    "Effet"
+  ]
+}

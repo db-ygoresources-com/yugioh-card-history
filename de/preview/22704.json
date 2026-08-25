@@ -1,0 +1,18 @@
+{
+  "id": 22704,
+  "type": "monster",
+  "name": "Astrografzauberer, Sternfrost-Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls eine oder mehr offene Monsterkarten, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 jener zerstörten Monster als Spezialbeschwörung offen von deinem Extra Deck oder von deinem Friedhof beschwören. Während der Main Phase (Schnelleffekt): Du kannst diese Karte als Tribut anbieten, dann kannst du 1 Drache-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du sein Material von deiner Spielfeldseite und/oder offen von deinem Extra Deck ins Deck mischst. Du kannst jeden Effekt von „Astrografzauberer, Sternfrost-Magier“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte zerstören und falls du dies tust, lege 1 Pendelmonster mit Pendelbereich 1 von deiner Hand oder deinem Deck in deine Pendelzone, außer „Astrografzauberer, Sternfrost-Magier“, aber kein Spieler kann in diesem Spielzug seine Pendeleffekte aktivieren. Du kannst diesen Effekt von „Astrografzauberer, Sternfrost-Magier“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22697,
+  "type": "monster",
+  "name": "Sincronizador de Estrellabasura",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Para una Invocación por Sincronía, puedes sustituir esta carta por 1 Cantante \"Sincrón\" (o \"Sincronizador\") cualquiera. Sólo puedes usar cada uno de los siguientes efectos de \"Sincronizador de Estrellabasura\" una vez por turno. Si esta carta está en tu mano: puedes seleccionar 1 monstruo de Nivel 2 o menor en tu Cementerio; Invoca esta carta de Modo Especial y, si lo haces, Invoca ese monstruo de Modo Especial pero niega sus efectos, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía. Puedes desterrar esta carta en tu Cementerio; este turno, ningún \"Guerrero de Basura\" que controles puede ser destruido por efectos de cartas de tu adversario.",
+  "level": 3,
+  "atk": 1300,
+  "def": 500,
+  "properties": [
+    "Guerrero",
+    "Cantante",
+    "Efecto"
+  ]
+}

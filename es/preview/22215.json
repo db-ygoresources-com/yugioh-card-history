@@ -1,0 +1,18 @@
+{
+  "id": 22215,
+  "type": "monster",
+  "name": "Unicornio de Viento Paralelo, el Dracoasesino",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Mientras esta carta Invocada por Péndulo esté en tu Zona de Monstruos, tu adversario no puede seleccionarla con efectos de cartas, y además no puede ser destruida por efectos de cartas de tu adversario. (Efecto Rápido): puedes seleccionar 1 Carta de Monstruo de Péndulo que controles y 1 carta que controle tu adversario; devuélvelas a la mano. Sólo puedes usar este efecto de \"Unicornio de Viento Paralelo, el Dracoasesino\" una vez por turno.",
+  "pendEffect": "Si tienes una carta en tu otra Zona de Péndulo: puedes activar 1 de estos efectos;\n●Invoca esta carta de Modo Especial.\n●Destruye esta carta y, si lo haces, Invoca de Modo Especial 1 Carta de Monstruo de Péndulo de Nivel 5 o menor desde tu Zona de Péndulo.\nSólo puedes usar este efecto de \"Unicornio de Viento Paralelo, el Dracoasesino\" una vez por turno.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

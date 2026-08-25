@@ -1,0 +1,18 @@
+{
+  "id": 22704,
+  "type": "monster",
+  "name": "Sorcier Astrographe, le Magicien du Gel Stellaire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si une ou plusieurs Cartes Monstre face recto que vous contrôlez sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez Invoquer Spécialement 1 de ces monstres détruits depuis votre Extra Deck face recto ou Cimetière. Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier cette carte, puis vous pouvez Invoquer par Fusion 1 Monstre Fusion Dragon depuis votre Extra Deck, en mélangeant ses Matériels depuis votre Terrain et/ou Extra Deck face recto dans le Deck. Vous ne pouvez utiliser chaque effet de \"Sorcier Astrographe, le Magicien du Gel Stellaire\" qu'une fois par tour.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez détruire cette carte, et si vous le faites, placez 1 Monstre Pendule d'Échelle 1 (\"Sorcier Astrographe, le Magicien du Gel Stellaire\" exclu) depuis votre main ou Deck dans votre Zone Pendule, mais aucun joueur ne peut activer ses Effets Pendule ce tour. Vous ne pouvez utiliser cet effet de \"Sorcier Astrographe, le Magicien du Gel Stellaire\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

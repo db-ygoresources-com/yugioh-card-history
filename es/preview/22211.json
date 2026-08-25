@@ -1,0 +1,16 @@
+{
+  "id": 22211,
+  "type": "monster",
+  "name": "Gobernador del Fin del Mundo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Fin del Mundo\". El nombre de esta carta se convierte en \"Demise, Rey del Armagedón\" mientras esté en la mano o en el Campo. Sólo puedes usar cada uno de los siguientes efectos de \"Gobernador del Fin del Mundo\" una vez por turno. Puedes mostrar esta carta en tu mano, pagar 2000 LP, y después destierra 1 Mágica de Ritual en tu Deck; aplica el efecto de activación de esa carta que Invoca un monstruo por Ritual. Puedes pagar 2000 LP; destruye todas las demás cartas en el Campo, y después esta carta gana 2900 ATK.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2900,
+  "properties": [
+    "Demonio",
+    "Ritual",
+    "Efecto"
+  ]
+}

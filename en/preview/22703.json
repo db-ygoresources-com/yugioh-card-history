@@ -1,0 +1,18 @@
+{
+  "id": 22703,
+  "type": "monster",
+  "name": "Horoscope Sorcerer, the Stargazer Magician",
+  "englishAttribute": "dark",
+  "localizedAttribute": "DARK",
+  "effectText": "If this card is in your hand: You can discard 1 other \"Magician\" Pendulum Monster, \"Performapal\" monster, or \"Odd-Eyes\" monster; Special Summon this card. If this card is Special Summoned: You can add 1 Pendulum Monster with 2500 ATK from your Deck to your hand. You can target 1 Pendulum Monster Card you control; destroy it, then you can add 1 face-up Pendulum Monster from your Extra Deck to your hand. You can only use each effect of \"Horoscope Sorcerer, the Stargazer Magician\" once per turn.",
+  "pendEffect": "When a Spell Card or effect activated by your opponent resolves, if you control a \"Magician\" Pendulum Monster or an \"Odd-Eyes\" monster, you can negate that effect, then destroy this card. You can only use this effect of \"Horoscope Sorcerer, the Stargazer Magician\" once per turn.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

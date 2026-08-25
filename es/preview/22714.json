@@ -1,0 +1,19 @@
+{
+  "id": 22714,
+  "type": "monster",
+  "name": "Fuerza Tecno Espiritual Maestra - Señor del Péndulo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Monstruo de Péndulo de Nivel 7 o mayor + 1 Monstruo de Péndulo\nNo puede ser destruido por efectos de cartas. Los monstruos de tu adversario no pueden atacar, excepto Monstruos de Péndulo sin un Nivel. Puedes Sacrificar 1 monstruo, y después selecciona 1 carta que controle tu adversario; destrúyela y, si lo haces, inflige 1600 puntos de daño a tu adversario. Puedes usar este efecto de \"Fuerza Tecno Espiritual Maestra - Señor del Péndulo\" dos veces por turno. Una vez por turno: puedes poner esta carta en tu Zona de Péndulo.",
+  "pendEffect": "Durante tu Main Phase: puedes devolver esta carta al Deck Extra, y después puedes añadir a tu mano 1 Monstruo de Péndulo de Nivel 7 en tu Deck o Deck Extra boca arriba. Sólo puedes usar este efecto de \"Fuerza Tecno Espiritual Maestra - Señor del Péndulo\" una vez por turno.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Máquina",
+    "Fusión",
+    "Péndulo",
+    "Efecto"
+  ]
+}

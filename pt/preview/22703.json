@@ -1,0 +1,18 @@
+{
+  "id": 22703,
+  "type": "monster",
+  "name": "Feiticeiro do Horóscopo, o Mago Observador das Estrelas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se este card estiver na sua mão: você pode descartar 1 outro Monstro Pêndulo \"Mago\", monstro \"Camarartista\" ou monstro \"Olhos Anômalos\"; Invoque este card por Invocação-Especial. Se este card for Invocado por Invocação-Especial: você pode adicionar 1 Monstro Pêndulo com 2500 de ATK do seu Deck à sua mão. Você pode escolher 1 Card de Monstro Pêndulo que você controla; destrua-o e, depois, você pode adicionar 1 Monstro Pêndulo com a face para cima do seu Deck Adicional à sua mão. Você só pode usar cada efeito de \"Feiticeiro do Horóscopo, o Mago Observador das Estrelas\" uma vez por turno.",
+  "pendEffect": "Quando um Card de Magia ou efeito ativado pelo seu oponente resolver, se você controlar um Monstro Pêndulo \"Mago\" ou um monstro \"Olhos Anômalos\", você pode negar o efeito e, depois, destrua este card. Você só pode usar este efeito de \"Feiticeiro do Horóscopo, o Mago Observador das Estrelas\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

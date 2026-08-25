@@ -1,0 +1,19 @@
+{
+  "id": 22714,
+  "type": "monster",
+  "name": "Force Tech Spirit Maîtresse - Souverain Pendule",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "1 Monstre Pendule de min. Niveau 7 + 1 Monstre Pendule\nNon destructible par des effets de carte. Les monstres de votre adversaire (Monstres Pendule sans Niveau exclus) ne peuvent pas attaquer. Vous pouvez Sacrifier 1 monstre, puis ciblez 1 carte contrôlée par votre adversaire ; détruisez-la, et si vous le faites, infligez 1600 points de dommages à votre adversaire. Vous pouvez utiliser cet effet de \"Force Tech Spirit Maîtresse - Souverain Pendule\" deux fois par tour. Une fois par tour : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez renvoyer cette carte à l'Extra Deck, puis vous pouvez ajouter 1 Monstre Pendule de Niveau 7 depuis votre Deck ou Extra Deck face recto à votre main. Vous ne pouvez utiliser cet effet de \"Force Tech Spirit Maîtresse - Souverain Pendule\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Machine",
+    "Fusion",
+    "Pendule",
+    "Effet"
+  ]
+}

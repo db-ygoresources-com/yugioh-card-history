@@ -1,0 +1,18 @@
+{
+  "id": 22703,
+  "type": "monster",
+  "name": "Horoskopzauberer, sterndeutender Magier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 anderes „Magier“-Pendelmonster, „Künstlerkumpel“-Monster oder „Buntäugig“-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Pendelmonster mit 2500 ATK von deinem Deck hinzufügen. Du kannst 1 Pendelmonsterkarte wählen, die du kontrollierst; zerstöre sie, dann kannst du deiner Hand 1 offenes Pendelmonster von deinem Extra Deck hinzufügen. Du kannst jeden Effekt von „Horoskopzauberer, sterndeutender Magier“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Wenn eine Zauberkarte oder ein Zaubereffekt aufgelöst wird, die oder der von deinem Gegner aktiviert wurde, falls du ein „Magier“-Pendelmonster oder ein „Buntäugig“-Monster kontrollierst, kannst du jenen Effekt annullieren, dann zerstöre diese Karte. Du kannst diesen Effekt von „Horoskopzauberer, sterndeutender Magier“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

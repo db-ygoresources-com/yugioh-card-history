@@ -1,0 +1,18 @@
+{
+  "id": 22215,
+  "type": "monster",
+  "name": "Wind Unicorn Parallel, the Dracoslayer",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "While this Pendulum Summoned card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. (Quick Effect): You can target 1 Pendulum Monster Card you control and 1 card your opponent controls; return them to the hand. You can only use this effect of \"Wind Unicorn Parallel, the Dracoslayer\" once per turn.",
+  "pendEffect": "If you have a card in your other Pendulum Zone: You can activate 1 of these effects;\n●Special Summon this card.\n●Destroy this card, and if you do, Special Summon 1 Level 5 or lower Pendulum Monster Card from your Pendulum Zone.\nYou can only use this effect of \"Wind Unicorn Parallel, the Dracoslayer\" once per turn.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Spellcaster",
+    "Pendulum",
+    "Effect"
+  ]
+}

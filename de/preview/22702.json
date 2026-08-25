@@ -1,0 +1,18 @@
+{
+  "id": 22702,
+  "type": "monster",
+  "name": "Buntäugiger Pendeldrache, vier himmlische Drachen",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Diese als Pendelbeschwörung beschworene Karte erhält diese Effekte.\n●Erhält ATK in Höhe der Differenz der Pendelbereiche der 2 Karten in deinen Pendelzonen x 300.\n●Kampfschaden, den dein Gegner aus Kämpfen erhält, an denen diese Karte beteiligt ist, wird verdoppelt.\nFalls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte deiner Hand hinzufügen, dann, falls sie durch eine Karte deines Gegners zerstört wurde, kannst du sie als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Buntäugiger Pendeldrache, vier himmlische Drachen“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte zerstören und falls du dies tust, füge deiner Hand 1 Pendelmonster mit 1500 oder weniger ATK von deinem Deck hinzu, zusätzlich kannst du für den Rest dieses Spielzugs keine Monstereffekte auf dem Spielfeld aktivieren, bis du eine Pendelbeschwörung durchgeführt hast. Du kannst diesen Effekt von „Buntäugiger Pendeldrache, vier himmlische Drachen“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 4,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Drache",
+    "Pendel",
+    "Effekt"
+  ]
+}

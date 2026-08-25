@@ -1,0 +1,16 @@
+{
+  "id": 22697,
+  "type": "monster",
+  "name": "Stern-Gerümpelsynchronisierer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte anstelle von 1 beliebigen „Synchron“-Empfänger für eine Synchrobeschwörung verwenden. Du kannst jeden der folgenden Effekte von „Stern-Gerümpelsynchronisierer“ nur einmal pro Spielzug verwenden. Falls sich diese Karte in deiner Hand befindet: Du kannst 1 Monster der Stufe 2 oder niedriger in deinem Friedhof wählen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, beschwöre jenes Monster als Spezialbeschwörung, aber annulliere seine Effekte, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern. Du kannst diese Karte von deinem Friedhof verbannen; in diesem Spielzug können „Gerümpelkrieger“, die du kontrollierst, nicht durch Karteneffekte deines Gegners zerstört werden.",
+  "level": 3,
+  "atk": 1300,
+  "def": 500,
+  "properties": [
+    "Krieger",
+    "Empfänger",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22704,
+  "type": "monster",
+  "name": "Feiticeiro Astrógrafo, o Mago Starfrost",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Se um ou mais Cards de Monstro com a face para cima que você controla forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua mão e, depois, você pode Invocar por Invocação-Especial 1 desses monstros destruídos do seu Deck Adicional com a face para cima ou Cemitério. Durante a Fase Principal (Efeito Rápido): você pode oferecer este card como Tributo e, depois, você pode Invocar por Invocação-Fusão 1 Monstro de Fusão Dragão do seu Deck Adicional, ao embaralhar suas matérias do seu campo e/ou Deck Adicional com a face para cima no Deck. Você só pode usar cada efeito de \"Feiticeiro Astrógrafo, o Mago Starfrost\" uma vez por turno.",
+  "pendEffect": "Durante sua Fase Principal: você pode destruir este card e, se isso acontecer, coloque 1 Monstro Pêndulo de Escala 1 da sua mão ou do Deck na sua Zona de Pêndulo, exceto \"Feiticeiro Astrógrafo, o Mago Starfrost\", mas nenhum duelista pode ativar seus Efeitos de Pêndulo neste turno. Você só pode usar este efeito de \"Feiticeiro Astrógrafo, o Mago Starfrost\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

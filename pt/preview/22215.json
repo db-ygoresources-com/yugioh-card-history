@@ -1,0 +1,18 @@
+{
+  "id": 22215,
+  "type": "monster",
+  "name": "Unicórnio do Vento Paralelo, o Dracossassino",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Enquanto este card Invocado por Invocação-Pêndulo estiver na sua Zona de Monstros, seu oponente não pode escolhê-lo como alvo de efeitos de card e, além disso, ele não pode ser destruído pelos efeitos de card do seu oponente. (Efeito Rápido): você pode escolher 1 Card de Monstro Pêndulo que você controla e 1 card que seu oponente controla; devolva-os para a mão. Você só pode usar este efeito de \"Unicórnio do Vento Paralelo, o Dracossassino\" uma vez por turno.",
+  "pendEffect": "Se você tiver um card na sua outra Zona de Pêndulo: você pode ativar 1 desses efeitos;\n●Invoque este card por Invocação-Especial.\n●Destrua este card e, se isso acontecer, Invoque por Invocação-Especial 1 Card de Monstro Pêndulo de Nível 5 ou menos da sua Zona de Pêndulo.\nVocê só pode usar este efeito de \"Unicórnio do Vento Paralelo, o Dracossassino\" uma vez por turno.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Mago",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

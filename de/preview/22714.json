@@ -1,0 +1,19 @@
+{
+  "id": 22714,
+  "type": "monster",
+  "name": "Meistergeist-Technikkraft - Pendelherrscher",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "1 Pendelmonster der Stufe 7 oder höher + 1 Pendelmonster\nKann nicht durch Karteneffekte zerstört werden. Monster deines Gegners können nicht angreifen, außer Pendelmonster ohne Stufe. Du kannst 1 Monster als Tribut anbieten und dann 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie und falls du dies tust, füge deinem Gegner 1600 Schaden zu. Du kannst diesen Effekt von „Meistergeist-Technikkraft - Pendelherrscher“ zweimal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst diese Karte in deine Pendelzone legen.",
+  "pendEffect": "Während deiner Main Phase: Du kannst diese Karte ins Extra Deck zurücklegen, dann kannst du deiner Hand 1 Pendelmonster der Stufe 7 von deinem Deck oder offen von deinem Extra Deck hinzufügen. Du kannst diesen Effekt von „Meistergeist-Technikkraft - Pendelherrscher“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Maschine",
+    "Fusion",
+    "Pendel",
+    "Effekt"
+  ]
+}

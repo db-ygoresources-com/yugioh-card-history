@@ -1,0 +1,18 @@
+{
+  "id": 22704,
+  "type": "monster",
+  "name": "Hechicero del Astrógrafo, el Mago Congelaestrellas",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si una o más Cartas de Monstruo boca arriba que controles son destruidas en batalla o por el efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes Invocar de Modo Especial, desde tu Deck Extra boca arriba o Cementerio, 1 de esos monstruos destruidos. Durante la Main Phase (Efecto Rápido): puedes Sacrificar esta carta, y después puedes Invocar por Fusión 1 Monstruo de Fusión Dragón desde tu Deck Extra, barajando al Deck sus materiales en tu Campo y/o Deck Extra boca arriba. Sólo puedes usar cada efecto de \"Hechicero del Astrógrafo, el Mago Congelaestrellas\" una vez por turno.",
+  "pendEffect": "Durante tu Main Phase: puedes destruir esta carta y, si lo haces, pon en tu Zona de Péndulo 1 Monstruo de Péndulo de Escala 1 en tu mano o Deck, excepto \"Hechicero del Astrógrafo, el Mago Congelaestrellas\", pero ningún jugador puede activar sus Efectos de Péndulo este turno. Sólo puedes usar este efecto de \"Hechicero del Astrógrafo, el Mago Congelaestrellas\" una vez por turno.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Péndulo",
+    "Efecto"
+  ]
+}

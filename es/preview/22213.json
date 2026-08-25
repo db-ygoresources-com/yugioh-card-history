@@ -1,0 +1,16 @@
+{
+  "id": 22213,
+  "type": "monster",
+  "name": "Luchador Golpe Infernal",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "1 Cantante + 1+ no Cantantes\nDurante la Main Phase 2 (Efecto Rápido): puedes destruir tantos monstruos boca arriba en el Campo como sea posible y, si lo haces, inflige daño a tu adversario igual a los Niveles originales totales de esos monstruos destruidos x 200. Si esta carta es destruida en batalla o por el efecto de una carta: puedes seleccionar 1 monstruo Máquina de Nivel 5 o menor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa. Sólo puedes usar cada efecto de \"Luchador Golpe Infernal\" una vez por turno.",
+  "level": 7,
+  "atk": 2600,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Sincronía",
+    "Efecto"
+  ]
+}

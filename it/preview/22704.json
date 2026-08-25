@@ -1,0 +1,18 @@
+{
+  "id": 22704,
+  "type": "monster",
+  "name": "Stregone Astrografo, il Mago Gelidestelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se una o più Carte Mostro scoperte che controlli vengono distrutte in battaglia o dall'effetto di una carta: puoi Evocare Specialmente questa carta dalla tua mano, poi puoi Evocare Specialmente 1 di quei mostri distrutti dal tuo Extra Deck scoperto o Cimitero. Durante la Main Phase (Effetto Rapido): puoi offrire come Tributo questa carta, poi puoi Evocare tramite Fusione 1 Mostro Fusione Drago dal tuo Extra Deck, mischiando i suoi materiali dal tuo Terreno e/o Extra Deck scoperto nel Deck. Puoi utilizzare ogni effetto di \"Stregone Astrografo, il Mago Gelidestelle\" una sola volta per turno.",
+  "pendEffect": "Durante la tua Main Phase: puoi distruggere questa carta e, se lo fai, metti 1 Mostro Pendulum di Valore 1 dalla tua mano o Deck nella tua Zona Pendulum, eccetto \"Stregone Astrografo, il Mago Gelidestelle\", ma nessun giocatore può attivare i suoi Effetti Pendulum in questo turno. Puoi utilizzare questo effetto di \"Stregone Astrografo, il Mago Gelidestelle\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 7,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

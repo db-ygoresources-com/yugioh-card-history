@@ -1,0 +1,18 @@
+{
+  "id": 22215,
+  "type": "monster",
+  "name": "Parallelo Unicorno del Vento, il Dracoassassino",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Mentre questa carta Evocata Pendulum è nella tua Zona Mostri, il tuo avversario non può sceglierla come bersaglio con gli effetti delle carte, inoltre essa non può essere distrutta dagli effetti delle carte del tuo avversario. (Effetto Rapido): puoi scegliere come bersaglio 1 Carta Mostro Pendulum che controlli e 1 carta controllata dal tuo avversario; falle ritornare nella mano. Puoi utilizzare questo effetto di \"Parallelo Unicorno del Vento, il Dracoassassino\" una sola volta per turno.",
+  "pendEffect": "Se hai una carta nella tua altra Zona Pendulum: puoi attivare 1 di questi effetti;\n●Evoca Specialmente questa carta.\n●Distruggi questa carta e, se lo fai, Evoca Specialmente 1 Carta Mostro Pendulum di Livello 5 o inferiore dalla tua Zona Pendulum.\nPuoi utilizzare questo effetto di \"Parallelo Unicorno del Vento, il Dracoassassino\" una sola volta per turno.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

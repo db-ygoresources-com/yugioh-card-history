@@ -1,0 +1,18 @@
+{
+  "id": 22215,
+  "type": "monster",
+  "name": "Wind-Einhorn Parallel, der Drachobezwinger",
+  "englishAttribute": "wind",
+  "localizedAttribute": "WIND",
+  "effectText": "Solange diese als Pendelbeschwörung beschworene Karte in deiner Monsterzone liegt, kann dein Gegner sie nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden. (Schnelleffekt): Du kannst 1 Pendelmonsterkarte, die du kontrollierst, und 1 Karte, die dein Gegner kontrolliert, wählen; gib sie auf die Hand zurück. Du kannst diesen Effekt von „Wind-Einhorn Parallel, der Drachobezwinger“ nur einmal pro Spielzug verwenden.",
+  "pendEffect": "Falls du eine Karte in deiner anderen Pendelzone hast: Du kannst 1 dieser Effekte aktivieren;\n●Beschwöre diese Karte als Spezialbeschwörung.\n●Zerstöre diese Karte und falls du dies tust, beschwöre 1 Pendelmonsterkarte der Stufe 5 oder niedriger als Spezialbeschwörung von deiner Pendelzone.\nDu kannst diesen Effekt von „Wind-Einhorn Parallel, der Drachobezwinger“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Hexer",
+    "Pendel",
+    "Effekt"
+  ]
+}

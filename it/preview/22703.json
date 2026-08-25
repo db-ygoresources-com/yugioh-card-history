@@ -1,0 +1,18 @@
+{
+  "id": 22703,
+  "type": "monster",
+  "name": "Stregone Oroscopo, il Mago Mirastelle",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta è nella tua mano: puoi scartare 1 altro Mostro Pendulum \"Mago\", mostro \"Artistamico\" o mostro \"Occhi Diversi\"; Evoca Specialmente questa carta. Se questa carta viene Evocata Specialmente: puoi aggiungere 1 Mostro Pendulum con 2500 ATK dal tuo Deck alla tua mano. Puoi scegliere come bersaglio 1 Carta Mostro Pendulum che controlli; distruggila, poi puoi aggiungere 1 Mostro Pendulum scoperto dal tuo Extra Deck alla tua mano. Puoi utilizzare ogni effetto di \"Stregone Oroscopo, il Mago Mirastelle\" una sola volta per turno.",
+  "pendEffect": "Quando una Carta Magia o un suo effetto che il tuo avversario ha attivato si risolve, se controlli un Mostro Pendulum \"Mago\" o un mostro \"Occhi Diversi\", puoi annullare quell'effetto, poi distruggere questa carta. Puoi utilizzare questo effetto di \"Stregone Oroscopo, il Mago Mirastelle\" una sola volta per turno.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Incantatore",
+    "Pendulum",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22714,
+  "type": "monster",
+  "name": "Força Tech Espiritual Mestre - Governante Pêndulo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Monstro Pêndulo de Nível 7 ou mais + 1 Monstro Pêndulo\nNão pode ser destruído por efeitos de card. Os monstros do seu oponente não podem atacar, exceto Monstros Pêndulo sem um Nível. Você pode oferecer 1 monstro como Tributo e, depois, escolha 1 card que seu oponente controla; destrua-o e, se isso acontecer, cause 1600 de dano ao seu oponente. Você pode usar este efeito de \"Força Tech Espiritual Mestre - Governante Pêndulo\" duas vezes por turno. Uma vez por turno: você pode colocar este card na sua Zona de Pêndulo.",
+  "pendEffect": "Durante sua Fase Principal: você pode devolver este card para o Deck Adicional e, depois, você pode adicionar 1 Monstro Pêndulo de Nível 7 do seu Deck ou Deck Adicional com a face para cima à sua mão. Você só pode usar este efeito de \"Força Tech Espiritual Mestre - Governante Pêndulo\" uma vez por turno.",
+  "pendScale": 1,
+  "level": 12,
+  "atk": 3500,
+  "def": 3000,
+  "properties": [
+    "Máquina",
+    "Fusão",
+    "Pêndulo",
+    "Efeito"
+  ]
+}

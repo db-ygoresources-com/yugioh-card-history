@@ -1,0 +1,18 @@
+{
+  "id": 22215,
+  "type": "monster",
+  "name": "Licorne du Vent Parallèle, le Dracossassin",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Tant que cette carte Invoquée par Pendulation est dans votre Zone Monstre, votre adversaire ne peut pas la cibler avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire. (Effet Rapide) : vous pouvez cibler 1 Carte Monstre Pendule que vous contrôlez et 1 carte contrôlée par votre adversaire ; renvoyez-les à la main. Vous ne pouvez utiliser cet effet de \"Licorne du Vent Parallèle, le Dracossassin\" qu'une fois par tour.",
+  "pendEffect": "Si vous avez une carte dans votre autre Zone Pendule : vous pouvez activer 1 de ces effets ;\n●Invoquez Spécialement cette carte.\n●Détruisez cette carte, et si vous le faites, Invoquez Spécialement 1 Carte Monstre Pendule de max. Niveau 5 depuis votre Zone Pendule.\nVous ne pouvez utiliser cet effet de \"Licorne du Vent Parallèle, le Dracossassin\" qu'une fois par tour.",
+  "pendScale": 2,
+  "level": 6,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

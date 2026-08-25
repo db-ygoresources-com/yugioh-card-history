@@ -1,0 +1,18 @@
+{
+  "id": 22703,
+  "type": "monster",
+  "name": "Sorcier Horoscopique, le Magicien Observateur des Étoiles",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est dans votre main : vous pouvez défausser 1 autre Monstre Pendule \"Magicien\", monstre \"Potartiste\" ou monstre \"Yeux Impairs\" ; Invoquez Spécialement cette carte. Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Monstre Pendule avec 2500 ATK depuis votre Deck à votre main. Vous pouvez cibler 1 Carte Monstre Pendule que vous contrôlez ; détruisez-la, puis vous pouvez ajouter 1 Monstre Pendule face recto depuis votre Extra Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Sorcier Horoscopique, le Magicien Observateur des Étoiles\" qu'une fois par tour.",
+  "pendEffect": "Lorsqu'une Carte Magie ou effet de Magie activé par votre adversaire est résolu, si vous contrôlez un Monstre Pendule \"Magicien\" ou monstre \"Yeux Impairs\", vous pouvez annuler l'effet, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Sorcier Horoscopique, le Magicien Observateur des Étoiles\" qu'une fois par tour.",
+  "pendScale": 1,
+  "level": 5,
+  "atk": 1200,
+  "def": 2400,
+  "properties": [
+    "Magicien",
+    "Pendule",
+    "Effet"
+  ]
+}

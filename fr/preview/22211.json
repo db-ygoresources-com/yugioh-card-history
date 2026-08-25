@@ -1,0 +1,16 @@
+{
+  "id": 22211,
+  "type": "monster",
+  "name": "Maître de la Fin du Monde",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Fin du Monde\". Le nom de cette carte devient \"Peine, Roi de l'Armageddon\" tant qu'elle est dans la main ou sur le Terrain. Vous ne pouvez utiliser chacun des effets suivants de \"Maître de la Fin du Monde\" qu'une fois par tour. Vous pouvez révéler cette carte dans votre main, payez 2000 LP, puis bannissez 1 Magie Rituelle depuis votre Deck ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre. Vous pouvez payer 2000 LP ; détruisez toutes les autres cartes sur le Terrain, puis cette carte gagne 2900 ATK.",
+  "level": 10,
+  "atk": 3000,
+  "def": 2900,
+  "properties": [
+    "Démon",
+    "Rituel",
+    "Effet"
+  ]
+}
