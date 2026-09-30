@@ -1,0 +1,19 @@
+{
+  "id": 23518,
+  "type": "monster",
+  "name": "Archidux, el Hechicero Calamar",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 monstruos de AGUA\nPuedes mandar al Cementerio 1 carta que controles; todos los monstruos de AGUA que controlas ganan 500 ATK/DEF este turno. Si uno o más Monstruos de Enlace de AGUA que controlas son destruidos por el efecto de una carta del adversario, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes desterrar esta carta, y después selecciona 1 de esos monstruos destruidos; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo de AGUA con un Nivel igual o menor que el Rating de Enlace de ese monstruo. Sólo puedes usar cada efecto de \"Archidux, el Hechicero Calamar\" una vez por turno.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Aqua",
+    "Enlace",
+    "Efecto"
+  ]
+}

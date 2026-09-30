@@ -1,0 +1,20 @@
+{
+  "id": 23370,
+  "type": "monster",
+  "name": "Mediclius el Modelo de Poder Extraordinario",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2+ monstruos, incluyendo un Monstruo de Fusión, Sincronía, Xyz o Enlace\nGana estos efectos basados en el número de monstruos a los que apunte.\n●1+: Una vez por turno, durante tu Main Phase: puedes negar los efectos de todos los monstruos boca arriba que controle tu adversario en este momento y además, hasta el final de este turno, su ATK se divide a la mitad.\n●2+: No es afectado por los efectos activados de tu adversario.\n●3: Una vez por turno del adversario (Efecto Rápido): puedes desterrar esta carta, y además todas las cartas que controle tu adversario.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Hada",
+    "Enlace",
+    "Efecto"
+  ]
+}

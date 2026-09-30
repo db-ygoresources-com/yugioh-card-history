@@ -1,0 +1,16 @@
+{
+  "id": 23517,
+  "type": "monster",
+  "name": "Kerolia la Pleine d'Entrain",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si un ou plusieurs Magies/Pièges sur le Terrain sont renvoyés à la main (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque les cartes ont été renvoyées) ou la main (même si elle n'y était pas) en Position de Défense face recto ou face verso, mais si vous l'avez Invoquée depuis le Cimetière, bannissez-la lorsqu'elle quitte le Terrain. Si une ou plusieurs autres cartes sur le Terrain sont renvoyées à la main, tant que cette carte est dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez cibler 1 de vos Pièges Normaux bannis ; Posez-le. Vous ne pouvez utiliser chaque effet de \"Kerolia la Pleine d'Entrain\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

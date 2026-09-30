@@ -1,0 +1,19 @@
+{
+  "id": 23371,
+  "type": "monster",
+  "name": "Lumineuse Inflexcipateur",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 Monstres à Effet (un Monstre Synchro inclus)\nSi cette carte est Invoquée par Lien, ou un ou plusieurs monstres sont Invoqués Spécialement dans des zones pointées par cette carte : vous pouvez cibler 1 monstre dans votre Terrain face recto ou Cimetière ; Invoquez Spécialement 1 \"Jeton Pierre Illusien\" (Rocher/LUMIÈRE/ATK 0/DEF 0) du même Niveau que le monstre. Lorsqu'un effet d'un autre monstre sur le Terrain est activé (Effet Rapide) : vous pouvez placer le monstre au-dessus du Deck. Vous ne pouvez utiliser chaque effet de \"Lumineuse Inflexcipateur\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Rocher",
+    "Lien",
+    "Effet"
+  ]
+}

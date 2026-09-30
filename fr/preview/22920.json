@@ -1,0 +1,18 @@
+{
+  "id": 22920,
+  "type": "monster",
+  "name": "Cappello, Troupe des Clowns",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Les monstres contrôlés par votre adversaire perdent 1500 DEF tant que vous contrôlez un monstre Invoqué par Sacrifice. Si cette carte est Sacrifiée : vous pouvez activer 1 de ces effets (mais vous ne pouvez utiliser chaque effet de \"Cappello, Troupe des Clowns\" qu'une fois par tour) ;\n●Mélangez tous les Monstres Pendule depuis les Extra Decks face recto et le Terrain dans le Deck.\n●Invoquez Spécialement 1 monstre non-Pendule \"Troupe des Clowns\" depuis votre Deck ou Extra Deck, en ignorant ses conditions d'Invocation.",
+  "pendEffect": "Durant votre Main Phase : vous pouvez envoyer 1 carte non-Pendule \"Troupe des Clowns\" depuis votre Deck au Cimetière, et si vous le faites, Invoquez Spécialement cette carte, et aussi, jusqu'à la fin du prochain tour après la résolution de cet effet, vous ne pouvez pas activer les effets des monstres Invoqués Spécialement depuis le Deck ou Extra Deck. Vous ne pouvez utiliser cet effet de \"Cappello, Troupe des Clowns\" qu'une fois par tour.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Bête-Guerrier",
+    "Pendule",
+    "Effet"
+  ]
+}

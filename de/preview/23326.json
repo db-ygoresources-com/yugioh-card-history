@@ -1,0 +1,15 @@
+{
+  "id": 23326,
+  "type": "monster",
+  "name": "Fischer aus der Legende",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls dein Gegner einen Monstereffekt auf dem Spielfeld aktiviert oder wenn ein Monster eines Gegners einen Angriff deklariert, und „Umi“ oder eine Karte, die „Dunkler Zeitzauberer“ erwähnt (außer „Fischer aus der Legende“), auf dem Spielfeld liegt (außer während des Damage Steps): Beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es, zusätzlich gib während der End Phase dieses Spielzugs diese Karte vom Spielfeld auf die Hand zurück. Du kannst jeden Effekt von „Fischer aus der Legende“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1600,
+  "properties": [
+    "Krieger",
+    "Effekt"
+  ]
+}

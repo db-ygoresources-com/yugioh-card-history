@@ -1,0 +1,15 @@
+{
+  "id": 23349,
+  "type": "monster",
+  "name": "Le Grand Bandit Galant",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Vous pouvez Invoquer par Sacrifice face recto cette carte en Sacrifiant des monstres dans votre main et/ou Terrain de votre adversaire, tant que vous ne contrôlez aucun monstre. Vous ne pouvez utiliser chacun des effets suivants de \"Le Grand Bandit Galant\" qu'une fois par tour. Lorsque votre adversaire active un effet de carte dans la main, Cimetière ou bannissement, et que vous contrôlez cette carte Invoquée/Posée Normalement (Effet Rapide) : vous pouvez annuler l'effet, et si vous le faites, détruisez la carte. Durant la Battle Phase (Effet Rapide) : vous pouvez révéler toute votre main ; changez tous les monstres contrôlés par votre adversaire en Position de Défense.",
+  "level": 10,
+  "atk": 2500,
+  "def": 2000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

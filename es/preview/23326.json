@@ -1,0 +1,15 @@
+{
+  "id": 23326,
+  "type": "monster",
+  "name": "Pescador de Leyenda",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si tu adversario activa un efecto de monstruo en el Campo, o cuando un monstruo del adversario declara un ataque, y \"Umi\" o una carta que mencione \"Mago del Tiempo Oscuro\" (excepto \"Pescador de Leyenda\") está en el Campo (excepto durante el Damage Step): Invoca esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo que controle tu adversario; destrúyelo, y además durante la End Phase de este turno, devuelve esta carta del Campo a la mano. Sólo puedes usar cada efecto de \"Pescador de Leyenda\" una vez por turno.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

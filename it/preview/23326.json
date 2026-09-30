@@ -1,0 +1,15 @@
+{
+  "id": 23326,
+  "type": "monster",
+  "name": "Pescatore della Leggenda",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se il tuo avversario attiva l'effetto di un mostro sul Terreno, o quando un mostro dell'avversario dichiara un attacco, e \"Umi\" o una carta che menziona \"Stregone del Tempo Oscuro\" (eccetto \"Pescatore della Leggenda\") è sul Terreno (eccetto durante il Damage Step): Evoca Specialmente questa carta dalla tua mano. Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo, inoltre durante la End Phase di questo turno, fai ritornare questa carta dal Terreno nella mano. Puoi utilizzare ogni effetto di \"Pescatore della Leggenda\" una sola volta per turno.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1600,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

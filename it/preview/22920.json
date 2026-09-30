@@ -1,0 +1,18 @@
+{
+  "id": 22920,
+  "type": "monster",
+  "name": "Compagnia di Clown Cappello",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "I mostri controllati dal tuo avversario perdono 1500 DEF mentre controlli un mostro Evocato tramite Tributo. Se questa carta viene offerta come Tributo: puoi attivare 1 di questi effetti (ma puoi utilizzare ogni effetto di \"Compagnia di Clown Cappello\" una sola volta per turno);\n●Mischia tutti i Mostri Pendulum dagli Extra Deck scoperti e dal Terreno nel Deck.\n●Evoca Specialmente 1 mostro \"Compagnia di Clown\" non-Pendulum dal tuo Deck o Extra Deck, ignorando le sue condizioni di Evocazione.",
+  "pendEffect": "Durante la tua Main Phase: puoi mandare 1 carta \"Compagnia di Clown\" non-Pendulum dal tuo Deck al Cimitero e, se lo fai, Evoca Specialmente questa carta, inoltre fino alla fine del prossimo turno dopo che questo effetto si è risolto, non puoi attivare gli effetti dei mostri Evocati Specialmente dal Deck o Extra Deck. Puoi utilizzare questo effetto di \"Compagnia di Clown Cappello\" una sola volta per turno.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Guerriero-Bestia",
+    "Pendulum",
+    "Effetto"
+  ]
+}

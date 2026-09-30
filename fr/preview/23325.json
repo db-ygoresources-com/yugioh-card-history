@@ -1,0 +1,15 @@
+{
+  "id": 23325,
+  "type": "monster",
+  "name": "Choc Énergétique Jinzo",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Jinzo\" tant qu'elle est sur le Terrain ou dans le Cimetière. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez détruire tous les Pièges contrôlés par votre adversaire (s'ils sont face verso, révélez-les), puis cette carte gagne 300 ATK pour chaque carte détruite. Vous ne pouvez utiliser cet effet de \"Choc Énergétique Jinzo\" qu'une fois par tour. Tant que vous avez un autre monstre qui mentionne \"Magicien du Temps des Ténèbres\" dans votre Terrain ou Cimetière, votre adversaire ne peut activer ni de Cartes Piège ni d'effets de Piège.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

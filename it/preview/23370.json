@@ -1,0 +1,20 @@
+{
+  "id": 23370,
+  "type": "monster",
+  "name": "Mediclius lo Straordinario Patrono Potente",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "2+ mostri, compreso un Mostro Fusione, Synchro, Xyz o Link\nGuadagna questi effetti a seconda del numero di mostri a cui punta.\n●1+: Una volta per turno, durante la tua Main Phase: puoi annullare gli effetti di tutti i mostri scoperti attualmente controllati dal tuo avversario, inoltre fino alla fine di questo turno, i loro ATK vengono dimezzati.\n●2+: Immune agli effetti attivati del tuo avversario.\n●3: Una volta per turno dell'avversario (Effetto Rapido): puoi bandire questa carta, inoltre tutte le carte controllate dal tuo avversario.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Fata",
+    "Link",
+    "Effetto"
+  ]
+}

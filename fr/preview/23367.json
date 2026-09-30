@@ -1,0 +1,16 @@
+{
+  "id": 23367,
+  "type": "monster",
+  "name": "Siclavee à Couronne",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "2 monstres de Niveau 3\nNon utilisable comme Matériel pour une Invocation Xyz. Une fois par tour, vous pouvez aussi Invoquer par Xyz \"Siclavee à Couronne\" en utilisant 1 monstre Bête que vous contrôlez avec max. 2000 ATK (transférez ses Matériels). Si cette carte détruit un monstre au combat : placez 1 Compteur Couronne sur cette carte, puis appliquez cet effet selon le nombre de Compteurs Couronne sur cette carte.\n●1 : Elle gagne 400 ATK.\n●2 : Elle gagne 600 ATK.\n●3 : Renvoyez-la à l'Extra Deck, et si vous le faites, piochez 3 cartes.",
+  "rank": 3,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Bête-Guerrier",
+    "Xyz",
+    "Effet"
+  ]
+}

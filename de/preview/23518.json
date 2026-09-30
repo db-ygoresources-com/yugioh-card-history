@@ -1,0 +1,19 @@
+{
+  "id": 23518,
+  "type": "monster",
+  "name": "Archidux, der Tintenfisch-Hexenmeister",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2 WASSER Monster\nDu kannst 1 Karte, die du kontrollierst, auf den Friedhof legen; alle WASSER Monster, die du kontrollierst, erhalten für diesen Spielzug 500 ATK/DEF. Falls ein oder mehr WASSER Linkmonster, die du kontrollierst, durch einen Karteneffekt eines Gegners zerstört werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte verbannen und dann 1 jener zerstörten Monster wählen; beschwöre 1 WASSER Monster, dessen Stufe kleiner oder gleich der Linkzahl jenes Monsters ist, als Spezialbeschwörung von deiner Hand oder deinem Friedhof. Du kannst jeden Effekt von „Archidux, der Tintenfisch-Hexenmeister“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Aqua",
+    "Link",
+    "Effekt"
+  ]
+}

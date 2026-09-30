@@ -1,0 +1,16 @@
+{
+  "id": 23516,
+  "type": "monster",
+  "name": "Kumenyo, le Cerf aux Neuf Teintes",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "2+ monstres LUMIÈRE et/ou TÉNÈBRES de Niveau 4\nDurant la Main Phase (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; attachez 1 carte (le Matériel détaché exclu) depuis votre main, Cimetière ou bannissement à cette carte. Vous ne pouvez utiliser cet effet de \"Kumenyo, le Cerf aux Neuf Teintes\" qu'une fois par tour. Gagne les effets suivants, selon le nombre de Types de Monstre différents qui lui sont attachés.\n●2+ : Non destructible par des effets de carte.\n●3+ : Durant votre Draw Phase, piochez 2 cartes au lieu d'1 pour votre pioche normale.",
+  "rank": 4,
+  "atk": 2500,
+  "def": 1800,
+  "properties": [
+    "Magicien",
+    "Xyz",
+    "Effet"
+  ]
+}

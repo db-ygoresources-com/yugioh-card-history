@@ -1,0 +1,19 @@
+{
+  "id": 23372,
+  "type": "monster",
+  "name": "Robot de Ayuda para el Combate Subacuático",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "2 Monstruos Máquina\nSi esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo que controle tu adversario; destruye ese monstruo, y además esta carta, y después puedes Invocar de Modo Especial, desde tu Cementerio, 1 monstruo Máquina que no sea de AGUA con 1600 ATK o menos. Si esta carta es desterrada: puedes añadir a tu mano 1 monstruo Máquina en tu Deck cuyo ATK sea igual a su propia DEF. Sólo puedes usar cada efecto de \"Robot de Ayuda para el Combate Subacuático\" una vez por turno, y además no puedes Invocar de Modo Especial el turno en el que activas cualquiera de los efectos de esta carta, excepto monstruos Máquina.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "3"
+  ],
+  "atk": 800,
+  "properties": [
+    "Máquina",
+    "Enlace",
+    "Efecto"
+  ]
+}

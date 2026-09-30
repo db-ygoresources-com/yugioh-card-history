@@ -1,0 +1,16 @@
+{
+  "id": 23517,
+  "type": "monster",
+  "name": "Kerolia die Ausgelassene",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls ein/e oder mehr Zauber/Fallen vom Spielfeld auf die Hand zurückgegeben werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof (falls sie dort lag, als jene Karten zurückgegeben wurden) oder deiner Hand (selbst falls nicht) in die offene oder verdeckte Verteidigungsposition beschwören, aber falls du sie vom Friedhof beschworen hast, verbanne sie, wenn sie das Spielfeld verlässt. Falls eine oder mehr andere Karten vom Spielfeld auf die Hand zurückgegeben werden, solange diese Karte in der Monsterzone liegt (außer während des Damage Steps): Du kannst 1 deiner verbannten Normalen Fallen wählen; setze sie. Du kannst jeden Effekt von „Kerolia die Ausgelassene“ nur einmal pro Spielzug verwenden.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Empfänger",
+    "Effekt"
+  ]
+}

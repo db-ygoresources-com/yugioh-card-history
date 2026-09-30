@@ -1,0 +1,20 @@
+{
+  "id": 23370,
+  "type": "monster",
+  "name": "Mediclius le Mécène du Pouvoir de l'Extraordinaire",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2+ monstres (un Monstre Fusion, Synchro, Xyz ou Lien inclus)\nGagne ces effets selon le nombre de monstres qu'elle pointe.\n●1+ : Une fois par tour, durant votre Main Phase : vous pouvez annuler les effets de tous les monstres face recto actuellement contrôlés par votre adversaire, et aussi, leur ATK sera divisée par deux jusqu'à la fin de ce tour.\n●2+ : Non affectée par les effets activés de votre adversaire.\n●3 : Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez bannir cette carte, et aussi toutes les cartes contrôlées par votre adversaire.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Elfe",
+    "Lien",
+    "Effet"
+  ]
+}

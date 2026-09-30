@@ -1,0 +1,19 @@
+{
+  "id": 23373,
+  "type": "monster",
+  "name": "Stratiae le Dino Écrastrate",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres (un monstre Dinosaure inclus)\nSi cette carte est Invoquée par Lien : vous pouvez faire gagner à cette carte une ATK égale à la moitié de la somme des ATK d'origine des monstres Dinosaure utilisés comme Matériel Lien. Durant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion Dinosaure depuis votre Extra Deck, en bannissant ses Matériels depuis votre Terrain ou Cimetière, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Dinosaure exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Stratiae le Dino Écrastrate\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "2",
+    "3"
+  ],
+  "atk": 0,
+  "properties": [
+    "Dinosaure",
+    "Lien",
+    "Effet"
+  ]
+}

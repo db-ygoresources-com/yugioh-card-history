@@ -1,0 +1,19 @@
+{
+  "id": 23518,
+  "type": "monster",
+  "name": "Archidux, le Sorcier Calamar",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "2 monstres EAU\nVous pouvez envoyer 1 carte que vous contrôlez au Cimetière ; ce tour, tous les monstres EAU que vous contrôlez gagnent 500 ATK/DEF. Si un ou plusieurs Monstres Lien EAU que vous contrôlez sont détruits par un effet de carte de l'adversaire, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte, puis ciblez 1 de ces monstres détruits ; Invoquez Spécialement 1 monstre EAU depuis votre main ou Cimetière, d'un Niveau inférieur ou égal à la Classification Lien du monstre. Vous ne pouvez utiliser chaque effet de \"Archidux, le Sorcier Calamar\" qu'une fois par tour.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Aqua",
+    "Lien",
+    "Effet"
+  ]
+}

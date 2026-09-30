@@ -1,0 +1,16 @@
+{
+  "id": 23517,
+  "type": "monster",
+  "name": "Kerolia la Divertida",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si una o más Mágicas/Trampas en el Campo son devueltas a la mano (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Cementerio (si estaba allí cuando esa carta fue devuelta) o mano (aun si no lo estaba), en Posición de Defensa boca arriba o boca abajo, pero si la Invocaste desde el Cementerio, destiérrala cuando deje el Campo. Si otra u otras cartas en el Campo son devueltas a la mano, mientras esta carta está en la Zona de Monstruos (excepto durante el Damage Step): puedes seleccionar 1 de tus Trampas Normales desterradas; Colócala. Sólo puedes usar cada efecto de \"Kerolia la Divertida\" una vez por turno.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Aqua",
+    "Cantante",
+    "Efecto"
+  ]
+}

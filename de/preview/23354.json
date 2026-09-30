@@ -1,0 +1,15 @@
+{
+  "id": 23354,
+  "type": "monster",
+  "name": "Vater Grizzly",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 Monster der Stufe 4 mit 1400 ATK als Spezialbeschwörung von deinem Deck beschwören oder falls du 2 oder mehr Monster der Stufe 4 mit 1400 ATK in deinem Friedhof hast, kannst du stattdessen 1 Normales Monster als Spezialbeschwörung beschwören. Wenn dein Gegner einen Monstereffekt aktiviert, solange du ein offenes Nichteffekt-Monster kontrollierst (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte. Du kannst diesen Effekt von „Vater Grizzly“ nur einmal pro Spielzug verwenden.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Effekt"
+  ]
+}

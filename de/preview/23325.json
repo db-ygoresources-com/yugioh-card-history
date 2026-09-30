@@ -1,0 +1,15 @@
+{
+  "id": 23325,
+  "type": "monster",
+  "name": "Jinzo - Energieschocker",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Der Name dieser Karte wird zu „Jinzo“, solange sie auf dem Spielfeld oder im Friedhof liegt. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst alle Fallen zerstören, die dein Gegner kontrolliert (falls verdeckt, zeige sie vor), dann erhält diese Karte für jede zerstörte Karte 300 ATK. Du kannst diesen Effekt von „Jinzo - Energieschocker“ nur einmal pro Spielzug verwenden. Solange du ein anderes Monster, das „Dunkler Zeitzauberer“ erwähnt, auf deiner Spielfeldseite oder in deinem Friedhof hast, kann dein Gegner weder Fallenkarten noch Falleneffekte aktivieren.",
+  "level": 7,
+  "atk": 2400,
+  "def": 1500,
+  "properties": [
+    "Maschine",
+    "Effekt"
+  ]
+}

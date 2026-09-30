@@ -1,0 +1,16 @@
+{
+  "id": 23519,
+  "type": "monster",
+  "name": "Cularsaw Bleu du Ciel",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "1 monstre TÉNÈBRES de min. Niveau 8 + 1 monstre Guerrier\nSi cette carte est Invoquée par Fusion : vous pouvez équiper 1 monstre Guerrier depuis votre Cimetière ou bannissement, ou 1 monstre depuis le Cimetière ou bannissement de votre adversaire, à cette carte comme Magie d'Équipement qui lui donne 500 ATK/DEF. Lorsque votre adversaire active une Carte Magie/Piège ou effet de Magie/Piège (Effet Rapide) : vous pouvez envoyer 1 Carte d'Équipement que vous contrôlez au Cimetière ; annulez l'activation. Vous ne pouvez utiliser chaque effet de \"Cularsaw Bleu du Ciel\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2800,
+  "def": 1800,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

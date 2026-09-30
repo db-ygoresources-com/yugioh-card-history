@@ -1,0 +1,16 @@
+{
+  "id": 23365,
+  "type": "monster",
+  "name": "Número C104: Victoria del Horror de las Sombras Mascarada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "4 monstruos de Nivel 5\nUna vez por turno (Efecto Rápido): puedes desacoplar 1 material de esta carta, y después selecciona 1 carta que controle tu adversario; destrúyela. Si esta carta batalla con un monstruo del adversario, durante el cálculo de daño: el ATK/DEF de esta carta se convierten en iguales al ATK o DEF de ese monstruo del adversario (lo que sea mayor) +100, sólo durante ese cálculo de daño. Si esta carta destruye un monstruo en batalla: manda al Cementerio 1 carta al azar en la mano de tu adversario y, si lo haces, divide a la mitad los LP de tu adversario.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Xyz",
+    "Efecto"
+  ]
+}

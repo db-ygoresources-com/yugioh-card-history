@@ -1,0 +1,18 @@
+{
+  "id": 22920,
+  "type": "monster",
+  "name": "Cappello de la Compañía de Payasos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Los monstruos que controla tu adversario pierden 1500 DEF mientras controles un monstruo Invocado por Sacrificio. Si esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada efecto de \"Cappello de la Compañía de Payasos\" una vez por turno);\n●Baraja al Deck todos los Monstruos de Péndulo en los Decks Extra boca arriba y el Campo.\n●Invoca de Modo Especial 1 monstruo \"Compañía de Payasos\" que no sea de Péndulo desde tu Deck o Deck Extra, ignorando sus condiciones de Invocación.",
+  "pendEffect": "Durante tu Main Phase: puedes mandar al Cementerio 1 carta \"Compañía de Payasos\" que no sea de Péndulo en tu Deck y, si lo haces, Invoca esta carta de Modo Especial y además, hasta el final del próximo turno después de que se resuelva este efecto, no puedes activar el efecto de los monstruos Invocados de Modo Especial desde el Deck o Deck Extra. Sólo puedes usar este efecto de \"Cappello de la Compañía de Payasos\" una vez por turno.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Guerrero-Bestia",
+    "Péndulo",
+    "Efecto"
+  ]
+}

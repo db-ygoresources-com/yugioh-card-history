@@ -1,0 +1,19 @@
+{
+  "id": 23371,
+  "type": "monster",
+  "name": "Steinbefreierin Luminous",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "2 Effektmonster, darunter ein Synchromonster\nFalls diese Karte als Linkbeschwörung beschworen wird oder ein oder mehr Monster als Spezialbeschwörung in eine oder mehr Zonen, auf die diese Karte zeigt, beschworen werden: Du kannst 1 Monster offen auf deiner Spielfeldseite oder in deinem Friedhof wählen; beschwöre 1 „Verwunschener-Stein-Spielmarke“ (Fels/LICHT/ATK 0/DEF 0) mit derselben Stufe wie jenes Monster als Spezialbeschwörung. Wenn ein Effekt eines anderen Monsters auf dem Spielfeld aktiviert wird (Schnelleffekt): Du kannst jenes Monster aufs Deck legen. Du kannst jeden Effekt von „Steinbefreierin Luminous“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 2,
+  "linkArrows": [
+    "4",
+    "2"
+  ],
+  "atk": 1800,
+  "properties": [
+    "Fels",
+    "Link",
+    "Effekt"
+  ]
+}

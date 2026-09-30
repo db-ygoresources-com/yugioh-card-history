@@ -1,0 +1,16 @@
+{
+  "id": 23353,
+  "type": "monster",
+  "name": "Frl. Mystick",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 anderes Hexer-Monster oder 1 Zauber/Falle abwerfen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Hexer-Monster der Stufe 4 von deinem Deck verbannen und falls du dies tust, während der End Phase dieses Spielzugs, füge jenes verbannte Monster deiner Hand hinzu oder beschwöre es als Spezialbeschwörung. Du kannst jeden Effekt von „Frl. Mystick“ nur einmal pro Spielzug verwenden.",
+  "level": 5,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Hexer",
+    "Empfänger",
+    "Effekt"
+  ]
+}

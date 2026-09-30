@@ -1,0 +1,16 @@
+{
+  "id": 23365,
+  "type": "monster",
+  "name": "Numéro C104 : Victoire Mascarade Horreur de l'Ombre",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "4 monstres de Niveau 5\nUne fois par tour (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 carte contrôlée par votre adversaire ; détruisez-la. Si cette carte combat un monstre de l'adversaire, durant le calcul des dommages : durant ce calcul des dommages uniquement, l'ATK/DEF de cette carte deviennent égales à l'ATK ou DEF du monstre de l'adversaire (la plus haute valeur) +100. Si cette carte détruit un monstre au combat : envoyez 1 carte au hasard depuis la main de votre adversaire au Cimetière, et si vous le faites, divisez par deux les LP de votre adversaire.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Magicien",
+    "Xyz",
+    "Effet"
+  ]
+}

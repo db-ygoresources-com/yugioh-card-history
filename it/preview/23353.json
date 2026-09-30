@@ -1,0 +1,16 @@
+{
+  "id": 23353,
+  "type": "monster",
+  "name": "Miss Tick Richiamo",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se questa carta è nella tua mano o Cimitero: puoi scartare 1 altro mostro Incantatore o 1 Magia/Trappola; Evoca Specialmente questa carta, ma bandiscila quando lascia il Terreno. Se questa carta viene Evocata Normalmente o Specialmente: puoi bandire 1 mostro Incantatore di Livello 4 dal tuo Deck e, se lo fai, durante la End Phase di questo turno, aggiungi alla tua mano o Evoca Specialmente quel mostro bandito. Puoi utilizzare ogni effetto di \"Miss Tick Richiamo\" una sola volta per turno.",
+  "level": 5,
+  "atk": 1600,
+  "def": 800,
+  "properties": [
+    "Incantatore",
+    "Tuner",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23326,
+  "type": "monster",
+  "name": "Pêcheur de Légende",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si votre adversaire active un effet de monstre sur le Terrain, ou lorsqu'un monstre de l'adversaire déclare une attaque, et que \"Umi\" ou une carte qui mentionne \"Magicien du Temps des Ténèbres\" (\"Pêcheur de Légende\" exclu) est sur le Terrain (sauf durant la Damage Step) : Invoquez Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et aussi, renvoyez cette carte depuis le Terrain à la main durant la End Phase de ce tour. Vous ne pouvez utiliser chaque effet de \"Pêcheur de Légende\" qu'une fois par tour.",
+  "level": 4,
+  "atk": 1850,
+  "def": 1600,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

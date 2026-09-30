@@ -1,0 +1,19 @@
+{
+  "id": 23372,
+  "type": "monster",
+  "name": "Robô Ajudante de Combate Subaquático",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "2 monstros Máquina\nSe este card for Invocado por Invocação-Link: você pode escolher 1 monstro que seu oponente controla; destrua esse monstro e, além disso, este card e, depois, você pode Invocar por Invocação-Especial 1 monstro Máquina que não seja de ÁGUA com 1600 ou menos de ATK do seu Cemitério. Se este card for banido: você pode adicionar 1 monstro Máquina cujo ATK seja igual à sua própria DEF do seu Deck à sua mão. Você só pode usar cada efeito de \"Robô Ajudante de Combate Subaquático\" uma vez por turno e, além disso, você não pode Invocar por Invocação-Especial no turno em que ativar qualquer um dos efeitos deste card, exceto monstros Máquina.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "3"
+  ],
+  "atk": 800,
+  "properties": [
+    "Máquina",
+    "Link",
+    "Efeito"
+  ]
+}

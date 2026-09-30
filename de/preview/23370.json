@@ -1,0 +1,20 @@
+{
+  "id": 23370,
+  "type": "monster",
+  "name": "Mediclius der außergewöhnliche Machtpatron",
+  "englishAttribute": "water",
+  "localizedAttribute": "WASSER",
+  "effectText": "2+ Monster, darunter ein Fusions-, Synchro-, Xyz- oder Linkmonster\nDiese Karte erhält diese Effekte, basierend auf der Anzahl der Monster, auf die sie zeigt.\n●1+: Einmal pro Spielzug, während deiner Main Phase: Du kannst die Effekte aller offenen Monster annullieren, die dein Gegner derzeit kontrolliert, zusätzlich werden ihre ATK bis zum Ende dieses Spielzugs halbiert.\n●2+: Bleibt von aktivierten Effekten deines Gegners unberührt.\n●3: Einmal pro Spielzug des Gegners (Schnelleffekt): Du kannst diese Karte verbannen, zusätzlich alle Karten, die dein Gegner kontrolliert.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Fee",
+    "Link",
+    "Effekt"
+  ]
+}

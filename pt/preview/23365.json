@@ -1,0 +1,16 @@
+{
+  "id": 23365,
+  "type": "monster",
+  "name": "Número C104: Vitória do Terror Umbral Mascarado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "4 monstros de Nível 5\nUma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 card que seu oponente controla; destrua-o. Se este card batalhar um monstro do oponente, durante o cálculo de dano: o ATK/DEF deste card se tornam iguais ao ATK ou DEF desse monstro do oponente (o que for maior) +100, apenas durante esse cálculo de dano. Se este card destruir um monstro em batalha: envie 1 card aleatório da mão do seu oponente para o Cemitério e, se isso acontecer, diminua pela metade os PV do seu oponente.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Mago",
+    "Xyz",
+    "Efeito"
+  ]
+}

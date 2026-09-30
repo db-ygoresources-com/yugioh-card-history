@@ -1,0 +1,16 @@
+{
+  "id": 23365,
+  "type": "monster",
+  "name": "Nummer C104: Schattenhorror Maskeradensieg",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "4 Monster der Stufe 5\nEinmal pro Spielzug (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und dann 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie. Falls diese Karte gegen ein Monster eines Gegners kämpft, während der Schadensberechnung: Die ATK/DEF dieser Karte werden nur während jener Schadensberechnung gleich den ATK oder DEF jenes Monsters des Gegners (was davon höher ist) +100. Falls diese Karte ein Monster durch Kampf zerstört: Lege 1 zufällige Karte von der Hand deines Gegners auf den Friedhof und falls du dies tust, halbiere die LP deines Gegners.",
+  "rank": 5,
+  "atk": 3000,
+  "def": 1500,
+  "properties": [
+    "Hexer",
+    "Xyz",
+    "Effekt"
+  ]
+}

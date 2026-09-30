@@ -1,0 +1,20 @@
+{
+  "id": 23370,
+  "type": "monster",
+  "name": "Mediclius, o Patrono do Poder Extraordinário",
+  "englishAttribute": "water",
+  "localizedAttribute": "ÁGUA",
+  "effectText": "2+ monstros, incluindo um Monstro de Fusão, Sincro, Xyz ou Link\nGanha esses efeitos de acordo com o número de monstros para os quais apontar.\n●1+: Uma vez por turno, durante sua Fase Principal: você pode negar os efeitos de todos os monstros com a face para cima que seu oponente controla atualmente e, além disso, até o final deste turno, o ATK deles é diminuído pela metade.\n●2+: Não é afetado pelos efeitos ativados do seu oponente.\n●3: Uma vez por turno do oponente (Efeito Rápido): você pode banir este card e, além disso, todos os cards que seu oponente controla.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Fada",
+    "Link",
+    "Efeito"
+  ]
+}

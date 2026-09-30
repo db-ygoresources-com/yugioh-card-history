@@ -1,0 +1,16 @@
+{
+  "id": 23346,
+  "type": "monster",
+  "name": "Steinbefreierin Leiterin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 andere „Steinbefreier“-Karte von deiner Hand aufs Deck legen; beschwöre diese Karte als Spezialbeschwörung. Während deiner Main Phase: Du kannst die obersten 5 Karten deines Decks ausgraben und falls du dies tust, kannst du 1 ausgegrabenes Fels-Monster der Stufe 4 oder niedriger als Spezialbeschwörung beschwören, zusätzlich lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck. Du kannst jeden Effekt von „Steinbefreierin Leiterin“ nur einmal pro Spielzug verwenden.",
+  "level": 6,
+  "atk": 1400,
+  "def": 1100,
+  "properties": [
+    "Fels",
+    "Empfänger",
+    "Effekt"
+  ]
+}

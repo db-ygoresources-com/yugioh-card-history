@@ -1,0 +1,18 @@
+{
+  "id": 22920,
+  "type": "monster",
+  "name": "Clowntrupp Cappello",
+  "englishAttribute": "light",
+  "localizedAttribute": "LICHT",
+  "effectText": "Monster, die dein Gegner kontrolliert, verlieren 1500 DEF, solange du ein als Tributbeschwörung beschworenes Monster kontrollierst. Falls diese Karte als Tribut angeboten wird: Du kannst 1 dieser Effekte aktivieren (aber du kannst jeden Effekt von „Clowntrupp Cappello“ nur einmal pro Spielzug verwenden);\n●Mische alle Pendelmonster vom Spielfeld und offen von den Extra Decks ins Deck.\n●Beschwöre 1 „Clowntrupp“-Nichtpendel-Monster als Spezialbeschwörung von deinem Deck oder Extra Deck, ungeachtet seiner Beschwörungsbedingungen.",
+  "pendEffect": "Während deiner Main Phase: Du kannst 1 „Clowntrupp“-Nichtpendel-Karte von deinem Deck auf den Friedhof legen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du bis zum Ende des nächsten Spielzugs, nachdem dieser Effekt aufgelöst wurde, keine Effekte von Monstern aktivieren, die als Spezialbeschwörung vom Deck oder Extra Deck beschworen wurden. Du kannst diesen Effekt von „Clowntrupp Cappello“ nur einmal pro Spielzug verwenden.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Ungeheuer-Krieger",
+    "Pendel",
+    "Effekt"
+  ]
+}

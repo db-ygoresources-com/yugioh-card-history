@@ -1,0 +1,18 @@
+{
+  "id": 22920,
+  "type": "monster",
+  "name": "Companhia de Palhaços Cappello",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Monstros que seu oponente controla perdem 1500 de DEF enquanto você controlar um monstro Invocado por Invocação-Tributo. Se este card for oferecido como Tributo: você pode ativar 1 desses efeitos (mas você só pode usar cada efeito de \"Companhia de Palhaços Cappello\" uma vez por turno);\n●Embaralhe no Deck todos os Monstros Pêndulo dos Decks Adicionais com a face para cima e do campo.\n●Invoque por Invocação-Especial 1 monstro \"Companhia de Palhaços\" que não seja Pêndulo do seu Deck ou Deck Adicional, ignorando suas condições de Invocação.",
+  "pendEffect": "Durante sua Fase Principal: você pode enviar 1 card \"Companhia de Palhaços\" que não seja Pêndulo do seu Deck para o Cemitério e, se isso acontecer, Invoque este card por Invocação-Especial e, além disso, até o final do próximo turno depois que este efeito resolver, você não pode ativar os efeitos de monstros Invocados por Invocação-Especial do Deck ou Deck Adicional. Você só pode usar este efeito de \"Companhia de Palhaços Cappello\" uma vez por turno.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Besta-Guerreira",
+    "Pêndulo",
+    "Efeito"
+  ]
+}
