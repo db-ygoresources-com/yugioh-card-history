@@ -1,0 +1,15 @@
+{
+  "id": 22739,
+  "type": "monster",
+  "name": "Orco Gatling",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Puoi mandare un qualsiasi numero di carte coperte dalla tua Zona Magie & Trappole al Cimitero; infliggi 800 danni al tuo avversario per ogni carta mandata al Cimitero, inoltre il tuo avversario non subisce danno da effetto dagli effetti dei mostri non-Demone per il resto di questo turno. Puoi utilizzare questo effetto di \"Orco Gatling\" solo tre volte per turno. Una volta per turno, quando questa carta viene scelta come bersaglio per un attacco: puoi infliggere 500 danni al tuo avversario per ogni mostro in Posizione di Attacco che controlla, poi termina la Battle Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

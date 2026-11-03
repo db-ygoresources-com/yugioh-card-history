@@ -1,0 +1,22 @@
+{
+  "id": 22743,
+  "type": "monster",
+  "name": "Dragon Hydrelecteur Parfaitron",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "1+ Monstre Lien\nTant que cette carte est face recto sur le Terrain, elle est aussi LUMIÈRE, EAU, FEU et VENT, et aussi, elle n'est pas affectée par les effets activés des monstres du même Attribut. Si cette carte est Invoquée par Lien, ou à la fin de la Damage Step si cette carte a combattu : détruisez autant de monstres contrôlés par votre adversaire que possible, puis infligez 300 points de dommages à votre adversaire pour chaque Monstre Lien dans votre Cimetière. Si cette carte avec min. 1000 ATK va être détruite au combat ou par un effet de carte, vous pouvez changer son ATK pour qu'elle soit inférieure de 1000 à son ATK actuelle à la place.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Cyberse",
+    "Lien",
+    "Effet"
+  ]
+}

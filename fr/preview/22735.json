@@ -1,0 +1,15 @@
+{
+  "id": 22735,
+  "type": "monster",
+  "name": "Dieu des Ténèbres",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 2 monstres Démon et/ou Elfe. Non destructible au combat. Une fois par tour : vous pouvez activer cet effet ; Invoquez Spécialement autant de \"Jeton Dieu des Ténèbres\" (Démon/TÉNÈBRES/Niveau 10/ATK 3000/DEF 1000) que possible sur votre Terrain, mais ils ne peuvent ni attaquer directement ni être détruits au combat, et ils sont détruits lorsque cette carte est détruite, et aussi, vous ne pouvez pas Invoquer Spécialement d'autres monstres le reste de ce tour. Si un monstre est détruit au combat : infligez 700 points de dommages à votre adversaire.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

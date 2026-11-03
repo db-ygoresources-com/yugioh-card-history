@@ -1,0 +1,15 @@
+{
+  "id": 23172,
+  "type": "monster",
+  "name": "Zélote Désenchaîné - Kamra",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est dans votre main : vous pouvez cibler max. 3 cartes que vous contrôlez ; détruisez-les, Invoquez Spécialement cette carte, puis vous pouvez appliquer n'importe lequel de ces effets dans l'ordre (une fois chacun), selon les types d'origine de ces cartes détruites.\n●Monstre : Piochez 1 carte.\n●Magie : Changez la position de combat d'1 monstre.\n●Piège : Détruisez 1 autre carte sur le Terrain.\nSi cette carte sur le Terrain est détruite par un effet de carte : vous pouvez détruire tous les monstres sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Zélote Désenchaîné - Kamra\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

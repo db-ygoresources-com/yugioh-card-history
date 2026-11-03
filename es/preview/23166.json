@@ -1,0 +1,16 @@
+{
+  "id": 23166,
+  "type": "monster",
+  "name": "Aprendices Artibruja",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "1 monstruo \"Artibruja\" + 1 monstruo Lanzador de Conjuros\nDurante la Main o Battle Phase (Efecto Rápido): puedes activar 1 de estos efectos;\n●Añade a tu mano 1 Mágica \"Artibruja\" en tu Deck.\n●Muestra 1 Mágica Normal o de Juego Rápido \"Artibruja\" en tu mano; aplica el efecto de activación de esa carta.\nDurante tu End Phase: puedes devolver al Cementerio 1 de tus cartas \"Artibruja\" desterradas. Sólo puedes usar cada efecto de \"Aprendices Artibruja\" una vez por turno.",
+  "level": 8,
+  "atk": 1800,
+  "def": 2100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Fusión",
+    "Efecto"
+  ]
+}

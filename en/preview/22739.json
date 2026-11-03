@@ -1,0 +1,15 @@
+{
+  "id": 22739,
+  "type": "monster",
+  "name": "Gatling Ogre",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FIRE",
+  "effectText": "You can send any number of face-down cards from your Spell & Trap Zone to the GY; inflict 800 damage to your opponent for each card sent to the GY, also your opponent takes no effect damage from non-Fiend monsters' effects for the rest of this turn. You can only use this effect of \"Gatling Ogre\" thrice per turn. Once per turn, when this card is targeted for an attack: You can inflict 500 damage to your opponent for each Attack Position monster they control, then end the Battle Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Fiend",
+    "Effect"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 23174,
+  "type": "monster",
+  "name": "Alma Desencadenada de Rabia Abominable",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "2+ monstruos, incluyendo un monstruo Demonio\nSi tu adversario Invoca de Modo Especial uno o más monstruos boca arriba (excepto durante el Damage Step): puedes seleccionar 1 de ellos; destruye 1 monstruo Demonio que controles y, si lo haces, niega los efectos del monstruo seleccionado hasta el final de este turno. Cuando es activado un efecto de monstruo en el Campo y controlas un Monstruo de Enlace \"Desencadenado/a\" de Link-4 o mayor (Efecto Rápido): puedes desterrar esta carta en tu Cementerio; destruye el monstruo que activó su efecto. Sólo puedes usar cada efecto de \"Alma Desencadenada de Rabia Abominable\" una vez por turno.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Demonio",
+    "Enlace",
+    "Efecto"
+  ]
+}

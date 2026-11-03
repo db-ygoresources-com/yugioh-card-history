@@ -1,0 +1,15 @@
+{
+  "id": 22735,
+  "type": "monster",
+  "name": "Señor de la Oscuridad",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 2 monstruos Demonio y/o Hada. No puede ser destruida en batalla. Una vez por turno: puedes activar este efecto; Invoca de Modo Especial tantas \"Ficha Señor de la Oscuridad\" (Demonio/OSCURIDAD/Nivel 10/ATK 3000/DEF 1000) como sea posible a tu Campo, pero no pueden atacar directamente o ser destruidas en batalla, y son destruidas cuando esta carta es destruida, y además no puedes Invocar otros monstruos de Modo Especial por el resto de este turno. Si un monstruo es destruido en batalla: inflige 700 puntos de daño a tu adversario.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

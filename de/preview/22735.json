@@ -1,0 +1,15 @@
+{
+  "id": 22735,
+  "type": "monster",
+  "name": "Dunkler Schöpfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 2 Unterweltler- und/oder Fee-Monster als Tribut anbietest. Kann nicht durch Kampf zerstört werden. Einmal pro Spielzug: Du kannst diesen Effekt aktivieren; beschwöre so viele „Dunkler-Schöpfer-Spielmarken“ (Unterweltler/FINSTERNIS/Stufe 10/ATK 3000/DEF 1000) wie möglich als Spezialbeschwörung auf deine Spielfeldseite, aber sie können weder direkt angreifen noch durch Kampf zerstört werden und werden zerstört, wenn diese Karte zerstört wird, zusätzlich kannst du für den Rest dieses Spielzugs keine anderen Monster als Spezialbeschwörung beschwören. Falls ein Monster durch Kampf zerstört wird: Füge deinem Gegner 700 Schaden zu.",
+  "level": 10,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

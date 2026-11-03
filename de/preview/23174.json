@@ -1,0 +1,20 @@
+{
+  "id": 23174,
+  "type": "monster",
+  "name": "Losgekettete Seele der schrecklichen Raserei",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "2+ Monster, darunter ein Unterweltler-Monster\nFalls dein Gegner ein oder mehr Monster offen als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 von ihnen wählen; zerstöre 1 Unterweltler-Monster, das du kontrollierst, und falls du dies tust, annulliere bis zum Ende dieses Spielzugs die Effekte des als Ziel gewählten Monsters. Wenn ein Monstereffekt auf dem Spielfeld aktiviert wird und du ein „Losgekettet“-Linkmonster mit Link-4 oder höher kontrollierst (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; zerstöre das Monster, dessen Effekt aktiviert wurde. Du kannst jeden Effekt von „Losgekettete Seele der schrecklichen Raserei“ nur einmal pro Spielzug verwenden.",
+  "linkRating": 3,
+  "linkArrows": [
+    "4",
+    "6",
+    "2"
+  ],
+  "atk": 2100,
+  "properties": [
+    "Unterweltler",
+    "Link",
+    "Effekt"
+  ]
+}

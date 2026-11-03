@@ -1,0 +1,22 @@
+{
+  "id": 22743,
+  "type": "monster",
+  "name": "Perfectron Idradrive Drago",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "1+ Mostri Link\nMentre è scoperta sul Terreno, questa carta ha anche Attributo LUCE, ACQUA, FUOCO e VENTO, inoltre essa è immune agli effetti attivati dei mostri con lo stesso Attributo. Se questa carta viene Evocata Link, o alla fine del Damage Step se questa carta ha combattuto: distruggi tanti mostri controllati dal tuo avversario quanti possibile, poi infliggi 300 danni al tuo avversario per ogni Mostro Link nel tuo Cimitero. Se questa carta con ATK 1000 o superiore sta per essere distrutta in battaglia o dall'effetto di una carta, puoi invece cambiare il suo ATK in modo che sia di 1000 inferiore al suo ATK attuale.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Cyberso",
+    "Link",
+    "Effetto"
+  ]
+}

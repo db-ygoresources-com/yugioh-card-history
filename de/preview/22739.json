@@ -1,0 +1,15 @@
+{
+  "id": 22739,
+  "type": "monster",
+  "name": "Gatling-Oger",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Du kannst eine beliebige Anzahl verdeckter Karten von deiner Zauber- & Fallenzone auf den Friedhof legen; füge deinem Gegner für jede auf den Friedhof gelegte Karte 800 Schaden zu, zusätzlich erhält dein Gegner für den Rest dieses Spielzugs keinen Effektschaden von Effekten von Nichtunterweltler-Monstern. Du kannst diesen Effekt von „Gatling-Oger“ nur dreimal pro Spielzug verwenden. Einmal pro Spielzug, wenn diese Karte als Ziel für einen Angriff gewählt wird: Du kannst deinem Gegner für jedes Monster in Angriffsposition, das er kontrolliert, 500 Schaden zufügen, dann beende die Battle Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22743,
+  "type": "monster",
+  "name": "Perfektron-Hydralaufwerk-Drache",
+  "englishAttribute": "earth",
+  "localizedAttribute": "ERDE",
+  "effectText": "1+ Linkmonster\nSolange diese Karte offen auf dem Spielfeld liegt, hat sie zusätzlich die Eigenschaften LICHT, WASSER, FEUER und WIND, zusätzlich bleibt sie von aktivierten Effekten von Monstern mit derselben Eigenschaft unberührt. Falls diese Karte als Linkbeschwörung beschworen wird oder am Ende des Damage Steps, falls diese Karte gekämpft hat: Zerstöre so viele Monster, die dein Gegner kontrolliert, wie möglich, dann füge deinem Gegner für jedes Linkmonster in deinem Friedhof 300 Schaden zu. Falls diese Karte mit 1000 oder mehr ATK durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen ihre ATK zu 1000 weniger als seine derzeitigen ATK ändern.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Cyberse",
+    "Link",
+    "Effekt"
+  ]
+}

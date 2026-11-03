@@ -1,0 +1,15 @@
+{
+  "id": 22739,
+  "type": "monster",
+  "name": "Ogro Gatling",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes mandar al Cementerio cualquier número de cartas boca abajo en tu Zona de Magia y Trampas; inflige 800 puntos de daño a tu adversario por cada carta mandada al Cementerio, y además tu adversario no recibe daño de efecto de efectos de monstruos que no sean Demonio por el resto de este turno. Sólo puedes usar este efecto de \"Ogro Gatling\" tres veces por turno. Una vez por turno, cuando esta carta es seleccionada para un ataque: puedes infligir 500 puntos de daño a tu adversario por cada monstruo en Posición de Ataque que controle, y después termina la Battle Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

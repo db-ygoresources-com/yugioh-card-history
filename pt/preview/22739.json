@@ -1,0 +1,15 @@
+{
+  "id": 22739,
+  "type": "monster",
+  "name": "Ogro Metralhadora",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Você pode enviar qualquer número de cards com a face para baixo da sua Zona de Magias & Armadilhas para o Cemitério; cause 800 de dano ao seu oponente para cada card enviado para o Cemitério e, além disso, seu oponente não sofre dano de efeito dos efeitos de monstros não-Demônio pelo resto deste turno. Você só pode usar este efeito de \"Ogro Metralhadora\" três vezes por turno. Uma vez por turno, quando este card for escolhido como alvo de um ataque: você pode causar 500 de dano ao seu oponente para cada monstro em Posição de Ataque que ele controla e, depois, encerre a Fase de Batalha.",
+  "level": 3,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

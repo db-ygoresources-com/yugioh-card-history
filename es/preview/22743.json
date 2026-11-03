@@ -1,0 +1,22 @@
+{
+  "id": 22743,
+  "type": "monster",
+  "name": "Dragón Hidralector Perfectrón",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "1+ Monstruos de Enlace\nMientras esté boca arriba en el Campo, esta carta también tiene los Atributos de LUZ, AGUA, FUEGO y VIENTO, y además no es afectada por los efectos activados de monstruos con el mismo Atributo. Si esta carta es Invocada por Enlace, o al final del Damage Step si esta carta batalló: destruye tantos monstruos que controle tu adversario como sea posible, y después inflige 300 puntos de daño a tu adversario por cada Monstruo de Enlace en tu Cementerio. Si esta carta con 1000 ATK o más fuera a ser destruida en batalla o por el efecto de una carta, puedes cambiar su ATK para que sea 1000 menos que su ATK en este momento en su lugar.",
+  "linkRating": 5,
+  "linkArrows": [
+    "4",
+    "6",
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 5000,
+  "properties": [
+    "Ciberso",
+    "Enlace",
+    "Efecto"
+  ]
+}

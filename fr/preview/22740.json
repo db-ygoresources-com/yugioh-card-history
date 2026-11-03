@@ -1,0 +1,15 @@
+{
+  "id": 22740,
+  "type": "monster",
+  "name": "Tireur d'Élite de la Catastrophe Enfernité",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre Démon depuis votre main. Si vous n'avez aucune carte dans votre main (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; votre adversaire choisit 1 de ces effets pour vous à appliquer.\n●Révélez la carte du dessus de votre Deck, et si c'est un monstre, votre adversaire reçoit les dommages d'effet que vous auriez dû recevoir ce tour à la place. Si ce n'en est pas un, vous recevez 4000 points de dommages.\n●Ce tour, vous ne recevez aucun dommage d'effet.\nVous ne pouvez utiliser chaque effet de \"Tireur d'Élite de la Catastrophe Enfernité\" qu'une fois par tour.",
+  "level": 1,
+  "atk": 100,
+  "def": 100,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}
