@@ -1,0 +1,20 @@
+{
+  "id": 23370,
+  "type": "monster",
+  "name": "Mediclius the Extraordinary Power Patron",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "2+ monsters, including a Fusion, Synchro, Xyz, or Link Monster\nGains these effects based on the number of monsters it points to.\n●1+: Once per turn, during your Main Phase: You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK become halved.\n●2+: Unaffected by your opponent's activated effects.\n●3: Once per opponent's turn (Quick Effect): You can banish this card, also all cards your opponent controls.",
+  "linkRating": 3,
+  "linkArrows": [
+    "1",
+    "2",
+    "3"
+  ],
+  "atk": 3000,
+  "properties": [
+    "Fairy",
+    "Link",
+    "Effect"
+  ]
+}

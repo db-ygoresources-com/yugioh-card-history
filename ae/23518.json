@@ -1,0 +1,19 @@
+{
+  "id": 23518,
+  "type": "monster",
+  "name": "Archidux, the Squid Sorcerer",
+  "englishAttribute": "water",
+  "localizedAttribute": "WATER",
+  "effectText": "2 WATER monsters\nYou can send 1 card you control to the GY; all WATER monsters you control gain 500 ATK/DEF this turn. If a WATER Link Monster(s) you control is destroyed by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 of those destroyed monsters; Special Summon 1 WATER monster from your hand or GY, with a Level less than or equal to that monster's Link Rating. You can only use each effect of \"Archidux, the Squid Sorcerer\" once per turn.",
+  "linkRating": 2,
+  "linkArrows": [
+    "6",
+    "2"
+  ],
+  "atk": 1500,
+  "properties": [
+    "Aqua",
+    "Link",
+    "Effect"
+  ]
+}

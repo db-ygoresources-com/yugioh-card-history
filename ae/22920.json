@@ -1,0 +1,18 @@
+{
+  "id": 22920,
+  "type": "monster",
+  "name": "Clown Crew Cappello",
+  "englishAttribute": "light",
+  "localizedAttribute": "LIGHT",
+  "effectText": "Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each effect of \"Clown Crew Cappello\" once per turn);\n●Shuffle all Pendulum Monsters from the face-up Extra Decks and the field into the Deck.\n●Special Summon 1 non-Pendulum \"Clown Crew\" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",
+  "pendEffect": "During your Main Phase: You can send 1 non-Pendulum \"Clown Crew\" card from your Deck to the GY, and if you do, Special Summon this card, also until the end of the next turn after this effect resolves, you cannot activate the effect of monsters Special Summoned from the Deck or Extra Deck. You can only use this effect of \"Clown Crew Cappello\" once per turn.",
+  "pendScale": 7,
+  "level": 5,
+  "atk": 1900,
+  "def": 800,
+  "properties": [
+    "Beast-Warrior",
+    "Pendulum",
+    "Effect"
+  ]
+}
