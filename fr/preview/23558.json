@@ -1,0 +1,15 @@
+{
+  "id": 23558,
+  "type": "monster",
+  "name": "Ravages de la Faille du Triroyaume",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) 5 cartes du dessus de votre Deck. Vous pouvez révéler cette carte dans votre main ; bannissez (face verso) cette carte, et si vous le faites, ajoutez 1 de vos cartes \"Faille du Triroyaume\" bannies face verso (monstres de Niveau 5 exclus) à votre main. Vous ne pouvez utiliser cet effet de \"Ravages de la Faille du Triroyaume\" qu'une fois par tour. Une fois par tour, lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez mélanger 1 de vos monstres \"Faille du Triroyaume\" bannis face verso du même Attribut que le monstre dans le Deck, et si vous le faites, annulez l'activation.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

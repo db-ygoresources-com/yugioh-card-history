@@ -1,0 +1,16 @@
+{
+  "id": 23536,
+  "type": "monster",
+  "name": "Nekhbet Zénet-Môsis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Zénet\". Non destructible au combat, tant qu'elle est équipée avec une Carte d'Équipement. Vous ne pouvez utiliser chacun des effets suivants de \"Nekhbet Zénet-Môsis\" qu'une fois par tour. Vous pouvez défausser cette carte ; ajoutez 1 carte \"Zénet\" (\"Nekhbet Zénet-Môsis\" exclu) depuis votre Cimetière à votre main. (Effet Rapide) : vous pouvez Invoquer Spécialement 1 Carte Monstre Normal face recto depuis votre Zone Magie & Piège, et si vous le faites, équipez-lui cette carte que vous contrôlez comme Magie d'Équipement qui lui donne 2500 ATK.",
+  "level": 6,
+  "atk": 2800,
+  "def": 1500,
+  "properties": [
+    "Zombie",
+    "Rituel",
+    "Effet"
+  ]
+}

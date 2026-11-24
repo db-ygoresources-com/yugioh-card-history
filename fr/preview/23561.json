@@ -1,0 +1,15 @@
+{
+  "id": 23561,
+  "type": "monster",
+  "name": "Ténèbres de la Faille du Triroyaume",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) 8 cartes du dessus de votre Deck. Gagne des effets selon le nombre de cartes bannies face verso.\n●10+ : Non destructible au combat.\n●20+ : Une fois par tour (Effet Rapide) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.\n●30+ : Une fois par tour, durant la End Phase de votre adversaire : vous pouvez ajouter 1 de vos cartes bannies face verso à votre main.\n●40+ : Sautez la Draw Phase.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Psychique",
+    "Effet"
+  ]
+}

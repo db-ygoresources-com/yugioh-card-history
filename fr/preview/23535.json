@@ -1,0 +1,16 @@
+{
+  "id": 23535,
+  "type": "monster",
+  "name": "Adjat Tau-Zénet",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Zénet\". Non destructible par des effets de carte, tant qu'elle est équipée avec une Carte d'Équipement. Vous ne pouvez utiliser chacun des effets suivants de \"Adjat Tau-Zénet\" qu'une fois par tour. Vous pouvez défausser cette carte ; envoyez 1 carte \"Zénet\" (\"Adjat Tau-Zénet\" exclu) depuis votre Deck au Cimetière. (Effet Rapide) : vous pouvez envoyer max. 3 Cartes Monstre Normal face recto que vous contrôlez au Cimetière, puis ciblez autant de cartes contrôlées par votre adversaire ; renvoyez-les à la main, puis vous pouvez Invoquer Spécialement 1 Monstre Normal depuis votre Cimetière.",
+  "level": 8,
+  "atk": 3200,
+  "def": 2500,
+  "properties": [
+    "Zombie",
+    "Rituel",
+    "Effet"
+  ]
+}

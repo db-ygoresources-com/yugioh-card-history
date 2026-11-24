@@ -1,0 +1,16 @@
+{
+  "id": 23534,
+  "type": "monster",
+  "name": "Esfinge Zenet-Nakhte",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Zenet\". No es afectada por los efectos activados de tu adversario, mientras esté equipada con una Carta de Equipo. Sólo puedes usar cada uno de los siguientes efectos de \"Esfinge Zenet-Nakhte\" una vez por turno. Puedes descartar esta carta; añade a tu mano 1 carta \"Zenet\" en tu Deck, excepto \"Esfinge Zenet-Nakhte\". (Efecto Rápido): puedes mandar al Cementerio 1 Carta de Monstruo Normal boca arriba que controles; cambia a Posición de Defensa boca abajo tantos monstruos que controle tu adversario como sea posible, y después puedes Invocar de Modo Especial, desde tu Cementerio, 1 Monstruo Normal.",
+  "level": 12,
+  "atk": 5000,
+  "def": 2500,
+  "properties": [
+    "Zombi",
+    "Ritual",
+    "Efecto"
+  ]
+}

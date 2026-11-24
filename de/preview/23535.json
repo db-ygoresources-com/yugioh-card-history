@@ -1,0 +1,16 @@
+{
+  "id": 23535,
+  "type": "monster",
+  "name": "Tau-Zenet Adjat",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit einer „Zenet“-Karte als Ritualbeschwörung beschwören. Diese Karte kann nicht durch Karteneffekte zerstört werden, solange sie mit einer Ausrüstungskarte ausgerüstet ist. Du kannst jeden der folgenden Effekte von „Tau-Zenet Adjat“ nur einmal pro Spielzug verwenden. Du kannst diese Karte abwerfen; lege 1 „Zenet“-Karte von deinem Deck auf den Friedhof, außer „Tau-Zenet Adjat“. (Schnelleffekt): Du kannst bis zu 3 offene Normale Monsterkarten, die du kontrollierst, auf den Friedhof legen und dann ebenso viele Karten wählen, die dein Gegner kontrolliert; gib sie auf die Hand zurück, dann kannst du 1 Normales Monster als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 8,
+  "atk": 3200,
+  "def": 2500,
+  "properties": [
+    "Zombie",
+    "Ritual",
+    "Effekt"
+  ]
+}

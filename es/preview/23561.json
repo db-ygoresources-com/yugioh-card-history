@@ -1,0 +1,15 @@
+{
+  "id": 23561,
+  "type": "monster",
+  "name": "Oscuridad del Trirreino del Desgarro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: destierra (boca abajo) 8 cartas de la parte superior de tu Deck. Gana efectos basados en el número de cartas desterradas boca abajo.\n●10+: No puede ser destruida en batalla.\n●20+: Una vez por turno (Efecto Rápido): puedes seleccionar 1 carta en el Campo; destrúyela.\n●30+: Una vez por turno, durante la End Phase de tu adversario: puedes añadir a tu mano 1 de tus cartas desterradas boca abajo.\n●40+: Sáltate la Draw Phase.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

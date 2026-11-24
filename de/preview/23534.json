@@ -1,0 +1,16 @@
+{
+  "id": 23534,
+  "type": "monster",
+  "name": "Zenet-Nacht Sphinx",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Du kannst diese Karte mit einer „Zenet“-Karte als Ritualbeschwörung beschwören. Diese Karte bleibt von aktivierten Effekten deines Gegners unberührt, solange sie mit einer Ausrüstungskarte ausgerüstet ist. Du kannst jeden der folgenden Effekte von „Zenet-Nacht Sphinx“ nur einmal pro Spielzug verwenden. Du kannst diese Karte abwerfen; füge deiner Hand 1 „Zenet“-Karte von deinem Deck hinzu, außer „Zenet-Nacht Sphinx“. (Schnelleffekt): Du kannst 1 offene Normale Monsterkarte, die du kontrollierst, auf den Friedhof legen; ändere so viele Monster, die dein Gegner kontrolliert, wie möglich in die verdeckte Verteidigungsposition, dann kannst du 1 Normales Monster als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "level": 12,
+  "atk": 5000,
+  "def": 2500,
+  "properties": [
+    "Zombie",
+    "Ritual",
+    "Effekt"
+  ]
+}

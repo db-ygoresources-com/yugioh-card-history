@@ -1,0 +1,15 @@
+{
+  "id": 23561,
+  "type": "monster",
+  "name": "Dreireich-Riss Darkness",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Verbanne die obersten 8 Karten deines Decks (verdeckt). Erhält Effekte, basierend auf der Anzahl der verdeckt verbannten Karten.\n●10+: Kann nicht durch Kampf zerstört werden.\n●20+: Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie.\n●30+: Einmal pro Spielzug, während der End Phase deines Gegners: Du kannst deiner Hand 1 deiner verdeckt verbannten Karten hinzufügen.\n●40+: Überspringe die Draw Phase.",
+  "level": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Psi",
+    "Effekt"
+  ]
+}

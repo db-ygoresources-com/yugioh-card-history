@@ -1,0 +1,16 @@
+{
+  "id": 23534,
+  "type": "monster",
+  "name": "Sphinx Zénet-Nakht",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Zénet\". Non affectée par les effets activés de votre adversaire, tant qu'elle est équipée avec une Carte d'Équipement. Vous ne pouvez utiliser chacun des effets suivants de \"Sphinx Zénet-Nakht\" qu'une fois par tour. Vous pouvez défausser cette carte ; ajoutez 1 carte \"Zénet\" (\"Sphinx Zénet-Nakht\" exclu) depuis votre Deck à votre main. (Effet Rapide) : vous pouvez envoyer 1 Carte Monstre Normal face recto que vous contrôlez au Cimetière ; changez autant de monstres contrôlés par votre adversaire que possible en Position de Défense face verso, puis vous pouvez Invoquer Spécialement 1 Monstre Normal depuis votre Cimetière.",
+  "level": 12,
+  "atk": 5000,
+  "def": 2500,
+  "properties": [
+    "Zombie",
+    "Rituel",
+    "Effet"
+  ]
+}

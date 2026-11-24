@@ -1,0 +1,15 @@
+{
+  "id": 23558,
+  "type": "monster",
+  "name": "Estragos del Trirreino del Desgarro",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es Invocada de Modo Normal o Especial: destierra (boca abajo) 5 cartas de la parte superior de tu Deck. Puedes mostrar esta carta en tu mano; destierra esta carta (boca abajo) y, si lo haces, añade a tu mano 1 de tus cartas \"Trirreino del Desgarro\" desterradas boca abajo, excepto un monstruo de Nivel 5. Sólo puedes usar este efecto de \"Estragos del Trirreino del Desgarro\" una vez por turno. Una vez por turno, cuando tu adversario active un efecto de monstruo (Efecto Rápido): puedes barajar al Deck 1 de tus monstruos \"Trirreino del Desgarro\" desterrados boca abajo con el mismo Atributo que ese monstruo y, si lo haces, niega esa activación.",
+  "level": 5,
+  "atk": 1000,
+  "def": 2500,
+  "properties": [
+    "Psíquico",
+    "Efecto"
+  ]
+}

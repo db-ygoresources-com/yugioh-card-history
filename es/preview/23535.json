@@ -1,0 +1,16 @@
+{
+  "id": 23535,
+  "type": "monster",
+  "name": "Tau-Zenet Adjat",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con una carta \"Zenet\". No puede ser destruida por efectos de cartas, mientras esté equipada con una Carta de Equipo. Sólo puedes usar cada uno de los siguientes efectos de \"Tau-Zenet Adjat\" una vez por turno. Puedes descartar esta carta; manda al Cementerio 1 carta \"Zenet\" en tu Deck, excepto \"Tau-Zenet Adjat\". (Efecto Rápido): puedes mandar al Cementerio hasta 3 Cartas de Monstruo Normal boca arriba que controles, y después seleccionar ese mismo número de cartas que controle tu adversario; devuélvelas a la mano, y después puedes Invocar de Modo Especial, desde tu Cementerio, 1 Monstruo Normal.",
+  "level": 8,
+  "atk": 3200,
+  "def": 2500,
+  "properties": [
+    "Zombi",
+    "Ritual",
+    "Efecto"
+  ]
+}
